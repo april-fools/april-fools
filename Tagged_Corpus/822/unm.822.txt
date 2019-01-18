@@ -12,6 +12,7 @@ free-to-air              JJ      Z99
 Honors                   NN2     Z99 
 IVI                      NN2     Z99 
 Kino                     NN1     Z99 
+Linda'                   NP1     Z99 
 Mediaset                 VV0     Z99 
 MipTV                    NP1     Z99 
 Mirren                   NP1     Z99 
@@ -27,4 +28,5 @@ Tennison                 NP1     Z99
 top-rated                JJ      Z99 
 TV2                      FO      Z99 
 TV4                      FO      Z99 
+Victoria'                NP1     Z99 
 VOD                      NP1     Z99 

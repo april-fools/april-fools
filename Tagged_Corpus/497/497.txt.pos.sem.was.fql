@@ -1,4 +1,4 @@
-TOTAL              573
+TOTAL              584
 the                  Z5                  51 
 of                   Z5                  26 
 to                   Z5                  14 
@@ -10,6 +10,7 @@ that                 Z5                   8
 scientists           Y1                   7 
 particle             O2                   7 
 this                 M6                   7 
+'s                   Z5                   6 
 by                   Z5                   6 
 in                   Z5                   6 
 pyramids             H1                   6 
@@ -18,15 +19,18 @@ Mars                 Z3                   5
 was                  A3+                  5 
 for                  Z5                   4 
 with                 Z5                   4 
+CERN                 Z99                  4 
 revealed             A10+                 4 
 ancient              T3++                 4 
 which                Z8                   4 
 as                   Z5                   4 
 might                A7+                  4 
+we                   Z8                   4 
 water                O1.2                 3 
 has                  Z5                   3 
-CERN                 Z99                  3 
+NASA                 Z1                   3 
 new                  T3-                  3 
+probe                O2                   3 
 an                   Z5                   3 
 team                 S5+                  3 
 previously           N4                   3 
@@ -38,13 +42,13 @@ is                   A3+                  3
 used                 A1.5.1               3 
 would                A7+                  3 
 powerful             S7.1+                3 
+it                   Z8                   3 
 egyptian             Z2                   3 
 believe              X2.1                 3 
 served               S8+                  3 
 also                 N5++                 3 
 said                 Q2.1                 3 
 that                 Z8                   3 
-we                   Z8                   3 
 even                 A13.1                2 
 planet               W1                   2 
 been                 A3+                  2 
@@ -53,8 +57,7 @@ major                A11.1+               2
 discovery            A10+                 2 
 images               O4.1                 2 
 surface              M6                   2 
-NASAs                Z1                   2 
-probe                O2                   2 
+archaeology          Y1                   2 
 presence             M6                   2 
 largest              N3.2+++              2 
 Olympus_Mons         Z1                   2 
@@ -68,7 +71,6 @@ those                Z8                   2
 large                N3.2+                2 
 LHC                  Z99                  2 
 around               A13.4                2 
-it                   Z8                   2 
 is                   Z5                   2 
 particles            O2                   2 
 such_a               A13.3                2 
@@ -90,10 +92,9 @@ highly               A13.3                2
 advanced             T3-                  2 
 civilisation         S1.1.1               2 
 was                  Z5                   2 
-its                  Z8                   2 
 lava                 W3                   2 
 flows                M4                   2 
-Eilert_ONeil         Z1                   2 
+Eilert_O'Neil        Z1                   2 
 search               X2.4                 1 
 or                   Z5                   1 
 signs                Q1.1                 1 
@@ -101,9 +102,8 @@ life                 L1+                  1
 ongoing              T2++                 1 
 for_some_time        T1.3+                1 
 but                  Z5                   1 
-todays               T1.1.2               1 
+today                T1.1.2               1 
 announcement         Q2.2                 1 
-NASA                 Z1                   1 
 red                  O4.3                 1 
 taken                A9+                  1 
 reconnaissance       G3                   1 
@@ -114,7 +114,6 @@ experts              X2.2+                1
 from                 Z5                   1 
 fields               F4                   1 
 geology              Y1                   1 
-archaeology          Y1                   1 
 physics              Y1                   1 
 ever                 T1.1                 1 
 built                H1                   1 
@@ -128,10 +127,10 @@ landslide            X9.2++               1
 stretching           N3.6                 1 
 over                 T2-                  1 
 spotted              O4.3                 1 
-probes               O2                   1 
 high-resolution      Z99                  1 
 camera               C1                   1 
 sparked              O4.6+                1 
+'                    Z5                   1 
 attention            X5.1+                1 
 apparently           A8                   1 
 event                A3+                  1 
@@ -170,7 +169,6 @@ dominguez/           Z99                  1
 help                 S8+                  1 
 explain              Q2.2                 1 
 one                  N1                   1 
-archaeologys         Y1                   1 
 oldest               T3+++                1 
 mysteries            X2.2-                1 
 heavily              A13.3                1 
@@ -190,7 +188,7 @@ controlled           S7.1+                1
 remotely             A13.2                1 
 control_room         Q1.3                 1 
 under                Z5                   1 
-CERNs_head           Z2                   1 
+head                 B1                   1 
 technical            Y1                   1 
 design               C1                   1 
 veritable            A5.2+                1 
@@ -214,9 +212,11 @@ through              Z5                   1
 spacetime            Z99                  1 
 Fadela_Emmerich      Z1                   1 
 leader               S7.1+                1 
+'s                   A3+                  1 
 phenomenon           A3                   1 
 completely           A13.2                1 
-cant                 Q2.1                 1 
+ca                   A7+                  1 
+n't                  Z6                   1 
 wait                 T1.3                 1 
 study                P1                   1 
 technology           Y1                   1 
@@ -231,6 +231,7 @@ now                  T1.1.2               1
 considered           X2.1                 1 
 biggest              N3.2+++              1 
 volcano              W3                   1 
+its                  Z8                   1 
 most                 A13.2                1 
 estimated            X6                   1 
 about                A13.4                1 
@@ -273,7 +274,7 @@ assume               X2.1                 1
 at_the_time          T1.1.1               1 
 cool                 O4.6-                1 
 machines             O2                   1 
-were                 Z5                   1 
+'re                  Z5                   1 
 talking              Q2.1                 1 
 about                Z5                   1 
 forgotten            X2.2-                1 

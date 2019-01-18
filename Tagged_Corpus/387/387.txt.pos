@@ -178,9 +178,10 @@
 0000012 090 has                                         93 VHZ
 0000012 100 to                                          97 TO
 0000012 110 be                                          93 VBI
-0000012 120 Disneys                                     04 NP2
-0000012 130 least                                       03 [RGT/77] DAT/15 RRT/8
-0000012 140 favorite                                    93 [JJ/99] NN1/1
+0000012 120 Disney                    >                 93 NP1
+0000012 121 's                        <                 98 GE
+0000012 130 least                                       03 [RGT/99] RRT/1 DAT/0
+0000012 140 favorite                                    93 [JJ/100] NN1/0
 0000012 150 Fireworks                                   04 NN2
 0000012 160 Presentation                                93 NN1
 0000012 170 according                                   97 II21

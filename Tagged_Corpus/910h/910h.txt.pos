@@ -11,7 +11,8 @@
 0000002 090 Technology                                  93 NN1
 0000002 091 ,                                           03 ,
 0000002 100 Axis                                        93 NN1
-0000002 110 Communications                              93 NN2
+0000002 110 Communications            >                 58 NN2
+0000002 111 '                         <                 97 GE
 0000002 120 Technology                                  93 NN1
 0000002 130 Integration                                 93 NN1
 0000002 140 Partner                                     93 [NN1/100] VV0@/0

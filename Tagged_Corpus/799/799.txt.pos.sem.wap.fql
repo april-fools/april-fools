@@ -1,4 +1,4 @@
-TOTAL             1223
+TOTAL             1239
 the                  AT             61 
 and                  CC             45 
 of                   IO             37 
@@ -6,29 +6,31 @@ a                    AT1            27
 to                   TO             21 
 that                 CST            18 
 on                   II             17 
+Hibbing              NP1            15 
 in                   II             14 
-is                   VBZ            13 
-you                  PPY            13 
-it                   PPH1           12 
+is                   VBZ            14 
+you                  PPY            14 
+it                   PPH1           14 
 to                   II             11 
-Hibbing              NP1            11 
 conservatives        NN2            10 
+was                  VBDZ            9 
 or                   CC              9 
 political            JJ              9 
 we                   PPIS2           9 
 with                 IW              9 
-was                  VBDZ            8 
+that                 DD1             8 
 your                 APPGE           8 
 are                  VBR             8 
 their                APPGE           8 
 they                 PPHS2           7 
 were                 VBDR            7 
-that                 DD1             7 
+'s                   GE              7 
 more                 RGR             7 
 for                  IF              7 
 us                   PPIO2           7 
 one                  MC1             6 
 his                  APPGE           6 
+Jefferson            NP1             6 
 have                 VH0             6 
 liberals             NN2             6 
 then                 RT              6 
@@ -39,13 +41,14 @@ threatening          VVG             6
 study                NN1             6 
 aversive             JJ              6 
 how                  RRQ             6 
-Jefferson            NP1             5 
 an                   AT1             5 
 politics             NN1             5 
 which                DDQ             5 
 he                   PPHS1           5 
 what                 DDQ             5 
+'s                   VBZ             5 
 world                NN1             5 
+n't                  XX              5 
 very                 RG              5 
 this                 DD1             5 
 be                   VBI             5 
@@ -73,7 +76,6 @@ through              II              3
 as                   CSA             3 
 different            JJ              3 
 pretty               RG              3 
-nt                   XX              3 
 devices              NN2             3 
 at                   II              3 
 but                  CCB             3 
@@ -83,12 +85,12 @@ ideology             NN1             3
 than                 CSN             3 
 stronger             JJR             3 
 shown                VVN             3 
-Hibbings             NP1             3 
 colleagues           NN2             3 
 like                 II              3 
 one                  PN1             3 
 long                 RR              3 
 them                 PPHO2           3 
+here                 RL              3 
 actually             RR              3 
 those                DD2             3 
 may                  VM              3 
@@ -110,6 +112,7 @@ has_to_do_with       VHZ             2
 as                   RG              2 
 much                 DA1             2 
 psychology           NN1             2 
+there                EX              2 
 skin                 NN1             2 
 these                DD2             2 
 biology              NN1             2 
@@ -147,12 +150,11 @@ just                 RR              2
 hibbing              VVG             2 
 used                 VVN             2 
 see                  VVI             2 
-here                 RL              2 
 focus                VVI             2 
 much                 RR              2 
 experience           VVI             2 
+'ve                  VH0             2 
 debate               NN1             2 
-its                  APPGE           2 
 emotion              NN1             2 
 found                VVN             2 
 conservatism         NN1             2 
@@ -206,7 +208,6 @@ temper               NN1             1
 constitution         NN1             1 
 mind                 NN1             1 
 individuals          NN2             1 
-Jeffersons           NP2             1 
 day                  NNT1            1 
 saying               VVG             1 
 whether              CSW             1 
@@ -217,7 +218,6 @@ disposition          NN1             1
 ideas                NN2             1 
 at_the_same_time     II              1 
 suggesting           VVG             1 
-theres               NN2             1 
 fundamental          JJ              1 
 such_that            CS21            1 
 factions             NN2             1 
@@ -226,7 +226,7 @@ appear               VVI             1
 again_and_again      RT              1 
 for                  CS              1 
 access               NN1             1 
-todays               NN2             1 
+today                RT              1 
 scientific           JJ              1 
 machineryeye         NN1             1 
 tracker              NN1             1 
@@ -275,8 +275,7 @@ system               NN1             1
 tend                 VV0             1 
 respond              VVI             1 
 fringe               NN1             1 
-hibbings             NN2             1 
-pioneering           VVG             1 
+pioneering           JJ              1 
 papers               NN2             1 
 published            VVN             1 
 none                 PN21            1 
@@ -315,7 +314,7 @@ glands               NN2             1
 arousal              NN1             1 
 nervous_system       JJ              1 
 manages              VVZ             1 
-bodys                NN2             1 
+body                 NN1             1 
 response             NN1             1 
 all                  DB              1 
 adds_up              VVZ             1 
@@ -353,7 +352,6 @@ subjects             NN2             1
 fixed                VVN             1 
 took                 VVD             1 
 do                   VDI             1 
-heres                NN2             1 
 disgust-evoking      JJ              1 
 happens_to           VVZ             1 
 feature              VVI             1 
@@ -362,7 +360,6 @@ worms                NN2             1
 quite                RG              1 
 tasty                JJ              1 
 picture              NN1             1 
-wasnt                NN1             1 
 similar              JJ              1 
 collage              NN1             1 
 adorable             JJ              1 
@@ -384,8 +381,7 @@ concluded            VVN             1
 based_on             VVN             1 
 left                 NN1             1 
 simply               RR              1 
-youve                NN1             1 
-had                  VHD             1 
+had                  VHN             1 
 experience           NN1             1 
 watching             VVG             1 
 somebody             PN1             1 
@@ -396,12 +392,10 @@ like                 JJ              1
 watch                VVI             1 
 in_some_respects     II              1 
 i                    PPIS1           1 
-thats                NN2             1 
 biggest              JJT             1 
 differences          NN2             1 
 clearly              RR              1 
 involves             VVZ             1 
-isnt                 VV0             1 
 only_one             JJ              1 
 relationship         NN1             1 
 between              II              1 
@@ -515,7 +509,7 @@ kid                  NN1             1
 nowadays             RT              1 
 continues            VVZ             1 
 never                RR              1 
-happenweve           VVI             1 
+happenwe             VVI             1 
 grown                VVN             1 
 because              CS              1 
 recognize            VV0             1 
@@ -529,7 +523,6 @@ get                  VVI             1
 in_the_same_light    II              1 
 left-handedness      JJ              1 
 a_little_bit         RR31            1 
-there                EX              1 
 will                 VM              1 
 opportunity          NN1             1 
 compromise           NN1             1 

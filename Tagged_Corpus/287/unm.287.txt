@@ -12,8 +12,5 @@ Re-Entry                 NN1     Z99
 SimpliSafe               NN1     Z99 
 SimpliSafe               NP1     Z99 
 SimpliSafe               NP1@    Z99 
-SimpliSafes              NP2     Z99 
 systemswire              NN1     Z99 
-weve                     NN1     Z99 
 wire-cutters             NN2     Z99 
-wouldnt                  NN1     Z99 

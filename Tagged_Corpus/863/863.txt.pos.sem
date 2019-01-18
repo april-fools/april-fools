@@ -24,7 +24,8 @@
 0000002 220  NP1     Japan                    Z2[i3.3.3 Z2 Z2[i4.3.3 
 0000002 221  .       .                        
 0000002 222  -----   -----                    
-0000002 230  NN1     Theyre                   Z99 
+0000002 230  PPHS2   They                     Z8mfn 
+0000002 231  VBR     're                      A3+ Z5 
 0000002 240  DB      all                      N5.1+ 
 0000002 250  JJ      available                A3+ A9+ A1.2+/G1.2 S4 
 0000002 260  II      to                       Z5 
@@ -100,6 +101,7 @@
 0000006 380  IW      with                     Z5 
 0000006 390  AT      the                      Z5 
 0000006 400  NN2     rods                     O2 
+0000006 401  GE      '                        Z5 
 0000006 410  JJ      outer                    M6 
 0000006 420  NN1     sheath                   O2 B3 
 0000006 430  IO      of                       Z5 

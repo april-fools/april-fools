@@ -1,24 +1,25 @@
-TOTAL              268
+TOTAL              271
 the                  AT             15 
 and                  CC              8 
 will                 VM              7 
 Pepsi                NP1             7 
 at                   II              5 
 of                   IO              5 
+Disney               NP1             5 
 to                   TO              5 
 theme_parks          NN1             4 
 we                   PPIS2           4 
-Disney               NP1             4 
 be                   VBI             4 
 all                  DB              4 
 is                   VBZ             3 
+Disneyland           NP1             3 
+'s                   GE              3 
 with                 IW              3 
 here                 RL              3 
 from                 II              3 
 to                   II              3 
 you                  PPY             3 
 a                    AT1             2 
-Disneyland           NP1             2 
 it                   PPH1            2 
 been                 VBN             2 
 today                RT              2 
@@ -34,6 +35,7 @@ club                 NN1             2
 world                NN1             2 
 coke                 NN1             2 
 mountain             NN1             2 
+dew                  NN1             2 
 refreshment          NN1             2 
 corner               NN1             2 
 game                 NN1             2 
@@ -48,9 +50,8 @@ supplier             NN1             1
 Disney_world         NP1             1 
 has                  VHZ             1 
 present              JJ              1 
-since                II              1 
-Disneylands          NP2             1 
-opening              VVG             1 
+since                CS              1 
+opening              NN1             1 
 day                  NNT1            1 
 July_17              NPM1            1 
 1955                 MC              1 
@@ -105,12 +106,10 @@ Walt_Disney          NP1             1
 changing             VVG             1 
 flavors              VVZ             1 
 around               II              1 
-dews                 NN2             1 
 have                 VHI             1 
 opportunity          NN1             1 
 try                  VVI             1 
 flavors              NN2             1 
-dew                  NN1             1 
 including            II              1 
 code                 VV0             1 
 red                  JJ              1 
@@ -137,7 +136,6 @@ patio                NN1             1
 listen               VV0             1 
 tinkling             JJ              1 
 ivories              NN2             1 
-Disneys              NP2             1 
 ragtime              NNT1            1 
 piano                NN1             1 
 player               NN1             1 

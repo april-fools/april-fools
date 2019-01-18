@@ -1,13 +1,14 @@
-TOTAL              346
+TOTAL              352
 the                  AT             12 
 and                  CC             10 
 of                   IO              8 
+Clinton              NP1             7 
 response             NN1             6 
 a                    AT1             6 
 nuclear              JJ              6 
 intelligence         NN1             6 
 is                   VBZ             6 
-Clinton              NP1             5 
+'s                   GE              5 
 U.S.                 NP1             5 
 sources              NN2             5 
 time                 NNT1            5 
@@ -18,17 +19,18 @@ by                   II              4
 that                 CST             4 
 said                 VVD             4 
 officials            NN2             3 
+it                   PPH1            3 
 according_to         II21            3 
 top_secret           JJ              3 
 be                   VBI             3 
 security             NN1             3 
 an                   AT1             3 
 did                  VDD             3 
+Wednesday            NPD1            2 
 debate               NN1             2 
 Pentagon             NP1             2 
 why                  RRQ             2 
 would                VM              2 
-it                   PPH1            2 
 special              JJ              2 
 access               NN1             2 
 program              NN1             2 
@@ -49,7 +51,6 @@ commander-in-chief   NN1             2
 to                   II              2 
 been                 VBN             2 
 prior_to             II21            2 
-Clintons             NP2             2 
 admission            NN1             2 
 source               NN1             2 
 what                 DDQ             2 
@@ -60,7 +61,6 @@ launch               VV0             2
 ero                  NN1             2 
 in                   II              2 
 following            II              1 
-Wednesdays           NPD2            1 
 presidential         JJ              1 
 found                VVD             1 
 themselves           PPX2            1 
@@ -86,7 +86,7 @@ dept.                NN1             1
 announcing           VVG             1 
 live                 JJ              1 
 United_States        NP1             1 
-governments          NN2             1 
+government           NN1             1 
 launch.to            NNU             1 
 dismay               NN1             1 
 fact                 NN1             1 
@@ -119,7 +119,6 @@ there                EX              1
 have                 VH0             1 
 no_such              AT              1 
 breaches             NN2             1 
-Wednesday            NPD1            1 
 via                  II              1 
 TruePundit_Secretary_Clinton NP1             1 
 proved               VVD             1 
@@ -148,7 +147,7 @@ highly               RR              1
 classified           VVN             1 
 specific             JJ              1 
 details              NN2             1 
-countrys             NN2             1 
+country              NN1             1 
 discussed            VVN             1 
 only                 RR              1 
 handful              NN1             1 
@@ -175,7 +174,7 @@ tenets               NN2             1
 war                  NN1             1 
 policy               NN1             1 
 pentagon             NN1             1 
-its                  APPGE           1 
+'s                   VBZ             1 
 truly                RR              1 
 incredible           JJ              1 
 as                   II              1 

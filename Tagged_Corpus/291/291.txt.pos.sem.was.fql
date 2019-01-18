@@ -1,4 +1,4 @@
-TOTAL              442
+TOTAL              450
 the                  Z5                  27 
 of                   Z5                  22 
 and                  Z5                  18 
@@ -11,17 +11,21 @@ incubator            S8+                  7
 a                    Z5                   7 
 for                  Z5                   6 
 Graham               Z1                   5 
-its                  Z8                   5 
 McClure              Z99                  4 
 y                    Z5                   4 
+it                   Z8                   3 
 which                Z8                   3 
 will                 T1.1.3               3 
 founders             T2+                  3 
 mentors              P1                   3 
+its                  Z8                   3 
 is                   A3+                  3 
+i                    Z8                   3 
 combinator           Z99                  3 
 new                  T3-                  3 
 500                  N1                   3 
+they                 Z8                   3 
+'s                   A3+                  3 
 not                  Z6                   3 
 investors            I1.1                 2 
 first-ever           N4                   2 
@@ -38,13 +42,12 @@ stake                I1                   2
 real                 A3+                  2 
 mentoring            Q2.2                 2 
 by                   Z5                   2 
-i                    Z8                   2 
 had                  A9+                  2 
 however              Z4                   2 
 on                   Z5                   2 
+organization         S5+                  2 
 both                 N5                   2 
 because              Z5                   2 
-theyre               Z99                  2 
 five                 N1                   2 
 education            P1                   2 
 are                  A3+                  2 
@@ -52,6 +55,7 @@ this                 M6                   2
 whether              Z5                   2 
 bubble               O2                   2 
 at                   Z5                   2 
+we                   Z8                   2 
 more                 N5++                 2 
 be                   Z5                   2 
 angel                S9                   1 
@@ -69,7 +73,6 @@ training             P1                   1
 next                 N4                   1 
 wave                 W3                   1 
 think                X2.1                 1 
-it                   Z8                   1 
 silicon              O1.1                 1 
 valley               W3                   1 
 session              T1.3                 1 
@@ -128,7 +131,7 @@ started              T2+                  1
 my                   Z8                   1 
 2005                 N1                   1 
 few                  N5-                  1 
-ive                  Z99                  1 
+'ve                  Z5                   1 
 written              Q1.2                 1 
 about                Z5                   1 
 in_the_past          T1.1.1               1 
@@ -149,19 +152,19 @@ fun                  E4.1+                1
 cities               M7                   1 
 planet               W1                   1 
 blows_my_mind        O4.2+                1 
-organizations        S5+                  1 
+'s                   Z5                   1 
 name                 Q2.2                 1 
 homage               S7.2+                1 
 Y_Combinator         Z1                   1 
 since                Z5                   1 
 25th                 N4                   1 
 letter               Q1.2                 1 
+'re                  A3+                  1 
 multiples            N2                   1 
 co-founder           T2+                  1 
 founder              T2+                  1 
 joined               A2.2                 1 
 forces               G3                   1 
-they                 Z8                   1 
 saw                  X3.4                 1 
 lack                 A9-                  1 
 business             I2.1                 1 
@@ -187,7 +190,8 @@ possibly             A7+                  1
 have                 A9+                  1 
 any                  N5.1+                1 
 idea                 X4.1                 1 
-what                 Z5                   1 
+what                 Z8                   1 
+'re                  Z5                   1 
 doing                A1.1.1               1 
 look_at              X3.4                 1 
 imagine              X2.1                 1 
@@ -202,9 +206,8 @@ logo                 C1                   1
 a_couple             N5                   1 
 colors               O4.3                 1 
 called_it_a_day      T2-                  1 
-thats                Z5                   1 
+that                 Z8                   1 
 kind                 A4.1                 1 
-organization         S5+                  1 
 want                 X7+                  1 
 next_generation      Z3                   1 
 entrepreneurs        I2.1                 1 
@@ -227,13 +230,12 @@ true                 A5.2+                1
 or                   Z5                   1 
 just                 A14                  1 
 boom                 N5++                 1 
-well                 A5.1+                1 
+'ll                  T1.1.3               1 
 likely               A7+                  1 
 have_to              S6+                  1 
 wait                 T1.3                 1 
 created              A1.1.1               1 
 before               Z5                   1 
-we                   Z8                   1 
 can                  A7+                  1 
 make                 A1.1.1               1 
 some                 N5                   1 

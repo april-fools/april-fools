@@ -13,4 +13,3 @@ narco-trafficker         NN1     Z99
 stopping-off             JJ      Z99 
 Tchuto                   NN1     Z99 
 Tchuto                   NP1     Z99 
-wasnt                    VV0     Z99 

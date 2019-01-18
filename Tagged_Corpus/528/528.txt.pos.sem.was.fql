@@ -1,4 +1,4 @@
-TOTAL              513
+TOTAL              516
 the                  Z5                  31 
 a                    Z5                  19 
 to                   Z5                  19 
@@ -6,9 +6,9 @@ of                   Z5                  16
 and                  Z5                  15 
 he                   Z8                   8 
 in                   Z5                   7 
+instrument           O2                   7 
 it                   Z8                   7 
 that                 Z5                   6 
-instrument           O2                   6 
 said                 Q2.1                 6 
 device               O2                   5 
 tonerite             Z99                  5 
@@ -18,10 +18,10 @@ but                  Z5                   4
 musicians            K2                   4 
 who                  Z8                   4 
 with                 Z5                   4 
-instruments          O2                   3 
 played               K1                   3 
 more                 A13.3                3 
 is                   Z5                   3 
+cello                K2                   3 
 for                  Z5                   3 
 is                   A3+                  3 
 an                   Z5                   3 
@@ -32,20 +32,22 @@ violins              K2                   2
 when                 Z5                   2 
 Italy                Z2                   2 
 those                Z5                   2 
+instruments          O2                   2 
 not                  Z6                   2 
 have                 Z5                   2 
 known                X2.2+                2 
 stringed             Z99                  2 
 vintage              T3                   2 
 violin               K2                   2 
-cello                K2                   2 
 or                   Z5                   2 
 guitar               K2                   2 
+tone                 E1                   2 
 new                  T3-                  2 
 there                Z5                   2 
 maker                A1.1.1               2 
 claims               Q2.2                 2 
 you                  Z8                   2 
+n't                  Z6                   2 
 Gainesville          Z99                  2 
 its                  Z8                   2 
 Kronos               Z99                  2 
@@ -55,8 +57,8 @@ Agapitus_Lye         Z1                   2
 had                  Z5                   2 
 been                 Z5                   2 
 at                   Z5                   2 
+'s                   Z5                   2 
 after                Z5                   2 
-cellos               K2                   2 
 Mr._Frankel          Z1                   2 
 transfer             M6                   2 
 no_one               Z8                   1 
@@ -93,7 +95,6 @@ lack                 A9-                  1
 patience             E3+                  1 
 wait                 T1.3                 1 
 years                T1.3                 1 
-tone                 E1                   1 
 one                  Z8                   1 
 develop              A2.1+                1 
 electronic           O3                   1 
@@ -117,7 +118,7 @@ greatly              A13.3                1
 accelerated          N3.8+                1 
 breaking-in          Z99                  1 
 period               T1.3                 1 
-cant                 Q2.1                 1 
+ca                   A7+                  1 
 take                 A9+                  1 
 cheap                I1.3-                1 
 plywood              O2                   1 
@@ -193,7 +194,6 @@ New_York_times       Z3                   1
 rudimentary          A12+                 1 
 put_together         A1.1.1               1 
 improved             A5.1+                1 
-tone                 B4                   1 
 enough               N5+                  1 
 month                T1.3                 1 
 luthier              Z99                  1 
@@ -234,6 +234,7 @@ vibrating            M1                   1
 gadgets              O2                   1 
 fit                  A1.2+                1 
 violas               Z1                   1 
+cellos               K2                   1 
 double_basses        K2                   1 
 guitars              K2                   1 
 mandolins            K2                   1 
@@ -300,7 +301,6 @@ heavy                N3.5+                1
 playing              K1                   1 
 unfortunately        A1.4-                1 
 does                 Z5                   1 
-nt                   S9                   1 
 simulate             A6.1+                1 
 practice             A1.1.1               1 
 still                T2++                 1 

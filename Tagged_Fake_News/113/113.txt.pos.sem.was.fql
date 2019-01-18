@@ -1,7 +1,8 @@
-TOTAL              237
+TOTAL              242
 to                   Z5                  11 
 the                  Z5                  10 
 a                    Z5                   7 
+is                   A3+                  4 
 of                   Z5                   4 
 and                  Z5                   4 
 Zervos               Z99                  4 
@@ -11,19 +12,19 @@ election             G1.2                 3
 by                   Z5                   3 
 Donald_trump         Z1                   3 
 trump                Z1                   3 
-is                   A3+                  3 
+they                 Z8                   3 
 Gloria               Z1                   3 
 we                   Z8                   3 
 be                   A3+                  2 
 sexually             S3.2                 2 
-that                 Z5                   2 
+could                A7+                  2 
 claims               Q2.2                 2 
 for                  Z5                   2 
 until                Z5                   2 
 one                  N1                   2 
-theyre               Z99                  2 
 come                 M1                   2 
 or                   Z5                   2 
+that                 Z8                   2 
 Ex-Apprentice        Z99                  2 
 who                  Z8                   2 
 her                  Z8                   2 
@@ -44,10 +45,10 @@ have                 Z5                   1
 been                 Z5                   1 
 harassed             E6-                  1 
 it                   Z8                   1 
-could                A7+                  1 
 also                 N5++                 1 
+that                 Z5                   1 
 there                Z5                   1 
-isnt                 Z99                  1 
+n't                  Z6                   1 
 much                 A13.3                1 
 merit                S1.1.4+              1 
 such                 Z5                   1 
@@ -67,12 +68,13 @@ within               Z5                   1
 month                T1.3                 1 
 national             M7                   1 
 come_forward         M1                   1 
+'re                  A3+                  1 
 all                  N5.1+                1 
 aware                X2.2+                1 
 how                  Z5                   1 
 wealthy              I1.1+                1 
 man                  S2.2                 1 
-couldve              Z99                  1 
+'ve                  Z5                   1 
 forward              M6                   1 
 years                T1.3                 1 
 in_some_cases        Z4                   1 
@@ -87,15 +89,14 @@ their                Z8                   1
 were                 A3+                  1 
 true                 A5.2+                1 
 fact                 A5.2+                1 
-that                 Z8                   1 
-they                 Z8                   1 
 did                  Z5                   1 
-nt_bother            A1.9                 1 
+n't_bother           A1.9                 1 
 do                   A1.1.1               1 
 so                   Z5                   1 
 gives                A9-                  1 
 me                   Z8                   1 
 impression           X2.1                 1 
+'re                  Z5                   1 
 looking_for          X2.4                 1 
 attention            X5.1+                1 
 sway                 M1                   1 
@@ -138,6 +139,7 @@ many                 N5+                  1
 people               S2                   1 
 can                  A1.1.1               1 
 vindicate            G2.1+                1 
+'                    Z5                   1 
 sexual_harassment    S3.2                 1 
 accusation           Q2.2                 1 
 against              Z5                   1 

@@ -1,5 +1,4 @@
 Afridi                   NP1     Z99 
-Afridis                  NP1     Z99 
 captaincy                NN1     Z99 
 off-field                JJ      Z99 
 on-field                 JJ      Z99 

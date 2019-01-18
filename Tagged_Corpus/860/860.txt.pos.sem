@@ -82,7 +82,8 @@
 0000002 650  RP      up                       Q2.2[i7.2.2 A11.1+[i7.2.2 N2[i7.2.2 
 0000002 660  AT      the                      Z5 
 0000002 670  NN1     tech                     Y1/P1 Y1 
-0000002 680  NN2     communitys               S5+c 
+0000002 680  NN1     community                S5+c 
+0000002 681  GE      's                       Z5 
 0000002 690  NN2     feelings                 X2.1 E1 X3 
 0000002 700  II      about                    Z5 
 0000002 710  NNB     Mr.                      Z1m[i8.2.1 S2.2m 
@@ -145,7 +146,8 @@
 0000004 171  .       .                        
 0000004 172  -----   -----                    
 0000004 180  AT      The                      Z5 
-0000004 190  NN2     buildings                H1 
+0000004 190  NN1     building                 H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1 
+0000004 191  GE      's                       Z5 
 0000004 200  NN1     lobby                    H2 G1.2/S5+c 
 0000004 210  VBZ     is                       A3+ Z5 
 0000004 220  JJ      full                     N5.1+ I3.2+ 
@@ -291,7 +293,7 @@
 0000008 110  CCB     but                      Z5 
 0000008 120  CS      since                    Z5 
 0000008 130  PPHS1   he                       Z8m 
-0000008 131  VBZ     s                        T1.3 I1.1 Z5 
+0000008 131  VBZ     's                       A3+ Z5 
 0000008 140  XX      not                      Z6 
 0000008 150  AT1     a                        Z5 
 0000008 160  NN1     tech                     Y1/P1 Y1 
@@ -321,7 +323,8 @@
 0000008 350  PNQS    who                      Z8 
 0000008 360  VBDZ    was                      A3+ Z5 
 0000008 370  NNB     Mr.                      Z1m[i25.2.1 S2.2m 
-0000008 380  NP1     Edelsons                 Z1m[i25.2.2 
+0000008 380  NP1     Edelson                  Z1m[i25.2.2 
+0000008 381  GE      's                       Z5 
 0000008 390  NN1     partner                  S3.1/S2mf S3.2/S2mf S4mf 
 0000008 400  CS      before                   Z5 
 0000008 410  PPHS2   they                     Z8mfn 
@@ -367,7 +370,7 @@
 0000012 002  -----   -----                    
 0000012 010  NN1     Money                    I1 
 0000012 020  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000012 021  XX      nt                       S9/Q4.1 Z3c 
+0000012 021  XX      n't                      Z6 
 0000012 030  VVI     mean                     Q1.1 X7+ 
 0000012 040  AT1     a                        Z5 
 0000012 050  NNU1    ton                      N3.5 N5+ 
@@ -531,8 +534,9 @@
 0000016 190  JJR     larger                   N3.2++ N5++ A11.1++ 
 0000016 200  CSN     than                     Z5 
 0000016 210  CS      if                       Z7 
-0000016 220  APPGE   its                      Z8 
-0000016 230  JJ@     perceived                X4.1 X3.4 X2.5+ 
+0000016 220  PPH1    it                       Z8 
+0000016 221  VBZ     's                       Z5 A3+ 
+0000016 230  VVN     perceived                X4.1 X3.4 X2.5+ 
 0000016 240  II      as                       Z5 
 0000016 250  AT1     a                        Z5 
 0000016 260  JJ      one-off                  N6- 
@@ -551,7 +555,8 @@
 0000020 060  NPM1    February                 T1.3 
 0000020 061  ,       ,                        
 0000020 070  NNB     Mr.                      Z1m[i41.2.1 S2.2m 
-0000020 080  NP1     Edelsons                 Z1m[i41.2.2 
+0000020 080  NP1     Edelson                  Z1m[i41.2.2 
+0000020 081  GE      's                       Z5 
 0000020 090  NN1     team                     S5+c K5.1/S5+c S5+ 
 0000020 100  VBDZ    was                      Z5 A3+ 
 0000020 110  VVG     laying                   M2 M1 L2 T2+ A1.1.1 
@@ -607,7 +612,8 @@
 0000020 511  .       .                        
 0000022 001  NULL    <quote>                  
 0000022 002  -----   -----                    
-0000022 010  VBDR    Were                     A3+ Z5 
+0000022 010  PPIS2   We                       Z8 
+0000022 011  VBR     're                      A3+ Z5 
 0000022 020  RR      really                   A13.3 A5.2+ 
 0000022 030  JJ      eager                    X5.2+ 
 0000022 040  TO      to                       Z5 
@@ -634,6 +640,7 @@
 0000024 070  CST     that                     Z8 Z5 
 0000024 080  VVZ     analyzes                 X2.4 
 0000024 090  NN2     users                    A1.5.1/S2mf 
+0000024 091  GE      '                        Z5 
 0000024 100  NN2     photos                   C1 
 0000024 110  CC      and                      Z5 
 0000024 120  RT      then                     N4 Z5 T1.2 
@@ -650,6 +657,7 @@
 0000024 230  II      from                     Z5 
 0000024 240  AT      the                      Z5 
 0000024 250  NN2     users                    A1.5.1/S2mf 
+0000024 251  GE      '                        Z5 
 0000024 260  NN2     lists                    Q1.2 N4 
 0000024 270  IO      of                       Z5 
 0000024 280  NN2     friends                  S3.1/S2mf 
@@ -714,7 +722,8 @@
 0000026 260  IO      of                       Z5 
 0000026 270  APPGE   its                      Z8 
 0000026 280  NN2     users                    A1.5.1/S2mf 
-0000026 290  VVZ     faces                    M6 S1.1.1 X2.1 B5 
+0000026 281  GE      '                        Z5 
+0000026 290  NN2     faces                    B1 W3 O2 A8 S1.2.3+ 
 0000026 300  IW      without                  Z5 
 0000026 310  VVG     telling                  Q2.2 Q2.1 X3 A10+ 
 0000026 320  PPHO2   them                     Z8mfn 
@@ -792,7 +801,8 @@
 0000030 020  NN1     idea                     X4.1 X7+ 
 0000030 030  VVD     came                     M6[i52.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
 0000030 040  II      from                     M6[i52.2.2 Z5 
-0000030 050  NP2     Edelsons                 Z99 
+0000030 050  NP1     Edelson                  Z99 
+0000030 051  GE      's                       Z5 
 0000030 060  JJ      investigative            X2.4 
 0000030 070  NN1     team                     S5+c K5.1/S5+c S5+ 
 0000030 071  ,       ,                        
@@ -808,7 +818,8 @@
 0000030 161  .       .                        
 0000030 162  -----   -----                    
 0000030 170  AT      The                      Z5 
-0000030 180  NN2     groups                   S5+ A4.1 B3% 
+0000030 180  NN1     group                    S5+c A4.1c B3% 
+0000030 181  GE      's                       Z5 
 0000030 190  NN1     job                      I3.1 A1.1.1 A12- 
 0000030 191  ,       ,                        
 0000030 200  TO      to                       Z5 
@@ -1067,9 +1078,10 @@
 0000040 001  NULL    <quote>                  
 0000040 002  -----   -----                    
 0000040 010  RRQ     Why                      A2.2 
-0000040 020  VVI     wouldnt                  Z99 
+0000040 020  VM      would                    A7+ 
+0000040 021  XX      n't                      Z6 
 0000040 030  PPIS2   we                       Z8 
-0000040 040  VV0     want                     X7+ S6+ A7+ S3.2 A9- 
+0000040 040  VVI     want                     X7+ S6+ A7+ S3.2 A9- 
 0000040 050  TO      to                       Z5 
 0000040 060  VVI     go                       X7+[i65.2.1 M1[i65.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
 0000040 070  II      after                    X7+[i65.2.2 M1[i65.2.2 Z5 
@@ -1233,7 +1245,8 @@
 0000048 520  NN1     lawyer                   G2.1/I3.2/S2mf 
 0000048 530  II      at                       Z5 
 0000048 540  NP1     Greenberg                Z1mf[i71.2.1 Z3c[i71.2.1 
-0000048 550  NP1     Traurigs                 Z1mf[i71.2.2 Z3c[i71.2.2 
+0000048 550  NP1     Traurig                  Z1mf[i71.2.2 Z3c[i71.2.2 
+0000048 551  GE      's                       Z5 
 0000048 560  NN1     Silicon                  O1.1 
 0000048 570  NN1     Valley                   W3 
 0000048 580  NN1     office                   I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+ 
@@ -1266,11 +1279,13 @@
 0000048 771  .       .                        
 0000050 001  NULL    <quote>                  
 0000050 002  -----   -----                    
-0000050 010  APPGE   Its                      Z8 
+0000050 010  PPH1    It                       Z8 
+0000050 011  VBZ     's                       A3+ Z5 
 0000050 020  RP      out                      M6[i73.2.1 M6 
 0000050 030  RL      there                    M6[i73.2.2 M6 T1.2 
 0000050 040  CC      and                      Z5 
-0000050 050  APPGE   its                      Z8 
+0000050 050  PPH1    it                       Z8 
+0000050 051  VBZ     's                       A3+ Z5 
 0000050 060  JJ      growing                  N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4 
 0000050 061  ,       ,                        
 0000050 062  NULL    </quote>                 
@@ -1480,6 +1495,7 @@
 0000056 330  II      within                   Z5 
 0000056 340  AT      the                      Z5 
 0000056 350  NN2     plaintiffs               G2.1/S2 
+0000056 351  GE      '                        Z5 
 0000056 360  NN1     bar                      F2/H1c F2/H2 F2/H5 O2 O4.4 S8- G2.1c K2 
 0000056 361  .       .                        
 0000056 362  -----   -----                    
@@ -1562,7 +1578,8 @@
 0000058 310  NN1     fight                    S8- X8+ E3- K5.1 
 0000058 320  II      over                     Z5 
 0000058 330  NNB     Mr.                      Z1m[i95.2.1 S2.2m 
-0000058 340  NP1     Borks                    Z1m[i95.2.2 
+0000058 340  NP1     Bork                     Z1m[i95.2.2 
+0000058 341  GE      's                       Z5 
 0000058 350  RR      ultimately               N4 Z4 
 0000058 360  JJ      unsuccessful             X9.2- 
 0000058 370  NN1     confirmation             A7+ Q2.2 S9@ 
@@ -1786,11 +1803,13 @@
 0000064 590  IW      with                     Z5 
 0000064 600  APPGE   their                    Z8 
 0000064 610  NN2     users                    A1.5.1/S2mf 
+0000064 611  GE      '                        Z5 
 0000064 620  NN1     information              X2.2+ 
 0000064 621  .       .                        
 0000064 622  -----   -----                    
 0000064 630  AT      The                      Z5 
-0000064 640  NN2     firms                    I2.1/S5+c 
+0000064 640  NN1     firm                     I2.1/S5+c 
+0000064 641  GE      's                       Z5 
 0000064 650  NN1     settlement               M7 Q2.2 I1.2 
 0000064 660  IW      with                     Z5 
 0000064 670  NP1     Netflix                  Z99 
@@ -1846,7 +1865,8 @@
 0000066 070  NN1     law                      G2.1 S6+ Y1 
 0000066 071  ,       ,                        
 0000066 080  NNB     Mr.                      Z1m[i122.2.1 S2.2m 
-0000066 090  NP1     Edelsons                 Z1m[i122.2.2 
+0000066 090  NP1     Edelson                  Z1m[i122.2.2 
+0000066 091  GE      's                       Z5 
 0000066 100  NN1     practice                 A1.1.1 I3.1/S5+c 
 0000066 110  VVZ     relies                   S7.1- 
 0000066 120  II      on                       Z5 
@@ -1987,7 +2007,8 @@
 0000070 040  VBZ     is                       A3+ Z5 
 0000070 050  CST     that                     Z5 Z8 
 0000070 060  AT1     a                        Z5 
-0000070 070  NN2     companys                 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000070 070  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000070 071  GE      's                       Z5 
 0000070 080  NN1     defense                  S8+ G3 G2.1c Q2.2 K5.1 S7.3+ P1 
 0000070 090  NN1     strategy                 X7+ 
 0000070 100  RR      typically                A6.2+ A4.2+ 
@@ -2058,11 +2079,13 @@
 0000070 650  IF      for                      Z5 
 0000070 660  AT      the                      Z5 
 0000070 670  NN2     plaintiffs               G2.1/S2 
+0000070 671  GE      '                        Z5 
 0000070 680  NN2     lawyers                  G2.1/I3.2/S2mf 
 0000070 681  .       .                        
 0000072 001  NULL    <quote>                  
 0000072 002  -----   -----                    
-0000072 010  APPGE   Its                      Z8 
+0000072 010  PPH1    It                       Z8 
+0000072 011  VBZ     's                       A3+ Z5 
 0000072 020  JJ      legal                    G2.1 G2.1+ 
 0000072 030  FU      gotcha                   Z99 
 0000072 031  ,       ,                        
@@ -2074,7 +2097,8 @@
 0000072 090  PPY     you                      Z8mf 
 0000072 100  CST     that                     Z8 Z5 
 0000072 110  CS      because                  Z5/A2.2 
-0000072 120  NN2     theres                   Z5 M6 T1.2 
+0000072 120  EX      there                    Z5 
+0000072 121  VBZ     's                       A3+ Z5 
 0000072 130  AT1     a                        Z5 
 0000072 140  JJ      legal                    G2.1 G2.1+ 
 0000072 150  FU      gotcha                   Z99 
@@ -2119,19 +2143,21 @@
 0000072 480  NN1     Facebook                 Z3c/Y2 
 0000072 490  II      against                  Z5 
 0000072 500  NNB     Mr.                      Z1m[i136.2.1 S2.2m 
-0000072 510  NP1     Edelsons                 Z1m[i136.2.2 
+0000072 510  NP1     Edelson                  Z1m[i136.2.2 
+0000072 511  GE      's                       Z5 
 0000072 520  NN1     firm                     I2.1/S5+c 
 0000072 521  .       .                        
 0000072 522  NULL    <quote>                  
 0000072 523  -----   -----                    
-0000072 530  VVZ     Thats                    Z5 Z8 A13.3 A6.1+ 
+0000072 530  DD1     That                     Z8 Z5 
+0000072 531  VBZ     's                       A3+ Z5 
 0000072 540  APPGE   his                      Z8m 
 0000072 550  NN1     business                 I2.1 A1.1.1 A5.1+++ 
 0000072 560  NN1     model                    O2/A5.4- A4.1 X4.2 A5.1+++ C1/S2mf B5/I3.2/S2mf 
 0000072 561  .       .                        
 0000072 562  NULL    </quote>                 
 0000072 563  -----   -----                    
-0000074 010  VVG     Annihilating             A1.1.2 
+0000074 010  JJ      Annihilating'            Z99 
 0000074 020  NN2     Damages                  I1.1+/G2.1 
 0000076 010  NNB     Mr.                      Z1m[i138.2.1 S2.2m Z1m[i137.2.1 
 0000076 020  NP1     Edelson                  Z1m[i138.2.2 Z1m[i137.2.2 
@@ -2208,8 +2234,9 @@
 0000076 640  JJ      only                     A14 
 0000076 650  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
 0000076 660  PPIS1   I                        Z8mf 
-0000076 670  VV0     wouldnt                  Z99 
-0000076 680  VV0     sue                      G2.1 
+0000076 670  VM      would                    A7+ 
+0000076 671  XX      n't                      Z6 
+0000076 680  VVI     sue                      G2.1 
 0000076 690  VBZ     is                       A3+ Z5 
 0000076 700  NNB     Dr                       Z1mf[i146.2.1 B3/S2mf P1/S2mf Z1mf[i145.2.1 
 0000076 710  NP1     Pepper                   Z1mf[i146.2.2 Z1mf[i145.2.2 
@@ -2485,7 +2512,8 @@
 0000082 410  NN1     list                     Q1.2 N4 M4 
 0000082 420  IO      of                       Z5 
 0000082 430  NN1     Silicon                  O1.1 
-0000082 440  NN2     Valleys                  W3 
+0000082 440  NN1     Valley                   W3 
+0000082 441  GE      's                       Z5 
 0000082 450  RGT     least                    A13.7 
 0000082 460  JJ      favorite                 E2+++ 
 0000082 470  NN2     topics                   X4.1 
@@ -2653,21 +2681,23 @@
 0000088 250  DDQ     which                    Z5 Z8 
 0000088 260  VBZ     is                       A3+ Z5 
 0000088 270  AT1     a                        Z5 
-0000088 280  NN2     lawyers                  G2.1/I3.2/S2mf 
+0000088 280  NN1     lawyer                   G2.1/I3.2/S2mf 
+0000088 281  GE      's                       Z5 
 0000088 290  NN1     way                      X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
 0000088 300  IO      of                       Z5 
 0000088 310  VVG     saying                   Q2.1 Z4% 
 0000088 320  CST     that                     Z8 Z5 
 0000088 330  PPY     you                      Z8mf 
-0000088 340  JJ      cant                     Q2.1 Z1mf Z1 
-0000088 350  VV0     sue                      G2.1 
+0000088 340  VM      ca                       A7+ 
+0000088 341  XX      n't                      Z6 
+0000088 350  VVI     sue                      G2.1 
 0000088 360  PN1     someone                  Z8mfc 
 0000088 370  IF      for                      Z5 
 0000088 380  NN2     damages                  I1.1+/G2.1 
 0000088 390  CS      if                       Z7 
 0000088 400  PPY     you                      Z8mf 
 0000088 410  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000088 411  XX      nt                       S9/Q4.1 Z3c 
+0000088 411  XX      n't                      Z6 
 0000088 420  VVI     lose                     X9.2- A9- M6/A5.3- L1- 
 0000088 430  NN1     money                    I1 
 0000088 440  CC      or                       Z5 
@@ -2837,7 +2867,8 @@
 0000094 050  NN1     plaintiff                G2.1/S2mf 
 0000094 060  II      in                       Z5 
 0000094 070  NNB     Mr.                      Z1m[i180.2.1 S2.2m 
-0000094 080  NP1     Edelsons                 Z1m[i180.2.2 
+0000094 080  NP1     Edelson                  Z1m[i180.2.2 
+0000094 081  GE      's                       Z5 
 0000094 090  NN1     case                     A4.1 O2 G2.1 B3 X4.1 Q3 
 0000094 091  ,       ,                        
 0000094 100  VVD     said                     Q2.1 
@@ -2888,7 +2919,8 @@
 0000096 070  VVN     happened                 A1.4[i181.2.1 A2.1+ A3+ X7- 
 0000096 080  II@     to                       A1.4[i181.2.2 Z5 
 0000096 090  PPHO1   him                      Z8m 
-0000096 100  APPGE   its                      Z8 
+0000096 100  PPH1    it                       Z8 
+0000096 101  VBZ     's                       A3+ Z5 
 0000096 110  RR      just                     A14 T3--- T1.3- N3.3--- 
 0000096 120  AT1     a                        Z5 
 0000096 130  JJ      speculative              X2.6+ 
@@ -2924,7 +2956,8 @@
 0000096 353  -----   -----                    
 0000096 360  RR      Well                     A5.1+ A13.3 A7+ B2+ Z4 
 0000096 361  ,       ,                        
-0000096 370  VVZ     thats                    Z5 Z8 A13.3 A6.1+ 
+0000096 370  DD1     that                     Z8 Z5 
+0000096 371  VBZ     's                       A3+ Z5 
 0000096 380  XX      not                      Z6 
 0000096 390  AT1     an                       Z5 
 0000096 400  NN1     injury                   B2- A1.1.2 E1 
@@ -3072,8 +3105,9 @@
 0000102 350  CS      if                       Z7 
 0000102 360  AT      the                      Z5 
 0000102 370  MD      Ninth                    N1 
-0000102 380  NN2     Circuits                 O3 S1.1.1 M7 K5.1 G2.1 
-0000102 390  VV0@    rule                     S7.1+ Q1.2 X6+ 
+0000102 380  NN1     Circuit                  O3 S1.1.1 M7 K5.1 G2.1 
+0000102 381  GE      's                       Z5 
+0000102 390  NN1     rule                     G2.1 X4.2 A6.2+ S7.1+ Q3 
 0000102 400  NN2     stands                   I2.2/H5 H5 H1 S8- 
 0000102 401  ,       ,                        
 0000102 410  DD2     those                    Z5 Z8 
@@ -3166,7 +3200,7 @@
 0000108 010  CS      If                       Z7 
 0000108 020  PPIS2   we                       Z8 
 0000108 030  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000108 031  XX      nt                       S9/Q4.1 Z3c 
+0000108 031  XX      n't                      Z6 
 0000108 040  VVI     allow                    S7.4+ S8+ X2.1 
 0000108 050  NN1     class                    P1c A4.1 S5+c O4.2+ 
 0000108 060  NN2     actions                  A1.1.1 G3 
@@ -3294,6 +3328,7 @@
 0000112 320  NN1     move                     M1 M2 A2.1+ H4/A2.1 K5.2 
 0000112 330  VVZ     discourages              S8- 
 0000112 340  NN2     plaintiffs               G2.1/S2 
+0000112 341  GE      '                        Z5 
 0000112 350  NN2     lawyers                  G2.1/I3.2/S2mf 
 0000112 360  CS      because                  Z5/A2.2 
 0000112 361  ,       ,                        
@@ -3571,9 +3606,10 @@
 0000122 240  JJ      specific                 A4.2+ 
 0000122 250  NN2     examples                 A4.1 
 0000122 251  ,       ,                        
-0000122 260  II      like                     Z5 
-0000122 270  NP1     Ill                      B2- A5.1- 
-0000122 280  VV0     explain                  Q2.2/A7+ A2.2 
+0000122 260  CS%     like                     Z5 
+0000122 270  PPIS1   I                        Z8mf 
+0000122 271  VM      'll                      T1.1.3 
+0000122 280  VVI     explain                  Q2.2/A7+ A2.2 
 0000122 290  AT1     a                        Z5 
 0000122 300  NN1     case                     A4.1 O2 G2.1 B3 X4.1 Q3 
 0000122 310  CC      or                       Z5 
@@ -3582,14 +3618,16 @@
 0000122 340  PPHO2   them                     Z8mfn 
 0000122 341  ,       ,                        
 0000122 350  CC      and                      Z5 
-0000122 360  NN1     theyre                   Z99 
+0000122 360  PPHS2   they                     Z8mfn 
+0000122 361  VBR     're                      A3+ Z5 
 0000122 370  II      like                     Z5 
 0000122 371  ,       ,                        
 0000122 380  UH      Oh                       Z4 
 0000122 381  ,       ,                        
 0000122 390  UH      yeah                     Z4 
 0000122 391  ,       ,                        
-0000122 400  VVZ     thats                    Z5 Z8 A13.3 A6.1+ 
+0000122 400  DD1     that                     Z8 Z5 
+0000122 401  VBZ     's                       Z5 A3+ 
 0000122 410  RR      really                   A13.3 A5.2+ 
 0000122 420  VVN     messed                   X9.2-[i232.2.1 A1.1.2[i232.2.1 A1.1.1/A12- F1/G3 
 0000122 430  RP      up                       X9.2-[i232.2.2 A1.1.2[i232.2.2 
@@ -3601,5 +3639,6 @@
 0000122 470  VVI     sue                      G2.1 
 0000122 480  PPHO2   them                     Z8mfn 
 0000122 481  .       .                        
-0000122 482  NULL    </quote>                 
+0000122 482  "@      '                        
+0000122 483  NULL    </quote>                 
 0000125 001  NULL    **8;7;text               

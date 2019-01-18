@@ -1,4 +1,4 @@
-TOTAL              448
+TOTAL              454
 the                  Z5                  29 
 to                   Z5                  14 
 of                   Z5                  14 
@@ -10,11 +10,12 @@ application          Q1.2                 8
 for                  Z5                   7 
 in                   Z5                   6 
 that                 Z8                   6 
-its                  Z8                   5 
-it                   Z8                   4 
+it                   Z8                   5 
+we                   Z8                   5 
+Microsoft            Z3                   4 
 an                   Z5                   4 
 that                 Z5                   4 
-we                   Z8                   4 
+its                  Z8                   4 
 with                 Z5                   4 
 our                  Z8                   4 
 support              S8+                  4 
@@ -24,16 +25,16 @@ great                A5.1+                3
 6.5                  N1                   3 
 is                   A3+                  3 
 on                   Z5                   3 
+you                  Z8                   3 
 have                 Z5                   2 
 how                  Z5                   2 
-Microsoft            Z3                   2 
 was                  Z5                   2 
 threat               E3-                  2 
 app                  Z99                  2 
 has                  A9+                  2 
 more                 N5++                 2 
 than                 Z5                   2 
-Microsofts           Z3                   2 
+'s                   Z5                   2 
 after                Z5                   2 
 capabilities         X9.1+                2 
 replicate            A6.1+++              2 
@@ -58,7 +59,6 @@ photo                C1                   2
 do                   A1.1.1               2 
 experience           X2.2+                2 
 using                A1.5.1               2 
-you                  Z8                   2 
 ever_since           T2++                 1 
 debuted              Z99                  1 
 mid_2007             T3                   1 
@@ -182,7 +182,7 @@ unit                 S5+                  1
 configured           O4.1                 1 
 pre-release          Z99                  1 
 version              A4.1                 1 
-well                 A5.1+                1 
+'ll                  T1.1.3               1 
 be                   Z5                   1 
 darned               B5                   1 
 if                   Z7                   1 
@@ -232,6 +232,7 @@ lengths              N3.7                 1
 entire               N5.1+                1 
 standalone_Windows   Z2                   1 
 Mobile               M1                   1 
+'s                   A3+                  1 
 novelty_value        T3-                  1 
 suggest              Q2.2                 1 
 those                Z8                   1 
@@ -248,7 +249,8 @@ smoke                O1.3                 1
 signals              Q1.1                 1 
 communicate          Q2.1                 1 
 instead              A6.1-                1 
-wont                 A6.2+                1 
+wo                   T1.1.3               1 
+n't                  Z6                   1 
 get                  A9+                  1 
 selection            X7+                  1 
 but                  Z5                   1 
@@ -256,7 +258,7 @@ will                 T1.1.3               1
 sleep                B1                   1 
 night                T1.3                 1 
 knowing              X2.2+                1 
-youre                Z99                  1 
+'re                  Z5                   1 
 next_best_thing      A5.1+                1 
 market               I2.2                 1 
 has_to               S6+                  1 

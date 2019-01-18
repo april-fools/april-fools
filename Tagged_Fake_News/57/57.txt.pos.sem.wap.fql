@@ -1,4 +1,4 @@
-TOTAL              356
+TOTAL              357
 the                  AT             17 
 to                   TO             10 
 that                 CST             8 
@@ -47,7 +47,6 @@ not                  XX              2
 out                  RP              2 
 people               NN              2 
 ***                  FO              2 
-its                  APPGE           2 
 Hillary_Clinton      NP1             2 
 Bernie_supporter     NP1             2 
 my                   APPGE           2 
@@ -135,6 +134,8 @@ crapped              VVN             1
 on                   RP              1 
 rest                 NN1             1 
 world                NN1             1 
+it                   PPH1            1 
+'s                   VBZ             1 
 good                 JJ              1 
 see                  VVI             1 
 even                 RR              1 
@@ -190,6 +191,7 @@ Hillary              NP1             1
 best                 JJT             1 
 produce              VVI             1 
 working_class        JJ              1 
+its                  APPGE           1 
 disband              VVI             1 
 party.               NNU             1 
 things               NN2             1 

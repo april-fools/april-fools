@@ -1,4 +1,4 @@
-TOTAL              848
+TOTAL              854
 the                  AT             46 
 graphene             NN1            43 
 of                   IO             32 
@@ -10,18 +10,19 @@ in                   II             14
 to                   II              9 
 has                  VHZ             8 
 that                 CST             8 
+Samsung              NP1             7 
 for                  IF              7 
 flexible             JJ              7 
+be                   VBI             7 
 growth               NN1             7 
 this                 DD1             6 
-be                   VBI             6 
+we                   PPIS2           6 
 it                   PPH1            6 
-Samsung              NP1             5 
 with                 IW              5 
 electronic           JJ              5 
 electronics          NN1             5 
-we                   PPIS2           5 
 devices              NN2             5 
+what                 DDQ             5 
 single-crystal       JJ              5 
 germanium            NN1             5 
 breakthrough         NN1             4 
@@ -36,11 +37,13 @@ silicon              NN1             4
 one                  MC1             4 
 which                DDQ             4 
 next                 MD              4 
-what                 DDQ             4 
 at                   II              4 
 new                  JJ              4 
 wafer-scale          JJ              4 
 transfer             NN1             4 
+they                 PPHS2           3 
+made                 VVN             3 
+that                 DD1             3 
 carbon               NN1             3 
 technology           NN1             3 
 as                   II              3 
@@ -66,7 +69,6 @@ from                 II              3
 science              NN1             3 
 uniform              JJ              3 
 produced             VVN             3 
-that                 DD1             2 
 next_generation      MD              2 
 samsung              JJ              2 
 between              II              2 
@@ -90,13 +92,13 @@ you                  PPY             2
 atom                 NN1             2 
 thick                JJ              2 
 exactly              RR              2 
+'s                   VBZ             2 
 almost               RR              2 
-made                 VVN             2 
 far                  RG              2 
 expensive            JJ              2 
 used_to              VVN             2 
 and_other            CC              2 
-Samsungs             NP1             2 
+'s                   GE              2 
 monolayer            NN1             2 
 larger               JJR             2 
 sheets               NN2             2 
@@ -104,7 +106,6 @@ required             VVN             2
 production_environment NN1             2 
 being                VBG             2 
 seeds                NN2             2 
-they                 PPHS2           2 
 them                 PPHO2           2 
 into                 II              2 
 journal              NN1             2 
@@ -126,8 +127,7 @@ announced            VVN             1
 some                 DD              1 
 great                JJ              1 
 news                 NN1             1 
-theyve               NN1             1 
-made                 VVD             1 
+'ve                  VH0             1 
 magical              JJ              1 
 substance            NN1             1 
 destined             VVN             1 
@@ -244,7 +244,6 @@ atoms                NN2             1
 measures             VVZ             1 
 in                   RP              1 
 0.33nm               FO              1 
-thats                VVZ             1 
 one_million          MC1             1 
 thinner              JJR             1 
 human                JJ              1 
@@ -358,7 +357,6 @@ energy               NN1             1
 heat                 VV0             1 
 touchscreens         NN2             1 
 possible             JJ              1 
-whats                NN2             1 
 companies            NN2             1 
 Nokia                NP1             1 
 invested             VVD             1 
@@ -402,8 +400,7 @@ scale                VV0             1
 techniques           NN2             1 
 will                 VM              1 
 allow                VVI             1 
-well                 RR              1 
-be                   VB0             1 
+'ll                  VM              1 
 anxiously            RR              1 
 awaiting             VVG             1 
 steps                NN2             1 

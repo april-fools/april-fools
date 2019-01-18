@@ -7,8 +7,9 @@
 0000002 040 Conan                                       93 NP1
 0000002 050 Creator                                     93 NN1
 0000002 060 Robert                                      93 NP1
-0000002 070 E.                                          93 [NP1/100] ND1@/0
-0000002 080 Howards                                     04 NP2
+0000002 070 E.                                          93 [NP1/99] ND1@/1
+0000002 080 Howard                    >                 93 NP1
+0000002 081 's                        <                 03 [GE/90] VBZ/10 VHZ@/0
 0000002 090 Lesser                                      93 JJ
 0000002 100 Known                                       93 [JJ@/98] VVN/2
 0000002 110 Collaboration                               93 NN1

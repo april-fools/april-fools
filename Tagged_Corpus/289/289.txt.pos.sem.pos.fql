@@ -1,9 +1,9 @@
-TOTAL         626
-NN1            94 
+TOTAL         627
+NN1            95 
 AT             58 
 II             52 
 JJ             51 
-NN2            32 
+NN2            31 
 NP1            30 
 IO             23 
 VVN            20 
@@ -59,6 +59,7 @@ DA2             1
 CCB             1 
 DA              1 
 VBM             1 
+GE              1 
 RRR             1 
 NNT1            1 
 VBN             1 

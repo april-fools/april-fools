@@ -13,6 +13,7 @@
 0000002 110  IF      for                      Z5 
 0000002 120  JJ      Fiscal                   I1/G1.1 I1 
 0000002 130  NN2     Studies                  P1 X2.4 H2 Q1.2 C1 
+0000002 131  GE      '                        Z5 
 0000002 140  NN2     calculations             N2 X2.4 
 0000002 150  CST     that                     Z5 Z8 
 0000002 160  NN2     families                 S4 A4.1 
@@ -454,7 +455,8 @@
 0000016 770  JJT     biggest                  N3.2+++ N5+++ A11.1+++ S1.2.5+++ X5.2+++ 
 0000016 780  NN1     difference               A6.1- 
 0000016 790  II      to                       Z5 
-0000016 800  NN2     peoples                  S2mf 
+0000016 800  NN      people                   S2mfc 
+0000016 801  GE      's                       Z5 
 0000016 810  NN1     household                S4c B4 
 0000016 820  NN2     incomes                  I1.1 
 0000016 821  .       .                        

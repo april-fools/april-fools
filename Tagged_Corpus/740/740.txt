@@ -28,7 +28,7 @@ Blockchain, according to IBM, can also significantly reduce costs, with the tech
 
 As blockchain is built on the concept of trust, it can help reduce risks of illicit practices undertaken over payment networks, helping to mitigate fraud and cybercrimes.
 
-According to the tech giant, speed, cost efficiency and transparency are among blockchain’s most significant benefits in the enterprise .
+According to the tech giant, speed, cost efficiency and transparency are among blockchain's most significant benefits in the enterprise .
 
 IBM Blockchain general manager Marie Wieck said:  <quote> “The visionaries adopting blockchain today are using the technology to reinvent many fundamental business practices.
  </quote> 

@@ -43,7 +43,8 @@
 0000006 250  IO      of                       Z5 
 0000006 260  AT      the                      Z5 
 0000006 270  JJ      previous                 N4 
-0000006 280  NNT2    sessions                 T1.3 
+0000006 280  NNT1    session                  T1.3 
+0000006 281  GE      's                       Z5 
 0000006 290  NN1     sell-off                 Z99 
 0000006 291  .       .                        
 0000006 292  -----   -----                    
@@ -224,7 +225,8 @@
 0000008 080  NN1     part                     N5.1- O2 M7 I3.1 S1.1.3+ K4 
 0000008 090  IO      of                       Z5 
 0000008 100  AT1     a                        Z5 
-0000008 110  NN2     companys                 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000008 110  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000008 111  GE      's                       Z5 
 0000008 120  NN1     profit                   I1.1 A5.1+ 
 0000008 130  VVN     allocated                A9- 
 0000008 140  II      to                       Z5 
@@ -243,7 +245,8 @@
 0000008 250  NN1     pointer                  S8+ O2 L2mfn 
 0000008 260  II      to                       Z5 
 0000008 270  AT1     a                        Z5 
-0000008 280  NN2     companys                 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000008 280  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000008 281  GE      's                       Z5 
 0000008 290  NN1     profitability/success    Z99 
 0000008 291  .       .                        
 0000008 292  -----   -----                    
@@ -260,7 +263,8 @@
 0000008 400  II      in                       Z5 
 0000008 410  VVG     determining              A2.2 A7+ X6+ 
 0000008 420  AT1     a                        Z5 
-0000008 430  NN2     shares                   N5.1- I1.1 
+0000008 430  NN1     share                    S1.1.2+ I1.1 
+0000008 431  GE      's                       Z5 
 0000008 440  NN1     price                    I1.3 
 0000008 441  .       .                        
 0000009 001  -----   -----                    
@@ -409,7 +413,8 @@
 0000020 610  NP1     RVOL                     Z99 
 0000020 620  VVZ     compares                 A6 A5.1 Q3 
 0000020 630  AT1     a                        Z5 
-0000020 640  NN2     stocks                   A9+ F1 S4 O2 I1.1 G2.1/O2% 
+0000020 640  NN1     stock                    A9+ F1 S4 O2 I1.1 
+0000020 641  GE      's                       Z5 
 0000020 650  JJ      current                  T1.1.2 
 0000020 660  NN1     volume                   N3.4 N5 Q4.1 Q4.2 X3.2 
 0000020 670  II      to                       Z5 
@@ -473,8 +478,9 @@
 0000022 400  NNU     percent                  N5[i35.2.2 N5 
 0000022 401  .       .                        
 0000022 402  -----   -----                    
-0000022 410  NN2     Todays                   T1.1.2 
-0000022 420  VV0     market                   I2.2 
+0000022 410  RT      Today                    T1.1.2 
+0000022 411  GE      's                       Z5 
+0000022 420  NN1     market                   I2.2 I2.2/H1 
 0000022 430  NN1     analysis                 X2.4 Y1 
 0000022 440  NN2     platforms                M3/M7 M4/H1 H5 X7+ B5 Y2 
 0000022 450  VV0     permit                   S7.4+ 
@@ -484,7 +490,8 @@
 0000022 490  VVI     review                   X2.4/A5 P1 Q4 G3 
 0000022 500  AT1     a                        Z5 
 0000022 510  NN1     trading                  I2.2 
-0000022 520  NN2     systems                  X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 
+0000022 520  NN1     system                   X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c 
+0000022 521  GE      's                       Z5 
 0000022 530  NN1     performance              K4 X9.2 A1.1.1 A12- 
 0000022 540  CC      and                      Z5 
 0000022 550  VV0     evaluate                 A5.1 N2 
@@ -517,7 +524,8 @@
 0000022 790  NN2     aspects                  A4.1 A8 M6 
 0000022 800  IO      of                       Z5 
 0000022 810  AT1     a                        Z5 
-0000022 820  NN2     systems                  X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 
+0000022 820  NN1     system                   X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c 
+0000022 821  GE      's                       Z5 
 0000022 830  NN1     performance              K4 X9.2 A1.1.1 A12- 
 0000022 831  .       .                        
 0000022 832  -----   -----                    
@@ -612,7 +620,8 @@
 0000024 430  TO      to                       Z5 
 0000024 440  VVI     measure                  N3.1 
 0000024 450  AT1     a                        Z5 
-0000024 460  NN2     companys                 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000024 460  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000024 461  GE      's                       Z5 
 0000024 470  NN1     performance              K4 X9.2 A1.1.1 A12- 
 0000024 471  .       .                        
 0000024 472  -----   -----                    
@@ -842,7 +851,8 @@
 0000034 681  .       .                        
 0000034 682  -----   -----                    
 0000034 690  AT      The                      Z5 
-0000034 700  NN2     companys                 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000034 700  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000034 701  GE      's                       Z5 
 0000034 710  NN1     distance                 N3.3+ S1.2.1- 
 0000034 720  II      from                     Z5 
 0000034 730  JJ      52-week                  T1.3 
@@ -933,7 +943,8 @@
 0000044 131  ,       ,                        
 0000044 140  IW      with                     Z5 
 0000044 150  AT      the                      Z5 
-0000044 160  NN2     companys                 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000044 160  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000044 161  GE      's                       Z5 
 0000044 170  NN2     shares                   N5.1- I1.1 
 0000044 180  VVG     hitting                  E3- A1.1.1 A2.1+ A11.2+ 
 0000044 190  AT      the                      Z5 
@@ -1248,8 +1259,9 @@
 0000054 270  NNT1    year                     T1.3 P1c 
 0000054 271  .       .                        
 0000054 272  -----   -----                    
-0000054 280  NN2     Companys                 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
-0000054 290  NP1     EPS                      G1.1c 
+0000054 280  NN1     Company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000054 281  GE      's                       Z5 
+0000054 290  NN1@    EPS                      G1.1c 
 0000054 300  IF      for                      Z5 
 0000054 310  AT      the                      Z5 
 0000054 320  JJ      prior                    N4/T1.1.1 A11.1+ 
@@ -1274,8 +1286,9 @@
 0000054 500  NNT2    years                    T1.3 
 0000054 501  .       .                        
 0000054 502  -----   -----                    
-0000054 510  NN2     Analysts                 Y2/S2mf I2.1/S2mf Y1/S2mf B3/S2mf 
-0000054 520  VV0     mean                     Q1.1 X7+ 
+0000054 510  NN1     Analyst                  Y2/S2mf I2.1/S2mf Y1/S2mf B3/S2mf 
+0000054 511  GE      's                       Z5 
+0000054 520  JJ      mean                     S1.2.2+ S1.2.1- N2 
 0000054 530  NN1     target                   X7+ G3 K5.1 
 0000054 540  NN1     price                    I1.3 
 0000054 550  IF      for                      Z5 

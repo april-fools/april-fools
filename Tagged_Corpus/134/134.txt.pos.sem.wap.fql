@@ -1,8 +1,8 @@
-TOTAL              290
+TOTAL              294
 the                  AT             14 
+we                   PPIS2          10 
 to                   TO              9 
 of                   IO              9 
-we                   PPIS2           8 
 and                  CC              8 
 for                  IF              7 
 Newmarket            NP1             7 
@@ -11,9 +11,9 @@ be                   VBI             5
 our                  APPGE           4 
 mayor                NN1             4 
 independence         NN1             4 
+Auckland             NP1             3 
 super                JJ              3 
 but                  CCB             3 
-its                  APPGE           3 
 that                 CST             3 
 they                 PPHS2           3 
 want                 VV0             3 
@@ -21,7 +21,6 @@ Mr_Brewer            NNB             3
 will                 VM              3 
 has                  VHZ             3 
 Whangamomona         NP1             3 
-Auckland             NP1             2 
 become               VVI             2 
 republic             NN1             2 
 district             NN1             2 
@@ -38,13 +37,14 @@ up_to                II21            2
 advocating           VVG             2 
 have                 VHI             2 
 strongly             RR              2 
-were                 VBDR            2 
+'re                  VBR             2 
+its                  APPGE           2 
 do                   VD0             2 
 their                APPGE           2 
 in                   II              2 
 area                 NN1             1 
 pushes               VVZ             1 
-Aucklands            NP2             1 
+'s                   GE              1 
 leading              JJ              1 
 retailing            NN1             1 
 is                   VBZ             1 
@@ -57,6 +57,8 @@ supportive           JJ              1
 after                II              1 
 surveying            VVG             1 
 businesses           NN2             1 
+it                   PPH1            1 
+'s                   VBZ             1 
 overwhelmingly       RR              1 
 clear                VV0             1 
 constitutionally     RR              1 
@@ -119,7 +121,7 @@ promoted             VVN             1
 constitutional       JJ              1 
 over_the_past_20_years II              1 
 certainly            RR              1 
-nt                   XX              1 
+n't                  XX              1 
 aspire               VVI             1 
 anything             PN1             1 
 like                 II              1 

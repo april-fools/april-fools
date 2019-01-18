@@ -1,17 +1,17 @@
-TOTAL              255
+TOTAL              261
 the                  AT             23 
 a                    AT1            13 
+Honda                NP1             7 
 cr-v                 JJ              7 
 of                   IO              6 
 and                  CC              6 
-Honda                NP1             6 
-is                   VBZ             5 
+is                   VBZ             6 
+it                   PPH1            5 
 new                  JJ              5 
 car                  NN1             4 
 not                  XX              3 
 by                   II              3 
 roadster             NN1             3 
-it                   PPH1            3 
 are                  VBR             3 
 droptop              NN1             2 
 versions             NN2             2 
@@ -20,15 +20,17 @@ Nissan_Murano        NP1             2
 exist                VV0             2 
 so                   RR              2 
 why                  RRQ             2 
-its                  APPGE           2 
+'s                   VBZ             2 
 or                   CC              2 
 crazy                JJ              2 
+'s                   GE              2 
 current              JJ              2 
 available            JJ              2 
 only                 RR              2 
 but                  CCB             2 
 showrooms            NN2             2 
 from                 II              2 
+n't                  XX              2 
 drop-top             NN1             2 
 since                CS              2 
 roof                 NN1             2 
@@ -40,7 +42,8 @@ yes                  UH              1
 that                 DD1             1 
 really               RR              1 
 roofless             JJ              1 
-youre                NN1             1 
+you                  PPY             1 
+'re                  VBR             1 
 looking_at           VVG             1 
 no                   UH              1 
 work                 NN1             1 
@@ -57,7 +60,7 @@ model                NN1             1
 revealed             VVN             1 
 presenting           VVG             1 
 based_on             VVN             1 
-SUVs                 NP2             1 
+SUV                  NP1             1 
 platform             NN1             1 
 with                 IW              1 
 gasoline             NN1             1 
@@ -70,13 +73,10 @@ again                RT              1
 in                   II              1 
 April                NPM1            1 
 1                    MC1             1 
-Hondas               NP2             1 
 topless              JJ              1 
 suv                  NN1             1 
-isnt                 NN1             1 
 technically          RR              1 
 does                 VDZ             1 
-n't                  XX              1 
 feature              VVI             1 
 whatsoever           DDQV            1 
 according_to         II21            1 

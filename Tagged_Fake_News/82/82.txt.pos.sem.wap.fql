@@ -1,4 +1,4 @@
-TOTAL              377
+TOTAL              379
 the                  AT             18 
 a                    AT1            12 
 and                  CC              9 
@@ -6,28 +6,29 @@ is                   VBZ             8
 in                   II              7 
 of                   IO              6 
 to                   TO              6 
+'s                   GE              5 
 known                VVN             5 
 for                  IF              4 
 trafficking          NN1             4 
 was                  VBDZ            4 
 to                   II              4 
 she                  PPHS1           4 
-Clintons             NP2             4 
 child                NN1             4 
 woman                NN1             3 
 her                  APPGE           3 
+Monica_Petersen      NP1             3 
 dead                 JJ              3 
 on                   II              3 
 can                  VM              3 
 from                 II              3 
 that                 CST             3 
+Clintons             NP2             3 
 be                   VBI             3 
 investigating        VVG             3 
 them                 PPHO2           3 
 young                JJ              2 
 an                   AT1             2 
 name                 NN1             2 
-Monica_Petersen      NP1             2 
 media                NN              2 
 family               NN1             2 
 are                  VBR             2 
@@ -41,6 +42,7 @@ just                 RR              2
 some                 DD              2 
 reports              NN2             2 
 by                   II              2 
+Hillary_Clinton      NP1             2 
 reddit               NN1             2 
 found                VVN             2 
 any                  DD              2 
@@ -79,13 +81,13 @@ happened_to          VVD             1
 publicly             RR              1 
 post                 II              1 
 implicate            VV0             1 
+'                    GE              1 
 involvement          NN1             1 
 alleged              JJ              1 
 human                JJ              1 
 via                  II              1 
 mine                 NN1             1 
 run                  VVN             1 
-Hillary              NP1             1 
 brother              NN1             1 
 Tony_Rodham          NP1             1 
 compilation          NN1             1 
@@ -129,8 +131,6 @@ there                EX              1
 Clinton              NP1             1 
 body                 NN1             1 
 count                NN1             1 
-Monica               NP1             1 
-Petersens            NP2             1 
 may                  VM              1 
 well                 RR              1 
 added                VVN             1 
@@ -143,12 +143,10 @@ in_fact              II              1
 thousands            NNO2            1 
 released             VVN             1 
 wikileaks            NN2             1 
-John                 NP1             1 
-Podestas             NP2             1 
+John_Podesta         NP1             1 
 email                NN1             1 
 account              NN1             1 
 surfaced             VVD             1 
-Hillary_Clinton      NP1             1 
 assisted             VVD             1 
 Laura_Silsby         NP1             1 
 involved             JJ              1 
@@ -163,7 +161,7 @@ children             NN2             1
 orphans              NN2             1 
 out_of               II21            1 
 two                  MC              1 
-womens               VVZ             1 
+women                NN2             1 
 history              NN1             1 
 reach                VVI             1 
 back                 RP              1 
@@ -202,8 +200,7 @@ many_times           DA2             1
 Bill_Clinton         NP1             1 
 have                 VHI             1 
 traveled             VVN             1 
-Jeffrey              NP1             1 
-Epsteins             NP2             1 
+Jeffrey_Epstein      NP1             1 
 private              JJ              1 
 molestation          NN1             1 
 island               NN1             1 

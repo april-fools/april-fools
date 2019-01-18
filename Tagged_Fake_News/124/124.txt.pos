@@ -5244,8 +5244,8 @@
 0000234 030 why                                         93 RRQ
 0000234 040 younger                                     93 JJR
 0000234 050 women                                       93 NN2
-0000234 060 are                       >                 56 VB0
-0000234 061 nt                        <                 56 XX
+0000234 060 are                       >                 93 VBR
+0000234 061 n't                       <                 03 XX
 0000234 070 excited                                     93 [VVN@/77] JJ/23 VVD@/0
 0000234 080 about                                       93 [II/96] RP@/4 RG%/0
 0000234 090 electing                                    03 VVG

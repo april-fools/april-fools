@@ -1,19 +1,21 @@
-TOTAL              341
+TOTAL              344
 the                  Z5                  21 
 and                  Z5                  12 
-marvell              Z99                  9 
+marvell              Z99                 10 
+company              I2.1                 8 
 in                   Z5                   8 
 a                    Z5                   8 
 to                   Z5                   8 
-company              I2.1                 7 
 said                 Q2.1                 5 
 of                   Z5                   5 
-Sutardja             Z99                  4 
+'s                   Z5                   4 
 its                  Z8                   4 
 that                 Z5                   4 
 board                S7.1+                4 
 leadership           S7.1+                4 
 technology           Y1                   3 
+group                S5+                  3 
+Sehat_Sutardja       Z1                   3 
 who                  Z8                   3 
 are                  A3+                  3 
 as                   Z5                   3 
@@ -25,8 +27,7 @@ had                  Z5                   3
 it                   Z8                   3 
 also                 N5++                 3 
 starboard            M6                   3 
-groups               S5+                  2 
-sehat                Z99                  2 
+sutardja             Z99                  3 
 Weili_Dai            Z1                   2 
 co-founded           Z99                  2 
 more                 N5++                 2 
@@ -46,7 +47,6 @@ officer              G3                   2
 that                 Z8                   2 
 Bloomberg            Z3                   2 
 was                  Z5                   2 
-Sehat_Sutardja       Z1                   2 
 silicon              O1.1                 2 
 valley               W3                   2 
 husband              S4                   1 
@@ -97,6 +97,7 @@ revenue              G1.1                 1
 would                A7+                  1 
 like                 E2+                  1 
 thank                S1.2.4+              1 
+Sehat                Z99                  1 
 weili                Z99                  1 
 their                Z8                   1 
 enormous             N3.2+++              1 
@@ -148,7 +149,6 @@ his                  Z8                   1
 brother              S4                   1 
 Pantas               Z99                  1 
 among                Z5                   1 
-Marvells             Z99                  1 
 biggest              N3.2+++              1 
 shareholders         I1.1                 1 
 according_to         Z5                   1 
@@ -177,7 +177,6 @@ Dai                  Z99                  1
 fined                G2.1                 1 
 forced               S7.1+                1 
 resign               A9-                  1 
-companys             I2.1                 1 
 operating            A1.1.1               1 
 but                  Z5                   1 
 later                T4--                 1 
@@ -185,7 +184,6 @@ returned             M1                   1
 photo                C1                   1 
 then                 N4                   1 
 chairman             S7.1+                1 
-group                S5+                  1 
 during               Z5                   1 
 panel                S5+                  1 
 discussion           Q2.1                 1 

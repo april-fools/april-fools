@@ -577,7 +577,8 @@
 0000034 001  NULL    <quote>                  
 0000034 002  -----   -----                    
 0000034 010  RR      Well                     A5.1+ A13.3 A7+ B2+ Z4 
-0000034 020  APPGE   its                      Z8 
+0000034 020  PPH1    it                       Z8 
+0000034 021  VBZ     's                       A3+ Z5 
 0000034 030  APPGE   their                    Z8 
 0000034 040  NN1     fault                    A5.3- A2.2 W3% 
 0000034 050  IF      for                      Z5 
@@ -668,6 +669,7 @@
 0000038 020  NP1     Schlesinger              Z1mf[i17.2.2 Z3c[i17.2.2 
 0000038 021  ,       ,                        
 0000038 030  NP1     Reuters                  Z3c 
+0000038 031  GE      '                        Z5 
 0000038 040  NN1     editor-in-chief          Q4/I3.2/S2mf 
 0000038 041  ,       ,                        
 0000038 050  VVD     said                     Q2.1 

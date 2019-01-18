@@ -1,7 +1,7 @@
-TOTAL         682
+TOTAL         683
 NN1           105 
 II             58 
-NP1            54 
+NP1            55 
 AT             49 
 JJ             38 
 VVN            29 
@@ -16,10 +16,10 @@ IO             12
 AT1            10 
 VBDZ           10 
 MC             10 
+GE              9 
 VVG             9 
 VVZ             8 
 APPGE           8 
-GE              7 
 VHD             7 
 VBI             7 
 XX              7 
@@ -40,7 +40,6 @@ VDD             3
 VBZ             3 
 VV0             2 
 II31            2 
-NP2             2 
 CSA             2 
 DD1             2 
 NNB             2 

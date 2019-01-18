@@ -1,15 +1,16 @@
-TOTAL              298
+TOTAL              303
 the                  AT             23 
 of                   IO              8 
+administration       NN1             7 
 and                  CC              7 
 that                 CST             7 
 in                   II              6 
-administration       NN1             6 
 a                    AT1             5 
 Bush                 NP1             5 
 has                  VHZ             5 
 to                   II              5 
 species              NN              5 
+'s                   GE              5 
 endangered_species   JJ              4 
 is                   VBZ             4 
 to                   TO              4 
@@ -33,6 +34,7 @@ current              JJ              2
 protect              VVI             2 
 skeptics             NN2             2 
 compared             VVN             2 
+Clinton              NP1             2 
 reversal             NN1             1 
 direction            NN1             1 
 officially           RR              1 
@@ -75,7 +77,6 @@ animal               NN1             1
 be                   VBI             1 
 protected            VVN             1 
 act                  NN1             1 
-administrations      NN2             1 
 listed               JJ              1 
 none                 PN              1 
 them                 PPHO2           1 
@@ -137,11 +138,10 @@ warming              NN1             1
 theory               NN1             1 
 fact                 NN1             1 
 his                  APPGE           1 
-fathers              NN2             1 
+father               NN1             1 
 as_well              II31            1 
 as                   II33            1 
 President            NNB             1 
-Clintons             NP1             1 
 George_W._Bush       NP1             1 
 done                 VDN             1 
 remarkably           RR              1 
@@ -151,9 +151,8 @@ protection           NN1             1
 since                II              1 
 2001                 MC              1 
 listed               VVN             1 
-Clintons             NP2             1 
 521                  MC              1 
-seniors              NN2             1 
+senior               JJ              1 
 231                  MC              1 
 additionally         RR              1 
 interior             JJ              1 

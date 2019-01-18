@@ -1,4 +1,4 @@
-TOTAL              450
+TOTAL              451
 the                  Z5                  26 
 of                   Z5                  16 
 and                  Z5                  14 
@@ -82,8 +82,8 @@ banks                I1                   1
 informal             S1.2.1+              1 
 investors            I1.1                 1 
 joint                S5+                  1 
-ArcticStartup        Z99                  1 
-thats                Z5                   1 
+ArcticStartup(that   Z99                  1 
+'s                   A3+                  1 
 next                 Z3                   1 
 TechCrunch_Europe    Z1                   1 
 TechCrunch_France    Z1                   1 
@@ -186,7 +186,8 @@ tweet                Z99                  1
 simply               A13.6                1 
 include              A1.8+                1 
 link                 A2.2                 1 
-startup_companys     T2+                  1 
+startup_company      T2+                  1 
+'s                   Z5                   1 
 site                 M7                   1 
 if                   Z7                   1 
 account              I1                   1 

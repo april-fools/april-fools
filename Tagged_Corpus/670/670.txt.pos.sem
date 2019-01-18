@@ -272,7 +272,8 @@
 0000012 020  NN1     article                  Q4.2 O2 Q3 G2.1/P1@ 
 0000012 030  NN1     Shadow                   Z1mf 
 0000012 040  NN2     banks                    I1/H1 I1.1/I2.1c W3/M4 A9+/H1 O2 M6 
-0000012 050  VV0     step                     M1 S1.1.3+ 
+0000012 041  GE      '                        Z5 
+0000012 050  NN1     step                     M1 T1.2 H5 O2 A2.1+ A1.1.1 K1@ K5.1@ 
 0000012 060  II      into                     Z5 
 0000012 070  AT      the                      Z5 
 0000012 080  NN1     spotlight                O3/W2 X5.1+ 
@@ -284,6 +285,7 @@
 0000012 140  VBR     are                      A3+ Z5 
 0000012 150  JJ      challenging              A12- A6.1- S7.3+ 
 0000012 160  NN2     banks                    I1/H1 I1.1/I2.1c W3/M4 A9+/H1 O2 M6 
+0000012 161  GE      '                        Z5 
 0000012 170  NN1     dominance                S7.1+ A11.1+ A11.2+ 
 0000012 180  IO      of                       Z5 
 0000012 190  AT      the                      Z5 
@@ -382,8 +384,9 @@
 0000016 650  IO      of                       Z5 
 0000016 660  VBG     being                    A3+ Z5 
 0000016 670  AT      the                      Z5 
-0000016 680  NN2     worlds                   W1 S5+c A4.1 N5+ 
-0000016 690  VV0     reserve                  A9+ 
+0000016 680  NN1     world                    W1 S5+c A4.1 N5+ 
+0000016 681  GE      's                       Z5 
+0000016 690  JJ      reserve                  A9+ K5.1/S2mf I1.1 M7 S1.2.1- G3/S2mf I1.3@ 
 0000016 700  NN1     currency                 I1 A6.2+ 
 0000016 701  ,       ,                        
 0000016 710  VVD     meant                    Q1.1 X7+ 
@@ -962,7 +965,8 @@
 0000034 350  VVN     Fed                      F1 A9- S8+ M2@ 
 0000034 351  ,       ,                        
 0000034 360  AT      the                      Z5 
-0000034 370  NN2     Peoples                  S2mf 
+0000034 370  NN      People                   S2mfc 
+0000034 371  GE      's                       Z5 
 0000034 380  NN1     Bank                     Z3c[i41.3.1 Z2 
 0000034 390  IO      of                       Z3c[i41.3.2 Z5 
 0000034 400  NP1     China                    Z3c[i41.3.3 Z2 
@@ -975,7 +979,7 @@
 0000036 030  NP1     China                    Z2 
 0000036 040  VVZ     curbs                    A1.7+ 
 0000036 050  JJ      Wild                     L1 E3- O4.2- X5.2+ A6.2- A1.7- A7- 
-0000036 060  ND1     West                     Z2 Z1mf 
+0000036 060  JJ@     West'                    Z99 
 0000036 070  NN1     loan                     I1.2c[i42.2.1 I1.2 A9- 
 0000036 080  NN1     sector                   I1.2c[i42.2.2 A4.1 S5+ M7 N2@ 
 0000036 090  AT      The                      Z5 

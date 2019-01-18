@@ -253,7 +253,8 @@
 0000004 170  NN1     public                   S5+ A10+ S5+c 
 0000004 180  VV0     understand               X2.5+ 
 0000004 190  DDQ     what                     Z8 Z5 
-0000004 200  VV0     theyve                   Z99 
+0000004 200  PPHS2   they                     Z8mfn 
+0000004 201  VH0     've                      Z5 A9+ A2.2 
 0000004 210  VVN     found                    A10+ X2.1 X6+.1 
 0000004 211  .       .                        
 0000004 212  -----   -----                    
@@ -270,7 +271,8 @@
 0000006 010  NN1     displaypodcast           Z99 
 0000006 011  )       &rsqb;                   
 0000008 010  NNB     Dr.                      B3/S2mf P1/S2mf 
-0000008 020  NP1     Nyens                    Z99 
+0000008 020  NP1     Nyen                     Z99 
+0000008 021  GE      's                       Z5 
 0000008 030  NN1     team                     S5+c K5.1/S5+c S5+ 
 0000008 040  VBZ     is                       Z5 A3+ 
 0000008 050  VVG     preparing                A1.1.1 F1 

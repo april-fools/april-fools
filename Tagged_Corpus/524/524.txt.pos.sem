@@ -62,7 +62,8 @@
 0000004 190  RP      up                       Q2.2[i8.2.2 
 0000004 200  II      about                    Z5 
 0000004 210  AT      the                      Z5 
-0000004 220  JJ      singer-actress           Z99 
+0000004 220  NN1     singer-actress           Z99 
+0000004 221  GE      '                        Z5 
 0000004 230  NN2     detractors               Q2.2/S2mf 
 0000004 240  VVG     following                M1 N4 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 X3.4 
 0000004 250  APPGE   her                      Z8f 
@@ -78,8 +79,9 @@
 0000004 350  AT      the                      Z5 
 0000004 360  NN1     set                      N5 N2 K4 O4.1 O3 S5+c O4.5 K5.1% 
 0000004 370  IO      of                       Z5 
-0000004 380  NP2     Annes                    Z1f 
-0000004 390  VV0     show                     A10+ S1.1.1 
+0000004 380  NP1     Anne                     Z1f 
+0000004 381  GE      's                       Z5 
+0000004 390  NN1     show                     A8 K4 S1.1.1 I2.2/S1.1.1 
 0000004 391  ,       ,                        
 0000004 400  NP1     Dyesebel                 Z2[i9.3.1 
 0000004 410  II      on                       Z2[i9.3.2 Z5 
@@ -152,7 +154,8 @@
 0000008 280  AT1     a                        Z5 
 0000008 290  NN1     result                   A2.2 X9.2 N2 A5.1 K5 Q1.1/A2.2 
 0000008 300  IO      of                       Z5 
-0000008 310  NP2     Annes                    Z1f 
+0000008 310  NP1     Anne                     Z1f 
+0000008 311  GE      's                       Z5 
 0000008 320  JJ      bad                      A5.1- G2.2- O4.2- B2- 
 0000008 330  NN1     karma                    Z99 
 0000008 331  .       .                        
@@ -328,7 +331,8 @@
 0000018 280  MC      3                        T1.3[i24.2.2 N1 T1.2 T3 T1.3 N3.2 
 0000018 281  ,       ,                        
 0000018 290  MC      2014                     N1 T1.2 T3 T1.3 N3.2 
-0000020 010  NP2     Annes                    Z1f 
+0000020 010  NP1     Anne                     Z1f 
+0000020 011  GE      's                       Z5 
 0000020 020  NN1     boyfriend                S3.2/S2.2m 
 0000020 030  NP1     Erwan                    Z1mf[i25.2.1 Z3c[i25.2.1 
 0000020 040  NP1     Heussaff                 Z1mf[i25.2.2 Z3c[i25.2.2 
@@ -415,10 +419,12 @@
 0000024 310  NN1     birthday                 T1.2/T3 
 0000024 320  NN1     party                    K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c 
 0000024 330  IO      of                       Z5 
-0000024 340  NP2     Annes                    Z1f 
+0000024 340  NP1     Anne                     Z1f 
+0000024 341  GE      's                       Z5 
 0000024 350  NN1     friend                   S3.1/S2mf 
 0000024 360  CC      and                      Z5 
-0000024 370  APPGE   Its                      Z8 
+0000024 370  PPH1    It                       Z8 
+0000024 371  VBZ     's                       A3+ Z5 
 0000024 380  NNT1    Showtime                 Z99 
 0000024 390  NN1     co-host                  Z99 
 0000024 400  II      Vice                     Z5 
@@ -496,7 +502,8 @@
 0000026 491  ,       ,                        
 0000026 500  DDQ     which                    Z8 Z5 
 0000026 510  VVZ     manages                  S7.1+ A1.1.1 X9.2+ 
-0000026 520  NP2     Sams                     Z1mf 
+0000026 520  NP1     Sam                      Z1mf 
+0000026 521  GE      's                       Z5 
 0000026 530  NN1     career                   I3.1 
 0000026 531  ,       ,                        
 0000026 540  VHZ     has                      Z5 A9+ A2.2 S4 
@@ -652,17 +659,20 @@
 0000034 220  NN1     set                      N5 N2 K4 O4.1 O3 S5+c O4.5 K5.1% 
 0000034 221  ,       ,                        
 0000034 230  PPHS1   she                      Z8f 
-0000034 240  VV0     couldnt                  Z99 
-0000034 250  VV0     feel                     X2.1 E1 X3 
+0000034 240  VM      could                    A7+ 
+0000034 241  XX      n't                      Z6 
+0000034 250  VVI     feel                     X2.1 E1 X3 
 0000034 260  APPGE   her                      Z8f 
 0000034 270  NN2     legs                     B1 O2 N3.3 
 0000034 280  CC      and                      Z5 
 0000034 290  RR      slowly                   N3.8- 
-0000034 300  VV0     couldnt                  Z99 
-0000034 310  VV0     breathe                  B1 
+0000034 300  VM      could                    A7+ 
+0000034 301  XX      n't                      Z6 
+0000034 310  VVI     breathe                  B1 
 0000034 320  RR      properly                 A5.3+ S1.2.4+ A13.3 
 0000034 321  .       .                        
-0000034 322  -----   -----                    
+0000034 322  "@      '                        
+0000034 323  -----   -----                    
 0000034 330  PPHS1   She                      Z8f 
 0000034 340  VVD     said                     Q2.1 
 0000034 350  CST     that                     Z8 Z5 

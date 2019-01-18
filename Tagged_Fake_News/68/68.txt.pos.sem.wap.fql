@@ -1,4 +1,4 @@
-TOTAL              356
+TOTAL              357
 the                  AT             32 
 and                  CC             12 
 of                   IO             10 
@@ -6,9 +6,9 @@ that                 CST             8
 a                    AT1             8 
 climate              NN1             8 
 in                   II              8 
+Sarah_Palin          NP1             7 
 to                   TO              7 
 has                  VHZ             5 
-Sarah_Palin          NP1             5 
 science              NN1             5 
 change               NN1             5 
 technology           NN1             4 
@@ -31,10 +31,10 @@ governor             NN1             2
 be                   VBI             2 
 White_house          NP1             2 
 United_States        NP1             2 
+it                   PPH1            2 
 drill                VV0             2 
 scientists           NN2             2 
-Sarah                NP1             2 
-Palins               NP2             2 
+'s                   GE              2 
 strong               JJ              2 
 disbelief            NN1             2 
 God                  NP1             2 
@@ -74,7 +74,7 @@ kept                 VVD             1
 our                  APPGE           1 
 economy              NN1             1 
 rut                  NN1             1 
-its                  APPGE           1 
+'s                   VBZ             1 
 time                 NNT1            1 
 open                 VVI             1 
 pumps                NN2             1 
@@ -96,7 +96,6 @@ openly               RR              1
 end                  NN1             1 
 establishment        NN1             1 
 know                 VV0             1 
-it                   PPH1            1 
 would                VM              1 
 relegate             VVI             1 
 dark_ages            JJ              1 

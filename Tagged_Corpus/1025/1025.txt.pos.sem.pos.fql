@@ -1,4 +1,4 @@
-TOTAL         112
+TOTAL         113
 NN1            23 
 II             11 
 VVD             8 
@@ -16,6 +16,7 @@ CC              3
 CS              2 
 APPGE           2 
 MC              2 
+GE              2 
 PNQS            1 
 NNT2            1 
 IF              1 
@@ -26,7 +27,6 @@ DA2             1
 MC1             1 
 DD2             1 
 RRQ             1 
-NP2             1 
 PPHO1           1 
 VM              1 
 VVI             1 

@@ -6,11 +6,11 @@ command-and-control      JJ      Z99
 cost-benefit             JJ      Z99 
 crisis-ridden            JJ      Z99 
 CSDP                     NP1     Z99 
-dtre                     NN1     Z99 
+d'tre                    NN1     Z99 
 ENI                      NN1     Z99 
 EUexcept                 NN1     Z99 
 EUSS                     NP1     Z99 
-flotillas                NN2     Z99 
+flotilla                 NN1     Z99 
 FPF                      NP1     Z99 
 Frontex                  NP1     Z99 
 Gdask                    NP1     Z99 
@@ -27,8 +27,7 @@ rumored                  VVN     Z99
 rumored                  VVN@    Z99 
 Smarter                  JJR     Z99 
 Solidarno                NN1     Z99 
-Steinmeiers              NN2     Z99 
+Steinmeier               NP1     Z99 
 supranational            JJ      Z99 
 Techau                   NN1     Z99 
 Telefnica                NP1     Z99 
-youre                    VV0     Z99 

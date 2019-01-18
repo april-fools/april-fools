@@ -1,4 +1,4 @@
-TOTAL              552
+TOTAL              556
 the                  AT             43 
 to                   TO             16 
 and                  CC             13 
@@ -10,13 +10,16 @@ his                  APPGE           8
 senate               NN1             8 
 a                    AT1             8 
 they                 PPHS2           7 
+Harry_Reid           NP1             5 
 republicans          NN2             5 
 now                  RT              5 
 liberals             NN2             5 
 will                 VM              5 
+'s                   GE              5 
 vote                 NN1             5 
 for                  IF              5 
 be                   VBI             5 
+Reid                 NP1             4 
 was                  VBDZ            4 
 democrats            NN2             4 
 would                VM              4 
@@ -24,20 +27,17 @@ majority             NN1             4
 votes                NN2             4 
 not                  XX              4 
 were                 VBDR            4 
-Harry_Reid           NP1             3 
 from                 II              3 
 their                APPGE           3 
+that                 DD1             3 
 is                   VBZ             3 
-Reid                 NP1             3 
 he                   PPHS1           3 
 ignored              VVD             3 
 by                   II              3 
 which                DDQ             3 
-Reids                NP2             3 
 only                 RR              3 
 if                   CS              3 
 it                   PPH1            3 
-that                 DD1             2 
 peers                NN2             2 
 just                 RR              2 
 as                   CSA             2 
@@ -51,13 +51,12 @@ has                  VHZ             2
 allow                VVI             2 
 51                   MC              2 
 super                JJ              2 
-Harry                NP1             2 
 pass                 VVI             2 
 at_the_time          II              2 
 easily               RR              2 
 all                  DB              2 
 President-Elect      NNB             2 
-trumps               VVZ             2 
+Donald_trump         NP1             2 
 agenda               NN1             2 
 gop                  NN1             2 
 at_least             RR21            2 
@@ -72,6 +71,7 @@ said                 VVD             2
 americans            NN2             2 
 first                MD              2 
 Senator              NNB             2 
+n't                  XX              2 
 both                 DB2             2 
 power                NN1             2 
 when                 CS              2 
@@ -128,7 +128,6 @@ both                 RR              1
 house                NN1             1 
 them                 PPHO2           1 
 items                NN2             1 
-Donald               NP1             1 
 career               NN1             1 
 politicians          NN2             1 
 have_the_nerve       VH0             1 
@@ -140,6 +139,7 @@ jump_ship            VV0             1
 rare                 JJ              1 
 tie                  NN1             1 
 occur                VV0             1 
+trump                NN1             1 
 still                RR              1 
 survive              VVI             1 
 vice                 II              1 
@@ -185,7 +185,7 @@ go                   VVI             1
 on_record            II              1 
 supporting           VVG             1 
 radicals             NN2             1 
-thats                VVZ             1 
+'s                   VBZ             1 
 decision             NN1             1 
 have_to              VHI             1 
 live_with            VVI             1 
@@ -209,7 +209,6 @@ incoming             JJ              1
 minority             NN1             1 
 leader               NN1             1 
 does                 VDZ             1 
-nt                   XX              1 
 appear               VVI             1 
 have                 VHI             1 
 been                 VBN             1 
@@ -260,7 +259,7 @@ as_well              RR21            1
 totally              RR              1 
 picture              NN1             1 
 placing              VVG             1 
-wont                 NN1             1 
+wo                   VM              1 
 perpetuity           NN1             1 
 mistake              NN1             1 
 one                  PN1             1 
@@ -298,7 +297,6 @@ far-left             NN1             1
 contingent           NN1             1 
 Washington           NP1             1 
 at_the_mercy_of      II              1 
-Donald_trump         NP1             1 
 elected              JJ              1 
 public               JJ              1 
 servants             NN2             1 

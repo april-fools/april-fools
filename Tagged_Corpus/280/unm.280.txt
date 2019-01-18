@@ -7,4 +7,3 @@ pterodactyl-like         JJ      Z99
 reptiles                 NN2     Z99 
 subspecies               NN      Z99 
 tersely                  RR      Z99 
-Theyll                   NN1     Z99 

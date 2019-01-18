@@ -1,4 +1,4 @@
-TOTAL              364
+TOTAL              368
 the                  AT             19 
 she                  PPHS1          11 
 a                    AT1             9 
@@ -8,9 +8,13 @@ and                  CC              8
 was                  VBDZ            7 
 he                   PPHS1           6 
 about                II              5 
+Mrs._Reagan          NNB             4 
 not                  XX              4 
 for                  IF              4 
 Donald_trump         NP1             4 
+would                VM              4 
+i                    PPIS1           4 
+n't                  XX              4 
 debate               NN1             4 
 his                  APPGE           4 
 to                   TO              4 
@@ -18,12 +22,12 @@ her                  APPGE           4
 who                  PNQS            3 
 on                   II              3 
 at                   II              3 
+'s                   GE              3 
 her                  PPHO1           3 
 all                  DB              3 
 said                 VVD             3 
 republican           NN1             3 
-would                VM              3 
-i                    PPIS1           3 
+that                 DD1             3 
 by                   II              3 
 former               DA              2 
 first                MD              2 
@@ -31,19 +35,18 @@ lady                 NN1             2
 age                  NN1             2 
 private              JJ              2 
 nurse                NN1             2 
-Mrs._Reagans         NNB             2 
 last                 MD              2 
 do                   VD0             2 
 debates              NN2             2 
 very                 RG              2 
 happy                JJ              2 
 because              CS              2 
-nt                   XX              2 
+believe              VVI             2 
 11th                 MD              2 
 when                 CS              2 
-that                 DD1             2 
 during               II              2 
 public               JJ              2 
+could                VM              2 
 have                 VHI             2 
 knees                NN2             2 
 size                 NN1             2 
@@ -51,7 +54,6 @@ commandment          NN1             2
 in                   II              2 
 at_least             RR21            2 
 too                  RR              2 
-Mrs._Reagan          NNB             2 
 that                 CST             2 
 but                  CCB             2 
 thoone               NN1             2 
@@ -91,7 +93,6 @@ true                 JJ              1
 cast                 VVI             1 
 vote                 NN1             1 
 at_all               RR21            1 
-believe              VVI             1 
 thought              VVD             1 
 real                 JJ              1 
 took                 VVD             1 
@@ -110,7 +111,7 @@ held                 VVN             1
 March_4              NPM1            1 
 trump                NN1             1 
 responded            VVN             1 
-Romneys              NP2             1 
+Romney               NP1             1 
 attack               NN1             1 
 against              II              1 
 him                  PPHO1           1 
@@ -118,7 +119,6 @@ saying               VVG             1
 begging              VVG             1 
 my                   APPGE           1 
 endorsement          NN1             1 
-could                VM              1 
 said                 VVN             1 
 Mitt                 NP1             1 
 drop                 VV0             1 
@@ -163,9 +163,7 @@ party                NN1             1
 broke                VVD             1 
 few                  DA2             1 
 others               NN2             1 
-as_far_as            CS31            1 
-Im                   NP1             1 
-concerned            JJ              1 
+as_far_as_'m_concerned CS31            1 
 Thoone               NP1             1 
 became               VVD             1 
 somewhat             DD1             1 
@@ -175,20 +173,16 @@ remembered           VVD             1
 crack                VV0             1 
 made                 VVD             1 
 being                VBG             1 
-beautiful            JJ              1 
-wouldnt              VV0             1 
-say                  VV0             1 
+beautiful'           JJ              1 
+say                  VVI             1 
 caused               VVD             1 
 pass                 VVI             1 
-thats                NN2             1 
-up_to                II21            1 
+'s_up_to             VBZ             1 
 lord                 NN1             1 
 certainly            RR              1 
 did                  VDD             1 
 help                 VVI             1 
 any                  DD              1 
-couldnt              VV0             1 
-believe              VV0             1 
 what                 DDQ             1 
 seeing               VVG             1 
 hearing              VVG             1 

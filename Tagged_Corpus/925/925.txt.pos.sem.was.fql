@@ -1,4 +1,4 @@
-TOTAL             1527
+TOTAL             1529
 the                  Z5                 110 
 to                   Z5                  48 
 and                  Z5                  40 
@@ -8,9 +8,9 @@ a                    Z5                  29
 for                  Z5                  22 
 with                 Z5                  18 
 it                   Z8                  17 
+'s                   Z5                  17 
+club                 S5+                 16 
 Uzbekistan           Z2                  15 
-club                 S5+                 15 
-'s                   Z5                  15 
 by                   Z5                  14 
 their                Z8                  14 
 Barcelona            Z2                  13 
@@ -37,7 +37,6 @@ were                 Z5                   7
 many                 N5+                  6 
 years                T1.3                 6 
 he                   Z8                   6 
-clubs                S5+                  5 
 but                  Z5                   5 
 world                W1                   5 
 players              K6                   5 
@@ -52,6 +51,7 @@ is                   Z5                   5
 our                  Z8                   5 
 link_up              S5+                  4 
 deal                 N5                   4 
+clubs                S5+                  4 
 one                  N1                   4 
 worst                A5.1---              4 
 human_rights         G1.2                 4 
@@ -97,6 +97,7 @@ were                 A3+                  3
 international        M7                   3 
 this                 M6                   3 
 these                Z5                   3 
+country              G1.1                 3 
 Karimov              Z99                  3 
 human                S2                   3 
 rights               A5.3+                3 
@@ -167,7 +168,6 @@ daughter             S4                   2
 life                 L1+                  2 
 recently             T3---                2 
 record               Q1.2                 2 
-country              G1.1                 2 
 studies              P1                   2 
 them                 Z8                   2 
 rise                 N5+                  2 
@@ -375,7 +375,6 @@ whereas              Z5                   1
 companies            I2.1                 1 
 creative             X2.1                 1 
 sector               A4.1                 1 
-countrys             G1.1                 1 
 economy              I2.1                 1 
 why                  A2.2                 1 
 builder              H1                   1 

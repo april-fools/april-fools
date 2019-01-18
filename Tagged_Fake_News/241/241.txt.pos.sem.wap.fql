@@ -1,4 +1,4 @@
-TOTAL              444
+TOTAL              454
 the                  AT             19 
 a                    AT1            12 
 of                   IO             12 
@@ -6,14 +6,15 @@ in                   II             11
 and                  CC              9 
 trump                NN1             9 
 to                   TO              9 
+'s                   GE              8 
 has                  VHZ             6 
+Mulvaney             NP1             6 
 said                 VVD             6 
 his                  APPGE           6 
 nominated            VVN             5 
 is                   VBZ             5 
 budget               NN1             5 
 as                   CSA             5 
-Mulvaney             NP1             5 
 our                  APPGE           5 
 he                   PPHS1           5 
 from                 II              4 
@@ -21,8 +22,10 @@ who                  PNQS            4
 about                II              4 
 with                 IW              4 
 how                  RRQ             4 
+director             NN1             3 
 on                   II              3 
 an                   AT1             3 
+country              NN1             3 
 make                 VVI             3 
 choices              NN2             3 
 their                APPGE           3 
@@ -35,20 +38,19 @@ government           NN1             3
 new                  JJ              3 
 President-elect      NNB             2 
 as                   II              2 
-director             NN1             2 
 office               NN1             2 
 statement            NN1             2 
 after                II              2 
 called               VVN             2 
 for                  IF              2 
-country              NN1             2 
+nation               NN1             2 
 that                 CST             2 
 administration       NN1             2 
 would                VM              2 
 smart                JJ              2 
 american             JJ              2 
-taxpayers            NN2             2 
-trust                VV0             2 
+taxpayer             NN1             2 
+trust                NN1             2 
 spent                VVN             2 
 other                JJ              2 
 approval             NN1             2 
@@ -61,7 +63,8 @@ house                NN1             2
 going_to             VVGK            2 
 federal              JJ              2 
 we                   PPIS2           2 
-its                  APPGE           2 
+it                   PPH1            2 
+'s                   VBZ             2 
 time                 NNT1            2 
 Donald_trump         NP1             1 
 Mick_Mulvaney        NP1             1 
@@ -78,7 +81,7 @@ shortly              RR              1
 tweeted              VVD             1 
 inflammatory         JJ              1 
 comment              NN1             1 
-Chinas               NP2             1 
+China                NP1             1 
 seizure              NN1             1 
 US                   NP1             1 
 navy                 NN1             1 
@@ -92,7 +95,6 @@ deep                 JJ              1
 convictions          NN2             1 
 responsibly          RR              1 
 manage               VVI             1 
-nations              NN2             1 
 finances             NN2             1 
 save                 VV0             1 
 drowning             VVG             1 
@@ -116,11 +118,9 @@ under                II              1
 Barack_Obama         NP1             1 
 like                 II              1 
 nominations          NN2             1 
-directors            NN2             1 
 job                  NN1             1 
 requires             VVZ             1 
 senate               NN1             1 
-Mulvaneys            NP1             1 
 nomination           NN1             1 
 follows              VVZ             1 
 pattern              NN1             1 
@@ -212,14 +212,13 @@ Mick                 NP1             1
 head                 NN1             1 
 OMB                  NP1             1 
 my                   APPGE           1 
-Americas             NP2             1 
+America              NP1             1 
 bring                VV0             1 
 accountability       NN1             1 
 renew                VV0             1 
 each_day             DD1             1 
 families             NN2             1 
 across               II              1 
-nation               NN1             1 
 make                 VV0             1 
 disciplined          JJ              1 
 spend                VVI             1 
@@ -239,8 +238,7 @@ congress             NN1             1
 $1tn                 NNU             1 
 spending             NN1             1 
 rebuild              VVI             1 
-countrys             NN2             1 
-crumbling            VVG             1 
+crumbling            JJ              1 
 network              NN1             1 
 roads                NN2             1 
 bridges              NN2             1 

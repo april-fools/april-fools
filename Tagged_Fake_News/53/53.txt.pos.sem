@@ -58,7 +58,7 @@
 0000002 510  NN1     use                      A1.5.1 
 0000002 520  IO      of                       Z5 
 0000002 530  AT1     a                        Z5 
-0000002 540  JJ      private                  A10- S5- G1.1- 
+0000002 540  JJ      private'                 Z99 
 0000002 550  NN1     server                   F1/S2mf Y2 
 0000002 560  TO      to                       Z5 
 0000002 570  VVI     conduct                  A1.1.1 S1.1.1 K2 O4.1 
@@ -147,6 +147,7 @@
 0000008 070  NNB     Mr.                      S2.2m 
 0000008 080  NN1     president                G1.1/S7.1+/S2mf 
 0000008 081  ,       ,                        
+0000008 082  "@      '                        
 0000008 090  RRQ     when                     Z5 
 0000008 100  VDD     did                      A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
 0000008 110  PPY     you                      Z8mf 
@@ -208,10 +209,10 @@
 0000010 100  RR      however                  Z4 
 0000010 101  ,       ,                        
 0000010 110  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000010 111  XX      nt                       S9/Q4.1 Z3c 
+0000010 111  XX      n't                      Z6 
 0000010 120  VVI     believe                  X2.1 S9% 
 0000010 130  AT      the                      Z5 
-0000010 140  NN1     president                G1.1/S7.1+/S2mf 
+0000010 140  NN1     president'               Z99 
 0000010 150  CS      when                     Z5 
 0000010 160  PPHS1   he                       Z8m 
 0000010 170  VVD     said                     Q2.1 
@@ -219,7 +220,8 @@
 0000010 181  .       .                        
 0000010 182  -----   -----                    
 0000010 190  CC      And                      Z5 
-0000010 200  NP2     Clintons                 Z1mf 
+0000010 200  NP1     Clinton                  Z1mf 
+0000010 201  GE      's                       Z5 
 0000010 210  JJ      top                      M6 N5.1+ A11.1+++ S7.1+++ N4 X9.1+++ A5.1+++ 
 0000010 220  NN1     aide                     S8+/S2mf 
 0000010 221  ,       ,                        
@@ -245,9 +247,10 @@
 0000010 380  DD1     this                     Z8 M6 Z5 
 0000010 390  RP      up                       Z5 X9.1+ M6 N4 N5++ T2- A1.1.1 N5+/A2.1 
 0000010 391  ,       ,                        
+0000010 392  GE      '                        Z5 
 0000010 400  VVG     noting                   Q2.1 Q1.2 
 0000010 410  AT      the                      Z5 
-0000010 420  NN1     president                G1.1/S7.1+/S2mf 
+0000010 420  NN1     president'               Z99 
 0000010 430  VHZ     has                      A9+ Z5 A2.2 S4 
 0000010 440  NN2     emails                   Q1.3/Y2 
 0000010 450  II      from                     Z5 

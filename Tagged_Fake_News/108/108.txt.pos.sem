@@ -21,7 +21,8 @@
 0000002 170  JJ      damaging                 A1.1.2 
 0000002 180  NN1     information              X2.2+ 
 0000002 190  II      about                    Z5 
-0000002 200  NP2     NASAs                    Z1 
+0000002 200  NP1     NASA                     Z1 
+0000002 201  GE      's                       Z5 
 0000002 210  NP1     Apollo                   Z3m 
 0000002 220  NN1     program                  Y2 X7+ Q4.3 Q1.2 P1 
 0000002 221  ,       ,                        
@@ -36,7 +37,8 @@
 0000004 040  VHZ     has                      Z5 A9+ A2.2 S4 
 0000004 050  VVN     lived                    H4 L1+ A3 
 0000004 060  II      at                       Z5 
-0000004 070  NP2     Ecuadors                 Z2 
+0000004 070  NP1     Ecuador                  Z2 
+0000004 071  GE      's                       Z5 
 0000004 080  NP1     London                   Z2 
 0000004 090  NN1     embassy                  G1.1c 
 0000004 100  II@     since                    Z5 

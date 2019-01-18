@@ -1,5 +1,6 @@
 actor/writer/comedian    NN1     Z99 
 Benowitz                 NP1     Z99 
+Betsy                    JJ      Z99 
 comedic                  JJ      Z99 
 Dorfman                  NP1     Z99 
 first-look               JJ      Z99 
@@ -9,6 +10,7 @@ Ling                     NN1     Z99
 MTVI                     NP1     Z99 
 music-based              JJ      Z99 
 non-scripted             JJ      Z99 
+Schechter                NN1     Z99 
 Smoove                   NP1     Z99 
 Stakeout                 NN1     Z99 
 Storyville               NP1     Z99 

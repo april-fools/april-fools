@@ -9,12 +9,13 @@
 0000002 070  PPH1    it                       Z8 
 0000002 071  ,       ,                        
 0000002 080  CCB     but                      Z5 
-0000002 090  APPGE   its                      Z8 
+0000002 090  PPH1    it                       Z8 
+0000002 091  VBZ     's                       A3+ Z5 
 0000002 100  JJ      tricky                   A12- G2.2- 
 0000002 101  .       .                        
 0000003 001  -----   -----                    
 0000004 010  PPHS1   He                       Z8m 
-0000004 011  VBZ     s                        Z5 
+0000004 011  VHZ     's                       Z5 A9+ A2.2 
 0000004 020  RR      only                     A14 
 0000004 030  VVN     got                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
 0000004 040  AT1     a                        Z5 
@@ -23,7 +24,8 @@
 0000004 070  VVN     left                     M1 M2 A1.1.1 A1.9 A9- N5.2+ T2- 
 0000004 080  TO      to                       Z5 
 0000004 090  VVI     damage                   A1.1.2 
-0000004 100  NP2     Americas                 Z2 
+0000004 100  NP1     America                  Z2 
+0000004 101  GE      's                       Z5 
 0000004 110  NN1     energy                   X5.2+ Y1 
 0000004 120  NN1     independence             S5- 
 0000004 121  .       .                        
@@ -140,14 +142,16 @@
 0000006 300  NN2     plans                    X7+ C1/H1 
 0000006 301  .       .                        
 0000007 001  -----   -----                    
-0000008 010  APPGE   Its                      Z8 
+0000008 010  PPH1    It                       Z8 
+0000008 011  VBZ     's                       A3+ Z5 
 0000008 020  JJ      unclear                  A7- A10- O4.3 O4.1 
 0000008 021  ,       ,                        
 0000008 030  RR      however                  Z4 
 0000008 031  ,       ,                        
 0000008 040  RRQ     how                      Z5 A13.3 
 0000008 050  JJ      large                    N3.2+ N5+ A11.1+ 
-0000008 060  NP2     Obamas                   Z99 
+0000008 060  NP1     Obama                    Z99 
+0000008 061  GE      's                       Z5 
 0000008 070  JJ      protected                S8+/A15+ A10- 
 0000008 080  NN2     areas                    M7 A4.1 N3.6 
 0000008 090  VM      will                     T1.1.3 
@@ -208,8 +212,9 @@
 0000012 221  .       .                        
 0000013 001  -----   -----                    
 0000014 010  CCB     But                      Z5 
-0000014 020  DD1     that                     Z8 Z5 
-0000014 030  VVZ     plans                    X7+ 
+0000014 020  DD1     that                     Z5 Z8 
+0000014 030  NN1     plan                     X7+ C1/H1 
+0000014 031  GE      's                       Z5 
 0000014 040  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000014 050  NN1     period                   T1.3 B1 Q3 P1/T1.3 
 0000014 060  VBZ     is                       Z5 A3+ 
@@ -266,7 +271,8 @@
 0000016 290  NN      species                  A4.1c L2c 
 0000016 291  .       .                        
 0000017 001  -----   -----                    
-0000018 010  APPGE   Its                      Z8 
+0000018 010  PPH1    It                       Z8 
+0000018 011  VBZ     's                       A3+ Z5 
 0000018 020  JJ      unclear                  A7- A10- O4.3 O4.1 
 0000018 030  RGQ@    how                      Z5 A13.3 
 0000018 040  RR      easily                   A12+ 
@@ -286,7 +292,8 @@
 0000018 170  VVI     roll                     M1[i10.2.1 M2[i10.2.1 M1 M2 A1.1.1 
 0000018 180  RP      back                     M1[i10.2.2 M2[i10.2.2 M6 N6+ T1.1.1 S1.1.2+ 
 0000018 190  AT1     a                        Z5 
-0000018 200  NN2     predecessors             N4/S2mf N4 
+0000018 200  NN1     predecessor              N4/S2mf N4 
+0000018 201  GE      's                       Z5 
 0000018 210  NN2     actions                  A1.1.1 G3 
 0000018 220  II      under                    Z5 
 0000018 230  DD1     that                     Z5 Z8 
@@ -300,7 +307,8 @@
 0000018 290  RP@     in                       S1.1.3+[i11.2.2 M1[i11.2.2 M6 
 0000018 300  TO      to                       Z5 
 0000018 310  VVI     undo                     A1.7- A1.1.1 
-0000018 320  NP2     Obamas                   Z99 
+0000018 320  NP1     Obama                    Z99 
+0000018 321  GE      's                       Z5 
 0000018 330  NN2     actions                  A1.1.1 G3 
 0000018 331  .       .                        
 0000019 001  -----   -----                    
@@ -312,7 +320,8 @@
 0000020 060  IO      of                       Z5 
 0000020 070  NN1     recklessness             Z99 
 0000020 080  II      on                       Z5 
-0000020 090  NP2     Obamas                   Z99 
+0000020 090  NP1     Obama                    Z99 
+0000020 091  GE      's                       Z5 
 0000020 100  NN1     part                     N5.1- O2 M7 I3.1 S1.1.3+ K4 
 0000020 110  VVG     applying                 Q2.2 A1.5.1 A1.2+ A1.8+ S7.1+ 
 0000020 120  AT1     a                        Z5 
@@ -331,8 +340,9 @@
 0000020 240  NN1     oil                      O1.2/I2.1c[i12.2.1 O1.2 C1 C1/O1 
 0000020 250  NN2     companies                O1.2/I2.1c[i12.2.2 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
 0000020 260  PPHS2   they                     Z8mfn 
-0000020 270  JJ      cant                     Q2.1 Z1mf Z1 
-0000020 280  VV0     explore                  M1 X2.4 
+0000020 270  VM      ca                       A7+ 
+0000020 271  XX      n't                      Z6 
+0000020 280  VVI     explore                  M1 X2.4 
 0000020 290  JJ      gigantic                 N3.2+++ 
 0000020 300  NN2     portions                 N5 
 0000020 310  IO      of                       Z5 
@@ -343,7 +353,7 @@
 0000020 340  RR      Just                     A14 T3--- T1.3- N3.3--- 
 0000020 350  CS      because                  Z5/A2.2 
 0000020 360  PPHS1   he                       Z8m 
-0000020 361  VBZ     s                        T1.3 I1.1 Z5 
+0000020 361  VBZ     's                       A3+ Z5 
 0000020 370  NP1     Barack                   Z1mf[i13.2.1 Z3c[i13.2.1 
 0000020 380  NP1     Obama                    Z1mf[i13.2.2 Z3c[i13.2.2 
 0000020 390  CC      and                      Z5 
@@ -387,14 +397,16 @@
 0000024 070  NN1     Trump                    Z1mf 
 0000024 080  TO      to                       Z5 
 0000024 090  VVI     reverse                  M6 A2.1+/A6.1- M1 
-0000024 100  NP2     Obamas                   Z99 
+0000024 100  NP1     Obama                    Z99 
+0000024 101  GE      's                       Z5 
 0000024 110  JJ      heading-out-the-door     Z99 
 0000024 120  NN1     finger                   B1 O4.4 
 0000024 130  II      in                       Z5 
 0000024 140  AT      the                      Z5 
 0000024 150  NN1     eye                      B1 X3.4 
 0000024 160  II      to                       Z5 
-0000024 170  NP2     Americas                 Z2 
+0000024 170  NP1     America                  Z2 
+0000024 171  GE      's                       Z5 
 0000024 180  NN1     oil                      I4/O1.2c[i16.2.1 O1.2 C1 C1/O1 
 0000024 190  NN1     industry                 I4/O1.2c[i16.2.2 I4c I2.1c 
 0000024 191  ,       ,                        
@@ -418,8 +430,9 @@
 0000024 360  NN1     law                      G2.1 S6+ Y1 
 0000024 361  ,       ,                        
 0000024 370  RR      essentially              S6+ A13.2 Z4 
-0000024 380  JJ@     nullifying               Z99 
-0000024 390  NP2     Obamas                   Z99 
+0000024 380  VVG     nullifying               T2-/G2.1 Z6 
+0000024 390  NP1     Obama                    Z99 
+0000024 391  GE      's                       Z5 
 0000024 400  NN2     actions                  A1.1.1 G3 
 0000024 401  .       .                        
 0000024 402  -----   -----                    
@@ -427,8 +440,9 @@
 0000024 420  VM      could                    A7+ 
 0000024 430  RR      also                     N5++ 
 0000024 440  VVI     amend                    A2.1+ 
-0000024 450  NP2     Obamas                   Z99 
-0000024 460  VVG     drilling                 A1.1.1 G3 
+0000024 450  NP1     Obama                    Z99 
+0000024 451  GE      's                       Z5 
+0000024 460  NN1@    drilling                 A1.1.1 G3 
 0000024 470  NN1     lease                    I2.2 
 0000024 480  NN1     plan                     X7+ C1/H1 
 0000024 490  IF      for                      Z5 
@@ -470,7 +484,8 @@
 0000026 090  RR      simply                   A13.6 A14 A12+ 
 0000026 100  VV0     declare                  Q2.2 K5.1% 
 0000026 110  CST     that                     Z5 Z8 
-0000026 120  NN2@    Obamas                   Z99 
+0000026 120  NP1     Obama                    Z99 
+0000026 121  GE      's                       Z5 
 0000026 130  NN1     action                   A1.1.1 G3 
 0000026 140  II      under                    Z5 
 0000026 150  AT      the                      Z5 
@@ -490,20 +505,23 @@
 0000026 280  DA      own                      Z8[i17.2.2 A9+ S5- 
 0000026 281  .       .                        
 0000026 282  -----   -----                    
-0000026 290  APPGE   Its                      Z8 
-0000026 300  XX      not                      Z6 
-0000026 310  JJ      clear                    A7+ A10+ O4.3 O4.1 N5.1+ W4 
+0000026 290  PPH1    It                       Z8 
+0000026 291  VBZ     's                       X2.5-[i18.3.1 A10-[i18.3.1 A3+ Z5 
+0000026 300  XX      not                      X2.5-[i18.3.2 A10-[i18.3.2 Z6 
+0000026 310  JJ      clear                    X2.5-[i18.3.3 A10-[i18.3.3 A7+ A10+ O4.3 O4.1 N5.1+ W4 
 0000026 320  RGQ@    how                      Z5 A13.3 
 0000026 330  DA1     much                     N5+ I1.3+ 
 0000026 340  NN1     force                    E3- S7.1+ G2.1c N3 S5+c 
 0000026 350  IO      of                       Z5 
 0000026 360  NN1     law                      G2.1 S6+ Y1 
-0000026 370  NP2     Obamas                   Z99 
+0000026 370  NP1     Obama                    Z99 
+0000026 371  GE      's                       Z5 
 0000026 380  NN1     action                   A1.1.1 G3 
 0000026 390  VHZ     has                      A9+ Z5 A2.2 S4 
 0000026 391  ,       ,                        
 0000026 400  CS      although                 Z5 
-0000026 410  APPGE   its                      Z8 
+0000026 410  PPH1    it                       Z8 
+0000026 411  VBZ     's                       A3+ Z5 
 0000026 420  XX      not                      Z6 
 0000026 430  RR      purely                   A14 
 0000026 440  AT1     an                       Z5 
@@ -532,8 +550,8 @@
 0000026 670  NN1     statute                  G2.1 
 0000026 671  .       .                        
 0000027 001  -----   -----                    
-0000028 010  PPIS1   I                        Z4[i18.2.1 Z8mf 
-0000028 020  VV0     suspect                  Z4[i18.2.2 X2.1/A5.1- A7 
+0000028 010  PPIS1   I                        Z4[i19.2.1 Z8mf 
+0000028 020  VV0     suspect                  Z4[i19.2.2 X2.1/A5.1- A7 
 0000028 030  CST     that                     Z8 Z5 
 0000028 040  CS      if                       Z7 
 0000028 050  NN1     Trump                    Z1mf 
@@ -541,8 +559,9 @@
 0000028 070  VVZ     tries                    X8+ X2.4 Q2.2 G2.1 A12- 
 0000028 080  TO      to                       Z5 
 0000028 090  VVI     reverse                  M6 A2.1+/A6.1- M1 
-0000028 100  NP2     Obamas                   Z99 
-0000028 110  VVZ@    actions                  A1.1.1 
+0000028 100  NP1     Obama                    Z99 
+0000028 101  GE      's                       Z5 
+0000028 110  NN2     actions                  A1.1.1 G3 
 0000028 120  RR      unilaterally             S1.1.2- 
 0000028 121  ,       ,                        
 0000028 130  EX      there                    Z5 
@@ -560,7 +579,8 @@
 0000028 250  TO      to                       Z5 
 0000028 260  RR      effectively              A5.4+ X9.2+ 
 0000028 270  VVI     prevent                  S8- 
-0000028 280  NN2     Trumps                   K5.2 S7.1+ 
+0000028 280  NN1     Trump                    Z1mf 
+0000028 281  GE      's                       Z5 
 0000028 290  NN1     action                   A1.1.1 G3 
 0000028 291  .       .                        
 0000029 001  -----   -----                    
@@ -573,13 +593,13 @@
 0000030 070  RL      here                     M6 T1.1.2 T1.2 
 0000030 071  ,       ,                        
 0000030 080  CS      because                  Z5/A2.2 
-0000030 090  II      at                       T1.1.2[i19.3.1 Z5 
-0000030 100  AT      the                      T1.1.2[i19.3.2 Z5 
-0000030 110  NN1     moment                   T1.1.2[i19.3.3 T1.2 T1.1.2 N3 
+0000030 090  II      at                       T1.1.2[i20.3.1 Z5 
+0000030 100  AT      the                      T1.1.2[i20.3.2 Z5 
+0000030 110  NN1     moment                   T1.1.2[i20.3.3 T1.2 T1.1.2 N3 
 0000030 120  RGT     most                     A13.2 
 0000030 130  JJ      American                 Z2 
-0000030 140  NN1     oil                      O1.2/I2.1c[i20.2.1 O1.2 C1 C1/O1 
-0000030 150  NN2     companies                O1.2/I2.1c[i20.2.2 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000030 140  NN1     oil                      O1.2/I2.1c[i21.2.1 O1.2 C1 C1/O1 
+0000030 150  NN2     companies                O1.2/I2.1c[i21.2.2 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
 0000030 160  PNQS    who                      Z8 
 0000030 170  VV0     engage                   A1.1.1 S1.1.3+ X5.2+ I3.1 G3@ 
 0000030 180  II      in                       Z5 
@@ -619,25 +639,26 @@
 0000030 490  AT1     a                        Z5 
 0000030 500  NN1     challenge                A12- A6.1- S7.3+ E3- 
 0000030 510  IF      for                      Z5 
-0000030 520  NN2     Trumps                   K5.2 S7.1+ 
+0000030 520  NN1     Trump                    Z1mf 
+0000030 521  GE      's                       Z5 
 0000030 530  JJ      new                      T3- 
 0000030 540  NP1     EPA                      Z99 
 0000030 541  .       .                        
 0000031 001  -----   -----                    
-0000032 010  II      In                       T1.3[i21.3.1 Z5 
-0000032 020  AT      the                      T1.3[i21.3.2 Z5 
-0000032 030  NNT1    meantime                 T1.3[i21.3.3 T1.1.2 
+0000032 010  II      In                       T1.3[i22.3.1 Z5 
+0000032 020  AT      the                      T1.3[i22.3.2 Z5 
+0000032 030  NNT1    meantime                 T1.3[i22.3.3 T1.1.2 
 0000032 031  ,       ,                        
 0000032 040  NP1     Obama                    Z99 
 0000032 050  VVZ     shows                    A10+ S1.1.1 
 0000032 060  PPIO2   us                       Z8 
-0000032 070  RR21    once                     Z4[i22.2.1 N6+[i22.2.1 N6- T1.1.1 
-0000032 080  RR22    again                    Z4[i22.2.2 N6+[i22.2.2 
+0000032 070  RR21    once                     Z4[i23.2.1 N6+[i23.2.1 N6- T1.1.1 
+0000032 080  RR22    again                    Z4[i23.2.2 N6+[i23.2.2 
 0000032 090  CST     that                     Z5 Z8 
 0000032 100  APPGE   his                      Z8m 
 0000032 110  NN1     priority                 A11.1+ 
-0000032 120  II      above                    A13.2[i23.2.1 Z5 
-0000032 130  DB      all                      A13.2[i23.2.2 N5.1+ 
+0000032 120  II      above                    A13.2[i24.2.1 Z5 
+0000032 130  DB      all                      A13.2[i24.2.2 N5.1+ 
 0000032 140  RR      else                     A6.1- Z4 
 0000032 150  VBZ     is                       A3+ Z5 
 0000032 160  AT      the                      Z5 
@@ -716,8 +737,8 @@
 0000034 070  PPIS2   we                       Z8 
 0000034 080  VM      will                     T1.1.3 
 0000034 090  RR      never                    T1/Z6 
-0000034 100  VHI     have                     S6+[i24.2.1 A9+ Z5 A2.2 S4 
-0000034 110  TO      to                       S6+[i24.2.2 Z5 
+0000034 100  VHI     have                     S6+[i25.2.1 A9+ Z5 A2.2 S4 
+0000034 110  TO      to                       S6+[i25.2.2 Z5 
 0000034 120  VVI     talk                     Q2.1 
 0000034 130  II      about                    Z5 
 0000034 140  NNB     President                G1.1/S7.1+/S2mf 
@@ -728,8 +749,9 @@
 0000034 180  IO      of                       Z5 
 0000034 190  NNB     President                G1.1/S7.1+/S2mf 
 0000034 200  NP1     Obama                    Z99 
-0000034 210  NN1     cant                     Q2.1 
-0000034 220  VV0     come                     M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000034 210  VM      ca                       A7+ 
+0000034 211  XX      n't                      Z6 
+0000034 220  VVI     come                     M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
 0000034 230  RR      soon                     T1.1.3/N3.8+ 
 0000034 240  RR      enough                   N5+ N6+ 
 0000034 250  RR      either                   Z5 

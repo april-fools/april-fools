@@ -1,4 +1,4 @@
-TOTAL              662
+TOTAL              671
 the                  AT             49 
 a                    AT1            18 
 of                   IO             15 
@@ -7,6 +7,7 @@ to                   TO             14
 trump                NN1            12 
 electors             NN2            11 
 and                  CC             10 
+'s                   GE              8 
 for                  IF              7 
 president            NN1             6 
 that                 CST             5 
@@ -18,27 +19,29 @@ to                   II              5
 vote                 NN1             5 
 electoral            JJ              4 
 votes                NN2             4 
+state                NN1             4 
 be                   VBI             4 
 vote                 VVI             4 
 more                 DAR             4 
 election             NN1             4 
 him                  PPHO1           4 
 popular              JJ              4 
+it                   PPH1            4 
 their                APPGE           3 
 voting               NN1             3 
-state                NN1             3 
 which                DDQ             3 
 republican           NN1             3 
 before               II              3 
 were                 VBDR            3 
 is                   VBZ             3 
 as                   CSA             3 
+nation               NN1             3 
 history              NN1             3 
 who                  PNQS            3 
 should               VM              3 
 won                  VVD             3 
 system               NN1             3 
-its                  APPGE           3 
+'s                   VBZ             3 
 while                CS              3 
 will                 VM              2 
 needed               VVN             2 
@@ -51,6 +54,7 @@ was                  VBDZ            2
 no                   AT              2 
 rebellion            NN1             2 
 faithless            JJ              2 
+n't                  XX              2 
 are                  VBR             2 
 this                 DD1             2 
 trump                VV0             2 
@@ -67,6 +71,7 @@ government           NN1             2
 potential            JJ              2 
 his                  APPGE           2 
 russian              JJ              2 
+Clinton              NP1             2 
 national             JJ              2 
 committee            NN1             2 
 win                  VVI             2 
@@ -79,10 +84,10 @@ opponents            NN2             2
 would                VM              2 
 have                 VHI             2 
 had                  VHD             2 
-nation               NN1             2 
 winning              VVG             2 
 2000                 MC              2 
-it                   PPH1            2 
+George_W._Bush       NP1             2 
+that                 DD1             2 
 presidency           NN1             2 
 according_to         II21            2 
 poll                 NN1             2 
@@ -139,7 +144,6 @@ Texas_GOP            NP1             1
 went                 VVD             1 
 rogue                NN1             1 
 did                  VDD             1 
-n't                  XX              1 
 meetings             NN2             1 
 occur                VV0             1 
 month                NNT1            1 
@@ -184,7 +188,6 @@ phone_calls          NN1             1
 arguing              VVG             1 
 unqualified          JJ              1 
 first                MD              1 
-nations              NN2             1 
 military             JJ              1 
 experience           NN1             1 
 conflicts            NN2             1 
@@ -196,7 +199,6 @@ confirmation         NN1             1
 FBI                  NP1             1 
 CIA                  NP1             1 
 hacked               VVD             1 
-Clintons             NP2             1 
 democratic           JJ              1 
 seeking              VVG             1 
 help                 VVI             1 
@@ -268,7 +270,7 @@ representatives      NN2             1
 unlikely             JJ              1 
 override             VVI             1 
 their_own            APPGE           1 
-partys               NN2             1 
+party                NN1             1 
 further              RRR             1 
 conducted            VVD             1 
 parallel             JJ              1 
@@ -277,18 +279,15 @@ effort               NN1             1
 make_sure            VVI             1 
 stick_to             VV0             1 
 plan                 NN1             1 
-Clinton              NP1             1 
 2.8_million          MC              1 
 nationwide           RL              1 
 but                  CCB             1 
 majority             NN1             1 
 state-by-state       JJ              1 
 created              VVN             1 
-'s                   GE              1 
 founders             NN2             1 
 based_on             VVN             1 
 size                 NN1             1 
-states               NN2             1 
 congressional        JJ              1 
 delegation           NN1             1 
 short                JJ              1 
@@ -301,13 +300,10 @@ time                 NNT1            1
 recent               JJ              1 
 including            II              1 
 democrat             NN1             1 
-Al_Gores             NP1             1 
+Al_Gore              NP1             1 
 loss                 NN1             1 
-George_W._Bush       NP1             1 
 person               NN1             1 
 lost                 VVD             1 
-that                 DD1             1 
-nt                   XX              1 
 since                II              1 
 1888                 MC              1 
 when                 CS              1 
@@ -321,6 +317,7 @@ causing              VVG             1
 democrats            NN2             1 
 question             VVI             1 
 chooses              VVZ             1 
+its                  APPGE           1 
 leaders              NN2             1 
 new                  JJ              1 
 USA                  NP1             1 
@@ -362,7 +359,6 @@ positively           RR              1
 has                  VHZ             1 
 increased            VVN             1 
 41%                  NNU             1 
-thats                VVZ             1 
 7                    MC              1 
 points               VVZ             1 
 less                 DAR             1 
@@ -374,9 +370,7 @@ optimistic           JJ              1
 satisfied            JJ              1 
 about                II              1 
 21                   MC              1 
-Obamas               NP2             1 
+Obama                NP1             1 
 January_2009         NPM1            1 
 14                   MC              1 
-George_W.            NP1             1 
-Bushs                NP2             1 
 at_the_same_time     II              1 

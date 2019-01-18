@@ -1,6 +1,6 @@
-TOTAL              792
+TOTAL              794
 the                  Z5                  55 
-Facebook             Z3                  41 
+Facebook             Z3                  42 
 to                   Z5                  36 
 and                  Z5                  23 
 of                   Z5                  19 
@@ -13,8 +13,8 @@ it                   Z8                   9
 on                   Z5                   8 
 for                  Z5                   8 
 will                 T1.1.3               8 
+'s                   Z5                   8 
 is                   Z5                   7 
-'s                   Z5                   7 
 in                   Z5                   7 
 user                 A1.5.1               7 
 that                 Z5                   6 
@@ -67,6 +67,7 @@ rights               A5.3+                2
 use                  A1.5.1               2 
 all                  N5.1+                2 
 trouble              E6-                  2 
+Mashable             Z99                  2 
 our                  Z8                   2 
 at                   Z5                   2 
 good                 A5.1+                2 
@@ -138,12 +139,10 @@ would                A7+                  1
 go                   M1                   1 
 post                 Q1.2                 1 
 part                 N5.1-                1 
-Mashables_Facebook   Z1                   1 
 week                 T1.3                 1 
 discuss              Q2.1                 1 
 join                 A2.2                 1 
 authors              Q4.1                 1 
-Mashable             Z99                  1 
 facebook_page        Z1                   1 
 who                  Z3                   1 
 my                   Z8                   1 

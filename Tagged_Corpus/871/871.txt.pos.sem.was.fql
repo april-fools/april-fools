@@ -1,4 +1,4 @@
-TOTAL              948
+TOTAL              960
 the                  Z5                  76 
 in                   Z5                  23 
 to                   Z5                  22 
@@ -8,7 +8,8 @@ a                    Z5                  17
 was                  Z5                  13 
 of                   Z5                  13 
 said                 Q2.1                13 
-it                   Z8                  12 
+it                   Z8                  13 
+'s                   Z5                  11 
 by                   Z5                  10 
 rendition            K2                  10 
 that                 Z8                   9 
@@ -18,26 +19,26 @@ british              Z2                   9
 has                  Z5                   8 
 with                 Z5                   8 
 about                Z5                   7 
+CIA                  Z3                   7 
 programme            X7+                  7 
+mi6                  Z99                  7 
 legal                G2.1                 7 
 not                  Z6                   7 
-mi6                  Z99                  6 
+government           G1.1                 7 
+Mr_Blair             Z1                   6 
 for                  Z5                   6 
+Mr_Belhadj           Z1                   6 
 he                   Z8                   6 
 knew                 X2.2+                5 
 secret               A10-                 5 
-Mr_Blair             Z1                   5 
+source               T2+                  5 
 were                 Z5                   5 
 on                   Z5                   5 
 at                   Z5                   5 
 no                   Z6                   5 
-Mr_Belhadj           Z1                   5 
 this                 M6                   5 
-government           G1.1                 5 
 be                   Z5                   5 
 security             G2.1                 4 
-source               T2+                  4 
-CIA                  Z3                   4 
 politicians          G1.2                 4 
 they                 Z8                   4 
 what                 Z8                   4 
@@ -49,9 +50,7 @@ case                 A4.1                 4
 been                 Z5                   4 
 Mr_Straw             Z1                   4 
 is                   A3+                  4 
-its                  Z8                   4 
 report               Q2.2                 4 
-CIAs                 Z3                   3 
 telegraph            Z3                   3 
 now                  T1.1.2               3 
 over                 Z5                   3 
@@ -64,6 +63,7 @@ from                 Z5                   3
 senior               S7.1++               3 
 investigation        X2.4                 3 
 never                T1                   3 
+its                  Z8                   3 
 role                 I3.1                 3 
 had                  A9+                  3 
 courts               G2.1                 3 
@@ -81,11 +81,9 @@ briefed              Q2.1                 2
 administration       S7.1+                2 
 opinions             X2.1                 2 
 such_as              Z5                   2 
-interest             X5.2+                2 
 everything           Z8                   2 
 americans            Z2                   2 
 could                A7+                  2 
-involved             A1.8+                2 
 has                  A9+                  2 
 relations            A2.2                 2 
 during               Z5                   2 
@@ -103,7 +101,6 @@ wife                 S4                   2
 Libya                Z2                   2 
 police               G2.1                 2 
 interviewed          Q2.1                 2 
-sources              T2+                  2 
 made                 A1.1.1               2 
 political            G1.2                 2 
 decision             X6+                  2 
@@ -114,7 +111,6 @@ approval             S7.4+                2
 services             S8+                  2 
 alone                S5-                  2 
 sis                  S4                   2 
-clear                A7+                  2 
 would                A7+                  2 
 just                 A14                  2 
 or                   Z5                   2 
@@ -125,13 +121,11 @@ declassify           Z99                  2
 into                 Z5                   2 
 experts              X2.2+                2 
 an                   Z5                   2 
-truth                A5.2+                2 
 i                    Z8                   2 
 claim                Q2.2                 2 
 hear                 X3.2                 2 
 seriously            A13.3                2 
 Obama                Z99                  2 
-governments          G1.1                 2 
 UK                   Z2                   2 
 my                   Z8                   2 
 are                  A3+                  2 
@@ -162,13 +156,14 @@ be                   A3+                  1
 took                 A9+                  1 
 very                 A13.3                1 
 active               X5.2+                1 
+interest             X5.2+                1 
 indeed               A13.3                1 
 wanted               X7+                  1 
 know                 X2.2+                1 
 passed               M1                   1 
 saying               Q2.1                 1 
 this                 Z8                   1 
-'legal               Z99                  1 
+'legal'              Z99                  1 
 our                  Z8                   1 
 were                 A3+                  1 
 aware                X2.2+                1 
@@ -179,6 +174,7 @@ m16                  Z99                  1
 'stop                Z99                  1 
 do                   Z5                   1 
 get                  A9+                  1 
+involved'            Z99                  1 
 time                 T1                   1 
 did                  A1.1.1               1 
 direct               M6                   1 
@@ -234,6 +230,7 @@ at_the_time          T1.1.1               1
 part                 N5.1-                1 
 is                   Z5                   1 
 known                X2.2+                1 
+sources              T2+                  1 
 indicated            A10+                 1 
 also                 N5++                 1 
 echo                 X3.2                 1 
@@ -243,7 +240,6 @@ Sir_Richard_Dearlove Z1                   1
 1999_to_2004         T1.2                 1 
 speech               Q2.1                 1 
 2012                 N1                   1 
-mi6s                 Z99                  1 
 cooperation          S8+                  1 
 absolutely           A13.2                1 
 Dearlove             Z99                  1 
@@ -264,6 +260,8 @@ understanding        X2.5+                1
 intelligence_service G1.1                 1 
 acting               A1.1.1               1 
 'national            Z99                  1 
+interest'            Z99                  1 
+clear                A7+                  1 
 rogue                G2.2-                1 
 organisation         S5+                  1 
 do                   A1.1.1               1 
@@ -327,6 +325,7 @@ determined           A2.2                 1
 pursue               A1.1.1               1 
 through              Z5                   1 
 apology              Q2.2                 1 
+truth                A5.2+                1 
 happened_to          A1.4                 1 
 figures              N5                   1 
 when                 Z5                   1 
@@ -337,10 +336,9 @@ gaddafi              Z99                  1
 facing               M6                   1 
 hands                B1                   1 
 of_my_own            A9+                  1 
-countrys             G1.1                 1 
+country              G1.1                 1 
 phone                Q1.3                 1 
 referring            Q2.2                 1 
-Mr_Blairs            Z1                   1 
 meeting              S1.1.3+              1 
 leader               S7.1+                1 
 March_2004           T1.3                 1 
@@ -350,7 +348,6 @@ played               K1                   1
 vital                A11.1+               1 
 war                  G3                   1 
 terror               E5-                  1 
-Mr_Belhadjs          Z1                   1 
 thrown_out           M2                   1 
 last_December        T1.1.1               1 
 high_court           G2.1                 1 
@@ -411,6 +408,7 @@ actually             A5.4+                1
 pretext              A5.4-                1 
 going_to             T1.1.3               1 
 make_it              X9.2+                1 
+clear                M2                   1 
 attempt              X8+                  1 
 cover_up             A10-                 1 
 abuse                E3-                  1 
@@ -426,7 +424,10 @@ comment              Q2.1                 1
 2005                 N1                   1 
 house_of_Commons     G1.1                 1 
 simply               A13.6                1 
+truth'               Z99                  1 
+involved             A1.8+                1 
 branding             Q1.1                 1 
 them                 Z8                   1 
 conspiracy           G2.1-                1 
 theories             X4.1                 1 
+'                    Z5                   1 

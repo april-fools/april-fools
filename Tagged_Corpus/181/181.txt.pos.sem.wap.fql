@@ -1,4 +1,4 @@
-TOTAL              289
+TOTAL              291
 the                  AT             21 
 he                   PPHS1           8 
 to                   TO              7 
@@ -16,6 +16,7 @@ if                   CS              3
 has                  VHZ             3 
 not                  XX              3 
 it                   PPH1            3 
+when                 CS              3 
 had                  VHD             3 
 for                  IF              3 
 at                   II              2 
@@ -24,6 +25,7 @@ from                 II              2
 that                 DD1             2 
 said                 VVD             2 
 see                  VVI             2 
+stern                NN1             2 
 on                   II              2 
 win                  VVI             2 
 title                NN1             2 
@@ -32,7 +34,6 @@ make                 VVI             2
 to                   II              2 
 an                   AT1             2 
 but                  CCB             2 
-when                 CS              2 
 reached              VVN             2 
 news                 NN1             2 
 poker                NN1             2 
@@ -41,8 +42,9 @@ MAR_5                NPM1            1
 hornets              NN2             1 
 saying               VVG             1 
 you                  PPY             1 
-cant                 NN1             1 
-beat                 VVD             1 
+ca                   VM              1 
+n't                  XX              1 
+beat                 VVI             1 
 join                 VV0             1 
 very                 JJ              1 
 public               JJ              1 
@@ -78,12 +80,11 @@ overpay              VVI             1
 worth                II              1 
 just                 RR              1 
 David                NP1             1 
-sterns               NN2             1 
-face                 VV0             1 
-when                 RRQ             1 
+'s                   GE              1 
+face                 NN1             1 
 has_to               VHZ             1 
 hand                 VVI             1 
-Larry_OBrien_trophy  NP1             1 
+Larry_O'Brien_trophy NP1             1 
 dodged               VVD             1 
 bullet               NN1             1 
 a_couple             AT1             1 
@@ -96,7 +97,7 @@ guys                 NN2             1
 even                 RR              1 
 looking_at           VVG             1 
 Dwyane_Wade          NP1             1 
-lets                 VVZ             1 
+let_'s               VM21            1 
 stop                 VVI             1 
 me                   PPIO1           1 
 now                  RT              1 
@@ -126,7 +127,6 @@ record               NN1             1
 traditionally        RR              1 
 blocked              VVN             1 
 by                   II              1 
-stern                NN1             1 
 cuban                JJ              1 
 says                 VVZ             1 
 photos               NN2             1 

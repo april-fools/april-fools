@@ -1,10 +1,10 @@
-TOTAL              917
+TOTAL              919
 the                  Z5                  63 
 to                   Z5                  32 
 and                  Z5                  25 
 a                    Z5                  23 
 in                   Z5                  21 
-'s                   Z5                  15 
+'s                   Z5                  17 
 will                 T1.1.3              13 
 of                   Z5                  11 
 its                  Z8                  10 
@@ -391,8 +391,7 @@ Sandra_Bullock       Z1                   1
 hits                 X9.2+                1 
 speed                N3.8+                1 
 bumps                O4.4                 1 
-Doug                 Z1                   1 
-Limans               Z99                  1 
+Doug_Liman           Z1                   1 
 best-selling         X9.2++               1 
 ya                   Z8                   1 
 novel                Q4.1                 1 
@@ -435,7 +434,8 @@ Indiana_Jones        Z1                   1
 female               S2.1                 1 
 indy                 Z3                   1 
 next                 N4                   1 
-wed                  S4                   1 
+we                   Z8                   1 
+'d                   A7+                  1 
 have_to              S6+                  1 
 change               A2.1+                1 
 Jones                Z1                   1 
@@ -463,7 +463,7 @@ knows                X2.2+                1
 oscar-winning        Z99                  1 
 iranian              Z2                   1 
 director             S7.1+                1 
-Asghar_Farhadis      Z1                   1 
+Asghar_Farhadi       Z1                   1 
 spanish-language     Z2                   1 
 psychological        X1                   1 
 starring_Javier      Z2                   1 

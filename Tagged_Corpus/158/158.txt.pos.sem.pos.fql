@@ -1,6 +1,6 @@
-TOTAL         269
-NN1            40 
-JJ             20 
+TOTAL         271
+NN1            39 
+JJ             21 
 NN2            16 
 VVI            14 
 II             12 
@@ -12,15 +12,15 @@ TO              9
 IO              9 
 NP1             7 
 CC              7 
-VV0             7 
 VM              6 
+VH0             5 
 VBZ             5 
 AT1             5 
-VH0             4 
+VV0             5 
+PPHS2           5 
 VVZ             4 
 DDQ             4 
 CS              4 
-PPHS2           4 
 PN1             4 
 CST             4 
 VVD             4 
@@ -48,3 +48,5 @@ PPIS1           1
 VBG             1 
 PPIO1           1 
 FU              1 
+VBR             1 
+XX              1 

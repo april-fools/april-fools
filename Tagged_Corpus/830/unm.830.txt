@@ -9,7 +9,6 @@ A-                       ZZ1     Z99
 App                      NN1     Z99 
 Citywalk                 NN1     Z99 
 DSi                      NN1     Z99 
-isnt                     VV0     Z99 
 Lite                     JJ      Z99 
 Lite                     NN1     Z99 
 matte                    NN1     Z99 
@@ -23,4 +22,3 @@ WarioWare                NP1@    Z99
 Wii                      JJ      Z99 
 WiiShop                  NN1     Z99 
 wirelessly               RR      Z99 
-youre                    VV0     Z99 

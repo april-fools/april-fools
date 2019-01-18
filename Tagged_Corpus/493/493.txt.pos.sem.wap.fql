@@ -1,4 +1,4 @@
-TOTAL              316
+TOTAL              318
 the                  AT             16 
 and                  CC             11 
 new                  JJ             10 
@@ -9,8 +9,8 @@ is                   VBZ             6
 his                  APPGE           6 
 characters           NN2             5 
 skin                 NN1             5 
+blizzard             NN1             4 
 this                 DD1             4 
-blizzard             NN1             3 
 released             VVN             3 
 as                   CSA             3 
 to                   TO              3 
@@ -23,8 +23,9 @@ be                   VBI             3
 either               RR              3 
 twitter              NN1             2 
 their                APPGE           2 
-its                  APPGE           2 
+it                   PPH1            2 
 beautiful            JJ              2 
+'s                   GE              2 
 also                 RR              2 
 in                   II              2 
 we                   PPIS2           2 
@@ -64,6 +65,7 @@ April_2nd            NPM1            1
 based_on             VVN             1 
 again                RT              1 
 earth                NN1             1 
+'s                   VBZ             1 
 mightiest            JJT             1 
 heroes               NN2             1 
 must                 VM              1 
@@ -77,7 +79,6 @@ or_whatever          CC              1
 maps                 NN2             1 
 include              VV0             1 
 Los_Angeles_New      NP1             1 
-Stewarts             NP2             1 
 bald                 JJ              1 
 head                 NN1             1 
 many                 DA2             1 
@@ -90,7 +91,6 @@ ones                 NN2             1
 as_well              RR21            1 
 for                  IF              1 
 shown                VVN             1 
-blizzards            NN2             1 
 official             JJ              1 
 page                 NN1             1 
 Roaghog              NP1             1 
@@ -123,6 +123,7 @@ ultimate             JJ              1
 move                 NN1             1 
 called               VVN             1 
 twitter              VV0             1 
+its                  APPGE           1 
 where                RRQ             1 
 Drump                NP1             1 
 yells                VVZ             1 
@@ -130,7 +131,6 @@ really               RR              1
 loudly               RR              1 
 usually              RR              1 
 gibberish            VV0             1 
-it                   PPH1            1 
 propels              VVZ             1 
 into                 II              1 
 depending_on         II21            1 

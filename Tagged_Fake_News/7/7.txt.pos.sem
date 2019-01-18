@@ -1,7 +1,8 @@
 0000001 001  NULL    **6;0;START              
 0000001 002  -----   -----                    
 0000002 010  II@     Following                Z5 
-0000002 020  NPD2    Wednesdays               T1.3 
+0000002 020  NPD1    Wednesday                T1.3 
+0000002 021  GE      's                       Z5 
 0000002 030  JJ      presidential             G1.1/S7.1+ 
 0000002 040  NN1     debate                   Q2.2 
 0000002 050  NP1     Pentagon                 Z3c/G3 
@@ -69,7 +70,8 @@
 0000004 310  AT      the                      Z5 
 0000004 320  NP1     United                   Z2c[i11.2.1 Z2c[i10.2.1 Z3c Z1mf[i9.2.1 Z3c[i9.2.1 
 0000004 330  NP1     States                   Z2c[i11.2.2 Z2c[i10.2.2 Z2 Z1mf[i9.2.2 Z3c[i9.2.2 
-0000004 340  NN2     Governments              G1.1c 
+0000004 340  NN1     Government               G1.1c 
+0000004 341  GE      's                       Z5 
 0000004 350  NN1     response                 Q2.1 S1.1.2+ 
 0000004 360  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000004 370  IF      for                      Z5 
@@ -153,7 +155,8 @@
 0000006 340  NN2     breaches                 A1.9 O2 B1 
 0000006 350  II21    prior                    N4[i17.2.1 
 0000006 360  II22    to                       N4[i17.2.2 Z5 
-0000006 370  NP2     Clintons                 Z1mf 
+0000006 370  NP1     Clinton                  Z1mf 
+0000006 371  GE      's                       Z5 
 0000006 380  NN1     admission                S7.4+/M1 P1 I1.3 Q2.2 
 0000006 390  NPD1    Wednesday                T1.3 
 0000006 391  .       .                        
@@ -260,7 +263,8 @@
 0000012 390  NN2     details                  A4.2+ S5+c B5 
 0000012 400  IO      of                       Z5 
 0000012 410  AT      the                      Z5 
-0000012 420  NN2     countrys                 G1.1c W3 F4/M7 K2 
+0000012 420  NN1     country                  G1.1c W3 F4/M7 K2 
+0000012 421  GE      's                       Z5 
 0000012 430  JJ      nuclear                  Y1 B1 S5+% 
 0000012 440  NN1     response                 Q2.1 S1.1.2+ 
 0000012 450  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
@@ -326,7 +330,8 @@
 0000014 350  VVD     said                     Q2.1 
 0000014 351  .       .                        
 0000014 352  -----   -----                    
-0000014 360  APPGE   Its                      Z8 
+0000014 360  PPH1    It                       Z8 
+0000014 361  VBZ     's                       A3+ Z5 
 0000014 370  RR      truly                    A5.2+ A5.4+ 
 0000014 380  JJ      incredible               A6.2- A5.1+ A5.2- 
 0000014 390  CST     that                     Z5 Z8 
@@ -406,7 +411,8 @@
 0000016 391  ,       ,                        
 0000016 400  II21    prior                    N4[i30.2.1 
 0000016 410  II22    to                       N4[i30.2.2 Z5 
-0000016 420  NP2     Clintons                 Z1mf 
+0000016 420  NP1     Clinton                  Z1mf 
+0000016 421  GE      's                       Z5 
 0000016 430  NN1     admission                S7.4+/M1 P1 I1.3 Q2.2 
 0000016 440  NPD1    Wednesday                T1.3[i31.2.1 T1.3 
 0000016 450  NNT1    night                    T1.3[i31.2.2 T1.3 

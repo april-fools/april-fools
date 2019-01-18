@@ -1,11 +1,11 @@
-TOTAL              998
+TOTAL             1001
 the                  AT             56 
 and                  CC             45 
 of                   IO             37 
 are                  VBR            22 
 that                 CST            13 
 in                   II             13 
-we                   PPIS2          11 
+we                   PPIS2          12 
 is                   VBZ            10 
 or                   CC             10 
 will                 VM             10 
@@ -64,6 +64,7 @@ business             NN1             3
 it                   PPH1            3 
 sourcing             NN1             3 
 from                 II              3 
+that                 DD1             3 
 costs                NN2             3 
 risk                 NN1             3 
 even                 RR              3 
@@ -98,7 +99,6 @@ any                  DD              2
 who                  PNQS            2 
 countries            NN2             2 
 pressures            NN2             2 
-that                 DD1             2 
 standards            NN2             2 
 well                 JJ              2 
 aware                JJ              2 
@@ -184,6 +184,7 @@ get                  VVI             1
 there                RL              1 
 service_providers    NN1             1 
 success_factor       NN1             1 
+'                    GE              1 
 competitiveness      NN1             1 
 differentiation      NN1             1 
 market               NN1             1 
@@ -502,11 +503,11 @@ knowledge            NN1             1
 geography            NN1             1 
 culture              NN1             1 
 differences          NN2             1 
-thats                VVZ             1 
+'s                   VBZ             1 
 another              DD1             1 
 issue                NN1             1 
-well                 RR              1 
-address              VV0             1 
+'ll                  VM              1 
+address              VVI             1 
 later                JJR             1 
 column               NN1             1 
 your                 APPGE           1 

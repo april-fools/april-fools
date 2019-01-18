@@ -1,4 +1,4 @@
-TOTAL              569
+TOTAL              573
 the                  AT             29 
 a                    AT1            19 
 in                   II             16 
@@ -13,12 +13,15 @@ to                   II              6
 Ferrari              NP1             5 
 is                   VBZ             5 
 be                   VBI             5 
+'s                   GE              4 
 grand_prix           NN121           4 
 Mercedes             NP              4 
 this                 DD1             4 
+car                  NN1             4 
 victory              NN1             4 
 Melbourne            NP1             4 
 an                   AT1             4 
+Hamilton             NP1             4 
 win                  VVI             4 
 can                  VM              4 
 it                   PPH1            4 
@@ -27,12 +30,10 @@ that                 CST             4
 australian           JJ              3 
 with                 IW              3 
 after                II              3 
-car                  NN1             3 
 world                NN1             3 
 has                  VHZ             3 
 also                 RR              3 
 title                NN1             3 
-Hamilton             NP1             3 
 he                   PPHS1           3 
 race                 NN1             3 
 are                  VBR             3 
@@ -81,7 +82,6 @@ do                   VD0             2
 future               NN1             2 
 noises               NN2             2 
 new                  JJ              2 
-'s                   GE              1 
 celebrates           VVZ             1 
 winning              VVG             1 
 podium               NN1             1 
@@ -103,7 +103,7 @@ scrap                NN1             1
 pair                 NN              1 
 head                 NN1             1 
 desert               NN1             1 
-Sundays              NPD2            1 
+Sunday               NPD1            1 
 which                DDQ             1 
 10:10pm              FO              1 
 start                VV0             1 
@@ -130,6 +130,7 @@ triumphed            VVD             1
 take                 VVI             1 
 early                JJ              1 
 lead                 NN1             1 
+'                    GE              1 
 championship         NN1             1 
 leave                VV0             1 
 cursing              VVG             1 
@@ -182,8 +183,7 @@ finn_Kimi_Raikkonen  NN1             1
 then                 RT              1 
 lotus                NN1             1 
 2013                 MC              1 
-Hamiltons            NP2             1 
-last                 VV0             1 
+last                 MD              1 
 non-scoring          JJ              1 
 came_at              VVD             1 
 2016                 MC              1 
@@ -263,7 +263,7 @@ put                  VVD             1
 process              NN1             1 
 in_place             II              1 
 make_sure            VVI             1 
-nt                   XX              1 
+n't                  XX              1 
 see                  VVI             1 
 issue                NN1             1 
 these                DD2             1 
@@ -297,7 +297,6 @@ winner               NN1             1
 like                 II              1 
 Vettel               NP1             1 
 hopes                VVZ             1 
-cars                 NN2             1 
 Renault              NP1             1 
 unit                 NN1             1 
 carry                VVI             1 

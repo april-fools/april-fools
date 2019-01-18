@@ -25,7 +25,8 @@
 0000002 192  -----   -----                    
 0000002 200  CCB     But                      Z5 
 0000002 210  IW      with                     Z5 
-0000002 220  NN2     todays                   T1.1.2 
+0000002 220  RT      today                    T1.1.2 
+0000002 221  GE      's                       Z5 
 0000002 230  NN1     announcement             Q2.2 
 0000002 240  II      by                       Z5 
 0000002 250  NP1     CERN                     Z99 
@@ -56,7 +57,8 @@
 0000002 470  NP1     Mars                     Z3c Z1/W1 S9/T1.1.1@ 
 0000002 480  VVN     taken                    A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
 0000002 490  II      by                       Z5 
-0000002 500  NP2     NASAs                    Z1 
+0000002 500  NP1     NASA                     Z1 
+0000002 501  GE      's                       Z5 
 0000002 510  NP1     Mars                     Z3c Z1/W1 S9/T1.1.1@ 
 0000002 520  NN1     Reconnaissance           G3 
 0000002 530  NN1     Orbiter                  Z99 
@@ -143,13 +145,15 @@
 0000004 070  JJ      spotted                  O4.3 X3.4 
 0000004 080  II      by                       Z5 
 0000004 090  AT      the                      Z5 
-0000004 100  NN2     probes                   O2 X2.4 A1.1.1 Y1 
+0000004 100  NN1     probe                    O2 X2.4 A1.1.1 Y1 
+0000004 101  GE      's                       Z5 
 0000004 110  JJ      high-resolution          Z99 
 0000004 120  NN1     camera                   C1 Q4.3 
 0000004 121  ,       ,                        
 0000004 130  VVD     sparked                  O4.6+ O3 A2.2 
 0000004 140  AT      the                      Z5 
 0000004 150  NN2     scientists               Y1/S2mf 
+0000004 151  GE      '                        Z5 
 0000004 160  NN1     attention                X5.1+ S8+ 
 0000004 161  .       .                        
 0000004 162  -----   -----                    
@@ -296,7 +300,8 @@
 0000008 111  ,       ,                        
 0000008 120  MC1     one                      N1 T3 T1.2 
 0000008 130  IO      of                       Z5 
-0000008 140  NN2     archaeologys             Y1/T1.1.1 
+0000008 140  NN1     archaeology              Y1/T1.1.1 
+0000008 141  GE      's                       Z5 
 0000008 150  JJT     oldest                   T3+++ 
 0000008 160  NN2     mysteries                X2.2- X2.5- A6.2- 
 0000008 161  .       .                        
@@ -388,8 +393,9 @@
 0000008 890  NP1     Friedrich                Z1mf[i14.2.1 Z3c[i14.2.1 
 0000008 900  NP1     Spader                   Z1mf[i14.2.2 Z3c[i14.2.2 
 0000008 901  ,       ,                        
-0000008 910  NP2     CERNs                    Z2[i15.2.1 
-0000008 920  NN1     Head                     Z2[i15.2.2 B1 S7.1+/S2mf P1/S2mf X1 M6 A4.1 S2mf F2 H5/M4% 
+0000008 910  NP1     CERN                     Z99 
+0000008 911  GE      's                       Z5 
+0000008 920  NN1     Head                     B1 S7.1+/S2mf P1/S2mf X1 M6 A4.1 S2mf F2 H5/M4% 
 0000008 930  IO      of                       Z5 
 0000008 940  JJ      Technical                Y1 I4 X9.1 
 0000008 950  NN1     Design                   C1 X7+ B5 
@@ -466,8 +472,8 @@
 0000010 602  NULL    </quote>                 
 0000010 603  -----   -----                    
 0000010 610  VVD     said                     Q2.1 
-0000010 620  NP1     Fadela                   Z1mf[i16.2.1 Z3c[i16.2.1 
-0000010 630  NP1     Emmerich                 Z1mf[i16.2.2 Z3c[i16.2.2 
+0000010 620  NP1     Fadela                   Z1mf[i15.2.1 Z3c[i15.2.1 
+0000010 630  NP1     Emmerich                 Z1mf[i15.2.2 Z3c[i15.2.2 
 0000010 631  ,       ,                        
 0000010 640  AT      the                      Z5 
 0000010 650  NN1     leader                   S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
@@ -479,7 +485,8 @@
 0000010 701  .       .                        
 0000010 702  NULL    <quote>                  
 0000010 703  -----   -----                    
-0000010 710  APPGE   Its                      Z8 
+0000010 710  PPH1    It                       Z8 
+0000010 711  VBZ     's                       A3+ Z5 
 0000010 720  AT1     a                        Z5 
 0000010 730  NN1     phenomenon               A3 X3.4 A1.1.1 
 0000010 740  CST     that                     Z8 Z5 
@@ -490,16 +497,17 @@
 0000010 790  NP1     CERN                     Z99 
 0000010 800  CC      and                      Z5 
 0000010 810  PPIS2   we                       Z8 
-0000010 820  NN1     cant                     Q2.1 
-0000010 830  VV0     wait                     T1.3 A3+ A11.1+ S1.1.1% 
+0000010 820  VM      ca                       A7+ 
+0000010 821  XX      n't                      Z6 
+0000010 830  VVI     wait                     T1.3 A3+ A11.1+ S1.1.1% 
 0000010 840  TO      to                       Z5 
 0000010 850  VVI     study                    P1 X2.4 
 0000010 860  PPH1    it                       Z8 
 0000010 861  !       !                        
 0000010 862  NULL    </quote>                 
 0000010 863  -----   -----                    
-0000010 870  DA      Such                     A13.3[i17.2.1 Z5 Z8 
-0000010 880  AT1     a                        A13.3[i17.2.2 Z5 
+0000010 870  DA      Such                     A13.3[i16.2.1 Z5 Z8 
+0000010 880  AT1     a                        A13.3[i16.2.2 Z5 
 0000010 890  NN1     technology               Y1 
 0000010 900  VM      could                    A7+ 
 0000010 910  VVI     revolutionise            A2.1+ 
@@ -514,8 +522,8 @@
 0000010 000  NN1     exploration              M1 X2.4 
 0000010 001  .       .                        
 0000011 001  -----   -----                    
-0000012 010  NP1@    Olympus                  Z1mf[i18.2.1 Z3c[i18.2.1 
-0000012 020  NP1     Mons                     Z1mf[i18.2.2 Z3c[i18.2.2 Z2/S2mf 
+0000012 010  NP1@    Olympus                  Z1mf[i17.2.1 Z3c[i17.2.1 
+0000012 020  NP1     Mons                     Z1mf[i17.2.2 Z3c[i17.2.2 Z2/S2mf 
 0000012 030  VBDZ    was                      A3+ Z5 
 0000012 040  II      until                    Z5 
 0000012 050  RT      now                      T1.1.2 Z4 
@@ -540,10 +548,10 @@
 0000012 230  TO      to                       Z5 
 0000012 240  VBI     be                       A3+ Z5 
 0000012 250  RG      about                    A13.4 
-0000012 260  MC      2                        N1 T1.2 T3 T1.3 N3.2 N1[i19.2.1 T1.3[i19.2.1 I1[i19.2.1 
-0000012 270  NNO     million                  T3[i20.3.1 N1 I1 N1[i19.2.2 T1.3[i19.2.2 I1[i19.2.2 
-0000012 280  NNT2    years                    T3[i20.3.2 T1.3 
-0000012 290  JJ      old                      T3[i20.3.3 T3+ Z4 
+0000012 260  MC      2                        N1 T1.2 T3 T1.3 N3.2 N1[i18.2.1 T1.3[i18.2.1 I1[i18.2.1 
+0000012 270  NNO     million                  T3[i19.3.1 N1 I1 N1[i18.2.2 T1.3[i18.2.2 I1[i18.2.2 
+0000012 280  NNT2    years                    T3[i19.3.2 T1.3 
+0000012 290  JJ      old                      T3[i19.3.3 T3+ Z4 
 0000012 291  .       .                        
 0000012 292  -----   -----                    
 0000012 300  NN2     Scientists               Y1/S2mf 
@@ -562,10 +570,11 @@
 0000012 420  AT      the                      Z5 
 0000012 430  JJT     latest                   T3--- T4--- 
 0000012 440  NN2     measurements             N3.1 
-0000012 450  VVN     carried                  A1.1.1[i21.2.1 M2[i21.2.1 M2 A9+ Q4 S7.4+ B1% B2-% 
-0000012 460  RP      out                      A1.1.1[i21.2.2 M2[i21.2.2 M6 
+0000012 450  VVN     carried                  A1.1.1[i20.2.1 M2[i20.2.1 M2 A9+ Q4 S7.4+ B1% B2-% 
+0000012 460  RP      out                      A1.1.1[i20.2.2 M2[i20.2.2 M6 
 0000012 470  II      by                       Z5 
-0000012 480  NP2     NASAs                    Z1 
+0000012 480  NP1     NASA                     Z1 
+0000012 481  GE      's                       Z5 
 0000012 490  NP1     Mars                     Z3c Z1/W1 S9/T1.1.1@ 
 0000012 500  NN1     Odyssey                  Z3 M1 
 0000012 510  NN1     probe                    O2 X2.4 A1.1.1 Y1 
@@ -583,16 +592,16 @@
 0000012 600  MD      last                     N4 
 0000012 610  VVD     used                     A1.5.1 S7.1+ 
 0000012 620  RG      around                   A13.4 
-0000012 630  MC      2                        N1[i22.2.1 T1.3[i22.2.1 I1[i22.2.1 N1 T1.2 T3 T1.3 N3.2 
-0000012 640  NNO     million                  N1[i22.2.2 T1.3[i22.2.2 I1[i22.2.2 N1 I1 
-0000012 650  NNT2    years                    T1.1.1[i23.2.1 T1.3 
-0000012 660  RA      ago                      T1.1.1[i23.2.2 T1.1.1 
+0000012 630  MC      2                        N1[i21.2.1 T1.3[i21.2.1 I1[i21.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000012 640  NNO     million                  N1[i21.2.2 T1.3[i21.2.2 I1[i21.2.2 N1 I1 
+0000012 650  NNT2    years                    T1.1.1[i22.2.1 T1.3 
+0000012 660  RA      ago                      T1.1.1[i22.2.2 T1.1.1 
 0000012 661  ,       ,                        
 0000012 662  NULL    </quote>                 
 0000012 663  -----   -----                    
 0000012 670  VVD     suggested                Q2.2 Q1.1 
-0000012 680  NP1     Eilert                   Z1mf[i24.2.1 Z3c[i24.2.1 
-0000012 690  NP1     ONeil                    Z1mf[i24.2.2 Z3c[i24.2.2 
+0000012 680  NP1     Eilert                   Z1mf[i23.2.1 Z3c[i23.2.1 
+0000012 690  NP1     O'Neil                   Z1mf[i23.2.2 Z3c[i23.2.2 
 0000012 691  ,       ,                        
 0000012 700  AT      the                      Z5 
 0000012 710  NN1     geologist                Y1/S2mf 
@@ -639,8 +648,8 @@
 0000014 280  VVN     suspected                X2.1/A5.1- A7 
 0000014 290  IF      for                      Z5 
 0000014 300  AT1     a                        Z5 
-0000014 310  JJ      long                     T1.3+[i25.2.1 N3.7+ T1.3+ N3.3+ N3.2+ 
-0000014 320  NNT1    time                     T1.3+[i25.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000014 310  JJ      long                     T1.3+[i24.2.1 N3.7+ T1.3+ N3.3+ N3.2+ 
+0000014 320  NNT1    time                     T1.3+[i24.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000014 330  CST     that                     Z5 Z8 
 0000014 340  AT1     a                        Z5 
 0000014 350  JJ      large                    N3.2+ N5+ A11.1+ 
@@ -666,9 +675,9 @@
 0000014 530  NN1     water                    O1.2 W3/M4 B1 C1% 
 0000014 540  VBDZ    was                      Z5 A3+ 
 0000014 550  VVN     used                     A1.5.1 S7.1+ 
-0000014 560  II      at                       T1.1.1[i26.3.1 T1.1.2[i26.3.1 Z5 
-0000014 570  AT      the                      T1.1.1[i26.3.2 T1.1.2[i26.3.2 Z5 
-0000014 580  NNT1    time                     T1.1.1[i26.3.3 T1.1.2[i26.3.3 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000014 560  II      at                       T1.1.1[i25.3.1 T1.1.2[i25.3.1 Z5 
+0000014 570  AT      the                      T1.1.1[i25.3.2 T1.1.2[i25.3.2 Z5 
+0000014 580  NNT1    time                     T1.1.1[i25.3.3 T1.1.2[i25.3.3 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000014 590  TO      to                       Z5 
 0000014 600  VVI     cool                     O4.6-/A2.1 X5.2-/A2.1 
 0000014 610  AT      the                      Z5 
@@ -677,12 +686,13 @@
 0000014 622  NULL    </quote>                 
 0000014 623  -----   -----                    
 0000014 630  VVD     revealed                 A10+ 
-0000014 640  NP1     Friedrich                Z1mf[i27.2.1 Z3c[i27.2.1 
-0000014 650  NP1     Spader                   Z1mf[i27.2.2 Z3c[i27.2.2 
+0000014 640  NP1     Friedrich                Z1mf[i26.2.1 Z3c[i26.2.1 
+0000014 650  NP1     Spader                   Z1mf[i26.2.2 Z3c[i26.2.2 
 0000014 651  .       .                        
 0000016 001  NULL    <quote>                  
 0000016 002  -----   -----                    
-0000016 010  VBDR    Were                     Z5 A3+ 
+0000016 010  PPIS2   We                       Z8 
+0000016 011  VBR     're                      Z5 A3+ 
 0000016 020  RR      probably                 A7+ 
 0000016 030  VVG     talking                  Q2.1 
 0000016 040  II      about                    Z5 
@@ -698,15 +708,15 @@
 0000016 122  NULL    </quote>                 
 0000016 123  -----   -----                    
 0000016 130  VVD     said                     Q2.1 
-0000016 140  NP1     Eilert                   Z1mf[i28.2.1 Z3c[i28.2.1 
-0000016 150  NP1     ONeil                    Z1mf[i28.2.2 Z3c[i28.2.2 
+0000016 140  NP1     Eilert                   Z1mf[i27.2.1 Z3c[i27.2.1 
+0000016 150  NP1     O'Neil                   Z1mf[i27.2.2 Z3c[i27.2.2 
 0000016 151  .       .                        
 0000016 152  NULL    <quote>                  
 0000016 153  -----   -----                    
 0000016 160  RR      Maybe                    A7 
 0000016 170  RR      even                     A13.1 
-0000016 180  APPGE   our                      Z8[i29.2.1 Z8 
-0000016 190  DA      own                      Z8[i29.2.2 A9+ S5- 
+0000016 180  APPGE   our                      Z8[i28.2.1 Z8 
+0000016 190  DA      own                      Z8[i28.2.2 A9+ S5- 
 0000016 200  JJ      distant                  N3.3+ S1.2.1- X5.1- 
 0000016 210  NN2     ancestors                S4/T1.1.1 N4 
 0000016 211  .       .                        

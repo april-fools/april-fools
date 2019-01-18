@@ -84,8 +84,9 @@
 0000004 300  JJ      free                     S6- A1.7- A1.5.1- I1.3- 
 0000004 310  NN1     availability             A3 A9+ A1.2+/G1.2 
 0000004 320  IO      of                       Z5 
-0000004 330  NN2     Gods                     S9 
-0000004 340  VV0     love                     E2+ 
+0000004 330  NP1     God                      S9m Z4 
+0000004 331  GE      's                       Z5 
+0000004 340  NN1     love                     S3.2 E2+ E2+/S2mf 
 0000004 350  CC      and                      Z5 
 0000004 360  NN1     forgiveness              G2.2+ 
 0000004 361  ,       ,                        
@@ -116,8 +117,9 @@
 0000004 580  CC      and                      Z5 
 0000004 590  RR      genuinely                A5.4+ 
 0000004 600  VVZ     wants                    X7+ S6+ A7+ S3.2 A9- 
-0000004 610  NN2     whats                    Z8 Z5 
-0000004 620  RRT     best                     A5.1+++ A13.2 G2.2+++ O4.2+++ 
+0000004 610  DDQ     what                     Z8 Z5 
+0000004 611  VBZ     's                       A3+ Z5 
+0000004 620  JJT     best                     A5.1+++ G2.2+++ O4.2+++ 
 0000004 630  IF      for                      Z5 
 0000004 640  DB      all                      N5.1+ 
 0000004 650  NN      people                   S2mfc 
@@ -302,7 +304,7 @@
 0000010 201  .       .                        
 0000010 202  -----   -----                    
 0000010 210  NP1     Bill                     Z1mf[i24.2.1 Z3c[i24.2.1 
-0000010 220  NP1     OReilly                  Z1mf[i24.2.2 Z3c[i24.2.2 
+0000010 220  NP1     O'Reilly                 Z1mf[i24.2.2 Z3c[i24.2.2 
 0000010 230  VHZ     has                      A9+ Z5 A2.2 S4 
 0000010 240  JJ      numerous                 N5+ 
 0000010 250  NNT2    times                    T1 T1.2 T1.3 T1.1.2 N6 N1 
@@ -347,7 +349,7 @@
 0000012 231  .       .                        
 0000012 232  -----   -----                    
 0000012 240  PPHS1   He                       Z8m 
-0000012 241  VBZ     s                        T1.3 I1.1 Z5 
+0000012 241  VBZ     's                       A3+ Z5 
 0000012 250  AT1     a                        Z5 
 0000012 260  JJ      Catholic                 S9 A6.2+ 
 0000012 270  NN1     rockstar                 Z99 

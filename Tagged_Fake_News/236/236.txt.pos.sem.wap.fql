@@ -1,4 +1,4 @@
-TOTAL              360
+TOTAL              363
 the                  AT             27 
 to                   TO             12 
 in                   II             10 
@@ -19,12 +19,14 @@ is                   VBZ             3
 response             NN1             3 
 may                  VM              3 
 russian              JJ              3 
+'s                   GE              3 
 are                  VBR             3 
 respond              VVI             3 
 elections            NN2             3 
 will                 VM              3 
 this                 DD1             3 
 be                   VBI             3 
+president            NN1             3 
 authority            NN1             3 
 i                    PPIS1           3 
 am                   VBM             3 
@@ -42,7 +44,6 @@ it                   PPH1            2
 not                  XX              2 
 on                   II              2 
 order                NN1             2 
-president            NN1             2 
 also                 RR              2 
 difficult            JJ              2 
 from                 II              2 
@@ -61,8 +62,7 @@ which                DDQ             1
 cyber-operations     NN2             1 
 alleged              JJ              1 
 interference         NN1             1 
-last                 MD              1 
-months               NNT2            1 
+last_month           MD              1 
 Washington           NP1             1 
 citing               VVG             1 
 anonymous            JJ              1 
@@ -99,7 +99,8 @@ of_our_own           IO              1
 choosing             NN1             1 
 Mr._Obama            NNB             1 
 told                 VVD             1 
-NPRs_Steve_Inskeep   NP1             1 
+NPR                  NP1             1 
+Steve_Inskeep        NP1             1 
 earlier              RRR             1 
 month                NNT1            1 
 explicit             JJ              1 
@@ -136,7 +137,6 @@ last-ditch           JJ              1
 effort               NN1             1 
 within               II              1 
 expand               VVI             1 
-presidents           NN2             1 
 matter               NN1             1 
 trying               VVG             1 
 figure_out           VVI             1 
@@ -201,7 +201,7 @@ pretty               RG              1
 well                 RR              1 
 2016                 MC              1 
 so                   RR              1 
-lets                 VVZ             1 
+let_'s               VM21            1 
 keep_going           VVI             1 
 every_two_years      AT1             1 
 country              NN1             1 

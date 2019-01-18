@@ -7,8 +7,9 @@
 0000002 050  NP1     DOJ                      Z99 
 0000002 060  TO      To                       Z5 
 0000002 070  VV0     Destroy                  A1.1.2 
-0000002 080  ZZ1     A                        Z5 
-0000002 090  NN2     Reporters                Q4.2/S2mf 
+0000002 080  AT1@    A                        Z5 
+0000002 090  NN1     Reporter                 Q4.2/S2mf 
+0000002 091  GE      's                       Z5 
 0000002 100  NN1     Life                     Z3c 
 0000002 110  CC      And                      Z5 
 0000002 120  VV0@    Blanket                  N5.1+ H5 O2 N5.2+ 

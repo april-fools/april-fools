@@ -127,8 +127,9 @@
 0000006 330  NNT2    years                    T1.3 
 0000006 340  II      as                       Z5 
 0000006 350  AT      the                      Z5 
-0000006 360  JJ      White                    Z1mf 
-0000006 370  NN2     Houses                   H1 P1/S5+c G1.1c H4 
+0000006 360  NP1     White                    Z3c[i9.2.1 Z2[i9.2.1 Z1mf 
+0000006 370  NN1     House                    Z3c[i9.2.2 Z2[i9.2.2 H1 P1/S5+c G1.1c 
+0000006 371  GE      's                       Z5 
 0000006 380  NN1     director                 S7.1+/S2mf K4/S2mf 
 0000006 390  IO      of                       Z5 
 0000006 400  NN1     infrastructure           I2.1/S8+ 
@@ -139,8 +140,8 @@
 0000008 010  II      Since                    Z5 
 0000008 020  VVG     leaving                  M1 M2 A1.1.1 A1.9 A9- T2- 
 0000008 030  AT      the                      Z5 
-0000008 040  NP1     White                    Z3c[i9.2.1 Z2[i9.2.1 Z1mf 
-0000008 050  NN1     House                    Z3c[i9.2.2 Z2[i9.2.2 H1 P1/S5+c G1.1c 
+0000008 040  NP1     White                    Z3c[i10.2.1 Z2[i10.2.1 Z1mf 
+0000008 050  NN1     House                    Z3c[i10.2.2 Z2[i10.2.2 H1 P1/S5+c G1.1c 
 0000008 051  ,       ,                        
 0000008 060  NP1     Bossert                  Z99 
 0000008 070  VHZ     has                      Z5 A9+ A2.2 S4 
@@ -157,15 +158,16 @@
 0000008 180  NN1     fellow                   S2.2m P1/S2mf 
 0000008 190  II      at                       Z5 
 0000008 200  AT      the                      Z5 
-0000008 210  NP1     Atlantic                 Z3c[i10.2.1 Z2 
-0000008 220  NN1     Council                  Z3c[i10.2.2 G1.1c S7.1+/S5+c 
+0000008 210  NP1     Atlantic                 Z3c[i11.2.1 Z2 
+0000008 220  NN1     Council                  Z3c[i11.2.2 G1.1c S7.1+/S5+c 
 0000008 230  VVG     focusing                 X5.1+ X3.4 A4.2+ 
 0000008 240  II      on                       Z5 
 0000008 250  NN1     cybersecurity            Z99 
 0000008 251  .       .                        
 0000009 001  -----   -----                    
-0000010 010  NNB     Mr.                      Z1m[i12.2.1 S2.2m Z1m[i11.2.1 
-0000010 020  NP1     Trumps                   Z1m[i12.2.2 Z1mf Z1m[i11.2.2 
+0000010 010  NNB     Mr.                      Z1m[i13.2.1 S2.2m Z1m[i12.2.1 
+0000010 020  NP1     Trump                    Z1m[i13.2.2 Z1mf Z1m[i12.2.2 
+0000010 021  GE      's                       Z5 
 0000010 030  NN1     transition               A2.1+ 
 0000010 040  NN1     team                     S5+c K5.1/S5+c S5+ 
 0000010 050  VVD     said                     Q2.1 
@@ -192,8 +194,9 @@
 0000010 250  CCB     but                      Z5 
 0000010 260  DD1     that                     Z8 Z5 
 0000010 270  II      in                       Z5 
-0000010 280  NNB     Mr.                      Z1m[i13.2.1 S2.2m 
-0000010 290  NP1     Trumps                   Z1m[i13.2.2 Z1mf 
+0000010 280  NNB     Mr.                      Z1m[i14.2.1 S2.2m 
+0000010 290  NP1     Trump                    Z1m[i14.2.2 Z1mf 
+0000010 291  GE      's                       Z5 
 0000010 300  NN1     administration           S7.1+c A9- 
 0000010 310  AT      the                      Z5 
 0000010 320  NN1     job                      I3.1 A1.1.1 A12- 
@@ -210,26 +213,27 @@
 0000010 412  -----   -----                    
 0000012 010  NNB     Lt.                      Z99 
 0000012 020  NNB     Gen.                     X2.2+ 
-0000012 030  NP1     Michael                  Z1mf[i14.2.1 Z3c[i14.2.1 Z1m 
-0000012 040  NP1     Flynn                    Z1mf[i14.2.2 Z3c[i14.2.2 
+0000012 030  NP1     Michael                  Z1mf[i15.2.1 Z3c[i15.2.1 Z1m 
+0000012 040  NP1     Flynn                    Z1mf[i15.2.2 Z3c[i15.2.2 
 0000012 041  (       (                        
 0000012 050  NNU     ret.                     Z99 
 0000012 051  )       )                        
 0000012 060  VM      will                     T1.1.3 
 0000012 070  VVI     serve                    S8+ S7.1- I2.2 A9- F1 A1.1.1 I3.1 K5.1 G2.1 
 0000012 080  CSA     as                       Z5 
-0000012 090  NNB     Mr.                      Z1m[i16.3.1 S2.2m Z1m[i15.2.1 
-0000012 100  NP1     Trumps                   Z1m[i16.3.2 Z1mf Z1m[i15.2.2 Z1mf[i17.2.1 Z3c[i17.2.1 
-0000012 110  JJ      National                 Z1m[i16.3.3 Z3c Z1mf[i17.2.2 Z3c[i17.2.2 
+0000012 090  NNB     Mr.                      Z1m[i16.2.1 S2.2m 
+0000012 100  NP1     Trump                    Z1m[i16.2.2 Z1mf 
+0000012 101  GE      's                       Z5 
+0000012 110  JJ      National                 Z3c 
 0000012 120  NN1     Security                 G2.1 A15+ E6+ I1.1 
 0000012 130  NN1     Advisor                  S8+/S2mf 
 0000012 131  .       .                        
 0000013 001  -----   -----                    
 0000014 010  PPIS1   I                        Z8mf 
 0000014 020  VBM     am                       Z5 A3+ 
-0000014 030  VVG     looking                  X2.6+/E2+[i18.2.1 X2.1/T1.1.3[i18.2.1 X3.4/M6[i18.2.1 A8 X3.4 X2.4 X7+ Z4 S7.1-[i19.2.1 
-0000014 040  RL      forward                  X2.6+/E2+[i18.2.2 X2.1/T1.1.3[i18.2.2 X3.4/M6[i18.2.2 M6 T1.1.3 
-0000014 050  II      to                       Z5 S7.1-[i19.2.2 
+0000014 030  VVG     looking                  X2.6+/E2+[i17.2.1 X2.1/T1.1.3[i17.2.1 X3.4/M6[i17.2.1 A8 X3.4 X2.4 X7+ Z4 S7.1-[i18.2.1 
+0000014 040  RL      forward                  X2.6+/E2+[i17.2.2 X2.1/T1.1.3[i17.2.2 X3.4/M6[i17.2.2 M6 T1.1.3 
+0000014 050  II      to                       Z5 S7.1-[i18.2.2 
 0000014 060  VVG     working                  I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
 0000014 070  RR      closely                  A13.4 A4.2+ N3.3- 
 0000014 080  IW      with                     Z5 
@@ -246,8 +250,8 @@
 0000014 190  NN2     interests                X5.2+ I1.1 S8+ S1.1.3+ 
 0000014 200  IO      of                       Z5 
 0000014 210  AT      the                      Z5 
-0000014 220  NP1     United                   Z2c[i22.2.1 Z2c[i21.2.1 Z3c Z1mf[i20.2.1 Z3c[i20.2.1 
-0000014 230  NP1     States                   Z2c[i22.2.2 Z2c[i21.2.2 Z2 Z1mf[i20.2.2 Z3c[i20.2.2 
+0000014 220  NP1     United                   Z2c[i21.2.1 Z2c[i20.2.1 Z3c Z1mf[i19.2.1 Z3c[i19.2.1 
+0000014 230  NP1     States                   Z2c[i21.2.2 Z2c[i20.2.2 Z2 Z1mf[i19.2.2 Z3c[i19.2.2 
 0000014 240  CC      and                      Z5 
 0000014 250  APPGE   its                      Z8 
 0000014 260  NN2     allies                   S5+ 

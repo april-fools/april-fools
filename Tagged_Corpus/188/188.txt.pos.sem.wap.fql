@@ -1,4 +1,4 @@
-TOTAL             1215
+TOTAL             1225
 the                  AT             70 
 and                  CC             34 
 a                    AT1            32 
@@ -7,25 +7,25 @@ in                   II             24
 for                  IF             22 
 to                   TO             15 
 to                   II             15 
-you                  PPY            12 
+you                  PPY            14 
+it                   PPH1           13 
 can                  VM             11 
 or                   CC             11 
 with                 IW             10 
 hair                 NN1            10 
-its                  APPGE           9 
+are                  VBR             9 
 but                  CCB             9 
 that                 CST             8 
 care                 NN1             8 
-are                  VBR             8 
 into                 II              8 
 is                   VBZ             7 
+'s                   VBZ             7 
 on                   II              7 
 at                   II              7 
 getting              VVG             7 
 most                 DAT             7 
 tourists             NN2             7 
 from                 II              6 
-it                   PPH1            6 
 be                   VBI             6 
 will                 VM              6 
 those                DD2             6 
@@ -38,7 +38,7 @@ haircut              NN1             5
 their                APPGE           5 
 Salvador             NP1             5 
 having               VHG             4 
-nt                   XX              4 
+n't                  XX              4 
 this                 DD1             4 
 while                CS              4 
 simple               JJ              4 
@@ -58,7 +58,6 @@ which                DDQ             4
 then                 RT              4 
 cuts                 NN2             4 
 barbers              NN2             4 
-tourism              NN1             3 
 countries            NN2             3 
 save                 VVI             3 
 common               JJ              3 
@@ -85,11 +84,13 @@ that                 DD1             3
 Saint_Vincent_and_the_Grenadines NP1             3 
 considered           VVN             3 
 boom                 NN1             2 
+Tourism'             NP1             2 
 up                   RG21            2 
 to                   RG22            2 
 them                 PPHO2           2 
 done                 VDN             2 
 similar              JJ              2 
+its                  APPGE           2 
 cost                 NN1             2 
 easily               RR              2 
 possible             JJ              2 
@@ -134,7 +135,6 @@ between              II              2
 where                CS              2 
 first                MD              2 
 city                 NN1             2 
-cousins              NN2             2 
 cheap                JJ              2 
 although             CS              2 
 true                 JJ              2 
@@ -171,7 +171,7 @@ xinjiang             VV0             2
 autonomous_region    JJ              2 
 China                NP1             2 
 instead              RR              2 
-youll                VV0             2 
+'ll                  VM              2 
 miles                NNU2            2 
 well                 NN1             1 
 publicized           JJ              1 
@@ -231,7 +231,8 @@ coolest              JJT             1
 name                 VV0             1 
 ever                 RR              1 
 t-shirt              NN1             1 
-transformed          JJ              1 
+tourism              NN1             1 
+transformed          VVN             1 
 busiest              JJT             1 
 destinations         NN2             1 
 hair_industry        NN1             1 
@@ -309,6 +310,7 @@ wandering            VVG             1
 fighting_off         VVG             1 
 touts                NN2             1 
 whose                DDQGE           1 
+cousins              NN2             1 
 brothers             NN2             1 
 offer                VVI             1 
 amazingly            RR              1 
@@ -325,6 +327,8 @@ beg                  VV0             1
 buy                  VVI             1 
 duty_free            NN1             1 
 vodka                NN1             1 
+cousin               NN1             1 
+'s                   GE              1 
 wedding              NN1             1 
 later                RRR             1 
 airlines             NN2             1 
@@ -483,7 +487,6 @@ passed               VVN             1
 laws                 NN2             1 
 whereby              RRQ             1 
 stylists             NN2             1 
-are                  VB0             1 
 required             VVN             1 
 use                  VV0             1 
 mirror               NN1             1 
@@ -532,7 +535,7 @@ do                   VDI             1
 rip-offs             NN2             1 
 masters              NN2             1 
 practice             NN1             1 
-need                 VV0             1 
+need                 VVI             1 
 a_couple             AT1             1 
 thousand             NNO             1 
 west                 ND1             1 
@@ -564,7 +567,7 @@ cool                 JJ              1
 hats                 NN2             1 
 at_all_times         II              1 
 open-air             JJ              1 
-see                  VV0             1 
+see                  VVI             1 
 town                 NN1             1 
 square               NN1             1 
 jammed               VVN             1 

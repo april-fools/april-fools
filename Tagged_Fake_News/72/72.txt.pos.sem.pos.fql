@@ -1,7 +1,7 @@
-TOTAL         127
+TOTAL         128
 NN1            20 
 JJ             14 
-NP1             9 
+NP1            10 
 CC              6 
 II              6 
 AT              5 
@@ -26,7 +26,7 @@ DB              1
 DDQ             1 
 VBI             1 
 IW              1 
-NP2             1 
+GE              1 
 MD              1 
 VBG             1 
 XX              1 

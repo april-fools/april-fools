@@ -8,7 +8,6 @@ Murad                    NP1     Z99
 Murad                    NP1@    Z99 
 Obama                    NN1     Z99 
 Obama                    NP1     Z99 
-Obamas                   NP1@    Z99 
+Obama                    NP1@    Z99 
 redact                   VVI     Z99 
 self-fulfilling          JJ      Z99 
-wasnt                    VV0     Z99 

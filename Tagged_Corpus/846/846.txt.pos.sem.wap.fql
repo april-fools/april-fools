@@ -1,4 +1,4 @@
-TOTAL              437
+TOTAL              439
 the                  AT             20 
 and                  CC             18 
 of                   IO             15 
@@ -6,11 +6,12 @@ a                    AT1            13
 is                   VBZ            10 
 to                   TO             10 
 in                   II              9 
+'s                   GE              8 
 as                   CSA             7 
-'s                   GE              6 
 will                 VM              6 
 with                 IW              5 
 on                   II              5 
+trump                NN1             5 
 we                   PPIS2           5 
 publishing           VVG             4 
 book                 NN1             4 
@@ -25,9 +26,9 @@ Allen_Lane           NP1             3
 to                   II              3 
 our                  APPGE           3 
 time                 NNT1            3 
+shock                NN1             3 
 enough               RR              3 
 books                NN2             3 
-trump                NN1             3 
 no                   AT              3 
 author               NN1             3 
 for                  IF              3 
@@ -43,7 +44,6 @@ exploring            VVG             2
 done                 VDN             2 
 resist               VVI             2 
 his                  APPGE           2 
-shock                NN1             2 
 politics             NN1             2 
 no                   NN1             2 
 publish              VVI             2 
@@ -52,7 +52,6 @@ publisher            NN1             2
 logo                 NN1             2 
 press                NN1             2 
 toolkit              NN1             2 
-trumps               NN2             2 
 he                   PPHS1           2 
 an                   AT1             2 
 at                   II              2 
@@ -87,7 +86,6 @@ bitingly             RR              1
 sharp                JJ              1 
 understanding        NN1             1 
 resisting            VVG             1 
-shock                VV0             1 
 trump                VV0             1 
 extreme              JJ              1 
 Klein                NP1             1 

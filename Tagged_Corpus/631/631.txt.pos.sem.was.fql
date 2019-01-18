@@ -1,13 +1,13 @@
-TOTAL              612
+TOTAL              616
 the                  Z5                  42 
 and                  Z5                  31 
 of                   Z5                  24 
 to                   Z5                  15 
 cyber                Y2                  12 
 in                   Z5                  11 
+China                Z2                  11 
 is                   A3+                 10 
 chinese              Z2                   9 
-China                Z2                   9 
 technology           Y1                   8 
 a                    Z5                   8 
 it                   Z8                   7 
@@ -45,7 +45,7 @@ as                   Z5                   2
 unfair               G2.2-                2 
 often                N6+                  2 
 competitors          S7.3+                2 
-Chinas               Z2                   2 
+'s                   Z5                   2 
 both                 Z5                   2 
 history              T1.1.1               2 
 move_up              M1                   2 
@@ -64,6 +64,7 @@ their                Z8                   2
 than                 Z5                   2 
 public               S5+                  2 
 companies            I2.1                 2 
+should               S6+                  2 
 evidence             A5.2+                2 
 something            Z8                   2 
 has                  Z5                   2 
@@ -135,6 +136,7 @@ them                 Z8                   1
 so                   Z5                   1 
 commentaries         Q2.1                 1 
 focus                X5.1+                1 
+'                    Z5                   1 
 advantages           A5.1+                1 
 dominate             S7.1+                1 
 hardware             O2                   1 
@@ -274,7 +276,7 @@ all                  N5.1+                1
 ipr                  Z99                  1 
 allegedly            Q2.2                 1 
 stealing             G2.1-                1 
-shouldnt             Z99                  1 
+n't                  Z6                   1 
 start                T2+                  1 
 paying_off           I1.2                 1 
 competitive          S7.3+                1 
@@ -313,7 +315,6 @@ happened             A2.1+                1
 yet                  T1.1.2               1 
 multilateral         N5+                  1 
 pressure             N3.5                 1 
-should               S6+                  1 
 applied              Q2.2                 1 
 backed_down          S7.1-                1 
 from                 Z5                   1 

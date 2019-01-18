@@ -1,4 +1,4 @@
-TOTAL              122
+TOTAL              123
 the                  AT             11 
 kid                  NN1             4 
 rock                 NN1             4 
@@ -9,7 +9,7 @@ Hillary_Clinton      NP1             2
 event                NN1             2 
 he                   PPHS1           2 
 vote                 NN1             2 
-Donald_trump         NP1             2 
+Donald_Trump'        NP1             2 
 and                  CC              2 
 after                II              2 
 crowd                NN1             2 
@@ -31,7 +31,7 @@ shouted              VVD             1
 Hillary              NP1             1 
 for                  IF              1 
 prison               NN1             1 
-2016                 MC              1 
+2016'                FO              1 
 from                 II              1 
 behind               II              1 
 DNC                  NP1             1 
@@ -54,7 +54,7 @@ american             JJ              1
 hero                 NN1             1 
 who                  PNQS            1 
 wrote                VVD             1 
-Bawitdaba            NP1             1 
+Bawitdaba'           NP1             1 
 reportedly           RR              1 
 looked_at            VVN             1 
 fire                 NN1             1 
@@ -66,7 +66,8 @@ glad                 JJ              1
 nu                   NN1             1 
 metal                NN1             1 
 dead                 JJ              1 
-all_summer_long      DB              1 
+all_summer           DB              1 
+Long'                NP1             1 
 singer               NN1             1 
 able                 JK              1 
 get                  VVI             1 

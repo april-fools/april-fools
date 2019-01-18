@@ -12,9 +12,7 @@ EPA                      NP1     Z99
 Gunderson                NP1     Z99 
 Horsetooth               NP1     Z99 
 hydrologist              NN1     Z99 
-Im                       VV0     Z99 
 inorganic                JJ      Z99 
-isnt                     NN1     Z99 
 kilns                    NN2     Z99 
 largemouth               NN1     Z99 
 larvae                   NN2     Z99 
@@ -42,6 +40,5 @@ Vieira                   NP1     Z99
 walleye                  NN1     Z99 
 walleye                  VV0     Z99 
 water-level              JJ      Z99 
-Weve                     NP1@    Z99 
 Xcel                     NP1     Z99 
 Xcel                     VV0     Z99 

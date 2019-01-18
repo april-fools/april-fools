@@ -6,7 +6,6 @@ carbon-rich              JJ      Z99
 carbonic                 JJ      Z99 
 geoengineering           NN1@    Z99 
 geoengineering           VVG     Z99 
-havent                   VV0     Z99 
 hydration                NN1     Z99 
 hydrosphere              NN1     Z99 
 meteorites               NN2     Z99 

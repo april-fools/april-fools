@@ -1,6 +1,6 @@
-TOTAL              419
+TOTAL              423
 the                  AT             30 
-adobe                NN1            12 
+adobe                NN1            13 
 will                 VM             11 
 of                   IO             10 
 for                  IF             10 
@@ -28,6 +28,7 @@ as                   CSA             3
 fla                  NN1             3 
 their                APPGE           3 
 with                 IW              3 
+it                   PPH1            3 
 said                 VVD             3 
 on                   II              3 
 you                  PPY             3 
@@ -48,9 +49,9 @@ can                  VM              2
 payment              NN1             2 
 only                 RR              2 
 developer            NN1             2 
-it                   PPH1            2 
 way                  NN1             2 
-cant                 JJ              2 
+ca                   VM              2 
+n't                  XX              2 
 line                 NN1             2 
 have_to              VHI             2 
 not                  XX              2 
@@ -60,7 +61,7 @@ html5                FO              2
 laughing             VVG             2 
 coming_on            VVG             1 
 heels                NN2             1 
-adobes               NN2             1 
+'s                   GE              1 
 premium              JJ              1 
 required             VVN             1 
 9%                   NNU             1 
@@ -150,7 +151,7 @@ asked                VVD             1
 question             NN1             1 
 why                  RRQ             1 
 just                 RR              1 
-put                  VV0             1 
+put                  VVI             1 
 one                  MC1             1 
 already              RR              1 
 thought              VVN             1 
@@ -195,7 +196,7 @@ tried                VVN             1
 play                 VVI             1 
 sound                NN1             1 
 sh*t                 FO              1 
-its                  APPGE           1 
+'s                   VBZ             1 
 nearly               RR              1 
 impossible           JJ              1 
 luck                 NN1             1 
@@ -230,5 +231,5 @@ charging             VVG             1
 your                 APPGE           1 
 javascript           NN1             1 
 b*tches              FO              1 
-escape               VV0             1 
+escape               VVI             1 
 us                   PPIO2           1 

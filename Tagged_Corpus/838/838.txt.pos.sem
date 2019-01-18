@@ -37,7 +37,8 @@
 0000002 341  .       .                        
 0000002 342  -----   -----                    
 0000002 350  CS      While                    Z5 
-0000002 360  APPGE   its                      Z8 
+0000002 360  PPH1    it                       Z8 
+0000002 361  VBZ     's                       A3+ Z5 
 0000002 370  XX      not                      Z6 
 0000002 380  JJ      cheap                    I1.3- O4.2- 
 0000002 390  TO      to                       Z5 
@@ -47,7 +48,8 @@
 0000002 430  RP      back                     M6 N6+ T1.1.1 S1.1.2+ 
 0000002 440  RL      home                     H4 M6 
 0000002 441  ,       ,                        
-0000002 450  NN2     theres                   Z5 M6 T1.2 
+0000002 450  EX      there                    Z5 
+0000002 451  VBZ     's                       A3+ Z5 
 0000002 460  PN1     nothing                  Z6/Z8 
 0000002 470  RGR     more                     A13.3 
 0000002 480  JJ      inhumane                 G2.2- 
@@ -59,14 +61,16 @@
 0000002 540  VVI     kill                     L1- A12- A1.5.1 E4.1-/A2.2 
 0000002 550  AT1     a                        Z5 
 0000002 560  NN1     dog                      L2mfn 
-0000002 570  NN2     thats                    Z5 Z8 A13.3 A6.1+ 
-0000002 580  VVD     served                   S8+ S7.1- I2.2 A9- F1 A1.1.1 I3.1 K5.1 G2.1 
+0000002 570  CST     that                     Z8 Z5 
+0000002 571  VBZ     's                       Z5 A3+ 
+0000002 580  VVN     served                   S8+ S7.1- I2.2 A9- F1 A1.1.1 I3.1 K5.1 G2.1 
 0000002 590  APPGE   our                      Z8 
 0000002 600  NN1     country                  G1.1c W3 F4/M7 K2 
 0000002 601  .       .                        
 0000002 602  -----   -----                    
 0000002 603  (       (                        
-0000002 610  APPGE   Its                      Z8 
+0000002 610  PPH1    It                       Z8 
+0000002 611  VBZ     's                       A3+ Z5 
 0000002 620  RR      also                     N5++ 
 0000002 630  AT1     a                        Z5 
 0000002 640  NN1     tragedy                  E4.1- K4 
@@ -176,7 +180,8 @@
 0000004 580  RG      over                     T3[i13.2.1 N5[i13.2.1 N5.2+ A13.2 
 0000004 590  MC      400                      T3[i13.2.2 N5[i13.2.2 N1 T1.2 T3 T1.3 N3.2 
 0000004 600  IO      of                       Z5 
-0000004 610  NP2     Americas                 Z2 
+0000004 610  NP1     America                  Z2 
+0000004 611  GE      's                       Z5 
 0000004 620  JJ      four-legged              O4.1 
 0000004 630  JJ      military                 G3 
 0000004 640  NN2     personnel                I3.1/S5+ I3.1/H2 
@@ -249,7 +254,8 @@
 0000008 130  NNT2    weeks                    T1.3 
 0000008 140  II21    prior                    N4[i16.2.1 
 0000008 150  II22    to                       N4[i16.2.2 Z5 
-0000008 160  NP1     Chriss                   Z99 
+0000008 160  NP1     Chris                    Z1mf 
+0000008 161  GE      's                       Z5 
 0000008 170  NN1     arrival                  M1 T2- 
 0000008 180  II      at                       Z5 
 0000008 190  APPGE   his                      Z8m 
@@ -297,7 +303,8 @@
 0000008 541  ,       ,                        
 0000008 550  VVD     grabbed                  A9+ 
 0000008 560  AT      the                      Z5 
-0000008 570  NN2     bombers                  M5/G3fn G2.1-/S2mf 
+0000008 570  NN1     bomber                   M5/G3fn G2.1-/S2mf 
+0000008 571  GE      's                       Z5 
 0000008 580  NN1     leg                      B1 O2 N3.3 
 0000008 590  CS      while                    Z5 
 0000008 600  MC      two                      N1 T3 T1.2 
@@ -408,7 +415,8 @@
 0000010 190  II31    as                       N5++[i23.2.1 Z5 
 0000010 200  II32    well                     N5++[i23.2.2 
 0000010 210  II33    as                       Z5 
-0000010 220  NN2     Targets                  Z3c 
+0000010 220  NN1     Target                   Z3c 
+0000010 221  GE      's                       Z5 
 0000010 230  NN1     litter                   O4.2- N5 O1.1 L2c M3%fn 
 0000010 240  IO      of                       Z5 
 0000010 250  NN2     puppies                  L2mfn 
@@ -496,7 +504,8 @@
 0000010 980  AT      the                      Z5 
 0000010 990  NN2     soldiers                 G3/S2mf 
 0000010 000  II      at                       Z5 
-0000010 010  NP1     Chriss                   Z99 
+0000010 010  NP1     Chris                    Z1mf 
+0000010 011  GE      's                       Z5 
 0000010 020  NN1     post                     Q1.2 O2 I3.1 M6 
 0000010 030  CST     that                     Z8 Z5 
 0000010 040  RR      rarely                   N6- 
@@ -511,7 +520,8 @@
 0000012 010  AT      The                      Z5 
 0000012 020  NN2     soldiers                 G3/S2mf 
 0000012 030  II      at                       Z5 
-0000012 040  NP1     Chriss                   Z99 
+0000012 040  NP1     Chris                    Z1mf 
+0000012 041  GE      's                       Z5 
 0000012 050  NN1     post                     Q1.2 O2 I3.1 M6 
 0000012 060  VVD     continued                T2++ 
 0000012 070  VVG     feeding                  F1 A9- S8+ M2@ 
@@ -550,7 +560,7 @@
 0000012 352  -----   -----                    
 0000012 360  PPIS1   I                        Z8mf 
 0000012 370  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000012 371  XX      nt                       S9/Q4.1 Z3c 
+0000012 371  XX      n't                      Z6 
 0000012 380  VVI     hear                     X3.2 X2.3+ G2.1@ 
 0000012 390  II      from                     Z5 
 0000012 400  NP1     Chris                    Z1mf 
@@ -568,7 +578,8 @@
 0000012 510  AT      the                      Z5 
 0000012 520  NN1     smile                    E4.1+ 
 0000012 530  II      on                       Z5 
-0000012 540  NP1     Chriss                   Z99 
+0000012 540  NP1     Chris                    Z1mf 
+0000012 541  GE      's                       Z5 
 0000012 550  NN1     face                     B1 W3 O2 A8 S1.2.3+ 
 0000012 560  CSA     as                       Z5 
 0000012 570  APPGE   his                      Z8m 

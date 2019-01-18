@@ -136,8 +136,9 @@
 0000006 420  MC1     one                      N1 T3 T1.2 
 0000006 430  IO      of                       Z5 
 0000006 440  NN1     Square                   O4.4 M3/H3 T3+/S2mf N2 
-0000006 450  VVZ     Enixs                    Z99 
-0000006 460  DAT     most                     N5+++ 
+0000006 450  NP1     Enix                     Z99 
+0000006 451  GE      's                       Z5 
+0000006 460  RGT     most                     A13.2 
 0000006 470  JJ      popular                  E2+ S5+ 
 0000006 480  NN2     franchises               I2.2 G1.2 
 0000006 490  VM      will                     T1.1.3 
@@ -218,7 +219,8 @@
 0000010 170  VV0     Click                    X3.2 Y2 X2.5+ S1.2.1+ 
 0000010 180  RL      here                     M6 T1.1.2 T1.2 
 0000010 190  IF      for                      Z5 
-0000010 200  NP1     GoNintendos              Z99 
+0000010 200  NP1     GoNintendo               Z99 
+0000010 201  GE      's                       Z5 
 0000010 210  NN1     article                  Q4.2 O2 Q3 G2.1/P1@ 
 0000010 220  II      concerning               Z5 
 0000010 230  DD1     this                     Z8 M6 Z5 

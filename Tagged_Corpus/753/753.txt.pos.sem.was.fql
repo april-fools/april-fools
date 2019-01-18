@@ -1,18 +1,21 @@
-TOTAL              221
+TOTAL              228
 the                  Z5                  13 
 a                    Z5                   9 
 and                  Z5                   8 
 to                   Z5                   7 
 brexit               Z99                  6 
 will                 T1.1.3               6 
-its                  Z8                   5 
+it                   Z8                   4 
 if                   Z7                   4 
+its                  Z8                   4 
+what                 Z8                   4 
+'s                   A3+                  3 
 be                   A3+                  3 
-it                   Z8                   3 
-what                 Z8                   3 
+that                 Z8                   3 
 have                 Z5                   2 
 left                 M1                   2 
 all                  N5.1+                2 
+we                   Z8                   2 
 still                T2++                 2 
 you                  Z8                   2 
 of                   Z5                   2 
@@ -20,11 +23,10 @@ in                   Z5                   2
 not                  Z6                   2 
 was                  A3+                  2 
 might                A7+                  2 
-thats                Z5                   2 
 as                   Z5                   2 
 about                Z5                   2 
-over                 T2-                  2 
 means                Q1.1                 2 
+'s                   Z5                   2 
 year                 T1.3                 1 
 go                   M1                   1 
 till                 Z5                   1 
@@ -38,13 +40,13 @@ european_union       Z1                   1
 although             Z5                   1 
 fair                 G2.2+                1 
 probably             A7+                  1 
-wont                 A6.2+                1 
+wo                   T1.1.3               1 
+n't                  Z6                   1 
 feel_like            X7+                  1 
 because              Z5                   1 
 goes                 M1                   1 
 according_to         Z5                   1 
 plan                 X7+                  1 
-we                   Z8                   1 
 immediately          N3.8+                1 
 enter                M1                   1 
 two-year             T1.3                 1 
@@ -104,8 +106,7 @@ columns              O2                   1
 last_week            T1.1.1               1 
 mark                 O4.2-                1 
 occasion             T1.2                 1 
-that                 Z8                   1 
-were                 A3+                  1 
+'re                  A3+                  1 
 any                  A13.3                1 
 wiser                S1.2.6+              1 
 of_course            Z4                   1 
@@ -121,6 +122,7 @@ mud                  O1.1                 1
 a_lot                N5+                  1 
 could                A7+                  1 
 happen               A2.1+                1 
+over                 T2-                  1 
 coming               M1                   1 
 12                   N1                   1 
 months               T1.3                 1 
@@ -131,7 +133,7 @@ phrase               Q3                   1
 with                 Z5                   1 
 Jon_Henley           Z1                   1 
 chew                 F1                   1 
-whats                Z8                   1 
+over                 Z5                   1 
 happened             A2.1+                1 
 so_far               T1.1.2               1 
 take                 A9+                  1 
@@ -143,7 +145,7 @@ are                  A3+                  1
 regular              A6.2+                1 
 pundits              X9.1+                1 
 Dan_Roberts          Z1                   1 
-guardians            Z3                   1 
+guardian             Z3                   1 
 policy               X7+                  1 
 editor               Q4                   1 
 Brussels             Z2                   1 

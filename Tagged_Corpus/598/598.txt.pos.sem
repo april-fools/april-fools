@@ -216,8 +216,9 @@
 0000010 670  NP1     Lebanon                  Z2 
 0000010 671  .       .                        
 0000011 001  -----   -----                    
-0000012 010  NN2     Todays                   T1.1.2 
-0000012 020  RR      overall                  A14 
+0000012 010  RT      Today                    T1.1.2 
+0000012 011  GE      's                       Z5 
+0000012 020  JJ      overall                  N5.1+ 
 0000012 030  JJ      Christian                Z1mf 
 0000012 040  NN1     community                S5+c 
 0000012 050  II      in                       Z5 
@@ -332,7 +333,8 @@
 0000014 390  NNU     percent                  N5[i20.2.2 N5 
 0000014 400  IO      of                       Z5 
 0000014 410  AT      the                      Z5 
-0000014 420  NN2     regions                  M7 B1 
+0000014 420  NN1     region                   M7 B1 
+0000014 421  GE      's                       Z5 
 0000014 430  JJ      overall                  N5.1+ 
 0000014 440  NN1     population               S2/N5c 
 0000014 441  .       .                        
@@ -694,7 +696,8 @@
 0000026 390  NN1     ability                  X9.1+ 
 0000026 400  IO      of                       Z5 
 0000026 410  AT      the                      Z5 
-0000026 420  NN2     regions                  M7 B1 
+0000026 420  NN1     region                   M7 B1 
+0000026 421  GE      's                       Z5 
 0000026 430  NN      people                   S2mfc 
 0000026 440  TO      to                       Z5 
 0000026 450  VVI     live                     H4 L1+ A3 
@@ -972,7 +975,8 @@
 0000036 401  ,       ,                        
 0000036 410  AT      the                      Z5 
 0000036 420  NP1     Obama                    Z99 
-0000036 430  NN2     administrations          S7.1+c A9- 
+0000036 430  NN1     administration           S7.1+c A9- 
+0000036 431  GE      's                       Z5 
 0000036 440  NN1     decision                 X6+ 
 0000036 450  TO      to                       Z5 
 0000036 460  VVI     position                 M6 
@@ -1179,7 +1183,8 @@
 0000042 480  JJ      involved                 A1.8+ A12- X5.2+ 
 0000042 490  II      in                       Z5 
 0000042 500  AT      the                      Z5 
-0000042 510  NN2     regions                  M7 B1 
+0000042 510  NN1     region                   M7 B1 
+0000042 511  GE      's                       Z5 
 0000042 520  JJ      religious                S9 
 0000042 521  ,       ,                        
 0000042 530  JJ      political                G1.2 

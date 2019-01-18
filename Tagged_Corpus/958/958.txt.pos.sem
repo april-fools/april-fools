@@ -50,13 +50,15 @@
 0000004 190  NN1     mercury                  O1.2 
 0000004 200  II      in                       Z5 
 0000004 210  AT      the                      Z5 
-0000004 220  NN2     reservoirs               W3/M4 N5+ O2 
-0000004 230  VV0     walleye                  Z99 
+0000004 220  NN1     reservoir                W3/M4 N5+ O2 
+0000004 221  GE      's                       Z5 
+0000004 230  NN1     walleye                  Z99 
 0000004 231  .       .                        
 0000005 001  -----   -----                    
 0000006 010  AT      The                      Z5 
 0000006 020  NN1     problem                  A12- X4.1 N2 B2- 
-0000006 030  NN1     isnt                     Z99 
+0000006 030  VBZ     is                       Z5 A3+ 
+0000006 031  XX      n't                      Z6 
 0000006 040  VVN     limited                  A1.7+ 
 0000006 050  II      to                       Z5 
 0000006 060  AT      the                      Z5 
@@ -89,7 +91,8 @@
 0000008 002  -----   -----                    
 0000008 010  PPH1    It                       Z8 
 0000008 020  VVZ     seems                    A8 
-0000008 030  APPGE   its                      Z8 
+0000008 030  PPH1    it                       Z8 
+0000008 031  VBZ     's                       A3+ Z5 
 0000008 040  RL      everywhere               M6/N5.1+ 
 0000008 041  ,       ,                        
 0000008 042  NULL    </quote>                 
@@ -126,7 +129,8 @@
 0000008 260  NN1     release                  A1.7- A9- I2.2 K3 Q4 E6+ 
 0000008 261  .       .                        
 0000008 262  -----   -----                    
-0000008 270  VV0     Im                       Z99 
+0000008 270  PPIS1   I                        Z8mf 
+0000008 271  VBM     'm                       Z5 A3+ 
 0000008 280  XX      not                      Z6 
 0000008 290  VVG     eating                   F1/B1 A1.5.1/N5+ 
 0000008 300  DD2     those                    Z5 Z8 
@@ -140,7 +144,8 @@
 0000010 031  ,       ,                        
 0000010 040  RR      however                  Z4 
 0000010 041  ,       ,                        
-0000010 050  NN1     isnt                     Z99 
+0000010 050  VBZ     is                       Z5 A3+ 
+0000010 051  XX      n't                      Z6 
 0000010 060  VVN     found                    A10+ X2.1 X6+.1 
 0000010 070  II      in                       Z5 
 0000010 080  NN      fish                     L2mfnc F1 
@@ -194,8 +199,9 @@
 0000012 241  .       .                        
 0000014 001  NULL    <quote>                  
 0000014 002  -----   -----                    
-0000014 010  NP1@    Weve                     Z99 
-0000014 020  VVD     got                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000014 010  PPIS2   We                       Z8 
+0000014 011  VH0     've                      Z5 A9+ A2.2 
+0000014 020  VVN     got                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
 0000014 030  DD      some                     N5 Z5 
 0000014 040  RG      very                     A13.3 
 0000014 050  JJ      hot                      O4.6+ X9.1+ O4.2+ X5.2+ G2.1- A12- S7.3+ E6- A7+++ 
@@ -437,8 +443,9 @@
 0000034 090  VM      can                      A7+ 
 0000034 100  VVI     hurt                     B2- E4.1- A1.1.2 
 0000034 110  APPGE   her                      Z8f 
-0000034 120  NN2     babys                    T3--/S2mf E2+mfn 
-0000034 130  VVG     growing                  N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4 
+0000034 120  NN1     baby                     T3--/S2mf E2+mfn 
+0000034 121  GE      's                       Z5 
+0000034 130  JJ      growing                  N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4 
 0000034 140  NN1     brain                    B1 X2 X9.1+ X9.1+/S2mf 
 0000034 150  CC      and                      Z5 
 0000034 160  JJ      nervous                  B1[i26.2.1 E6- 
@@ -513,7 +520,8 @@
 0000038 120  VBI     be                       A3+ Z5 
 0000038 130  II      to                       Z5 
 0000038 140  AT1     a                        Z5 
-0000038 150  NN2     childs                   S2mf/T3- S4mf 
+0000038 150  NN1     child                    S2mf/T3- S4mf 
+0000038 151  GE      's                       Z5 
 0000038 160  NN1     brain                    B1 X2 X9.1+ X9.1+/S2mf 
 0000038 161  ,       ,                        
 0000038 162  NULL    </quote>                 
@@ -940,6 +948,7 @@
 0000066 040  II      at                       X3.4[i47.2.2 X2.4[i47.2.2 X2.1[i47.2.2 Z5 
 0000066 050  AT      the                      Z5 
 0000066 060  NN2     lakes                    W3/M4 
+0000066 061  GE      '                        Z5 
 0000066 070  JJ      physical                 B1 A1.6 E3- Y1 
 0000066 080  CC      and                      Z5 
 0000066 090  JJ      chemical                 O1 
@@ -1161,7 +1170,8 @@
 0000082 120  RL      there                    M6 T1.2 M6[i52.2.2 
 0000082 121  .       .                        
 0000082 122  -----   -----                    
-0000082 130  APPGE   Its                      Z8 
+0000082 130  PPH1    It                       Z8 
+0000082 131  VBZ     's                       A3+ Z5 
 0000082 140  AT1     a                        Z5 
 0000082 150  JJ      beautiful                O4.2+ 
 0000082 160  NNT1    day                      T1.3 
@@ -1457,16 +1467,17 @@
 0000108 010  VV0     Xcel                     Z99 
 0000108 020  NN1     Energy                   X5.2+ Y1 
 0000108 021  ,       ,                        
-0000108 030  AT      the                      Z2[i71.2.1 Z5 
-0000108 040  NN2     states                   Z2[i71.2.2 G1.1c O4.1 
+0000108 030  AT      the                      Z5 
+0000108 040  NN1     state                    G1.1c O4.1 
+0000108 041  GE      's                       Z5 
 0000108 050  JJT     largest                  N3.2+++ N5+++ A11.1+++ 
 0000108 060  NN1     utility                  A1.5.2 O2 
 0000108 061  ,       ,                        
 0000108 070  VHZ     has                      Z5 A9+ A2.2 S4 
 0000108 080  RR      already                  T1.1.1 
 0000108 090  VVN     spent                    I1.2 A1.5.1 T1.3 
-0000108 100  NNU     $1.75                    Z99/H1c[i72.2.1 
-0000108 110  NNO     million                  Z99/H1c[i72.2.2 N1 I1 
+0000108 100  NNU     $1.75                    Z99/H1c[i71.2.1 
+0000108 110  NNO     million                  Z99/H1c[i71.2.2 N1 I1 
 0000108 120  TO      to                       Z5 
 0000108 130  VVI     install                  A1.1.1 S1.1.1 
 0000108 140  NN2     monitors                 O2 Y2 Q4.3 X2.4/S2mf 
@@ -1474,10 +1485,10 @@
 0000108 160  MC      five                     N1 T3 T1.2 
 0000108 170  NN2     plants                   L3 I4/H1c O2 A10-/S2mf 
 0000108 171  ,       ,                        
-0000108 180  II21    according                Z5[i73.2.1 Z5 
-0000108 190  II22    to                       Z5[i73.2.2 Z5 
-0000108 200  NP1     Gary                     Z1mf[i74.2.1 Z3c[i74.2.1 Z1m 
-0000108 210  NP1     Magno                    Z1mf[i74.2.2 Z3c[i74.2.2 
+0000108 180  II21    according                Z5[i72.2.1 Z5 
+0000108 190  II22    to                       Z5[i72.2.2 Z5 
+0000108 200  NP1     Gary                     Z1mf[i73.2.1 Z3c[i73.2.1 Z1m 
+0000108 210  NP1     Magno                    Z1mf[i73.2.2 Z3c[i73.2.2 
 0000108 211  ,       ,                        
 0000108 220  AT1     a                        Z5 
 0000108 230  JJ      principal                A11.1+++ 
@@ -1502,8 +1513,8 @@
 0000110 110  JJ@     activated                Z99 
 0000110 120  NN1     carbon                   O1.1 Q1.2@ 
 0000110 130  TO      to                       Z5 
-0000110 140  VVI     lock                     A1.7+[i75.2.1 G2.1[i75.2.1 H1[i75.2.1 A1.7+ 
-0000110 150  RP      up                       A1.7+[i75.2.2 G2.1[i75.2.2 H1[i75.2.2 
+0000110 140  VVI     lock                     A1.7+[i74.2.1 G2.1[i74.2.1 H1[i74.2.1 A1.7+ 
+0000110 150  RP      up                       A1.7+[i74.2.2 G2.1[i74.2.2 H1[i74.2.2 
 0000110 160  AT      the                      Z5 
 0000110 170  NN1     mercury                  O1.2 
 0000110 171  .       .                        
@@ -1513,8 +1524,8 @@
 0000110 200  VV0     cost                     I1.3 I1.2 
 0000110 210  RG21    up                       Z5 X9.1+ M6 N4 N5++ T2- A1.1.1 N5+/A2.1 
 0000110 220  RG22    to                       Z5 M6 
-0000110 230  NNU     $3                       Z99/H1c[i76.2.1 
-0000110 240  NNO     million                  Z99/H1c[i76.2.2 N1 I1 
+0000110 230  NNU     $3                       Z99/H1c[i75.2.1 
+0000110 240  NNO     million                  Z99/H1c[i75.2.2 N1 I1 
 0000110 250  DD1     each                     N5.1+ 
 0000110 260  CC      and                      Z5 
 0000110 270  JJ      annual                   N6+ 
@@ -1534,12 +1545,12 @@
 0000112 020  DA2     many                     N5+ 
 0000112 030  NN2     states                   G1.1c O4.1 
 0000112 040  VH0     have                     Z5 A9+ A2.2 S4 
-0000112 050  VVN     taken                    A1.1.1[i77.3.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
-0000112 060  AT      the                      A1.1.1[i77.3.2 Z5 
-0000112 070  NN2     steps                    A1.1.1[i77.3.3 M1 T1.2 H5 A1.1.1 K1@ Z2[i78.2.1 Z3c[i78.2.1 Z1mf[i78.2.1 
-0000112 080  NP1     Colorado                 Z2 Z3c Z2[i78.2.2 Z3c[i78.2.2 Z1mf[i78.2.2 
-0000112 090  VHZ     has                      S6+[i79.2.1 A9+ Z5 A2.2 S4 
-0000112 100  TO      to                       S6+[i79.2.2 Z5 
+0000112 050  VVN     taken                    A1.1.1[i76.3.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000112 060  AT      the                      A1.1.1[i76.3.2 Z5 
+0000112 070  NN2     steps                    A1.1.1[i76.3.3 M1 T1.2 H5 A1.1.1 K1@ Z2[i77.2.1 Z3c[i77.2.1 Z1mf[i77.2.1 
+0000112 080  NP1     Colorado                 Z2 Z3c Z2[i77.2.2 Z3c[i77.2.2 Z1mf[i77.2.2 
+0000112 090  VHZ     has                      S6+[i78.2.1 A9+ Z5 A2.2 S4 
+0000112 100  TO      to                       S6+[i78.2.2 Z5 
 0000112 110  VVI     get                      A2.1+ A9+ Z5 X9.2+ A2.2 M1 M2 X2.5+ E4.1- 
 0000112 120  JJ      deep                     N3.7+ N5+ O4.3 A4.2+ E4.1- X3.2 
 0000112 130  NN2     cuts                     A1.1.1 N5-/A2.1 T2- B2- B5 Q4.3 S1.1.2+ F1 K5.1 F3 
@@ -1550,27 +1561,27 @@
 0000112 162  NULL    </quote>                 
 0000112 163  -----   -----                    
 0000112 170  VVD     said                     Q2.1 
-0000112 180  NP1     Paul                     Z1mf[i80.2.1 Z3c[i80.2.1 Z1m 
-0000112 190  NP1     Tourangeau               Z1mf[i80.2.2 Z3c[i80.2.2 
+0000112 180  NP1     Paul                     Z1mf[i79.2.1 Z3c[i79.2.1 Z1m 
+0000112 190  NP1     Tourangeau               Z1mf[i79.2.2 Z3c[i79.2.2 
 0000112 191  ,       ,                        
 0000112 200  NN1     director                 S7.1+/S2mf K4/S2mf 
 0000112 210  IO      of                       Z5 
 0000112 220  AT      the                      Z5 
 0000112 230  NN1     state                    G1.1c O4.1 
-0000112 240  NN1     Air                      W5[i81.2.1 O1.3 A8 W1 Q4.3 M1 
-0000112 250  NN1     Pollution                W5[i81.2.2 W5 
+0000112 240  NN1     Air                      W5[i80.2.1 O1.3 A8 W1 Q4.3 M1 
+0000112 250  NN1     Pollution                W5[i80.2.2 W5 
 0000112 260  NN1     Control                  S7.1+ A1.7+ O2 
 0000112 270  NN1     Division                 A6.1- N2 G2.1/S5+c G3/S5+c G1.2 K5.2/S5+c 
 0000112 271  .       .                        
 0000113 001  -----   -----                    
-0000114 010  NP1     Mark                     Z1mf[i82.2.1 Z3c[i82.2.1 Z1m S9/O1.2 
-0000114 020  NP1     Jaffe                    Z1mf[i82.2.2 Z3c[i82.2.2 
+0000114 010  NP1     Mark                     Z1mf[i81.2.1 Z3c[i81.2.1 Z1m S9/O1.2 
+0000114 020  NP1     Jaffe                    Z1mf[i81.2.2 Z3c[i81.2.2 
 0000114 021  ,       ,                        
 0000114 030  AT      The                      Z5 
 0000114 040  NP1     Denver                   Z2 Z1mf 
 0000114 050  NN1     Post                     Q1.2 O2 I3.1 M6 
-0000116 010  II21    Due                      A2.2[i83.2.1 
-0000116 020  II22    to                       A2.2[i83.2.2 Z5 
+0000116 010  II21    Due                      A2.2[i82.2.1 
+0000116 020  II22    to                       A2.2[i82.2.2 Z5 
 0000116 030  JJ      incorrect                A5.3- S1.2.4- 
 0000116 040  NN1     information              X2.2+ 
 0000116 050  VVN     provided                 A9- S6+ 
@@ -1589,10 +1600,11 @@
 0000116 170  NN1     information              X2.2+ 
 0000116 180  II      about                    Z5 
 0000116 190  AT      the                      Z5 
-0000116 200  NN1     department               H2/S5+c X2.2 
-0000116 210  IO      of                       Z5 
-0000116 220  NN2     healths                  B2 X9.2 
-0000116 230  VVG@    warning                  X2.2+/A15- A1.3+ 
+0000116 200  NN1     department               Z3c[i83.3.1 H2/S5+c X2.2 
+0000116 210  IO      of                       Z3c[i83.3.2 Z5 
+0000116 220  NN1     health                   Z3c[i83.3.3 B2 X9.2 
+0000116 221  GE      's                       Z5 
+0000116 230  NN1     warning                  X2.2+/A15- A1.3+ 
 0000116 240  II      about                    Z5 
 0000116 250  NP1     Sweitzer                 Z2[i84.2.1 
 0000116 260  NNL1    Lake                     Z2[i84.2.2 

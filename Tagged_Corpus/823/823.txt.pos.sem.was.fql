@@ -1,41 +1,41 @@
-TOTAL             5756
+TOTAL             5791
 the                  Z5                 535 
 to                   Z5                 204 
 and                  Z5                 200 
 of                   Z5                 136 
+ICANN                Z99                115 
 in                   Z5                 112 
-ICANN                Z99                 95 
 a                    Z5                  92 
-proposal             Q2.2                74 
+proposal             Q2.2                75 
+board                S7.1+               55 
 is                   A3+                 54 
 for                  Z5                  54 
 it                   Z8                  52 
-board                S7.1+               50 
 that                 Z5                  47 
 or                   Z5                  47 
 that                 Z8                  44 
-community            S5+                 43 
+community            S5+                 44 
 would                A7+                 41 
 be                   Z5                  40 
 not                  Z6                  39 
 by                   Z5                  36 
 this                 M6                  36 
-ccwg-accountability  Z99                 34 
-NTIA                 Z99                 32 
+NTIA                 Z99                 35 
+ccwg-accountability  Z99                 35 
 with                 Z5                  32 
 as                   Z5                  32 
 its                  Z8                  30 
 will                 T1.1.3              30 
+'s                   Z5                  30 
 be                   A3+                 30 
 an                   Z5                  29 
 on                   Z5                  29 
 transition           A2.1+               24 
 bylaws               G2.1                23 
+GAC                  Z99                 22 
 new                  T3-                 21 
 from                 Z5                  21 
-GAC                  Z99                 21 
 accountability       S7.1+               20 
-icanns               Z99                 20 
 should               S6+                 19 
 if                   Z7                  18 
 Internet             Y2                  17 
@@ -171,11 +171,11 @@ concerns             E6-                  5
 called               Q2.2                 5 
 was                  Z5                   5 
 did                  Z5                   5 
-boards               S7.1+                5 
 rights               S7.4+                5 
 operations           A1.1.1               5 
 specifically         A4.2+                5 
 intellectual         X2                   5 
+IPC                  Z3                   5 
 balance              O4.1                 5 
 ability              X9.1+                5 
 require              X7+                  5 
@@ -216,7 +216,6 @@ broad                A4.2-                4
 effort               X8+                  4 
 technical            Y1                   4 
 questions            Q2.2                 4 
-proposals            Q2.2                 4 
 gnso                 Z99                  4 
 independent          S5-                  4 
 those                Z8                   4 
@@ -239,7 +238,6 @@ grant                A9-                  4
 amended              A2.1+                4 
 during               Z5                   4 
 noted                Q2.1                 4 
-IPC                  Z3                   4 
 reject               X7-                  4 
 provided             A9-                  4 
 get                  A9+                  4 
@@ -247,6 +245,7 @@ done                 A1.1.1               4
 need                 S6+                  4 
 do                   A1.1.1               4 
 limits               N5.1                 4 
+'s                   A3+                  4 
 one                  N1                   4 
 broader              A4.2--               4 
 development          A2.1+                4 
@@ -292,7 +291,6 @@ lead                 S7.1+                3
 existing             A3+                  3 
 process              Z3                   3 
 asked                Q2.2                 3 
-NTIAs                Z99                  3 
 maintain             A9+                  3 
 number               N5                   3 
 United_States        Z2                   3 
@@ -308,6 +306,7 @@ several              N5                   3
 held                 M2                   3 
 members              S5+                  3 
 had                  Z5                   3 
+proposals            Q2.2                 3 
 challenges           A12-                 3 
 beyond               Z5                   3 
 rather_than          Z5                   3 
@@ -789,7 +788,6 @@ compact              B4                   1
 negotiation          Q2.2                 1 
 December_2014        T1.3                 1 
 over_the_past_14_months T1.1.1               1 
-ccwg-accountabilitys Z99                  1 
 203                  N1                   1 
 participantsincluding Z99                  1 
 authors              Q4.1                 1 
@@ -1319,6 +1317,7 @@ judgment             X2.1                 1
 left                 M6                   1 
 resolution           X6+                  1 
 ambiguous            Q3                   1 
+'                    Z5                   1 
 language.            Q3                   1 
 32                   N1                   1 
 actual               A5.4+                1 
@@ -1340,7 +1339,6 @@ unfairly             G2.2-                1
 marginalized.        Z99                  1 
 across               Z5                   1 
 share                S1.1.2+              1 
-IPCs                 Z3                   1 
 ample                N5+                  1 
 compressed           N3.4-                1 
 errors               A5.3-                1 
@@ -1383,7 +1381,6 @@ individual           N5-                  1
 indifferent          X5.2-                1 
 even                 Z5                   1 
 compounded           N5+                  1 
-gacs                 Z99                  1 
 unlikely             A7-                  1 
 arrive               M1                   1 
 position             M6                   1 
@@ -1405,7 +1402,6 @@ regrettably          E4.1-                1
 practical            A1.6                 1 
 cast                 K4                   1 
 doubt                A7-                  1 
-communitys           S5+                  1 
 fulfill              X9.2+                1 
 considering          X2.1                 1 
 imprudence           Z99                  1 
@@ -1529,7 +1525,7 @@ prevail              X9.2+                1
 conclusion           X6+                  1 
 nearly               A13.4                1 
 half                 N5                   1 
-worlds               W1                   1 
+world                W1                   1 
 population           S2                   1 
 almost               A13.4                1 
 everyone             Z8                   1 

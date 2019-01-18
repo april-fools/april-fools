@@ -1,10 +1,11 @@
-TOTAL              193
+TOTAL              194
 the                  AT             10 
 and                  CC              6 
 a                    AT1             5 
 they                 PPHS2           4 
 have                 VH0             4 
 he                   PPHS1           4 
+sheep                NN              3 
 were                 VBDR            3 
 of                   IO              3 
 farmers              NN2             2 
@@ -12,7 +13,6 @@ near                 II              2
 Shrewsbury           NP1             2 
 to                   TO              2 
 have                 VHI             2 
-sheep                NN              2 
 by                   II              2 
 from                 II              2 
 ufos                 NN2             2 
@@ -43,8 +43,8 @@ light                NN1             1
 linked               VVN             1 
 unexplained          JJ              1 
 incidents            NN2             1 
-where                CS              1 
-sheeps               NN2             1 
+where                RRQ             1 
+'s                   GE              1 
 to                   II              1 
 mysterious           JJ              1 
 orange               JJ              1 

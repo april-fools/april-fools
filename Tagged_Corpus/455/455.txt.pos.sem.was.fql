@@ -1,4 +1,4 @@
-TOTAL              370
+TOTAL              372
 the                  Z5                  25 
 Felix                Z99                 12 
 to                   Z5                  11 
@@ -9,6 +9,7 @@ her                  Z8                   8
 in                   Z5                   7 
 from                 Z5                   6 
 for                  Z5                   5 
+Huddersfield         Z2                   5 
 has                  Z5                   5 
 cat                  L2                   5 
 with                 Z5                   4 
@@ -19,13 +20,12 @@ by                   Z5                   3
 Leeds_station        Z2                   3 
 who                  Z8                   3 
 be                   Z5                   3 
-Huddersfield         Z2                   3 
 fans                 S2                   3 
 us                   Z8                   3 
 station              M3                   3 
 fan                  E2+                  3 
 i                    Z8                   3 
-Huddersfields        Z2                   2 
+'s                   Z5                   2 
 become               A2.1+                2 
 global               W3                   2 
 but                  Z5                   2 
@@ -197,7 +197,7 @@ ticket               Q1.2                 1
 barriers             S8-                  1 
 move                 M1                   1 
 did                  Z5                   1 
-nt                   S9                   1 
+n't                  Z6                   1 
 my                   Z8                   1 
 friends              S3.1                 1 
 Leeds                Z2                   1 

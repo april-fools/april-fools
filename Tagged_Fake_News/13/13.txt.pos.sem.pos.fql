@@ -1,4 +1,4 @@
-TOTAL         199
+TOTAL         200
 NN1            40 
 NP1            19 
 II             18 
@@ -20,12 +20,13 @@ VVG             4
 RR              3 
 CST             3 
 VBZ             3 
+NNT1            2 
 VVZ             2 
 VHZ             2 
 IW              2 
 PPIS1           2 
 VH0             1 
-NNT2            1 
+GE              1 
 PPH1            1 
 DD              1 
 DDQ             1 
@@ -34,7 +35,6 @@ CSN             1
 DA              1 
 NNB             1 
 RRR             1 
-NNT1            1 
 VBN             1 
 VBG             1 
 PPIS2           1 

@@ -16,8 +16,9 @@
 0000002 082 ,                                           03 ,
 0000002 090 the                                         93 AT
 0000002 100 hospitality                                 93 NN1
-0000002 110 industrys                                   04 NN2
-0000002 120 leading                                     93 [VVG/59] JJ/41
+0000002 110 industry                  >                 03 NN1
+0000002 111 's                        <                 98 GE
+0000002 120 leading                                     93 [JJ/90] VVG/10
 0000002 130 provider                                    93 NN1
 0000002 140 of                                          93 IO
 0000002 150 secure                                      93 [JJ/99] VV0/1
@@ -91,7 +92,8 @@
 0000004 290 and                                         93 CC
 0000004 300 supports                                    03 [VVZ/98] NN2/2
 0000004 310 the                                         93 AT
-0000004 320 companys                                    04 NN2
+0000004 320 company                   >                 93 NN1
+0000004 321 's                        <                 98 GE
 0000004 330 long-term                                   03 JJ
 0000004 340 strategy                                    03 NN1
 0000004 350 of                                          93 IO
@@ -111,7 +113,8 @@
 0000006 040 our                                         93 APPGE
 0000006 050 business                                    93 NN1
 0000006 060 enhance                                     93 VV0
-0000006 070 Uniguests                                   07 NP1
+0000006 070 Uniguest                  >                 06 [NP1/100] JJT/0
+0000006 071 's                        <                 98 GE
 0000006 080 portfolio                                   03 NN1
 0000006 090 of                                          93 IO
 0000006 100 services                                    93 [NN2/100] VVZ%/0
@@ -136,8 +139,9 @@
 0000006 280 position                                    03 [NN1/100] VV0@/0
 0000006 290 as                                          96 [II/78] CSA/22 RG%/0
 0000006 300 the                                         93 AT
-0000006 310 industrys                                   04 NN2
-0000006 320 leading                                     93 [VVG/59] JJ/41
+0000006 310 industry                  >                 03 NN1
+0000006 311 's                        <                 98 GE
+0000006 320 leading                                     93 [JJ/90] VVG/10
 0000006 330 technology                                  03 NN1
 0000006 340 provider                                    93 NN1
 0000006 350 and                                         93 CC
@@ -289,7 +293,8 @@
 0000014 230 support                                     93 [VV0/58] NN1/42
 0000014 231 .                                           03 .
 0000014 232 ----------------------------------------------------
-0000014 240 Uniguests                                   07 NP1
+0000014 240 Uniguest                  >                 06 [NP1@/100] JJT/0
+0000014 241 's                        <                 98 GE
 0000014 250 solutions                                   03 NN2
 0000014 260 include                                     93 VV0
 0000014 270 secure                                      93 [JJ/91] VV0/9
@@ -330,8 +335,9 @@
 0000014 580 many                                        93 DA2
 0000014 590 of                                          93 IO
 0000014 600 the                                         93 AT
-0000014 610 worlds                                      03 NN2
-0000014 620 most                                        93 [RGT/88] DAT/12 RRT@/1
+0000014 610 world                     >                 93 NN1
+0000014 611 's                        <                 98 GE
+0000014 620 most                                        97 RGT
 0000014 630 recognizable                                93 JJ
 0000014 640 brands                                      03 [NN2/100] VVZ@/0
 0000014 641 .                                           03 .

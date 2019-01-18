@@ -1,9 +1,9 @@
-TOTAL              570
+TOTAL              575
 the                  Z5                  33 
 to                   Z5                  16 
+China                Z2                  15 
 and                  Z5                  15 
 a                    Z5                  12 
-China                Z2                  12 
 of                   Z5                  12 
 trade                I2.2                 9 
 american             Z2                   9 
@@ -16,6 +16,7 @@ its                  Z8                   7
 it                   Z8                   6 
 trump                Z1                   5 
 United_States        Z2                   5 
+'s                   Z5                   5 
 have                 Z5                   5 
 their                Z8                   5 
 as                   Z5                   5 
@@ -30,10 +31,10 @@ like                 Z5                   3
 war                  G3                   3 
 into                 Z5                   3 
 administration       S7.1+                3 
+world                W1                   3 
 industries           I4                   3 
 this                 M6                   3 
 is                   Z5                   3 
-Chinas               Z2                   3 
 broader              A4.2--               3 
 rules                G2.1                 3 
 or                   Z5                   3 
@@ -46,7 +47,6 @@ including            A1.8+                2
 direct               M6                   2 
 President            G1.1                 2 
 goods                O2                   2 
-worlds               W1                   2 
 biggest              N3.2+++              2 
 more                 A13.3                2 
 tries                X8+                  2 
@@ -57,7 +57,7 @@ playing_field        K5.1                 2
 counterparts         A6.1+                2 
 both                 N5                   2 
 countries            M7                   2 
-nt                   S9                   2 
+n't                  Z6                   2 
 have                 A9+                  2 
 big                  N3.2+                2 
 players              K6                   2 
@@ -161,7 +161,7 @@ homegrown            F4                   1
 state-led            Z99                  1 
 taken_advantage      S1.2.2+              1 
 gaps                 N3.3                 1 
-nt_bothered          A1.9                 1 
+n't_bothered         A1.9                 1 
 follow               M1                   1 
 them                 Z8                   1 
 been                 A3+                  1 
@@ -293,7 +293,6 @@ hurt                 B2-                  1
 entire               N5.1+                1 
 trading              I2.2                 1 
 system               X4.2                 1 
-world                W1                   1 
 organization         S5+                  1 
 governs              S7.1+                1 
 looks_vulnerable     S1.2.5-              1 

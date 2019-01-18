@@ -23,12 +23,12 @@
 0000002 190  VVD     shouted                  Q2.2/X3.2++ 
 0000002 200  NN1     Vote                     G1.2 
 0000002 210  NP1     Donald                   Z1mf[i3.2.1 Z3c[i3.2.1 Z1mf 
-0000002 220  NN1     Trump                    Z1mf[i3.2.2 Z3c[i3.2.2 Z1mf 
+0000002 220  NP1     Trump'                   Z1mf[i3.2.2 Z3c[i3.2.2 
 0000002 230  CC      and                      Z5 
 0000002 240  NP1     Hillary                  Z99 
 0000002 250  IF      For                      Z5 
 0000002 260  NN1     Prison                   G2.1/H1 
-0000002 270  MC      2016                     N1 T1.2 T3 T1.3 N3.2 
+0000002 270  FO      2016'                    Z99 
 0000002 280  II      from                     Z5 
 0000002 290  II      behind                   Z5 
 0000002 300  AT      the                      Z5 
@@ -55,7 +55,7 @@
 0000004 150  JJ      loud                     X3.2+ O4.3 
 0000004 160  NN1     Vote                     G1.2 
 0000004 170  NP1     Donald                   Z1mf[i6.2.1 Z3c[i6.2.1 Z1mf 
-0000004 180  NN1     Trump                    Z1mf[i6.2.2 Z3c[i6.2.2 Z1mf 
+0000004 180  NP1     Trump'                   Z1mf[i6.2.2 Z3c[i6.2.2 
 0000004 190  NN1     chant                    K2 
 0000004 191  .       .                        
 0000004 192  -----   -----                    
@@ -82,7 +82,7 @@
 0000004 400  NN1     hero                     Q4.1/S2.2m E5+/S2.2m E2+/S2.2m 
 0000004 410  PNQS    who                      Z8 
 0000004 420  VVD     wrote                    Q1.2 I2.1 
-0000004 430  NP1     Bawitdaba                Z99 
+0000004 430  NP1     Bawitdaba'               Z99 
 0000004 431  .       .                        
 0000005 001  -----   -----                    
 0000006 010  NP1     Hillary                  Z1mf[i7.2.1 Z3c[i7.2.1 
@@ -112,9 +112,9 @@
 0000006 231  .       .                        
 0000007 001  -----   -----                    
 0000008 010  AT      The                      Z5 
-0000008 020  DB      All                      T1.3+[i12.3.1 N5.1+ T1.3+[i11.2.1 
-0000008 030  NNT1    Summer                   T1.3+[i12.3.2 T1.3 T1.3+[i11.2.2 
-0000008 040  JJ      Long                     T1.3+[i12.3.3 N3.7+ T1.3+ N3.3+ N3.2+ 
+0000008 020  DB      All                      T1.3+[i11.2.1 N5.1+ 
+0000008 030  NNT1    Summer                   T1.3+[i11.2.2 T1.3 
+0000008 040  NP1     Long'                    Z99 
 0000008 050  NN1     singer                   K2/S2mf 
 0000008 060  VBDZ    was                      A3+ Z5 
 0000008 070  JK      able                     X9.1+ 

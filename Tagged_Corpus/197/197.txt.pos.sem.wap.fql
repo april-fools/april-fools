@@ -1,7 +1,8 @@
-TOTAL              139
+TOTAL              142
 has                  VHZ             6 
 to                   TO              4 
 that                 CST             3 
+'s                   GE              3 
 in                   II              3 
 their                APPGE           3 
 the                  AT              3 
@@ -18,7 +19,7 @@ we                   PPIS2           2
 seems                VVZ             1 
 whole                JJ              1 
 story                NN1             1 
-Mr._Presidents       NNB             1 
+Mr._President        NNB             1 
 blackberry           NN1             1 
 really               RR              1 
 pissed_off           VVN             1 
@@ -75,9 +76,9 @@ at                   II              1
 subscribers          NN2             1 
 said                 VVD             1 
 do                   VD0             1 
-nt                   XX              1 
+n't                  XX              1 
 care                 VVI             1 
-presidents           NN2             1 
+president            NN1             1 
 declaration          NN1             1 
 as                   CSA             1 
 carrier              NN1             1 
@@ -86,8 +87,8 @@ released             VVN             1
 decent               JJ              1 
 smartphone           NN1             1 
 ever_since           RR              1 
-iphones              NN2             1 
-launch               VV0             1 
+iphone               NN1             1 
+launch               NN1             1 
 in_the_end           II              1 
 decided              VVD             1 
 investigate          VVI             1 

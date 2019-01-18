@@ -11,5 +11,3 @@ patented                 JJ@     Z99
 prombut                  VVI     Z99 
 transitive               JJ      Z99 
 unadorned                JJ      Z99 
-youll                    NN1     Z99 
-youre                    NN1     Z99 

@@ -1,12 +1,11 @@
-TOTAL              269
+TOTAL              273
 the                  Z5                  19 
+it                   Z8                   8 
 and                  Z5                   7 
-it                   Z8                   7 
 to                   Z5                   6 
 element              A4.1                 5 
 for                  Z5                   4 
 not                  Z6                   4 
-its                  Z8                   4 
 is                   Z5                   4 
 will                 T1.1.3               4 
 that                 Z8                   3 
@@ -14,9 +13,12 @@ any                  N5.1+                3
 from                 Z5                   3 
 a                    Z5                   3 
 although             Z5                   3 
+user                 A1.5.1               3 
 of                   Z5                   3 
+browser              X2.4                 3 
 is                   A3+                  3 
 in                   Z5                   3 
+its                  Z8                   3 
 new                  T3-                  2 
 like                 Z5                   2 
 html5                Z99                  2 
@@ -25,16 +27,14 @@ as                   Z5                   2
 safe                 A15+                 2 
 work                 I3.1                 2 
 nsfw                 Z99                  2 
-browsers             X2.4                 2 
 be                   Z5                   2 
 by                   Z5                   2 
 never                T1                   2 
 downloading          M2                   2 
 with                 Z5                   2 
-user                 A1.5.1               2 
+'s                   Z5                   2 
 setting              M2                   2 
 autoplay             Z99                  2 
-browser              X2.4                 2 
 Google               Z3                   2 
 index                Q4.1                 2 
 search               X2.4                 2 
@@ -55,6 +55,7 @@ other                A6.1-                1
 describes            Q2.2                 1 
 commonly             A6.2+                1 
 abbreviated          N3.7-                1 
+browsers             X2.4                 1 
 configured           O4.1                 1 
 parents              S4                   1 
 or                   Z5                   1 
@@ -73,7 +74,9 @@ employers            I3.1                 1
 employees            I3.1                 1 
 things               O2                   1 
 they                 Z8                   1 
-shouldnt             Z99                  1 
+should               S6+                  1 
+n't                  Z6                   1 
+'s                   A3+                  1 
 just                 A14                  1 
 presentational       O4.1                 1 
 does                 Z5                   1 
@@ -121,7 +124,6 @@ meaning              Q1.1                 1
 nothing              Z6                   1 
 compromising         A6.1+                1 
 be                   A3+                  1 
-users                A1.5.1               1 
 cache                A9+                  1 
 was                  Z5                   1 
 suggested            Q2.2                 1 

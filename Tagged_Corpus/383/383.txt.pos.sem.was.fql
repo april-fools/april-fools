@@ -1,4 +1,4 @@
-TOTAL              229
+TOTAL              230
 the                  Z5                  13 
 of                   Z5                   9 
 Higgs                Z99                  6 
@@ -8,15 +8,16 @@ we                   Z8                   5
 a                    Z5                   5 
 boson                Z99                  4 
 will                 T1.1.3               4 
-particles            O2                   3 
 for                  Z5                   3 
 this                 M6                   3 
 bosons               Z99                  3 
 an                   Z5                   2 
+particle             O2                   2 
 research             X2.4                 2 
 announced            Q2.2                 2 
 CERN                 Z99                  2 
 do                   A1.1.1               2 
+particles            O2                   2 
 that                 Z8                   2 
 some                 N5                   2 
 as                   Z5                   2 
@@ -35,7 +36,6 @@ lucky                A1.4+                2
 unprecedented        A6.2-                1 
 gesture              Q1.1                 1 
 history              T1.1.1               1 
-particle             O2                   1 
 physics              Y1                   1 
 Sergio_Bertolucci    Z1                   1 
 director             S7.1+                1 
@@ -80,6 +80,7 @@ level                N3.7                 1
 enthusiasm           X5.2+                1 
 greeted              Q2.2                 1 
 new                  T3-                  1 
+'s                   Z5                   1 
 was                  Z5                   1 
 at                   Z5                   1 
 special              A4.2+                1 

@@ -3,7 +3,7 @@ the                  AT             13
 of                   IO              7 
 a                    AT1             6 
 wearing              VVG             5 
-they                 PPHS2           4 
+they                 PPHS2           5 
 to                   TO              4 
 be                   VBI             4 
 jersey               NN1             4 
@@ -34,7 +34,6 @@ just                 RR              2
 baseball             NN1             2 
 now                  RT              2 
 uniforms             NN2             2 
-Day                  NP1             2 
 event                NN1             2 
 pastel               NN1             1 
 colours              NN2             1 
@@ -64,7 +63,8 @@ road                 NN1             1
 a_couple             AT1             1 
 cases                NN2             1 
 take_a_look          VV0             1 
-Theres               NP1             1 
+there                EX              1 
+'s                   VBZ             1 
 few                  DA2             1 
 real                 JJ              1 
 winners              NN2             1 
@@ -86,7 +86,7 @@ feels_like           VVZ             1
 Tampa_bay            NP1             1 
 could                VM              1 
 use                  VVI             1 
-theyre               NN1             1 
+'re                  VBR             1 
 co-named             VVN             1 
 rays                 NN2             1 
 the_sun              AT              1 
@@ -121,14 +121,14 @@ five                 MC              1
 others               NN2             1 
 throughout           II              1 
 year                 NNT1            1 
-mothers              NN2             1 
+mother_'s_day        NN1             1 
 memorial             NN1             1 
 day                  NNT1            1 
-fathers              NN2             1 
+father_'s_day        NN1             1 
 fourth_of_July       MD              1 
 as_well              II31            1 
 as                   II33            1 
-St._Patricks_Day     NP1             1 
+St._Patrick_'s_day   NP1             1 
 during               II              1 
 pre-season           JJ              1 
 schedule             NN1             1 

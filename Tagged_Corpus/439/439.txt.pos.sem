@@ -25,7 +25,8 @@
 0000002 210  MC1     One                      N1 T3 T1.2 
 0000002 220  JJ      unusual                  A6.2- 
 0000002 230  NN1     method                   X4.2 
-0000002 240  NN1     theyve                   Z99 
+0000002 240  PPHS2   they                     Z8mfn 
+0000002 241  VH0     've                      Z5 A9+ A2.2 
 0000002 250  VVN     utilised                 A1.5.1 
 0000002 260  VBZ     is                       A3+ Z5 
 0000002 270  TO      to                       Z5 
@@ -163,7 +164,8 @@
 0000006 451  .       .                        
 0000008 001  NULL    <quote>                  
 0000008 002  -----   -----                    
-0000008 010  APPGE   Its                      Z8 
+0000008 010  PPH1    It                       Z8 
+0000008 011  VBZ     's                       A3+ Z5 
 0000008 020  JJ      surprising               X2.6- A6.2- 
 0000008 030  CST     that                     Z5 Z8 
 0000008 040  DA      such                     Z5 Z8 
@@ -199,8 +201,9 @@
 0000008 291  .       .                        
 0000008 292  NULL    <quote>                  
 0000008 293  -----   -----                    
-0000008 300  NN1     Id                       X2 
-0000008 310  VH0     have                     Z5 A9+ A2.2 S4 
+0000008 300  PPIS1   I                        Z8mf 
+0000008 301  VM      'd                       A7+ 
+0000008 310  VHI     have                     Z5 A9+ A2.2 S4 
 0000008 320  VVN     expected                 X2.6+ B1 
 0000008 330  AT      the                      Z5 
 0000008 340  NN1     universe                 W1 A4.1 
@@ -214,7 +217,7 @@
 0000008 410  II      like                     Z5 
 0000008 420  AT1     a                        Z5 
 0000008 430  NN1     film                     Q4.3 O2/C1 O1.1 O1.2 B3 
-0000008 440  NN1     score                    K5 A5.1 N3.1 O2 K2 X4.1 N5% 
+0000008 440  NN1     score'                   Z99 
 0000009 001  NULL    </quote>                 
 0000009 002  -----   -----                    
 0000010 010  AT      The                      Z5 

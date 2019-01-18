@@ -6,7 +6,6 @@ Apps                     NP1     Z99
 Beanfooled               VVD@    Z99 
 firmware                 NN1     Z99 
 Gadget-Cover             NP1     Z99 
-Im                       NP1     Z99 
 Iver                     NP1     Z99 
 Lightroom                NN1     Z99 
 Olympus                  NP1     Z99 

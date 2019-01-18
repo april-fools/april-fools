@@ -7,8 +7,9 @@
 0000002 050 support                                     93 [NN1/85] VV0/15
 0000002 060 for                                         93 [IF/100] CS%/0
 0000002 070 Donald                                      93 NP1
-0000002 080 Trumps                                      04 [NN2/91] VVZ/9
-0000002 090 pick                                        03 [VV0/98] NN1@/2
+0000002 080 Trump                     >                 93 [NN1/100] VV0/0
+0000002 081 's                        <                 03 [GE/98] VBZ/2 VHZ@/0
+0000002 090 pick                                        03 [VV0/50] NN1@/50
 0000002 100 to                                          97 TO
 0000002 110 head                                        97 VVI
 0000002 120 the                                         93 AT
@@ -168,9 +169,10 @@
 0000009 020 Sessions                                    04 NNT2
 0000009 030 was                                         93 VBDZ
 0000009 040 announced                                   93 [VVN/100] JJ%/0 VVD/0
-0000009 050 as                                          93 [CSA/70] II@/30 RG@/0
-0000009 060 Trumps                                      04 [NN2/92] VVZ/8
-0000009 070 pick                                        03 [VV0/96] NN1@/4
+0000009 050 as                                          93 [CSA/57] II@/43 RG@/0
+0000009 060 Trump                     >                 93 [NN1/100] VV0/0
+0000009 061 's                        <                 98 GE
+0000009 070 pick                                        03 [NN1@/73] VV0/27
 0000009 080 for                                         93 [IF/100] CS%/0
 0000009 090 attorney                                    96 NN1
 0000009 100 general                                     96 JJ
@@ -338,9 +340,10 @@
 0000015 060 Freeh                                       06 [NP1/90] NN1/10
 0000015 070 pointed                                     03 [VVD/91] VVN/8 JJ/1
 0000015 080 to                                          93 [II/100] TO/0
-0000015 090 Sessions                                    04 NNT2
-0000015 100 work                                        93 [VV0/83] NN1/17
-0000015 110 on                                          93 [II/92] RP@/8
+0000015 090 Sessions                  >                 58 NNT2
+0000015 091 '                         <                 97 GE
+0000015 100 work                                        93 [NN1/97] VV0/3
+0000015 110 on                                          93 [II/99] RP@/1
 0000015 120 the                                         93 AT
 0000015 130 1989                                        17 MC
 0000015 140 murders                                     93 [NN2/100] VVZ%/0
@@ -362,7 +365,8 @@
 0000017 020 was                                         93 VBDZ
 0000017 030 struck                                      93 [VVN/100] JJ%/0 VVD/0
 0000017 040 with                                        93 IW
-0000017 050 Jeffs                                       04 NP2
+0000017 050 Jeff                      >                 93 NP1
+0000017 051 's                        <                 98 GE
 0000017 060 fierce                                      93 JJ
 0000017 070 determination                               93 NN1
 0000017 080 to                                          97 TO
@@ -515,7 +519,8 @@
 0000023 041 ,                                           03 ,
 0000023 050 have                                        93 VH0
 0000023 060 called                                      97 VVN
-0000023 070 Sessions                                    04 NNT2
+0000023 070 Sessions                  >                 58 NNT2
+0000023 071 '                         <                 97 GE
 0000023 080 nomination                                  03 NN1
 0000023 090 deeply                                      93 RR
 0000023 100 troubling                                   93 [VVG/54] JJ/46

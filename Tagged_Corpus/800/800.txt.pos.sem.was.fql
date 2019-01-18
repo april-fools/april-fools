@@ -1,4 +1,4 @@
-TOTAL              780
+TOTAL              786
 the                  Z5                  51 
 and                  Z5                  27 
 in                   Z5                  25 
@@ -19,21 +19,22 @@ na                   Z5                   7
 as                   Z5                   7 
 US                   Z8                   6 
 Tchuto               Z99                  6 
+was                  A3+                  6 
 for                  Z5                   6 
 had                  Z5                   6 
+'s                   Z5                   6 
+navy                 G3                   5 
 by                   Z5                   5 
-was                  A3+                  5 
 drug                 B3                   5 
 one                  N1                   5 
+country              G1.1                 5 
 after                Z5                   5 
 bubu                 Z99                  5 
-navy                 G3                   4 
 from                 Z5                   4 
 were                 Z5                   4 
 military             G3                   4 
 man                  S2.2                 4 
 trafficking          G2.1-                4 
-country              G1.1                 4 
 but                  Z5                   4 
 international        M7                   3 
 drugs                B3                   3 
@@ -52,6 +53,7 @@ Guinea-Bisseau       Z99                  3
 were                 A3+                  3 
 whole                N5.1+                3 
 took                 A9+                  3 
+world                W1                   3 
 houses               H1                   3 
 former               T2-                  2 
 kingpin              Z99                  2 
@@ -81,7 +83,6 @@ met                  S3.1                 2
 went                 M1                   2 
 reports              Q2.2                 2 
 effectively          A5.4+                2 
-Africas              Z2                   2 
 main                 A11.1+               2 
 is                   A3+                  2 
 its                  Z8                   2 
@@ -99,7 +100,6 @@ Mario_Sa_Gomez       Z1                   2
 radio                Q4.3                 2 
 threatening          E3-                  2 
 told                 Q2.1                 2 
-worlds               W1                   2 
 head                 B1                   2 
 painted              C1                   2 
 islands              W3                   2 
@@ -194,6 +194,7 @@ Ray_Queally          Z1                   1
 investigate          X2.4                 1 
 taken_over           S7.1+                1 
 turned_into          A2.1+                1 
+Africa               Z2                   1 
 first                N4                   1 
 narco                Z99                  1 
 state                G1.1                 1 
@@ -233,7 +234,6 @@ asssiting            Z99                  1
 running              M1                   1 
 roughshod            S1.2.3+              1 
 over                 Z5                   1 
-countrys             G1.1                 1 
 laws                 G2.1                 1 
 citizens             G1.1                 1 
 everybody            Z8                   1 
@@ -244,7 +244,6 @@ leading              S7.1+                1
 human_rights         G1.2                 1 
 advocate             Q2.2                 1 
 expose               A10+                 1 
-world                W1                   1 
 national             M7                   1 
 dignity              S7.2+                1 
 people               S2                   1 
@@ -322,15 +321,14 @@ finally              N4                   1
 convinced            A7+                  1 
 do                   A1.1.1               1 
 interview            Q2.1                 1 
-navys                G3                   1 
 only                 A14                  1 
 functioning          A1.1.1               1 
 put                  M2                   1 
 that                 Z8                   1 
-west                 M6                   1 
+west_Africa          Z2                   1 
 biggest              N3.2+++              1 
 narco-trafficker     Z99                  1 
-wasnt                Z99                  1 
+n't                  Z6                   1 
 happy                E4.1+                1 
 you                  Z8                   1 
 can                  A7+                  1 

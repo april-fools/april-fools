@@ -1,4 +1,4 @@
-TOTAL              205
+TOTAL              206
 the                  AT             19 
 of                   IO              9 
 to                   TO              6 
@@ -32,7 +32,8 @@ sustainable          JJ              1
 buildings            NN2             1 
 popping_up           VVG             1 
 around               II              1 
-Londons              NP2             1 
+London               NP1             1 
+'s                   GE              1 
 designed             VVN             1 
 Norman_Foster        NP1             1 
 has                  VHZ             1 

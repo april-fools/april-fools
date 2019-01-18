@@ -4,8 +4,9 @@
 0000002 020 says                                        93 VVZ
 0000002 030 nobody                                      03 PN1
 0000002 040 really                                      93 RR
-0000002 050 knows                                       93 VVZ
-0000002 060 if                                          93 [CS/76] CSW@/24
+0000002 050 knows                     > ERROR?          58 FU
+0000002 051 '                         <                 02 GE
+0000002 060 if                                          93 [CS/100] CSW@/0
 0000002 070 climate                                     93 NN1
 0000002 080 change                                      93 [NN1/98] VV0/2
 0000002 090 is                                          93 VBZ

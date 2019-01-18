@@ -48,7 +48,7 @@
 0000006 070  CS      because                  Z5/A2.2 
 0000006 080  PPH1    it                       Z8 
 0000006 090  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000006 091  XX      nt                       S9/Q4.1 Z3c 
+0000006 091  XX      n't                      Z6 
 0000006 100  VVI     limit                    A1.7+ 
 0000006 110  AT      the                      Z5 
 0000006 120  NN1     age                      T3[i4.2.1 T3 T1.3 

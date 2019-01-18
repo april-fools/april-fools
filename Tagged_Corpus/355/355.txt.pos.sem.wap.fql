@@ -1,4 +1,4 @@
-TOTAL              149
+TOTAL              152
 the                  AT              6 
 and                  CC              6 
 of                   IO              4 
@@ -47,9 +47,11 @@ to                   TO              1
 get                  VVI             1 
 all                  DB              1 
 solos                NN2             1 
-its                  APPGE           1 
+it                   PPH1            1 
+'s                   VBZ             1 
 too_bad              RG              1 
-theyre               NN1             1 
+they                 PPHS2           1 
+'re                  VBR             1 
 living               VVG             1 
 in                   II              1 
 continent            NN1             1 
@@ -83,7 +85,8 @@ runner               NN1             1
 up                   II              1 
 boy_band             NN1             1 
 also                 RR              1 
-Uncle_Simons         NNB             1 
+Uncle_Simon          NNB             1 
+'s                   GE              1 
 favourites           NN2             1 
 UK                   NP1             1 
 x                    ZZ1             1 

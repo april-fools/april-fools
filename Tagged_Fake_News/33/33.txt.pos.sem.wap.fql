@@ -1,4 +1,4 @@
-TOTAL              261
+TOTAL              263
 the                  AT             12 
 to                   TO             10 
 and                  CC             10 
@@ -19,6 +19,7 @@ of                   IO              3
 north_Carolina       ND1             3 
 way                  NN1             3 
 is                   VBZ             3 
+that                 DD1             3 
 Stickney             NP1             3 
 were                 VBDR            3 
 stranded             JJ              2 
@@ -31,10 +32,10 @@ Camp_Lejuene         NP1             2
 families             NN2             2 
 he                   PPHS1           2 
 had                  VHD             2 
-that                 DD1             2 
 day                  NNT1            2 
 set                  VVN             2 
 plane                NN1             2 
+n't                  XX              2 
 able                 JK              2 
 us                   PPIO2           2 
 about                II              2 
@@ -92,7 +93,7 @@ been                 VBN             1
 made                 VVN             1 
 logistics            NN1             1 
 unit                 NN1             1 
-wouldnt              NN1             1 
+would                VM              1 
 be                   VBI             1 
 take                 VVI             1 
 on                   II              1 
@@ -116,7 +117,7 @@ sent                 VVD             1
 airline              NN1             1 
 down_to              RP              1 
 take_care_of         VVI             1 
-thats                VVZ             1 
+'s                   VBZ             1 
 all                  DB              1 
 we                   PPIS2           1 
 knew.i               NNU             1 
@@ -126,7 +127,6 @@ who                  PNQS            1
 i                    PPIS1           1 
 truly                RR              1 
 did                  VDD             1 
-nt                   XX              1 
 know                 VVI             1 
 anything             PN1             1 
 him                  PPHO1           1 

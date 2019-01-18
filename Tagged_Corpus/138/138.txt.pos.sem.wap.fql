@@ -1,4 +1,4 @@
-TOTAL              448
+TOTAL              454
 the                  AT             29 
 of                   IO             14 
 and                  CC             12 
@@ -12,10 +12,11 @@ for                  IF              7
 in                   II              6 
 was                  VBDZ            5 
 to                   II              5 
-its                  APPGE           5 
-it                   PPH1            4 
+it                   PPH1            5 
+we                   PPIS2           5 
+Microsoft            NP1             4 
 an                   AT1             4 
-we                   PPIS2           4 
+its                  APPGE           4 
 with                 IW              4 
 our                  APPGE           4 
 support              NN1             4 
@@ -24,14 +25,14 @@ has                  VHZ             3
 great                JJ              3 
 6.5                  MC              3 
 on                   II              3 
+you                  PPY             3 
 have                 VH0             2 
 how                  RRQ             2 
-Microsoft            NP1             2 
 threat               NN1             2 
 app                  NN1             2 
 more                 DAR             2 
 than                 CSN             2 
-Microsofts           NP2             2 
+'s                   GE              2 
 after                II              2 
 is                   VBZ             2 
 capabilities         NN2             2 
@@ -57,7 +58,6 @@ photo                NN1             2
 do                   VDI             2 
 experience           NN1             2 
 using                VVG             2 
-you                  PPY             2 
 ever_since           RR              1 
 debuted              VVD             1 
 mid_2007             JJ              1 
@@ -186,7 +186,7 @@ unit                 NN1             1
 configured           VVN             1 
 pre-release          JJ              1 
 version              NN1             1 
-well                 RR              1 
+'ll                  VM              1 
 be                   VBI             1 
 darned               VVN             1 
 if                   CS              1 
@@ -235,6 +235,7 @@ lengths              NN2             1
 entire               JJ              1 
 standalone_Windows   NN1             1 
 Mobile               NP1             1 
+'s                   VBZ             1 
 novelty_value        NN1             1 
 suggest              VV0             1 
 looking_for          VVG             1 
@@ -250,15 +251,16 @@ smoke                NN1             1
 signals              NN2             1 
 communicate          VVI             1 
 instead              RR              1 
-wont                 JJ              1 
-get                  VV0             1 
+wo                   VM              1 
+n't                  XX              1 
+get                  VVI             1 
 selection            NN1             1 
 but                  CCB             1 
 will                 VM              1 
 sleep                VVI             1 
 night                NNT1            1 
 knowing              VVG             1 
-youre                NN1             1 
+'re                  VBR             1 
 next_best_thing      MD              1 
 market               NN1             1 
 has_to               VHZ             1 

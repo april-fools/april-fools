@@ -13,7 +13,6 @@ in                   Z5                   2
 show                 A8                   2 
 a                    Z5                   2 
 expected             X2.6+                2 
-company              I2.1                 2 
 network              S5+                  1 
 ten                  N1                   1 
 plans                X7+                  1 
@@ -40,7 +39,7 @@ take_over            S7.1+                1
 with                 Z5                   1 
 new                  T3-                  1 
 title                Q4                   1 
-Pete                 Z1                   1 
+Pete'                Z99                  1 
 relaunched           Z99                  1 
 series               N4                   1 
 premiere             N4                   1 
@@ -57,6 +56,7 @@ want                 X7+                  1
 more                 N5++                 1 
 time                 T1                   1 
 relationship         S3.1                 1 
+company              I2.1                 1 
 close                N3.3-                1 
 source               T2+                  1 
 revealed             A10+                 1 
@@ -68,3 +68,4 @@ grind                X5.2-                1
 each_week            N6+                  1 
 wanted               X7+                  1 
 grow                 N3.2+                1 
+company'             Z99                  1 

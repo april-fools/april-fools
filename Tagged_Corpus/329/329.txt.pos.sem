@@ -121,7 +121,8 @@
 0000006 100  JJ      apparent                 A8 A11.2+ 
 0000006 110  CST     that                     Z5 Z8 
 0000006 120  AT      the                      Z5 
-0000006 130  NN2     users                    A1.5.1/S2mf 
+0000006 130  NN1     user                     A1.5.1/S2mf 
+0000006 131  GE      's                       Z5 
 0000006 140  NN1     manual                   Q4.1/P1 M3fn 
 0000006 150  IF      for                      Z5 
 0000006 160  AT      the                      Z5 
@@ -203,7 +204,8 @@
 0000008 422  -----   -----                    
 0000008 430  CS      While                    Z5 
 0000008 440  NNB     Dr.                      B3/S2mf P1/S2mf 
-0000008 450  NP1     Shoggoths                Z99 
+0000008 450  NP1     Shoggoth                 Z99 
+0000008 451  GE      's                       Z5 
 0000008 460  NN1     experiment               Y1 X2.4 
 0000008 470  RR      successfully             X9.2+ 
 0000008 480  VVN     demonstrated             A10+ G1.2 
@@ -290,8 +292,9 @@
 0000012 310  VV0     tend                     A6.2+ A8 S8+ X5.1+ 
 0000012 320  TO      to                       Z5 
 0000012 330  VVI     assume                   X2.1 A5.4-/A8 
-0000012 340  CST     that                     Z5 Z8 
-0000012 350  APPGE   its                      Z8 
+0000012 340  CST     that                     Z8 Z5 
+0000012 350  PPH1    it                       Z8 
+0000012 351  VBZ     's                       A3+ Z5 
 0000012 360  AT      the                      Z5 
 0000012 370  NN1     result                   A2.2 X9.2 N2 A5.1 K5 Q1.1/A2.2 
 0000012 380  IO      of                       Z5 
@@ -413,7 +416,8 @@
 0000014 591  .       .                        
 0000014 592  -----   -----                    
 0000014 600  PPH1    It                       Z8 
-0000014 610  VV0     wasnt                    Z99 
+0000014 610  VBDZ    was                      A3+ Z5 
+0000014 611  XX      n't                      Z6 
 0000014 620  CS      until                    Z5 
 0000014 630  NN2     accelerators             M3/N3.8+ Y1@ 
 0000014 640  JJ      capable                  X9.1+ 
@@ -494,7 +498,8 @@
 0000020 021  ,       ,                        
 0000020 022  NULL    <quote>                  
 0000020 023  -----   -----                    
-0000020 030  VBDR    Were                     Z5 A3+ 
+0000020 030  PPIS2   We                       Z8 
+0000020 031  VBR     're                      Z5 A3+ 
 0000020 040  VVG     living                   H4 L1+ 
 0000020 050  II      at                       Z5 
 0000020 060  AT      the                      Z5 
@@ -519,8 +524,9 @@
 0000020 201  ,       ,                        
 0000020 210  II      by                       Z5 
 0000020 220  MC      2013                     N1 T1.2 T3 T1.3 N3.2 
-0000020 230  RR      well                     A5.1+ A13.3 A7+ B2+ Z4 
-0000020 240  VH0     have                     Z5 A9+ A2.2 S4 
+0000020 230  PPIS2   we                       Z8 
+0000020 231  VM      'll                      T1.1.3 
+0000020 240  VHI     have                     Z5 A9+ A2.2 S4 
 0000020 250  VVN     confirmed                A7+ Q2.2 S9@ 
 0000020 260  CC      or                       Z5 
 0000020 270  VVD     discomfirmed             Z99 
@@ -561,8 +567,9 @@
 0000024 030  VV0     suppose                  Z4[i16.2.2 X2.1 X7+ 
 0000024 040  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000024 041  (       (                        
-0000024 050  NN2     whats                    Z8 Z5 
-0000024 060  VV0     let                      S7.4+ I2.2/H1 T2- 
+0000024 050  DDQ     what                     Z8 Z5 
+0000024 051  VBZ     's                       Z5 A3+ 
+0000024 060  VVN@    let                      S7.4+ I2.2/H1 T2- 
 0000024 070  IO      of                       Z5 
 0000024 080  PPH1    it                       Z8 
 0000024 081  )       )                        

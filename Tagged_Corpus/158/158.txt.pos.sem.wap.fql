@@ -1,12 +1,12 @@
-TOTAL              269
+TOTAL              271
 the                  AT              9 
 to                   TO              9 
 of                   IO              9 
 and                  CC              7 
+have                 VH0             5 
 is                   VBZ             5 
-have                 VH0             4 
+they                 PPHS2           5 
 similar              JJ              4 
-they                 PPHS2           4 
 that                 CST             4 
 internet             NN1             4 
 in                   II              4 
@@ -179,6 +179,6 @@ denied               VVN             1
 interfering          VVG             1 
 posted               VVN             1 
 Internet             NP1             1 
-theyre               NN1             1 
-correct              VV0             1 
-havent               VV0             1 
+'re                  VBR             1 
+correct              JJ              1 
+n't                  XX              1 

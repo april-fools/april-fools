@@ -6,7 +6,8 @@
 0000002 021  )       )                        
 0000002 030  II21    Ahead                    N4[i1.2.1 N4[i2.2.1 A5.1++[i2.2.1 
 0000002 040  II22    of                       N4[i1.2.2 N4[i2.2.2 A5.1++[i2.2.2 
-0000002 050  NPD2    Saturdays                T1.3 
+0000002 050  NPD1    Saturday                 T1.3 
+0000002 051  GE      's                       Z5 
 0000002 060  NNT1    season                   T1.3 
 0000002 070  NN1     opener                   O2 T2+ 
 0000002 080  II      versus                   Z5 
@@ -60,9 +61,10 @@
 0000004 030  NN1     career                   I3.1 
 0000004 040  VBZ     is                       A3+ Z5 
 0000004 050  PN1     something                Z8 
-0000004 060  CST     that                     Z5 Z8 
-0000004 070  NP1     Ive                      Z99 
-0000004 080  VVD     thought                  X2.1 
+0000004 060  CST     that                     Z8 Z5 
+0000004 070  PPIS1   I                        Z8mf 
+0000004 071  VH0     've                      Z5 A9+ A2.2 
+0000004 080  VVN     thought                  X2.1 
 0000004 090  II      about                    Z5 
 0000004 100  IF      for                      Z5 
 0000004 110  AT1     a                        Z5 
@@ -77,7 +79,8 @@
 0000004 161  .       .                        
 0000004 162  NULL    <quote>                  
 0000004 163  -----   -----                    
-0000004 170  VV0     Im                       Z99 
+0000004 170  PPIS1   I                        Z8mf 
+0000004 171  VBM     'm                       A3+ Z5 
 0000004 180  JJ      excited                  X5.2+ 
 0000004 190  TO      to                       Z5 
 0000004 200  VVI     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
@@ -171,7 +174,7 @@
 0000008 180  RR      Obviously                Z4 A11.2+ 
 0000008 181  ,       ,                        
 0000008 190  PPHS1   he                       Z8m 
-0000008 191  VBZ     s                        T1.3 I1.1 Z5 
+0000008 191  VBZ     's                       A3+ Z5 
 0000008 200  AT1     a                        Z5 
 0000008 210  JJ      proven                   A5.2+ X2.4 
 0000008 220  NN1     winner                   X9.2+/S7.3/S2mf X9.2+/G3/S2mf 
@@ -196,8 +199,9 @@
 0000010 020  TO      to                       X7+[i8.2.2 Z5 
 0000010 030  VVI     build                    H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1 
 0000010 040  RP      off                      M6 K1 A1.1.1 A1.9 
-0000010 050  MD      last                     N4 
-0000010 060  NNT2    seasons                  T1.3 
+0000010 050  MD      last                     T1.1.1[i9.2.1 N4 
+0000010 060  NNT1    season                   T1.1.1[i9.2.2 T1.3 
+0000010 061  GE      's                       Z5 
 0000010 070  JJ      fifth-place              Z99 
 0000010 080  NP1     USL                      Z99 
 0000010 090  JJ      Eastern                  M6 
@@ -213,15 +217,15 @@
 0000010 180  NP1     MVP                      Z3 
 0000010 190  NN1     Finalist                 S7.3/S2mf 
 0000010 191  ,       ,                        
-0000010 200  NP1     Enzo                     Z1mf[i9.2.1 Z3c[i9.2.1 
-0000010 210  NP1     Martinez                 Z1mf[i9.2.2 Z3c[i9.2.2 
+0000010 200  NP1     Enzo                     Z1mf[i10.2.1 Z3c[i10.2.1 
+0000010 210  NP1     Martinez                 Z1mf[i10.2.2 Z3c[i10.2.2 
 0000010 211  .       .                        
 0000010 212  -----   -----                    
 0000010 220  NN1     Starting                 T2+ E5- E3- 
 0000010 230  NPD1    Saturday                 T1.3 
 0000010 231  ,       ,                        
-0000010 240  NPM1    June                     T1.3[i10.2.1 T1.3 
-0000010 250  MD      17th                     T1.3[i10.2.2 N4 T1.3 
+0000010 240  NPM1    June                     T1.3[i11.2.1 T1.3 
+0000010 250  MD      17th                     T1.3[i11.2.2 N4 T1.3 
 0000010 251  ,       ,                        
 0000010 260  AT      the                      Z5 
 0000010 270  NN1     Independence             S5- 
@@ -249,27 +253,27 @@
 0000012 080  DD1     this                     M6 Z5 Z8 
 0000012 090  NPD1    Saturday                 T1.3 
 0000012 091  ,       ,                        
-0000012 100  NPM1    April                    T1.3[i11.2.1 T1.3 
-0000012 110  MD      1st                      T1.3[i11.2.2 N4 T1.3 
+0000012 100  NPM1    April                    T1.3[i12.2.1 T1.3 
+0000012 110  MD      1st                      T1.3[i12.2.2 N4 T1.3 
 0000012 120  II      versus                   Z5 
 0000012 130  AT      the                      Z5 
 0000012 140  NP1     Charleston               Z2 K1 
 0000012 150  NN1     Battery                  O3 G3 G3/S5+c F4 
 0000012 160  II      at                       Z5 
-0000012 170  NP1     Transamerica             Z2[i13.2.1 Z1mf[i12.2.1 Z3c[i12.2.1 
-0000012 180  NP1     Field                    Z2[i13.2.2 Z1mf[i12.2.2 Z3c[i12.2.2 
+0000012 170  NP1     Transamerica             Z2[i14.2.1 Z1mf[i13.2.1 Z3c[i13.2.1 
+0000012 180  NP1     Field                    Z2[i14.2.2 Z1mf[i13.2.2 Z3c[i13.2.2 
 0000012 190  II      on                       Z5 
 0000012 200  AT      the                      Z5 
 0000012 210  NN1     campus                   M7/P1 
 0000012 220  IO      of                       Z5 
-0000012 230  NP1     UNC                      Z1mf[i14.2.1 Z3c[i14.2.1 
-0000012 240  NP1     Charlotte                Z1mf[i14.2.2 Z3c[i14.2.2 Z1f 
+0000012 230  NP1     UNC                      Z1mf[i15.2.1 Z3c[i15.2.1 
+0000012 240  NP1     Charlotte                Z1mf[i15.2.2 Z3c[i15.2.2 Z1f 
 0000012 241  .       .                        
 0000012 242  -----   -----                    
 0000012 250  NN2     Tickets                  Q1.2 G2.1/Q1.2 G1.2 
 0000012 260  VBR     are                      A3+ Z5 
-0000012 270  II      on                       I2.2[i15.2.1 Z5 
-0000012 280  NN1     sale                     I2.2[i15.2.2 I2.2 I2.2/I1.3- 
+0000012 270  II      on                       I2.2[i16.2.1 Z5 
+0000012 280  NN1     sale                     I2.2[i16.2.2 I2.2 I2.2/I1.3- 
 0000012 290  RT      now                      T1.1.2 Z4 
 0000012 291  .       .                        
 0000014 001  NULL    **8;7;text               

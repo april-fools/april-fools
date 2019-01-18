@@ -1,4 +1,4 @@
-TOTAL              380
+TOTAL              381
 the                  AT             16 
 a                    AT1            11 
 and                  CC             10 
@@ -22,6 +22,7 @@ store                NN1             3
 your                 APPGE           3 
 help                 VVI             3 
 offerings            NN2             3 
+i                    PPIS1           3 
 with                 IW              3 
 have                 VH0             2 
 digital              JJ              2 
@@ -40,6 +41,7 @@ why                  RRQ             2
 gadget               NN1             2 
 insurance            NN1             2 
 should               VM              2 
+'m                   VBM             2 
 although             CS              2 
 not                  XX              2 
 available            JJ              2 
@@ -56,7 +58,6 @@ who                  PNQS            2
 something            PN1             2 
 other                JJ              2 
 when                 CS              2 
-i                    PPIS1           2 
 have                 VHI             2 
 been                 VBN             2 
 those                DD2             2 
@@ -115,7 +116,6 @@ after_all            II              1
 might                VM              1 
 thinking             VVG             1 
 providing            CS              1 
-Im                   NP1             1 
 super-careful        JJ              1 
 keep_a_eye_on        VV0             1 
 watchful             JJ              1 
@@ -190,7 +190,6 @@ beanfooled           VVD             1
 told                 VVN             1 
 us                   PPIO2           1 
 even_though          CS21            1 
-'m                   VBM             1 
 can                  VM              1 
 get                  VVI             1 
 my                   APPGE           1 

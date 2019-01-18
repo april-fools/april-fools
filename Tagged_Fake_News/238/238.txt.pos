@@ -177,8 +177,9 @@
 0000010 060 will                                        93 [VM/100] NN1@/0 VV0%/0
 0000010 070 be                                          93 VBI
 0000010 080 ensuring                                    03 VVG
-0000010 090 that                                        93 [CST/63] DD1/36 RG%/0
-0000010 100 Americas                                    93 NP2
+0000010 090 that                                        93 [CST/96] DD1/4 RG%/0
+0000010 100 America                   >                 93 NP1
+0000010 101 's                        <                 98 GE
 0000010 110 soldiers                                    93 [NN2/100] VVZ%/0
 0000010 120 have                                        93 VH0
 0000010 130 the                                         93 AT

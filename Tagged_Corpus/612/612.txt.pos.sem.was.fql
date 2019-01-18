@@ -1,4 +1,4 @@
-TOTAL              189
+TOTAL              190
 the                  Z5                  15 
 of                   Z5                   9 
 in                   Z5                   7 
@@ -16,6 +16,7 @@ airline              M5                   2
 to                   Z5                   2 
 with                 Z5                   2 
 quality              A5.1                 2 
+last_year            T1.1.1               2 
 department           H2                   2 
 transportation       M2                   2 
 that                 Z5                   2 
@@ -68,7 +69,7 @@ list                 Q1.2                 1
 13                   N1                   1 
 an                   Z5                   1 
 analysis             X2.4                 1 
-last_years           P1                   1 
+'s                   Z5                   1 
 data                 X2.2                 1 
 spirit               S9                   1 
 came_in              M1                   1 
@@ -88,7 +89,6 @@ airline_industry     I4                   1
 has                  Z5                   1 
 improved             A5.1+                1 
 slightly             A13.6                1 
-last_year            T1.1.1               1 
 but                  Z5                   1 
 rate                 N3.8                 1 
 spiked               F4                   1 

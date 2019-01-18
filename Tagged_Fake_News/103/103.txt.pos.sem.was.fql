@@ -1,9 +1,9 @@
-TOTAL              541
+TOTAL              545
 the                  Z5                  58 
 it                   Z8                  13 
 to                   Z5                  13 
+Israel               Z2                  11 
 of                   Z5                  10 
-Israel               Z2                   8 
 resolution           X6+                  8 
 and                  Z5                   7 
 that                 Z8                   7 
@@ -23,6 +23,7 @@ not                  Z6                   5
 on                   Z5                   4 
 egyptian             Z2                   4 
 palestinian          Z2                   4 
+'s                   Z5                   4 
 was                  A3+                  4 
 council              G1.1                 4 
 report               Q2.2                 4 
@@ -33,7 +34,6 @@ administration       S7.1+                4
 times                Z3                   3 
 officials            G1.1                 3 
 if                   Z7                   3 
-Israels              Z2                   3 
 regime               G1.1                 3 
 behind               Z5                   3 
 according_to         Z5                   3 
@@ -124,7 +124,7 @@ Susan_Rice           Z1                   1
 majed                Z99                  1 
 Faraj                Z99                  1 
 director             S7.1+                1 
-authoritys           G1.1                 1 
+authority            G1.1                 1 
 general              N5+                  1 
 intelligence_service G1.1                 1 
 quoted               Q2.2                 1 

@@ -1,13 +1,14 @@
-TOTAL              250
+TOTAL              254
 the                  Z5                  17 
 of                   Z5                   8 
-ifart                Z99                  6 
+ifart                Z99                  8 
 a                    Z5                   6 
 to                   Z5                   6 
 iphone               Z99                  5 
 in                   Z5                   5 
 developers           H1                   4 
 scent                X3.5                 4 
+'s                   Z5                   3 
 framework            X4.2                 3 
 and                  Z5                   3 
 usmell               Z99                  3 
@@ -17,7 +18,6 @@ code                 G2.1                 3
 be                   Z5                   3 
 by                   Z5                   3 
 one                  N1                   2 
-ifarts               Z99                  2 
 olfactic             Z99                  2 
 which                Z5                   2 
 release              A1.7-                2 
@@ -51,7 +51,7 @@ created              A1.1.1               1
 an                   Z5                   1 
 works                I3.1                 1 
 inside               Z5                   1 
-apples               L3                   1 
+apple                Z3                   1 
 SDK                  Z99                  1 
 enables              S8+                  1 
 them                 Z8                   1 
@@ -109,7 +109,8 @@ instant              T1.1.2               1
 colognes             B4                   1 
 are                  A3+                  1 
 literally            A13.2                1 
-1000s                T1.3                 1 
+1000                 N1                   1 
+'s                   A3+                  1 
 combinations         A6.3+                1 
 using                A1.5.1               1 
 our                  Z8                   1 

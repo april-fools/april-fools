@@ -156,7 +156,8 @@
 0000005 211  .       .                        
 0000005 212  NULL    <quote>                  
 0000005 213  -----   -----                    
-0000005 220  VBDR    Were                     Z5 A3+ 
+0000005 220  PPIS2   We                       Z8 
+0000005 221  VBR     're                      Z5 A3+ 
 0000005 230  VVG     proposing                Q2.2/X7+ X4.1 G1.2 Q2.2/S4 
 0000005 240  AT1     a                        Z5 
 0000005 250  JJ      new                      T3- 
@@ -258,7 +259,7 @@
 0000005 070  CST     that                     Z5 Z8 
 0000005 080  NN2     customers                I2.2/S2mf 
 0000005 090  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000005 091  XX      nt                       S9/Q4.1 Z3c 
+0000005 091  XX      n't                      Z6 
 0000005 100  VHI     have                     S6+[i17.2.1 A9+ Z5 A2.2 S4 
 0000005 110  TO      to                       S6+[i17.2.2 Z5 
 0000005 120  VVI     bring                    M2 A2.2 
@@ -302,9 +303,10 @@
 0000005 450  II      to                       Z5 
 0000005 460  JJ      fresh                    T3- O4.2+ B1 W4 S1.2.3+ 
 0000005 470  NN1     produceno                Z99 
-0000005 480  NN2     farmers                  F4/S2mf 
-0000005 490  VV0     market                   I2.2 
-0000005 500  JJ      required                 X7+ S6+ 
+0000005 480  NN1     farmer                   F4/S2mf 
+0000005 481  GE      's                       Z5 
+0000005 490  NN1     market                   I2.2 I2.2/H1 
+0000005 500  VVN     required                 X7+ S6+ 
 0000005 501  .       .                        
 0000006 001  -----   -----                    
 0000007 010  AT      The                      Z5 
@@ -462,7 +464,7 @@
 0000009 230  NN      people                   S2mfc 
 0000009 240  PNQS    who                      Z8 
 0000009 250  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000009 251  XX      nt                       S9/Q4.1 Z3c 
+0000009 251  XX      n't                      Z6 
 0000009 260  VHI     have                     A9+ Z5 A2.2 S4 
 0000009 270  AT      the                      Z5 
 0000009 280  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
@@ -471,8 +473,9 @@
 0000009 310  PPH1    it                       X9.2+[i23.2.2 M1[i23.2.2 Z8 
 0000009 320  II      to                       Z5 
 0000009 330  AT      the                      Z5 
-0000009 340  NN2     farmers                  F4/S2mf 
-0000009 350  VV0     market                   I2.2 
+0000009 340  NN1     farmer                   F4/S2mf 
+0000009 341  GE      's                       Z5 
+0000009 350  NN1     market                   I2.2 I2.2/H1 
 0000009 351  ,       ,                        
 0000009 360  DB2     both                     N5 
 0000009 370  NN2     proposals                Q2.2 X7+ S3.2/Q2.2 

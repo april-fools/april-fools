@@ -1,4 +1,4 @@
-TOTAL             1104
+TOTAL             1105
 the                  AT             38 
 he                   PPHS1          35 
 a                    AT1            28 
@@ -37,6 +37,7 @@ them                 PPHO2           5
 they                 PPHS2           5 
 going_to             VVGK            5 
 shame                NN1             5 
+'m                   VBM             4 
 here                 RL              4 
 has                  VHZ             4 
 as                   II              4 
@@ -49,7 +50,6 @@ others               NN2             4
 do                   VDI             4 
 their                APPGE           4 
 make_friends         VVI             4 
-'m                   VBM             3 
 said                 VVD             3 
 which                DDQ             3 
 him                  PPHO1           3 
@@ -360,7 +360,7 @@ observed             VVD             1
 'americans           NN2             1 
 understand           VV0             1 
 says                 VVZ             1 
-'im                  PPHO1           1 
+'i                   UH              1 
 offer                VVI             1 
 solutions            NN2             1 
 so_much_as           RR31            1 

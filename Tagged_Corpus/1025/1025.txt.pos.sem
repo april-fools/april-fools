@@ -105,19 +105,21 @@
 0000006 330  PPHS1   she                      Z8f 
 0000006 340  VVD     hit                      E3- A1.1.1 A2.1+ A11.2+ A10+ M1 G3 
 0000006 350  JJ      46-year-old              Z99 
-0000006 360  NP1     Petra                    Z3c 
-0000006 370  NP2     Winns                    Z99 
+0000006 360  NP1     Petra                    Z1mf[i7.2.1 Z3c[i7.2.1 
+0000006 370  NP1     Winn                     Z1mf[i7.2.2 Z3c[i7.2.2 
+0000006 371  GE      's                       Z5 
 0000006 380  NN1     car                      M3fn 
 0000006 381  ,       ,                        
 0000006 390  VVG     killing                  L1- A12- A1.5.1 E4.1-/A2.2 
 0000006 400  PPHO1   her                      Z8f 
 0000006 401  .       .                        
 0000007 001  -----   -----                    
-0000008 010  NP1     Matis-Engles             Z99 
+0000008 010  NP1     Matis-Engle              Z99 
+0000008 011  GE      's                       Z5 
 0000008 020  NN1     attorney                 G2.1/S2mf 
 0000008 021  ,       ,                        
-0000008 030  NP1     Jeffrey                  Z1mf[i7.2.1 Z3c[i7.2.1 Z1m 
-0000008 040  NP1     Stotter                  Z1mf[i7.2.2 Z3c[i7.2.2 
+0000008 030  NP1     Jeffrey                  Z1mf[i8.2.1 Z3c[i8.2.1 Z1m 
+0000008 040  NP1     Stotter                  Z1mf[i8.2.2 Z3c[i8.2.2 
 0000008 041  ,       ,                        
 0000008 050  VVD     said                     Q2.1 
 0000008 060  PPHS1   he                       Z8m 

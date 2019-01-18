@@ -1,4 +1,4 @@
-TOTAL         152
+TOTAL         154
 NN1            17 
 VVI            12 
 NP1             9 
@@ -31,6 +31,7 @@ RG              1
 CSA             1 
 VBDZ            1 
 CCB             1 
+GE              1 
 VVZ             1 
 PPHS1           1 
 VHZ             1 
@@ -38,4 +39,5 @@ RR21            1
 DD1             1 
 VBZ             1 
 PPIS1           1 
-VBDR            1 
+PPIS2           1 
+VBR             1 

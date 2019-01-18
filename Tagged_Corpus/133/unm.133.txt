@@ -15,7 +15,6 @@ remote-controlled        JJ      Z99
 Shui-bian                NN1     Z99 
 subterfuge               NN1     Z99 
 Taipei                   NP1     Z99 
-Taipeis                  NP2     Z99 
 Taiwan-China             JJ      Z99 
 then-president           JJ      Z99 
 Tuan                     JJ      Z99 

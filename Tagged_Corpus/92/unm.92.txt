@@ -39,6 +39,5 @@ Virtualized              JJ      Z99
 VisaNet                  NP1     Z99 
 VM-CP                    JJ      Z99 
 VMware                   NP1     Z99 
-wasnt                    VV0     Z99 
 wireshark                NN1     Z99 
 WireShark                NP1     Z99 

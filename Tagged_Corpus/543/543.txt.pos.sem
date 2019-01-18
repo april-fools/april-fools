@@ -28,8 +28,9 @@
 0000004 050  JJ      unexplained              A7- 
 0000004 060  NN2     incidents                A3+/A5.1- 
 0000004 061  ,       ,                        
-0000004 070  CS      where                    M6 
-0000004 080  NN2     sheeps                   L2mfnc 
+0000004 070  RRQ     where                    M6 
+0000004 080  NN      sheep                    L2mfnc 
+0000004 081  GE      's                       Z5 
 0000004 090  NN2     brains                   B1 X2 X9.1+ X9.1+/S2mf 
 0000004 100  CC      and                      Z5 
 0000004 110  NN2     eyes                     B1 X3.4 

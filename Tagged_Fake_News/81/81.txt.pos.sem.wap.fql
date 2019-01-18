@@ -1,4 +1,4 @@
-TOTAL              287
+TOTAL              289
 the                  AT             18 
 and                  CC              8 
 a                    AT1             6 
@@ -29,7 +29,6 @@ lockdown             NN1             2
 carried_out          VVN             2 
 by                   II              2 
 leave                VVI             2 
-visitors             NN2             2 
 center               NN1             2 
 heard                VVD             2 
 expletive            NN1             2 
@@ -41,7 +40,7 @@ towards              II              2
 republican           NN1             2 
 Donald_trump         NP1             2 
 not                  XX              2 
-its                  APPGE           2 
+it                   PPH1            2 
 concerning           VVG             2 
 how                  RRQ             2 
 citizens             NN2             2 
@@ -77,7 +76,9 @@ Finnigan             NP1             1
 described            VVN             1 
 eyewitnesses         NN2             1 
 trying               VVG             1 
-advance              VVI             1 
+visitor              NN1             1 
+'s                   GE              1 
+advance              VV0             1 
 further              RRR             1 
 either               RR              1 
 library              NN1             1 
@@ -95,6 +96,7 @@ again                RT              1
 John_Burke           NP1             1 
 college_student      NN1             1 
 visiting             VVG             1 
+visitors             NN2             1 
 stated               VVN             1 
 then                 RT              1 
 we                   PPIS2           1 
@@ -123,6 +125,7 @@ else                 RR              1
 known                VVN             1 
 about                II              1 
 shooter              NN1             1 
+'s                   VBZ             1 
 some                 DD              1 
 of_our_own           IO              1 
 born-and-bred        JJ              1 
@@ -154,13 +157,13 @@ violent              JJ              1
 other                JJ              1 
 members              NN2             1 
 population           NN1             1 
-it                   PPH1            1 
 see                  VVI             1 
 party                NN1             1 
 radicalized          VVN             1 
 hope                 VV0             1 
 can                  VM              1 
 learn                VVI             1 
+its                  APPGE           1 
 lesson               NN1             1 
 treacherous          JJ              1 
 trump                NN1             1 

@@ -1,18 +1,18 @@
-TOTAL              140
+TOTAL              143
 the                  AT              8 
 live                 JJ              6 
+satellite            NN1             6 
 in                   II              5 
-satellite            NN1             5 
 to                   TO              5 
 Google               NP1             4 
 a                    AT1             3 
 feature              NN1             3 
+you                  PPY             3 
 to                   II              3 
 can                  VM              2 
 new                  JJ              2 
 earth                NN1             2 
 mode                 NN1             2 
-you                  PPY             2 
 see                  VVI             2 
 cities               NN2             2 
 this                 DD1             2 
@@ -58,13 +58,13 @@ so                   BCL21           1
 as                   BCL22           1 
 not                  XX              1 
 overload             VVI             1 
-satellites           NN2             1 
+'s                   GE              1 
 built-in             JJ              1 
 web                  NN1             1 
 server               NN1             1 
 if                   CS              1 
-youd                 NN1             1 
-like                 VV0             1 
+'d                   VM              1 
+like                 VVI             1 
 action               NN1             1 
 yourself             PPX1            1 
 then                 RT              1 
@@ -87,7 +87,8 @@ a_bit                RR21            1
 find                 VVI             1 
 gap                  NN1             1 
 clouds               NN2             1 
-were                 VBDR            1 
+we                   PPIS2           1 
+'re                  VBR             1 
 told                 VVN             1 
 as                   CSA             1 
 add                  VV0             1 

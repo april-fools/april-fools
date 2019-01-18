@@ -21,7 +21,8 @@
 0000002 152  -----   -----                    
 0000002 160  DD1     This                     Z8 M6 Z5 
 0000002 170  VVZ     makes                    A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
-0000002 180  NN2     Trumps                   K5.2 S7.1+ 
+0000002 180  NN1     Trump                    Z1mf 
+0000002 181  GE      's                       Z5 
 0000002 190  JJ      dirty                    O4.2- G2.2- S1.2.4- 
 0000002 200  NN1     talk                     Q2.1 
 0000002 210  NN1     video                    Q4.3 
@@ -42,7 +43,7 @@
 0000004 050  VVN     called                   Q2.2 S1.1.1 Q1.3 S9% 
 0000004 060  NP1     Hillary                  Z99 
 0000004 070  AT      the                      Z5 
-0000004 080  NN1     founder                  T2+/S2mf 
+0000004 080  NN1     founder'                 Z99 
 0000004 090  IO      of                       Z5 
 0000004 100  NP1     ISIS                     Z3c 
 0000004 110  PPHS1   he                       Z8m 
@@ -105,7 +106,8 @@
 0000007 010  NP1     John                     Z1mf[i6.2.1 Z3c[i6.2.1 Z1m S9/O1.2 
 0000007 020  NP1     Podesta                  Z1mf[i6.2.2 Z3c[i6.2.2 
 0000007 021  ,       ,                        
-0000007 030  NP2     Hillarys                 Z99 
+0000007 030  NP1     Hillary                  Z99 
+0000007 031  GE      's                       Z5 
 0000007 040  NN1     campaign                 X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 G3 
 0000007 050  NN1     chair                    H5 S7.1+mf P1 
 0000007 051  ,       ,                        
@@ -177,6 +179,7 @@
 0000009 380  II      by                       Z5 
 0000009 390  APPGE   our                      Z8 
 0000009 400  NN2     allies                   S5+ 
+0000009 401  GE      '                        Z5 
 0000009 410  NP1     Saudi                    Z2[i11.2.1 Z2 Z1mf[i10.2.1 Z3c[i10.2.1 
 0000009 420  NP1     Arabia                   Z2[i11.2.2 Z2 Z1mf[i10.2.2 Z3c[i10.2.2 
 0000009 430  CC      and                      Z5 

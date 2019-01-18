@@ -7,15 +7,12 @@ GOP                      VV0     Z99
 Gov                      NN1     Z99 
 Gov.                     NNB     Z99 
 HB2                      FO      Z99 
-HB2s                     FO      Z99 
 Hendersonville           NP1     Z99 
-Im                       VV0     Z99 
 Lambda                   NN1     Z99 
 lawmakers                NN2     Z99 
 LGBT                     NP1     Z99 
 LGBT-rights              NN2     Z99 
 McCrory                  NP1     Z99 
-McCrorys                 NP1     Z99 
 McGrady                  NP1     Z99 
 NBA                      NN1     Z99 
 NCAA                     NN1     Z99 

@@ -1,31 +1,32 @@
-TOTAL             5756
+TOTAL             5791
 the                  AT            535 
 and                  CC            200 
-to                   TO            137 
+to                   TO            141 
 of                   IO            136 
 in                   II            112 
 a                    AT1            90 
 that                 CST            77 
-proposal             NN1            74 
+proposal             NN1            75 
 be                   VBI            70 
 is                   VBZ            69 
-to                   II             67 
+to                   II             63 
+board                NN1            55 
 for                  IF             53 
 it                   PPH1           52 
-icann                NN1            50 
-board                NN1            50 
+ICANN                NP1            51 
+icann                NN1            51 
 or                   CC             47 
 this                 DD1            46 
-community            NN1            43 
+community            NN1            44 
 would                VM             41 
 not                  XX             39 
-ICANN                NP1            36 
 by                   II             36 
 with                 IW             32 
 its                  APPGE          30 
 will                 VM             30 
 an                   AT1            29 
 on                   II             29 
+'s                   GE             28 
 ccwg-accountability  JJ             27 
 transition           NN1            24 
 ntia                 NN1            24 
@@ -59,6 +60,8 @@ they                 PPHS2          12
 could                VM             12 
 organization         NN1            12 
 any                  DD             12 
+gac                  NN1            12 
+NTIA                 NP1            11 
 government           NN1            11 
 group                NN1            11 
 important            JJ             11 
@@ -70,30 +73,28 @@ powers               NN2            11
 through              II             11 
 were                 VBDR           11 
 right                NN1            11 
-gac                  NN1            11 
 governance           NN1            10 
 role                 NN1            10 
 whether              CSW            10 
 advice               NN1            10 
 these                DD2             9 
 manner               NN1             9 
+concern              NN1             9 
+icann                VVI             9 
 many                 DA2             9 
 rights               NN2             9 
-icanns               NN2             9 
-ICANNs               NP2             9 
 can                  VM              9 
 gac                  JJ              9 
-NTIA                 NP1             8 
 some                 DD              8 
 decisions            NN2             8 
 does                 VDZ             8 
 details              NN2             8 
 those                DD2             8 
-concern              NN1             8 
 within               II              8 
 support              NN1             8 
 authority            NN1             8 
 being                VBG             8 
+ccwg-accountability  NN1             8 
 fundamental          JJ              8 
 membership           NN1             8 
 empowered            JJ              8 
@@ -107,7 +108,6 @@ groups               NN2             7
 advisory             JJ              7 
 all                  DB              7 
 review               NN1             7 
-ccwg-accountability  NN1             7 
 among                II              7 
 report               NN1             7 
 sole                 JJ              7 
@@ -126,6 +126,7 @@ while                CS              6
 how                  RRQ             6 
 we                   PPIS2           6 
 clear                JJ              6 
+'s                   VBZ             6 
 about                II              6 
 independent          JJ              6 
 final                JJ              6 
@@ -136,6 +137,7 @@ because              CS              6
 into                 II              6 
 member               NN1             6 
 without              IW              6 
+comment              NN1             6 
 than                 CSN             6 
 property             NN1             6 
 necessary            JJ              6 
@@ -161,13 +163,11 @@ until                CS              5
 procedures           NN2             5 
 too                  RG              5 
 get                  VVI             5 
-icann                VVI             5 
 working              JJ              5 
+concerns             NN2             5 
 draft                NN1             5 
 when                 CS              5 
-boards               NN2             5 
 operations           NN2             5 
-comment              NN1             5 
 specifically         RR              5 
 intellectual         JJ              5 
 balance              NN1             5 
@@ -199,6 +199,7 @@ stability            NN1             4
 another              DD1             4 
 status_quo           NN121           4 
 difficult            JJ              4 
+multistakeholder     NN1             4 
 procedural           JJ              4 
 must                 VM              4 
 have                 VHI             4 
@@ -208,10 +209,8 @@ icann                VV0             4
 effort               NN1             4 
 technical            JJ              4 
 questions            NN2             4 
-proposals            NN2             4 
 only                 RR              4 
 address              VVI             4 
-concerns             NN2             4 
 gnso                 NN1             4 
 called               VVN             4 
 action               NN1             4 
@@ -232,6 +231,7 @@ public               JJ              4
 grant                VVI             4 
 during               II              4 
 noted                VVN             4 
+IPC                  NP1             4 
 provided             VVN             4 
 proposed             JJ              4 
 done                 VDN             4 
@@ -276,7 +276,6 @@ operate              VVI             3
 lead                 VVI             3 
 existing             JJ              3 
 work                 VV0             3 
-multistakeholder     NN1             3 
 number               NN1             3 
 representatives      NN2             3 
 United_States        NP1             3 
@@ -290,6 +289,7 @@ supporting           VVG             3
 several              DA2             3 
 members              NN2             3 
 had                  VHD             3 
+proposals            NN2             3 
 challenges           NN2             3 
 beyond               II              3 
 forward              RL              3 
@@ -304,7 +304,6 @@ designator           NN1             3
 amendment            NN1             3 
 other                JJ              3 
 even                 RR              3 
-IPC                  NP1             3 
 involve              VVI             3 
 interests            NN2             3 
 articulated          VVN             3 
@@ -342,7 +341,6 @@ decision             NN1             3
 sucks                VVZ             3 
 authorities          NN2             3 
 particularly         RR              3 
-drafting             VVG             3 
 implementing         VVG             3 
 affect               VVI             3 
 may                  VM              3 
@@ -386,7 +384,6 @@ confidence           NN1             2
 allows               VVZ             2 
 in_place             II              2 
 actually             RR              2 
-NTIAs                NP2             2 
 root                 NN1             2 
 four                 MC              2 
 maintain             VV0             2 
@@ -411,7 +408,6 @@ strong               JJ              2
 support              VVI             2 
 objectionable        JJ              2 
 constituencies       NN2             2 
-icanns               VVZ             2 
 generic              JJ              2 
 creation             NN1             2 
 mechanism            NN1             2 
@@ -598,6 +594,7 @@ have_to              VH0             2
 untested             JJ              2 
 apply                VVI             2 
 lawyers              NN2             2 
+drafting             VVG             2 
 according_to         II21            2 
 decisive             JJ              2 
 utilize              VVI             2 
@@ -804,7 +801,6 @@ agreed               VVD             1
 held                 VVD             1 
 December_2014        NPM1            1 
 over_the_past_14_months II              1 
-ccwg-accountabilitys NN2             1 
 203                  MC              1 
 participantsincluding VVG             1 
 authors              NN2             1 
@@ -879,7 +875,6 @@ corporations         NN2             1
 potentially          RR              1 
 destabilizing        VVG             1 
 prominent            JJ              1 
-concern              VV0             1 
 bring                VVI             1 
 impact               NN1             1 
 fiduciary            JJ              1 
@@ -928,7 +923,6 @@ went                 VVD             1
 heart                NN1             1 
 in_particular        RR21            1 
 interests.           NNU             1 
-comment              VV0             1 
 officially           RR              1 
 closed               VVN             1 
 copyedits            NN2             1 
@@ -1279,7 +1273,6 @@ led                  VVD             1
 wrote                VVD             1 
 r                    ZZ1             1 
 eplacing             VVG             1 
-ntias                NN2             1 
 disastrous           JJ              1 
 vigorously           RR              1 
 oppose               VVI             1 
@@ -1381,6 +1374,8 @@ judgment             NN1             1
 left                 JJ              1 
 resolution           NN1             1 
 ambiguous            JJ              1 
+'                    GE              1 
+drafting             NN1             1 
 language.            NNU             1 
 32                   MC              1 
 actual               JJ              1 
@@ -1404,8 +1399,6 @@ unfairly             RR              1
 marginalized.        NNU             1 
 across               II              1 
 share                VVI             1 
-IPCs                 NP1             1 
-concerns             VVZ             1 
 ample                JJ              1 
 compressed           JJ              1 
 errors               NN2             1 
@@ -1451,7 +1444,6 @@ indifferent          JJ              1
 even                 CS21            1 
 when                 CS22            1 
 compounded           VVN             1 
-gacs                 NN2             1 
 unlikely             JJ              1 
 arrive               VVI             1 
 position             NN1             1 
@@ -1473,7 +1465,6 @@ regrettably          RR              1
 practical            JJ              1 
 cast                 VV0             1 
 doubt                NN1             1 
-communitys           NN2             1 
 fulfill              VVI             1 
 considering          VVG             1 
 imprudence           NN1             1 
@@ -1518,7 +1509,6 @@ suggested            VVN             1
 such                 DA              1 
 CCWG_report          NP1             1 
 potential            NN1             1 
-multistakeholder     VV0             1 
 change               VVI             1 
 based                VVN             1 
 changing             VVG             1 
@@ -1616,7 +1606,7 @@ prevail              VVI             1
 conclusion           NN1             1 
 nearly               RR              1 
 half                 DB              1 
-worlds               NN2             1 
+world                NN1             1 
 population           NN1             1 
 almost               RR              1 
 everyone             PN1             1 

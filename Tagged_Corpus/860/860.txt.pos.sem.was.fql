@@ -1,4 +1,4 @@
-TOTAL             2810
+TOTAL             2848
 the                  Z5                 136 
 a                    Z5                  95 
 to                   Z5                  76 
@@ -7,18 +7,18 @@ and                  Z5                  47
 in                   Z5                  47 
 he                   Z8                  33 
 for                  Z5                  30 
+that                 Z8                  29 
+Mr._Edelson          Z1                  26 
 is                   A3+                 26 
-that                 Z8                  26 
+it                   Z8                  24 
 said                 Q2.1                23 
 privacy              A10-                22 
-Mr._Edelson          Z1                  21 
 with                 Z5                  21 
-they                 Z8                  19 
-it                   Z8                  19 
+they                 Z8                  20 
+'s                   Z5                  19 
 that                 Z5                  18 
 their                Z8                  18 
 his                  Z8                  17 
-its                  Z8                  16 
 an                   Z5                  16 
 at                   Z5                  16 
 not                  Z6                  15 
@@ -26,20 +26,21 @@ as                   Z5                  15
 on                   Z5                  15 
 by                   Z5                  15 
 but                  Z5                  14 
-lawyers              G2.1                14 
 law                  G2.1                13 
 companies            I2.1                13 
+lawyers              G2.1                13 
 like                 Z5                  13 
 about                Z5                  12 
+firm                 I2.1                12 
 which                Z8                  12 
 has                  Z5                  12 
 was                  Z5                  12 
 facebook             Z3                  12 
 from                 Z5                  12 
 class                P1                  12 
-firm                 I2.1                11 
 is                   Z5                  11 
 people               S2                  11 
+its                  Z8                  11 
 was                  A3+                 10 
 data                 X2.2                10 
 could                A7+                 10 
@@ -51,9 +52,12 @@ have                 Z5                   9
 if                   Z7                   9 
 information          X2.2+                9 
 sue                  G2.1                 9 
+would                A7+                  9 
+company              I2.1                 9 
 legal                G2.1                 8 
 are                  A3+                  8 
 them                 Z8                   8 
+'s                   A3+                  8 
 class-action         Z99                  8 
 when                 Z5                   8 
 cases                A4.1                 8 
@@ -61,21 +65,22 @@ case                 A4.1                 8
 users                A1.5.1               8 
 act                  A1.1.1               8 
 or                   Z5                   8 
-company              I2.1                 8 
 can                  A7+                  8 
 are                  Z5                   7 
 money                I1                   7 
 many                 N5+                  7 
-would                A7+                  7 
+we                   Z8                   7 
+'                    Z5                   7 
 court                G2.1                 7 
 Spokeo               Z99                  7 
 one                  N1                   6 
+edelson              Z99                  6 
 over                 Z5                   6 
 suits                B5                   6 
 those                Z5                   6 
 be                   Z5                   6 
+n't                  Z6                   6 
 video                Q4.3                 6 
-we                   Z8                   6 
 after                Z5                   6 
 big                  N3.2+                6 
 new                  T3-                  6 
@@ -85,9 +90,7 @@ laws                 G2.1                 6
 had                  Z5                   6 
 service              S8+                  6 
 how                  Z5                   5 
-edelson              Z99                  5 
 has                  A9+                  5 
-Mr._Edelsons         Z1                   5 
 all                  N5.1+                5 
 because              Z5                   5 
 suit                 B5                   5 
@@ -99,15 +102,17 @@ google               Z3                   5
 him                  Z8                   5 
 damages              I1.1+                5 
 defending            S8+                  5 
+lawyer               G2.1                 4 
+there                Z5                   4 
 suing                G2.1                 4 
 silicon              O1.1                 4 
+valley               W3                   4 
 office               I2.1                 4 
 partner              S3.1                 4 
 before               Z5                   4 
 more                 A13.3                4 
 private              A10-                 4 
 line                 O4.4                 4 
-were                 A3+                  4 
 then                 N4                   4 
 names                Q2.2                 4 
 without              Z5                   4 
@@ -119,23 +124,20 @@ us                   Z8                   4
 dollars              I1                   4 
 which                Z5                   4 
 used                 A1.5.1               4 
+i                    Z8                   4 
 credit               I1.1                 4 
 reporting            Q2.2                 4 
 arbitration          G2.1                 4 
 tech_companies       Y1                   3 
 president            G1.1                 3 
 technology           Y1                   3 
-lawyer               G2.1                 3 
 start-up             T2+                  3 
-there                Z5                   3 
 old                  T3+                  3 
-valley               W3                   3 
 products             O2                   3 
 images               O4.1                 3 
 will                 T1.1.3               3 
 law_firm             G2.1                 3 
 way                  X4.2                 3 
-nt                   S9                   3 
 started              T2+                  3 
 technology_companies Y1                   3 
 go                   M1                   3 
@@ -143,6 +145,7 @@ dozen                N5                   3
 recent               T3-                  3 
 biometric            Z99                  3 
 face                 M6                   3 
+'re                  A3+                  3 
 really               A13.3                3 
 meeting              S1.1.3+              3 
 also                 N5++                 3 
@@ -166,6 +169,7 @@ made                 A1.1.1               3
 business             I2.1                 3 
 usually              A6.2+                3 
 supreme              A5.1+++              3 
+were                 A3+                  3 
 please               Z4                   3 
 email                Q1.3                 3 
 netflix              Z99                  3 
@@ -174,10 +178,8 @@ been                 A3+                  3
 defense              S8+                  3 
 should               S6+                  3 
 against              Z5                   3 
-thats                Z5                   3 
 school               P1                   3 
 things               O2                   3 
-i                    Z8                   3 
 only                 A14                  3 
 did                  Z5                   3 
 under                Z5                   3 
@@ -194,6 +196,7 @@ tech                 Y1                   2
 in                   M6                   2 
 very                 A13.3                2 
 regarded             X2.1                 2 
+building             H1                   2 
 lobby                H2                   2 
 wear                 B5                   2 
 offices              I2.1                 2 
@@ -232,6 +235,7 @@ technologies         Y1                   2
 eager                X5.2+                2 
 concerns             E6-                  2 
 feature              O4.1                 2 
+faces                B1                   2 
 2010                 N1                   2 
 social               S1.1.1               2 
 network              S5+                  2 
@@ -244,7 +248,7 @@ came_from            M6                   2
 investigative        X2.4                 2 
 computer             Y2                   2 
 analyst              Y2                   2 
-groups               S5+                  2 
+group                S5+                  2 
 job                  I3.1                 2 
 wanted               X7+                  2 
 mask                 O2                   2 
@@ -255,7 +259,6 @@ collecting           A9+                  2
 showing              A10+                 2 
 thought              X2.1                 2 
 why                  A2.2                 2 
-wouldnt              Z99                  2 
 want                 X7+                  2 
 smaller              N3.2--               2 
 meant                Q1.1                 2 
@@ -309,7 +312,6 @@ on_behalf_of         S1.1.1               2
 gotcha               Z99                  2 
 instead_of           A6.1-                2 
 clients              I2.2                 2 
-annihilating         A1.1.2               2 
 so                   Z5                   2 
 Dr_Pepper            Z1                   2 
 run                  M1                   2 
@@ -335,6 +337,7 @@ worried              E6-                  2
 injury               B2-                  2 
 United_States        Z2                   2 
 ninth                N1                   2 
+circuit              O3                   2 
 violation            G2.1-                2 
 professor            P1                   2 
 adopted              A9+                  2 
@@ -357,7 +360,7 @@ privacy_class        A10-                 1
 litany               S9                   1 
 unprintable          S1.2.4-              1 
 sum_up               Q2.2                 1 
-communitys           S5+                  1 
+community            S5+                  1 
 feelings             X2.1                 1 
 Sam_Altman           Z1                   1 
 y                    Z5                   1 
@@ -371,10 +374,8 @@ freedom_fighter      G2.2+                1
 pc                   Y2                   1 
 13th_floor           H2                   1 
 high-rise            N3.7+                1 
-building             H1                   1 
 looks                A8                   1 
 River                W3                   1 
-buildings            H1                   1 
 playful              E4.1+                1 
 feel                 E1                   1 
 20                   N1                   1 
@@ -411,7 +412,6 @@ earth                W3                   1
 wants                X7+                  1 
 running              M1                   1 
 tech_firm            Y1                   1 
-s                    T1.3                 1 
 guy                  S2.2                 1 
 closest              N3.3---              1 
 come                 M1                   1 
@@ -477,7 +477,6 @@ analyzes             X2.4                 1
 photos               C1                   1 
 suggests             Q2.2                 1 
 go_with              A6.1+                1 
-faces                B1                   1 
 in_the_picture       X2.2+                1 
 lists                Q1.2                 1 
 friends              S3.1                 1 
@@ -494,7 +493,6 @@ asserts              Q2.2                 1
 violated             A1.1.2               1 
 Illinois             Z99                  1 
 called               Q2.2                 1 
-faces                M6                   1 
 telling              Q2.2                 1 
 obtaining            A9+                  1 
 permission           S7.4+                1 
@@ -516,7 +514,6 @@ point                A10+                 1
 suggest              Q2.2                 1 
 tags                 Q1.2                 1 
 deleted              Q1.2                 1 
-Edelsons             Z99                  1 
 consists             A1.8+                1 
 three                N1                   1 
 plainly              A11.2+               1 
@@ -610,7 +607,7 @@ tracking             X2.4                 1
 virtually            A13.4                1 
 treatise             Z99                  1 
 Ian_Ballon           Z1                   1 
-Greenberg_Traurigs   Z1                   1 
+Greenberg_Traurig    Z1                   1 
 describes            Q2.2                 1 
 related              A2.2                 1 
 bolstering           S8+                  1 
@@ -620,7 +617,6 @@ Ted_Frank            Z1                   1
 runs                 M1                   1 
 fairness             G2.2+                1 
 nonprofit            Z99                  1 
-group                S5+                  1 
 represents           Q1.1                 1 
 unhappy              E4.1-                1 
 stepped              M1                   1 
@@ -685,7 +681,7 @@ Ronald_Reagan        Z1                   1
 nominated            X7+                  1 
 Judge_Robert_Bork    Z1                   1 
 fight                S8-                  1 
-Mr._Borks            Z1                   1 
+Mr._Bork             Z1                   1 
 ultimately           N4                   1 
 unsuccessful         X9.2-                1 
 confirmation         A7+                  1 
@@ -711,7 +707,6 @@ continue             T2++                 1
 reading              Q3                   1 
 main                 A11.1+               1 
 verify               A5.2+                1 
-'re                  A3+                  1 
 robot                O3                   1 
 box                  O2                   1 
 invalid              A5.2-                1 
@@ -725,7 +720,6 @@ receive              A9+                  1
 occasional           N6-                  1 
 updates              T1.1.2               1 
 special_offers       I1.3-                1 
-'s                   Z5                   1 
 thank_you            Z4                   1 
 subscribing          X2.1                 1 
 error                A5.3-                1 
@@ -743,7 +737,6 @@ various              A6.3+                1
 dealers              I2.1                 1 
 less                 A13.6                1 
 cavalier             A1.3-                1 
-firms                I2.1                 1 
 settlement           M7                   1 
 prompted             A2.2                 1 
 policy               X7+                  1 
@@ -786,7 +779,6 @@ theoretically        A1.6                 1
 worth                I1.3                 1 
 trillions            N1                   1 
 means                Q1.1                 1 
-companys             I2.1                 1 
 strategy             X7+                  1 
 involves             A1.8+                1 
 trying               X8+                  1 
@@ -802,7 +794,6 @@ start                T2+                  1
 thinking             X2.1                 1 
 good                 A5.1+                1 
 convince             A7+                  1 
-theres               Z5                   1 
 pay                  I1.2                 1 
 litigating           G2.1                 1 
 Michael_Rhodes       Z1                   1 
@@ -810,6 +801,7 @@ Cooley               Z99                  1
 defended             S8+                  1 
 Sony                 Z3                   1 
 model                O2                   1 
+annihilating'        Z99                  1 
 grew_up              T3+                  1 
 outside              Z5                   1 
 Boston               Z2                   1 
@@ -893,7 +885,6 @@ discuss              Q2.1                 1
 one                  Z8                   1 
 compile              Q1.2                 1 
 list                 Q1.2                 1 
-valleys              W3                   1 
 least                A13.7                1 
 topics               X4.1                 1 
 be_up                T2-                  1 
@@ -917,6 +908,7 @@ viewed               X2.1                 1
 assistants           S8+                  1 
 quickly              N3.8+                1 
 attacked             E3-                  1 
+groups               S5+                  1 
 watchdog             L2                   1 
 a_lot                N5+                  1 
 assurances           Q2.2                 1 
@@ -928,7 +920,7 @@ themselves           Z8                   1
 competitors          S7.3+                1 
 argue                Q2.1                 1 
 do                   Z5                   1 
-cant                 Q2.1                 1 
+ca                   A7+                  1 
 get                  A2.1+                1 
 hurt                 B2-                  1 
 argument             Q2.1                 1 
@@ -978,7 +970,6 @@ John_Nadolenco       Z1                   1
 Brown_in_Los         Z2                   1 
 well                 A5.1+                1 
 appeals              Q2.2                 1 
-circuit              O3                   1 
 ruled                S7.1+                1 
 Mr._Robins           Z1                   1 
 appealed             O4.2+                1 
@@ -990,6 +981,7 @@ goes_forward         A2.1+                1
 $1,000               Z99                  1 
 add_up_to            A3+                  1 
 billion              N1                   1 
+annihilating         A1.1.2               1 
 Mr._Nadolenco        Z1                   1 
 closely              A13.4                1 
 close_to             A13.4                1 
@@ -999,8 +991,7 @@ ebay                 Z3                   1
 Yahoo                Z3                   1 
 brief                T1.3-                1 
 arguing              Q2.1                 1 
-circuits             O3                   1 
-rule                 S7.1+                1 
+rule                 G2.1                 1 
 stands               I2.2                 1 
 harmed               A1.1.2               1 
 alleged              Q2.2                 1 
@@ -1102,10 +1093,9 @@ abstract             A1.6                 1
 reaction             A1.1.1               1 
 specific             A4.2+                1 
 examples             A4.1                 1 
-Ill                  B2-                  1 
+'ll                  T1.1.3               1 
 explain              Q2.2                 1 
 something            Z8                   1 
-theyre               Z99                  1 
 oh                   Z4                   1 
 yeah                 Z4                   1 
 messed_up            X9.2-                1 

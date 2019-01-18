@@ -1,4 +1,4 @@
-TOTAL              413
+TOTAL              416
 the                  AT             26 
 and                  CC             20 
 in                   II             15 
@@ -7,6 +7,7 @@ to                   TO              8
 movies               NN2             8 
 of                   IO              6 
 its                  APPGE           5 
+'s                   GE              5 
 worldwide            RL              5 
 new                  JJ              4 
 financing            NN1             4 
@@ -19,7 +20,6 @@ dark                 JJ              3
 Knight               NP1             3 
 equity               NN1             3 
 debt                 NN1             3 
-'s                   GE              3 
 by                   II              3 
 with                 IW              3 
 includes             VVZ             2 
@@ -50,6 +50,7 @@ $1_billion           NNU             2
 Warners              NP2             2 
 game                 NN1             2 
 based_on             VVN             2 
+'                    GE              2 
 updated              JJ              1 
 both                 DB2             1 
 existing             JJ              1 
@@ -99,14 +100,13 @@ Bradley_Cooper       NP1             1
 lost'                VV0             1 
 Google               NP1             1 
 executive            NN1             1 
-Eric                 NP1             1 
-Schmidts             NP2             1 
+Eric_Schmidt         NP1             1 
+'s                   VBZ             1 
 tomorrow             RT              1 
 ventures             NN2             1 
 Morgan_Stanley       NP1             1 
 management           NN1             1 
-Peter                NP1             1 
-Thiels               NP2             1 
+Peter_Thiel          NP1             1 
 Thiel                NP1             1 
 who                  PNQS            1 
 already              RR              1 
@@ -254,6 +254,6 @@ mass                 JJ              1
 effect               NN1             1 
 electronic           JJ              1 
 arts                 NN2             1 
-BioWares             NP1             1 
+BioWare              NP1             1 
 video                NN1             1 
 franchise            NN1             1 

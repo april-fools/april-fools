@@ -6,9 +6,8 @@ Benzema                  NP1     Z99
 Bernabu                  NN1     Z99 
 Clsicos                  NN2@    Z99 
 Cricketos                NN2     Z99 
-Cricketos                NP1     Z99 
 Cristiano                NN1     Z99 
-Howzat                   UH      Z99 
+Howzat'                  NP1     Z99 
 LaLiga                   NN1@    Z99 
 LaLiga                   NP1     Z99 
 Marcelo                  NP1     Z99 
@@ -21,7 +20,6 @@ Nou                      NN1     Z99
 school-boy               NN1     Z99 
 Siiiiiiiiiii             JJ      Z99 
 T20                      FO      Z99 
-theyve                   NN1     Z99 
 Twitter                  NN1     Z99 
 umpire                   NN1     Z99 
 www.cricketspain.es/     FU      Z99 

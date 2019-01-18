@@ -1,4 +1,4 @@
-TOTAL              310
+TOTAL              313
 and                  CC             18 
 the                  AT              9 
 of                   IO              8 
@@ -14,6 +14,7 @@ two                  MC              3
 family               NN1             3 
 MR                   NNB             3 
 on                   II              3 
+we                   PPIS2           3 
 our                  APPGE           3 
 comedy               NN1             3 
 that                 CST             3 
@@ -51,7 +52,6 @@ founder              NN1             2
 chairman             NN1             2 
 chief_executive      JJ              2 
 officer              NN1             2 
-we                   PPIS2           2 
 as                   CSA             2 
 scripted             JJ              2 
 stars                NN2             2 
@@ -84,7 +84,7 @@ weeknights           VVZ             1
 beginning            NN1             1 
 Friday               NPD1            1 
 April_19             NPM1            1 
-were                 VBDR            1 
+'re                  VBR             1 
 thrilled             VVN             1 
 partner_with         VVI             1 
 add                  VVI             1 
@@ -110,7 +110,8 @@ feature              VV0             1
 prominent            JJ              1 
 tv                   NN1             1 
 film_stars           NN1             1 
-couldnt              VV0             1 
+could                VM              1 
+n't                  XX              1 
 be                   VBI             1 
 happier              JJR             1 
 have                 VHI             1 
@@ -155,7 +156,8 @@ dynamic              JJ              1
 extended_family      JJ              1 
 box                  NN1             1 
 officeone            NN1             1 
-Hollywoods           NP2             1 
+Hollywood            NP1             1 
+'s                   GE              1 
 most                 RGT             1 
 bankable             JJ              1 
 got                  VVD             1 

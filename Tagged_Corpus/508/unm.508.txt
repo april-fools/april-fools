@@ -7,5 +7,4 @@ little-bitty             JJ      Z99
 teleportation            NN1     Z99 
 Teleporter               NN1     Z99 
 terraform                VVI     Z99 
-werent                   JJ      Z99 
 Yorkers                  NP1     Z99 

@@ -1,5 +1,6 @@
-TOTAL                9
-tourists             NN2             1 
+TOTAL               10
+tourist              NN1             1 
+'s                   GE              1 
 Disney               NP1             1 
 knowledge            NN1             1 
 fails                VVZ             1 

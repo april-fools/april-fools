@@ -128,7 +128,8 @@
 0000004 744  -----   -----                    
 0000004 750  AT      The                      Z5 
 0000004 760  JJ      new                      T3- 
-0000004 770  NN2     particles                O2 O1 
+0000004 770  NN1     particle                 O2 O1 
+0000004 771  GE      's                       Z5 
 0000004 780  NN1     discovery                A10+ 
 0000004 790  VBDZ    was                      Z5 A3+ 
 0000004 800  VVN     announced                Q2.2 

@@ -1,14 +1,14 @@
-TOTAL              504
+TOTAL              513
 the                  AT             46 
 birth_certificate    NN1            15 
 a                    AT1            14 
+Obama                NP1            13 
+'s                   GE             12 
 of                   IO             12 
 and                  CC             11 
 to                   TO              8 
 to                   II              8 
-Obama                NP1             8 
 in                   II              8 
-Obamas               NP2             7 
 from                 II              7 
 is                   VBZ             7 
 forensic             JJ              7 
@@ -23,7 +23,6 @@ have                 VHI             4
 child                NN1             4 
 by                   II              4 
 on                   II              4 
-Barack               NP1             3 
 might                VM              3 
 be                   VBI             3 
 it                   PPH1            3 
@@ -38,6 +37,7 @@ two                  MC              3
 xs                   MC2             3 
 investigators        NN2             3 
 that                 CST             3 
+Barack_Obama         NP1             2 
 results              NN2             2 
 just                 RR              2 
 forgery              NN1             2 
@@ -45,12 +45,12 @@ evidence             NN1             2
 prove                VVI             2 
 congress             NN1             2 
 sheriff              NN1             2 
-Joe                  NP1             2 
-Apraios              NP2             2 
+Joe_Apraio           NP1             2 
 after                CS              2 
 office               NN1             2 
 WND                  NP1             2 
 proves               VVZ             2 
+public               NN1             2 
 born                 VVN             2 
 for                  IF              2 
 said                 VVD             2 
@@ -60,7 +60,7 @@ identical            JJ              2
 copied               VVN             2 
 another              DD1             2 
 Hawaii               NP1             2 
-Johanna_Ahnee        NP1             2 
+Johanna_Ah'nee       NP1             2 
 word                 NN1             2 
 certificate          NN1             2 
 stamp                NN1             2 
@@ -76,9 +76,10 @@ beyond               II              1
 repair               NN1             1 
 long-awaited         JJ              1 
 in-depth             JJ              1 
-past                 RL              1 
+past                 NN1             1 
 have                 VH0             1 
 revealed             VVN             1 
+barack               VV0             1 
 fake                 JJ              1 
 complete             JJ              1 
 now                  RT              1 
@@ -110,12 +111,12 @@ forcing              VVG             1
 administration       NN1             1 
 release              VVI             1 
 in_the_first_place   II              1 
-corsis_book          NN1             1 
-Wheres               NP1             1 
+Corsi                NP1             1 
+book                 NN1             1 
+where                CS              1 
 first                MD              1 
 brought              VVD             1 
 issue                NN1             1 
-publics              NN2             1 
 attention            NN1             1 
 constitution         NN1             1 
 requires             VVZ             1 
@@ -158,7 +159,6 @@ mother               NN1             1
 stepfather           NN1             1 
 revealed             VVD             1 
 presented            VVN             1 
-public               NN1             1 
 appears              VVZ             1 
 issued               VVN             1 
 several              DA2             1 
@@ -230,8 +230,8 @@ disciplines          NN2             1
 forensics            NN2             1 
 came_to              VVD             1 
 conclusion           NN1             1 
-long                 RR              1 
-form                 VV0             1 
+long                 JJ              1 
+form                 NN1             1 
 authentic            JJ              1 
 Mike_Zullo           NP1             1 
 lead                 NN1             1 

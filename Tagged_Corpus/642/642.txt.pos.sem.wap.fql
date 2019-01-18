@@ -1,25 +1,25 @@
-TOTAL              183
+TOTAL              186
 the                  AT              9 
 to                   TO              6 
 and                  CC              5 
+'s                   GE              4 
 a                    AT1             4 
 on                   II              4 
 his                  APPGE           4 
 for                  IF              4 
+i                    PPIS1           4 
 he                   PPHS1           3 
 mayor                NN1             3 
-'s                   GE              3 
+London               NP1             3 
 londoners            NN2             3 
 broadcast            NN1             2 
 will                 VM              2 
 win                  VVI             2 
-London               NP1             2 
 capital              NN1             2 
 crime                NN1             2 
 NHS                  NP1             2 
 which                DDQ             2 
 Mr_Khan              NNB             2 
-i                    PPIS1           2 
 all                  DB              2 
 that                 CST             2 
 to                   II              2 
@@ -54,8 +54,7 @@ vision               NN1             1
 explains             VVZ             1 
 policies             NN2             1 
 tackle               VVI             1 
-Londons              NP2             1 
-housing              VVG             1 
+housing              NN1             1 
 crisis               NN1             1 
 cut                  VV0             1 
 help                 VV0             1 
@@ -80,7 +79,7 @@ has                  VHZ             1
 labelled             VVN             1 
 unaffordable         JJ              1 
 said                 VVD             1 
-im                   VV0             1 
+'m                   VBM             1 
 running              VVG             1 
 because              CS              1 
 want                 VV0             1 
@@ -119,7 +118,7 @@ state_schools        NN1             1
 real                 JJ              1 
 action               NN1             1 
 reduce               VVI             1 
-ill                  RR              1 
+'ll                  VM              1 
 be                   VBI             1 
 go                   VV0             1 
 polls                NN2             1 

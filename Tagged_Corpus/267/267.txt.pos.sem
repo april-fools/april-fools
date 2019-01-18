@@ -78,10 +78,12 @@
 0000004 270  VVG     downloading              M2 
 0000004 280  NN2     things                   O2 X4.1 A7- S2mf L2mf 
 0000004 290  PPHS2   they                     Z8mfn 
-0000004 300  VV0     shouldnt                 Z99 
-0000004 301  .       .                        
+0000004 300  VM      should                   S6+ A7+ 
+0000004 301  XX      n't                      Z6 
+0000004 302  .       .                        
 0000005 001  -----   -----                    
-0000006 010  APPGE   Its                      Z8 
+0000006 010  PPH1    It                       Z8 
+0000006 011  VBZ     's                       A3+ Z5 
 0000006 020  XX      not                      Z6 
 0000006 030  RR      just                     A14 T3--- T1.3- N3.3--- 
 0000006 040  AT1     a                        Z5 
@@ -120,9 +122,10 @@
 0000010 150  NN1     element                  A4.1 N5 S5+c O1 O3 O2 W4 
 0000010 160  CS      if                       Z7 
 0000010 170  AT      the                      Z5 
-0000010 180  NN2     browsers                 X2.4/S2mf Y2% 
-0000010 181  NULL    <nsfw>                   
-0000010 190  VVG     setting                  M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3 
+0000010 180  NN1     browser                  X2.4/S2mf Y2% 
+0000010 181  GE      's                       Z5 
+0000010 182  NULL    <nsfw>                   
+0000010 190  NN1     setting                  M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3 
 0000010 200  VBZ     is                       A3+ Z5 
 0000010 201  NULL    <quote>                  
 0000010 202  -----   -----                    
@@ -215,7 +218,8 @@
 0000022 470  VBI     be                       A3+ Z5 
 0000022 480  II      in                       Z5 
 0000022 490  AT      the                      Z5 
-0000022 500  NN2     users                    A1.5.1/S2mf 
+0000022 500  NN1     user                     A1.5.1/S2mf 
+0000022 501  GE      's                       Z5 
 0000022 510  NN1     cache                    A9+/A10- Y2 
 0000022 511  .       .                        
 0000023 001  -----   -----                    

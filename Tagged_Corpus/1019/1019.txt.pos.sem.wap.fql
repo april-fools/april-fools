@@ -1,22 +1,23 @@
-TOTAL              146
+TOTAL              147
 the                  AT             13 
 will                 VM              7 
-of                   IO              6 
+of                   IO              5 
 and                  CC              5 
 to                   II              5 
 which                DDQ             4 
 be                   VBI             4 
+Qatar                NP1             3 
 LNG                  NP1             3 
 to                   TO              3 
+'s                   GE              3 
 is                   VBZ             2 
 gas                  NN1             2 
-Qatar                NP1             2 
 facility             NN1             2 
 it                   PPH1            2 
+tomorrow             RT              2 
 in                   II              2 
 Cllr                 NNB             2 
 four                 MC              2 
-Qatars               NP2             2 
 there                EX              1 
 900_trillion         MC              1 
 cubic_feet           JJ              1 
@@ -32,14 +33,12 @@ fuel                 NN1             1
 UK                   NP1             1 
 officially           RR              1 
 opened               VVN             1 
-tomorrow             RT              1 
 Monday               NPD1            1 
 Prince_Andrew        NNB             1 
 emir                 NN1             1 
 among                II              1 
 guests               NN2             1 
 at                   II              1 
-tomorrows            NN2             1 
 ceremony             NN1             1 
 celebrate            VVI             1 
 newly                RR              1 
@@ -73,7 +72,7 @@ laffan               JJ              1
 industrial           JJ              1 
 city                 NN1             1 
 50_miles             MC              1 
-north                ND1             1 
+north_of_Qatar       ND1             1 
 capital              NN1             1 
 Doha                 NP1             1 
 take                 VVI             1 

@@ -10,7 +10,6 @@
 @TLProfessor             FO      Z99 
 @WrongThinkBlog          FO      Z99 
 F**K                     FO      Z99 
-hed                      JJ@     Z99 
 hillary                  NN1     Z99 
 Hillary                  NP1     Z99 
 magoo                    NN1     Z99 
@@ -19,7 +18,6 @@ NUKE                     NN1     Z99
 Obama                    NP1     Z99 
 Retweets                 VVZ     Z99 
 Tharru                   NP1@    Z99 
-theyd                    VV0     Z99 
 TS/NC2                   FU      Z99 
 tweet                    NN1     Z99 
 WikiLeaks                NN2     Z99 

@@ -6,4 +6,3 @@
 10-point                 JJ      Z99 
 Tocqueville              NP1     Z99 
 unaffiliated             JJ      Z99 
-Weve                     NP1@    Z99 

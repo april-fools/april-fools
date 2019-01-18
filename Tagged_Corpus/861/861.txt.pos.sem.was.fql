@@ -1,4 +1,4 @@
-TOTAL              475
+TOTAL              481
 the                  Z5                  40 
 of                   Z5                  19 
 and                  Z5                  12 
@@ -7,10 +7,10 @@ a                    Z5                   9
 in                   Z5                   9 
 religious            S9                   7 
 diversity            A6.3+                7 
+country              G1.1                 6 
 U.S.                 Z8                   6 
 religions            S9                   6 
 United_States        Z2                   5 
-country              G1.1                 5 
 to                   Z5                   5 
 all                  N5.1+                5 
 study                P1                   5 
@@ -21,6 +21,8 @@ an                   Z5                   4
 but                  Z5                   4 
 or                   Z5                   4 
 on                   Z5                   4 
+world                W1                   4 
+'s                   Z5                   4 
 has                  Z5                   3 
 diverse              A6.3+                3 
 from                 Z5                   3 
@@ -30,7 +32,6 @@ population           S2                   3
 unaffiliated         Z99                  3 
 countries            M7                   3 
 index                Q4.1                 3 
-worlds               W1                   3 
 than                 Z5                   3 
 that                 Z8                   3 
 those                Z5                   3 
@@ -134,7 +135,6 @@ considered           X2.1                 1
 single               N5---                1 
 looks_at             X3.4                 1 
 share                S1.1.2+              1 
-countrys             G1.1                 1 
 belongs              A9+                  1 
 major                A11.1+               1 
 including            A1.8+                1 
@@ -182,7 +182,6 @@ is                   Z5                   1
 classified           A4.1                 1 
 moderate             N5                   1 
 in_terms_of          Z5                   1 
-world                W1                   1 
 live                 H4                   1 
 third                N4                   1 
 populous             N5+                  1 
@@ -200,7 +199,8 @@ surveys              X2.4                 1
 0.6%                 Z99                  1 
 traditional          S1.1.1               1 
 0.2%                 Z99                  1 
-theres               Z5                   1 
+there                Z5                   1 
+'s                   A3+                  1 
 important            A11.1+               1 
 distinction          A6.1-                1 
 between              Z5                   1 
@@ -208,7 +208,8 @@ freedom              A1.7-                1
 which                Z5                   1 
 report               Q2.2                 1 
 does                 Z5                   1 
-Weve                 Z99                  1 
+we                   Z8                   1 
+'ve                  Z5                   1 
 studied              P1                   1 
 both                 Z5                   1 
 form                 O4.1                 1 

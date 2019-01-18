@@ -1,4 +1,4 @@
-TOTAL              193
+TOTAL              197
 in                   II              8 
 the                  AT              8 
 to                   TO              7 
@@ -8,6 +8,7 @@ of                   IO              3
 trade                NN1             3 
 United_States        NP1             3 
 and                  CC              3 
+'s                   GE              3 
 for                  IF              3 
 between              II              2 
 if                   CS              2 
@@ -15,11 +16,12 @@ something            PN1             2
 that                 CST             2 
 with                 IW              2 
 tariffs              NN2             2 
-its                  APPGE           2 
+it                   PPH1            2 
 war                  NN1             2 
 not                  XX              2 
 country              NN1             2 
 to                   II              2 
+government           NN1             2 
 from                 II              2 
 until                II              1 
 Thursday_afternoon   NPD1            1 
@@ -38,7 +40,7 @@ spirals              VVZ             1
 into                 II              1 
 bigger               JJR             1 
 conflict             NN1             1 
-worlds               NN2             1 
+world                NN1             1 
 two                  MC              1 
 biggest              JJT             1 
 economies            NN2             1 
@@ -48,12 +50,13 @@ more                 RGR             1
 likely               JJ              1 
 Thursday_evening     NPD1            1 
 President            NNB             1 
-Trumps               NP1             1 
+Trump                NP1             1 
 threat               NN1             1 
 add                  VVI             1 
 $100_billion         NNU             1 
 more                 DAR             1 
-worth                NN1             1 
+'s                   VBZ             1 
+worth                II              1 
 keeping              VVG             1 
 in_mind              II              1 
 usual                JJ              1 
@@ -74,11 +77,10 @@ far                  RG              1
 more                 RRR             1 
 goods                NN2             1 
 than                 CSN             1 
-it                   PPH1            1 
 imports              NN2             1 
 simply               RR              1 
 does                 VDZ             1 
-nt                   XX              1 
+n't                  XX              1 
 have                 VHI             1 
 as                   RG              1 
 much                 DA1             1 
@@ -89,9 +91,9 @@ american             JJ              1
 especially           RR              1 
 given                VVN             1 
 chinese              JJ              1 
-governments          NN2             1 
-desire               VV0             1 
+desire               NN1             1 
 cushion              VVI             1 
+its                  APPGE           1 
 citizens             NN2             1 
 higher               JJR             1 
 prices               NN2             1 
@@ -105,7 +107,6 @@ willing              JJ              1
 use                  VVI             1 
 wide                 JJ              1 
 range                NN1             1 
-government           NN1             1 
 powers               NN2             1 
 achieve              VVI             1 
 commercial           JJ              1 

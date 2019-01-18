@@ -21,7 +21,8 @@
 0000002 170 damaging                                    93 [JJ/91] VVG/9
 0000002 180 information                                 93 NN1
 0000002 190 about                                       93 [II/100] RP@/0 RG%/0
-0000002 200 NASAs                                       04 NP2
+0000002 200 NASA                      >                 93 NP1
+0000002 201 's                        <                 03 [GE/96] VBZ/3 VHZ@/0
 0000002 210 Apollo                                      93 NP1
 0000002 220 program                                     93 [NN1/97] VV0@/3
 0000002 221 ,                                           03 ,
@@ -36,7 +37,8 @@
 0000004 040 has                                         93 VHZ
 0000004 050 lived                                       97 VVN
 0000004 060 at                                          93 II
-0000004 070 Ecuadors                                    04 NP2
+0000004 070 Ecuador                   >                 93 NP1
+0000004 071 's                        <                 03 [GE/96] VBZ/3 VHZ@/0
 0000004 080 London                                      93 NP1
 0000004 090 embassy                                     93 NN1
 0000004 100 since                                       93 [II@/76] CS/24 RR@/0

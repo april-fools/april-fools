@@ -1,4 +1,4 @@
-TOTAL              200
+TOTAL              203
 the                  AT             14 
 in                   II              7 
 and                  CC              7 
@@ -6,6 +6,7 @@ his                  APPGE           5
 Pakistan             NP1             4 
 he                   PPHS1           4 
 as                   II              3 
+'s                   GE              3 
 to                   TO              3 
 a                    AT1             3 
 report               NN1             3 
@@ -25,6 +26,7 @@ with                 IW              2
 captain              NN1             2 
 team                 NN1             2 
 had                  VHD             2 
+Afridi               NP1             2 
 for                  IF              2 
 of                   IO              2 
 they                 PPHS2           2 
@@ -34,7 +36,7 @@ my                   APPGE           2
 waqar                VV0             1 
 Younis               NP1             1 
 resigned             VVN             1 
-sides                NN2             1 
+side                 NN1             1 
 disappointing        JJ              1 
 performances         NN2             1 
 India                NP1             1 
@@ -44,13 +46,12 @@ is                   VBZ             1
 latest               JJT             1 
 role                 NN1             1 
 country              NN1             1 
-Shahid_Afridis       NP1             1 
+Shahid_Afridi        NP1             1 
 resignation          NN1             1 
 t20                  FO              1 
 manager              NN1             1 
 Intikhab_Alam        NP1             1 
 called               VVN             1 
-Afridi               NP1             1 
 absolutely           RR              1 
 clueless             JJ              1 
 in_terms_of          II31            1 
@@ -108,7 +109,6 @@ selection            NN1             1
 also                 RR              1 
 disparaging          JJ              1 
 as_to                II21            1 
-Afridis              NP1             1 
 captaincy            NN1             1 
 am                   VBM             1 
 resigning            VVG             1 

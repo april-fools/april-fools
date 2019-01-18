@@ -19,8 +19,9 @@
 0000002 170  NN1     appearance               A10+ O4.1 A3+ G2.1 K5 Q4 
 0000002 171  .       .                        
 0000003 001  -----   -----                    
-0000006 010  NN2     Editors                  Q4/I3.2/S2mf Y2 
-0000006 020  VV0     note                     Q2.1 Q1.2 
+0000006 010  NN1     Editor                   Q4/I3.2/S2mf Y2 
+0000006 011  GE      's                       Z5 
+0000006 020  NN1     note                     Q1.2 K2 
 0000006 021  :       :                        
 0000006 030  DD1     Each                     N5.1+ 
 0000006 040  NN1     sport                    K5.1 
@@ -56,8 +57,9 @@
 0000006 320  NN      series                   N4c Q4.3c 
 0000006 330  VM      will                     T1.1.3 
 0000006 340  VVI     run                      M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4 
-0000006 350  CS      until                    Z5 
-0000006 360  NPM2    Septembers               T1.3 
+0000006 350  II@     until                    Z5 
+0000006 360  NPM1    September                T1.3 
+0000006 361  GE      's                       Z5 
 0000006 370  NN2     Games                    K5.1 K5.2 A1.1.1 
 0000006 371  ,       ,                        
 0000006 380  VVG     helping                  S8+ 
@@ -196,7 +198,8 @@
 0000014 300  NN1     ball                     O2/O4.4 K5.1 B1 K1 
 0000014 310  II      into                     Z5 
 0000014 320  AT      the                      Z5 
-0000014 330  NN2     opponents                S7.3/S2mf 
+0000014 330  NN1     opponent                 S7.3/S2mf 
+0000014 331  VBZ     's                       A3+ Z5 
 0000014 340  DB      half                     N5 
 0000014 350  IO      of                       Z5 
 0000014 360  AT      the                      Z5 
@@ -240,6 +243,7 @@
 0000016 250  JJ      two-bounce               Z99 
 0000016 260  NN1     rule                     G2.1 X4.2 A6.2+ S7.1+ Q3 
 0000016 261  ,       ,                        
+0000016 262  "@      '                        
 0000016 270  RRQ     whereby                  Z5 
 0000016 280  AT      the                      Z5 
 0000016 290  NN1     ball                     O2/O4.4 K5.1 B1 K1 
@@ -256,9 +260,11 @@
 0000018 060  VV0     compete                  S7.3+ 
 0000018 070  RP@     in                       M6 
 0000018 071  :       :                        
-0000018 080  NN2     mens                     S2.2m 
-0000018 081  ,       ,                        
-0000018 090  NN2     womens                   S2.1f 
+0000018 080  NN2     men                      S2.2m 
+0000018 081  GE      's                       Z5 
+0000018 082  ,       ,                        
+0000018 090  NN2     women                    S2.1f 
+0000018 091  GE      's                       Z5 
 0000018 100  CC      and                      Z5 
 0000018 110  NN2     quads                    S2mf H2 
 0000018 111  ;       ;                        
@@ -347,8 +353,9 @@
 0000032 202  .       .                        
 0000033 001  -----   -----                    
 0000034 010  AT      The                      Z5 
-0000034 020  NP1     IPCs                     Z1mf[i14.2.1 Z3c[i14.2.1 Z3c 
-0000034 030  JJ      Global                   Z1mf[i14.2.2 Z3c[i14.2.2 Z3c 
+0000034 020  NP1     IPC                      Z3c 
+0000034 021  GE      's                       Z5 
+0000034 030  JJ      Global                   Z3c 
 0000034 040  NN1     ATR                      Z99 
 0000034 050  VBZ     is                       A3+ Z5 
 0000034 060  NN1     Jet                      Z3c 
@@ -356,8 +363,8 @@
 0000034 080  NN2     Sports                   K5.1 
 0000034 081  ,       ,                        
 0000034 090  CC      and                      Z5 
-0000034 100  NP1     Rio                      Z2[i15.2.1 Z1mf[i15.2.1 Z2 Z3c 
-0000034 110  MC      2016                     Z2[i15.2.2 Z1mf[i15.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000034 100  NP1     Rio                      Z2[i14.2.1 Z1mf[i14.2.1 Z2 Z3c 
+0000034 110  MC      2016                     Z2[i14.2.2 Z1mf[i14.2.2 N1 T1.2 T3 T1.3 N3.2 
 0000034 120  NN2     tickets                  Q1.2 G2.1/Q1.2 G1.2 
 0000034 130  CC      and                      Z5 
 0000034 140  NN2     packages                 O2 A1.8+ Y2 
@@ -381,8 +388,8 @@
 0000036 090  RR      directly                 M6 N3.8+ S1.1.1 
 0000036 100  II      from                     Z5 
 0000036 110  AT      the                      Z5 
-0000036 120  NP1     Rio                      Z2[i16.2.1 Z1mf[i16.2.1 Z2 Z3c 
-0000036 130  MC      2016                     Z2[i16.2.2 Z1mf[i16.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000036 120  NP1     Rio                      Z2[i15.2.1 Z1mf[i15.2.1 Z2 Z3c 
+0000036 130  MC      2016                     Z2[i15.2.2 Z1mf[i15.2.2 N1 T1.2 T3 T1.3 N3.2 
 0000036 140  NN1     website                  Y2 
 0000036 141  .       .                        
 0000038 001  NULL    **8;7;text               

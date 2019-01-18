@@ -1,4 +1,4 @@
-TOTAL             1169
+TOTAL             1174
 the                  AT             69 
 a                    AT1            40 
 and                  CC             35 
@@ -17,15 +17,15 @@ with                 IW             14
 object               NN1            14 
 an                   AT1            13 
 code                 NN1            11 
+it                   PPH1           11 
 memory               NN1            10 
-it                   PPH1           10 
+what                 DDQ             9 
 can                  VM              9 
 from                 II              8 
 that                 CST             8 
 address              NN1             8 
 if                   CS              8 
 language             NN1             7 
-what                 DDQ             7 
 that                 DD1             7 
 smart                JJ              7 
 will                 VM              6 
@@ -59,6 +59,7 @@ then                 RT              3
 std                  NNU             3 
 autoptr              VV0             3 
 now                  RT              3 
+they                 PPHS2           3 
 removing             VVG             3 
 them                 PPHO2           3 
 x*                   FO              3 
@@ -78,6 +79,7 @@ only                 RR              3
 undefined            JJ              3 
 behaviour            NN1             3 
 application          NN1             3 
+n't                  XX              3 
 nullity              NN1             3 
 write                VVI             3 
 on                   II              3 
@@ -102,7 +104,7 @@ raw                  JJ              2
 great                JJ              2 
 making               VVG             2 
 more                 RGR             2 
-lets                 VVZ             2 
+let_'s               VM21            2 
 all                  DB              2 
 why                  RRQ             2 
 do                   VDI             2 
@@ -118,7 +120,7 @@ gives                VVZ             2
 x                    II              2 
 at                   II              2 
 function             NN1             2 
-whats                NN2             2 
+'s                   VBZ             2 
 concept              NN1             2 
 good                 JJ              2 
 write                VV0             2 
@@ -133,11 +135,9 @@ smaller              JJR             2
 copy                 VVI             2 
 dynamic              JJ              2 
 allocation           NN1             2 
-they                 PPHS2           2 
 when                 CS              2 
 dereference          NN1             2 
 very                 RG              2 
-nt                   XX              2 
 need                 VV0             2 
 null                 JJ              2 
 crash                NN1             2 
@@ -184,7 +184,7 @@ remove               VV0             1
 one                  PN1             1 
 specific             JJ              1 
 kind_of              RR21            1 
-theyre               NN1             1 
+'re                  VBR             1 
 taking               VVG             1 
 further              JJR             1 
 step                 NN1             1 
@@ -195,7 +195,7 @@ issues               NN2             1
 in_order_to          BCL21           1 
 understand           VVI             1 
 standard             JJ              1 
-start                NN1             1 
+start                VVI             1 
 recap                NN1             1 
 construct            VV0             1 
 for_instance         REX21           1 
@@ -296,8 +296,8 @@ came                 VVD             1
 0x00000008           FO              1 
 makes                VVZ             1 
 statement            NN1             1 
-cant                 NN1             1 
-prevent              VV0             1 
+ca                   VM              1 
+prevent              VVI             1 
 finally              RR              1 
 benefit              VVI             1 
 become               VV0             1 
@@ -331,7 +331,7 @@ cluttering           VVG             1
 making_it            VVG             1 
 less                 RGR             1 
 alternatives         NN2             1 
-its                  APPGE           1 
+'s                   VHZ             1 
 while                NNT1            1 
 common               JJ              1 
 practice             NN1             1 

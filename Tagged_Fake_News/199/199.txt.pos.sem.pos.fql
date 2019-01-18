@@ -1,10 +1,10 @@
-TOTAL         427
-NN1            50 
+TOTAL         430
+NN1            52 
 JJ             41 
 AT             36 
-NP1            34 
+NP1            36 
 II             30 
-NN2            24 
+NN2            22 
 VVN            15 
 VVD            13 
 AT1            12 
@@ -16,10 +16,10 @@ APPGE           8
 RR              8 
 CC              7 
 VM              6 
-VV0             6 
 VBZ             5 
 VVI             5 
 NNT1            5 
+VV0             5 
 CS              5 
 DD1             4 
 PNQS            4 
@@ -31,6 +31,7 @@ DDQ             3
 VBI             3 
 CSN             3 
 TO              3 
+GE              3 
 NPD1            2 
 VBDR            2 
 EX              2 
@@ -61,4 +62,3 @@ CSA             1
 VH0             1 
 RG              1 
 RRR             1 
-NP2             1 

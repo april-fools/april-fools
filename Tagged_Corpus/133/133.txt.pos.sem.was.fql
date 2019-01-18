@@ -1,9 +1,9 @@
-TOTAL              514
+TOTAL              525
 the                  Z5                  25 
 to                   Z5                  14 
-pandas               L2                  12 
-panda                L2                  12 
+panda                L2                  14 
 and                  Z5                  11 
+pandas               L2                  10 
 a                    Z5                   8 
 of                   Z5                   8 
 said                 Q2.1                 8 
@@ -11,17 +11,19 @@ their                Z8                   7
 in                   Z5                   7 
 were                 Z5                   6 
 that                 Z5                   6 
+'s                   Z5                   6 
 they                 Z8                   6 
 he                   Z8                   6 
 when                 Z5                   5 
+zoo                  M7                   5 
 yuan                 I1                   5 
 yesterday            T1.1.1               4 
 it                   Z8                   4 
 was                  Z5                   4 
+Taipei               Z99                  4 
 at                   Z5                   4 
 by                   Z5                   4 
 with                 Z5                   4 
-Taipei               Z99                  3 
 are                  A3+                  3 
 what                 Z8                   3 
 brown                O4.3                 3 
@@ -29,12 +31,12 @@ had                  Z5                   3
 she                  Z8                   3 
 tuan                 Z99                  3 
 would                A7+                  3 
+'                    Z5                   3 
 who                  Z8                   3 
 his                  Z8                   3 
 from                 Z5                   3 
 milk                 F2                   3 
 scandal              G2.2-                3 
-zoos                 M7                   2 
 not                  Z6                   2 
 that                 Z8                   2 
 been                 Z5                   2 
@@ -53,8 +55,8 @@ but                  Z5                   2
 concerns             E6-                  2 
 we                   Z8                   2 
 after                Z5                   2 
-zoo                  M7                   2 
 Washington           Z2                   2 
+n't                  Z6                   2 
 as                   Z5                   2 
 chinese              Z2                   2 
 first                N4                   2 
@@ -83,7 +85,7 @@ dyed                 O4.3                 1
 create               A1.1.1               1 
 distinctive          A11.2+               1 
 appearance           A10+                 1 
-zoos_head            Z2                   1 
+head                 B1                   1 
 ursidae              Z99                  1 
 ex-procyonidae       Z99                  1 
 care                 E6-                  1 
@@ -105,7 +107,7 @@ make                 A1.1.1               1
 difficult            A12-                 1 
 breed                F4                   1 
 captivity            A1.7+                1 
-lets                 S7.4+                1 
+let_'s               Z5                   1 
 just                 A14                  1 
 say                  Q2.1                 1 
 chance               A1.4                 1 
@@ -168,7 +170,7 @@ ta                   Z3                   1
 go                   M1                   1 
 there                M6                   1 
 hose                 B4                   1 
-em                   Z8                   1 
+'em                  Z8                   1 
 down                 Z5                   1 
 cold                 O4.6-                1 
 water                O1.2                 1 
@@ -190,18 +192,17 @@ sometimes            N6                   1
 lie                  A5.2-                1 
 their_own            Z8                   1 
 feces                Z99                  1 
-cant                 Q2.1                 1 
+ca                   A7+                  1 
 tolerate             E2                   1 
 hot                  O4.6+                1 
 weather              W4                   1 
 so                   Z5                   1 
 did                  Z5                   1 
-nt                   S9                   1 
 surprise             X2.6-                1 
 fur                  O1.1                 1 
 turning              M2                   1 
 since                Z5                   1 
-Taipeis              Z99                  1 
+'s                   A3+                  1 
 hotter               O4.6+                1 
 on_average           A6.2+                1 
 than                 Z5                   1 
@@ -260,8 +261,7 @@ brokenhearted        Z99                  1
 angrily              E3-                  1 
 compared             A6.1                 1 
 subterfuge           Z99                  1 
-last                 T2++                 1 
-years                T1.3                 1 
+last_year            T1.1.1               1 
 contaminated         B2-                  1 
 melamine             O1                   1 
 watered-down         Z99                  1 

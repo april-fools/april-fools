@@ -1,4 +1,4 @@
-TOTAL             2237
+TOTAL             2243
 the                  AT            171 
 and                  CC             59 
 of                   IO             56 
@@ -6,24 +6,24 @@ in                   II             43
 a                    AT1            39 
 intelligence         NN1            35 
 to                   TO             34 
+it                   PPH1           32 
 to                   II             29 
 that                 CST            29 
-it                   PPH1           28 
 president            NN1            27 
+'s                   VBZ            27 
 he                   PPHS1          27 
 said                 VVD            25 
 is                   VBZ            24 
-'s                   VBZ            23 
-'s                   GE             19 
-Obama                NP1            19 
+'s                   GE             20 
+Obama                NP1            20 
 for                  IF             17 
 that                 DD1            17 
 has                  VHZ            16 
 i                    PPIS1          15 
 PDB                  NP1            14 
 his                  APPGE          14 
-daily                JJ             13 
 briefing             NN1            13 
+daily                JJ             12 
 on                   II             12 
 be                   VBI            12 
 national             JJ             12 
@@ -38,6 +38,7 @@ about                II             10
 you                  PPY            10 
 from                 II              9 
 an                   AT1             9 
+n't                  XX              9 
 trump                NN1             9 
 not                  XX              9 
 CIA                  NP1             9 
@@ -47,7 +48,6 @@ do                   VD0             8
 or                   CC              8 
 most                 RGT             8 
 as                   II              7 
-its                  APPGE           7 
 by                   II              7 
 they                 PPHS2           7 
 President            NNB             6 
@@ -59,12 +59,13 @@ often                RR              6
 book                 NN1             6 
 do                   VDI             6 
 can                  VM              5 
-n't                  XX              5 
 just                 RR              5 
+had_to               VHN             5 
 have                 VHI             5 
 gets                 VVZ             5 
 same                 DA              5 
 this                 DD1             5 
+'ve                  VH0             5 
 former               DA              5 
 get                  VVI             5 
 director             NN1             5 
@@ -77,17 +78,14 @@ could                VM              5
 first                MD              4 
 now                  RT              4 
 only                 RR              4 
-had_to               VHN             4 
 into                 II              4 
 how                  RRQ             4 
-nt                   XX              4 
 deputy               NN1             4 
 adviser              NN1             4 
 will                 VM              4 
 raw                  JJ              4 
 part                 NN1             4 
 presidency           NN1             4 
-'ve                  VH0             4 
 even                 RR              4 
 agency               NN1             4 
 your                 APPGE           4 
@@ -101,6 +99,7 @@ commander            NN1             3
 chief                NN1             3 
 issues               NN2             3 
 every_day            AT1             3 
+we                   PPIS2           3 
 something            PN1             3 
 government           NN1             3 
 new                  JJ              3 
@@ -121,6 +120,7 @@ distribution         NN1             3
 all                  DB              3 
 if                   CS              3 
 wants                VVZ             3 
+its                  APPGE           3 
 Michael_Hayden       NP1             3 
 Hayden               NP1             3 
 analysis             NN1             3 
@@ -156,7 +156,6 @@ each                 DD1             2
 which                DDQ             2 
 produced             VVN             2 
 meeting              NN1             2 
-we                   PPIS2           2 
 Ben_Rhodes           NP1             2 
 him                  PPHO1           2 
 entire               JJ              2 
@@ -226,7 +225,6 @@ those                DD2             2
 certainly            RR              2 
 around               II              2 
 so                   RR              2 
-had_to               VHD             2 
 any                  DD              2 
 briefed              VVN             2 
 more                 DAR             2 
@@ -457,6 +455,7 @@ everything           PN1             1
 going_to             VVGK            1 
 make_it              VVI             1 
 in                   RP              1 
+daily                RR              1 
 breaking             VVG             1 
 get_in               VVI             1 
 word                 NN1             1 
@@ -567,6 +566,7 @@ airliner             NN1             1
 changed              VVD             1 
 perception           NN1             1 
 detail_oriented      NN1             1 
+had_to               VHD             1 
 things               NN2             1 
 then                 RT              1 
 on                   RP              1 
@@ -701,7 +701,6 @@ talk                 VV0             1
 anything             PN1             1 
 except               II              1 
 to_the_point         II              1 
-weve                 NN1             1 
 'hey                 NN1             1 
 rebalancing          VVG             1 
 asia-pacific         JJ              1 
@@ -836,7 +835,6 @@ defend               VVI             1
 suggest              VVI             1 
 well                 RR              1 
 listen               VVI             1 
-Obamas               NP1             1 
 over_the_last_eight_years II              1 
 men                  NN2             1 
 women                NN2             1 

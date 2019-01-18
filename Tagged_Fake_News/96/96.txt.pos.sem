@@ -14,16 +14,18 @@
 0000002 120  DB      all                      Z4[i2.2.2 N5.1+ 
 0000002 121  .       .                        
 0000002 122  -----   -----                    
-0000002 130  APPGE   Its                      Z8 
-0000002 140  JJ      just                     S1.2 G2.2+ 
+0000002 130  PPH1    It                       Z8 
+0000002 131  VBZ     's                       A3+ Z5 
+0000002 140  RR      just                     A14 T3--- T1.3- N3.3--- 
 0000002 150  CST     that                     Z5 Z8 
 0000002 160  NP1     Hillary                  Z1mf[i3.2.1 Z3c[i3.2.1 
 0000002 170  NP1     Clinton                  Z1mf[i3.2.2 Z3c[i3.2.2 Z1mf 
 0000002 180  CC      and                      Z5 
 0000002 190  APPGE   her                      Z8f 
 0000002 200  NN2     Democrats                Z3c 
-0000002 210  NN1     cant                     Q2.1 
-0000002 220  VD0     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000002 210  VM      ca                       A7+ 
+0000002 211  XX      n't                      Z6 
+0000002 220  VDI     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
 0000002 230  DD      any                      N5.1+ N5 
 0000002 240  NN1     job                      I3.1 A1.1.1 A12- 
 0000002 250  NN1     right                    S7.4+ G2.2+ M6 G1.2 
@@ -135,6 +137,7 @@
 0000008 300  IO      of                       Z5 
 0000008 310  AT      the                      Z5 
 0000008 320  NN2     machines                 O2 Y2 
+0000008 321  GE      '                        Z5 
 0000008 330  JJ      optical                  X3.4 
 0000008 340  NN2     scanners                 O3/B3 O3/Y2 O3/X2.4 
 0000008 350  VVD     broke                    A1.1.2 A1.1.1 A1.9 S5- T2- E4.1-/A2.2 A2.1+ T1.3 Q2.1@ 
@@ -336,7 +339,8 @@
 0000016 240  NN1     eye                      X3.4[i24.4.3 B1 X3.4 
 0000016 250  II      on                       X3.4[i24.4.4 Z5 
 0000016 260  APPGE   his                      Z8m 
-0000016 270  NN2     Districts                M7 
+0000016 270  NN1     District                 Z3c 
+0000016 271  GE      's                       Z5 
 0000016 280  NN2     elections                G1.2/X7+ 
 0000016 290  VV0     process                  A1.1.1 Y2 M1 
 0000016 291  .       .                        
@@ -349,7 +353,8 @@
 0000016 340  NN1     Facebook                 Z3c/Y2 
 0000016 350  NN1     post                     Q1.2 O2 I3.1 M6 
 0000016 351  ,       ,                        
-0000016 360  NP2     Pennys                   I1 
+0000016 360  NP1     Penny                    I1 
+0000016 361  GE      's                       Z5 
 0000016 370  NN1     precinct                 I2.2/H1c M7/G2.1 H1 H3 
 0000016 371  ,       ,                        
 0000016 380  NP1     Detroit                  Z2 

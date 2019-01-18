@@ -1,4 +1,4 @@
-TOTAL              292
+TOTAL              302
 the                  AT             25 
 a                    AT1             7 
 to                   TO              6 
@@ -7,6 +7,7 @@ to                   II              5
 in                   II              4 
 President            NNB             4 
 of                   IO              4 
+Obama                NP1             4 
 presidential         JJ              4 
 and                  CC              4 
 be                   VBI             4 
@@ -15,8 +16,9 @@ gop                  NN1             3
 former               DA              3 
 Jon_Stewart          NP1             3 
 for                  IF              3 
+is                   VBZ             3 
+they                 PPHS2           3 
 president            NN1             3 
-Obama                NP1             3 
 republican           NN1             3 
 debates              NN2             3 
 will                 VM              3 
@@ -30,17 +32,17 @@ show                 NN1             2
 host                 NN1             2 
 December_15th        NPM1            2 
 Las_Vegas            NP1             2 
-is                   VBZ             2 
 on                   II              2 
-they                 PPHS2           2 
 reality              NN1             2 
 said                 VVD             2 
 from                 II              2 
 this                 DD1             2 
+n't                  XX              2 
+'s                   GE              2 
+it                   PPH1            2 
 questions            NN2             2 
 cop                  NN1             2 
 White_house          NP1             2 
-told                 VVD             2 
 at                   II              2 
 Ny                   NP1             1 
 democratic           JJ              1 
@@ -66,11 +68,11 @@ receiving            VVG             1
 wide                 JJ              1 
 applause             NN1             1 
 audience             NN1             1 
-isnt                 NN1             1 
 an                   AT1             1 
 audition             NN1             1 
-babysitters_club     NN2             1 
-its                  APPGE           1 
+babysitter           NN1             1 
+club                 NN1             1 
+'s                   VBZ             1 
 oval                 JJ              1 
 office               NN1             1 
 in_the_past          II              1 
@@ -86,12 +88,13 @@ fortitude            NN1             1
 required             VVN             1 
 run                  VVI             1 
 country              NN1             1 
-shouldnt             NN1             1 
+should               VM              1 
 centered             VVN             1 
 around               II              1 
 catering             VVG             1 
 candidates           NN2             1 
-comfort              VV0             1 
+'                    GE              1 
+comfort              NN1             1 
 level                NN1             1 
 political            JJ              1 
 analyst              NN1             1 
@@ -110,7 +113,7 @@ control              NN1             1
 future               JJ              1 
 Cunningham           NP1             1 
 continued            VVD             1 
-Itll                 NP1             1 
+'ll                  VM              1 
 interesting          JJ              1 
 see                  VVI             1 
 how                  RRQ             1 
@@ -123,7 +126,7 @@ that                 CST             1
 knows                VVZ             1 
 the_ins_and_outs     AT              1 
 job                  NN1             1 
-theyre               NN1             1 
+'re                  VBR             1 
 vying                VVG             1 
 meanwhile            RR              1 
 vice                 JJ              1 
@@ -153,13 +156,14 @@ many                 DA2             1
 speculate            VV0             1 
 play                 VVI             1 
 good                 JJ              1 
-Obamas               NP1             1 
 bad                  JJ              1 
 visited              VVD             1 
 week                 NNT1            1 
 brainstorm           VVI             1 
 possible             JJ              1 
-Im                   NP1             1 
+i                    PPIS1           1 
+'m                   VBM             1 
+told                 VVN             1 
 meeting              NN1             1 
 was                  VBDZ            1 
 very                 RG              1 
@@ -168,6 +172,7 @@ press                NN1             1
 secretary            NN1             1 
 Josh                 NP1             1 
 earnest              NN1             1 
+told                 VVD             1 
 reporters            NN2             1 
 Tuesday_afternoon    NPD1            1 
 Fox                  NP1             1 

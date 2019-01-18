@@ -1,7 +1,8 @@
 0000001 001  NULL    **6;0;START              
 0000001 002  -----   -----                    
 0000002 010  CS      If                       Z7 
-0000002 020  NP1     Theres                   Z5 M6 T1.2 
+0000002 020  EX      There                    Z5 
+0000002 021  VBZ     's                       A3+ Z5 
 0000002 030  AT1     a                        Z5 
 0000002 040  JJ      U.S.-China               Z99 
 0000002 050  NN1     Trade                    I2.2 I2.1 I3.1 I2.2/N5 
@@ -13,4 +14,5 @@
 0000002 100  DD      Some                     N5 Z5 
 0000002 110  JJ      Unconventional           A6.2- 
 0000002 120  NN2     Weapons                  G3 X4.1 
+0000002 121  GE      '                        Z5 
 0000004 001  NULL    **8;7;text               

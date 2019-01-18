@@ -1,7 +1,6 @@
 600-lb                   JJ      Z99 
+Breitbart                NP1     Z99 
 gastronom                NN1     Z99 
-havent                   VV0     Z99 
-isnt                     VV0     Z99 
 Kardashian               JJ      Z99 
 Kardashians              NN2     Z99 
 PBS                      NP1     Z99 

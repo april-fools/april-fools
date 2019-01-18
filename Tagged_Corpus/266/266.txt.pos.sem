@@ -16,7 +16,8 @@
 0000002 140  NP1     Australia                Z2 
 0000002 150  II      over                     Z5 
 0000002 160  AT      the                      Z5 
-0000002 170  NN2     latters                  N4 
+0000002 170  DA      latter                   N4 
+0000002 171  GE      's                       Z5 
 0000002 180  NN1     introduction             T2+ Q4 S1.1.1 
 0000002 190  IO      of                       Z5 
 0000002 200  NN1     internet                 Y2 
@@ -202,7 +203,8 @@
 0000012 290  TO      to                       S6+[i24.2.2 Z5 
 0000012 300  VVI     apply                    Q2.2 A1.5.1 A1.2+ A1.8+ S7.1+ 
 0000012 310  IF      for                      Z5 
-0000012 320  NN2     Visas                    Q1.2 
+0000012 320  NN1     Visa                     Z3c 
+0000012 321  VBZ     's                       A3+ Z5 
 0000012 330  TO      to                       Z5 
 0000012 340  VVI     enter                    M1 S5+ Q1.2 T2+ A1.8+ Y2 
 0000012 350  AT      the                      Z5 
@@ -265,7 +267,8 @@
 0000016 060  IF      for                      Z5 
 0000016 070  NN1     comment                  Q2.1 
 0000016 080  CSA     as                       Z5 
-0000016 090  NN1     theyd                    Z99 
+0000016 090  PPHS2   they                     Z8mfn 
+0000016 091  VHD     'd                       Z5 
 0000016 100  VBN     been                     A3+ Z5 
 0000016 110  JK      unable                   X9.1- 
 0000016 120  TO      to                       Z5 
@@ -281,7 +284,8 @@
 0000016 220  II      across                   Z5 
 0000016 230  AT      the                      Z5 
 0000016 240  JJ      Australian               Z2 
-0000016 250  NN2     Governments              G1.1c 
+0000016 250  NN1     Government               G1.1c 
+0000016 251  GE      's                       Z5 
 0000016 260  NN1     computer                 Y2 
 0000016 270  NN1     network                  S5+c Q4.3 Y2 
 0000016 271  .       .                        

@@ -1,4 +1,4 @@
-TOTAL              413
+TOTAL              416
 the                  Z5                  26 
 and                  Z5                  20 
 in                   Z5                  15 
@@ -8,6 +8,7 @@ movies               Q4.3                 8
 financing            I1                   6 
 of                   Z5                   6 
 its                  Z8                   5 
+'s                   Z5                   5 
 worldwide            W3                   5 
 new                  T3-                  4 
 capital              I1.1                 4 
@@ -20,7 +21,6 @@ dark                 W2-                  3
 Knight               S7.1+                3 
 equity               G2.2+                3 
 debt                 I1.2                 3 
-'s                   Z5                   3 
 by                   Z5                   3 
 made                 A1.1.1               3 
 with                 Z5                   3 
@@ -48,6 +48,7 @@ $1_billion           I1.2                 2
 Warners              Z1                   2 
 game                 K5.1                 2 
 based_on             A2.2                 2 
+'                    Z5                   2 
 updated              T1.1.2               1 
 both                 N5                   1 
 existing             A3+                  1 
@@ -96,14 +97,13 @@ Bradley_Cooper       Z1                   1
 lost'                Z99                  1 
 Google               Z3                   1 
 executive            S7.1+                1 
-Eric                 Z1                   1 
-Schmidts             Z99                  1 
+Eric_Schmidt         Z1                   1 
+'s                   A3+                  1 
 tomorrow             T1.1.3               1 
 ventures             X8+                  1 
 Morgan_Stanley       Z1                   1 
 management           S7.1+                1 
-Peter                Z1                   1 
-Thiels               Z99                  1 
+Peter_Thiel          Z1                   1 
 Thiel                Z99                  1 
 those                Z5                   1 
 who                  Z8                   1 
@@ -252,6 +252,6 @@ mass                 N5+                  1
 effect               A2.2                 1 
 electronic           O3                   1 
 arts                 C1                   1 
-BioWares             Z99                  1 
+BioWare              Z99                  1 
 video                Q4.3                 1 
 franchise            I2.2                 1 

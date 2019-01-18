@@ -1,7 +1,6 @@
 after-market             JJ      Z99 
 Allergan                 NP1     Z99 
 Allergan-Pfizer          NP1     Z99 
-Allergans                NP2     Z99 
 co-sponsor               NN1     Z99 
 drugmaker                NN1     Z99 
 Dublin-based             JJ      Z99 
@@ -16,7 +15,6 @@ Obama                    NN1     Z99
 Pfizer                   NN1     Z99 
 Pfizer                   NP1     Z99 
 Pfizer-Allergan          NP1     Z99 
-Pfizers                  NN2     Z99 
 post-inversion           JJ      Z99 
 Raffat                   NP1@    Z99 
 redomicile               NN1     Z99 

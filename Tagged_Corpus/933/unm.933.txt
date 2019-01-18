@@ -1,4 +1,5 @@
-68ers                    FO      Z99 
+'68ers                   FO      Z99 
+'68ers                   FU      Z99 
 and-still                NN1@    Z99 
 anti-authoritarianism    NN1     Z99 
 anti-democratic          JJ      Z99 
@@ -8,7 +9,6 @@ bi-products              NN2     Z99
 Brandts                  NP2     Z99 
 countercultural          NN1     Z99 
 handful-of               NN1     Z99 
-Im                       VV0     Z99 
 itself-particularly      RR      Z99 
 Kalkar                   NP1     Z99 
 lot-and                  CC      Z99 
@@ -19,7 +19,6 @@ much-but                 CCB     Z99
 NSMs                     NP1     Z99 
 others-incomparably      RR      Z99 
 participatory            JJ      Z99 
-post-68                  JJ      Z99 
 pro-Arab                 JJ      Z99 
 proto-fascist            JJ      Z99 
 rebelsalmost             JJ      Z99 

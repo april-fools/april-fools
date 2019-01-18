@@ -93,8 +93,9 @@
 0000007 001 ----------------------------------------------------
 0000008 010 The                                         93 AT
 0000008 020 aftermath                                   93 NN1
-0000008 030 sparked                                     03 [VVD/99] VVN/1
-0000008 040 Japans                                      04 NP2
+0000008 030 sparked                                     03 [VVD/92] VVN/8
+0000008 040 Japan                     >                 93 NP1
+0000008 041 's                        <                 03 [GE/99] VBZ/1 VHZ@/0
 0000008 050 biggest                                     03 JJT
 0000008 060 humanitarian                                03 JJ
 0000008 070 crisis                                      03 NN1
@@ -114,7 +115,8 @@
 0000008 200 it                                          93 PPH1
 0000008 210 among                                       93 II
 0000008 220 the                                         93 AT
-0000008 230 worlds                                      03 NN2
+0000008 230 world                     >                 93 NN1
+0000008 231 's                        <                 03 [GE/91] VBZ/9 VHZ@/0
 0000008 240 costliest                                   06 JJT
 0000008 250 natural                                     03 [JJ/100] NN1%/0 RR@/0
 0000008 260 disasters                                   93 NN2

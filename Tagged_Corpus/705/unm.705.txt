@@ -2,7 +2,6 @@
 Barack                   VV0     Z99 
 Blago                    NN1     Z99 
 Blagojevich              NP1     Z99 
-Blagojevichs             NP2     Z99 
 bunt                     VV0     Z99 
 Cub-fan                  JJ      Z99 
 editorializing           VVG     Z99 
@@ -19,5 +18,4 @@ primo                    NN1     Z99
 Quinn                    NP1     Z99 
 Sider                    NP1     Z99 
 then-owners              NN2     Z99 
-wouldnt                  VV0     Z99 
 Wrigley                  NP1     Z99 

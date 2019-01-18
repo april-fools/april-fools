@@ -1,4 +1,4 @@
-TOTAL              168
+TOTAL              169
 to                   Z5                   8 
 the                  Z5                   6 
 in                   Z5                   4 
@@ -20,13 +20,14 @@ weapons              G3                   2
 groups               S5+                  2 
 forces               G3                   2 
 you                  Z8                   2 
+it                   Z8                   2 
 while                Z5                   1 
 everyone             Z8                   1 
 was                  A3+                  1 
 busy                 A1.1.1               1 
 reading              Q3                   1 
-Donald               Z1                   1 
-trumps               K5.2                 1 
+Donald_trump         Z1                   1 
+'s                   Z5                   1 
 twitter              Z99                  1 
 President            G1.1                 1 
 did                  A1.1.1               1 
@@ -106,9 +107,8 @@ middle_east          Z2                   1
 decades              T1.3                 1 
 look                 A8                   1 
 where                M6                   1 
-it                   Z8                   1 
 has_gotten           A9+                  1 
-its                  Z8                   1 
+'s                   A3+                  1 
 time                 T1                   1 
 stop                 Z3                   1 
 hopefully            X2.6+                1 

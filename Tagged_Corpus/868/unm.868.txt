@@ -3,6 +3,7 @@ Brexit                   NN1     Z99
 Brexit                   NP1     Z99 
 Brexit                   VV0     Z99 
 Brexiters                NN2     Z99 
+control'                 NN1     Z99 
 full-frontal             JJ      Z99 
 Steinmeier               NP1     Z99 
 Steinmeier               NP1@    Z99 

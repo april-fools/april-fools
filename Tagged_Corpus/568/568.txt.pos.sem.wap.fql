@@ -1,4 +1,4 @@
-TOTAL              921
+TOTAL              925
 and                  CC             50 
 the                  AT             49 
 a                    AT1            23 
@@ -16,6 +16,7 @@ on                   II              7
 what                 DDQ             7 
 to                   II              7 
 they                 PPHS2           6 
+n't                  XX              6 
 his                  APPGE           6 
 for                  IF              6 
 that                 CST             6 
@@ -27,19 +28,20 @@ audience             NN1             5
 did                  VDD             4 
 too                  RR              4 
 were                 VBDR            4 
-have                 VH0             4 
 that                 DD1             4 
 political            JJ              4 
 new                  JJ              4 
-n't                  XX              4 
 has                  VHZ             4 
 now                  RT              4 
+Farage               NP1             4 
+'s                   GE              4 
 who                  PNQS            4 
 black                JJ              4 
 all                  DB              4 
 so                   RG              4 
 said                 VVD             3 
 as                   CSA             3 
+have                 VH0             3 
 be                   VBI             3 
 might                VM              3 
 white                JJ              3 
@@ -52,8 +54,8 @@ politicians          NN2             3
 party                NN1             3 
 by                   II              3 
 female               JJ              3 
+women                NN2             3 
 people               NN              3 
-Farage               NP1             3 
 leader               NN1             3 
 been                 VBN             3 
 about                II              3 
@@ -86,13 +88,11 @@ over                 II              2
 two                  MC              2 
 these_days           DD2             2 
 young                JJ              2 
-women                NN2             2 
+have                 VHI             2 
 most                 RGT             2 
 as                   RG              2 
 man                  NN1             2 
-'s                   GE              2 
 ukip                 NN1             2 
-authenticity         NN1             2 
 just                 RR              2 
 once                 RR              2 
 clever               JJ              2 
@@ -291,13 +291,13 @@ instead_of           II21            1
 mistress             NN1             1 
 ran_off              VVD             1 
 regretting           VVG             1 
-cant                 JJ              1 
+ca                   VM              1 
 approved             VVN             1 
-Farages              NP2             1 
 disgraceful          JJ              1 
 remarks              NN2             1 
 HIV                  NP1             1 
 foreigners           NN2             1 
+'                    GE              1 
 come                 VV0             1 
 health               NN1             1 
 tourists             NN2             1 
@@ -334,13 +334,11 @@ yet                  RR              1
 noticed              VVN             1 
 them                 PPHO2           1 
 seem                 VVI             1 
-have                 VHI             1 
 heard                VVN             1 
 invisibility         NN1             1 
 talent               NN1             1 
 persistent           JJ              1 
 block                NN1             1 
-womens               NN2             1 
 advancement          NN1             1 
 chap                 NN1             1 
 winner               NN1             1 
@@ -365,8 +363,10 @@ mannerisms           NN2             1
 straight-talking_style JJ              1 
 special              JJ              1 
 cult                 NN1             1 
+authenticity'        NN1             1 
 works                VVZ             1 
 book                 NN1             1 
+authenticity         NN1             1 
 con                  NN1             1 
 cultural             JJ              1 
 critic               NN1             1 
@@ -382,7 +382,7 @@ came_away            VVD             1
 thinking             VVG             1 
 that_little_bit      DD1             1 
 someone              PN1             1 
-authentic            JJ              1 
+authentic'           JJ              1 
 enough               RR              1 
 convince             VVI             1 
 many                 DA2             1 
@@ -462,7 +462,6 @@ complained           VVD             1
 tone                 NN1             1 
 attitude             NN1             1 
 do                   VD0             1 
-nt                   XX              1 
 almost               RR              1 
 primitive            JJ              1 
 hatred               NN1             1 

@@ -504,7 +504,8 @@
 0000032 100  NN1     transparency             Q1.2 O4.3 C1 
 0000032 110  VBR     are                      A3+ Z5 
 0000032 120  II      among                    Z5 
-0000032 130  NN2     blockchains              Z99 
+0000032 130  NN1     blockchain               Z99 
+0000032 131  GE      's                       Z5 
 0000032 140  RGT     most                     A13.2 
 0000032 150  JJ      significant              A11.1+ N5+ 
 0000032 160  NN2     benefits                 S8+ I1.1/G1.1 

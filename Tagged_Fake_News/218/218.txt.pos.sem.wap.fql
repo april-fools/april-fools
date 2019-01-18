@@ -1,4 +1,4 @@
-TOTAL              573
+TOTAL              577
 the                  AT             36 
 and                  CC             17 
 a                    AT1            15 
@@ -11,11 +11,11 @@ in                   II              9
 civil_rights         JJ              9 
 to                   TO              7 
 he                   PPHS1           7 
+Jeff                 NP1             6 
 was                  VBDZ            6 
 with                 IW              5 
 Freeh                NP1             5 
 that                 CST             5 
-Jeff                 NP1             5 
 has                  VHZ             5 
 who                  PNQS            4 
 as                   CSA             4 
@@ -23,6 +23,7 @@ on                   II              4
 i                    PPIS1           4 
 said                 VVD             4 
 against              II              4 
+'s                   GE              3 
 under                II              3 
 attorney_general     NN1             3 
 which                DDQ             3 
@@ -31,11 +32,10 @@ rule                 NN1             3
 law                  NN1             3 
 rights               NN2             3 
 lawyer               NN1             3 
+'                    GE              3 
 murders              NN2             3 
 an                   AT1             3 
 support              NN1             2 
-trumps               NN2             2 
-pick                 VV0             2 
 is                   VBZ             2 
 FBI                  NP1             2 
 director             NN1             2 
@@ -83,7 +83,8 @@ act                  VV0             2
 voted                VVN             2 
 campaign             NN1             1 
 rally                VVI             1 
-Donald               NP1             1 
+Donald_trump         NP1             1 
+pick                 VV0             1 
 head                 VVI             1 
 justice_department   NN1             1 
 growing              JJ              1 
@@ -139,6 +140,8 @@ about                II              1
 civil                JJ              1 
 after                II              1 
 announced            VVN             1 
+trump                NN1             1 
+pick                 NN1             1 
 top                  JJ              1 
 democrats            NN2             1 
 groups               NN2             1 
@@ -196,12 +199,11 @@ blocked              VVN             1
 becoming             VVG             1 
 Tuesday              NPD1            1 
 pointed              VVD             1 
-work                 VV0             1 
+work                 NN1             1 
 naacp                NN1             1 
 official             NN1             1 
 Georgia              NP1             1 
 struck               VVN             1 
-Jeffs                NP2             1 
 fierce               JJ              1 
 determination        NN1             1 
 solve                VVI             1 
@@ -231,7 +233,6 @@ created              VVN             1
 entire               JJ              1 
 devoted              VVD             1 
 pushing              VVG             1 
-'                    GE              1 
 world-class          JJ              1 
 mind                 NN1             1 
 tough                JJ              1 

@@ -229,7 +229,8 @@
 0000008 160  NN1     percentage               N5 
 0000008 170  IO      of                       Z5 
 0000008 180  DD1     each                     N5.1+ 
-0000008 190  NN2     countrys                 G1.1c W3 F4/M7 K2 
+0000008 190  NN1     country                  G1.1c W3 F4/M7 K2 
+0000008 191  GE      's                       Z5 
 0000008 200  NN1     population               S2/N5c 
 0000008 210  CST     that                     Z8 Z5 
 0000008 220  VVZ     belongs                  A9+ A1.2+ S5+ 
@@ -401,7 +402,8 @@
 0000012 320  MF      three-quarters           N5 
 0000012 330  IO      of                       Z5 
 0000012 340  AT      the                      Z5 
-0000012 350  NN2     worlds                   W1 S5+c A4.1 N5+ 
+0000012 350  NN1     world                    W1 S5+c A4.1 N5+ 
+0000012 351  GE      's                       Z5 
 0000012 360  NN1     population               S2/N5c 
 0000012 361  .       .                        
 0000012 362  -----   -----                    
@@ -472,7 +474,7 @@
 0000012 900  II21    such                     Z5[i16.2.1 
 0000012 910  II22    as                       Z5[i16.2.2 Z5 
 0000012 920  AT      the                      Z5 
-0000012 930  JJ      Bahai                    Z99 
+0000012 930  JJ      Baha'i                   Z2 
 0000012 940  NN1     faith                    E6+ S9 X2.1 
 0000012 941  ,       ,                        
 0000012 950  NN1     Jainism                  S9 
@@ -904,7 +906,8 @@
 0000026 040  NN1     percentage               N5 
 0000026 050  IO      of                       Z5 
 0000026 060  DD1     each                     N5.1+ 
-0000026 070  NN2     countrys                 G1.1c W3 F4/M7 K2 
+0000026 070  NN1     country                  G1.1c W3 F4/M7 K2 
+0000026 071  GE      's                       Z5 
 0000026 080  NN1     population               S2/N5c 
 0000026 090  CST     that                     Z8 Z5 
 0000026 100  VVZ     belongs                  A9+ A1.2+ S5+ 
@@ -1056,7 +1059,8 @@
 0000028 350  AT1     a                        Z5 
 0000028 360  MD      third                    N4 N5 N1 
 0000028 370  IO      of                       Z5 
-0000028 380  NP2     Singapores               Z2 
+0000028 380  NP1     Singapore                Z2 
+0000028 381  GE      's                       Z5 
 0000028 390  NN1     population               S2/N5c 
 0000028 400  VBZ     is                       A3+ Z5 
 0000028 410  JJ      Buddhist                 S9 
@@ -1071,22 +1075,3 @@
 0000028 461  ,       ,                        
 0000028 470  NNU     16%                      N5 
 0000028 480  VBR     are                      A3+ Z5 
-0000028 490  RR      religiously              S9 X5.1+ 
-0000028 500  JJ      unaffiliated             Z99 
-0000028 501  ,       ,                        
-0000028 510  NNU     14%                      N5 
-0000028 520  VBR     are                      A3+ Z5 
-0000028 530  JJ      Muslim                   S9 
-0000028 531  ,       ,                        
-0000028 540  NNU     5%                       N5 
-0000028 550  VBR     are                      A3+ Z5 
-0000028 560  JJ      Hindu                    S9 
-0000028 570  CC      and                      Z5 
-0000028 571  NULL    **2035;7;1%              
-0000028 580  AT      The                      Z5 
-0000028 590  JJ      Global                   Z3c 
-0000028 600  JJ      Religious                S9 
-0000028 610  NN1     Landscape                W3 C1 M6 
-0000028 611  .       .                        
-0000028 612  NULL    </quote>                 
-0000030 001  NULL    **8;2043;text            

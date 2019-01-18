@@ -1,26 +1,26 @@
-TOTAL              332
+TOTAL              336
 the                  AT             16 
 a                    AT1            10 
 to                   TO              8 
+it                   PPH1            8 
 and                  CC              8 
 with                 IW              7 
-it                   PPH1            7 
 to                   II              6 
+Elfman               NP1             6 
 composer             NN1             5 
 in                   II              5 
-Elfman               NP1             5 
 for                  IF              5 
 will                 VM              5 
 McG                  NP1             4 
+i                    PPIS1           4 
 music                NN1             4 
+score                NN1             3 
 that                 DD1             3 
 ukulele              NN1             3 
-i                    PPIS1           3 
 of                   IO              3 
 Danny_Elfman         NP1             2 
 recently             RR              2 
 recorded             VVD             2 
-score                NN1             2 
 at                   II              2 
 Sony                 NP1             2 
 scoring              NN1             2 
@@ -43,6 +43,7 @@ was                  VBDZ            2
 said                 VVD             2 
 but                  CCB             2 
 love                 VV0             2 
+we                   PPIS2           2 
 Warner               NP1             2 
 brothers             NN2             2 
 Rahman               NP1             2 
@@ -115,7 +116,7 @@ overdubs             NN2             1
 over_17              RG              1 
 days                 NNT2            1 
 March                NPM1            1 
-its                  APPGE           1 
+'s                   VBZ             1 
 tiring               JJ              1 
 work                 NN1             1 
 George               NP1             1 
@@ -124,7 +125,6 @@ guitarist            NN1             1
 plays                VVZ             1 
 as                   CSA             1 
 watches              VVZ             1 
-we                   PPIS2           1 
 can                  VM              1 
 confirm              VVI             1 
 indeed               RR              1 
@@ -157,7 +157,7 @@ sound_effects        NN1             1
 add                  VVI             1 
 human                JJ              1 
 drama                NN1             1 
-im                   NN1             1 
+'m                   VBM             1 
 trying               VVG             1 
 convey               VVI             1 
 discuss              VV0             1 
@@ -196,11 +196,10 @@ has                  VHZ             1
 us                   PPIO2           1 
 photo                NN1             1 
 for                  CS              1 
-weve                 VV0             1 
+'ve                  VH0             1 
 also                 RR              1 
 been                 VBN             1 
 clip                 NN1             1 
-elfmans              NN2             1 
-score                VV0             1 
+'s                   GE              1 
 available            JJ              1 
 below                RL              1 

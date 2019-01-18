@@ -10,4 +10,4 @@ re-enter                 VV0     Z99
 rumor                    NN1     Z99 
 Russian-earned           JJ      Z99 
 Saakashvili              NP1     Z99 
-Tbilisis                 NP2     Z99 
+Tbilisi                  NP1     Z99 

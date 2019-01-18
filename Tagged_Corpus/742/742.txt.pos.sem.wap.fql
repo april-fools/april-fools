@@ -1,4 +1,4 @@
-TOTAL              428
+TOTAL              429
 the                  AT             27 
 and                  CC             16 
 a                    AT1             9 
@@ -17,11 +17,12 @@ there                EX              4
 video                NN1             4 
 app                  NN1             3 
 was                  VBDZ            3 
+iphone               NN1             3 
 now                  RT              3 
 into                 II              3 
 its                  APPGE           3 
 will                 VM              3 
-new                  JJ              2 
+'s                   GE              2 
 Meerkat              NP1             2 
 which                DDQ             2 
 by                   II              2 
@@ -40,7 +41,6 @@ through              II              2
 live-streaming       JJ              2 
 several              DA2             2 
 an                   AT1             2 
-iphone               NN1             2 
 your                 APPGE           2 
 as                   CSA             2 
 also                 RR              2 
@@ -55,9 +55,9 @@ loving               VVG             1
 good                 JJ              1 
 gadget               NN1             1 
 last_week            MD              1 
+new                  JJ              1 
 launched             VVN             1 
-apples               NN2             1 
-iphone               VV0             1 
+apple                NN1             1 
 direct               JJ              1 
 competition          NN1             1 
 similar              JJ              1 
@@ -106,7 +106,7 @@ effect               NN1             1
 during               II              1 
 fire                 NN1             1 
 broke_out            VVD             1 
-Yorks                NP1             1 
+New_York             NP1             1 
 east_Village         ND1             1 
 last                 MD              1 
 crowd                NN1             1 

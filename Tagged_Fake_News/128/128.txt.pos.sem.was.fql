@@ -1,29 +1,31 @@
-TOTAL             1085
+TOTAL             1097
 the                  Z5                  53 
 to                   Z5                  41 
 of                   Z5                  34 
 a                    Z5                  24 
 is                   A3+                 23 
+trump                Z1                  19 
 and                  Z5                  19 
-trump                Z1                  16 
 you                  Z8                  16 
 but                  Z5                  15 
 in                   Z5                  14 
 not                  Z6                  13 
+it                   Z8                  13 
 your                 Z8                  12 
 that                 Z8                  11 
 can                  A7+                 11 
 that                 Z5                  11 
-it                   Z8                  11 
 as                   Z5                  10 
 for                  Z5                  10 
+'s                   Z5                   8 
 we                   Z8                   8 
+i                    Z8                   7 
 have                 Z5                   7 
-i                    Z8                   6 
 about                Z5                   6 
 too                  N5++                 6 
 by                   Z5                   6 
 time                 T1                   6 
+party                K1                   6 
 on                   Z5                   5 
 just                 A14                  5 
 this                 M6                   5 
@@ -32,7 +34,8 @@ they                 Z8                   5
 will                 T1.1.3               5 
 us                   Z8                   4 
 how                  Z5                   4 
-trumps               K5.2                 4 
+Hitler               Z1                   4 
+Donald_trump         Z1                   4 
 country              G1.1                 4 
 evil                 G2.2-                4 
 she                  Z8                   4 
@@ -41,14 +44,14 @@ are                  Z5                   4
 are                  A3+                  4 
 yes                  Z4                   4 
 be                   A3+                  4 
+he                   Z8                   4 
+'s                   A3+                  4 
 republicans          G1.2                 4 
 our                  Z8                   4 
-party                K1                   4 
 if                   Z7                   4 
 like                 Z5                   3 
 any                  N5.1+                3 
 my                   Z8                   3 
-Hitler               Z1                   3 
 rise                 N5+                  3 
 now                  T1.1.2               3 
 understand           X2.5+                3 
@@ -61,11 +64,9 @@ one                  Z8                   3
 both                 N5                   3 
 what                 Z8                   3 
 republican           G1.2                 3 
-he                   Z8                   3 
 draw                 C1                   3 
 bright               O4.3                 3 
 line                 O4.4                 3 
-Donald_trump         Z1                   3 
 primary              G1.2                 3 
 has                  A9+                  3 
 this                 Z8                   3 
@@ -76,7 +77,6 @@ across               Z5                   3
 moment               T1.2                 3 
 has                  Z5                   3 
 right                A5.3+                3 
-its                  Z8                   3 
 do                   A1.1.1               3 
 nominee              X7+                  3 
 support              S8+                  3 
@@ -91,6 +91,7 @@ banality             X5.2-                2
 doing                A1.1.1               2 
 yet                  T1.1.2               2 
 act                  A1.1.1               2 
+arendt               Z99                  2 
 second               N4                   2 
 powerful             S7.1+                2 
 book                 Q4.1                 2 
@@ -150,7 +151,6 @@ need                 S6+                  2
 no                   Z6                   2 
 Rubio                Z99                  2 
 pledge               A7+                  2 
-partys               K1                   2 
 together             S5+                  2 
 democracy            G1.2                 2 
 nor                  Z6                   2 
@@ -165,7 +165,6 @@ could                A7+                  1
 power                S7.1+                1 
 Germany              Z2                   1 
 watching             X3.4                 1 
-Donald               Z1                   1 
 aside                M6                   1 
 whether              Z5                   1 
 direct               M6                   1 
@@ -190,7 +189,6 @@ cogs                 O2                   1
 wheel                O2                   1 
 murderous            G2.1-                1 
 machine              O2                   1 
-arendt               Z99                  1 
 offered              A9-                  1 
 answer               Q2.2                 1 
 small                N3.2-                1 
@@ -201,7 +199,6 @@ times                Z3                   1
 described            Q2.2                 1 
 those                Z5                   1 
 thought              X2.1                 1 
-Hitlers              Z1                   1 
 chose                X7+                  1 
 staying              M8                   1 
 invisible            X3.4-                1 
@@ -247,7 +244,7 @@ comments             Q2.1                 1
 things               O2                   1 
 true                 A5.2+                1 
 does                 Z5                   1 
-nt                   S9                   1 
+n't                  Z6                   1 
 mean                 Q1.1                 1 
 megaphone            K3                   1 
 perhaps              A7                   1 
@@ -278,7 +275,7 @@ wants                X7+                  1
 broadcast            Q4.3                 1 
 foul                 O4.2-                1 
 incendiary           G3                   1 
-hell                 S9                   1 
+'ll                  T1.1.3               1 
 still                T2++                 1 
 plenty               N5+                  1 
 access               M1                   1 
@@ -290,7 +287,6 @@ play                 K1                   1
 video1:01            Z99                  1 
 Feb._20              T1.3                 1 
 here                 M6                   1 
-'s                   A3+                  1 
 Peter                Z1                   1 
 stevenson/the_Washington Z2                   1 
 post                 Q1.2                 1 
@@ -321,12 +317,11 @@ over                 Z5                   1
 past                 T1.1.1               1 
 few                  N5-                  1 
 months               T1.3                 1 
-Ive                  Z99                  1 
+'ve                  Z5                   1 
 learned              X2.3+                1 
 something            Z8                   1 
 goes                 M1                   1 
 beyond               Z5                   1 
-Arendts              Z99                  1 
 feelings             X2.1                 1 
 impotence            Z99                  1 
 face                 B1                   1 
@@ -392,11 +387,12 @@ as_well              N5++                 1
 express              Q1.1                 1 
 commitment           S6+                  1 
 good                 A5.1+                1 
+its                  Z8                   1 
 founding             T2+                  1 
 ideals               X4.1                 1 
 care                 E6-                  1 
 future               T1.1.3               1 
-theres               Z5                   1 
+there                Z5                   1 
 little               N3.2-                1 
 wind                 W4                   1 
 sails                M4                   1 

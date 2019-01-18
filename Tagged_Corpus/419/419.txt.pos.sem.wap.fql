@@ -1,22 +1,22 @@
-TOTAL              215
+TOTAL              219
 the                  AT             14 
 and                  CC              7 
 to                   TO              7 
+player               NN1             6 
 a                    AT1             5 
-player               NN1             5 
 right-footed         JJ              5 
-players              NN2             5 
+it                   PPH1            5 
 left-footed          JJ              4 
 for                  IF              4 
+players              NN2             4 
 Arsenal              NP1             3 
 club                 NN1             3 
+puma                 NN1             3 
 first                MD              3 
 football             NN1             3 
 was                  VBDZ            3 
-it                   PPH1            3 
 left                 JJ              3 
 two-footed           JJ              3 
-puma                 NN1             2 
 have                 VH0             2 
 evopower             NN1             2 
 this                 DD1             2 
@@ -29,9 +29,10 @@ with                 IW              2
 just                 RR              2 
 were                 VBDR            2 
 ball                 NN1             2 
-its                  APPGE           2 
+'s                   VBZ             2 
 said                 VVD             2 
 foot                 NN1             2 
+'s                   GE              2 
 has                  VHZ             2 
 football_club        NN1             1 
 official             JJ              1 
@@ -105,7 +106,6 @@ speaking             VVG             1
 about                II              1 
 launch               NN1             1 
 Keith_Woods          NP1             1 
-pumas                NN2             1 
 senior               JJ              1 
 product              NN1             1 
 line_manager         NN1             1 

@@ -7,4 +7,5 @@
 0000002 050  NN1     Shop                     I2.2/H1c I4/H1c I2.2 I3.1 
 0000002 060  IO      of                       Z5 
 0000002 070  NN2     Horrors                  E5- O4.2- G2.2-/S2mf 
+0000002 071  GE      '                        Z5 
 0000004 001  NULL    **8;7;text               

@@ -1,25 +1,27 @@
-TOTAL              158
+TOTAL              162
 the                  AT             12 
 party                NN1            10 
 to                   TO              7 
+is                   VBZ             5 
 his                  APPGE           4 
-is                   VBZ             4 
 political            JJ              4 
+W.K.                 NP1             4 
 of                   IO              3 
 with                 IW              3 
 but                  CCB             3 
-W.K.                 NP1             3 
 a                    AT1             3 
 an                   AT1             3 
 everyone             PN1             2 
 that                 CST             2 
 he                   PPHS1           2 
+'s                   VBZ             2 
 be                   VBI             2 
 in                   II              2 
 world                NN1             2 
 and                  CC              2 
+'s                   GE              2 
 just                 RR              2 
-its                  APPGE           2 
+it                   PPH1            2 
 make                 VVI             2 
 like                 II              1 
 many                 DA2             1 
@@ -34,8 +36,7 @@ makes                VVZ             1
 different            JJ              1 
 from                 II              1 
 else                 RR              1 
-s                    VBZ             1 
-willing              JJ              1 
+willing              JK              1 
 change               NN1             1 
 wants                VVZ             1 
 see                  VVI             1 
@@ -58,10 +59,10 @@ offers               NN2             1
 hope                 VV0             1 
 for                  IF              1 
 disillusioned        VVN             1 
-Americas             NP2             1 
+America              NP1             1 
 current              JJ              1 
 landscape            NN1             1 
-isnt                 VV0             1 
+n't                  XX              1 
 official             JJ              1 
 yet                  RR              1 
 claims               VVZ             1 
@@ -72,11 +73,10 @@ relevant             JJ              1
 paperwork            NN1             1 
 secretary_of_state   NN1             1 
 get_the_ball_rolling VVI             1 
-up_to                II21            1 
+'s_up_to             VBZ             1 
 party-loving         JJ              1 
 believers            NN2             1 
-W.K.s                NP1             1 
-dream                VVI             1 
+dream                NN1             1 
 reality              NN1             1 
 supporters           NN2             1 
 can                  VM              1 
@@ -89,7 +89,7 @@ though               CS              1
 probably             RR              1 
 elaborate            JJ              1 
 joke                 NN1             1 
-still                JJ              1 
+still                RR              1 
 refreshing           JJ              1 
 imagine              VVI             1 
 where                CS              1 

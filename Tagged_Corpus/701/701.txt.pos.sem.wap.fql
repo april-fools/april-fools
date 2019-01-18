@@ -1,9 +1,10 @@
-TOTAL              279
+TOTAL              283
 and                  CC             16 
 the                  AT             10 
-data                 NN              8 
+data                 NN              9 
 technology           NN1             8 
 a                    AT1             8 
+'s                   GE              6 
 to                   TO              5 
 first                MD              5 
 in                   II              5 
@@ -28,13 +29,14 @@ as                   CSA             3
 micro-modules        NN2             2 
 executive            NN1             2 
 responsible          JJ              2 
-'s                   GE              2 
+Mike                 NP1             2 
 his                  APPGE           2 
 with                 IW              2 
 said                 VVD             2 
 position             NN1             2 
 grow                 VVI             2 
 as                   II              2 
+AOL                  NP1             2 
 also                 RR              2 
 center               NN1             2 
 new                  JJ              2 
@@ -58,7 +60,6 @@ report               NN1             1
 directly             RR              1 
 president            NN1             1 
 Guy_Chiarello        NP1             1 
-Mike                 NP1             1 
 key                  JJ              1 
 addition             NN1             1 
 world-class          JJ              1 
@@ -78,14 +79,12 @@ track_record         NN1             1
 successful           JJ              1 
 revenue              NN1             1 
 generation           NN1             1 
-Mikes                NP2             1 
 invaluable           JJ              1 
 we                   PPIS2           1 
 continue             VV0             1 
 improve              VVI             1 
 financial            JJ              1 
 seek                 VVI             1 
-datas                NN2             1 
 business             NN1             1 
 leader               NN1             1 
 most                 RGT             1 
@@ -97,7 +96,6 @@ past                 JJ              1
 three                MC              1 
 years                NNT2            1 
 served               VVD             1 
-aols                 VVZ             1 
 aol                  NN1             1 
 brands               NN2             1 
 group                NN1             1 
@@ -117,12 +115,11 @@ Nokia                NP1             1
 digital              JJ              1 
 realty               NN1             1 
 trust                NN1             1 
-Microsofts           NP2             1 
+Microsoft            NP1             1 
 global_foundation    JJ              1 
 services             NN2             1 
 during               II              1 
 tenure               NN1             1 
-AOL                  NP1             1 
 brought              VVD             1 
 innovations          NN2             1 
 retiring             VVG             1 

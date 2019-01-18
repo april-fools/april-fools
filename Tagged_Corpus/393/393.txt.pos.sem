@@ -18,7 +18,8 @@
 0000002 130  II      like                     X7+[i3.2.2 Z5 
 0000002 140  DD1     that                     Z8 Z5 
 0000002 150  CS      if                       Z7 
-0000002 160  VV0     youre                    Z99 
+0000002 160  PPY     you                      Z8mf 
+0000002 161  VBR     're                      A3+ Z5 
 0000002 170  AT1     a                        Z5 
 0000002 180  JJ      keen                     X5.2+ X9.1+ 
 0000002 190  NN1     believer                 X2.1/S2mf S9/S2mf 
@@ -31,7 +32,8 @@
 0000002 250  VVN     frustrated               S8- 
 0000002 260  II      by                       Z5 
 0000002 270  AT      the                      Z5 
-0000002 280  NP2     EUs                      Z3c Z2 
+0000002 280  NP1     EU                       Z3c Z2 
+0000002 281  GE      's                       Z5 
 0000002 290  NN1     lack                     A9- 
 0000002 300  IO      of                       Z5 
 0000002 310  JJ      military                 G3 
@@ -147,7 +149,8 @@
 0000004 540  CC      and                      Z5 
 0000004 550  AT      the                      Z5 
 0000004 560  JJ      European                 Z3 
-0000004 570  NN2     Commissions              A1.1.1 I1.1/I2.2 G1.1 G3/S7.1+ 
+0000004 570  NN1     Commission               A1.1.1 I1.1/I2.2 G1.1 G3/S7.1+ 
+0000004 571  GE      's                       Z5 
 0000004 580  NN1     enterprise               I2.1 X8+ 
 0000004 590  NN1     directorate              S7.1+/S5+c 
 0000004 591  ,       ,                        
@@ -197,7 +200,8 @@
 0000006 310  TO      to                       Z5 
 0000006 320  VVI     boost                    S8+ 
 0000006 330  AT      the                      Z5 
-0000006 340  NN2     unions                   I3.1/S5+ S5+ S4 
+0000006 340  NN1     union                    I3.1/S5+c S5+c S4 Z3c 
+0000006 341  GE      's                       Z5 
 0000006 350  NN1     lackluster               Z99 
 0000006 360  JJ      military                 G3 
 0000006 370  NN2     capabilities             X9.1+ 
@@ -263,10 +267,12 @@
 0000015 010  NN      Media                    Q4c 
 0000015 020  VV0     Call                     Q2.2 S1.1.1 Q1.3 S9% 
 0000015 021  :       :                        
-0000015 030  NP2     Turkeys                  Z2 
+0000015 030  NP1     Turkey                   Z2 
+0000015 031  GE      's                       Z5 
 0000015 040  JJ      Attempted                X8+ 
 0000015 050  NN1     Coup                     G1.2 
-0000016 010  NN2     Steinmeiers              Z99 
+0000016 010  NP1     Steinmeier               Z99 
+0000016 011  GE      's                       Z5 
 0000016 020  JJ      Tragic                   E4.1- 
 0000016 030  NN1     Dance                    K1 
 0000016 040  II      Around                   Z5 
@@ -357,8 +363,9 @@
 0000025 031  :       :                        
 0000025 040  CS      since                    Z5 
 0000025 050  NN2     governments              G1.1c 
-0000025 060  NN1     wont                     A6.2+ 
-0000025 070  VV0     buy                      I2.2 
+0000025 060  VM      wo                       T1.1.3 
+0000025 061  XX      n't                      Z6 
+0000025 070  VVI     buy                      I2.2 
 0000025 080  AT      the                      Z5 
 0000025 090  NP1     EU                       Z3c Z2 
 0000025 100  APPGE   its                      Z8[i16.2.1 Z8 
@@ -384,7 +391,8 @@
 0000025 270  AT1     a                        Z5 
 0000025 280  NN1     consortium               S5+c 
 0000025 290  IO      of                       Z5 
-0000025 300  NP2     Europes                  Z2 
+0000025 300  NP1     Europe                   Z2 
+0000025 301  GE      's                       Z5 
 0000025 310  NN2     capitalists              I1.1/G1.2 
 0000025 311  ,       ,                        
 0000025 320  PNQS    who                      Z8 
@@ -401,7 +409,8 @@
 0000025 430  CC      and                      Z5 
 0000025 440  VVI     defend                   S8+ G3 G2.1c Q2.2 K5.1 S7.3+ 
 0000025 450  AT      the                      Z5 
-0000025 460  NN2     continents               W3 
+0000025 460  NN1     continent                W3 
+0000025 461  GE      's                       Z5 
 0000025 470  NN1     business                 I2.1 A1.1.1 A5.1+++ 
 0000025 480  NN2     interests                X5.2+ I1.1 S8+ S1.1.3+ 
 0000025 490  II      around                   Z5 
@@ -416,7 +425,8 @@
 0000027 040  AT      the                      Z5 
 0000027 050  NN1     poke                     E3- A1.1.1 
 0000027 060  II      at                       Z5 
-0000027 070  NP2     NATOs                    Z3c 
+0000027 070  NP1     NATO                     Z3c 
+0000027 071  GE      's                       Z5 
 0000027 080  JJ@     Smart                    O4.2+ X9.1+ S1.2.6+ 
 0000027 090  NN1     Defense                  S8+ G3 G2.1c Q2.2 K5.1 S7.3+ P1 
 0000027 100  NN1     initiative               A1.1.1 X5.2+ 
@@ -585,7 +595,8 @@
 0000031 300  VVI     put                      M2 Q2.1 Q2.2 A1.1.1 
 0000031 310  AT      the                      Z5 
 0000031 320  NP1     EU                       Z3c Z2 
-0000031 330  NN2     flotillas                Z99 
+0000031 330  NN1     flotilla                 Z99 
+0000031 331  GE      's                       Z5 
 0000031 340  JJ      naval                    M4/M7c[i25.2.1 M4 
 0000031 350  NN1     base                     M4/M7c[i25.2.2 M7 T2+ A1.1.1 O1 K5.1@ B1% 
 0000031 351  ,       ,                        
@@ -628,7 +639,8 @@
 0000033 110  TO      to                       Z5 
 0000033 120  VVI     cover                    A10- M1 N3.6 S8+ I1.1 A1.8+ N5 Q2.1 A1.1.1 
 0000033 130  AT      the                      Z5 
-0000033 140  NN2     unions                   I3.1/S5+ S5+ S4 
+0000033 140  NN1     union                    I3.1/S5+c S5+c S4 Z3c 
+0000033 141  GE      's                       Z5 
 0000033 150  JJ      southern                 M6 
 0000033 160  NN1     flank                    N1 M6 G3 
 0000033 161  .       .                        
@@ -646,7 +658,8 @@
 0000033 270  TO      to                       Z5 
 0000033 280  VVI     support                  S8+ A1.1.1 K5.1 I1.1 A10+ 
 0000033 290  AT      the                      Z5 
-0000033 300  NP2     EUs                      Z3c Z2 
+0000033 300  NP1     EU                       Z3c Z2 
+0000033 301  GE      's                       Z5 
 0000033 310  NN1     border                   M7/G1.1 O2 B5 L3/H3 
 0000033 320  NN1     agency                   I2.2/S5+c G1.1c 
 0000033 321  ,       ,                        
@@ -696,13 +709,16 @@
 0000035 130  NN1     scheme                   X7+ X4.2 
 0000035 131  ,       ,                        
 0000035 140  CCB     but                      Z5 
-0000035 150  NP2     Germanys                 Z2 
+0000035 150  NP1     Germany                  Z2 
+0000035 151  GE      's                       Z5 
 0000035 160  NP1     Siemens                  Z3c 
 0000035 161  ,       ,                        
-0000035 170  NP2     Spains                   Z2 
+0000035 170  NP1     Spain                    Z2 
+0000035 171  GE      's                       Z5 
 0000035 180  NP1     Telefnica                Z99 
 0000035 181  ,       ,                        
-0000035 190  NP2     Italys                   Z2 
+0000035 190  NP1     Italy                    Z2 
+0000035 191  GE      's                       Z5 
 0000035 200  NN1     ENI                      Z99 
 0000035 201  ,       ,                        
 0000035 210  CC      and                      Z5 
@@ -836,11 +852,13 @@
 0000037 550  NN2     donations                A9- 
 0000037 560  IW      with                     Z5 
 0000037 570  NN2     taxpayers                I1.1/S2mf 
+0000037 571  GE      '                        Z5 
 0000037 580  NN1     money                    I1 
 0000037 581  .       .                        
 0000038 001  -----   -----                    
 0000039 010  AT      The                      Z5 
-0000039 020  NP2     EUs                      Z3c Z2 
+0000039 020  NP1     EU                       Z3c Z2 
+0000039 021  GE      's                       Z5 
 0000039 030  JJ      military                 G3 
 0000039 040  NN      staff                    I3.1/S2mfc B3/S2mf G3/S2c L2mfn I3.1 
 0000039 050  VM      would                    A7+ 
@@ -858,7 +876,8 @@
 0000039 160  CST     that                     Z5 Z8 
 0000039 170  RR      currently                T1.1.2 
 0000039 180  NN2     hosts                    S2mf B1@ Y2@ S9% 
-0000039 190  NP2     Belgiums                 Z2 
+0000039 190  NP1     Belgium                  Z2 
+0000039 191  GE      's                       Z5 
 0000039 200  JJ      Royal                    S7.1+ 
 0000039 210  NN1     Museum                   T1.1.1/H1c A10+/H1c 
 0000039 220  IF      for                      Z5 
@@ -906,7 +925,8 @@
 0000039 560  NN2     analyses                 X2.4 Y1 
 0000039 570  II      into                     Z5 
 0000039 580  AT      the                      Z5 
-0000039 590  NP2     EUs                      Z3c Z2 
+0000039 590  NP1     EU                       Z3c Z2 
+0000039 591  GE      's                       Z5 
 0000039 600  JJ      military                 G3 
 0000039 610  NN1     planning                 X7+ 
 0000039 620  NN2     structures               O4.1 H1 S7.1 O2 A4.1 X4.2 B1 
@@ -1163,7 +1183,7 @@
 0000045 411  ,       ,                        
 0000045 420  JJ      morbid                   O4.2- 
 0000045 430  NN1     raison                   Z99 
-0000045 440  NN1     dtre                     Z99 
+0000045 440  NN1     d'tre                    Z99 
 0000045 441  .       .                        
 0000045 442  NULL    </quote>                 
 0000045 443  -----   -----                    
@@ -1204,7 +1224,8 @@
 0000047 281  ,       ,                        
 0000047 282  NULL    <quote>                  
 0000047 283  -----   -----                    
-0000047 290  NN2     Theres                   Z5 M6 T1.2 
+0000047 290  EX      There                    Z5 
+0000047 291  VBZ     's                       A3+ Z5 
 0000047 300  AT      no                       Z6 
 0000047 310  NN1     doubt                    A7- 
 0000047 320  CST     that                     Z8 Z5 
@@ -1228,29 +1249,31 @@
 0000047 461  ,       ,                        
 0000047 470  VV0     look                     X3.4[i51.2.1 X2.4[i51.2.1 X2.1[i51.2.1 A8 X3.4 X2.4 X7+ Z4 
 0000047 480  II      at                       X3.4[i51.2.2 X2.4[i51.2.2 X2.1[i51.2.2 Z5 
-0000047 490  MD      last                     P1/S2mf[i52.2.1 N4 
-0000047 500  NNT2    years                    P1/S2mf[i52.2.2 T1.3 
+0000047 490  MD      last                     T1.1.1[i53.2.1 N4 T1.3[i52.2.1 P1/S2mf[i52.2.1 
+0000047 500  NNT1    year                     T1.1.1[i53.2.2 T1.3 P1c T1.3[i52.2.2 P1/S2mf[i52.2.2 
+0000047 501  GE      's                       Z5 
 0000047 510  NP1     EU                       Z3c Z2 
 0000047 520  NN1     defense                  S8+ G3 G2.1c Q2.2 K5.1 S7.3+ P1 
 0000047 530  NN1     summit                   W3 N5.1+ S1.1.3+ 
 0000047 531  .       .                        
 0000047 532  -----   -----                    
 0000047 540  RR      Maybe                    A7 
-0000047 550  RR      well                     A5.1+ A13.3 A7+ B2+ Z4 
-0000047 560  VV0     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000047 550  PPIS2   we                       Z8 
+0000047 551  VM      'll                      T1.1.3 
+0000047 560  VVI     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
 0000047 570  AT1     a                        Z5 
 0000047 580  JJR     better                   A5.1++ G2.2++ O4.2++ 
 0000047 590  CC      and                      Z5 
-0000047 600  JJR     stronger                 Z2[i53.2.1 Z3c[i53.2.1 Z1mf[i53.2.1 S1.2.5++ N5++ A5.1++ X5.2++ S7.1++ X9.1++ O4.1 S1.2.3++ 
-0000047 610  NP1     EU                       Z2[i53.2.2 Z3c[i53.2.2 Z1mf[i53.2.2 
+0000047 600  JJR     stronger                 Z2[i54.2.1 Z3c[i54.2.1 Z1mf[i54.2.1 S1.2.5++ N5++ A5.1++ X5.2++ S7.1++ X9.1++ O4.1 S1.2.3++ 
+0000047 610  NP1     EU                       Z2[i54.2.2 Z3c[i54.2.2 Z1mf[i54.2.2 
 0000047 620  JJ      foreign                  M7 
 0000047 630  NN1     policy                   X7+ Q1.2 
 0000047 640  CS      if                       Z7 
 0000047 650  PPIS2   we                       Z8 
-0000047 660  VV0     make                     X9.2+[i54.2.1 M1[i54.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
-0000047 670  PPH1    it                       X9.2+[i54.2.2 M1[i54.2.2 Z8 
-0000047 680  RR21    a                        A13.6[i55.2.1 A13.7[i55.2.1 
-0000047 690  RR22    bit                      A13.6[i55.2.2 A13.7[i55.2.2 
+0000047 660  VV0     make                     X9.2+[i55.2.1 M1[i55.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000047 670  PPH1    it                       X9.2+[i55.2.2 M1[i55.2.2 Z8 
+0000047 680  RR21    a                        A13.6[i56.2.1 A13.7[i56.2.1 
+0000047 690  RR22    bit                      A13.6[i56.2.2 A13.7[i56.2.2 
 0000047 700  RRR     more                     A13.3 N6++ 
 0000047 710  II      about                    Z5 
 0000047 720  NN2     guns                     G3 O2 
@@ -1258,8 +1281,8 @@
 0000047 740  NN1     butter                   F1 
 0000047 741  ,       ,                        
 0000047 750  XX      not                      Z6 
-0000047 760  RR21    just                     A13.4[i56.2.1 A14 T3--- T1.3- N3.3--- 
-0000047 770  RR22    about                    A13.4[i56.2.2 
+0000047 760  RR21    just                     A13.4[i57.2.1 A14 T3--- T1.3- N3.3--- 
+0000047 770  RR22    about                    A13.4[i57.2.2 
 0000047 780  NN2     values                   A11.1+ I1.3 G2.2 A4.1 N1 
 0000047 781  .       .                        
 0000047 782  NULL    </quote>                 

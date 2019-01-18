@@ -1,4 +1,4 @@
-TOTAL             1000
+TOTAL             1004
 the                  Z5                  86 
 to                   Z5                  30 
 of                   Z5                  28 
@@ -9,8 +9,8 @@ a                    Z5                  15
 that                 Z8                  12 
 US                   Z8                  12 
 markets              I2.2                11 
+world                W1                  10 
 be                   A3+                  9 
-world                W1                   9 
 capital              I1.1                 9 
 should               S6+                  8 
 it                   Z8                   8 
@@ -89,9 +89,11 @@ little               N5-                  2
 much                 N5+                  2 
 excesses             N5.2+                2 
 especially           A14                  2 
+'                    Z5                   2 
 went                 M1                   2 
 these                Z5                   2 
 dollar               I1                   2 
+'s                   Z5                   2 
 reserve              A9+                  2 
 meant                Q1.1                 2 
 could                A7+                  2 
@@ -218,7 +220,6 @@ aftermath            N4                   1
 only                 A14                  1 
 privilege            G2.1                 1 
 being                A3+                  1 
-worlds               W1                   1 
 profligate           A1.3-                1 
 americans            Z2                   1 
 ever-grander         Z99                  1 
@@ -395,12 +396,12 @@ timetable            X7+                  1
 dismantling          A1.1.1               1 
 controls             S7.1+                1 
 in_contrast          A6.1-                1 
-peoples              S2                   1 
+people               S2                   1 
 bank_of_China        Z3                   1 
 37                   N1                   1 
 curbs                A1.7+                1 
 wild                 L1                   1 
-west                 Z2                   1 
+west'                Z99                  1 
 loan_sector          I1.2                 1 
 state                G1.1                 1 
 driving              M3                   1 

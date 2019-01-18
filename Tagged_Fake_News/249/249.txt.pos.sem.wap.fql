@@ -1,19 +1,19 @@
-TOTAL              682
+TOTAL              683
 the                  AT             47 
 that                 CST            18 
 and                  CC             15 
 to                   TO             13 
+FBI                  NP1            12 
 of                   IO             12 
 emails               NN2            12 
-FBI                  NP1            11 
 Clinton              NP1            11 
 a                    AT1            10 
 was                  VBDZ           10 
 on                   II             10 
 to                   II             10 
+'s                   GE              9 
 Comey                NP1             9 
 information          NN1             8 
-'s                   GE              7 
 election             NN1             7 
 be                   VBI             7 
 laptop               NN1             6 
@@ -30,6 +30,7 @@ redacted             JJ              5
 by                   II              4 
 he                   PPHS1           4 
 days                 NNT2            4 
+n't                  XX              4 
 were                 VBDR            4 
 there                EX              4 
 would                VM              4 
@@ -45,7 +46,6 @@ computer             NN1             3
 before               II              3 
 documents            NN2             3 
 Weiner               NP1             3 
-n't                  XX              3 
 investigation        NN1             3 
 did                  VDD             3 
 not                  XX              3 
@@ -54,6 +54,7 @@ nothing              PN1             3
 at                   II              3 
 what                 DDQ             3 
 congress             NN1             3 
+Hillary_Clinton      NP1             2 
 private              JJ              2 
 server               NN1             2 
 as                   CSA             2 
@@ -111,8 +112,6 @@ warrant              VV0             1
 authorized           VVD             1 
 examine              VVI             1 
 in_connection_with   II31            1 
-Hillary              NP1             1 
-Clintons             NP2             1 
 use                  NN1             1 
 secretary_of_state   NN1             1 
 camp                 NN1             1 
@@ -134,7 +133,6 @@ supporting           JJ              1
 investigators        NN2             1 
 thousands            NNO2            1 
 top                  VVI             1 
-Hillary_Clinton      NP1             1 
 adviser              NN1             1 
 estranged            JJ              1 
 husband              NN1             1 
@@ -184,7 +182,6 @@ from                 II              1
 2013                 MC              1 
 redaction            NN1             1 
 refer                VVI             1 
-FBIs                 NP2             1 
 prior                JJ              1 
 among                II              1 
 some                 DD              1 
@@ -309,7 +306,6 @@ had_to               VHD             1
 assure               VVI             1 
 themselves           PPX2            1 
 at_risk              II              1 
-nt                   XX              1 
 obligation           NN1             1 
 however              RR              1 
 go                   VVI             1 

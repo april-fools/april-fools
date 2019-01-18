@@ -1,4 +1,4 @@
-TOTAL              293
+TOTAL              295
 the                  Z5                  22 
 of                   Z5                  17 
 a                    Z5                  10 
@@ -43,7 +43,8 @@ looking_at           X3.4                 1
 long_term            T1.3+                1 
 disaster             A5.1---              1 
 Fukushima_in_Japan   Z2                   1 
-theyre               Z99                  1 
+they                 Z8                   1 
+'re                  A3+                  1 
 all                  N5.1+                1 
 available            A3+                  1 
 public               S5+                  1 
@@ -84,6 +85,7 @@ partially            A13.6                1
 melt                 A2.1+                1 
 steam                O1.3                 1 
 reacted              A1.1.1               1 
+'                    Z5                   1 
 sheath               O2                   1 
 zirconium            Z99                  1 
 creating             A1.1.1               1 

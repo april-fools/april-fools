@@ -1,4 +1,4 @@
-TOTAL              127
+TOTAL              128
 news                 NN1             6 
 the                  AT              5 
 and                  CC              5 
@@ -36,7 +36,8 @@ losing               VVG             1
 his                  APPGE           1 
 job                  NN1             1 
 with                 IW              1 
-NBCs                 NP2             1 
+NBC                  NP1             1 
+'s                   GE              1 
 nightly              JJ              1 
 last_year            MD              1 
 spreading            VVG             1 

@@ -1,10 +1,10 @@
-TOTAL         229
-NN1            29 
+TOTAL         230
+NN1            30 
 II             16 
 JJ             15 
-NN2            14 
 AT             13 
 NP1            13 
+NN2            13 
 VVN            13 
 IO              9 
 RR              9 
@@ -36,6 +36,7 @@ PN1             1
 VHD             1 
 CSA             1 
 NNT1            1 
+GE              1 
 VBDZ            1 
 NPM1            1 
 DB2             1 

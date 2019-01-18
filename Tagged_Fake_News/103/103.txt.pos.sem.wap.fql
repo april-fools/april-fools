@@ -1,9 +1,9 @@
-TOTAL              541
+TOTAL              545
 the                  AT             58 
 it                   PPH1           13 
 that                 CST            12 
+Israel               NP1            11 
 of                   IO             10 
-Israel               NP1             8 
 resolution           NN1             8 
 and                  CC              7 
 a                    AT1             7 
@@ -23,6 +23,7 @@ not                  XX              5
 on                   II              4 
 egyptian             JJ              4 
 palestinian          JJ              4 
+'s                   GE              4 
 was                  VBDZ            4 
 council              NN1             4 
 report               NN1             4 
@@ -34,7 +35,6 @@ did                  VDD             4
 times                NNT2            3 
 officials            NN2             3 
 if                   CS              3 
-Israels              NP2             3 
 regime               NN1             3 
 behind               II              3 
 according_to         II21            3 
@@ -112,7 +112,7 @@ negotiator           NN1             1
 Saeb_Erekat          NP1             1 
 was_prepared_to      VBDZ            1 
 cooperate            VVI             1 
-channel              VV0             1 
+channel              NN1             1 
 1                    MC1             1 
 tv                   NN1             1 
 quoting              VVG             1 
@@ -125,7 +125,7 @@ Susan_Rice           NP1             1
 majed                JJ              1 
 Faraj                NP1             1 
 director             NN1             1 
-authoritys           NN2             1 
+authority            NN1             1 
 general              JJ              1 
 intelligence_service NN1             1 
 quoted               VVN             1 

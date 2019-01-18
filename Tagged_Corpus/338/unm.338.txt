@@ -11,7 +11,5 @@ Jigapixels               NP2     Z99
 parsects                 VVZ     Z99 
 Replicant                JJ      Z99 
 Siri                     NP1     Z99 
-Siris                    NP1     Z99 
 Skynet                   NN1     Z99 
 unobtainium              NN1     Z99 
-wasnt                    VV0     Z99 

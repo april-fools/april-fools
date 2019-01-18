@@ -1,10 +1,10 @@
-TOTAL         175
-NN1            28 
+TOTAL         177
+NN1            29 
 II             17 
-NN2            14 
+NN2            13 
 AT             11 
 JJ             10 
-NP1             7 
+NP1             8 
 VVN             7 
 VVI             6 
 RR              6 
@@ -18,6 +18,7 @@ VVG             3
 VBI             3 
 PPIS2           3 
 PPH1            3 
+GE              2 
 JJR             2 
 VH0             2 
 VBN             2 
@@ -25,7 +26,6 @@ IF              2
 VVZ             2 
 PPHS1           2 
 CS              2 
-NP2             1 
 VBZ             1 
 CC              1 
 RGR             1 

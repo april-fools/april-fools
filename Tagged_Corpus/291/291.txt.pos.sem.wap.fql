@@ -1,4 +1,4 @@
-TOTAL              442
+TOTAL              450
 the                  AT             27 
 of                   IO             22 
 and                  CC             18 
@@ -11,18 +11,22 @@ a                    AT1             7
 for                  IF              6 
 to                   TO              5 
 Graham               NP1             5 
-its                  APPGE           5 
 McClure              NP1             4 
 y                    ZZ1             4 
 to                   II              3 
+it                   PPH1            3 
 which                DDQ             3 
 will                 VM              3 
 founders             NN2             3 
 mentors              NN2             3 
+its                  APPGE           3 
 is                   VBZ             3 
+i                    PPIS1           3 
 new                  JJ              3 
 500                  MC              3 
+they                 PPHS2           3 
 this                 DD1             3 
+'s                   VBZ             3 
 not                  XX              3 
 investors            NN2             2 
 first-ever           JJ              2 
@@ -37,13 +41,13 @@ stake                NN1             2
 real                 JJ              2 
 mentoring            VVG             2 
 by                   II              2 
-i                    PPIS1           2 
 had                  VHD             2 
 however              RR              2 
 on                   II              2 
+organization         NN1             2 
 both                 DB2             2 
 because              CS              2 
-theyre               NN1             2 
+'re                  VBR             2 
 five                 MC              2 
 Combinator           NP1             2 
 education            NN1             2 
@@ -51,6 +55,7 @@ are                  VBR             2
 whether              CSW             2 
 bubble               NN1             2 
 at                   II              2 
+we                   PPIS2           2 
 more                 DAR             2 
 be                   VBI             2 
 angel                NN1             1 
@@ -69,7 +74,6 @@ training             VVG             1
 next                 MD              1 
 wave                 NN1             1 
 think                VV0             1 
-it                   PPH1            1 
 as                   II              1 
 silicon              NN1             1 
 valley               NN1             1 
@@ -131,7 +135,7 @@ my                   APPGE           1
 combinator           NN1             1 
 2005                 MC              1 
 few                  DA2             1 
-ive                  VV0             1 
+'ve                  VH0             1 
 written              VVN             1 
 about                RP              1 
 in_the_past          II              1 
@@ -152,7 +156,7 @@ fun                  JJ              1
 cities               NN2             1 
 planet               NN1             1 
 blows_my_mind        VVZ             1 
-organizations        NN2             1 
+'s                   GE              1 
 name                 NN1             1 
 homage               NN1             1 
 Y_Combinator         NP1             1 
@@ -164,7 +168,6 @@ co-founder           NN1             1
 founder              NN1             1 
 joined               VVD             1 
 forces               NN2             1 
-they                 PPHS2           1 
 saw                  VVD             1 
 lack                 NN1             1 
 business             NN1             1 
@@ -207,9 +210,8 @@ logo                 NN1             1
 a_couple             AT1             1 
 colors               NN2             1 
 called_it_a_day      VVD             1 
-thats                NN2             1 
+that                 DD1             1 
 kind                 NN1             1 
-organization         NN1             1 
 want                 VV0             1 
 next_generation      MD              1 
 entrepreneurs        NN2             1 
@@ -233,13 +235,12 @@ true                 JJ              1
 or                   CC              1 
 just                 RR              1 
 boom                 NN1             1 
-well                 RR              1 
-likely               JJ              1 
-have_to              VH0             1 
+'ll                  VM              1 
+likely               RR              1 
+have_to              VHI             1 
 wait                 VVI             1 
 created              VVN             1 
 before               CS              1 
-we                   PPIS2           1 
 can                  VM              1 
 make                 VVI             1 
 some                 DD              1 

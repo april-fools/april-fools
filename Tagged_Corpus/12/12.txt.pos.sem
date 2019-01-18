@@ -1,15 +1,17 @@
 0000001 001  NULL    **6;0;START              
 0000001 002  -----   -----                    
 0000004 010  RR      Well                     A5.1+ A13.3 A7+ B2+ Z4 
-0000004 020  NP1     Ill                      B2- A5.1- 
+0000004 020  PPIS1   I                        Z8mf 
+0000004 021  VM      'll                      T1.1.3 
 0000004 030  VBI     be                       Z5 A3+ 
 0000004 040  VVN     damned                   Q2.2/E2- 
 0000004 041  !       !                        
 0000004 042  -----   -----                    
 0000004 050  PPIS1   I                        Z8mf 
 0000004 060  VV0     think                    X2.1 
-0000004 070  NP1     Ive                      Z99 
-0000004 080  VVD     got                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000004 070  PPIS1   I                        Z8mf 
+0000004 071  VH0     've                      Z5 A9+ A2.2 
+0000004 080  VVN     got                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
 0000004 090  APPGE   my                       Z8 
 0000004 100  MD      first                    N4 
 0000004 110  NN1     scoop                    O2 N5 Q4.2 
@@ -18,7 +20,7 @@
 0000004 120  PPIS1   I                        Z8mf 
 0000004 130  VVD     searched                 X2.4 
 0000004 140  FU      Ai                       A3+ Z5 
-0000004 141  XX      nt                       S9/Q4.1 Z3c 
+0000004 141  XX      n't                      Z6 
 0000004 150  PPH1    it                       Z8 
 0000004 160  RR@     Cool                     O4.6- S1.2.1- O4.2+ E6+ O4.6-/A2.1 X5.2-/A2.1 
 0000004 161  ,       ,                        
@@ -30,7 +32,7 @@
 0000004 220  AT      the                      Z5 
 0000004 230  FO      GoogleTron3000           Z99 
 0000004 240  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000004 241  XX      nt                       S9/Q4.1 Z3c 
+0000004 241  XX      n't                      Z6 
 0000004 250  VVI     pull                     M2 A9+ M1 
 0000004 260  MC1     one                      N1 T3 T1.2 
 0000004 270  JJ      single                   N5--- S5- S3.2- M3 
@@ -38,8 +40,9 @@
 0000004 281  .       .                        
 0000004 282  -----   -----                    
 0000004 290  NN2     Folks                    S2mf S4mf 
-0000004 300  VV0     Im                       Z99 
-0000004 310  NN1     breakin                  Z99 
+0000004 300  PPIS1   I                        Z8mf 
+0000004 301  VBM     'm                       Z5 A3+ 
+0000004 310  VVG     breakin'                 Z99 
 0000004 320  AT1     a                        Z5 
 0000004 330  NN1     story                    Q2.1 X4.1 Q4 
 0000004 331  :       :                        
@@ -75,7 +78,8 @@
 0000004 600  NN1     Passion                  X5.2+ S3.2 S9@ E4.1-@ 
 0000004 610  JJ      High                     N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9 
 0000004 611  .       .                        
-0000004 612  -----   -----                    
+0000004 612  "@      '                        
+0000004 613  -----   -----                    
 0000004 620  UH      Yup                      Z4 
 0000004 621  ,       ,                        
 0000004 630  PPY     you                      Z8mf 
@@ -94,7 +98,8 @@
 0000004 760  AT      the                      Z5 
 0000004 770  NP1     Christ                   Z1m Z4 
 0000004 771  ,       ,                        
-0000004 780  VVN     set                      T2+[i1.2.1 M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3 
+0000004 772  GE      '                        Z5 
+0000004 780  NN1     set                      T2+[i1.2.1 N5 N2 K4 O4.1 O3 S5+c O4.5 K5.1% 
 0000004 790  II      in                       T2+[i1.2.2 Z5 
 0000004 800  AT1     a                        Z5 
 0000004 810  JJ      high                     P1/H1c[i2.2.1 N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9 
@@ -115,8 +120,9 @@
 0000006 070  DD1     this                     M6 Z5 Z8 
 0000006 080  NN1     story                    Q2.1 X4.1 Q4 
 0000006 090  CCB     but                      Z5 
-0000006 100  NN2     shes                     Z8f 
-0000006 110  VVD     asked                    Q2.2 
+0000006 100  PPHS1   she                      Z8f 
+0000006 101  VBZ     's                       Z5 A3+ 
+0000006 110  VVN@    asked                    Q2.2 
 0000006 120  CST     that                     Z5 Z8 
 0000006 130  APPGE   her                      Z8f 
 0000006 140  NN1     name                     Q2.2 
@@ -136,6 +142,7 @@
 0000006 250  NP1     Lisa                     Z1mf[i5.2.1 Z3c[i5.2.1 Z1f 
 0000006 260  NP1     Polfor                   Z1mf[i5.2.2 Z3c[i5.2.2 
 0000006 261  ,       ,                        
+0000006 262  GE      '                        Z5 
 0000006 270  CC      and                      Z5 
 0000006 280  PPY     you                      Z8mf 
 0000006 290  VM      might                    A7+ 
@@ -156,7 +163,8 @@
 0000006 440  NN2     paste-ups                Z99 
 0000006 441  ,       ,                        
 0000006 450  DDQ     which                    Z8 Z5 
-0000006 460  VV0     Im                       Z99 
+0000006 460  PPIS1   I                        Z8mf 
+0000006 461  VBM     'm                       Z5 A3+ 
 0000006 470  VVG     assuming                 X2.1 A5.4-/A8 
 0000006 480  VBZ     is                       A3+ Z5 
 0000006 490  AT1     a                        Z5 
@@ -168,7 +176,7 @@
 0000006 530  APPGE   her                      Z8f 
 0000006 540  NN1     email                    Q1.3/Y2 
 0000006 541  ,       ,                        
-0000006 550  NP1     Lisa                     Z1f 
+0000006 550  NP1     Lisa'                    Z99 
 0000006 560  VVZ     claims                   Q2.2 A9+ 
 0000006 570  PPHS1   she                      Z8f 
 0000006 580  VVZ     works                    I3.1 A1.1.1 X9.2+ A2.2 
@@ -204,11 +212,11 @@
 0000008 080  AT      the                      Z5 
 0000008 090  MC      12                       N1 T1.2 T3 T1.3 N3.2 
 0000008 100  NN2     photos                   C1 
-0000008 110  NP1     Lisa                     Z1f 
+0000008 110  NP1     Lisa'                    Z99 
 0000008 120  VVD     sent                     M2 A2.2 
 0000008 121  ,       ,                        
 0000008 130  NN1     Passion                  X5.2+ S3.2 S9@ E4.1-@ 
-0000008 140  JJ      High                     N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9 
+0000008 140  NP1     High'                    Z99 
 0000008 150  NN2     centers                  M6 H1c M7c G1.2c K5.1mfn 
 0000008 160  II      on                       Z5 
 0000008 170  AT1     a                        Z5 
@@ -217,15 +225,16 @@
 0000008 200  NP1     Jesus                    Z4[i9.2.1 Z1m[i9.2.1 Z1m Z1m/S9 Z4 Z1mf[i8.2.1 Z3c[i8.2.1 
 0000008 210  NP1     Christ                   Z4[i9.2.2 Z1m[i9.2.2 Z1m Z4 Z1mf[i8.2.2 Z3c[i8.2.2 
 0000008 211  ,       ,                        
+0000008 212  GE      '                        Z5 
 0000008 220  CC      and                      Z5 
 0000008 230  PPHS1   he                       Z8m 
 0000008 240  VVZ     attends                  S1.1.3+ 
 0000008 250  NN1     Passion                  X5.2+ S3.2 S9@ E4.1-@ 
-0000008 260  JJ      High                     N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9 
+0000008 260  NN1@    High'                    Z99 
 0000008 270  IW      with                     Z5 
 0000008 280  APPGE   his                      Z8m 
 0000008 290  NN1     friend                   S3.1/S2mf 
-0000008 300  NP1     Maggie                   Z1f 
+0000008 300  NP1     Maggie'                  Z99 
 0000008 310  CC      or                       Z5 
 0000008 320  NP1     Mary                     Z1mf[i10.2.1 Z3c[i10.2.1 Z1f 
 0000008 330  NP1     Magdalene                Z1mf[i10.2.2 Z3c[i10.2.2 Z1f 
@@ -261,13 +270,15 @@
 0000008 572  )       )                        
 0000008 573  .       .                        
 0000008 574  -----   -----                    
-0000008 580  NN1     Id                       X2 
-0000008 590  VV0     guess                    X2.1/A7- 
+0000008 580  PPIS1   I                        Z8mf 
+0000008 581  VM      'd                       A7+ 
+0000008 590  VVI     guess                    X2.1/A7- 
 0000008 600  CST     that                     Z5 Z8 
 0000008 610  NP1     Judas                    Z1 G2.2-/S2mf 
 0000008 620  VBZ     is                       A3+ Z5 
 0000008 630  II      in                       Z5 
 0000008 640  NP1     Jesus                    Z1m Z1m/S9 Z4 
+0000008 641  GE      '                        Z5 
 0000008 650  JJ      inner-friend             Z99 
 0000008 660  NN1     circle                   O4.4 S5+c K4/H1@ 
 0000008 661  ,       ,                        
@@ -280,17 +291,20 @@
 0000008 720  JJ      unrelenting              T2++ 
 0000008 730  NN1     compassion               E1 X2.5+/S1.2 
 0000008 731  ,       ,                        
-0000008 740  NN1     cant                     Q2.1 
-0000008 750  VV0     recognize                X2.2+ X2.5+ S7.4+ G2.1+ S1.1.1 
+0000008 740  VM      ca                       A7+ 
+0000008 741  XX      n't                      Z6 
+0000008 750  VVI     recognize                X2.2+ X2.5+ S7.4+ G2.1+ S1.1.1 
 0000008 760  APPGE   his                      Z8m 
-0000008 770  NN2     schoolmates              Z99 
+0000008 770  NN1     schoolmate               Z99 
+0000008 771  GE      's                       Z5 
 0000008 780  JJ      inner                    M6 
 0000008 790  NN2     demons                   S9 G2.2-/S2mf 
 0000008 791  .       .                        
 0000008 792  -----   -----                    
-0000008 800  VV0     Youll                    Z99 
+0000008 800  PPY     You                      Z8mf 
+0000008 801  VM      'll                      T1.1.3 
 0000008 810  RR      also                     N5++ 
-0000008 820  VV0     notice                   X3.4+ A11.2+ Q2.2 X2.2+ S1.2.4+ G2.1 
+0000008 820  VVI     notice                   X3.4+ A11.2+ Q2.2 X2.2+ S1.2.4+ G2.1 
 0000008 830  NP1     Jesus                    Z1m Z1m/S9 Z4 
 0000008 840  VVZ     carries                  M2 A9+ Q4 S7.4+ B1% B2-% 
 0000008 850  AT1     a                        Z5 
@@ -305,7 +319,7 @@
 0000008 920  PPY     You                      Z4[i13.2.1 Z8mf 
 0000008 930  VV0     see                      Z4[i13.2.2 X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
 0000008 931  ,       ,                        
-0000008 940  VV0     ol                       Z99 
+0000008 940  VV0     ol'                      Z99 
 0000008 950  NP1     JC                       Z99 
 0000008 960  VBZ     is                       A3+ Z5 
 0000008 970  AT1     a                        Z5 
@@ -337,7 +351,8 @@
 0000010 090  VVZ     seems                    A8 
 0000010 100  II      like                     Z5 
 0000010 110  NP1     Jesus                    Z1m Z1m/S9 Z4 
-0000010 120  VM      will                     T1.1.3 
+0000010 111  GE      '                        Z5 
+0000010 120  NN1@    will                     X7+ G2.1/Q1.2 
 0000010 130  VBI     be                       Z5 A3+ 
 0000010 140  VVN     played                   K1 K5.1 K5.2 K2 K3 A1.1.1 K6 
 0000010 150  II      by                       Z5 
@@ -351,15 +366,17 @@
 0000010 220  NP1     Mary                     Z1mf[i17.2.1 Z3c[i17.2.1 Z1f 
 0000010 230  NP1     Magdalene                Z1mf[i17.2.2 Z3c[i17.2.2 Z1f 
 0000010 231  ,       ,                        
+0000010 232  GE      '                        Z5 
 0000010 240  NP1     Judd                     Z1mf[i18.2.1 Z3c[i18.2.1 
 0000010 250  NP1     Nelson                   Z1mf[i18.2.2 Z3c[i18.2.2 Z1mf 
 0000010 260  VM      will                     T1.1.3 
 0000010 270  VVI     play                     K1 K5.1 K5.2 K2 K3 A1.1.1 K6 
 0000010 280  NP1     Judas                    Z1 G2.2-/S2mf 
 0000010 281  ,       ,                        
+0000010 282  GE      '                        Z5 
 0000010 290  CC      and                      Z5 
 0000010 300  NP1     Pontius                  Z1mf[i19.2.1 Z3c[i19.2.1 
-0000010 310  NP1     Pilate                   Z1mf[i19.2.2 Z3c[i19.2.2 
+0000010 310  NP1     Pilate'                  Z1mf[i19.2.2 Z3c[i19.2.2 
 0000010 320  VM      will                     T1.1.3 
 0000010 330  VBI     be                       Z5 A3+ 
 0000010 340  VVN     portrayed                C1 Q2.2 
@@ -368,14 +385,15 @@
 0000010 370  NP1     Baldwin                  Z2[i21.2.2 Z3c[i21.2.2 Z1mf[i21.2.2 Z1mf[i20.2.2 Z3c[i20.2.2 
 0000010 371  .       .                        
 0000011 001  -----   -----                    
-0000012 010  VV0     Im                       Z99 
+0000012 010  PPIS1   I                        Z8mf 
+0000012 011  VBM     'm                       Z5 A3+ 
 0000012 020  XX      not                      Z6 
 0000012 030  VVG     posting                  Q1.2 M2 I3.1 
 0000012 040  DB      all                      N5.1+ 
 0000012 050  IO      of                       Z5 
 0000012 060  AT      the                      Z5 
 0000012 070  NN2     images                   O4.1 A8 X2.1 C1 
-0000012 080  NP1     Lisa                     Z1f 
+0000012 080  NP1     Lisa'                    Z99 
 0000012 090  VVD     sent                     M2 A2.2 
 0000012 091  ,       ,                        
 0000012 100  CSA     as                       Z5 
@@ -384,19 +402,21 @@
 0000012 130  NN1     text                     Q1.2 Q4.1 
 0000012 140  RR      only                     A14 
 0000012 150  CC      and                      Z5 
-0000012 160  NN1     theyre                   Z99 
-0000012 170  RR      hard                     O4.1 X8+ X5.2+ N5+ A12- 
+0000012 160  PPHS2   they                     Z8mfn 
+0000012 161  VBR     're                      A3+ Z5 
+0000012 170  JJ      hard                     O4.5 A12- S1.2.5+ O4.1 
 0000012 180  TO      to                       Z5 
 0000012 190  VVI     read                     Q3 Q1.2 X3.2+ X2.5+ P1 A10+ 
 0000012 191  .       .                        
 0000012 192  -----   -----                    
 0000012 200  CCB     But                      Z5 
-0000012 210  NP1     Ill                      B2- A5.1- 
-0000012 220  VV0     transcribe               Q1.2 
+0000012 210  PPIS1   I                        Z8mf 
+0000012 211  VM      'll                      T1.1.3 
+0000012 220  VVI     transcribe               Q1.2 
 0000012 230  AT      the                      Z5 
 0000012 240  II      ABOUT                    Z5 
 0000012 250  AT      THE                      Z5 
-0000012 260  NN1     SHOW                     A8 K4 S1.1.1 I2.2/S1.1.1 
+0000012 260  JJ@     SHOW'                    Z99 
 0000012 270  NN1     page                     Q1.2 T1.3 S7.1-/S2.2m 
 0000012 280  IF      for                      Z5 
 0000012 290  PPY     you                      Z8mf 
@@ -450,7 +470,7 @@
 0000014 431  .       .                        
 0000014 432  -----   -----                    
 0000014 440  NN1     Passion                  X5.2+ S3.2 S9@ E4.1-@ 
-0000014 450  RR@     High                     N3.7+ N5+ 
+0000014 450  NP1     High'                    Z99 
 0000014 460  VVZ     asks                     Q2.2 
 0000014 470  AT      the                      Z5 
 0000014 480  NN1     question                 Q2.2 X4.1 
@@ -458,7 +478,8 @@
 0000014 500  VVD     happened                 A2.1+ A3+ X7- 
 0000014 510  JJ      inbetween                N5 N4 M6 
 0000014 511  ?       ?                        
-0000014 512  -----   -----                    
+0000014 512  "@      '                        
+0000014 513  -----   -----                    
 0000014 520  RR      Well                     A5.1+ A13.3 A7+ B2+ Z4 
 0000014 521  ,       ,                        
 0000014 530  JJ      high                     P1/H1c[i24.2.1 N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9 
@@ -546,6 +567,7 @@
 0000016 660  NN1     basis                    A2.2 T2+ X4.2 
 0000016 670  IF      for                      Z5 
 0000016 680  NP1     Jesus                    Z1m Z1m/S9 Z4 
+0000016 681  GE      '                        Z5 
 0000016 690  NN1     compassion               E1 X2.5+/S1.2 
 0000016 691  ,       ,                        
 0000016 700  NN1     courage                  E5+/S1.2 
@@ -620,8 +642,9 @@
 0000016 271  ,       ,                        
 0000016 280  II21    but                      Z5[i34.2.1 Z5 
 0000016 290  II22    for                      Z5[i34.2.2 
-0000016 300  RT      now                      T1.1.2 Z4 
-0000016 310  VVZ     thats                    Z5 Z8 A13.3 A6.1+ 
+0000016 300  RT      now                      Z4 T1.1.2 
+0000016 310  DD1     that                     Z8 Z5 
+0000016 311  VBZ     's                       A3+ Z5 
 0000016 320  RR      only                     A14 
 0000016 330  JJ      evident                  A11.2+ 
 0000016 340  II      in                       Z5 
@@ -630,7 +653,8 @@
 0000016 370  NN1     class                    Z99/P1c[i35.2.2 P1c A4.1 S5+c O4.2+ 
 0000016 371  .       .                        
 0000017 001  -----   -----                    
-0000018 010  APPGE   Its                      Z8 
+0000018 010  PPH1    It                       Z8 
+0000018 011  VBZ     's                       A3+ Z5 
 0000018 020  JJ      hard                     O4.5 A12- S1.2.5+ O4.1 
 0000018 030  TO      to                       Z5 
 0000018 040  VVI     tell                     Q2.2 Q2.1 X3 A10+ 
@@ -641,14 +665,14 @@
 0000018 090  NN1     king                     S7.1+/S2.2m 
 0000018 100  II21    out                      Z5[i36.2.1 Z5 Z5[i37.2.1 A9-[i37.2.1 
 0000018 110  II22    of                       Z5[i36.2.2 Z5[i37.2.2 A9-[i37.2.2 
-0000018 120  NN1     water                    O1.2 W3/M4 B1 C1% 
+0000018 120  JJ      water'                   Z99 
 0000018 130  NN1     tale                     Q2.1 
 0000018 140  VBZ     is                       Z5 A3+ 
 0000018 150  VVN     aimed                    X7+ M6 
 0000018 160  II      at                       Z5 
 0000018 161  ,       ,                        
 0000018 170  CCB     but                      Z5 
-0000018 180  NP1     Lisa                     Z1f 
+0000018 180  NP1     Lisa'                    Z99 
 0000018 190  VVD     said                     Q2.1 
 0000018 200  II      in                       Z5 
 0000018 210  APPGE   her                      Z8f 
@@ -660,13 +684,15 @@
 0000018 270  AT1     a                        Z5 
 0000018 280  JJ      major                    A11.1+ N3.2+ 
 0000018 281  .       .                        
-0000018 282  -----   -----                    
+0000018 282  "@      '                        
+0000018 283  -----   -----                    
 0000018 290  CC      And                      Z5 
 0000018 300  RR      regardless               A11.1- E6+ 
 0000018 310  IO      of                       Z5 
 0000018 320  NN1     network                  S5+c Q4.3 Y2 
 0000018 321  ,       ,                        
-0000018 330  VV0     Im                       Z99 
+0000018 330  PPIS1   I                        Z8mf 
+0000018 331  VBM     'm                       Z5 A3+ 
 0000018 340  RR      also                     N5++ 
 0000018 350  VVG     wondering                X2.1 
 0000018 360  II      during                   Z5 
@@ -689,7 +715,7 @@
 0000018 493  -----   -----                    
 0000018 500  VBZ     Is                       A3+ Z5 
 0000018 510  NN1     Passion                  X5.2+ S3.2 S9@ E4.1-@ 
-0000018 520  JJ      High                     N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9 
+0000018 520  JJ@     High'                    Z99 
 0000018 530  NNT1    primetime                Z99 
 0000018 540  NN1     material                 O1 B5 O2 X2.2 S1.2 
 0000018 541  ,       ,                        
@@ -710,12 +736,13 @@
 0000018 660  VVZ     knows                    Z4[i42.2.2 X2.2+ S3.2/B1% 
 0000020 010  NP1     Whereever                Z99 
 0000020 020  NN1     Passion                  X5.2+ S3.2 S9@ E4.1-@ 
-0000020 030  RR@     High                     N3.7+ N5+ 
+0000020 030  NP1     High'                    Z99 
 0000020 040  VVZ     ends                     T2-[i43.2.1 T2- 
 0000020 050  RP      up                       T2-[i43.2.2 
 0000020 051  ,       ,                        
-0000020 060  APPGE   its                      Z8 
-0000020 070  VVG     going                    T1.1.3[i44.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000020 060  PPH1    it                       Z8 
+0000020 061  VBZ     's                       Z5 A3+ 
+0000020 070  VVGK    going                    T1.1.3[i44.2.1 
 0000020 080  TO      to                       T1.1.3[i44.2.2 Z5 
 0000020 090  VHI     have                     A9+ Z5 A2.2 S4 
 0000020 100  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
@@ -730,6 +757,7 @@
 0000020 170  IO      of                       Z5 
 0000020 180  NP1     Daniel                   Z1m 
 0000020 181  ,       ,                        
+0000020 182  GE      '                        Z5 
 0000020 190  AT1     a                        Z5 
 0000020 200  NNT1    primetime                Z99 
 0000020 210  NN1     pilot                    M5/I3.2/S2mf M4/I3.2/S2mf X2.4 Y1 
@@ -742,19 +770,21 @@
 0000020 280  AT1     a                        Z5 
 0000020 290  JJ      contemporary             T1.1.2 
 0000020 291  ,       ,                        
-0000020 300  JJ      cool                     O4.6- S1.2.1- O4.2+ E6+ 
+0000020 300  VV0     cool'                    Z99 
 0000020 310  NP1     Jesus                    Z1m Z1m/S9 Z4 
 0000020 311  ,       ,                        
 0000020 320  CC      and                      Z5 
 0000020 330  RRR     later                    T4-- T1.1.3 N4 
 0000020 340  DD1     this                     M6 Z5 Z8 
 0000020 350  NNT1    month                    T1.3 
-0000020 360  RR      well                     A5.1+ A13.3 A7+ B2+ Z4 
+0000020 360  PPIS2   we                       Z8 
+0000020 361  VM      'll                      T1.1.3 
 0000020 370  VBI     be                       Z5 A3+ 
 0000020 380  VVN     treated                  S1.1.1 A9- X4.2 X2.1 B3 A1.1.1 
 0000020 390  II      to                       Z5 
 0000020 400  NN2     Revelations              A10+ 
 0000020 401  ,       ,                        
+0000020 402  GE      '                        Z5 
 0000020 410  AT1     a                        Z5 
 0000020 420  JJ      six-part                 Z99 
 0000020 430  NP1     NBC                      Z99 
@@ -767,7 +797,8 @@
 0000020 500  IO      of                       Z5 
 0000020 510  NNT2    days                     T1.3 
 0000020 511  .       .                        
-0000020 512  -----   -----                    
+0000020 512  "@      '                        
+0000020 513  -----   -----                    
 0000020 520  PPY     You                      Z8mf 
 0000020 530  VM      can                      A7+ 
 0000020 540  VVI     bet                      I1/A1.4 X2.6+ 
@@ -785,6 +816,7 @@
 0000020 660  AT      The                      Z5 
 0000020 670  NN1     Passion                  X5.2+ S3.2 S9@ E4.1-@ 
 0000020 671  ,       ,                        
+0000020 672  GE      '                        Z5 
 0000020 680  AT      the                      Z5 
 0000020 690  JJ      Left                     M6 G1.2 N5.2+ 
 0000020 700  II      Behind                   Z5 
@@ -798,6 +830,7 @@
 0000020 780  NP1     Vinci                    Z1mf[i45.2.2 Z3c[i45.2.2 
 0000020 790  NN1     Code                     G2.1 A10-/Q1.1 G2.2 A4.1 Y2@ B3% B1% 
 0000020 791  ,       ,                        
+0000020 792  "@      '                        
 0000020 800  DDQ     which                    Z8 Z5 
 0000020 810  VM      will                     T1.1.3 
 0000020 820  RR      also                     N5++ 

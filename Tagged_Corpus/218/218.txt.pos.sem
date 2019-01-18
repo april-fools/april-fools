@@ -140,7 +140,8 @@
 0000008 152  NULL    <quote>                  
 0000008 153  -----   -----                    
 0000008 160  CC      and                      Z5 
-0000008 170  VBDR    were                     A3+ Z5 
+0000008 170  PPIS2   we                       Z8 
+0000008 171  VBR     're                      A3+ Z5 
 0000008 180  JJ      innovating               T3- 
 0000008 190  TO      to                       Z5 
 0000008 200  VVI     bring                    M2 A2.2 
@@ -187,7 +188,8 @@
 0000012 210  II21    because                  A2.2[i11.2.1 
 0000012 220  II22    of                       A2.2[i11.2.2 
 0000012 230  AT      the                      Z5 
-0000012 240  NN2     nations                  G1.1c S5+c 
+0000012 240  NN1     nation                   G1.1c S5+c 
+0000012 241  GE      's                       Z5 
 0000012 250  JJ      particular               A4.2+ X7+ 
 0000012 260  NN1     fondness                 E2+ 
 0000012 270  IF      for                      Z5 

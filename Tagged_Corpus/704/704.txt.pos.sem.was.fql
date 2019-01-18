@@ -1,4 +1,4 @@
-TOTAL              513
+TOTAL              520
 the                  Z5                  40 
 and                  Z5                  13 
 to                   Z5                  11 
@@ -18,17 +18,20 @@ he                   Z8                   5
 his                  Z8                   5 
 has                  Z5                   5 
 PHILADELPHIA         Z2                   4 
+it                   Z8                   4 
 as                   Z5                   4 
 speed                N3.8+                4 
 brother              S4                   4 
 at                   Z5                   4 
 championship         K5                   3 
 Kareem_Rosser        Z1                   3 
+'re                  Z5                   3 
 Brandon_Rease        Z1                   3 
 won                  S7.1+                3 
 on                   Z5                   3 
 their                Z8                   3 
 not                  Z6                   3 
+they                 Z8                   3 
 by                   Z5                   3 
 who                  Z8                   3 
 Hiner                Z99                  3 
@@ -37,12 +40,10 @@ also                 N5++                 3
 before               Z5                   3 
 horses               L2                   3 
 for                  Z5                   3 
-it                   Z8                   2 
 from                 Z5                   2 
 have                 Z5                   2 
 win                  X9.2+                2 
 known                X2.2+                2 
-were                 Z5                   2 
 west_Philly          Z2                   2 
 daymar               Z99                  2 
 coach                K5.1                 2 
@@ -53,9 +54,9 @@ no                   Z6                   2
 about                Z5                   2 
 which                Z8                   2 
 excelled             A5.1+                2 
-its                  Z8                   2 
+'s                   A3+                  2 
 like                 Z5                   2 
-theyre               Z99                  2 
+that                 Z8                   2 
 valley               W3                   2 
 forge                C1                   2 
 kareem               Z99                  2 
@@ -98,7 +99,8 @@ all-black            Z99                  1
 national             M7                   1 
 based                T2+                  1 
 remote               N3.3+                1 
-citys                M7                   1 
+city                 M7                   1 
+'s                   Z5                   1 
 fairmount_park       Z2                   1 
 cowtown/work         Z99                  1 
 ride                 K5.1                 1 
@@ -109,6 +111,7 @@ squad                G3                   1
 prefers              E2++                 1 
 another              A6.1-                1 
 title                Q4                   1 
+we                   Z8                   1 
 Rosser               Z99                  1 
 younger              T3--                 1 
 16                   N1                   1 
@@ -142,11 +145,11 @@ kids                 S2                   1
 are                  A3+                  1 
 playing              K1                   1 
 families             S4                   1 
-that                 Z5                   1 
 moving_into          T2+                  1 
 family               S4                   1 
 tradition            S1.1.1               1 
 Rossers              Z99                  1 
+'                    Z5                   1 
 interest             X5.2+                1 
 was                  Z5                   1 
 sparked              O4.6+                1 
@@ -186,7 +189,6 @@ described            Q2.2                 1
 himself              Z8                   1 
 frequent             N6+                  1 
 truant               S1.1.3-              1 
-that                 Z8                   1 
 option               X7+                  1 
 structured           O4.1                 1 
 environment          W5                   1 
@@ -247,6 +249,7 @@ downturn             N5-                  1
 any                  N5                   1 
 worries              E6-                  1 
 finances             I1                   1 
+were                 Z5                   1 
 forgotten            X2.2-                1 
 point                Q2.1                 1 
 were_up              T2-                  1 
@@ -259,7 +262,6 @@ five                 N1                   1
 philadelphians       Z99                  1 
 24-17                N1                   1 
 knew                 X2.2+                1 
-they                 Z8                   1 
 could                A7+                  1 
 the_match            Z3                   1 
 was                  A3+                  1 

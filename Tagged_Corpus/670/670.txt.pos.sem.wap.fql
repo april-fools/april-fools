@@ -1,4 +1,4 @@
-TOTAL             1000
+TOTAL             1004
 the                  AT             86 
 of                   IO             28 
 in                   II             18 
@@ -9,10 +9,10 @@ that                 CST            15
 a                    AT1            14 
 to                   TO             14 
 markets              NN2            11 
+world                NN1            10 
 is                   VBZ            10 
 US                   NP1            10 
 be                   VBI             9 
-world                NN1             9 
 capital              NN1             9 
 should               VM              8 
 it                   PPH1            8 
@@ -86,10 +86,12 @@ little               DA1             2
 much                 DA1             2 
 excesses             NN2             2 
 especially           RR              2 
+'                    GE              2 
 went                 VVD             2 
 these                DD2             2 
 dollar               NNU1            2 
 have                 VHI             2 
+'s                   GE              2 
 meant                VVD             2 
 could                VM              2 
 pay                  VVI             2 
@@ -191,7 +193,7 @@ less                 RGR             1
 improve              VVI             1 
 allocate             VV0             1 
 shadow               NN1             1 
-step                 VV0             1 
+step                 NN1             1 
 spotlight            NN1             1 
 a                    ZZ1             1 
 range                NN1             1 
@@ -223,8 +225,7 @@ aftermath            NN1             1
 only                 JJ              1 
 privilege            NN1             1 
 being                VBG             1 
-worlds               NN2             1 
-reserve              VV0             1 
+reserve              JJ              1 
 profligate           JJ              1 
 americans            NN2             1 
 ever-grander         JJR             1 
@@ -401,12 +402,12 @@ dismantling          VVG             1
 controls             NN2             1 
 in_contrast          II              1 
 swap                 VV0             1 
-peoples              NN2             1 
+people               NN              1 
 bank_of_China        NN1             1 
 37                   MC              1 
 curbs                VVZ             1 
 wild                 JJ              1 
-west                 ND1             1 
+west'                JJ              1 
 loan_sector          NN1             1 
 state                NN1             1 
 driving              VVG             1 

@@ -1,23 +1,22 @@
-TOTAL              908
+TOTAL              921
 the                  Z5                  57 
 to                   Z5                  23 
 of                   Z5                  22 
 and                  Z5                  20 
+'s                   Z5                  17 
 in                   Z5                  14 
 a                    Z5                  13 
 that                 Z5                  13 
-FBI                  Z99                 11 
-it                   Z8                  11 
+FBI                  Z99                 12 
+it                   Z8                  12 
+Clinton              Z1                  11 
 was                  A3+                 11 
 that                 Z8                   9 
 said                 Q2.1                 9 
-'s                   Z5                   7 
+Comey                Z99                  8 
 election             G1.2                 7 
 on                   Z5                   7 
-Clinton              Z1                   7 
 would                A7+                  7 
-Comey                Z99                  7 
-Clintons             Z1                   6 
 been                 Z5                   6 
 be                   A3+                  6 
 there                Z5                   6 
@@ -29,6 +28,7 @@ cause                A2.2                 5
 email                Q1.3                 5 
 they                 Z8                   5 
 her                  Z8                   5 
+Hillary_Clinton      Z1                   4 
 who                  Z8                   4 
 warrant              Q1.2                 4 
 was                  Z5                   4 
@@ -42,8 +42,8 @@ his                  Z8                   4
 after                Z5                   4 
 against              Z5                   4 
 have                 Z5                   4 
+n't                  Z6                   4 
 she                  Z8                   4 
-its                  Z8                   3 
 two                  N1                   3 
 has                  Z5                   3 
 lawyer               G2.1                 3 
@@ -61,17 +61,17 @@ an                   Z5                   3
 why                  A2.2                 3 
 emails               Q1.3                 3 
 from                 Z5                   3 
-Hillary_Clinton      Z1                   3 
 or                   Z5                   3 
 before               Z5                   3 
+could                A7+                  3 
 about                Z5                   3 
 trump                Z1                   3 
 for                  Z5                   3 
 had                  A9+                  3 
 Bill_Clinton         Z1                   3 
 but                  Z5                   3 
-Hillary              Z99                  2 
 2016                 N1                   2 
+its                  Z8                   2 
 weeks                T1.3                 2 
 unsealed             Z99                  2 
 says                 Q2.1                 2 
@@ -95,6 +95,7 @@ believe              X2.1                 2
 laptop               Y2                   2 
 all                  N5.1+                2 
 than                 Z5                   2 
+Abedin               Z99                  2 
 find                 A10+                 2 
 congress             Z3                   2 
 even                 A13.1                2 
@@ -123,7 +124,6 @@ interference         S1.1.3+++            2
 may                  A7+                  2 
 former               T2-                  2 
 president            G1.1                 2 
-couldnt              Z99                  2 
 russians             Z2                   2 
 made                 A1.1.1               2 
 name                 Q2.2                 2 
@@ -147,7 +147,7 @@ wants                X7+                  1
 provided             A9-                  1 
 disgraced            S7.2-                1 
 congressman          G1.2                 1 
-Anthony_Weiners      Z1                   1 
+Anthony_Weiner       Z1                   1 
 computer             Y2                   1 
 incriminating        G2.1-                1 
 estranged            S3.1-                1 
@@ -201,7 +201,6 @@ suggest              Q2.2                 1
 anything_other       S2                   1 
 routine              A6.2+                1 
 between              Z5                   1 
-Abedin               Z99                  1 
 USA_today            Z1                   1 
 remains              T2++                 1 
 unknown              X2.2-                1 
@@ -266,7 +265,6 @@ found                A10+                 1
 appear               A8                   1 
 pertinent            A2.2                 1 
 wrote                Q1.2                 1 
-could                A7+                  1 
 assess               X2.4                 1 
 whether              Z5                   1 
 significant          A11.1+               1 
@@ -292,7 +290,6 @@ ship                 M4                   1
 previously           N4                   1 
 deciding             X6+                  1 
 charges              I1.3                 1 
-Comeys               Z99                  1 
 primary              A11.1+               1 
 cudgel               Z99                  1 
 supporters           S8+                  1 
@@ -315,7 +312,6 @@ York_on_Nov.         Z2                   1
 photo                C1                   1 
 Matt_Rourke          Z1                   1 
 AP                   Z3                   1 
-Abedins              Z99                  1 
 lawyers              G2.1                 1 
 requesting           Q2.2                 1 
 permission           S7.4+                1 
@@ -324,7 +320,6 @@ their                Z8                   1
 client               I2.2                 1 
 never                T1                   1 
 saw                  X3.4                 1 
-nt                   S9                   1 
 alerted              X2.2+                1 
 preventing           S8-                  1 
 them                 Z8                   1 
@@ -368,7 +363,6 @@ everything           Z8                   1
 prevailed            X9.2+                1 
 endure               A1.1.1               1 
 combination          A6.3+                1 
-FBIs                 Z99                  1 
 meddling             S1.1.3+++            1 
 end                  M6                   1 
 deal                 N5                   1 
@@ -376,8 +370,8 @@ prevail              X9.2+                1
 told                 Q2.1                 1 
 reporters            Q4.2                 1 
 Albany               Z1                   1 
+Hillary              Z99                  1 
 'could               Z99                  1 
-n't                  Z6                   1 
 prevail'             Z99                  1 
 over                 Z5                   1 
 FBI_trump            Z1                   1 
@@ -392,7 +386,10 @@ certified            I3.2+                1
 feuds                E3-                  1 
 republicans          G1.2                 1 
 mocked               Q2.2                 1 
+Clintons             Z1                   1 
+'                    Z5                   1 
 contention           X2.1                 1 
+'s                   A3+                  1 
 excuse               A2.2                 1 
 some                 N5                   1 
 strategic            X7+                  1 
@@ -436,7 +433,7 @@ public               S5+                  1
 matter               X4.1                 1 
 put                  M2                   1 
 rest                 E3+                  1 
-agents               I2.1                 1 
+agent                I2.1                 1 
 disclosed            Q2.2                 1 
 think                X2.1                 1 
 appropriate          A1.2+                1 

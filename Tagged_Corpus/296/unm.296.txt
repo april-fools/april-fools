@@ -3,7 +3,6 @@
 Brooklyn                 NP1     Z99 
 flat-head                NN1     Z99 
 honors                   VVZ     Z99 
-Ive                      NN1     Z99 
 logo-as-window           JJ      Z99 
 NASCAR                   NP1     Z99 
 non-designed             JJ      Z99 

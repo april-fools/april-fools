@@ -1,5 +1,6 @@
 $250,000                 NNU     Z99 
 'Do                      NN1     Z99 
+'I                       UH      Z99 
 'Oh                      NN1     Z99 
 Amherst                  NP1     Z99 
 caucus                   NN1     Z99 
@@ -32,7 +33,6 @@ Hetherington             NP1@    Z99
 high-scoring             JJ      Z99 
 high/high                JJ      Z99 
 homophobia               NN1     Z99 
-Im                       VV0     Z99 
 Islamophobia             NP1     Z99 
 IV                       MC      Z99 
 IX                       MC      Z99 

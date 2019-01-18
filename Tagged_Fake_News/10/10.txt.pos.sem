@@ -6,8 +6,9 @@
 0000002 040  VVI     disavow                  A6.1- E2- 
 0000002 050  AT      the                      Z5 
 0000002 060  JJ      Dark                     W2- O4.3 E4.1- X2.2- O4.2- 
-0000002 070  NN2     Lords                    G1.1 Z2 
-0000002 080  VV0     support                  S8+ A1.1.1 K5.1 I1.1 A10+ 
+0000002 070  NP1     Lord                     S7.1+/S2.2m S9/S2.2m Z4 S7.1+ 
+0000002 071  GE      's                       Z5 
+0000002 080  NN1     support                  S8+ O2 I1.1 B5% 
 0000002 081  ,       ,                        
 0000002 090  JJ      stirring                 M1 E1 
 0000002 100  NN1     controversy              Q2.2 
@@ -69,7 +70,8 @@
 0000004 511  .       .                        
 0000005 001  -----   -----                    
 0000006 010  CS      Though                   Z5 
-0000006 020  NP1     Saurons                  Z99 
+0000006 020  NP1     Sauron                   Z99 
+0000006 021  GE      's                       Z5 
 0000006 030  NN1     power                    S7.1+ O3 S1.2.5+ N2@ 
 0000006 040  RR      greatly                  A13.3 A5.1+ 
 0000006 050  VVN     diminished               N5-/A2.1 
@@ -239,9 +241,10 @@
 0000012 010  CS      When                     Z5 
 0000012 020  VVN@    asked                    Q2.2 
 0000012 030  II      about                    Z5 
-0000012 040  NP1     Sauron                   Z2[i12.3.1 
-0000012 050  II      on                       Z2[i12.3.2 Z5 
-0000012 060  NP2     NBCs                     Z2[i12.3.3 
+0000012 040  NP1     Sauron                   Z2[i13.3.1 Z2[i12.3.1 
+0000012 050  II      on                       Z2[i13.3.2 Z5 Z2[i12.3.2 
+0000012 060  NP1     NBC                      Z2[i13.3.3 Z2[i12.3.3 
+0000012 061  GE      's                       Z5 
 0000012 070  VV0     Meet                     S3.1 M6 A1.1.1 X9.2+ A6.1+ 
 0000012 080  AT      the                      Z5 
 0000012 090  NN1     Press                    Q4.2c O2 A1.1.1 Q4.1/I2.1c X8+ S7.1+ E6- 
@@ -260,7 +263,7 @@
 0000012 192  -----   -----                    
 0000012 200  PPIS1   I                        Z8mf 
 0000012 210  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000012 211  XX      nt                       S9/Q4.1 Z3c 
+0000012 211  XX      n't                      Z6 
 0000012 220  VVI     think                    X2.1 
 0000012 230  AT      the                      Z5 
 0000012 240  JJ      American                 Z2 
@@ -274,9 +277,9 @@
 0000012 320  NN1     Lord                     S7.1+/S2.2m S9/S2.2m 
 0000012 330  CS      before                   Z5 
 0000012 340  PPIS1   I                        Z8mf 
-0000012 350  VH0     have                     A7+[i13.3.1 A9+ Z5 A2.2 S4 
-0000012 360  AT1     a                        A7+[i13.3.2 Z5 
-0000012 370  NN1     chance                   A7+[i13.3.3 A1.4 A7+ 
+0000012 350  VH0     have                     A7+[i14.3.1 A9+ Z5 A2.2 S4 
+0000012 360  AT1     a                        A7+[i14.3.2 Z5 
+0000012 370  NN1     chance                   A7+[i14.3.3 A1.4 A7+ 
 0000012 380  TO      to                       Z5 
 0000012 390  VVI     learn                    X2.3+ P1 
 0000012 400  RRR     more                     A13.3 N6++ 
@@ -290,7 +293,7 @@
 0000012 450  PPIS1   I                        Z8mf 
 0000012 460  RR      just                     A14 T3--- T1.3- N3.3--- 
 0000012 470  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000012 471  XX      nt                       S9/Q4.1 Z3c 
+0000012 471  XX      n't                      Z6 
 0000012 480  VVI     know                     X2.2+ S3.2/B1% 
 0000012 490  PN1     anything                 Z8 
 0000012 500  II      about                    Z5 
@@ -315,11 +318,13 @@
 0000012 660  NN1     research                 X2.4 
 0000012 661  .       .                        
 0000013 001  -----   -----                    
-0000014 010  NN2     Trumps                   K5.2 S7.1+ 
+0000014 010  NN1     Trump                    Z1mf K5.2 
+0000014 011  GE      's                       Z5 
 0000014 020  NN1     refusal                  Q2.2/Z6 S7.4- X7- 
 0000014 030  TO      to                       Z5 
 0000014 040  VVI     disavow                  A6.1- E2- 
-0000014 050  NP1     Saurons                  Z99 
+0000014 050  NP1     Sauron                   Z99 
+0000014 051  GE      's                       Z5 
 0000014 060  NN1     support                  S8+ O2 I1.1 B5% 
 0000014 070  VHZ     has                      Z5 A9+ A2.2 S4 
 0000014 080  VVN     sparked                  O4.6+ O3 A2.2 
@@ -336,8 +341,8 @@
 0000014 180  VV0     claim                    Q2.2 A9+ 
 0000014 190  DD1     that                     Z5 Z8 
 0000014 200  NN1     Trump                    Z1mf 
-0000014 210  VBZ     is                       A5.4+[i14.2.1 A3+ Z5 
-0000014 220  PPX1    himself                  A5.4+[i14.2.2 Z8m 
+0000014 210  VBZ     is                       A5.4+[i15.2.1 A3+ Z5 
+0000014 220  PPX1    himself                  A5.4+[i15.2.2 Z8m 
 0000014 230  AT1     a                        Z5 
 0000014 240  NN1     lieutenant               G3/S7.1+/S2mf G2.1/S2mf S7.1+/S2mf S8+/S2mf 
 0000014 250  IO      of                       Z5 
@@ -349,8 +354,8 @@
 0000014 290  AT      The                      Z5 
 0000014 300  NN1     Republican               G1.2/S2mf 
 0000014 310  NN1     frontrunner              Z99 
-0000014 320  VVD     took                     E2+[i15.2.1 A9+ T1.3 C1 A1.1.1 M2 A2.1+ X2.4 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ E2+[i16.2.1 T2+[i16.2.1 
-0000014 330  II      to                       E2+[i15.2.2 Z5 E2+[i16.2.2 T2+[i16.2.2 
+0000014 320  VVD     took                     E2+[i16.2.1 A9+ T1.3 C1 A1.1.1 M2 A2.1+ X2.4 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ E2+[i17.2.1 T2+[i17.2.1 
+0000014 330  II      to                       E2+[i16.2.2 Z5 E2+[i17.2.2 T2+[i17.2.2 
 0000014 340  NN1     Twitter                  Z99 
 0000014 350  TO      to                       Z5 
 0000014 360  VVI     refute                   A10+/A5.2- 
@@ -368,8 +373,8 @@
 0000014 450  AT      The                      Z5 
 0000014 460  NN1     palantr                  Z99 
 0000014 470  II      in                       Z5 
-0000014 480  NN1     Trump                    Z2[i18.2.1 Z1mf Z1mf[i17.2.1 Z3c[i17.2.1 
-0000014 490  NN1     Tower                    Z2[i18.2.2 Z2 Z3c Z1mf[i17.2.2 Z3c[i17.2.2 
+0000014 480  NN1     Trump                    Z2[i19.2.1 Z1mf Z1mf[i18.2.1 Z3c[i18.2.1 
+0000014 490  NN1     Tower                    Z2[i19.2.2 Z2 Z3c Z1mf[i18.2.2 Z3c[i18.2.2 
 0000014 500  NN1     lobby                    H2 G1.2/S5+c 
 0000014 510  VBZ     is                       A3+ Z5 
 0000014 520  IF      for                      Z5 

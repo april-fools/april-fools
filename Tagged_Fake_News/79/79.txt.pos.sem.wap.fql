@@ -1,4 +1,4 @@
-TOTAL              246
+TOTAL              247
 the                  AT             13 
 trump                VV0            11 
 Clinton              NP1             9 
@@ -8,15 +8,16 @@ electoral            JJ              5
 of                   IO              5 
 to                   II              5 
 won                  VVD             4 
+trump                NN1             4 
 California           NP1             4 
 and                  CC              4 
 +                    FO              4 
 victory              NN1             3 
-trump                NN1             3 
 college              NN1             3 
 votes                NN2             3 
 in                   II              3 
 by                   II              3 
+'s                   GE              2 
 presidential         JJ              2 
 have                 VH0             2 
 after                II              2 
@@ -37,8 +38,7 @@ states               NN2             2
 total                NN1             2 
 election             NN1             2 
 since                CS              1 
-Donald               NP1             1 
-trumps               VVZ             1 
+Donald_trump         NP1             1 
 supporters           NN2             1 
 loser                NN1             1 
 Hillary_Clinton      NP1             1 
@@ -59,10 +59,9 @@ when                 CS              1
 he                   PPHS1           1 
 surpassed            VVD             1 
 270                  MC              1 
-nt                   XX              1 
+n't                  XX              1 
 come                 VVI             1 
 close_to             RR              1 
-trumps               NN2             1 
 304                  MC              1 
 she                  PPHS1           1 
 succeed              VVI             1 

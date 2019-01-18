@@ -1,5 +1,5 @@
-TOTAL              246
-trump                Z1                  14 
+TOTAL              247
+trump                Z1                  15 
 the                  Z5                  13 
 Clinton              Z1                   9 
 vote                 G1.2                 7 
@@ -16,7 +16,7 @@ college              P1                   3
 votes                G1.2                 3 
 in                   Z5                   3 
 by                   Z5                   3 
-trumps               K5.2                 2 
+'s                   Z5                   2 
 presidential         G1.1                 2 
 have                 Z5                   2 
 after                Z5                   2 
@@ -37,7 +37,7 @@ states               G1.1                 2
 total                N5.1+                2 
 election             G1.2                 2 
 since                Z5                   1 
-Donald               Z1                   1 
+Donald_trump         Z1                   1 
 supporters           S8+                  1 
 loser                X9.2-                1 
 Hillary_Clinton      Z1                   1 
@@ -57,7 +57,7 @@ president            G1.1                 1
 he                   Z8                   1 
 surpassed            A5.1++               1 
 270                  N1                   1 
-nt                   S9                   1 
+n't                  Z6                   1 
 come                 M1                   1 
 close_to             A13.4                1 
 304                  N1                   1 

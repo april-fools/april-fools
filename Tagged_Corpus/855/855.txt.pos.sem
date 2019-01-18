@@ -202,7 +202,8 @@
 0000020 020  AT1     a                        Z5 
 0000020 030  NN1     result                   A2.2 X9.2 N2 A5.1 K5 Q1.1/A2.2 
 0000020 040  IO      of                       Z5 
-0000020 050  NN2     HPs                      Z3c 
+0000020 050  NN1     HP                       Z3c 
+0000020 051  GE      's                       Z5 
 0000020 060  JJ      extensive                N5+ N3.6+ 
 0000020 070  NN1     research                 X2.4 
 0000020 080  II      across                   Z5 

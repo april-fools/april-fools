@@ -1,9 +1,10 @@
-TOTAL              317
+TOTAL              329
 terrible             JJ             14 
 the                  AT             13 
 i                    PPIS1          12 
+it                   PPH1            9 
 a                    AT1             8 
-its                  APPGE           8 
+'s                   VBZ             8 
 in                   II              7 
 and                  CC              7 
 is                   VBZ             6 
@@ -15,10 +16,10 @@ some                 DD              4
 girl                 NN1             4 
 that                 CST             4 
 he                   PPHS1           4 
-Donald               NP1             3 
+Donald_trump         NP1             3 
 dirty                JJ              3 
 about                II              3 
-Lyin_Ted_Cruz        NP1             3 
+lyin'                VVG             3 
 with                 IW              3 
 of                   IO              3 
 call                 NN1             3 
@@ -31,17 +32,19 @@ are                  VBR             2
 calling              VVG             2 
 very                 RG              2 
 this_morning         DD1             2 
-Donald_trump         NP1             2 
 beans                NN2             2 
 wife                 NN1             2 
 was                  VBDZ            2 
 Cruz                 NP1             2 
+Ted_Cruz             NP1             2 
 to                   II              2 
 former               DA              2 
+Donald               NP1             2 
 just                 RR              2 
 Mr._Trump            NNB             2 
 asked                VVN             2 
 how                  RRQ             2 
+n't                  XX              2 
 but                  CCB             2 
 why                  RRQ             2 
 they                 PPHS2           2 
@@ -51,13 +54,12 @@ these                DD2             2
 poor                 JJ              2 
 called               VVN             2 
 Indianapolis         NP1             1 
-trumps               VVZ             1 
+'s                   GE              1 
 recent               JJ              1 
 revelation           NN1             1 
 low                  JJ              1 
 blow                 NN1             1 
 politics             NN1             1 
-it                   PPH1            1 
 fair                 JJ              1 
 play                 NN1             1 
 game                 NN1             1 
@@ -68,6 +70,7 @@ promised             VVN             1
 spilled              VVD             1 
 his                  APPGE           1 
 opponent             NN1             1 
+Ted_Cruz'            NP1             1 
 Heidi                NP1             1 
 skype                NN1             1 
 interview            NN1             1 
@@ -94,7 +97,6 @@ in_possession_of     II31            1
 information          NN1             1 
 responded            VVD             1 
 did                  VDD             1 
-nt                   XX              1 
 want                 VVI             1 
 have_to              VHI             1 
 spill                VVI             1 
@@ -156,8 +158,8 @@ endure               VVI             1
 unsolicited          JJ              1 
 calls                NN2             1 
 from                 II              1 
-wouldnt              VV0             1 
-stop                 NN1             1 
+would                VM              1 
+stop                 VVI             1 
 called               VVD             1 
 things               NN2             1 
 says                 VVZ             1 

@@ -1,4 +1,4 @@
-TOTAL              513
+TOTAL              516
 the                  AT             31 
 a                    AT1            19 
 of                   IO             16 
@@ -7,8 +7,8 @@ to                   TO             13
 he                   PPHS1           8 
 in                   II              7 
 that                 CST             7 
+instrument           NN1             7 
 it                   PPH1            7 
-instrument           NN1             6 
 is                   VBZ             6 
 said                 VVD             6 
 to                   II              6 
@@ -20,7 +20,7 @@ musicians            NN2             4
 who                  PNQS            4 
 tonerite             NN1             4 
 with                 IW              4 
-instruments          NN2             3 
+cello                NN1             3 
 for                  IF              3 
 an                   AT1             3 
 Mr._Lye              NNB             3 
@@ -28,6 +28,7 @@ how                  RRQ             2
 violins              NN2             2 
 Italy                NP1             2 
 those                DD2             2 
+instruments          NN2             2 
 not                  XX              2 
 were                 VBDR            2 
 played               VVN             2 
@@ -37,14 +38,15 @@ more                 RRR             2
 stringed             JJ              2 
 vintage              NN1             2 
 violin               NN1             2 
-cello                NN1             2 
 or                   CC              2 
 guitar               NN1             2 
+tone                 NN1             2 
 new                  JJ              2 
 there                EX              2 
 maker                NN1             2 
 claims               NN2             2 
 you                  PPY             2 
+n't                  XX              2 
 Gainesville          NP1             2 
 its                  APPGE           2 
 Kronos               NP1             2 
@@ -55,8 +57,8 @@ Agapitus_Lye         NP1             2
 had                  VHD             2 
 been                 VBN             2 
 at                   II              2 
+'s                   GE              2 
 after                II              2 
-cellos               NN2             2 
 Mr._Frankel          NNB             2 
 that                 DD1             2 
 no_one               PN121           1 
@@ -95,7 +97,6 @@ lack                 VV0             1
 patience             NN1             1 
 wait                 VVI             1 
 years                NNT2            1 
-tone                 NN1             1 
 one                  PN1             1 
 develop              VVI             1 
 electronic           JJ              1 
@@ -120,11 +121,11 @@ greatly              RR              1
 accelerated          JJ              1 
 breaking-in          NN1             1 
 period               NN1             1 
-cant                 JJ              1 
-take                 VV0             1 
+ca                   VM              1 
+take                 VVI             1 
 cheap                JJ              1 
 plywood              NN1             1 
-turn_into            VV0             1 
+turn_into            VVI             1 
 Martin               NP1             1 
 Ryan_Frankel         NP1             1 
 chief_executive      JJ              1 
@@ -195,7 +196,6 @@ New_York_times       NP1             1
 rudimentary          JJ              1 
 put_together         VVD             1 
 improved             VVD             1 
-tone                 VV0             1 
 enough               RR              1 
 month                NNT1            1 
 luthier              NN1             1 
@@ -236,6 +236,7 @@ vibrating            JJ              1
 gadgets              NN2             1 
 fit                  JJ              1 
 violas               NN2             1 
+cellos               NN2             1 
 double_basses        JJ              1 
 guitars              NN2             1 
 mandolins            NN2             1 
@@ -303,7 +304,6 @@ heavy                JJ              1
 playing              NN1             1 
 unfortunately        RR              1 
 does                 VDZ             1 
-nt                   XX              1 
 simulate             VVI             1 
 practice             NN1             1 
 still                RR              1 

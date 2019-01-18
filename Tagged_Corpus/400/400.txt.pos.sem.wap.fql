@@ -1,4 +1,4 @@
-TOTAL              191
+TOTAL              193
 the                  AT             20 
 of                   IO              8 
 a                    AT1             6 
@@ -10,13 +10,16 @@ printed              JJ              4
 to                   TO              4 
 and                  CC              4 
 lightweight          JJ              3 
+'s                   GE              3 
 be                   VBI             3 
 is                   VBZ             3 
 world                NN1             2 
 prime_minister       JJ              2 
 futuristic           JJ              2 
 to                   II              2 
+London               NP1             2 
 skyline              NN1             2 
+today                RT              2 
 tower                NN1             2 
 construction         NN1             2 
 21st_century         MD              2 
@@ -36,8 +39,6 @@ colossus             NN1             1
 David_Cameron        NP1             1 
 announce             VVI             1 
 addition             NN1             1 
-Londons              NP2             1 
-today                RT              1 
 familiar             JJ              1 
 shape                NN1             1 
 opened               VVD             1 
@@ -62,7 +63,6 @@ plastic              NN1             1
 it                   PPH1            1 
 unable               JK              1 
 carry                VVI             1 
-todays               NN2             1 
 payload              NN1             1 
 telecommunications   NN2             1 
 equipment            NN1             1 
@@ -87,8 +87,6 @@ proudly              RR              1
 leading              VVG             1 
 way                  NN1             1 
 how                  RRQ             1 
-London               NP1             1 
-'s                   GE              1 
 look                 VVI             1 
 new                  JJ              1 
 brings               VVZ             1 

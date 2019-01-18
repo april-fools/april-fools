@@ -1,11 +1,13 @@
-TOTAL              582
+TOTAL              594
 the                  AT             59 
 of                   IO             27 
 and                  CC             21 
+China                NP1            11 
 to                   TO             11 
 in                   II             11 
 a                    AT1            10 
-China                NP1             7 
+'s                   GE              9 
+Philippines          NP2             8 
 that                 CST             7 
 international        JJ              7 
 for                  IF              6 
@@ -13,12 +15,10 @@ arbitration          NN1             6
 has                  VHZ             6 
 case                 NN1             6 
 its                  APPGE           6 
-Philippines          NP2             5 
 not                  XX              5 
 that                 DD1             5 
-Chinas               NP2             4 
+people               NN              4 
 it                   PPH1            4 
-Philippines          NP              4 
 with                 IW              4 
 foreign              JJ              4 
 will                 VM              4 
@@ -28,12 +28,12 @@ on                   II              4
 position             NN1             3 
 over                 II              3 
 ministry             NN1             3 
+'                    GE              3 
 disputes             NN2             3 
 North_Korea          NP1             3 
 should               VM              3 
 Malaysia             NP1             3 
 an                   AT1             2 
-peoples              NN2             2 
 south_China          ND1             2 
 Sea                  NNL1            2 
 any                  DD              2 
@@ -60,8 +60,8 @@ peace                NN1             2
 stability            NN1             2 
 was                  VBDZ            2 
 community            NN1             2 
+country              NN1             2 
 interviewed          VVD             2 
-people               NN              2 
 about                II              2 
 flight               NN1             2 
 370                  MC              2 
@@ -94,6 +94,7 @@ maintained           VVN             1
 does                 VDZ             1 
 accept               VVI             1 
 initiated            VVN             1 
+Philippines          NP              1 
 make                 VVI             1 
 clear                JJ              1 
 move                 NN1             1 
@@ -130,11 +131,11 @@ violation            NN1             1
 laws                 NN2             1 
 in                   RR21            1 
 vain                 RR22            1 
-Manilas              NP2             1 
+Manila               NP1             1 
 wrong                JJ              1 
 calculation          NN1             1 
-daily                RR              1 
-joined               VVN             1 
+Daily                NP1             1 
+joined               VVD             1 
 fun                  NN1             1 
 piece                NN1             1 
 called               VVN             1 
@@ -253,7 +254,6 @@ program              NN1             1
 suffer               VVI             1 
 long-term            JJ              1 
 isolation            NN1             1 
-countrys             NN2             1 
 poverty              NN1             1 
 never                RR              1 
 be                   VBI             1 
@@ -269,7 +269,7 @@ new                  JJ              1
 path                 NN1             1 
 finally              RR              1 
 Wall_Street          NP1             1 
-journals             NN2             1 
+journal              NN1             1 
 real                 JJ              1 
 time                 NNT1            1 
 blog                 NN1             1 
@@ -296,7 +296,6 @@ now                  RT              1
 have                 VH0             1 
 negative             JJ              1 
 view                 NN1             1 
-country              NN1             1 
 however              RR              1 
 around               RG              1 
 half                 DB              1 

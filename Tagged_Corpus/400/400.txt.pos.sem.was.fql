@@ -1,4 +1,4 @@
-TOTAL              191
+TOTAL              193
 the                  Z5                  20 
 of                   Z5                   8 
 a                    Z5                   6 
@@ -10,13 +10,16 @@ BT_tower             Z2                   4
 printed              Q1.2                 4 
 and                  Z5                   4 
 lightweight          N3.5-                3 
+'s                   Z5                   3 
 be                   A3+                  3 
 is                   Z5                   3 
 world                W1                   2 
 as                   Z5                   2 
 prime_minister       G1.1                 2 
 futuristic           T1.1.3               2 
+London               Z2                   2 
 skyline              W3                   2 
+today                T1.1.2               2 
 tower                H1                   2 
 construction         H1                   2 
 21st_century         T1.3                 2 
@@ -35,8 +38,6 @@ colossus             N3.2+                1
 David_Cameron        Z1                   1 
 announce             Q2.2                 1 
 addition             N5++                 1 
-Londons              Z2                   1 
-today                T1.1.2               1 
 familiar             A6.2+                1 
 shape                O4.4                 1 
 opened               A1.1.1               1 
@@ -61,7 +62,6 @@ plastic              O1.1                 1
 it                   Z8                   1 
 unable               X9.1-                1 
 carry                M2                   1 
-todays               T1.1.2               1 
 payload              Z99                  1 
 telecommunications   Q1.3                 1 
 equipment            O2                   1 
@@ -85,8 +85,6 @@ proudly              E4.2+                1
 leading              S7.1+                1 
 way                  X4.2                 1 
 how                  Z5                   1 
-London               Z2                   1 
-'s                   Z5                   1 
 look                 A8                   1 
 new                  T3-                  1 
 brings               M2                   1 

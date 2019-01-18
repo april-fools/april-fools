@@ -9,7 +9,8 @@
 0000002 070  VVN     associated               A6.1+/X2.1 S3.1 
 0000002 080  IW      with                     Z5 
 0000002 090  AT      the                      Z5 
-0000002 100  NN2     nations                  G1.1c S5+c 
+0000002 100  NN1     nation                   G1.1c S5+c 
+0000002 101  GE      's                       Z5 
 0000002 110  NN1     immigration              M1/M7 
 0000002 120  NN1     system                   X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c 
 0000002 130  VVZ     creates                  A1.1.1 A2.2 E1 

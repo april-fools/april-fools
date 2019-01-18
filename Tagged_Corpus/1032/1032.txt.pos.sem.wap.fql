@@ -1,19 +1,22 @@
-TOTAL              624
+TOTAL              636
 the                  AT             42 
 and                  CC             21 
 of                   IO             16 
 a                    AT1            14 
 his                  APPGE          14 
 to                   TO             10 
+Sheehan              NP1            10 
+'s                   GE              9 
 for                  IF              8 
-Sheehan              NP1             8 
 that                 CST             7 
 in                   II              7 
 he                   PPHS1           7 
+Geithner             NP1             6 
 but                  CCB             6 
 an                   AT1             6 
 has                  VHZ             6 
 on                   II              5 
+Obama                NP1             5 
 not                  XX              5 
 to                   II              5 
 their                APPGE           5 
@@ -21,9 +24,7 @@ is                   VBZ             5
 are                  VBR             4 
 had                  VHD             4 
 with                 IW              4 
-Obama                NP1             4 
 at                   II              4 
-Geithner             NP1             4 
 secretary            NN1             3 
 performance          NN1             3 
 then                 RT              3 
@@ -31,6 +32,8 @@ from                 II              3
 was                  VBDZ            3 
 effect               NN1             3 
 democratic           JJ              3 
+who                  PNQS            3 
+n't                  XX              3 
 words                NN2             3 
 how                  RRQ             3 
 they                 PPHS2           3 
@@ -38,8 +41,8 @@ or                   CC              3
 that                 DD1             3 
 treasury             NN1             2 
 media                NN              2 
-Geithners            NP1             2 
 out_of               II21            2 
+plan                 NN1             2 
 banks                NN2             2 
 even                 RR              2 
 as                   CSA             2 
@@ -47,12 +50,11 @@ been                 VBN             2
 all                  DB              2 
 it                   PPH1            2 
 indeed               RR              2 
-who                  PNQS            2 
 convention           NN1             2 
 speakers             NN2             2 
-Sheehans             NP2             2 
 most                 RGT             2 
 clients              NN2             2 
+have                 VH0             2 
 adviser              NN1             2 
 what                 DDQ             2 
 say                  VVI             2 
@@ -87,13 +89,12 @@ brutally             RR              1
 panned               VVN             1 
 gate                 NN1             1 
 released             VVN             1 
-administrations      NN2             1 
-plan                 VV0             1 
+administration       NN1             1 
 drain                VVI             1 
 toxic                JJ              1 
 assets               NN2             1 
 drowning             VVG             1 
-countrys             NN2             1 
+country              NN1             1 
 Dow                  NP1             1 
 promptly             RR              1 
 spiked               VVN             1 
@@ -178,7 +179,6 @@ countless            JJ              1
 campaigns            NN2             1 
 among                II              1 
 prominent            JJ              1 
-have                 VH0             1 
 Bill                 NP1             1 
 Hillary_Clinton      NP1             1 
 also                 RR              1 
@@ -188,7 +188,7 @@ prepped              VVD             1
 star-making          NN1             1 
 2004                 MC              1 
 keynote              NN1             1 
-last_years           MD              1 
+last_year            MD              1 
 nomination           NN1             1 
 acceptance           NN1             1 
 as_well              II31            1 
@@ -211,8 +211,8 @@ reputation           NN1             1
 so                   RG              1 
 stellar              JJ              1 
 competitors          NN2             1 
-cant                 JJ              1 
-help                 NN1             1 
+ca                   VM              1 
+help                 VVI             1 
 sing                 VV0             1 
 praises              NN2             1 
 Mike                 NP1             1 
@@ -282,14 +282,13 @@ great                JJ              1
 surprise             NN1             1 
 relationship         NN1             1 
 terrific             JJ              1 
-s                    VBZ             1 
+'s                   VBZ             1 
 close                JJ              1 
-presidents           NN2             1 
+president            NN1             1 
 senior               JJ              1 
 David_Axelrod        NP1             1 
 surprisingly         RR              1 
 does                 VDZ             1 
-nt                   XX              1 
 like                 VVI             1 
 talk                 VVI             1 
 about                II              1 
@@ -297,7 +296,7 @@ methodswhich         NN1             1
 include              VV0             1 
 according_to         II21            1 
 someone              PN1             1 
-whos                 NN2             1 
+'s                   VHZ             1 
 seen                 VVN             1 
 work_up              VVI             1 
 close                RR              1 
@@ -317,7 +316,7 @@ affect               NN1             1
 meaning              NN1             1 
 using                VVG             1 
 Wimbledon            NP1             1 
-analogy              NN1             1 
+analogy'             VV0             1 
 stop                 VVI             1 
 common               JJ              1 
 form                 NN1             1 
@@ -331,7 +330,6 @@ fruits               NN2             1
 efforts              NN2             1 
 already              RR              1 
 apparent             JJ              1 
-havent               VV0             1 
 changed              VVN             1 
 much                 RR              1 
 since                CS              1 
@@ -345,7 +343,6 @@ climate              NN1             1
 getting              VVG             1 
 bettermeaning        VVG             1 
 program              NN1             1 
-Obamas               NP2             1 
 steadfast            JJ              1 
 support              NN1             1 
 somewhat             RR              1 
@@ -356,7 +353,6 @@ give                 VV0             1
 wind                 NN1             1 
 back                 NN1             1 
 beyond               II              1 
-plan                 NN1             1 
 actually             RR              1 
 working              VVG             1 
 could                VM              1 

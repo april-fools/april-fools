@@ -32,7 +32,7 @@ Additional Information from General Services Administration Request for Proposal
 
     *Threshold Requirements [see page 62 of the link]
     1) The wall design shall be reinforced concrete.
-    2) The wall design shall be physically imposing in height. The Government’s nominal concept is for
+    2) The wall design shall be physically imposing in height. The Government's nominal concept is for
     a 30-foot high wall. Offerors should consider this height, but designs with heights of at least 18feet may be acceptable. Designs with heights of less than 18 feet are not acceptable.
     3) It shall not be possible for a human to climb to the top of the wall or access the top of the wall from either side unassisted (e.g. via the use of a ladder, etc.)
     4) The wall design shall include anti-climb topping features that prevent scaling using common and more sophisticated climbing aids (e.g. grappling hooks, handholds, etc.)

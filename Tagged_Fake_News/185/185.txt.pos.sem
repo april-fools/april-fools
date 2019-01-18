@@ -32,7 +32,8 @@
 0000002 281  .       .                        
 0000002 282  -----   -----                    
 0000002 290  CCB     But                      Z5 
-0000002 300  NN2     theres                   Z5 M6 T1.2 
+0000002 300  EX      there                    Z5 
+0000002 301  VBZ     's                       A3+ Z5 
 0000002 310  NN1     uncertainty              A7- 
 0000002 320  RP      over                     T2- M6 
 0000002 330  RR      exactly                  A4.2+ A5.3+ 
@@ -202,7 +203,7 @@
 0000008 060  AT      the                      Z5 
 0000008 070  NN2     parties                  S1.1.3+ G1.2 S1.1.3+/S2mf S5+ 
 0000008 080  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000008 081  XX      nt                       S9/Q4.1 Z3c 
+0000008 081  XX      n't                      Z6 
 0000008 090  VHI     have                     A9+ Z5 A2.2 S4 
 0000008 100  AT1     a                        N5+[i16.2.1 N6+[i16.2.1 A13.3[i16.2.1 Z5 
 0000008 110  NN1     lot                      N5+[i16.2.2 N6+[i16.2.2 A13.3[i16.2.2 
@@ -243,7 +244,8 @@
 0000010 120  II      before                   Z5 
 0000010 130  APPGE   their                    Z8 
 0000010 140  MC      2017                     N1 T1.2 T3 T1.3 N3.2 
-0000010 150  NNT2    sessions                 T1.3 
+0000010 150  NNT1    session                  T1.3 
+0000010 151  GE      's                       Z5 
 0000010 160  NN1     start                    T2+ E5- 
 0000010 170  VBDZ    was                      Z5 A3+ 
 0000010 180  VVN     challenged               A6.1- S7.3+ Q2.2 
@@ -251,7 +253,8 @@
 0000010 200  AT1     an                       Z5 
 0000010 210  NN1     opponent                 S7.3/S2mf 
 0000010 220  IO      of                       Z5 
-0000010 230  FO      HB2s                     Z99 
+0000010 230  FO      HB2                      Z99 
+0000010 231  GE      's                       Z5 
 0000010 240  NN1     repeal                   T2- 
 0000010 241  .       .                        
 0000010 242  -----   -----                    
@@ -297,7 +300,8 @@
 0000012 360  NN1     date                     T1.2 S3.2 S3.2/S2mf 
 0000012 361  .       .                        
 0000012 362  -----   -----                    
-0000012 370  NPD2    Mondays                  T1.3 
+0000012 370  NPD1    Monday                   T1.3 
+0000012 371  GE      's                       Z5 
 0000012 380  NN1     action                   A1.1.1 G3 
 0000012 390  II      by                       Z5 
 0000012 400  AT      the                      Z5 
@@ -306,8 +310,9 @@
 0000012 430  VBDZ    was                      A3+ Z5 
 0000012 440  JJ      contingent               A2.2[i23.2.1 
 0000012 450  II      on                       A2.2[i23.2.2 Z5 
-0000012 460  FO      HB2s                     Z99 
-0000012 470  VV0     repeal                   T2- 
+0000012 460  FO      HB2                      Z99 
+0000012 461  GE      's                       Z5 
+0000012 470  NN1     repeal                   T2- 
 0000012 480  II      by                       Z5 
 0000012 490  NPM1    Dec.                     T1.3[i24.2.1 
 0000012 500  MC      31                       T1.3[i24.2.2 N1 T1.2 T3 T1.3 N3.2 
@@ -351,7 +356,8 @@
 0000014 320  NNB     Gov.                     Z99 
 0000014 330  NNB     -elect                   Z99 
 0000014 340  NP1     Roy                      Z1mf[i27.2.1 Z3c[i27.2.1 Z1m 
-0000014 350  NP1     Coopers                  Z1mf[i27.2.2 Z3c[i27.2.2 Z1mf 
+0000014 350  NP1     Cooper                   Z1mf[i27.2.2 Z3c[i27.2.2 Z1mf 
+0000014 351  GE      's                       Z5 
 0000014 360  NN2     powers                   S7.1+ O3 S1.2.5+ N2@ 
 0000014 370  II      in                       Z5 
 0000014 380  NN1     check                    X2.4/A5.3 I1.3 O4.4/B5 
@@ -372,7 +378,8 @@
 0000016 070  MC      2                        N1 T1.2 T3 T1.3 N3.2 
 0000016 080  II      during                   Z5 
 0000016 090  AT      the                      Z5 
-0000016 100  NN2     governors                S7.1+/S2mf G1.1/S2mf O2% 
+0000016 100  NN1     governor                 S7.1+/S2mf G1.1/S2mf O2% 
+0000016 101  GE      's                       Z5 
 0000016 110  NN1     race                     K5.1 S7.3+ S5+c 
 0000016 111  ,       ,                        
 0000016 120  CC      and                      Z5 
@@ -391,7 +398,8 @@
 0000016 240  NN2     events                   A3+/A11.1+ A6.2- S1.1.1/X7+ K5 
 0000016 250  VVN     contributed              A9- A2.2 S1.1.3+ 
 0000016 260  II      to                       Z5 
-0000016 270  NP1     McCrorys                 Z99 
+0000016 270  NP1     McCrory                  Z99 
+0000016 271  GE      's                       Z5 
 0000016 280  JJ      narrow                   N3.7- A1.7+ N5- A13.6 
 0000016 290  NN1     defeat                   X9.2- 
 0000016 291  .       .                        
@@ -504,7 +512,8 @@
 0000022 150  NN1     place                    M6[i34.2.2 M7 H1 A1.2 P1 
 0000022 151  .       .                        
 0000023 001  -----   -----                    
-0000024 010  VBDR    Were                     Z5 A3+ 
+0000024 010  PPIS2   We                       Z8 
+0000024 011  VBR     're                      Z5 A3+ 
 0000024 020  VVG     sending                  M2 A2.2 
 0000024 030  AT      the                      Z5 
 0000024 040  NN1     message                  Q1.1 Q1.3/Y2 
@@ -616,8 +625,9 @@
 0000030 150  VVD     enacted                  G2.1 S7.4+ 
 0000030 160  NPD1    Monday                   T1.3 
 0000030 170  VVZ     notes                    Q2.1 Q1.2 
-0000030 180  CST     that                     Z5 Z8 
-0000030 190  APPGE   its                      Z8 
+0000030 180  CST     that                     Z8 Z5 
+0000030 190  PPH1    it                       Z8 
+0000030 191  VBZ     's                       A3+ Z5 
 0000030 200  JJ      dependent                A2.2 S7.1- 
 0000030 210  II      on                       Z5 
 0000030 220  FO      HB2                      Z99 
@@ -648,7 +658,8 @@
 0000032 020  PNQS    who                      Z8 
 0000032 030  VVD     helped                   S8+ 
 0000032 040  NN1     broker                   I2.2/S2mf S8+/S2mf 
-0000032 050  NP2     Charlottes               Z1f 
+0000032 050  NP1     Charlotte                Z1f 
+0000032 051  GE      's                       Z5 
 0000032 060  NN1     cooperation              S8+ 
 0000032 070  IW      with                     Z5 
 0000032 080  NN1     phone                    Q1.3[i44.2.1 Q1.3 
@@ -859,16 +870,19 @@
 0000044 060  NP1     Raleigh                  Z3c Z1mf 
 0000044 070  VVD     said                     Q2.1 
 0000044 080  CS      until                    Z5 
-0000044 090  NN2     theres                   Z5 M6 T1.2 
+0000044 090  EX      there                    Z5 
+0000044 091  VBZ     's                       A3+ Z5 
 0000044 100  AT1     a                        Z5 
 0000044 110  JJ      full                     N5.1+ I3.2+ 
 0000044 120  NN1     repeal                   T2- 
 0000044 121  ,       ,                        
-0000044 130  VV0     Im                       Z99 
+0000044 130  PPIS1   I                        Z8mf 
+0000044 131  VBM     'm                       A3+ Z5 
 0000044 140  RG      pretty                   A13.5 
 0000044 150  JJ      certain                  A4.2+ A7+ 
 0000044 160  CST     that                     Z8 Z5 
-0000044 170  VBDR    were                     Z5 A3+ 
+0000044 170  PPIS2   we                       Z8 
+0000044 171  VBR     're                      Z5 A3+ 
 0000044 180  XX      not                      Z6 
 0000044 190  VVGK    going                    T1.1.3[i58.2.1 
 0000044 200  TO      to                       T1.1.3[i58.2.2 Z5 

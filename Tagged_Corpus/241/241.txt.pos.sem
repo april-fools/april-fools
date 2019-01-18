@@ -1,6 +1,7 @@
 0000001 001  NULL    **6;0;START              
 0000001 002  -----   -----                    
-0000002 010  NP2     Scotlands                Z2 Z3c 
+0000002 010  NP1     Scotland                 Z2 Z3c 
+0000002 011  GE      's                       Z5 
 0000002 020  JJT     hardest                  O4.5 A12--- S1.2.5+++ 
 0000002 030  NP1     Munro                    Z99 
 0000002 031  ,       ,                        
@@ -56,7 +57,8 @@
 0000002 500  MC1     one                      N1 T3 T1.2 
 0000002 510  IO      of                       Z5 
 0000002 520  AT      the                      Z5 
-0000002 530  NN2     islands                  W3 
+0000002 530  NN1     island                   W3 
+0000002 531  GE      's                       Z5 
 0000002 540  NN1     mountain                 W3 
 0000002 550  NN2     guides                   S8+ Q4.1 S8+/S2mf K1/S5+ K1/S2.1f 
 0000002 551  .       .                        
@@ -146,7 +148,7 @@
 0000006 410  VVI     ascend                   M1 M6/N3.7+ X9.2+/A2.1 
 0000006 420  AT      the                      Z5 
 0000006 430  II      In                       Z5 
-0000006 440  NP1     Pinn                     Z99 
+0000006 440  NP1     Pinn'                    Z99 
 0000006 450  CSA     as                       Z5 
 0000006 460  PPH1    it                       Z8 
 0000006 470  VBDZ    was                      Z5 A3+ 

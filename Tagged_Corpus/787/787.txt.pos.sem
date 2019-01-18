@@ -237,7 +237,8 @@
 0000010 090  IO      of                       Z5 
 0000010 100  AT      the                      Z5 
 0000010 110  NN      data                     X2.2/X2.4 Q1.1 
-0000010 120  VVZ     thats                    Z5 Z8 A13.3 A6.1+ 
+0000010 120  CST     that                     Z8 Z5 
+0000010 121  VBZ     's                       A3+ Z5 
 0000010 130  RP      out                      M6[i11.2.1 M6 
 0000010 140  RL      there                    M6[i11.2.2 M6 T1.2 
 0000010 150  RL      together                 S5+ T1.1.2 M6 
@@ -355,7 +356,8 @@
 0000016 150  II      by                       Z5 
 0000016 160  NN2     changes                  A2.1+ I1 B1 
 0000016 170  II      in                       Z5 
-0000016 180  NN2     Earths                   W3 W1 O1.1 O3 N5++ 
+0000016 180  NN1     Earth                    W3 W1 O1.1 O3 N5++ 
+0000016 181  GE      's                       Z5 
 0000016 190  NN1     orbit                    M7/W1 S7.1+ 
 0000016 200  CC      and                      Z5 
 0000016 210  JJ      subsequent               N4 

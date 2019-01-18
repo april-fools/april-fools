@@ -1,4 +1,4 @@
-TOTAL              451
+TOTAL              454
 the                  Z5                  32 
 to                   Z5                  19 
 Sanders              Z99                 15 
@@ -6,13 +6,13 @@ and                  Z5                  15
 of                   Z5                  11 
 independent          S5-                  9 
 an                   Z5                   8 
+campaign             X7+                  7 
 run                  M1                   7 
 that                 Z5                   6 
 as                   Z5                   6 
 in                   Z5                   6 
 democratic           G1.2                 6 
 a                    Z5                   5 
-campaign             X7+                  5 
 this                 M6                   5 
 on                   Z5                   5 
 within               Z5                   5 
@@ -29,6 +29,7 @@ they                 Z8                   3
 for                  Z5                   3 
 candidate            G1.2                 3 
 against              Z5                   3 
+'s                   Z5                   3 
 with                 Z5                   3 
 polling              G1.2                 3 
 by                   Z5                   3 
@@ -45,9 +46,9 @@ convention           A6.2+                2
 be                   A3+                  2 
 nominee              X7+                  2 
 Donald_trump         Z1                   2 
+Hillary_Clinton      Z1                   2 
 were                 A3+                  2 
 his                  Z8                   2 
-campaigns            X7+                  2 
 actions              A1.1.1               2 
 could                A7+                  2 
 Clinton              Z1                   2 
@@ -70,6 +71,7 @@ cycle                M3                   1
 all                  N5.1+                1 
 across               Z5                   1 
 country              G1.1                 1 
+'                    Z5                   1 
 core                 O2                   1 
 infrastructure       I2.1                 1 
 volunteers           I3.1                 1 
@@ -113,14 +115,11 @@ putting              M2                   1
 position             M6                   1 
 being                A3+                  1 
 able                 X9.1+                1 
-Hillary_Clinton      Z1                   1 
 evidence             A5.2+                1 
 point                A10+                 1 
 disastrously         A5.1---              1 
 impact               A1.1.1               1 
 frontrunner          Z99                  1 
-Hillary              Z99                  1 
-Clintons             Z1                   1 
 ability              X9.1+                1 
 win                  X9.2+                1 
 presumptive          S1.2.3+              1 

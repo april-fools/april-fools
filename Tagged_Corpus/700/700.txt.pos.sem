@@ -25,8 +25,9 @@
 0000002 200  NN1     part                     N5.1- O2 M7 I3.1 S1.1.3+ K4 
 0000002 210  IO      of                       Z5 
 0000002 220  AT      the                      Z5 
-0000002 230  NN2     groups                   S5+ A4.1 B3% 
-0000002 240  VVD     promised                 S6+ A7+ 
+0000002 230  NN1     group                    S5+c A4.1c B3% 
+0000002 231  VBZ     's                       Z5 A3+ 
+0000002 240  VVN     promised                 S6+ A7+ 
 0000002 250  JJ      Islamist                 Z99 
 0000002 260  NN1     utopia                   M7/X7+ 
 0000002 261  ,       ,                        
@@ -127,7 +128,8 @@
 0000006 030  PNQS    who                      Z8 
 0000006 040  VVD     became                   A2.1+ O4.2+ 
 0000006 050  AT      the                      Z5 
-0000006 060  NN2     groups                   S5+ A4.1 B3% 
+0000006 060  NN1     group                    S5+c A4.1c B3% 
+0000006 061  GE      's                       Z5 
 0000006 070  NN1     ruler                    S7.1+/S2mf O2 
 0000006 080  II      in                       Z5 
 0000006 090  AT1     a                        Z5 
@@ -139,7 +141,8 @@
 0000006 140  RR      never                    T1/Z6 
 0000006 150  VVD     discovered               A10+ 
 0000006 160  AT      the                      Z5 
-0000006 170  NN1     Iraqis                   Z2/S2mf 
+0000006 170  NP1     Iraqis                   Z2/S2mf 
+0000006 171  GE      '                        Z5 
 0000006 180  JJ      real                     A3+ A5.2+ A5.4+ A13.3 
 0000006 190  NN2     identities               S2 A6.1+ Q1.2 
 0000006 191  ,       ,                        
@@ -193,8 +196,9 @@
 0000006 610  II      to                       Z5 
 0000006 620  AT      the                      Z5 
 0000006 630  JJ      Islamic                  S9 
-0000006 640  NN2@    States                   Z2 
-0000006 650  VV0@    own                      A9+ 
+0000006 640  NN1     State                    G1.1c O4.1 
+0000006 641  GE      's                       Z5 
+0000006 650  DA      own                      A9+ S5- 
 0000006 660  JJ      shadowy                  O4.1 
 0000006 670  NN1     security                 G2.1 A15+ E6+ I1.1 
 0000006 680  NN1     service                  S8+ S7.1- I2.2 A1.1.1 S9 I3.1 F1 G3@ G1.1@ G2.1@ 
@@ -267,7 +271,8 @@
 0000010 270  II      by                       Z5 
 0000010 280  NN2     members                  S5+/S2mf B1 
 0000010 290  IO      of                       Z5 
-0000010 300  NP2     Iraqs                    Z2 Z3c 
+0000010 300  NP1     Iraq                     Z2 Z3c 
+0000010 301  GE      's                       Z5 
 0000010 310  DA      former                   T2- N4 
 0000010 320  JJ      Baathist                 Z99 
 0000010 330  NN1     army                     G3c N5+ 
@@ -386,7 +391,8 @@
 0000014 350  VV0     facilitate               S8+ 
 0000014 360  AT      the                      Z5 
 0000014 370  JJ      Islamic                  S9 
-0000014 380  NP1     States                   Z2 
+0000014 380  NN1     State                    G1.1c O4.1 
+0000014 381  GE      's                       Z5 
 0000014 390  JJ      illicit                  G2.1- 
 0000014 400  NN1     oil                      O1.2 C1 C1/O1 
 0000014 410  NN1     trading                  I2.2 
@@ -493,7 +499,7 @@
 0000018 340  NN1     Iraqis                   Z2/S2mf 
 0000018 350  PPX2    themselves               Z8 
 0000018 360  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000018 361  XX      nt                       S9/Q4.1 Z3c 
+0000018 361  XX      n't                      Z6 
 0000018 370  VVI     fight                    S8- X8+ E3- G1.2 
 0000018 371  .       .                        
 0000018 372  -----   -----                    
@@ -520,7 +526,8 @@
 0000022 090  VVZ     obscures                 A10- 
 0000022 100  AT      the                      Z5 
 0000022 110  JJ      Islamic                  S9 
-0000022 120  NP1     States                   Z2 
+0000022 120  NN1     State                    G1.1c O4.1 
+0000022 121  GE      's                       Z5 
 0000022 130  NN2     roots                    L3 B1 A2.2 S4 A11.1+ Q3 N2 
 0000022 140  II      in                       Z5 
 0000022 150  AT      the                      Z5 
@@ -542,7 +549,8 @@
 0000022 300  NN1     cause                    A2.2 X2.1 X4.1 
 0000022 310  IO      of                       Z5 
 0000022 320  AT      the                      Z5 
-0000022 330  NN2     countrys                 G1.1c W3 F4/M7 K2 
+0000022 330  NN1     country                  G1.1c W3 F4/M7 K2 
+0000022 331  GE      's                       Z5 
 0000022 340  NN2     woes                     E4.1- 
 0000022 341  .       .                        
 0000023 001  -----   -----                    
@@ -550,7 +558,8 @@
 0000024 020  JJ      raw                      F1 O4.1 B2- X9.1- O4.6- A5.1- A5.2+@ 
 0000024 030  NN1     cruelty                  E3- 
 0000024 040  IO      of                       Z5 
-0000024 050  NP2     Husseins                 Z1mf 
+0000024 050  NP1     Hussein                  Z1mf 
+0000024 051  GE      's                       Z5 
 0000024 060  JJ      Baathist                 Z99 
 0000024 070  NN1     regime                   G1.1 S7.1+ B3 
 0000024 071  ,       ,                        
@@ -586,7 +595,8 @@
 0000024 360  IW      with                     Z5 
 0000024 370  AT      the                      Z5 
 0000024 380  JJ      Islamic                  S9 
-0000024 390  NP1     States                   Z2 
+0000024 390  NN1     State                    G1.1c O4.1 
+0000024 391  GE      's                       Z5 
 0000024 400  NN1     ascent                   M1 A2.1 
 0000024 401  ,       ,                        
 0000024 410  VVD     said                     Q2.1 
@@ -626,7 +636,8 @@
 0000026 130  NN1     group                    S5+c A4.1c B3% 
 0000026 131  ,       ,                        
 0000026 140  CC      and                      Z5 
-0000026 150  APPGE   its                      Z8 
+0000026 150  PPH1    it                       Z8 
+0000026 151  VBZ     's                       A3+ Z5 
 0000026 160  XX      not                      Z6 
 0000026 170  JJ      useful                   A1.5.2+ 
 0000026 171  ,       ,                        
@@ -676,7 +687,8 @@
 0000028 070  NP1     Paul                     Z1mf[i28.3.2 Z3c[i28.3.2 Z1m Z1mf[i27.2.2 Z3c[i27.2.2 Z1mf[i29.2.1 Z3c[i29.2.1 
 0000028 080  NP1     Bremer                   Z3c[i28.3.3 Z1mf[i28.3.3 Z1mf[i29.2.2 Z3c[i29.2.2 
 0000028 081  ,       ,                        
-0000028 090  NP2     Iraqs                    Z2 Z3c 
+0000028 090  NP1     Iraq                     Z2 Z3c 
+0000028 091  GE      's                       Z5 
 0000028 100  JJ      American                 Z2 
 0000028 110  NN1     ruler                    S7.1+/S2mf O2 
 0000028 120  II      in                       Z5 
@@ -962,7 +974,8 @@
 0000038 071  ,       ,                        
 0000038 080  AT      the                      Z5 
 0000038 090  JJ      Islamic                  S9 
-0000038 100  NP1     States                   Z2 
+0000038 100  NN1     State                    G1.1c O4.1 
+0000038 101  GE      's                       Z5 
 0000038 110  JJ      self-proclaimed          Q2.2 
 0000038 120  NN1     caliph                   Z99 
 0000038 121  ,       ,                        
@@ -980,7 +993,8 @@
 0000038 220  JJ      instrumental             A11.1+ K2 
 0000038 230  II      in                       Z5 
 0000038 240  AT      the                      Z5 
-0000038 250  NN2     groups                   S5+ A4.1 B3% 
+0000038 250  NN1     group                    S5+c A4.1c B3% 
+0000038 251  GE      's                       Z5 
 0000038 260  NN1     rebirth                  T2+/N6+ 
 0000038 270  II      from                     Z5 
 0000038 280  AT      the                      Z5 
@@ -1039,7 +1053,8 @@
 0000042 050  NN1     secularist               Z99 
 0000042 060  NN1     dogma                    X4.1 
 0000042 070  IO      of                       Z5 
-0000042 080  NP2     Husseins                 Z1mf 
+0000042 080  NP1     Hussein                  Z1mf 
+0000042 081  GE      's                       Z5 
 0000042 090  JJ      tyrannical               S7.1+ A1.7+ E3- 
 0000042 100  NN1     Baath                    Z99 
 0000042 110  NN1     Party                    K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c 
@@ -1049,7 +1064,8 @@
 0000042 150  IW      with                     Z5 
 0000042 160  AT      the                      Z5 
 0000042 170  JJ      Islamic                  S9 
-0000042 180  NP1     States                   Z2 
+0000042 180  NN1     State                    G1.1c O4.1 
+0000042 181  GE      's                       Z5 
 0000042 190  JJ      harsh                    O4.2- 
 0000042 200  NN1     interpretation           X2.5+ K2 Q3 
 0000042 210  IO      of                       Z5 
@@ -1086,7 +1102,8 @@
 0000044 210  NN      people                   S2mfc 
 0000044 220  II      under                    Z5 
 0000044 230  AT      the                      Z5 
-0000044 240  NN2     groups                   S5+ A4.1 B3% 
+0000044 240  NN1     group                    S5+c A4.1c B3% 
+0000044 241  GE      's                       Z5 
 0000044 250  NN1     rule                     G2.1 X4.2 A6.2+ S7.1+ Q3 
 0000044 251  .       .                        
 0000044 252  -----   -----                    
@@ -1114,7 +1131,8 @@
 0000044 450  CSA     as                       Z5 
 0000044 460  AT      the                      Z5 
 0000044 470  JJ      Islamic                  S9 
-0000044 480  NP1     States                   Z2 
+0000044 480  NN1     State                    G1.1c O4.1 
+0000044 481  GE      's                       Z5 
 0000044 490  JJ      harsh                    O4.2- 
 0000044 500  NN2     punishments              G2.1 
 0000044 510  VD0     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
@@ -1126,7 +1144,8 @@
 0000046 030  JJ      Islamic                  S9 
 0000046 040  NN1     State                    G1.1c O4.1 
 0000046 041  ,       ,                        
-0000046 050  NP2     Husseins                 Z1mf 
+0000046 050  NP1     Hussein                  Z1mf 
+0000046 051  GE      's                       Z5 
 0000046 060  NN1     Baath                    Z99 
 0000046 070  NN1     Party                    K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c 
 0000046 080  RR      also                     N5++ 
@@ -1212,8 +1231,9 @@
 0000048 470  AT      the                      Z5 
 0000048 480  NN2     ties                     B5 O2 S5+ S6+ A1.7+ K5.1/S7.3+ 
 0000048 490  II      at                       Z5 
-0000048 500  NP2     Singapores               Z2 
-0000048 510  VV0     Nanyang                  Z99 
+0000048 500  NP1     Singapore                Z2 
+0000048 501  GE      's                       Z5 
+0000048 510  NN1     Nanyang                  Z99 
 0000048 520  JJ      Technological            Y1 
 0000048 530  NN1     University               P1/H1c 
 0000048 531  .       .                        
@@ -1241,7 +1261,8 @@
 0000052 040  IO      of                       Z5 
 0000052 050  AT      the                      Z5 
 0000052 060  JJ      Iraqi                    Z2 
-0000052 070  NN2     dictators                S7.1+/S2mf Q2.2/S2mf 
+0000052 070  NN1     dictator                 S7.1+/S2mf Q2.2/S2mf 
+0000052 071  GE      's                       Z5 
 0000052 080  NN1     Faith                    E6+ S9 X2.1 
 0000052 090  NN1     Campaign                 X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 G3 
 0000052 100  II      in                       Z5 
@@ -1316,7 +1337,8 @@
 0000054 040  MC      two                      T1.1.1[i53.3.2 N1 T3 T1.2 
 0000054 050  NNT2    years                    T1.1.1[i53.3.3 T1.3 
 0000054 060  IO      of                       Z5 
-0000054 070  NP2     Husseins                 Z1mf 
+0000054 070  NP1     Hussein                  Z1mf 
+0000054 071  GE      's                       Z5 
 0000054 080  NN1     rule                     G2.1 X4.2 A6.2+ S7.1+ Q3 
 0000054 081  ,       ,                        
 0000054 090  AT1     a                        Z5 
@@ -1684,8 +1706,9 @@
 0000068 630  II      in                       Z5 
 0000068 640  NP1     Iraq                     Z2 Z3c 
 0000068 650  IF      for                      Z5 
-0000068 660  ND1     West                     Z2 Z1mf 
-0000068 670  VVZ     Points                   Q2.1 X4.1 A5.1 A1.5.2 M7 T1.2 O4.4 O3 K5 A10+ M6 H1 
+0000068 660  NP1     West                     Z2[i72.2.1 Z2 Z1mf Z2[i70.2.1 Z1mf[i71.2.1 Z3c[i71.2.1 
+0000068 670  NP1     Point                    Z2[i72.2.2 Z2[i70.2.2 Z1mf[i71.2.2 Z3c[i71.2.2 
+0000068 671  VBZ     's                       A3+ Z5 
 0000068 680  VVG     Combating                Z99 
 0000068 690  NN1     Terrorism                G2.1- 
 0000068 700  NN1     Center                   M6 H1c M7c G1.2c K5.1mfn 
@@ -1697,11 +1720,12 @@
 0000068 760  IW      with                     Z5 
 0000068 770  AT      the                      Z5 
 0000068 780  JJ      New                      T3- 
-0000068 790  NP1     America                  Z3c[i70.2.1 Z2 
-0000068 800  NN1     Foundation               Z3c[i70.2.2 T2+ H2 S5+c A5.2+ B4 
+0000068 790  NP1     America                  Z3c[i73.2.1 Z2 
+0000068 800  NN1     Foundation               Z3c[i73.2.2 T2+ H2 S5+c A5.2+ B4 
 0000068 801  .       .                        
 0000069 001  -----   -----                    
-0000070 010  NP1     Baghdadis                Z99 
+0000070 010  NP1     Baghdadi                 Z99 
+0000070 011  GE      's                       Z5 
 0000070 020  NN1     effort                   X8+ O2 
 0000070 030  VBDZ    was                      Z5 A3+ 
 0000070 040  RRR     further                  N5++ N3.3++ T2++ 
@@ -1721,14 +1745,14 @@
 0000070 180  MC      2011                     N1 T1.2 T3 T1.3 N3.2 
 0000070 190  II      by                       Z5 
 0000070 200  RT      then                     N4 Z5 T1.2 
-0000070 210  JJ      Prime                    G1.1/S2mf[i71.2.1 A11.1+++ A5.1+++ A4.2+ 
-0000070 220  NN1     Minister                 G1.1/S2mf[i71.2.2 G1.1/S2mf S9/S2mf 
+0000070 210  JJ      Prime                    G1.1/S2mf[i74.2.1 A11.1+++ A5.1+++ A4.2+ 
+0000070 220  NN1     Minister                 G1.1/S2mf[i74.2.2 G1.1/S2mf S9/S2mf 
 0000070 230  NN1     Nouri                    Z99 
 0000070 240  NN1     al-Maliki                Z99 
 0000070 241  ,       ,                        
 0000070 250  PNQS    who                      Z8 
-0000070 260  VVD     set                      T2+[i72.2.1 A1.1.1[i72.2.1 M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3 
-0000070 270  RP      about                    T2+[i72.2.2 A1.1.1[i72.2.2 Z5 M6 
+0000070 260  VVD     set                      T2+[i75.2.1 A1.1.1[i75.2.1 M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3 
+0000070 270  RP      about                    T2+[i75.2.2 A1.1.1[i75.2.2 Z5 M6 
 0000070 280  VVG     firing                   I3.1- G3 M2 A2.2 Q2.2 
 0000070 290  RR      even                     A13.1 
 0000070 300  DD2     those                    Z5 Z8 
@@ -1748,8 +1772,8 @@
 0000072 030  VBDZ    was                      A3+ Z5 
 0000072 040  NNB     Brigadier                G3/S7.1+/S2mf 
 0000072 050  NNB     General                  N5+ A4.2- G3/S7.1+/S2mf B3/H1 
-0000072 060  NP1     Hassan                   Z1mf[i73.2.1 Z3c[i73.2.1 
-0000072 070  NP1     Dulaimi                  Z1mf[i73.2.2 Z3c[i73.2.2 
+0000072 060  NP1     Hassan                   Z1mf[i76.2.1 Z3c[i76.2.1 
+0000072 070  NP1     Dulaimi                  Z1mf[i76.2.2 Z3c[i76.2.2 
 0000072 071  ,       ,                        
 0000072 080  AT1     a                        Z5 
 0000072 090  DA      former                   T2- N4 
@@ -1792,8 +1816,8 @@
 0000073 001  -----   -----                    
 0000074 010  NNB     Brigadier                G3/S7.1+/S2mf 
 0000074 020  NNB     General                  N5+ A4.2- G3/S7.1+/S2mf B3/H1 
-0000074 030  NP1     Hassan                   Z1mf[i74.2.1 Z3c[i74.2.1 
-0000074 040  NP1     Dulaimi                  Z1mf[i74.2.2 Z3c[i74.2.2 
+0000074 030  NP1     Hassan                   Z1mf[i77.2.1 Z3c[i77.2.1 
+0000074 040  NP1     Dulaimi                  Z1mf[i77.2.2 Z3c[i77.2.2 
 0000074 050  VBDZ    was                      Z5 A3+ 
 0000074 060  VVN     dismissed                A11.1- X2.1- I3.1- S7.4+/M1 G2.1 
 0000074 070  II      as                       Z5 
@@ -1831,8 +1855,8 @@
 0000076 160  APPGE   his                      Z8m 
 0000076 170  NN1     pension                  I1.1/T3+ H4/H1c 
 0000076 171  ,       ,                        
-0000076 180  II21    along                    Z5[i75.2.1 Z5 
-0000076 190  II22    with                     Z5[i75.2.2 
+0000076 180  II21    along                    Z5[i78.2.1 Z5 
+0000076 190  II22    with                     Z5[i78.2.2 
 0000076 200  MC      124                      N1 T1.2 T3 T1.3 N3.2 
 0000076 210  JJ      other                    A6.1- 
 0000076 220  NN2     officers                 G3/S7.1+/S2mf G1.1/S2mf S7.1+/S2mf G2.1/S2mf 
@@ -1852,8 +1876,8 @@
 0000078 050  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
 0000078 051  XX      n't                      Z6 
 0000078 060  VVI     happen                   A2.1+ A3+ X7- 
-0000078 070  II      by                       A1.4+[i76.2.1 Z5 
-0000078 080  NN1     chance                   A1.4+[i76.2.2 A1.4 A7+ 
+0000078 070  II      by                       A1.4+[i79.2.1 Z5 
+0000078 080  NN1     chance                   A1.4+[i79.2.2 A1.4 A7+ 
 0000078 081  ,       ,                        
 0000078 082  NULL    </quote>                 
 0000078 083  -----   -----                    
@@ -1919,13 +1943,13 @@
 0000080 190  MC      2003                     N1 T1.2 T3 T1.3 N3.2 
 0000080 200  CC      and                      Z5 
 0000080 210  VVN     struggled                X8+ A12- E3- 
-0000080 220  IF      for                      T1.3+[i77.3.1 Z5 
-0000080 230  DA2     many                     T1.3+[i77.3.2 N5+ 
-0000080 240  NNT2    years                    T1.3+[i77.3.3 T1.3 
+0000080 220  IF      for                      T1.3+[i80.3.1 Z5 
+0000080 230  DA2     many                     T1.3+[i80.3.2 N5+ 
+0000080 240  NNT2    years                    T1.3+[i80.3.3 T1.3 
 0000080 250  TO      to                       Z5 
-0000080 260  VVI     make                     I1/I3.1[i78.3.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
-0000080 270  AT1     a                        I1/I3.1[i78.3.2 Z5 
-0000080 280  NN1     living                   I1/I3.1[i78.3.3 H4 L1+ I3.1 I1.1 S9% 
+0000080 260  VVI     make                     I1/I3.1[i81.3.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000080 270  AT1     a                        I1/I3.1[i81.3.2 Z5 
+0000080 280  NN1     living                   I1/I3.1[i81.3.3 H4 L1+ I3.1 I1.1 S9% 
 0000080 281  .       .                        
 0000080 282  -----   -----                    
 0000080 290  PPHS1   He                       Z8m 
@@ -1934,7 +1958,8 @@
 0000080 320  II      as                       Z5 
 0000080 330  AT      the                      Z5 
 0000080 340  JJ      Islamic                  S9 
-0000080 350  NP1     States                   Z2 
+0000080 350  NN1     State                    G1.1c O4.1 
+0000080 351  GE      's                       Z5 
 0000080 360  NN2     wali                     Z99 
 0000080 361  ,       ,                        
 0000080 370  CC      or                       Z5 
@@ -1942,8 +1967,8 @@
 0000080 381  ,       ,                        
 0000080 390  II      in                       Z5 
 0000080 400  AT      the                      Z5 
-0000080 410  NN1     Anbar                    Z2[i79.2.1 
-0000080 420  NN1     town                     Z2[i79.2.2 M7 
+0000080 410  NN1     Anbar                    Z2[i82.2.1 
+0000080 420  NN1     town                     Z2[i82.2.2 M7 
 0000080 430  IO      of                       Z5 
 0000080 440  NN1@    Hit                      E3- X9.2+ K3 G3 
 0000080 441  ,       ,                        
@@ -2034,9 +2059,9 @@
 0000084 083  -----   -----                    
 0000084 090  AT      The                      Z5 
 0000084 100  NN      people                   S2mfc 
-0000084 110  II31    in                       S7.1+[i80.3.1 Z5 
-0000084 120  II32    charge                   S7.1+[i80.3.2 
-0000084 130  II33    of                       S7.1+[i80.3.3 
+0000084 110  II31    in                       S7.1+[i83.3.1 Z5 
+0000084 120  II32    charge                   S7.1+[i83.3.2 
+0000084 130  II33    of                       S7.1+[i83.3.3 
 0000084 140  JJ      military                 G3 
 0000084 150  NN2     operations               A1.1.1 B3 G3 
 0000084 160  II      in                       Z5 
@@ -2073,7 +2098,8 @@
 0000084 433  -----   -----                    
 0000086 010  AT      The                      Z5 
 0000086 020  JJ      Islamic                  S9 
-0000086 030  NP1     States                   Z2 
+0000086 030  NN1     State                    G1.1c O4.1 
+0000086 031  GE      's                       Z5 
 0000086 040  NN1     seizure                  A9+ X9.2+/G3 S7.1+ B2- 
 0000086 050  IO      of                       Z5 
 0000086 060  NN1     territory                M7 A4.1 
@@ -2083,7 +2109,8 @@
 0000086 100  II      by                       Z5 
 0000086 110  AT      the                      Z5 
 0000086 120  JJ      Maliki                   Z99 
-0000086 130  NN2     governments              G1.1c 
+0000086 130  NN1     government               G1.1c 
+0000086 131  GE      's                       Z5 
 0000086 140  JJR     broader                  A4.2-- N3.7++ N5++ 
 0000086 150  NN1     persecution              E3- 
 0000086 160  IO      of                       Z5 
@@ -2120,8 +2147,8 @@
 0000086 451  .       .                        
 0000087 001  -----   -----                    
 0000088 010  JJ      Iraqi                    Z2 
-0000088 020  JJ      Prime                    G1.1/S2mf[i81.2.1 A11.1+++ A5.1+++ A4.2+ 
-0000088 030  NN1     Minister                 G1.1/S2mf[i81.2.2 G1.1/S2mf S9/S2mf 
+0000088 020  JJ      Prime                    G1.1/S2mf[i84.2.1 A11.1+++ A5.1+++ A4.2+ 
+0000088 030  NN1     Minister                 G1.1/S2mf[i84.2.2 G1.1/S2mf S9/S2mf 
 0000088 040  NN1     Nouri                    Z99 
 0000088 050  NN1     al-Maliki                Z99 
 0000088 060  VBDZ    was                      Z5 A3+ 
@@ -2174,7 +2201,8 @@
 0000090 350  VV0     oversaw                  Z99 
 0000090 360  AT      the                      Z5 
 0000090 370  JJ      Islamic                  S9 
-0000090 380  NP1     States                   Z2 
+0000090 380  NN1     State                    G1.1c O4.1 
+0000090 381  GE      's                       Z5 
 0000090 390  NN1     expansion                N3.2+/A2.1 A4.2-/A2.1 
 0000090 400  II      in                       Z5 
 0000090 410  NP1     Syria                    Z2 
@@ -2188,7 +2216,8 @@
 0000091 001  -----   -----                    
 0000092 010  DD      Some                     N5 Z5 
 0000092 020  IO      of                       Z5 
-0000092 030  NP1     Baghdadis                Z99 
+0000092 030  NP1     Baghdadi                 Z99 
+0000092 031  GE      's                       Z5 
 0000092 040  JJT     closest                  N3.3--- A4.2+++ S5+++ S1.1.3+++ A6.1+++ E2+++ W4 
 0000092 050  NN2     aides                    S8+/S2mf 
 0000092 051  ,       ,                        
@@ -2203,8 +2232,8 @@
 0000092 130  NP1     Iraq                     Z2 Z3c 
 0000092 131  ,       ,                        
 0000092 140  CC      and                      Z5 
-0000092 150  NP1     Abu                      Z1mf[i82.2.1 Z3c[i82.2.1 Z1m 
-0000092 160  NP1     Ayman                    Z1mf[i82.2.2 Z3c[i82.2.2 
+0000092 150  NP1     Abu                      Z1mf[i85.2.1 Z3c[i85.2.1 Z1m 
+0000092 160  NP1     Ayman                    Z1mf[i85.2.2 Z3c[i85.2.2 
 0000092 170  JJ      al-Iraqi                 Z99 
 0000092 171  ,       ,                        
 0000092 180  MC1     one                      N1 T3 T1.2 
@@ -2234,12 +2263,12 @@
 0000092 400  CST     that                     Z5 Z8 
 0000092 410  DA2     many                     N5+ 
 0000092 420  VV0     feign                    A5.4- 
-0000092 430  APPGE   their                    Z8[i83.2.1 Z8 
-0000092 440  DA      own                      Z8[i83.2.2 A9+ S5- 
+0000092 430  APPGE   their                    Z8[i86.2.1 Z8 
+0000092 440  DA      own                      Z8[i86.2.2 A9+ S5- 
 0000092 450  NN2     deaths                   L1- 
-0000092 460  BCL21   in                       Z5[i84.3.1 Z5[i85.2.1 
-0000092 470  BCL22   order                    Z5[i84.3.2 Z5[i85.2.2 
-0000092 480  TO      to                       Z5[i84.3.3 Z5 
+0000092 460  BCL21   in                       Z5[i87.3.1 Z5[i88.2.1 
+0000092 470  BCL22   order                    Z5[i87.3.2 Z5[i88.2.2 
+0000092 480  TO      to                       Z5[i87.3.3 Z5 
 0000092 490  VVI     evade                    A1.9 
 0000092 500  NN1     detection                A10+ 
 0000092 501  ,       ,                        
@@ -2267,7 +2296,8 @@
 0000094 120  NN1     influence                S7.1+ A2.2 
 0000094 130  II      at                       Z5 
 0000094 140  AT      the                      Z5 
-0000094 150  NN2     groups                   S5+ A4.1 B3% 
+0000094 150  NN1     group                    S5+c A4.1c B3% 
+0000094 151  GE      's                       Z5 
 0000094 160  NN1     core                     O2 F1 A11.1+ Y2% 
 0000094 161  ,       ,                        
 0000094 170  RR      even                     A13.1 
@@ -2310,13 +2340,13 @@
 0000096 230  IO      of                       Z5 
 0000096 240  NN2     intermediaries           S8+/S2mf 
 0000096 250  RR      frequently               N6+ 
-0000096 260  VVN     drawn                    A1.5.1[i86.2.1 C1 M2 A9+ X5.1+ I1.2 O4.2+ X2.1 K5.1 
-0000096 270  II      from                     A1.5.1[i86.2.2 Z5 
+0000096 260  VVN     drawn                    A1.5.1[i89.2.1 C1 M2 A9+ X5.1+ I1.2 O4.2+ X2.1 K5.1 
+0000096 270  II      from                     A1.5.1[i89.2.2 Z5 
 0000096 280  AT      the                      Z5 
 0000096 290  JJ      old                      T3+ Z4 
 0000096 300  JJ      Iraqi                    Z2 
-0000096 310  NN1     intelligence             G1.1[i87.2.1 X9.1+ X2.2+ S1.2.6+ 
-0000096 320  NN2     agencies                 G1.1[i87.2.2 I2.2/S5+c G1.1c 
+0000096 310  NN1     intelligence             G1.1[i90.2.1 X9.1+ X2.2+ S1.2.6+ 
+0000096 320  NN2     agencies                 G1.1[i90.2.2 I2.2/S5+c G1.1c 
 0000096 321  ,       ,                        
 0000096 330  PPHS1   he                       Z8m 
 0000096 340  VVD     said                     Q2.1 
@@ -2330,8 +2360,8 @@
 0000098 050  NN1     mind-set                 X2 
 0000098 060  IO      of                       Z5 
 0000098 070  NN1     secrecy                  A10- 
-0000098 080  II31    as                       N5++[i88.2.1 Z5 
-0000098 090  II32    well                     N5++[i88.2.2 
+0000098 080  II31    as                       N5++[i91.2.1 Z5 
+0000098 090  II32    well                     N5++[i91.2.2 
 0000098 100  II33    as                       Z5 
 0000098 110  APPGE   its                      Z8 
 0000098 120  NN2     skills                   X9.1+ 
@@ -2350,8 +2380,8 @@
 0000100 060  AT      the                      Z5 
 0000100 070  NN1     detention                P1/G2.1 G2.1 A1.7+ 
 0000100 080  IO      of                       Z5 
-0000100 090  NP1     Abu                      Z1mf[i89.2.1 Z3c[i89.2.1 Z1m 
-0000100 100  NP1     Hamza                    Z1mf[i89.2.2 Z3c[i89.2.2 
+0000100 090  NP1     Abu                      Z1mf[i92.2.1 Z3c[i92.2.1 Z1m 
+0000100 100  NP1     Hamza                    Z1mf[i92.2.2 Z3c[i92.2.2 
 0000100 110  VBDZ    was                      A3+ Z5 
 0000100 120  MC1     one                      T3 N1 T1.2 
 0000100 130  IO      of                       Z5 
@@ -2389,7 +2419,8 @@
 0000102 050  CC      and                      Z5 
 0000102 060  NN2     ears                     B1 
 0000102 070  IO      of                       Z5 
-0000102 080  NP1     Daeshs                   Z99 
+0000102 080  NP1     Daesh                    Z99 
+0000102 081  GE      's                       Z5 
 0000102 090  NN1     security                 G2.1 A15+ E6+ I1.1 
 0000102 091  ,       ,                        
 0000102 100  CC      and                      Z5 
@@ -2413,8 +2444,8 @@
 0000102 240  NN1     State                    G1.1c O4.1 
 0000102 241  .       .                        
 0000103 001  -----   -----                    
-0000104 010  NP1     Saddam                   Z1mf[i90.2.1 Z3c[i90.2.1 Z1m 
-0000104 020  NP1     Hussein                  Z1mf[i90.2.2 Z3c[i90.2.2 Z1mf 
+0000104 010  NP1     Saddam                   Z1mf[i93.2.1 Z3c[i93.2.1 Z1m 
+0000104 020  NP1     Hussein                  Z1mf[i93.2.2 Z3c[i93.2.2 Z1mf 
 0000104 021  GE      's                       Z5 
 0000104 030  DA      former                   T2- N4 
 0000104 040  JJ      military                 G3 
@@ -2426,9 +2457,9 @@
 0000104 100  JJT     highest                  N3.7+++ N5+++ A11.1+++ S7.1+++ A5.1+++ T3--- X3.2 G2.2+++ E4.1+++ I1.3+++ O4.2--- O4.6+++ S9 
 0000104 110  NN2     levels                   N3.7 N5 S5+ A5.1 X9.1 A4.1 S7.1 
 0000104 120  IO      of                       Z5 
-0000104 130  NP1     Isis                     Z1mf[i92.3.1 Z3c[i92.3.1 Z1mf[i91.2.1 Z3c[i91.2.1 
-0000106 010  NP1     Abu                      Z1mf[i92.3.2 Z3c[i92.3.2 Z1m Z1mf[i91.2.2 Z3c[i91.2.2 Z1mf[i93.2.1 Z3c[i93.2.1 
-0000106 020  NP1     Hamza                    Z3c[i92.3.3 Z1mf[i92.3.3 Z1mf[i93.2.2 Z3c[i93.2.2 
+0000104 130  NP1     Isis                     Z1mf[i95.3.1 Z3c[i95.3.1 Z1mf[i94.2.1 Z3c[i94.2.1 
+0000106 010  NP1     Abu                      Z1mf[i95.3.2 Z3c[i95.3.2 Z1m Z1mf[i94.2.2 Z3c[i94.2.2 Z1mf[i96.2.1 Z3c[i96.2.1 
+0000106 020  NP1     Hamza                    Z3c[i95.3.3 Z1mf[i95.3.3 Z1mf[i96.2.2 Z3c[i96.2.2 
 0000106 030  VBDZ    was                      Z5 A3+ 
 0000106 040  VVN     released                 A1.7- A9- 
 0000106 050  II      from                     Z5 
@@ -2436,10 +2467,10 @@
 0000106 070  II      after                    Z5 
 0000106 080  VVG     agreeing                 A6.1+ Q2.2 
 0000106 090  TO      to                       Z5 
-0000106 100  VVI     fall                     M1 N5-/A2.1 S7.1- L1- A1.8+ G2.2- X9.2- K5.2 G2.2-[i94.2.1 
-0000106 110  II31    into                     A6.1+[i95.3.1 Z5 G2.2-[i94.2.2 
-0000106 120  II32    line                     A6.1+[i95.3.2 
-0000106 130  II33    with                     A6.1+[i95.3.3 
+0000106 100  VVI     fall                     M1 N5-/A2.1 S7.1- L1- A1.8+ G2.2- X9.2- K5.2 G2.2-[i97.2.1 
+0000106 110  II31    into                     A6.1+[i98.3.1 Z5 G2.2-[i97.2.2 
+0000106 120  II32    line                     A6.1+[i98.3.2 
+0000106 130  II33    with                     A6.1+[i98.3.3 
 0000106 140  AT      the                      Z5 
 0000106 150  JJ      other                    A6.1- 
 0000106 160  NN2     commanders               S7.1+/S2mf G3/S7.1+/S2mf G2.1/S2mf 
@@ -2497,7 +2528,8 @@
 0000110 050  RR      fast                     N3.8+ 
 0000110 060  CC      and                      Z5 
 0000110 070  PPY     you                      Z8mf 
-0000110 080  NN1     cant                     Q2.1 
+0000110 080  VM      ca                       A7+ 
+0000110 081  XX      n't                      Z6 
 0000110 090  VBI     be                       A3+ Z5 
 0000110 100  AT1     an                       Z5 
 0000110 110  NN1     emir                     S9/S2.2m 
@@ -2508,7 +2540,7 @@
 0000110 150  RL      inside                   M6 G2.1@ 
 0000110 160  PPIS1   I                        Z8mf 
 0000110 170  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000110 171  XX      nt                       S9/Q4.1 Z3c 
+0000110 171  XX      n't                      Z6 
 0000110 180  VVI     think                    X2.1 
 0000110 190  PPHS2   they                     Z8mfn 
 0000110 200  VV0     believe                  X2.1 S9% 
@@ -2531,7 +2563,7 @@
 0000110 292  -----   -----                    
 0000110 300  PPHS2   They                     Z8mfn 
 0000110 310  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000110 311  XX      nt                       S9/Q4.1 Z3c 
+0000110 311  XX      n't                      Z6 
 0000110 320  VVI     care                     E6- E2+ S8+ B3 X7+ 
 0000110 330  II      about                    Z5 
 0000110 340  NN1     Baathism                 Z99 
@@ -2550,8 +2582,8 @@
 0000112 042  -----   -----                    
 0000112 050  PPHS2   They                     Z8mfn 
 0000112 060  VBR     are                      A3+ Z5 
-0000112 070  JJ      used                     T1.1.1[i96.2.1 A6.2+[i96.2.1 
-0000112 080  II      to                       T1.1.1[i96.2.2 A6.2+[i96.2.2 Z5 
+0000112 070  JJ      used                     T1.1.1[i99.2.1 A6.2+[i99.2.1 
+0000112 080  II      to                       T1.1.1[i99.2.2 A6.2+[i99.2.2 Z5 
 0000112 090  VBG     being                    A3+ Z5 
 0000112 100  II      in                       Z5 
 0000112 110  NN1     power                    S7.1+ O3 S1.2.5+ N2@ 
@@ -2572,7 +2604,8 @@
 0000114 060  II      to                       Z5 
 0000114 070  AT      the                      Z5 
 0000114 080  JJ      Islamic                  S9 
-0000114 090  NP1     States                   Z2 
+0000114 090  NN1     State                    G1.1c O4.1 
+0000114 091  GE      's                       Z5 
 0000114 100  NN1     ideology                 X4.1 
 0000114 110  VBZ     is                       A3+ Z5 
 0000114 120  AT1     a                        Z5 
@@ -2595,11 +2628,12 @@
 0000116 020  VM      could                    A7+ 
 0000116 030  RR      still                    T2++ Z4 E3+ 
 0000116 040  VVI     argue                    Q2.1 Q2.1/A6.1- Q2.1/E3- Q2.1/A2.2 
-0000116 050  CST     that                     Z5 Z8 
-0000116 060  APPGE   its                      Z8 
+0000116 050  CST     that                     Z8 Z5 
+0000116 060  PPH1    it                       Z8 
+0000116 061  VBZ     's                       A3+ Z5 
 0000116 070  AT1     a                        Z5 
-0000116 080  JJ      tactical                 S5+[i97.2.1 X4.2 G3 
-0000116 090  NN1     alliance                 S5+[i97.2.2 S5+c 
+0000116 080  JJ      tactical                 S5+[i100.2.1 X4.2 G3 
+0000116 090  NN1     alliance                 S5+[i100.2.2 S5+c 
 0000116 091  ,       ,                        
 0000116 092  NULL    </quote>                 
 0000116 093  -----   -----                    
@@ -2608,8 +2642,8 @@
 0000116 111  .       .                        
 0000116 112  NULL    <quote>                  
 0000116 113  -----   -----                    
-0000116 120  AT1     A                        N5+[i98.2.1 N6+[i98.2.1 A13.3[i98.2.1 Z5 
-0000116 130  NN1     lot                      N5+[i98.2.2 N6+[i98.2.2 A13.3[i98.2.2 
+0000116 120  AT1     A                        N5+[i101.2.1 N6+[i101.2.1 A13.3[i101.2.1 Z5 
+0000116 130  NN1     lot                      N5+[i101.2.2 N6+[i101.2.2 A13.3[i101.2.2 
 0000116 140  IO      of                       Z5 
 0000116 150  DD2     these                    Z5 Z8 
 0000116 160  NN2     Baathists                Z99 
@@ -2629,8 +2663,8 @@
 0000116 280  NP1     Iraq                     Z2 Z3c 
 0000116 281  .       .                        
 0000116 282  -----   -----                    
-0000116 290  AT1     A                        N5+[i99.2.1 N6+[i99.2.1 A13.3[i99.2.1 Z5 
-0000116 300  NN1     lot                      N5+[i99.2.2 N6+[i99.2.2 A13.3[i99.2.2 
+0000116 290  AT1     A                        N5+[i102.2.1 N6+[i102.2.1 A13.3[i102.2.1 Z5 
+0000116 300  NN1     lot                      N5+[i102.2.2 N6+[i102.2.2 A13.3[i102.2.2 
 0000116 310  IO      of                       Z5 
 0000116 320  PPHO2   them                     Z8mfn 
 0000116 330  VV0@    view                     X2.1 X3.4 X2.4 
@@ -2640,8 +2674,9 @@
 0000116 370  DD1     this                     M6 Z5 Z8 
 0000116 380  JJ      Leninist                 Z99 
 0000116 390  NN1     mind-set                 X2 
-0000116 400  CST     that                     Z5 Z8 
-0000116 410  NN1     theyre                   Z99 
+0000116 400  CST     that                     Z8 Z5 
+0000116 410  PPHS2   they                     Z8mfn 
+0000116 411  VBR     're                      A3+ Z5 
 0000116 420  JJ      useful                   A1.5.2+ 
 0000116 430  NN2     idiots                   X9.1-/S2mf S1.2.6-/S2mf 
 0000116 440  PNQS    who                      Z8 
@@ -2674,8 +2709,9 @@
 0000118 170  VBG     being                    Z5 A3+ 
 0000118 180  VVN     drawn                    C1 M2 A9+ X5.1+ I1.2 O4.2+ X2.1 K5.1 
 0000118 190  II      into                     Z5 
-0000118 200  NP2     Iraqs                    Z2 Z3c 
-0000118 210  VV0     morass                   W3 A12- 
+0000118 200  NP1     Iraq                     Z2 Z3c 
+0000118 201  GE      's                       Z5 
+0000118 210  NN1     morass                   W3 
 0000118 211  .       .                        
 0000118 212  -----   -----                    
 0000118 220  DD      Some                     N5 Z5 
@@ -2715,8 +2751,8 @@
 0000120 010  PPY     You                      Z8mf 
 0000120 020  VH0     have                     A9+ Z5 A2.2 S4 
 0000120 030  NN2     fighters                 M5/G3fn X8+/S2mf K5.1/S2mf 
-0000120 040  VVG     coming                   M6[i100.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
-0000120 050  II      from                     M6[i100.2.2 Z5 
+0000120 040  VVG     coming                   M6[i103.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000120 050  II      from                     M6[i103.2.2 Z5 
 0000120 060  II      across                   Z5 
 0000120 070  AT      the                      Z5 
 0000120 080  NN1     globe                    W1 O4.4 
@@ -2730,9 +2766,10 @@
 0000120 160  AT      the                      Z5 
 0000120 170  JJ      global                   W3 M7 A1.8+ O4.4 
 0000120 180  NN1     jihad                    Z99 
-0000120 190  NN1     cant                     Q2.1 
+0000120 190  VM      ca                       A7+ 
+0000120 191  XX      n't                      Z6 
 0000120 200  RR      possibly                 A7+ 
-0000120 210  VH0     have                     A9+ Z5 A2.2 S4 
+0000120 210  VHI     have                     A9+ Z5 A2.2 S4 
 0000120 220  AT1     a                        Z5 
 0000120 230  NN1     stake                    I1/A1.4 S1.1.2+ O2 
 0000120 240  RP@     in                       M6 
@@ -2757,14 +2794,14 @@
 0000122 160  VV0     believe                  X2.1 S9% 
 0000122 170  PPH1    it                       Z8 
 0000122 180  VBZ     is                       A3+ Z5 
-0000122 190  AT      the                      S3.2[i101.3.1 Z5 
-0000122 200  JJ      other                    S3.2[i101.3.2 A6.1- N4[i102.3.1 M6[i102.3.1 A6.1-[i102.3.1 
-0000122 210  NN1     way                      S3.2[i101.3.3 X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 N4[i102.3.2 M6[i102.3.2 A6.1-[i102.3.2 
-0000122 220  RP      around                   M6 N4[i102.3.3 M6[i102.3.3 A6.1-[i102.3.3 
+0000122 190  AT      the                      S3.2[i104.3.1 Z5 
+0000122 200  JJ      other                    S3.2[i104.3.2 A6.1- N4[i105.3.1 M6[i105.3.1 A6.1-[i105.3.1 
+0000122 210  NN1     way                      S3.2[i104.3.3 X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 N4[i105.3.2 M6[i105.3.2 A6.1-[i105.3.2 
+0000122 220  RP      around                   M6 N4[i105.3.3 M6[i105.3.3 A6.1-[i105.3.3 
 0000122 221  .       .                        
 0000122 222  -----   -----                    
-0000122 230  II21    Rather                   Z5[i104.2.1 Z5[i103.2.1 
-0000122 240  II22    than                     Z5[i104.2.2 Z5[i103.2.2 
+0000122 230  II21    Rather                   Z5[i107.2.1 Z5[i106.2.1 
+0000122 240  II22    than                     Z5[i107.2.2 Z5[i106.2.2 
 0000122 250  AT      the                      Z5 
 0000122 260  NN2     Baathists                Z99 
 0000122 270  VVG     using                    A1.5.1 S7.1+ 
@@ -2789,8 +2826,8 @@
 0000122 450  JJ@     disbanded                T2- 
 0000122 460  NN2     officers                 G3/S7.1+/S2mf G1.1/S2mf S7.1+/S2mf G2.1/S2mf 
 0000122 461  ,       ,                        
-0000122 470  II21    according                Z5[i105.2.1 Z5 
-0000122 480  II22    to                       Z5[i105.2.2 Z5 
+0000122 470  II21    according                Z5[i108.2.1 Z5 
+0000122 480  II22    to                       Z5[i108.2.2 Z5 
 0000122 490  AT1     a                        Z5 
 0000122 500  DA      former                   T2- N4 
 0000122 510  NN1     general                  G3/S7.1+/S2mf B3/H1 
@@ -2914,17 +2951,17 @@
 0000126 330  EX      there                    Z5 
 0000126 340  VBDZ    was                      A3+ Z5 
 0000126 350  RR      only                     A14 
-0000126 360  MC1     one                      M6[i106.2.1 S1.1.2-[i106.2.1 N1 T3 T1.2 Z3c[i107.2.1 
-0000126 370  NN1     way                      M6[i106.2.2 S1.1.2-[i106.2.2 X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 Z3c[i107.2.2 M6[i108.2.1 N5.2++[i108.2.1 O4.1[i108.2.1 
-0000126 380  RP      out                      M6 M6[i108.2.2 N5.2++[i108.2.2 O4.1[i108.2.2 
+0000126 360  MC1     one                      M6[i109.2.1 S1.1.2-[i109.2.1 N1 T3 T1.2 Z3c[i110.2.1 
+0000126 370  NN1     way                      M6[i109.2.2 S1.1.2-[i109.2.2 X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 Z3c[i110.2.2 M6[i111.2.1 N5.2++[i111.2.1 O4.1[i111.2.1 
+0000126 380  RP      out                      M6 M6[i111.2.2 N5.2++[i111.2.2 O4.1[i111.2.2 
 0000126 390  IF      for                      Z5 
 0000126 400  PPHO2   them                     Z8mfn 
 0000126 410  TO      to                       Z5 
 0000126 420  VVI     put                      M2 Q2.1 Q2.2 A1.1.1 
 0000126 430  NN1     food                     F1 
-0000126 440  II      on                       N6[i109.3.1 Z5 
-0000126 450  AT      the                      N6[i109.3.2 Z5 
-0000126 460  NN1     table                    N6[i109.3.3 H5 Q1.2 N2 
+0000126 440  II      on                       N6[i112.3.1 Z5 
+0000126 450  AT      the                      N6[i112.3.2 Z5 
+0000126 460  NN1     table                    N6[i112.3.3 H5 Q1.2 N2 
 0000126 461  .       .                        
 0000126 462  NULL    </quote>                 
 0000126 463  -----   -----                    
@@ -2942,7 +2979,8 @@
 0000128 090  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
 0000128 091  XX      n't                      Z6 
 0000128 100  VVI     de-Baathify              Z99 
-0000128 110  NN2     peoples                  S2mf 
+0000128 110  NN      people                   S2mfc 
+0000128 111  GE      's                       Z5 
 0000128 120  NN2     minds                    X1 
 0000128 121  ,       ,                        
 0000128 130  PPHS2   they                     Z8mfn 
@@ -3010,18 +3048,18 @@
 0000130 450  APPGE   its                      Z8 
 0000130 460  NN1     sweep                    B4 B4/S2mf A4.1 
 0000130 470  II      through                  Z5 
-0000130 480  JJ      northern                 Z2[i110.2.1 M6 
-0000130 490  NP1     Iraq                     Z2[i110.2.2 Z2 Z3c Z1mf[i111.2.1 
-0000130 500  MD      last                     N4 Z1mf[i111.2.2 T1.1.1[i112.2.1 
-0000130 510  NNT1    summer                   T1.3 T1.1.1[i112.2.2 
+0000130 480  JJ      northern                 Z2[i113.2.1 M6 
+0000130 490  NP1     Iraq                     Z2[i113.2.2 Z2 Z3c Z1mf[i114.2.1 
+0000130 500  MD      last                     N4 Z1mf[i114.2.2 T1.1.1[i115.2.1 
+0000130 510  NNT1    summer                   T1.3 T1.1.1[i115.2.2 
 0000130 511  ,       ,                        
 0000130 520  CCB     but                      Z5 
 0000130 530  AT      the                      Z5 
 0000130 540  NN2     groups                   S5+ A4.1 B3% 
 0000130 550  VH0     have                     Z5 A9+ A2.2 S4 
 0000130 560  RR@     since                    N4 
-0000130 570  VVN     fallen                   M1[i113.2.1 S3-[i113.2.1 Y1@[i113.2.1 G3@[i113.2.1 M1 N5-/A2.1 S7.1- L1- A1.8+ G2.2- X9.2- K5.2 
-0000130 580  RP      out                      M1[i113.2.2 S3-[i113.2.2 Y1@[i113.2.2 G3@[i113.2.2 M6 
+0000130 570  VVN     fallen                   M1[i116.2.1 S3-[i116.2.1 Y1@[i116.2.1 G3@[i116.2.1 M1 N5-/A2.1 S7.1- L1- A1.8+ G2.2- X9.2- K5.2 
+0000130 580  RP      out                      M1[i116.2.2 S3-[i116.2.2 Y1@[i116.2.2 G3@[i116.2.2 M6 
 0000130 581  .       .                        
 0000131 001  -----   -----                    
 0000132 010  CCB     But                      Z5 
@@ -3057,20 +3095,20 @@
 0000132 281  .       .                        
 0000134 001  NULL    <quote>                  
 0000134 002  -----   -----                    
-0000134 010  CS21    Even                     Z7[i114.2.1 
-0000134 020  CS22    if                       Z7[i114.2.2 Z7 
+0000134 010  CS21    Even                     Z7[i117.2.1 
+0000134 020  CS22    if                       Z7[i117.2.2 Z7 
 0000134 030  PPY     you                      Z8mf 
 0000134 040  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
 0000134 041  XX      n't                      Z6 
-0000134 050  VVI     walk                     M1[i115.2.1 M1 L2 X9.2+/A12+ 
-0000134 060  RP@     in                       M1[i115.2.2 M6 
+0000134 050  VVI     walk                     M1[i118.2.1 M1 L2 X9.2+/A12+ 
+0000134 060  RP@     in                       M1[i118.2.2 M6 
 0000134 070  IW      with                     Z5 
 0000134 080  DD1     that                     Z5 Z8 
 0000134 090  NN1     vision                   X4.1 X3.4 X7+ S9@ 
 0000134 100  PPY     you                      Z8mf 
 0000134 110  VM      might                    A7+ 
-0000134 120  VVI     walk                     M1[i116.2.1 I3.1[i116.2.1 M1 L2 X9.2+/A12+ 
-0000134 130  RP      out                      M1[i116.2.2 I3.1[i116.2.2 M6 
+0000134 120  VVI     walk                     M1[i119.2.1 I3.1[i119.2.1 M1 L2 X9.2+/A12+ 
+0000134 130  RP      out                      M1[i119.2.2 I3.1[i119.2.2 M6 
 0000134 140  IW      with                     Z5 
 0000134 150  PPH1    it                       Z8 
 0000134 151  ,       ,                        
@@ -3089,21 +3127,21 @@
 0000134 240  IO      of                       Z5 
 0000134 250  AT      the                      Z5 
 0000134 260  JJ      New                      T3- 
-0000134 270  NP1     America                  Z3c[i117.2.1 Z2 
-0000134 280  NN1     Foundation               Z3c[i117.2.2 T2+ H2 S5+c A5.2+ B4 
+0000134 270  NP1     America                  Z3c[i120.2.1 Z2 
+0000134 280  NN1     Foundation               Z3c[i120.2.2 T2+ H2 S5+c A5.2+ B4 
 0000134 281  .       .                        
 0000134 282  NULL    <quote>                  
 0000134 283  -----   -----                    
 0000134 290  PPHS2   They                     Z8mfn 
 0000134 300  VH0     have                     Z5 A9+ A2.2 S4 
-0000134 310  VBN     been                     A1.1.1[i118.2.1 M1[i118.2.1 A3+ Z5 
-0000134 320  II      through                  A1.1.1[i118.2.2 M1[i118.2.2 Z5 
+0000134 310  VBN     been                     A1.1.1[i121.2.1 M1[i121.2.1 A3+ Z5 
+0000134 320  II      through                  A1.1.1[i121.2.2 M1[i121.2.2 Z5 
 0000134 330  JJ      brutal                   E3- 
 0000134 340  NN2     things                   O2 X4.1 A7- S2mf L2mf 
 0000134 350  CST     that                     Z8 Z5 
 0000134 360  VBR     are                      Z5 A3+ 
-0000134 370  VVGK    going                    T1.1.3[i119.2.1 
-0000134 380  TO      to                       T1.1.3[i119.2.2 Z5 
+0000134 370  VVGK    going                    T1.1.3[i122.2.1 
+0000134 380  TO      to                       T1.1.3[i122.2.2 Z5 
 0000134 390  VVI     shape                    O4.4 A2.2 
 0000134 400  APPGE   their                    Z8 
 0000134 410  NN1     vision                   X4.1 X3.4 X7+ S9@ 
@@ -3117,8 +3155,8 @@
 0000134 463  -----   -----                    
 0000163 010  MF      1/16                     N5 
 0000163 020  MC      11                       N1 T1.2 T3 T1.3 N3.2 
-0000163 030  NPM1    September                T1.3[i120.2.1 T1.3 
-0000163 040  MC      2001                     T1.3[i120.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000163 030  NPM1    September                T1.3[i123.2.1 T1.3 
+0000163 040  MC      2001                     T1.3[i123.2.2 N1 T1.2 T3 T1.3 N3.2 
 0000163 050  NN2     Terrorists               G2.1-/S2mf 
 0000163 060  VVG     belonging                A9+ A1.2+ S5+ 
 0000163 070  II      to                       Z5 
@@ -3144,14 +3182,14 @@
 0000163 250  NP1     AP                       Z3c 
 0000165 010  MF      2/16                     N5 
 0000165 020  MC      12                       N1 T1.2 T3 T1.3 N3.2 
-0000165 030  NPM1    September                T1.3[i121.2.1 T1.3 
-0000165 040  MC      2001                     T1.3[i121.2.2 N1 T1.2 T3 T1.3 N3.2 
-0000165 050  NP1     Tony                     Z1mf[i122.2.1 Z3c[i122.2.1 Z1mf 
-0000165 060  NP1     Blair                    Z1mf[i122.2.2 Z3c[i122.2.2 Z1 
+0000165 030  NPM1    September                T1.3[i124.2.1 T1.3 
+0000165 040  MC      2001                     T1.3[i124.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000165 050  NP1     Tony                     Z1mf[i125.2.1 Z3c[i125.2.1 Z1mf 
+0000165 060  NP1     Blair                    Z1mf[i125.2.2 Z3c[i125.2.2 Z1 
 0000165 070  VVZ     promises                 S6+ A7+ 
-0000165 080  NP1     George                   Z1mf[i124.3.1 Z3c[i124.3.1 Z1m Z1mf[i123.2.1 Z3c[i123.2.1 
-0000165 090  NP1@    W                        Z1mf[i124.3.2 Z3c[i124.3.2 Z1mf[i123.2.2 Z3c[i123.2.2 Z1mf[i125.2.1 Z3c[i125.2.1 
-0000165 100  NP1     Bush                     Z3c[i124.3.3 Z1mf[i124.3.3 Z3c Z1mf Z1mf[i125.2.2 Z3c[i125.2.2 
+0000165 080  NP1     George                   Z1mf[i127.3.1 Z3c[i127.3.1 Z1m Z1mf[i126.2.1 Z3c[i126.2.1 
+0000165 090  NP1@    W                        Z1mf[i127.3.2 Z3c[i127.3.2 Z1mf[i126.2.2 Z3c[i126.2.2 Z1mf[i128.2.1 Z3c[i128.2.1 
+0000165 100  NP1     Bush                     Z3c[i127.3.3 Z1mf[i127.3.3 Z3c Z1mf Z1mf[i128.2.2 Z3c[i128.2.2 
 0000165 110  CST     that                     Z5 Z8 
 0000165 120  AT      the                      Z5 
 0000165 130  NP1     UK                       Z2 
@@ -3172,8 +3210,8 @@
 0000165 250  NN2     Images                   O4.1 A8 X2.1 C1 A6.1+ X3.4 
 0000167 010  MF      3/16                     N5 
 0000167 020  MC      25                       N1 T1.2 T3 T1.3 N3.2 
-0000167 030  NPM1    March                    T1.3[i126.2.1 T1.3 
-0000167 040  MC      2002                     T1.3[i126.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000167 030  NPM1    March                    T1.3[i129.2.1 T1.3 
+0000167 040  MC      2002                     T1.3[i129.2.2 N1 T1.2 T3 T1.3 N3.2 
 0000167 050  NP1     Jack                     Z1m 
 0000167 060  NN1     Straw                    L3 O2 
 0000167 061  ,       ,                        
@@ -3194,10 +3232,10 @@
 0000167 180  NP1     Getty                    Z99 
 0000167 190  NN2     Images                   O4.1 A8 X2.1 C1 A6.1+ X3.4 
 0000169 010  MF      4/16                     N5 
-0000169 020  NPM1    June                     T1.3[i127.2.1 T1.3 
-0000169 030  MC      2002                     T1.3[i127.2.2 N1 T1.2 T3 T1.3 N3.2 
-0000169 040  NP1     Tony                     Z1mf[i128.2.1 Z3c[i128.2.1 Z1mf 
-0000169 050  NP1     Blair                    Z1mf[i128.2.2 Z3c[i128.2.2 Z1 
+0000169 020  NPM1    June                     T1.3[i130.2.1 T1.3 
+0000169 030  MC      2002                     T1.3[i130.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000169 040  NP1     Tony                     Z1mf[i131.2.1 Z3c[i131.2.1 Z1mf 
+0000169 050  NP1     Blair                    Z1mf[i131.2.2 Z3c[i131.2.2 Z1 
 0000169 060  VVZ     asks                     Q2.2 
 0000169 070  NN1     defence                  S8+ G3 G2.1c Q2.2 K5.1 S7.3+ 
 0000169 080  NN2     officials                G1.1/S2mf S7.1+/S2mf 
@@ -3218,8 +3256,8 @@
 0000169 210  NN2     images                   O4.1 A8 X2.1 C1 
 0000171 010  MF      5/16                     N5 
 0000171 020  MC      24                       N1 T1.2 T3 T1.3 N3.2 
-0000171 030  NPM1    September                T1.3[i129.2.1 T1.3 
-0000171 040  MC      2002                     T1.3[i129.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000171 030  NPM1    September                T1.3[i132.2.1 T1.3 
+0000171 040  MC      2002                     T1.3[i132.2.2 N1 T1.2 T3 T1.3 N3.2 
 0000171 050  AT      The                      Z5 
 0000171 060  NN1     government               G1.1c 
 0000171 070  VVZ     publishes                Q4 
@@ -3229,7 +3267,8 @@
 0000171 110  AT      the                      Z5 
 0000171 120  NN1     threat                   E3-/Q2.2 A15- X2.6+/O4.2- A7+ 
 0000171 130  II      from                     Z5 
-0000171 140  NP2     Iraqs                    Z2 Z3c 
+0000171 140  NP1     Iraq                     Z2 Z3c 
+0000171 141  GE      's                       Z5 
 0000171 150  NN2     weapons                  G3 X4.1 
 0000171 160  IO      of                       Z5 
 0000171 170  JJ      mass                     N5+ 
@@ -3239,14 +3278,15 @@
 0000171 190  AT1     A                        Z5 
 0000171 200  NN1     foreword                 Q4.1 
 0000171 210  II      by                       Z5 
-0000171 220  NP1     Tony                     Z1mf[i130.2.1 Z3c[i130.2.1 Z1mf 
-0000171 230  NP1     Blair                    Z1mf[i130.2.2 Z3c[i130.2.2 Z1 
+0000171 220  NP1     Tony                     Z1mf[i133.2.1 Z3c[i133.2.1 Z1mf 
+0000171 230  NP1     Blair                    Z1mf[i133.2.2 Z3c[i133.2.2 Z1 
 0000171 240  VVZ     states                   Q2.1 
 0000171 250  CST     that                     Z5 Z8 
-0000171 260  NP1     Saddam                   Z1m 
-0000171 270  NP2     Husseins                 Z1mf 
-0000171 271  NULL    <quote>                  
-0000171 272  -----   -----                    
+0000171 260  NP1     Saddam                   Z1mf[i134.2.1 Z3c[i134.2.1 Z1m 
+0000171 270  NP1     Hussein                  Z1mf[i134.2.2 Z3c[i134.2.2 Z1mf 
+0000171 271  GE      's                       Z5 
+0000171 272  NULL    <quote>                  
+0000171 273  -----   -----                    
 0000171 280  JJ      military                 G3 
 0000171 290  NN1     planning                 X7+ 
 0000171 300  VVZ     allows                   S7.4+ S8+ X2.1 
@@ -3293,8 +3333,8 @@
 0000171 610  NP1     Getty                    Z99 
 0000173 010  MF      6/16                     N5 
 0000173 020  MC      2                        N1 T1.2 T3 T1.3 N3.2 
-0000173 030  NPM1    October                  T1.3[i131.2.1 T1.3 
-0000173 040  MC      2002                     T1.3[i131.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000173 030  NPM1    October                  T1.3[i135.2.1 T1.3 
+0000173 040  MC      2002                     T1.3[i135.2.2 N1 T1.2 T3 T1.3 N3.2 
 0000173 050  NN1     Congress                 Z3c 
 0000173 060  VVZ     authorises               S7.4+ 
 0000173 070  NNB     President                G1.1/S7.1+/S2mf 
@@ -3310,8 +3350,8 @@
 0000173 150  NP1     Getty                    Z99 
 0000175 010  MF      7/16                     N5 
 0000175 020  MC      8                        N1 T1.2 T3 T1.3 N3.2 
-0000175 030  NPM1    November                 T1.3[i132.2.1 T1.3 
-0000175 040  MC      2002                     T1.3[i132.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000175 030  NPM1    November                 T1.3[i136.2.1 T1.3 
+0000175 040  MC      2002                     T1.3[i136.2.2 N1 T1.2 T3 T1.3 N3.2 
 0000175 050  NP1     UN                       Z3c 
 0000175 060  NN1     Security                 G2.1 A15+ E6+ I1.1 
 0000175 070  NN1     Council                  G1.1c S7.1+/S5+c 
@@ -3329,13 +3369,13 @@
 0000175 180  II      into                     Z5 
 0000175 190  NP1     Iraq                     Z2 Z3c 
 0000175 200  CC      and                      Z5 
-0000175 210  VVG     calling                  S1.1.1[i133.2.1 Q2.2[i133.2.1 Q2.2 S1.1.1 Q1.3 S9% 
-0000175 220  II      on                       S1.1.1[i133.2.2 Q2.2[i133.2.2 Z5 
+0000175 210  VVG     calling                  S1.1.1[i137.2.1 Q2.2[i137.2.1 Q2.2 S1.1.1 Q1.3 S9% 
+0000175 220  II      on                       S1.1.1[i137.2.2 Q2.2[i137.2.2 Z5 
 0000175 230  AT      the                      Z5 
 0000175 240  NN1     regime                   G1.1 S7.1+ B3 
 0000175 250  TO      to                       Z5 
-0000175 260  VVI     give                     T2-[i134.2.1 S7.1-[i134.2.1 A9-[i134.2.1 A1.1.2[i134.2.1 A9- A1.1.1 
-0000175 270  RP      up                       T2-[i134.2.2 S7.1-[i134.2.2 A9-[i134.2.2 A1.1.2[i134.2.2 
+0000175 260  VVI     give                     T2-[i138.2.1 S7.1-[i138.2.1 A9-[i138.2.1 A1.1.2[i138.2.1 A9- A1.1.1 
+0000175 270  RP      up                       T2-[i138.2.2 S7.1-[i138.2.2 A9-[i138.2.2 A1.1.2[i138.2.2 
 0000175 280  APPGE   its                      Z8 
 0000175 290  NP1     WMD                      Z99 
 0000175 300  CC      or                       Z5 
@@ -3344,20 +3384,20 @@
 0000175 330  NN2     consequences             A2.2 
 0000175 331  .       .                        
 0000175 332  -----   -----                    
-0000175 340  NP1     Simon                    Z1mf[i135.2.1 Z3c[i135.2.1 Z1m 
-0000175 350  NP1     Walker/AP                Z1mf[i135.2.2 Z3c[i135.2.2 
+0000175 340  NP1     Simon                    Z1mf[i139.2.1 Z3c[i139.2.1 Z1m 
+0000175 350  NP1     Walker/AP                Z1mf[i139.2.2 Z3c[i139.2.2 
 0000177 010  MF      8/16                     N5 
 0000177 020  MC      18                       N1 T1.2 T3 T1.3 N3.2 
-0000177 030  NPM1    July                     T1.3[i136.2.1 T1.3 
-0000177 040  MC      2003                     T1.3[i136.2.2 N1 T1.2 T3 T1.3 N3.2 
-0000177 050  NP1     David                    Z1mf[i137.2.1 Z3c[i137.2.1 Z1m 
-0000177 060  NP1     Kelly                    Z1mf[i137.2.2 Z3c[i137.2.2 Z1mf 
+0000177 030  NPM1    July                     T1.3[i140.2.1 T1.3 
+0000177 040  MC      2003                     T1.3[i140.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000177 050  NP1     David                    Z1mf[i141.2.1 Z3c[i141.2.1 Z1m 
+0000177 060  NP1     Kelly                    Z1mf[i141.2.2 Z3c[i141.2.2 Z1mf 
 0000177 061  ,       ,                        
 0000177 070  AT1     an                       Z5 
 0000177 080  NN1     expert                   X2.2+/S2mf X9.1+/S2mf 
 0000177 090  II      in                       Z5 
-0000177 100  JJ      biological               G3[i138.2.1 L1 B1 
-0000177 110  NN1     warfare                  G3[i138.2.2 G3 
+0000177 100  JJ      biological               G3[i142.2.1 L1 B1 
+0000177 110  NN1     warfare                  G3[i142.2.2 G3 
 0000177 111  ,       ,                        
 0000177 120  VBZ     is                       Z5 A3+ 
 0000177 130  VVN     found                    A10+ X2.1 X6+.1 
@@ -3373,17 +3413,18 @@
 0000177 230  VVN     used                     A1.5.1 S7.1+ 
 0000177 240  II      by                       Z5 
 0000177 250  AT      the                      Z5 
-0000177 260  NP2     BBCs                     Z3c 
-0000177 270  NP1     Andrew                   Z1mf[i139.2.1 Z3c[i139.2.1 Z1m 
-0000177 280  NP1     Gilligan                 Z1mf[i139.2.2 Z3c[i139.2.2 
+0000177 260  NP1     BBC                      Z3c 
+0000177 261  GE      's                       Z5 
+0000177 270  NP1     Andrew                   Z1mf[i143.2.1 Z3c[i143.2.1 Z1m 
+0000177 280  NP1     Gilligan                 Z1mf[i143.2.2 Z3c[i143.2.2 
 0000177 290  TO      to                       Z5 
 0000177 300  VVI     suggest                  Q2.2 Q1.1 
 0000177 310  CST     that                     Z5 Z8 
 0000177 320  AT      the                      Z5 
 0000177 330  NN1     dossier                  Z99 
 0000177 340  IO      of                       Z5 
-0000177 350  NPM1    September                T1.3[i140.2.1 T1.3 
-0000177 360  MC      2002                     T1.3[i140.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000177 350  NPM1    September                T1.3[i144.2.1 T1.3 
+0000177 360  MC      2002                     T1.3[i144.2.2 N1 T1.2 T3 T1.3 N3.2 
 0000177 370  VHD     had                      Z5 A9+ A2.2 S4 
 0000177 380  VBN     been                     A3+ Z5 
 0000177 381  NULL    <quote>                  
@@ -3394,8 +3435,8 @@
 0000177 402  -----   -----                    
 0000177 403  .       .                        
 0000177 404  -----   -----                    
-0000177 410  NNB     Lord                     Z1m[i141.2.1 
-0000177 420  NP1     Hutton                   Z1m[i141.2.2 
+0000177 410  NNB     Lord                     Z1m[i145.2.1 
+0000177 420  NP1     Hutton                   Z1m[i145.2.2 
 0000177 430  VBZ     is                       Z5 A3+ 
 0000177 440  VVN     appointed                S7.1+ 
 0000177 450  TO      to                       Z5 
@@ -3412,10 +3453,10 @@
 0000177 540  NN2     IMAGES                   O4.1 A8 X2.1 C1 A6.1+ X3.4 
 0000179 010  MF      9/16                     N5 
 0000179 020  MC      13                       N1 T1.2 T3 T1.3 N3.2 
-0000179 030  NPM1    December                 T1.3[i142.2.1 T1.3 
-0000179 040  MC      2003                     T1.3[i142.2.2 N1 T1.2 T3 T1.3 N3.2 
-0000179 050  NP1     Saddam                   Z1mf[i143.2.1 Z3c[i143.2.1 Z1m 
-0000179 060  NP1     Hussein                  Z1mf[i143.2.2 Z3c[i143.2.2 Z1mf 
+0000179 030  NPM1    December                 T1.3[i146.2.1 T1.3 
+0000179 040  MC      2003                     T1.3[i146.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000179 050  NP1     Saddam                   Z1mf[i147.2.1 Z3c[i147.2.1 Z1m 
+0000179 060  NP1     Hussein                  Z1mf[i147.2.2 Z3c[i147.2.2 Z1mf 
 0000179 070  VBZ     is                       Z5 A3+ 
 0000179 080  VVN     captured                 A9+ 
 0000179 090  II      near                     Z5 
@@ -3431,8 +3472,8 @@
 0000179 160  NP1     REUTERS                  Z3c 
 0000181 010  MF      10/16                    N5 
 0000181 020  MC      2                        N1 T1.2 T3 T1.3 N3.2 
-0000181 030  NPM1    March                    T1.3[i144.2.1 T1.3 
-0000181 040  MC      2004                     T1.3[i144.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000181 030  NPM1    March                    T1.3[i148.2.1 T1.3 
+0000181 040  MC      2004                     T1.3[i148.2.2 N1 T1.2 T3 T1.3 N3.2 
 0000181 050  NN2     Bombings                 G3 X9.2- M1/N3.8+ 
 0000181 060  II      in                       Z5 
 0000181 070  NP1     Baghdad                  Z2 
@@ -3457,8 +3498,8 @@
 0000181 230  NN2     Images                   O4.1 A8 X2.1 C1 A6.1+ X3.4 
 0000183 010  MF      11/16                    N5 
 0000183 020  MC      14                       N1 T1.2 T3 T1.3 N3.2 
-0000183 030  NPM1    September                T1.3[i145.2.1 T1.3 
-0000183 040  MC      2005                     T1.3[i145.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000183 030  NPM1    September                T1.3[i149.2.1 T1.3 
+0000183 040  MC      2005                     T1.3[i149.2.2 N1 T1.2 T3 T1.3 N3.2 
 0000183 050  NN2     Bombs                    G3 N5+ E2- N3.8+ 
 0000183 060  II      in                       Z5 
 0000183 070  NP1     Baghdad                  Z2 
@@ -3475,10 +3516,10 @@
 0000183 160  NP1     EPA                      Z99 
 0000185 010  MF      12/16                    N5 
 0000185 020  MC      30                       N1 T1.2 T3 T1.3 N3.2 
-0000185 030  NPM1    December                 T1.3[i146.2.1 T1.3 
-0000185 040  MC      2005                     T1.3[i146.2.2 N1 T1.2 T3 T1.3 N3.2 
-0000185 050  NP1     Saddam                   Z1mf[i147.2.1 Z3c[i147.2.1 Z1m 
-0000185 060  NP1     Hussein                  Z1mf[i147.2.2 Z3c[i147.2.2 Z1mf 
+0000185 030  NPM1    December                 T1.3[i150.2.1 T1.3 
+0000185 040  MC      2005                     T1.3[i150.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000185 050  NP1     Saddam                   Z1mf[i151.2.1 Z3c[i151.2.1 Z1m 
+0000185 060  NP1     Hussein                  Z1mf[i151.2.2 Z3c[i151.2.2 Z1mf 
 0000185 070  VBZ     is                       Z5 A3+ 
 0000185 080  VVN     executed                 L1- A1.1.1 
 0000185 081  .       .                        
@@ -3487,8 +3528,8 @@
 0000185 100  NN2     Images                   O4.1 A8 X2.1 C1 A6.1+ X3.4 
 0000187 010  MF      13/16                    N5 
 0000187 020  MC      28                       N1 T1.2 T3 T1.3 N3.2 
-0000187 030  NPM1    May                      T1.3[i148.2.1 T1.3 
-0000187 040  MC      2009                     T1.3[i148.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000187 030  NPM1    May                      T1.3[i152.2.1 T1.3 
+0000187 040  MC      2009                     T1.3[i152.2.2 N1 T1.2 T3 T1.3 N3.2 
 0000187 050  AT      The                      Z5 
 0000187 060  MD      last                     N4 
 0000187 070  JJ      British                  Z2 Z2/S2mfnc 
@@ -3502,8 +3543,8 @@
 0000187 130  NN2     Images                   O4.1 A8 X2.1 C1 A6.1+ X3.4 
 0000189 010  MF      14/16                    N5 
 0000189 020  MC      24                       N1 T1.2 T3 T1.3 N3.2 
-0000189 030  NPM1    November                 T1.3[i149.2.1 T1.3 
-0000189 040  MC      2009                     T1.3[i149.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000189 030  NPM1    November                 T1.3[i153.2.1 T1.3 
+0000189 040  MC      2009                     T1.3[i153.2.2 N1 T1.2 T3 T1.3 N3.2 
 0000189 050  AT      The                      Z5 
 0000189 060  NN1     Chilcot                  Z99 
 0000189 070  NN1     inquiry                  Q2.2 X2.4 
@@ -3517,8 +3558,8 @@
 0000189 130  NP1     Getty                    Z99 
 0000191 010  MF      15/16                    N5 
 0000191 020  MC      2                        N1 T1.2 T3 T1.3 N3.2 
-0000191 030  NPM1    February                 T1.3[i150.2.1 T1.3 
-0000191 040  MC      2011                     T1.3[i150.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000191 030  NPM1    February                 T1.3[i154.2.1 T1.3 
+0000191 040  MC      2011                     T1.3[i154.2.2 N1 T1.2 T3 T1.3 N3.2 
 0000191 050  AT      The                      Z5 
 0000191 060  NN1     Chilcot                  Z99 
 0000191 070  NN1     inquiry                  Q2.2 X2.4 
@@ -3533,11 +3574,11 @@
 0000191 140  NN2     Images                   O4.1 A8 X2.1 C1 A6.1+ X3.4 
 0000193 010  MF      16/16                    N5 
 0000193 020  MC      21                       N1 T1.2 T3 T1.3 N3.2 
-0000193 030  NPM1    January                  T1.3[i151.2.1 T1.3 
-0000193 040  MC      2015                     T1.3[i151.2.2 N1 T1.2 T3 T1.3 N3.2 
-0000193 050  NNB     Sir                      Z1m[i153.3.1 Z1m[i152.2.1 
-0000193 060  NP1     John                     Z1m[i153.3.2 Z1m S9/O1.2 Z1m[i152.2.2 Z1mf[i154.2.1 Z3c[i154.2.1 
-0000193 070  NP1     Chilcot                  Z1m[i153.3.3 Z1mf[i154.2.2 Z3c[i154.2.2 
+0000193 030  NPM1    January                  T1.3[i155.2.1 T1.3 
+0000193 040  MC      2015                     T1.3[i155.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000193 050  NNB     Sir                      Z1m[i157.3.1 Z1m[i156.2.1 
+0000193 060  NP1     John                     Z1m[i157.3.2 Z1m S9/O1.2 Z1m[i156.2.2 Z1mf[i158.2.1 Z3c[i158.2.1 
+0000193 070  NP1     Chilcot                  Z1m[i157.3.3 Z1mf[i158.2.2 Z3c[i158.2.2 
 0000193 080  VVZ     confirms                 A7+ Q2.2 S9@ 
 0000193 090  CST     that                     Z5 Z8 
 0000193 100  APPGE   his                      Z8m 
@@ -3548,11 +3589,11 @@
 0000193 150  VVN     published                Q4 
 0000193 160  II      before                   Z5 
 0000193 170  AT      the                      Z5 
-0000193 180  JJ      general                  G1.2[i155.2.1 N5+ A4.2- 
-0000193 190  NN1     election                 G1.2[i155.2.2 G1.2/X7+ 
+0000193 180  JJ      general                  G1.2[i159.2.1 N5+ A4.2- 
+0000193 190  NN1     election                 G1.2[i159.2.2 G1.2/X7+ 
 0000193 200  II      in                       Z5 
-0000193 210  NPM1    May                      T1.3[i156.2.1 T1.3 
-0000193 220  MC      2015                     T1.3[i156.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000193 210  NPM1    May                      T1.3[i160.2.1 T1.3 
+0000193 220  MC      2015                     T1.3[i160.2.2 N1 T1.2 T3 T1.3 N3.2 
 0000193 221  .       .                        
 0000193 222  -----   -----                    
 0000193 230  NP1     Getty                    Z99 
@@ -3575,14 +3616,14 @@
 0000195 160  VV0     believe                  X2.1 S9% 
 0000195 170  PPH1    it                       Z8 
 0000195 180  VBZ     is                       A3+ Z5 
-0000195 190  AT      the                      S3.2[i157.3.1 Z5 
-0000195 200  JJ      other                    S3.2[i157.3.2 A6.1- N4[i158.3.1 M6[i158.3.1 A6.1-[i158.3.1 
-0000195 210  NN1     way                      S3.2[i157.3.3 X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 N4[i158.3.2 M6[i158.3.2 A6.1-[i158.3.2 
-0000195 220  RP      around                   M6 N4[i158.3.3 M6[i158.3.3 A6.1-[i158.3.3 
+0000195 190  AT      the                      S3.2[i161.3.1 Z5 
+0000195 200  JJ      other                    S3.2[i161.3.2 A6.1- N4[i162.3.1 M6[i162.3.1 A6.1-[i162.3.1 
+0000195 210  NN1     way                      S3.2[i161.3.3 X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 N4[i162.3.2 M6[i162.3.2 A6.1-[i162.3.2 
+0000195 220  RP      around                   M6 N4[i162.3.3 M6[i162.3.3 A6.1-[i162.3.3 
 0000195 221  .       .                        
 0000195 222  -----   -----                    
-0000195 230  II21    Rather                   Z5[i160.2.1 Z5[i159.2.1 
-0000195 240  II22    than                     Z5[i160.2.2 Z5[i159.2.2 
+0000195 230  II21    Rather                   Z5[i164.2.1 Z5[i163.2.1 
+0000195 240  II22    than                     Z5[i164.2.2 Z5[i163.2.2 
 0000195 250  AT      the                      Z5 
 0000195 260  NN2     Baathists                Z99 
 0000195 270  VVG     using                    A1.5.1 S7.1+ 
@@ -3607,8 +3648,8 @@
 0000195 450  JJ@     disbanded                T2- 
 0000195 460  NN2     officers                 G3/S7.1+/S2mf G1.1/S2mf S7.1+/S2mf G2.1/S2mf 
 0000195 461  ,       ,                        
-0000195 470  II21    according                Z5[i161.2.1 Z5 
-0000195 480  II22    to                       Z5[i161.2.2 Z5 
+0000195 470  II21    according                Z5[i165.2.1 Z5 
+0000195 480  II22    to                       Z5[i165.2.2 Z5 
 0000195 490  AT1     a                        Z5 
 0000195 500  DA      former                   T2- N4 
 0000195 510  NN1     general                  G3/S7.1+/S2mf B3/H1 
@@ -3732,17 +3773,17 @@
 0000199 330  EX      there                    Z5 
 0000199 340  VBDZ    was                      A3+ Z5 
 0000199 350  RR      only                     A14 
-0000199 360  MC1     one                      M6[i162.2.1 S1.1.2-[i162.2.1 N1 T3 T1.2 Z3c[i163.2.1 
-0000199 370  NN1     way                      M6[i162.2.2 S1.1.2-[i162.2.2 X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 Z3c[i163.2.2 M6[i164.2.1 N5.2++[i164.2.1 O4.1[i164.2.1 
-0000199 380  RP      out                      M6 M6[i164.2.2 N5.2++[i164.2.2 O4.1[i164.2.2 
+0000199 360  MC1     one                      M6[i166.2.1 S1.1.2-[i166.2.1 N1 T3 T1.2 Z3c[i167.2.1 
+0000199 370  NN1     way                      M6[i166.2.2 S1.1.2-[i166.2.2 X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 Z3c[i167.2.2 M6[i168.2.1 N5.2++[i168.2.1 O4.1[i168.2.1 
+0000199 380  RP      out                      M6 M6[i168.2.2 N5.2++[i168.2.2 O4.1[i168.2.2 
 0000199 390  IF      for                      Z5 
 0000199 400  PPHO2   them                     Z8mfn 
 0000199 410  TO      to                       Z5 
 0000199 420  VVI     put                      M2 Q2.1 Q2.2 A1.1.1 
 0000199 430  NN1     food                     F1 
-0000199 440  II      on                       N6[i165.3.1 Z5 
-0000199 450  AT      the                      N6[i165.3.2 Z5 
-0000199 460  NN1     table                    N6[i165.3.3 H5 Q1.2 N2 
+0000199 440  II      on                       N6[i169.3.1 Z5 
+0000199 450  AT      the                      N6[i169.3.2 Z5 
+0000199 460  NN1     table                    N6[i169.3.3 H5 Q1.2 N2 
 0000199 461  .       .                        
 0000199 462  NULL    </quote>                 
 0000199 463  -----   -----                    
@@ -3760,7 +3801,8 @@
 0000201 090  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
 0000201 091  XX      n't                      Z6 
 0000201 100  VVI     de-Baathify              Z99 
-0000201 110  NN2     peoples                  S2mf 
+0000201 110  NN      people                   S2mfc 
+0000201 111  GE      's                       Z5 
 0000201 120  NN2     minds                    X1 
 0000201 121  ,       ,                        
 0000201 130  PPHS2   they                     Z8mfn 
@@ -3828,18 +3870,18 @@
 0000203 450  APPGE   its                      Z8 
 0000203 460  NN1     sweep                    B4 B4/S2mf A4.1 
 0000203 470  II      through                  Z5 
-0000203 480  JJ      northern                 Z2[i166.2.1 M6 
-0000203 490  NP1     Iraq                     Z2[i166.2.2 Z2 Z3c Z1mf[i167.2.1 
-0000203 500  MD      last                     N4 Z1mf[i167.2.2 T1.1.1[i168.2.1 
-0000203 510  NNT1    summer                   T1.3 T1.1.1[i168.2.2 
+0000203 480  JJ      northern                 Z2[i170.2.1 M6 
+0000203 490  NP1     Iraq                     Z2[i170.2.2 Z2 Z3c Z1mf[i171.2.1 
+0000203 500  MD      last                     N4 Z1mf[i171.2.2 T1.1.1[i172.2.1 
+0000203 510  NNT1    summer                   T1.3 T1.1.1[i172.2.2 
 0000203 511  ,       ,                        
 0000203 520  CCB     but                      Z5 
 0000203 530  AT      the                      Z5 
 0000203 540  NN2     groups                   S5+ A4.1 B3% 
 0000203 550  VH0     have                     Z5 A9+ A2.2 S4 
 0000203 560  RR@     since                    N4 
-0000203 570  VVN     fallen                   M1[i169.2.1 S3-[i169.2.1 Y1@[i169.2.1 G3@[i169.2.1 M1 N5-/A2.1 S7.1- L1- A1.8+ G2.2- X9.2- K5.2 
-0000203 580  RP      out                      M1[i169.2.2 S3-[i169.2.2 Y1@[i169.2.2 G3@[i169.2.2 M6 
+0000203 570  VVN     fallen                   M1[i173.2.1 S3-[i173.2.1 Y1@[i173.2.1 G3@[i173.2.1 M1 N5-/A2.1 S7.1- L1- A1.8+ G2.2- X9.2- K5.2 
+0000203 580  RP      out                      M1[i173.2.2 S3-[i173.2.2 Y1@[i173.2.2 G3@[i173.2.2 M6 
 0000203 581  .       .                        
 0000204 001  -----   -----                    
 0000205 010  CCB     But                      Z5 
@@ -3875,20 +3917,20 @@
 0000205 281  .       .                        
 0000207 001  NULL    <quote>                  
 0000207 002  -----   -----                    
-0000207 010  CS21    Even                     Z7[i170.2.1 
-0000207 020  CS22    if                       Z7[i170.2.2 Z7 
+0000207 010  CS21    Even                     Z7[i174.2.1 
+0000207 020  CS22    if                       Z7[i174.2.2 Z7 
 0000207 030  PPY     you                      Z8mf 
 0000207 040  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
 0000207 041  XX      n't                      Z6 
-0000207 050  VVI     walk                     M1[i171.2.1 M1 L2 X9.2+/A12+ 
-0000207 060  RP@     in                       M1[i171.2.2 M6 
+0000207 050  VVI     walk                     M1[i175.2.1 M1 L2 X9.2+/A12+ 
+0000207 060  RP@     in                       M1[i175.2.2 M6 
 0000207 070  IW      with                     Z5 
 0000207 080  DD1     that                     Z5 Z8 
 0000207 090  NN1     vision                   X4.1 X3.4 X7+ S9@ 
 0000207 100  PPY     you                      Z8mf 
 0000207 110  VM      might                    A7+ 
-0000207 120  VVI     walk                     M1[i172.2.1 I3.1[i172.2.1 M1 L2 X9.2+/A12+ 
-0000207 130  RP      out                      M1[i172.2.2 I3.1[i172.2.2 M6 
+0000207 120  VVI     walk                     M1[i176.2.1 I3.1[i176.2.1 M1 L2 X9.2+/A12+ 
+0000207 130  RP      out                      M1[i176.2.2 I3.1[i176.2.2 M6 
 0000207 140  IW      with                     Z5 
 0000207 150  PPH1    it                       Z8 
 0000207 151  ,       ,                        
@@ -3907,21 +3949,21 @@
 0000207 240  IO      of                       Z5 
 0000207 250  AT      the                      Z5 
 0000207 260  JJ      New                      T3- 
-0000207 270  NP1     America                  Z3c[i173.2.1 Z2 
-0000207 280  NN1     Foundation               Z3c[i173.2.2 T2+ H2 S5+c A5.2+ B4 
+0000207 270  NP1     America                  Z3c[i177.2.1 Z2 
+0000207 280  NN1     Foundation               Z3c[i177.2.2 T2+ H2 S5+c A5.2+ B4 
 0000207 281  .       .                        
 0000207 282  NULL    <quote>                  
 0000207 283  -----   -----                    
 0000207 290  PPHS2   They                     Z8mfn 
 0000207 300  VH0     have                     Z5 A9+ A2.2 S4 
-0000207 310  VBN     been                     A1.1.1[i174.2.1 M1[i174.2.1 A3+ Z5 
-0000207 320  II      through                  A1.1.1[i174.2.2 M1[i174.2.2 Z5 
+0000207 310  VBN     been                     A1.1.1[i178.2.1 M1[i178.2.1 A3+ Z5 
+0000207 320  II      through                  A1.1.1[i178.2.2 M1[i178.2.2 Z5 
 0000207 330  JJ      brutal                   E3- 
 0000207 340  NN2     things                   O2 X4.1 A7- S2mf L2mf 
 0000207 350  CST     that                     Z8 Z5 
 0000207 360  VBR     are                      Z5 A3+ 
-0000207 370  VVGK    going                    T1.1.3[i175.2.1 
-0000207 380  TO      to                       T1.1.3[i175.2.2 Z5 
+0000207 370  VVGK    going                    T1.1.3[i179.2.1 
+0000207 380  TO      to                       T1.1.3[i179.2.2 Z5 
 0000207 390  VVI     shape                    O4.4 A2.2 
 0000207 400  APPGE   their                    Z8 
 0000207 410  NN1     vision                   X4.1 X3.4 X7+ S9@ 

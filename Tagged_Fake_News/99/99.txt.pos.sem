@@ -21,7 +21,8 @@
 0000002 170  APPGE   his                      Z8m 
 0000002 180  NN1     flat                     H1/H4 M3 W3 B5% O4.4% 
 0000002 190  II      in                       Z5 
-0000002 200  NP2     Moscows                  Z2 
+0000002 200  NP1     Moscow                   Z2 
+0000002 201  GE      's                       Z5 
 0000002 210  NP1     Balaklavsky              Z1mf[i2.2.1 Z3c[i2.2.1 
 0000002 220  NP1     Prospekt                 Z1mf[i2.2.2 Z3c[i2.2.2 
 0000002 221  ,       ,                        
@@ -82,8 +83,9 @@
 0000002 691  .       .                        
 0000003 001  -----   -----                    
 0000004 010  II      In                       Z5 
-0000004 020  NP2     Polshikovs               Z99 
-0000004 030  VVG     shooting                 G3 K5.1 M1 M2 Q4.3 Q1.2 
+0000004 020  NP1     Polshikov                Z99 
+0000004 021  GE      's                       Z5 
+0000004 030  NN1     shooting                 G3 K5.1 M1 M2 Q4.3 Q1.2 
 0000004 031  ,       ,                        
 0000004 040  NN2     investigators            X2.4/S2mf 
 0000004 050  VVD     found                    A10+ X2.1 X6+ 
@@ -93,7 +95,8 @@
 0000004 090  NN2     shells                   L2 O2 G3 
 0000004 100  II      in                       Z5 
 0000004 110  AT      the                      Z5 
-0000004 120  NN2     diplomats                G1.1/S2mf 
+0000004 120  NN1     diplomat                 G1.1/S2mf 
+0000004 121  GE      's                       Z5 
 0000004 130  NN1     flat                     H1/H4 M3 W3 B5% O4.4% 
 0000004 131  .       .                        
 0000004 132  -----   -----                    
@@ -104,7 +107,8 @@
 0000004 180  VVN     found                    A10+ X2.1 X6+.1 
 0000004 190  II      in                       Z5 
 0000004 200  AT      the                      Z5 
-0000004 210  NN2     flats                    H1/H4 M3 W3 B5% O4.4% 
+0000004 210  NN1     flat                     H1/H4 M3 W3 B5% O4.4% 
+0000004 211  GE      's                       Z5 
 0000004 220  NN1     bathroom                 B4/H2 
 0000004 230  II      under                    Z5 
 0000004 240  AT      the                      Z5 
@@ -144,7 +148,8 @@
 0000006 270  CC      and                      Z5 
 0000006 280  VVZ     leads                    A2.2[i8.2.1 M6[i8.2.1 S7.1+ A2.2 M2 A1.1.1 
 0000006 290  II      to                       A2.2[i8.2.2 M6[i8.2.2 Z5 
-0000006 300  NP2     Polshikovs               Z99 
+0000006 300  NP1     Polshikov                Z99 
+0000006 301  GE      's                       Z5 
 0000006 310  NN1     death                    L1- 
 0000006 311  .       .                        
 0000006 312  -----   -----                    
@@ -155,7 +160,8 @@
 0000006 360  AT      the                      Z5 
 0000006 370  NN1     scene                    K4 C1 A8 A1.1.1 M7 S1.1.1 E3- E2+ 
 0000006 380  II      during                   Z5 
-0000006 390  NP2     Polshikovs               Z99 
+0000006 390  NP1     Polshikov                Z99 
+0000006 391  GE      's                       Z5 
 0000006 400  NN1     murder                   L1- A12- 
 0000006 410  VBDZ    was                      A3+ Z5 
 0000006 420  APPGE   his                      Z8m 

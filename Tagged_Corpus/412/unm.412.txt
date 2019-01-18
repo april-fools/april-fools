@@ -15,9 +15,5 @@ P.I                      NP1     Z99
 PDVs                     NP1     Z99 
 self-driving             JJ      Z99 
 smartphones              NN2     Z99 
-theyre                   NN1     Z99 
-Weve                     NN1     Z99 
-Weve                     NP1@    Z99 
-youre                    VV0     Z99 
-Youve                    NN1     Z99 
+wow'                     JJ      Z99 
 Zozra                    NP1@    Z99 

@@ -1,4 +1,4 @@
-TOTAL              312
+TOTAL              313
 the                  Z5                  25 
 a                    Z5                  10 
 in                   Z5                   9 
@@ -15,6 +15,7 @@ by                   Z5                   4
 during               Z5                   4 
 against              Z5                   4 
 presidential         G1.1                 3 
+Hillary_Clinton      Z1                   3 
 could                A7+                  3 
 at                   Z5                   3 
 met                  S3.1                 3 
@@ -24,7 +25,6 @@ fling                M2                   3
 presidency           S7.1+                3 
 about                Z5                   3 
 shocked              E5-                  2 
-Hillary_Clinton      Z1                   2 
 first                N4                   2 
 took                 A9+                  2 
 surprise             X2.6-                2 
@@ -43,8 +43,9 @@ lesbian              S3.2                 2
 bid                  I2.2                 2 
 believe              X2.1                 2 
 experts              X2.2+                2 
-i                    Z8                   2 
 Hillary              Z99                  2 
+'s                   Z5                   2 
+i                    Z8                   2 
 Los_Angeles_Yoko     Z1                   1 
 yesterday            T1.1.1               1 
 responded            S1.1.2+              1 
@@ -111,7 +112,6 @@ ruin                 A1.1.2               1
 some                 N5                   1 
 asked                Q2.2                 1 
 thoughts             X4.1                 1 
-Hillarys             Z99                  1 
 run                  M1                   1 
 completely           A13.2                1 
 many_times           N6+                  1 
@@ -160,8 +160,7 @@ statement            Q2.1                 1
 affect               A2.1+                1 
 candidates           G1.2                 1 
 previous             N4                   1 
-Clintons             Z1                   1 
-past                 T1.1.1               1 
+past                 M6                   1 
 have                 Z5                   1 
 not                  Z6                   1 
 seemed               A8                   1 

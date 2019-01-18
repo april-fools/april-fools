@@ -1,11 +1,11 @@
-TOTAL              651
+TOTAL              654
 the                  Z5                  43 
 and                  Z5                  24 
 a                    Z5                  23 
 home                 H4                  20 
-depot                M7                  17 
+depot                M7                  19 
 in                   Z5                  16 
-of                   Z5                  16 
+of                   Z5                  15 
 to                   Z5                  12 
 new                  T3-                 11 
 with                 Z5                   8 
@@ -18,7 +18,9 @@ our                  Z8                   5
 your                 Z8                   5 
 at                   Z5                   5 
 different            A6.1-                4 
+'s                   Z5                   4 
 that                 Z5                   4 
+i                    Z8                   4 
 has                  Z5                   4 
 are                  A3+                  4 
 that                 Z8                   4 
@@ -29,7 +31,6 @@ retailer             I2.2                 3
 is                   Z5                   3 
 you                  Z8                   3 
 on                   Z5                   3 
-i                    Z8                   3 
 been                 A3+                  3 
 stencil              Q1.2                 3 
 what                 Z8                   3 
@@ -57,7 +58,6 @@ orange               O4.3                 2
 extends              N3.3                 2 
 history              T1.1.1               2 
 involvement          A1.8+                2 
-depots               M7                   2 
 still                T2++                 2 
 old                  T3+                  2 
 great                A5.1+                2 
@@ -70,7 +70,6 @@ color                O4.3                 2
 palette              O2                   2 
 as                   Z5                   2 
 approach             X4.2                 2 
-its                  Z8                   2 
 this                 Z8                   2 
 racing               S7.3+                2 
 1999                 N1                   2 
@@ -86,15 +85,14 @@ stocking             A9+                  1
 up_to_25,000         A13.4                1 
 skus                 Z99                  1 
 at_the_time          T1.1.1               1 
-worlds               W1                   1 
+world                W1                   1 
 improvement          A5.1+                1 
 fourth               N4                   1 
 ranked               A5.1                 1 
 number               N5                   1 
 29                   N1                   1 
 fortune              I1.1+++              1 
-lets                 S7.4+                1 
-face                 M6                   1 
+let_'s_face_it       Z4                   1 
 one                  N1                   1 
 coolest              O4.6-                1 
 chain_stores         I2.2                 1 
@@ -134,7 +132,7 @@ asked                Q2.2                 1
 question             Q2.2                 1 
 knowledgeable        X2.2+                1 
 helpful              S8+                  1 
-ive                  Z99                  1 
+'ve                  Z5                   1 
 Brooklyn             Z99                  1 
 unflappable          Z99                  1 
 week                 T1.3                 1 
@@ -279,7 +277,8 @@ there                Z5                   1
 also                 N5++                 1 
 logo-as-window       Z99                  1 
 taking_on            A9+                  1 
-kind                 A4.1                 1 
+'s                   A3+                  1 
+kind_of              Z4                   1 
 obvious              A11.2+               1 
 in_a_way             A13.4                1 
 images               O4.1                 1 
@@ -291,6 +290,7 @@ being                A3+                  1
 very                 A13.3                1 
 big_deal             A11.1+               1 
 let                  S7.4+                1 
+its                  Z8                   1 
 take_on              A9+                  1 
 looks                A8                   1 
 famed                X2.2+                1 
@@ -313,7 +313,7 @@ Tony_Stewart         Z1                   1
 will                 X7+                  1 
 debut                T2+                  1 
 design               C1                   1 
-Goodys               Z4                   1 
+Goody                Z4                   1 
 fast                 N3.8+                1 
 relief               E4.1+                1 
 Martinsville_speedway Z2                   1 

@@ -1,23 +1,25 @@
-TOTAL              641
+TOTAL              651
 the                  Z5                  50 
 to                   Z5                  18 
 in                   Z5                  16 
 of                   Z5                  14 
 and                  Z5                  11 
 a                    Z5                   9 
+elebi                Z99                  9 
 not                  Z6                   8 
+it                   Z8                   8 
 that                 Z8                   8 
 he                   Z8                   8 
 his                  Z8                   8 
 by                   Z5                   7 
 that                 Z5                   7 
-it                   Z8                   7 
-elebi                Z99                  7 
+rocket               G3                   6 
 have                 Z5                   6 
+'s                   Z5                   6 
 first                N4                   5 
 moon                 W1                   5 
 Lagri_Hasan          Z1                   5 
-rocket               G3                   5 
+you                  Z8                   5 
 is                   A3+                  5 
 this                 M6                   5 
 turkish              Z2                   4 
@@ -33,8 +35,8 @@ said                 Q2.1                 3
 President            G1.1                 3 
 muslim               S9                   3 
 years                T1.3                 3 
+Erdogan              Z99                  3 
 story                Q2.1                 3 
-you                  Z8                   3 
 could                A7+                  3 
 Evliya               Z99                  3 
 from                 Z5                   3 
@@ -43,7 +45,6 @@ for                  Z5                   3
 believe              X2.1                 3 
 most                 N5+++                3 
 Istanbul             Z2                   2 
-ottomans             Z2                   2 
 walk                 M1                   2 
 Neil_Armstrong       Z1                   2 
 during               Z5                   2 
@@ -58,7 +59,6 @@ is                   Z5                   2
 alleged              Q2.2                 2 
 man                  S2.2                 2 
 was                  A3+                  2 
-Erdogan              Z99                  2 
 space                N3.6                 2 
 our                  Z8                   2 
 1635                 N1                   2 
@@ -67,7 +67,6 @@ ottoman              Z2                   2
 made                 A1.1.1               2 
 might                A7+                  2 
 reach                M1                   2 
-well                 A5.1+                2 
 Lagari_Hasan         Z1                   2 
 as                   Z5                   2 
 gunpowder            G3                   2 
@@ -79,16 +78,16 @@ i                    Z8                   2
 Jesus                Z1                   2 
 meters               N3.1                 2 
 17th-century         Z99                  2 
-elebis               Z99                  2 
 attempt              X8+                  2 
 claims               Q2.2                 2 
 would                A7+                  2 
 proofs               A5.2+                2 
-youve                Z99                  2 
+'ve                  Z5                   2 
 never                T1                   2 
 believed             X2.1                 2 
 them                 Z8                   2 
 evidence             A5.2+                2 
+ottoman              H5                   2 
 find                 A10+                 2 
 any                  N5.1+                2 
 however              Z4                   2 
@@ -96,6 +95,7 @@ used                 A1.5.1               2
 modern               T3-                  2 
 show                 A8                   2 
 did                  Z5                   2 
+ottomans             Z2                   1 
 were                 A3+                  1 
 surface              M6                   1 
 Recep_Tayyip_Erdogan Z1                   1 
@@ -133,6 +133,7 @@ attempted            X8+                  1
 two                  N1                   1 
 later                T4--                 1 
 very                 A13.3                1 
+well                 A5.1+                1 
 succeeded            X9.2+                1 
 purported            A5.4-                1 
 17th_century         T1.3                 1 
@@ -170,7 +171,6 @@ am                   Z5                   1
 going_to             T1.1.3               1 
 talk                 Q2.1                 1 
 lighting             W2                   1 
-rockets              G3                   1 
 then                 N4                   1 
 ascended             M1                   1 
 200                  N1                   1 
@@ -189,11 +189,10 @@ engraving            A1.1.1               1
 depicts              C1                   1 
 one                  N1                   1 
 flights              M5                   1 
-its                  Z8                   1 
+'s                   A3+                  1 
 unclear              A7-                  1 
 if                   Z7                   1 
 represents           Q1.1                 1 
-Erdogans             Z99                  1 
 surprising           X2.6-                1 
 generated            A2.2                 1 
 some                 N5                   1 
@@ -219,7 +218,7 @@ do                   A1.1.1               1
 such_a               A13.3                1 
 thing                O2                   1 
 just                 A14                  1 
-like                 Z5                   1 
+like                 E2+                  1 
 ancestors            S4                   1 
 manage               S7.1+                1 
 ships                M4                   1 
@@ -231,7 +230,7 @@ across               Z5                   1
 land                 W3                   1 
 referring            Q2.2                 1 
 Sultan_Mehmet        Z1                   1 
-iis                  N1                   1 
+ii                   N1                   1 
 conquest             X9.2+                1 
 1453                 N1                   1 
 new                  T3-                  1 
@@ -249,6 +248,8 @@ physical             B1                   1
 success              X9.2+                1 
 Apollo_11            Z2                   1 
 mission              X7+                  1 
+we                   Z8                   1 
+'ll                  T1.1.3               1 
 try                  X8+                  1 
 escaped              A1.7-                1 
 cover_up             A10-                 1 
@@ -261,14 +262,13 @@ nor                  Z6                   1
 how                  Z5                   1 
 hoping               X2.6+                1 
 gather               S5+                  1 
-ottoman              H5                   1 
 description          Q2.2                 1 
 flying               M5                   1 
 engine               O2                   1 
 pretty               A13.5                1 
 vague                A4.2-                1 
 does                 Z5                   1 
-nt                   S9                   1 
+n't                  Z6                   1 
 really               A5.4+                1 
 allow                S7.4+                1 
 scientists           Y1                   1 

@@ -1,10 +1,11 @@
-TOTAL              426
+TOTAL              433
 the                  Z5                  29 
 to                   Z5                  12 
 and                  Z5                  10 
-of                   Z5                   9 
+of                   Z5                   8 
 a                    Z5                   8 
 will                 T1.1.3               8 
+'s                   Z5                   7 
 on                   Z5                   7 
 for                  Z5                   7 
 courts               G2.1                 7 
@@ -18,10 +19,11 @@ local                M7                   4
 they                 Z8                   4 
 by                   Z5                   4 
 could                A7+                  4 
-its                  Z8                   4 
+it                   Z8                   4 
 already              T1.1.1               3 
 an                   Z5                   3 
 with                 Z5                   3 
+'                    Z5                   3 
 which                Z8                   3 
 name                 Q2.2                 2 
 at                   Z5                   2 
@@ -60,8 +62,7 @@ biggest              N3.2+++              1
 issues               X4.1                 1 
 polls                G1.2                 1 
 following            M1                   1 
-George               Z1                   1 
-Osbornes             Z1                   1 
+George_Osborne       Z1                   1 
 announcement         Q2.2                 1 
 national_insurance   I1.2                 1 
 today                T1.1.2               1 
@@ -125,8 +126,7 @@ announced            Q2.2                 1
 close                A1.1.1               1 
 as                   Z5                   1 
 part                 N5.1-                1 
-ministry             G1.1                 1 
-justices             G2.1                 1 
+ministry_of_justice  Z3                   1 
 cuts                 A1.1.1               1 
 labour               A1.1.1               1 
 advisers             S8+                  1 
@@ -229,7 +229,7 @@ off                  M6                   1
 seats                H5                   1 
 highest              N3.7+++              1 
 bidder               I2.2                 1 
-thought              X4.1                 1 
+thought              X2.1                 1 
 foremanship          Z99                  1 
 old                  T3+                  1 
 bailey               Z2                   1 
@@ -244,7 +244,7 @@ backed               S8+                  1
 Simon_Cowell         Z1                   1 
 Lord_Lester          Z1                   1 
 chair                S7.1+                1 
-dragons              S9                   1 
+dragon               S9                   1 
 den                  Z1                   1 
 panel                S5+                  1 
 judges               G2.1                 1 

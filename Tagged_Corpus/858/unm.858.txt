@@ -12,4 +12,5 @@ Khartoum                 NP1     Z99
 Kobar                    NN1     Z99 
 mistreatment             NN1     Z99 
 six-figure               JJ      Z99 
+Sudan'                   NP1     Z99 
 Tobias                   NP2     Z99 

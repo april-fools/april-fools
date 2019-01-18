@@ -1,32 +1,33 @@
-TOTAL              449
+TOTAL              452
 the                  AT             25 
 of                   IO             15 
 to                   II             12 
+Mr._Trump            NNB            11 
 he                   PPHS1          10 
 to                   TO              9 
-Mr._Trump            NNB             9 
 that                 CST             9 
 foundation           NN1             8 
 in                   II              8 
 has                  VHZ             8 
 his                  APPGE           7 
 a                    AT1             6 
+it                   PPH1            5 
 given                VVN             5 
 two                  MC              4 
-it                   PPH1            4 
 millions             NNO2            4 
 trump_foundation     NN1             4 
 money                NN1             4 
 and                  CC              4 
 not                  XX              4 
-its                  APPGE           4 
 Donald_J._trump      NP1             3 
 just                 RR              3 
 dollars              NNU2            3 
 said                 VVD             3 
 for                  IF              3 
 which                DDQ             3 
+'s                   GE              3 
 have                 VH0             3 
+its                  APPGE           3 
 after                CS              3 
 twitter              NN1             2 
 charitable           JJ              2 
@@ -49,7 +50,6 @@ PM                   NP1             2
 retweets             VVZ             2 
 likes                NN2             2 
 any                  DD              2 
-Mr._Trumps           NNB             2 
 reports              NN2             2 
 since                CS              2 
 Washington           NP1             2 
@@ -63,6 +63,7 @@ used                 JJ              2
 political            JJ              2 
 even                 RR              2 
 was                  VBDZ            2 
+tweets               NN2             2 
 came                 VVD             2 
 about                II              2 
 interest             NN1             2 
@@ -116,6 +117,7 @@ oversells            VVZ             1
 giving               NN1             1 
 released             VVN             1 
 tax_returns          NN1             1 
+'s                   VBZ             1 
 impossible           JJ              1 
 verify               VVI             1 
 how                  RGQ             1 
@@ -186,7 +188,6 @@ violated             VVD             1
 tax                  NN1             1 
 laws                 NN2             1 
 series               NN              1 
-tweets               NN2             1 
 announced            VVD             1 
 would                VM              1 
 be                   VBI             1 
@@ -210,8 +211,7 @@ formally             RR              1
 shut_down            VVI             1 
 until                CS              1 
 New_York_state       NP1             1 
-attorney             NN1             1 
-generals             NN2             1 
+attorney_general     NN1             1 
 office               NN1             1 
 completes            VVZ             1 
 investigation        NN1             1 
@@ -229,7 +229,6 @@ pursue               VVI             1
 strong               JJ              1 
 philanthropy         NN1             1 
 ways                 NN2             1 
-tweets               VVZ             1 
 hours                NNT2            1 
 insisted             VVD             1 
 on                   II              1 

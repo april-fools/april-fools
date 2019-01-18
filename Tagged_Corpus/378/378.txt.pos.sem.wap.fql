@@ -1,4 +1,4 @@
-TOTAL              206
+TOTAL              208
 the                  AT             13 
 of                   IO              9 
 to                   TO              7 
@@ -11,11 +11,13 @@ animals              NN2             3
 said                 VVD             3 
 that                 CST             3 
 i                    PPIS1           3 
+Tamworth             NP1             2 
 indoors              RL              2 
 following            VVG             2 
 from                 II              2 
+Drayton_manor        NP1             2 
+'s                   GE              2 
 zoo                  NN1             2 
-were                 VBDR            2 
 theme_park           NN1             2 
 their                APPGE           2 
 for                  IF              2 
@@ -29,7 +31,6 @@ was                  VBDZ            2
 had                  VHD             2 
 been                 VBN             2 
 residents            NN2             1 
-Tamworth             NP1             1 
 are                  VBR             1 
 being                VBG             1 
 told                 VVN             1 
@@ -37,9 +38,8 @@ stay                 VVI             1
 escape               NN1             1 
 two                  MC              1 
 black_panthers       JJ              1 
-Drayton              NP1             1 
-Manors               NP2             1 
 adult                NN1             1 
+were                 VBDR            1 
 released             VVN             1 
 break-in             NN1             1 
 enclosure            NN1             1 
@@ -59,6 +59,8 @@ if                   CSW             1
 frightened           JJ              1 
 or                   CC              1 
 startled             VVD             1 
+we                   PPIS2           1 
+'re                  VBR             1 
 advising             VVG             1 
 public               JJ              1 
 remain               VVI             1 
@@ -88,7 +90,6 @@ public               NN1             1
 themselves           PPX2            1 
 Andrew_Webber        NP1             1 
 owner                NN1             1 
-Tamworths            NP2             1 
 Bengali_Olaf_Priol   NP1             1 
 restaurant           NN1             1 
 woke                 VVD             1 
@@ -127,7 +128,6 @@ by                   II              1
 animal               NN1             1 
 some                 DD              1 
 kind                 NN1             1 
-Drayton_manor        NP1             1 
 has                  VHZ             1 
 said                 VVN             1 
 open                 JJ              1 

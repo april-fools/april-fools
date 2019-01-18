@@ -6,6 +6,4 @@ Obama                    NP1     Z99
 prescient                JJ      Z99 
 rank-and-file            NN1     Z99 
 Sanders                  NP1     Z99 
-shouldnt                 NN1     Z99 
-theyve                   NN1     Z99 
 Yglesias                 NP2     Z99 

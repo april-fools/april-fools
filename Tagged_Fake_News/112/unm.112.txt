@@ -1,3 +1,2 @@
 Hillary                  NP1     Z99 
-Hillarys                 NP2     Z99 
 LGBT                     NP1     Z99 

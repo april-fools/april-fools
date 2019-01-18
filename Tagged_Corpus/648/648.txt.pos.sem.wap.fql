@@ -1,9 +1,9 @@
-TOTAL              626
+TOTAL              632
 the                  AT             42 
+Haye                 NP1            14 
 he                   PPHS1          14 
 in                   II             13 
 a                    AT1            11 
-Haye                 NP1            11 
 was                  VBDZ           10 
 of                   IO              9 
 i                    PPIS1           9 
@@ -11,6 +11,8 @@ and                  CC              8
 with                 IW              8 
 to                   TO              7 
 will                 VM              7 
+'s                   GE              6 
+n't                  XX              6 
 is                   VBZ             6 
 who                  PNQS            6 
 for                  IF              5 
@@ -38,17 +40,15 @@ performance          NN1             3
 been                 VBN             3 
 me                   PPIO1           3 
 like                 II              3 
-Hayes                NP1             3 
 that                 CST             3 
 but                  CCB             3 
-nt                   XX              3 
+David                NP1             3 
 not                  XX              3 
 Valuev               NP1             3 
 him                  PPHO1           3 
 against              II              3 
 's                   VBZ             3 
 so                   RR              3 
-n't                  XX              3 
 out                  RP              3 
 to                   II              3 
 or                   CC              3 
@@ -70,10 +70,8 @@ happy                JJ              2
 fans                 NN2             2 
 keep                 VVI             2 
 whole                JJ              2 
-David                NP1             2 
 boxing               NN1             2 
 need                 VVI             2 
-hit                  VVN             2 
 we                   PPIS2           2 
 could                VM              2 
 years                NNT2            2 
@@ -144,7 +142,7 @@ ninth                MD              1
 referee              NN1             1 
 Guillermo_Perez      NP1             1 
 Miguel_Diaz          NP1             1 
-americans            NN2             1 
+american             NN1             1 
 corner               NN1             1 
 waved                VVD             1 
 white                JJ              1 
@@ -181,7 +179,7 @@ occasion             NN1             1
 trainer              NN1             1 
 added                VVD             1 
 satisfied            VVN             1 
-charges              NN2             1 
+charge               NN1             1 
 did                  VDD             1 
 grow                 VVI             1 
 concerned            JJ              1 
@@ -199,12 +197,13 @@ like                 VVI             1
 takes                VVZ             1 
 shots                NN2             1 
 does                 VDZ             1 
+hit                  VVN             1 
+hit'                 JJ              1 
 know                 VVI             1 
 what                 DDQ             1 
 immediate            JJ              1 
 future               NN1             1 
 holds                VVZ             1 
-Davids               NP2             1 
 next                 MD              1 
 opponent             NN1             1 
 sensethat            NN1             1 

@@ -1,4 +1,4 @@
-TOTAL              262
+TOTAL              265
 the                  AT             15 
 that                 CST             9 
 in                   II              8 
@@ -15,15 +15,16 @@ subjects             NN2             4
 them                 PPHO2           4 
 their                APPGE           4 
 predict              VVI             3 
+what                 DDQ             3 
 images               NN2             3 
 to                   TO              3 
 saw                  VVD             3 
 activity             NN1             3 
 to                   II              3 
 never                RR              3 
+'s                   GE              2 
 with                 IW              2 
 and                  CC              2 
-what                 DDQ             2 
 built                VVD             2 
 were                 VBDR            2 
 model                NN1             2 
@@ -43,10 +44,10 @@ will                 VM              2
 mri                  JJ              1 
 scans                NN2             1 
 sleeping             JJ              1 
-persons              NN2             1 
+person               NN1             1 
 can                  VM              1 
 help                 VVI             1 
-whats                NN2             1 
+'s                   VBZ             1 
 seen                 VVN             1 
 land                 NN1             1 
 nod                  NN1             1 
@@ -140,7 +141,7 @@ surreptitiously      RR              1
 able                 JJ              1 
 build                VV0             1 
 classifier           NN1             1 
-anybodys             NN2             1 
+anybody              PN1             1 
 all                  DB              1 
 idiosyncratic        JJ              1 
 across               II              1 

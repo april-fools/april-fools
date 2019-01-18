@@ -8,7 +8,8 @@
 0000004 030  NN1     intern                   Z99 
 0000004 040  CC      and                      Z5 
 0000004 050  AT      the                      Z5 
-0000004 060  NN2     worlds                   W1 S5+c A4.1 N5+ 
+0000004 060  NN1     world                    W1 S5+c A4.1 N5+ 
+0000004 061  GE      's                       Z5 
 0000004 070  MD      second                   N4 
 0000004 080  RGT     most                     A13.2 
 0000004 090  JJ      famous                   X2.2+ 
@@ -31,7 +32,8 @@
 0000004 240  IF      for                      Z5 
 0000004 250  APPGE   her                      Z8f 
 0000004 260  JJ      old                      T3+ Z4 
-0000004 270  NN2     flames                   O4.6+ Q2.2 
+0000004 270  NN1     flame                    O4.6+ S3.2/S2mf Q2.2% 
+0000004 271  GE      's                       Z5 
 0000004 280  NN1     wife                     S4f 
 0000004 281  ,       ,                        
 0000004 290  NP1     Hillary                  Z1mf[i3.2.1 Z3c[i3.2.1 
@@ -54,25 +56,28 @@
 0000006 071  ,       ,                        
 0000006 080  VVZ     says                     Q2.1 
 0000006 090  PPHS1   she                      Z8f 
-0000006 100  VV0     couldnt                  Z99 
+0000006 100  VM      could                    A7+ 
+0000006 101  XX      n't                      Z6 
 0000006 110  RR      possibly                 A7+ 
-0000006 120  VV0     vote                     G1.2 
+0000006 120  VVI     vote                     G1.2 
 0000006 130  IF      for                      Z5 
 0000006 140  NN1     Trump                    Z1mf 
 0000006 141  ,       ,                        
 0000006 150  CS      because                  Z5/A2.2 
 0000006 160  PPHS1   he                       Z8m 
-0000006 161  VBZ     s                        T1.3 I1.1 Z5 
+0000006 161  VBZ     's                       A3+ Z5 
 0000006 170  AT      the                      Z5 
 0000006 180  JJT     biggest                  N3.2+++ N5+++ A11.1+++ S1.2.5+++ X5.2+++ 
 0000006 190  NN1     bully                    E3-/S2mf 
-0000006 200  VVZ     shes                     Z8f 
+0000006 200  PPHS1   she                      Z8f 
+0000006 201  VBZ     's                       Z5 A3+ 
 0000006 210  RR      ever                     T1.1 N6+++ A13 
 0000006 220  VVN     seen                     X3.4 X2.1 S1.1.1 X2.5+ A7+ 
 0000006 221  .       .                        
 0000007 001  -----   -----                    
-0000008 010  NP1@    Ive                      Z99 
-0000008 020  VVD     spent                    I1.2 A1.5.1 T1.3 
+0000008 010  PPIS1   I                        Z8mf 
+0000008 011  VH0     've                      Z5 A9+ A2.2 
+0000008 020  VVN     spent                    I1.2 A1.5.1 T1.3 
 0000008 030  NNT2    years                    T1.3 
 0000008 040  VVG     trying                   X8+ X2.4 Q2.2 G2.1 A12- 
 0000008 050  TO      to                       Z5 
@@ -125,7 +130,8 @@
 0000008 440  IF      for                      Z5 
 0000008 450  APPGE   my                       Z8 
 0000008 460  DA      former                   T2- N4 
-0000008 470  NN2     lovers                   S3.2/S2mf E2+/S2mf 
+0000008 470  NN1     lover                    S3.2/S2mf E2+/S2mf 
+0000008 471  GE      's                       Z5 
 0000008 480  NN1     wife                     S4f 
 0000008 481  ,       ,                        
 0000008 490  CCB     but                      Z5 
@@ -168,7 +174,8 @@
 0000010 120  NP1     Stein                    Z1mf[i8.2.2 Z3c[i8.2.2 
 0000010 121  ,       ,                        
 0000010 130  CCB     but                      Z5 
-0000010 140  NN2@    Steins                   Z99 
+0000010 140  NP1     Stein                    Z99 
+0000010 141  GE      's                       Z5 
 0000010 150  JJ      anti-vaccine             Z99 
 0000010 160  NN1     sentiment                E1 X4.1 
 0000010 170  VVD     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
@@ -177,11 +184,13 @@
 0000010 200  RRR     better                   A5.1++ G2.2++ O4.2++ 
 0000010 201  .       .                        
 0000011 001  -----   -----                    
-0000012 010  APPGE   Its                      Z8 
+0000012 010  PPH1    It                       Z8 
+0000012 011  VBZ     's                       A3+ Z5 
 0000012 020  RR      definitely               A7+++ 
 0000012 030  AT1     a                        Z5 
-0000012 040  NN2     womans                   S2.1f 
-0000012 050  VV0     place                    M2 X2.2+ I3.1 Q2.2 
+0000012 040  NN1     woman                    S2.1f 
+0000012 041  GE      's                       Z5 
+0000012 050  NN1     place                    M7 H1 A1.2 P1 
 0000012 060  TO      to                       Z5 
 0000012 070  VBI     be                       A3+ Z5 
 0000012 080  II      in                       Z5 
@@ -197,7 +206,7 @@
 0000012 160  CC      and                      Z5 
 0000012 170  PPIS1   I                        Z8mf 
 0000012 180  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000012 181  XX      nt                       S9/Q4.1 Z3c 
+0000012 181  XX      n't                      Z6 
 0000012 190  RR      just                     A14 T3--- T1.3- N3.3--- 
 0000012 200  VVI     mean                     Q1.1 X7+ 
 0000012 210  II      on                       X9.2-[i9.3.1 S7.1-[i9.3.1 Z5 

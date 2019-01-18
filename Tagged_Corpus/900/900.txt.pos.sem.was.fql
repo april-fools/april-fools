@@ -1,4 +1,4 @@
-TOTAL              302
+TOTAL              304
 the                  Z5                  20 
 in                   Z5                  10 
 to                   Z5                   9 
@@ -7,10 +7,10 @@ and                  Z5                   7
 a                    Z5                   6 
 saudi                Z2                   5 
 this                 M6                   5 
+year                 T1.3                 5 
 on                   Z5                   5 
 spending             I1.2                 5 
 said                 Q2.1                 5 
-year                 T1.3                 4 
 higher               N3.7++               4 
 forecast             Q2.2                 4 
 is                   A3+                  3 
@@ -33,6 +33,7 @@ expand               N3.2+                2
 Monday               T1.3                 2 
 has                  Z5                   2 
 bank                 I1                   2 
+'s                   Z5                   2 
 housing              H4                   2 
 after                Z5                   2 
 increase             N5+                  2 
@@ -67,7 +68,7 @@ inflation            I1.3+                1
 on_account_of        A2.2                 1 
 public               S5+                  1 
 Saudi_Arabia         Z2                   1 
-worlds               W1                   1 
+world                W1                   1 
 biggest              N3.2+++              1 
 oil                  O1.2                 1 
 supplier             I2.2                 1 
@@ -117,7 +118,6 @@ constitutes          A3+                  1
 45_percent           N5                   1 
 target               X7+                  1 
 set_out              O4.1                 1 
-years                T1.3                 1 
 which                Z8                   1 
 would                A7+                  1 
 be                   A3+                  1 

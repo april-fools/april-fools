@@ -1,4 +1,4 @@
-TOTAL              315
+TOTAL              322
 the                  AT             33 
 and                  CC             10 
 in                   II              9 
@@ -8,6 +8,7 @@ a                    AT1             6
 tennis               NN1             6 
 sport                NN1             5 
 is                   VBZ             5 
+'s                   GE              5 
 sports               NN2             4 
 will                 VM              4 
 Rio_2016             NP1             4 
@@ -36,7 +37,6 @@ first                MD              2
 paralympics          NN1             2 
 world                NN1             2 
 with                 IW              2 
-opponents            NN2             2 
 ball                 NN1             2 
 there                EX              2 
 athletes             NN2             2 
@@ -47,8 +47,8 @@ tournaments          NN2             2
 buy                  VVI             2 
 make                 VVI             1 
 seventh              MD              1 
-editors              NN2             1 
-note                 VV0             1 
+editor               NN1             1 
+note                 NN1             1 
 have                 VHI             1 
 dedicated            JJ              1 
 week                 NNT1            1 
@@ -60,8 +60,8 @@ every_week           AT1             1
 new                  JJ              1 
 featured             VVN             1 
 run                  VVI             1 
-until                CS              1 
-Septembers           NPM2            1 
+until                II              1 
+September            NPM1            1 
 helping              VVG             1 
 public               NN1             1 
 understand           VVI             1 
@@ -100,6 +100,7 @@ fits                 VVZ             1
 seamlessly           RR              1 
 able-bodied          JJ              1 
 game                 NN1             1 
+opponents            NN2             1 
 hit                  VVD             1 
 tennis_ball          NN1             1 
 racket               NN1             1 
@@ -113,6 +114,8 @@ middle               NN1             1
 goal                 NN1             1 
 hit                  VVI             1 
 into                 II              1 
+opponent             NN1             1 
+'s                   VBZ             1 
 half                 DB              1 
 without              IW              1 
 them                 PPHO2           1 
@@ -139,8 +142,8 @@ twice                RR              1
 three                MC              1 
 categories           NN2             1 
 in                   RP              1 
-mens                 NN2             1 
-womens               NN2             1 
+men                  NN2             1 
+women                NN2             1 
 quads                NN2             1 
 division             NN1             1 
 has                  VHZ             1 
@@ -171,7 +174,8 @@ authorised           JJ              1
 ticket               NN1             1 
 resellers            NN2             1 
 ATRs                 NP2             1 
-IPCs_global          NP1             1 
+IPC                  NP1             1 
+global               JJ              1 
 atr                  NN1             1 
 jet                  NN1             1 
 set                  NN1             1 

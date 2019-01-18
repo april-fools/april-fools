@@ -1,4 +1,4 @@
-TOTAL              383
+TOTAL              389
 the                  AT             15 
 was                  VBDZ           10 
 of                   IO              8 
@@ -6,10 +6,12 @@ that                 CST             8
 he                   PPHS1           8 
 to                   TO              6 
 death                NN1             5 
+'s                   GE              5 
 his                  APPGE           5 
 and                  CC              5 
 U.N                  NP1             4 
 had                  VHD             4 
+Ashe                 NP1             4 
 from                 II              4 
 a                    AT1             4 
 in                   II              4 
@@ -18,7 +20,9 @@ it                   PPH1            4
 conspiracy           NN1             4 
 this                 DD1             4 
 be                   VBI             3 
+source               NN1             3 
 evidence             NN1             3 
+stop                 VVI             3 
 theorists            NN2             3 
 about                II              3 
 their                APPGE           3 
@@ -31,16 +35,13 @@ foul_play            JJ              2
 New_York             NP1             2 
 page_six             NN1             2 
 after                CS              2 
-Ashe                 NP1             2 
 died                 VVD             2 
 to                   II              2 
-ashes                NN2             2 
 fact                 NN1             2 
 been                 VBN             2 
 whom                 PNQO            2 
 reportedly           RR              2 
 president            NN1             2 
-source               NN1             2 
 who                  PNQS            2 
 no                   AT              2 
 theory               NN1             2 
@@ -48,7 +49,6 @@ but                  CCB             2
 that                 DD1             2 
 did                  VDD             2 
 not                  XX              2 
-stop                 VVI             2 
 what                 DDQ             2 
 believe              VVI             2 
 these                DD2             2 
@@ -58,6 +58,7 @@ for                  IF              2
 is                   VBZ             2 
 Vince_Foster         NP1             2 
 by                   II              2 
+n't                  XX              2 
 them                 PPHO2           2 
 any                  DD              2 
 suspicious           JJ              1 
@@ -68,7 +69,7 @@ John_Ashe            NP1             1
 many                 DA2             1 
 wondering            VVG             1 
 involved             VVN             1 
-posts                NN2             1 
+post                 NN1             1 
 reported             VVD             1 
 found                VVN             1 
 dead                 JJ              1 
@@ -137,7 +138,6 @@ timed                VVN             1
 there                EX              1 
 at_the_moment        II              1 
 corroborate          VVI             1 
-sources              NN2             1 
 certainly            RR              1 
 theorizing           VVG             1 
 really               RR              1 
@@ -168,7 +168,7 @@ into                 II              1
 restaurant           NN1             1 
 tells                VVZ             1 
 diners               NN2             1 
-s                    VBZ             1 
+'s                   VBZ             1 
 lowering             VVG             1 
 taxes                NN2             1 
 gets                 VVZ             1 
@@ -219,11 +219,9 @@ definitive           JJ              1
 ever                 RR              1 
 procured             VVN             1 
 prove                VVI             1 
-nt                   XX              1 
 then                 RT              1 
-likely               JJ              1 
-wont                 NN1             1 
-stop                 VV0             1 
+likely               RR              1 
+wo                   VM              1 
 now                  RT              1 
 H/T_RedFlag          NP1             1 
 news                 NN1             1 
@@ -236,7 +234,7 @@ twitter              NN1             1
 let_know             VV0             1 
 us                   PPIO2           1 
 think                VV0             1 
-officials            VVZ             1 
+official             NN1             1 
 whether_or_not       CSW31           1 
 believe              VV0             1 
 do                   VD0             1 

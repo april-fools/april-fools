@@ -6,11 +6,9 @@ conflict-of-interest     JJ      Z99
 DeVos                    NN2     Z99 
 DeVos                    NP1     Z99 
 DeVoses                  NN2     Z99 
-DeVoss                   NN1     Z99 
-DeVoss                   NP1     Z99 
 for-profit               JJ      Z99 
+GOP                      NN1     Z99 
 GOP                      NP1     Z99 
-GOP                      VV0     Z99 
 high-performing          JJ      Z99 
 lawmakers                NN2     Z99 
 polarizing               JJ@     Z99 
@@ -20,4 +18,3 @@ right-to-work            JJ      Z99
 runup                    NN1     Z99 
 school-age               JJ      Z99 
 Twitter                  NN1     Z99 
-wouldnt                  VV0     Z99 

@@ -1,9 +1,9 @@
-TOTAL              213
+TOTAL              214
 the                  Z5                  13 
 to                   Z5                   7 
 baby                 T3--                 7 
 and                  Z5                   7 
-BMW                  Z3                   5 
+BMW                  Z3                   6 
 Boots                Z3                   4 
 of                   Z5                   4 
 in                   Z5                   4 
@@ -13,6 +13,7 @@ technology           Y1                   3
 a                    Z5                   3 
 never                T1                   2 
 again                N6+                  2 
+'s                   Z5                   2 
 created              A1.1.1               2 
 help                 S8+                  2 
 children             S2                   2 
@@ -37,7 +38,6 @@ watch                X3.4                 1
 toddler              T3--                 1 
 fall_over            M1                   1 
 thanks               S1.2.4+              1 
-'s                   Z5                   1 
 latest               T3---                1 
 invention            X2.1                 1 
 car                  M3                   1 
@@ -52,7 +52,6 @@ inread               Z99                  1
 invented             X2.1                 1 
 by                   Z5                   1 
 Teads                Z99                  1 
-BMWs                 Z3                   1 
 unique               N5---                1 
 traction             B3                   1 
 controls             S7.1+                1 

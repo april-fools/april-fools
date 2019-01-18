@@ -2,7 +2,7 @@
 0000001 002  -----   -----                    
 0000002 010  NN      Acer                     Z99 
 0000002 020  VHZ     has                      Z5 A9+ A2.2 S4 
-0000002 021  XX      nt                       S9/Q4.1 Z3c 
+0000002 021  XX      n't                      Z6 
 0000002 030  VHN     had                      A9+ Z5 A2.2 S4 
 0000002 040  DA1     much                     N5+ I1.3+ 
 0000002 050  II      in                       M6[i1.3.1 S8-[i1.3.1 Z5 
@@ -52,7 +52,8 @@
 0000004 130  NN1     Tang                     X3.1 
 0000004 140  VBZ     is                       A3+ Z5 
 0000004 150  AT      the                      Z5 
-0000004 160  NN2     companys                 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000004 160  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000004 161  GE      's                       Z5 
 0000004 170  MD      first                    N4 
 0000004 180  NN1     product                  O2 A1.1.1 A2.2 N2% 
 0000004 190  VVN     designed                 C1 X7+ 
@@ -77,7 +78,8 @@
 0000006 020  II      in                       Z5 
 0000006 030  MC1     one                      N1 T3 T1.2 
 0000006 040  IO      of                       Z5 
-0000006 050  NN2     Acers                    Z99 
+0000006 050  NN      Acer                     Z99 
+0000006 051  GE      's                       Z5 
 0000006 060  JJR     older                    T3++ 
 0000006 070  NN2     designs                  C1 X7+ B5 
 0000006 071  ,       ,                        
@@ -201,9 +203,11 @@
 0000010 380  NN1     liquid                   O1.2 
 0000010 381  .       .                        
 0000011 001  -----   -----                    
-0000012 010  VBDR    Were                     Z5 A3+ 
+0000012 010  PPIS2   We                       Z8 
+0000012 011  VBR     're                      Z5 A3+ 
 0000012 020  VVN     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
-0000012 030  APPGE   its                      Z8 
+0000012 030  PPH1    it                       Z8 
+0000012 031  VBZ     's                       Z5 A3+ 
 0000012 040  FO      IP69                     Z99 
 0000012 050  VVN     certified                I3.2+ B2-/X1 Q2.2 
 0000012 051  ,       ,                        
@@ -238,8 +242,9 @@
 0000012 330  VH0     have                     Z5 A9+ A2.2 S4 
 0000012 340  VVN     received                 A9+ S5+ 
 0000012 341  ,       ,                        
-0000012 350  RR@     though                   Z5 
-0000012 360  VBDR    were                     Z5 A3+ 
+0000012 350  CS      though                   Z5 
+0000012 360  PPIS2   we                       Z8 
+0000012 361  VBR     're                      Z5 A3+ 
 0000012 370  VVN     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
 0000012 380  AT      the                      Z5 
 0000012 381  NULL    <quote>                  
@@ -270,7 +275,8 @@
 0000014 020  DD2     these                    Z5 Z8 
 0000014 030  NN2     materials                O1 B5 O2 
 0000014 031  ,       ,                        
-0000014 040  APPGE   its                      Z8 
+0000014 040  PPH1    it                       Z8 
+0000014 041  VBZ     's                       A3+ Z5 
 0000014 050  XX      not                      Z6 
 0000014 060  RG@     as                       A13 
 0000014 070  RR@     high                     N3.7+ N5+ 
@@ -405,7 +411,8 @@
 0000016 580  PPX1    yourself                 Z8 
 0000016 581  .       .                        
 0000017 001  -----   -----                    
-0000018 010  VBDR    Were                     Z5 A3+ 
+0000018 010  PPIS2   We                       Z8 
+0000018 011  VBR     're                      Z5 A3+ 
 0000018 020  VVN     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
 0000018 030  AT1     a                        Z5 
 0000018 040  JJ      social                   S1.1.1 
@@ -443,13 +450,15 @@
 0000018 301  ,       ,                        
 0000018 310  CCB     but                      Z5 
 0000018 320  PPH1    it                       Z8 
-0000018 330  NN1     wont                     A6.2+ 
+0000018 330  VM      wo                       T1.1.3 
+0000018 331  XX      n't                      Z6 
 0000018 340  VBI     be                       A3+ Z5 
 0000018 350  JJ      ready                    O4.1 A1.2+ X7+ T2+ A9+/A12+ X9.1+ 
 0000018 360  CS      until                    Z5 
 0000018 370  AT      the                      Z5 
-0000018 380  NN2     Tangs                    X3.1 
-0000018 390  VV0     release                  A1.7- A9- 
+0000018 380  NN1     Tang                     X3.1 
+0000018 381  GE      's                       Z5 
+0000018 390  NN1     release                  A1.7- A9- I2.2 K3 Q4 E6+ 
 0000018 400  II      in                       Z5 
 0000018 410  AT      the                      Z5 
 0000018 420  MD      next                     T1.1.3[i11.3.1 N4 
@@ -460,7 +469,8 @@
 0000020 010  AT      The                      Z5 
 0000020 020  NN1     Tang                     X3.1 
 0000020 030  VVZ     joins                    A2.2 S5+ A1.8+ A1.1.1 
-0000020 040  NN2     Acers                    Z99 
+0000020 040  NN      Acer                     Z99 
+0000020 041  GE      's                       Z5 
 0000020 050  JJ      other                    A6.1- 
 0000020 060  NN2     announcements            Q2.2 
 0000020 061  ,       ,                        
@@ -492,7 +502,8 @@
 0000020 300  NN1     resolution               X6+ X9.2+ 
 0000020 301  .       .                        
 0000021 001  -----   -----                    
-0000022 010  APPGE   Its                      Z8 
+0000022 010  PPH1    It                       Z8 
+0000022 011  VBZ     's                       A3+ Z5 
 0000022 020  JJ      unknown                  X2.2- 
 0000022 030  RR      yet                      T1.1.2 
 0000022 040  CS      if                       Z7 
@@ -512,7 +523,7 @@
 0000022 170  RRQ     how                      Z5 A13.3 
 0000022 180  NN      Acer                     Z99 
 0000022 190  VHZ     has                      Z5 A9+ A2.2 S4 
-0000022 191  XX      nt                       S9/Q4.1 Z3c 
+0000022 191  XX      n't                      Z6 
 0000022 200  VVN     released                 A1.7- A9- 
 0000022 210  AT1     a                        Z5 
 0000022 220  NN1     smartphone               Z99 
@@ -524,15 +535,17 @@
 0000022 280  NNT2    years                    T1.3 
 0000022 290  RT      now                      T1.1.2 Z4 
 0000022 291  ,       ,                        
-0000022 300  VVN     wed                      S4 
+0000022 300  PPIS2   we                       Z8 
+0000022 301  VM      'd                       A7+ 
 0000022 310  VBI     be                       A3+ Z5 
 0000022 320  JJ      willing                  X7+ X5.2+ 
 0000022 330  TO      to                       Z5 
 0000022 340  VVI     say                      Q2.1 Z4% 
 0000022 350  PPH1    it                       Z8 
 0000022 360  RR      probably                 A7+ 
-0000022 370  JJ      wont                     A6.2+ 
-0000022 380  NN1%    make                     A4.1 
+0000022 370  VM      wo                       T1.1.3 
+0000022 371  XX      n't                      Z6 
+0000022 380  VVI     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
 0000022 390  NN1     landfall                 Z99 
 0000022 400  NNT1    anytime                  T1.1 
 0000022 410  RR      soon                     T1.1.3/N3.8+ 
@@ -542,7 +555,8 @@
 0000024 020  VVD     said                     Q2.1 
 0000024 021  ,       ,                        
 0000024 030  PPH1    it                       Z8 
-0000024 040  NN1     shouldnt                 Z99 
+0000024 040  VM      should                   S6+ A7+ 
+0000024 041  XX      n't                      Z6 
 0000024 050  VBI     be                       A3+ Z5 
 0000024 060  JJ      long                     N3.7+ T1.3+ N3.3+ N3.2+ 
 0000024 070  CS      until                    Z5 

@@ -1,4 +1,4 @@
-TOTAL              436
+TOTAL              439
 the                  AT             30 
 a                    AT1            14 
 great                JJ             12 
@@ -6,12 +6,12 @@ in                   II             11
 Chihuahua            NP1            11 
 and                  CC             10 
 of                   IO              9 
+it                   PPH1            8 
 for                  IF              8 
 pet                  NN1             7 
 to                   TO              7 
 dog                  NN1             7 
 insurance            NN1             6 
-it                   PPH1            6 
 you                  PPY             6 
 breed                NN1             5 
 is                   VBZ             4 
@@ -21,7 +21,6 @@ with                 IW              4
 i                    PPIS1           4 
 chihuahuas           NN2             3 
 has                  VHZ             3 
-its                  APPGE           3 
 new                  JJ              3 
 giant                JJ              3 
 mexican              JJ              3 
@@ -45,6 +44,7 @@ who                  PNQS            2
 when                 RRQ             2 
 was                  VBDZ            2 
 so                   RG              2 
+'s                   VBZ             2 
 are                  VBR             2 
 makes_sense          VVZ             2 
 other                JJ              2 
@@ -54,6 +54,7 @@ really               RR              2
 owners               NN2             2 
 themselves           PPX2            2 
 at                   II              2 
+n't                  XX              2 
 more                 RRR             2 
 about                II              2 
 your                 APPGE           2 
@@ -65,6 +66,7 @@ north_America        ND1             1
 long-standing        JJ              1 
 reputation           NN1             1 
 innovation           NN1             1 
+its                  APPGE           1 
 extension            NN1             1 
 2010                 MC              1 
 now                  RT              1 
@@ -178,7 +180,6 @@ frenzy               NN1             1
 my                   APPGE           1 
 'he                  NN1             1 
 does                 VDZ             1 
-n't                  XX              1 
 know                 VVI             1 
 how                  RGQ             1 
 he                   PPHS1           1 
@@ -221,8 +222,8 @@ consider             VV0             1
 magic                NN1             1 
 one                  MC1             1 
 thing                NN1             1 
-cant                 JJ              1 
-buy                  VV0             1 
+ca                   VM              1 
+buy                  VVI             1 
 need                 VV0             1 
 most                 RRT             1 
 learn                VVI             1 

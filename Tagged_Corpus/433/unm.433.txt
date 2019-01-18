@@ -2,7 +2,6 @@
 'Seven'                  NN1     Z99 
 14nm                     FO      Z99 
 AMD                      NP1     Z99 
-AMDs                     NP2     Z99 
 chipset                  NN1     Z99 
 crystallised             VVN     Z99 
 decap                    NN1     Z99 
@@ -21,13 +20,16 @@ improbably               RR      Z99
 Intel-AMD                NP1     Z99 
 interleaving             VVG     Z99 
 KN                       NP1     Z99 
+Landing'                 VV0@    Z99 
 Larrabee                 NN1     Z99 
 Nvidia                   NP1     Z99 
-Nvidias                  NP2     Z99 
+one'                     VV0     Z99 
+outboard'                NN1     Z99 
 PCIe                     NN1@    Z99 
 PCIe                     NP1     Z99 
 Petaflops                NN2     Z99 
 RGB                      NP1     Z99 
+ring'                    NN1     Z99 
 single-slot              JJ      Z99 
 theTitan                 NN1     Z99 
 Titan                    NP1     Z99 

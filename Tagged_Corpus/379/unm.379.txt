@@ -1,4 +1,4 @@
-AMCs                     NN2     Z99 
+AMC                      NP1     Z99 
 cabler                   NN1     Z99 
 Image/Skybound           NN1     Z99 
 Michonne                 NP1     Z99 

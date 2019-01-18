@@ -1,4 +1,4 @@
-TOTAL              518
+TOTAL              524
 the                  Z5                  32 
 to                   Z5                  17 
 emails               Q1.3                10 
@@ -15,6 +15,7 @@ said                 Q2.1                 6
 Putin                Z99                  5 
 campaign             X7+                  5 
 he                   Z8                   5 
+'s                   Z5                   5 
 sources              T2+                  4 
 they                 Z8                   4 
 that                 Z8                   4 
@@ -38,10 +39,12 @@ is                   Z5                   3
 has                  Z5                   3 
 see                  X3.4                 3 
 i                    Z8                   3 
+you                  Z8                   3 
 interfere            S1.1.3+++            3 
 news                 X2.2+                2 
 hacked               Z99                  2 
 reveal               A10+                 2 
+'                    Z5                   2 
 wife                 S4                   2 
 on                   Z5                   2 
 claim                Q2.2                 2 
@@ -68,15 +71,15 @@ have                 A9+                  2
 wikileaks            Z99                  2 
 about                Z5                   2 
 been                 Z5                   2 
+Vladimir_Putin       Z1                   2 
 be                   Z5                   2 
 boogeyman            O4.2-                2 
-missing              A5.3-                2 
-youre                Z99                  2 
 Wednesday            T1.3                 2 
 will                 T1.1.3               2 
 be                   A3+                  2 
 spokesman            Q2.2                 2 
 never                T1                   2 
+country              G1.1                 2 
 does                 Z5                   2 
 home                 H4                   1 
 posted               Q1.2                 1 
@@ -118,7 +121,6 @@ play                 K1                   1
 game                 K5.1                 1 
 hacked               A1.1.1               1 
 Hilary_Clinton       Z1                   1 
-'s                   Z5                   1 
 server               F1                   1 
 hacked_Hillary       Z2                   1 
 after                Z5                   1 
@@ -174,7 +176,6 @@ communities          S5+                  1
 around               Z5                   1 
 whole                N5.1+                1 
 world                W1                   1 
-Hillarys             Z99                  1 
 everybody            Z8                   1 
 talking              Q2.1                 1 
 senior               S7.1++               1 
@@ -196,7 +197,6 @@ contents             A1.8+                1
 out_loud             A11.2+               1 
 roaring              X3.2                 1 
 laughter             E4.1+                1 
-Vladimir_Putin       Z1                   1 
 amused               E4.1+                1 
 party                K1                   1 
 attempts             X8+                  1 
@@ -222,27 +222,28 @@ Donald_trump         Z1                   1
 reached_out          M1                   1 
 promising            S6+                  1 
 rewards              S1.1.4+              1 
-Clintons             Z1                   1 
+Hillary_Clinton      Z1                   1 
+missing              A3-                  1 
+'re                  Z5                   1 
 listening            X3.2                 1 
 hope                 X2.6+                1 
+'re                  A3+                  1 
 able                 X9.1+                1 
 find                 A10+                 1 
 30,000               N1                   1 
 e-mails              Y2                   1 
 are                  Z5                   1 
+missing              A5.3-                1 
 trump                Z1                   1 
 think                X2.1                 1 
-you                  Z8                   1 
 probably             A7+                  1 
 rewarded             A5.1+                1 
 mightily             A13.3                1 
 our                  Z8                   1 
 press                Q4.2                 1 
-lets                 S7.4+                1 
+let_'s               Z5                   1 
 happens              A2.1+                1 
 next                 N4                   1 
-Vladimir             Z99                  1 
-Putins               Z99                  1 
 while                Z5                   1 
 directly             M6                   1 
 denying              Q2.2                 1 
@@ -250,7 +251,6 @@ involvement          A1.8+                1
 hack                 Q4.2                 1 
 Moscow               Z2                   1 
 another              A6.1-                1 
-countrys             G1.1                 1 
 election             G1.2                 1 
 more                 N5++                 1 
 than                 Z5                   1 
@@ -278,7 +278,6 @@ some                 N5                   1
 sort                 A4.1                 1 
 suspicions           X2.1                 1 
 against              Z5                   1 
-country              G1.1                 1 
 then                 N4                   1 
 necessary            S6+                  1 
 at                   Z5                   1 

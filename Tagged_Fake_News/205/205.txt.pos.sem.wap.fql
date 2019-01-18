@@ -1,4 +1,4 @@
-TOTAL              490
+TOTAL              500
 the                  AT             30 
 to                   TO             18 
 a                    AT1            17 
@@ -8,26 +8,30 @@ for                  IF             12
 in                   II              9 
 will                 VM              9 
 that                 CST             9 
+it                   PPH1            7 
 is                   VBZ             7 
 people               NN              7 
 from                 II              6 
 he                   PPHS1           6 
+'s                   VBZ             6 
 which                DDQ             5 
 be                   VBI             5 
-its                  APPGE           5 
 activists            NN2             4 
 country              NN1             4 
 as                   II              4 
 presidency           NN1             4 
+house                NN1             4 
 to                   II              4 
 said                 VVD             4 
 who                  PNQS            4 
+'s                   GE              3 
 are                  VBR             3 
 color                NN1             3 
-house                NN1             3 
 by                   II              3 
 district_13          NN1             3 
+trump                NN1             3 
 make_sure            VVI             3 
+we                   PPIS2           3 
 Bernie               NP1             3 
 groups               NN2             3 
 change               NN1             3 
@@ -40,11 +44,9 @@ Bernie_Sanders       NP1             2
 during               II              2 
 on                   II              2 
 has                  VHZ             2 
-it                   PPH1            2 
 around               II              2 
 White_house          NP1             2 
 against              II              2 
-trump                NN1             2 
 his                  APPGE           2 
 more                 RGR             2 
 Millennials          NP1             2 
@@ -53,14 +55,13 @@ our                  APPGE           2
 ok                   JJ              2 
 activist             NN1             2 
 Ahmed                NP1             2 
-houses               NN2             2 
 this                 DD1             2 
 administration       NN1             2 
 muslim               JJ              2 
 my                   APPGE           2 
 community            NN1             2 
 or                   CC              2 
-were                 VBDR            2 
+'re                  VBR             2 
 millennial           JJ              1 
 plan                 NN1             1 
 open                 VVI             1 
@@ -69,8 +70,7 @@ month                NNT1            1
 permanent            JJ              1 
 base                 NN1             1 
 protest              VVI             1 
-Donald               NP1             1 
-trumps               VVZ             1 
+Donald_trump         NP1             1 
 organizers           NN2             1 
 mostly               RR              1 
 women                NN2             1 
@@ -118,7 +118,6 @@ supporters           NN2             1
 do                   VD0             1 
 read                 VV0             1 
 ultimately           RR              1 
-we                   PPIS2           1 
 hold                 VV0             1 
 him                  PPHO1           1 
 accountable          JJ              1 
@@ -133,7 +132,7 @@ normal               JJ              1
 at_all               RR21            1 
 duty                 NN1             1 
 does                 VDZ             1 
-nt                   XX              1 
+n't                  XX              1 
 succeed              VVI             1 
 if                   CS              1 
 succeeds             VVZ             1 
@@ -146,7 +145,6 @@ in_the_way           II              1
 did                  VDD             1 
 hurt                 VV0             1 
 all                  DB              1 
-s                    VBZ             1 
 hurt                 VVN             1 
 district             NN1             1 
 13                   MC              1 
@@ -156,6 +154,7 @@ demonstrate          VVI             1
 capital              NN1             1 
 inspired             VVN             1 
 movement             NN1             1 
+houses               NN2             1 
 civil_rights         JJ              1 
 era                  NN1             1 
 served               VVD             1 
@@ -186,8 +185,9 @@ affected             VVN             1
 as                   CSA             1 
 someone              PN1             1 
 family               NN1             1 
-Im                   NP1             1 
-invested             VVD             1 
+i                    PPIS1           1 
+'m                   VBM             1 
+invested             VVN             1 
 safety               NN1             1 
 i_see                PPIS1           1 
 threat               NN1             1 
@@ -208,7 +208,7 @@ aim                  VV0             1
 reach                VVI             1 
 $50,000              NNU             1 
 cover                VVI             1 
-rent                 VV0             1 
+rent                 NN1             1 
 one                  MC1             1 
 year                 NNT1            1 
 Erika_Peralta        NP1             1 
@@ -234,7 +234,6 @@ she                  PPHS1           1
 plans                VVZ             1 
 live                 VVI             1 
 first_three_months   MD              1 
-trumps               NN2             1 
 aim                  NN1             1 
 focal                JJ              1 
 point                NN1             1 

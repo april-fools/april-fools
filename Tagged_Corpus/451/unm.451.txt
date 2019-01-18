@@ -10,7 +10,6 @@ dumbphone                NN1     Z99
 FBI                      NP1     Z99 
 feel-feels               NN2     Z99 
 future-proofing          JJ      Z99 
-Im                       VV0     Z99 
 iPhone                   NN1     Z99 
 iPhones                  NN2     Z99 
 iteration                NN1     Z99 
@@ -30,9 +29,6 @@ SE                       NP1     Z99
 selfies                  NN2     Z99 
 smartphone               NN1     Z99 
 Spotify                  NP1@    Z99 
-theyre                   NN1     Z99 
 Tumblr                   NP1     Z99 
 VR                       NP1     Z99 
 well-placed              JJ      Z99 
-youre                    NN1     Z99 
-youre                    VV0     Z99 

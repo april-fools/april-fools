@@ -1,4 +1,4 @@
-TOTAL              193
+TOTAL              194
 the                  Z5                  10 
 have                 Z5                   6 
 and                  Z5                   6 
@@ -6,6 +6,7 @@ a                    Z5                   5
 they                 Z8                   4 
 he                   Z8                   4 
 to                   Z5                   3 
+sheep                L2                   3 
 ufos                 Z99                  3 
 were                 Z5                   3 
 of                   Z5                   3 
@@ -13,7 +14,6 @@ farmers              F4                   2
 near                 Z5                   2 
 Shrewsbury           Z2                   2 
 witnessed            X3.4                 2 
-sheep                L2                   2 
 by                   Z5                   2 
 from                 Z5                   2 
 brains               B1                   2 
@@ -42,7 +42,7 @@ linked               A2.2                 1
 unexplained          A7-                  1 
 incidents            A3+                  1 
 where                M6                   1 
-sheeps               L2                   1 
+'s                   Z5                   1 
 mysterious           A6.2-                1 
 orange               O4.3                 1 
 sky                  W1                   1 

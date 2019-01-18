@@ -1,14 +1,13 @@
-TOTAL              191
+TOTAL              195
 the                  AT             11 
 to                   II              7 
 and                  CC              6 
 of                   IO              5 
+it                   PPH1            5 
 spokesperson         NN1             3 
 radio_station        NN1             3 
 will                 VM              3 
 i                    PPIS1           3 
-its                  APPGE           3 
-it                   PPH1            3 
 like                 II              3 
 more                 DAR             2 
 years                NNT2            2 
@@ -22,8 +21,11 @@ said                 VVD             2
 know                 VV0             2 
 have                 VH0             2 
 for                  IF              2 
+'s                   VBZ             2 
 knac                 NN1             2 
 music                NN1             2 
+Metallica            NP1             2 
+'s                   GE              2 
 on                   II              2 
 KNAC                 NP1             2 
 was                  VBDZ            2 
@@ -80,6 +82,7 @@ deserve              VV0             1
 although             CS              1 
 unlikely             JJ              1 
 revamped             JJ              1 
+its                  APPGE           1 
 original             JJ              1 
 frequency            NN1             1 
 105.5-fm             NN1             1 
@@ -95,10 +98,9 @@ from                 II              1
 classic              JJ              1 
 bands                NN2             1 
 black_sabbath        JJ              1 
-Metallica            NP1             1 
 white                JJ              1 
 zombie               NN1             1 
-todays               NN2             1 
+today                RT              1 
 ghost                NN1             1 
 Steel                NP1             1 
 panther              NN1             1 
@@ -116,7 +118,6 @@ February_15th        NPM1            1
 1995                 MC              1 
 ending               VVG             1 
 with                 IW              1 
-Metallicas           NP2             1 
 fade                 VV0             1 
 Black                NP1             1 
 replaced             VVN             1 

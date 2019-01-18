@@ -2,7 +2,8 @@
 0000001 002  -----   -----                    
 0000002 010  VV0     Spotify                  Z99 
 0000002 020  NN1     Technology               Y1 
-0000002 030  NP1     S.A.s                    Z3c 
+0000002 030  NP1     S.A.                     Z2 
+0000002 031  VBZ     's                       Z5 A3+ 
 0000002 040  VVG     groundbreaking           A11.1+ 
 0000002 050  JJ      direct                   M6 O4.4 N3.8+ S1.2 A10+ S1.1.1 
 0000002 060  NN1     listing                  Q1.2/N4 I2.1 

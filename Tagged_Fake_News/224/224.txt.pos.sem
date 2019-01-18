@@ -33,8 +33,9 @@
 0000002 290  RR      actively                 X5.2+ A1.1.1 
 0000002 300  VVN     helped                   S8+ 
 0000002 310  NN1     craft                    C1 I3.1 X9.1+ M4fn 
-0000002 320  MD      last                     N4 
-0000002 330  NNT2    weeks                    T1.3 
+0000002 320  MD      last                     T1.1.1[i1.2.1 N4 
+0000002 330  NNT1    week                     T1.1.1[i1.2.2 T1.3 
+0000002 331  GE      's                       Z5 
 0000002 340  NP1     U.N                      Z3c 
 0000002 341  .       .                        
 0000002 342  -----   -----                    
@@ -64,8 +65,9 @@
 0000004 170  AT      the                      Z5 
 0000004 180  NN1     wake                     M4 N4 S1.1.3+/L1- 
 0000004 190  IO      of                       Z5 
-0000004 200  NPD2    Fridays                  T1.3 
-0000004 210  VV0     vote                     G1.2 
+0000004 200  NPD1    Friday                   T1.3 
+0000004 201  GE      's                       Z5 
+0000004 210  NN1     vote                     G1.2 
 0000004 211  ,       ,                        
 0000004 220  CC      and                      Z5 
 0000004 230  JJ@     raised                   O4.4 N5++ 
@@ -73,16 +75,16 @@
 0000004 250  II      about                    Z5 
 0000004 260  CSW     whether                  Z5 
 0000004 270  AT      the                      Z5 
-0000004 280  NP1     White                    Z3c[i1.2.1 Z2[i1.2.1 Z1mf 
-0000004 290  NN1     House                    Z3c[i1.2.2 Z2[i1.2.2 H1 P1/S5+c G1.1c 
+0000004 280  NP1     White                    Z3c[i2.2.1 Z2[i2.2.1 Z1mf 
+0000004 290  NN1     House                    Z3c[i2.2.2 Z2[i2.2.2 H1 P1/S5+c G1.1c 
 0000004 300  VM      might                    A7+ 
-0000004 310  VVI     take                     T2++[i2.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
-0000004 320  JJR@    further                  T2++[i2.2.2 N5++ N3.3++ T2++ 
+0000004 310  VVI     take                     T2++[i3.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000004 320  JJR@    further                  T2++[i3.2.2 N5++ N3.3++ T2++ 
 0000004 330  NN1     action                   A1.1.1 G3 
 0000004 340  II      against                  Z5 
 0000004 350  JJ      Israeli                  Z2 
-0000004 360  NN2     settlements              T2+[i3.2.1 M7 Q2.2 I1.2 
-0000004 370  II      in                       T2+[i3.2.2 Z5 
+0000004 360  NN2     settlements              T2+[i4.2.1 M7 Q2.2 I1.2 
+0000004 370  II      in                       T2+[i4.2.2 Z5 
 0000004 380  APPGE   its                      Z8 
 0000004 390  JJ      final                    N4 T2- 
 0000004 400  NNT2    weeks                    T1.3 
@@ -102,15 +104,15 @@
 0000006 100  NN1     peace                    E3+ 
 0000006 110  NN1     conference               S1.1.3+ 
 0000006 120  II      in                       Z5 
-0000006 130  NP1     France                   Z1mf[i4.2.1 Z2 Z1mf 
-0000006 140  MD      next                     Z1mf[i4.2.2 N4 T1.1.3[i5.2.1 
-0000006 150  NNT1    month                    T1.3 T1.1.3[i5.2.2 
+0000006 130  NP1     France                   Z1mf[i5.2.1 Z2 Z1mf 
+0000006 140  MD      next                     Z1mf[i5.2.2 N4 T1.1.3[i6.2.1 
+0000006 150  NNT1    month                    T1.3 T1.1.3[i6.2.2 
 0000006 160  CC      and                      Z5 
-0000006 170  NN1     Secretary                G1.1/S2mf[i6.3.1 I3.2/S2mf S7.1+/S2mf 
-0000006 180  IO      of                       G1.1/S2mf[i6.3.2 Z5 
-0000006 190  NN1     State                    G1.1/S2mf[i6.3.3 G1.1c O4.1 Z2[i7.2.1 Z3c[i7.2.1 Z1mf[i7.2.1 
-0000006 200  NP1     John                     Z1m S9/O1.2 Z2[i7.2.2 Z3c[i7.2.2 Z1mf[i7.2.2 Z1mf[i8.2.1 Z3c[i8.2.1 
-0000006 210  NP1     Kerry                    Z2 Z1mf Z1mf[i8.2.2 Z3c[i8.2.2 
+0000006 170  NN1     Secretary                G1.1/S2mf[i7.3.1 I3.2/S2mf S7.1+/S2mf 
+0000006 180  IO      of                       G1.1/S2mf[i7.3.2 Z5 
+0000006 190  NN1     State                    G1.1/S2mf[i7.3.3 G1.1c O4.1 Z2[i8.2.1 Z3c[i8.2.1 Z1mf[i8.2.1 
+0000006 200  NP1     John                     Z1m S9/O1.2 Z2[i8.2.2 Z3c[i8.2.2 Z1mf[i8.2.2 Z1mf[i9.2.1 Z3c[i9.2.1 
+0000006 210  NP1     Kerry                    Z2 Z1mf Z1mf[i9.2.2 Z3c[i9.2.2 
 0000006 220  VVG     planning                 X7+ 
 0000006 230  AT1     a                        Z5 
 0000006 240  JJ      final                    N4 T2- 
@@ -202,25 +204,26 @@
 0000011 370  PPH1    it                       Z8 
 0000011 380  VVD     abstained                S1.1.3- A9- 
 0000011 390  II      from                     Z5 
-0000011 400  NPD2    Fridays                  T1.3 
-0000011 410  VV0     vote                     G1.2 
+0000011 400  NPD1    Friday                   T1.3 
+0000011 401  GE      's                       Z5 
+0000011 410  NN1     vote                     G1.2 
 0000011 411  ,       ,                        
 0000011 420  VVG     allowing                 S7.4+ S8+ X2.1 
 0000011 430  AT      the                      Z5 
 0000011 440  NN1     resolution               X6+ X9.2+ 
 0000011 450  TO      to                       Z5 
-0000011 460  VVI     pass                     M1[i9.2.1 A1.9[i9.2.1 M1 A9- M2 K5.1 T1.3 T2- X9.2+ N5.2+ S7.4+ A5.4+/A8 
-0000011 470  II      by                       M1[i9.2.2 A1.9[i9.2.2 Z5 
+0000011 460  VVI     pass                     M1[i10.2.1 A1.9[i10.2.1 M1 A9- M2 K5.1 T1.3 T2- X9.2+ N5.2+ S7.4+ A5.4+/A8 
+0000011 470  II      by                       M1[i10.2.2 A1.9[i10.2.2 Z5 
 0000011 480  AT1     a                        Z5 
 0000011 490  MCMC    14-0                     N1 T1.2 T3 T1.3 N3.2 
 0000011 500  NN1     margin                   N5 Q1.2 N5.2+ M7 A6.2- 
 0000011 501  .       .                        
 0000012 001  -----   -----                    
 0000013 010  JJ      Israeli                  Z2 
-0000013 020  JJ      Prime                    G1.1/S2mf[i10.2.1 A11.1+++ A5.1+++ A4.2+ 
-0000013 030  NN1     Minister                 G1.1/S2mf[i10.2.2 G1.1/S2mf S9/S2mf 
-0000013 040  NP1     Benjamin                 Z1mf[i11.2.1 Z3c[i11.2.1 Z1mf 
-0000013 050  NP1     Netanyahu                Z1mf[i11.2.2 Z3c[i11.2.2 
+0000013 020  JJ      Prime                    G1.1/S2mf[i11.2.1 A11.1+++ A5.1+++ A4.2+ 
+0000013 030  NN1     Minister                 G1.1/S2mf[i11.2.2 G1.1/S2mf S9/S2mf 
+0000013 040  NP1     Benjamin                 Z1mf[i12.2.1 Z3c[i12.2.1 Z1mf 
+0000013 050  NP1     Netanyahu                Z1mf[i12.2.2 Z3c[i12.2.2 
 0000013 051  ,       ,                        
 0000013 060  PNQS    who                      Z8 
 0000013 070  VHZ     has                      Z5 A9+ A2.2 S4 
@@ -231,8 +234,8 @@
 0000013 120  NN1     relationship             S3.1 S3.2 A2.2 S4 
 0000013 130  IW      with                     Z5 
 0000013 140  NNB     President                G1.1/S7.1+/S2mf 
-0000013 150  NP1     Barack                   Z1mf[i12.2.1 Z3c[i12.2.1 
-0000013 160  NP1     Obama                    Z1mf[i12.2.2 Z3c[i12.2.2 
+0000013 150  NP1     Barack                   Z1mf[i13.2.1 Z3c[i13.2.1 
+0000013 160  NP1     Obama                    Z1mf[i13.2.2 Z3c[i13.2.2 
 0000013 161  ,       ,                        
 0000013 170  VHZ     has                      Z5 A9+ A2.2 S4 
 0000013 180  VVN     called                   Q2.2 S1.1.1 Q1.3 S9% 
@@ -273,8 +276,8 @@
 0000017 080  NN2     sources                  T2+ Q1.1 X2.2 W3/M4 
 0000017 090  II      in                       Z5 
 0000017 100  AT      the                      Z5 
-0000017 110  JJ      Arab                     Z2[i13.2.1 Z2 Z2/Q3 
-0000017 120  NN1     world                    Z2[i13.2.2 W1 S5+c A4.1 N5+ 
+0000017 110  JJ      Arab                     Z2[i14.2.1 Z2 Z2/Q3 
+0000017 120  NN1     world                    Z2[i14.2.2 W1 S5+c A4.1 N5+ 
 0000017 130  CC      and                      Z5 
 0000017 140  DD1     that                     Z8 Z5 
 0000017 150  VVZ     shows                    A10+ S1.1.1 
@@ -290,19 +293,20 @@
 0000017 250  RR      hard                     O4.1 X8+ X5.2+ N5+ A12- 
 0000017 260  IF      for                      Z5 
 0000017 270  APPGE   its                      Z8 
-0000017 280  JJ      eventual                 B1[i14.2.1 N4 
-0000017 290  NN1     passage                  B1[i14.2.2 H2 Q3 M1 I1.2/M1@ 
+0000017 280  JJ      eventual                 B1[i15.2.1 N4 
+0000017 290  NN1     passage                  B1[i15.2.2 H2 Q3 M1 I1.2/M1@ 
 0000017 291  ,       ,                        
-0000017 300  NP1     David                    Z1mf[i15.2.1 Z3c[i15.2.1 Z1m 
-0000017 310  NP1     Keyes                    Z1mf[i15.2.2 Z3c[i15.2.2 
+0000017 300  NP1     David                    Z1mf[i16.2.1 Z3c[i16.2.1 Z1m 
+0000017 310  NP1     Keyes                    Z1mf[i16.2.2 Z3c[i16.2.2 
 0000017 320  VVD     said                     Q2.1 
 0000017 321  .       .                        
 0000018 001  -----   -----                    
-0000019 010  VBDR    Were                     Z5 A3+ 
+0000019 010  PPIS2   We                       Z8 
+0000019 011  VBR     're                      Z5 A3+ 
 0000019 020  XX      not                      Z6 
 0000019 030  RR      just                     A14 T3--- T1.3- N3.3--- 
-0000019 040  VVGK    going                    T1.1.3[i16.2.1 
-0000019 050  TO      to                       T1.1.3[i16.2.2 Z5 
+0000019 040  VVGK    going                    T1.1.3[i17.2.1 
+0000019 050  TO      to                       T1.1.3[i17.2.2 Z5 
 0000019 060  VBI     be                       A3+ Z5 
 0000019 070  AT1     a                        Z5 
 0000019 080  JJ@     punching                 O4.4 E3- A1.1.1 
@@ -319,8 +323,8 @@
 0000019 190  NN1     administration           S7.1+c A9- 
 0000019 200  NN2@    helps                    S8+ 
 0000019 210  VVI     push                     M2 M1 S7.1+ X8+ I2.2 F3 I3.1- 
-0000019 220  DA      such                     A13.3[i17.2.1 Z5 Z8 
-0000019 230  AT1     a                        A13.3[i17.2.2 Z5 
+0000019 220  DA      such                     A13.3[i18.2.1 Z5 Z8 
+0000019 230  AT1     a                        A13.3[i18.2.2 Z5 
 0000019 240  JJ      grave                    E4.1- 
 0000019 250  NN1     resolution               X6+ X9.2+ 
 0000019 251  ,       ,                        
@@ -380,22 +384,23 @@
 0000024 230  JJ      original                 T3- A5.4+ A6.2- 
 0000024 240  NN1     sponsor                  A9-/I1.1/S2mf S8+/S2mf 
 0000024 250  IO      of                       Z5 
-0000024 260  MD      last                     N4 
-0000024 270  NNT2    weeks                    T1.3 
+0000024 260  MD      last                     T1.1.1[i19.2.1 N4 
+0000024 270  NNT1    week                     T1.1.1[i19.2.2 T1.3 
+0000024 271  GE      's                       Z5 
 0000024 280  NN1     resolution               X6+ X9.2+ 
 0000024 281  .       .                        
 0000024 282  -----   -----                    
-0000024 290  II      Under                    E6-[i18.2.1 A1.7+[i18.2.1 Z5 
+0000024 290  II      Under                    E6-[i20.2.1 A1.7+[i20.2.1 Z5 
 0000024 300  JJ      heavy                    N3.5+ S1.2.5+ N5+ O4.1 E4.1- W4 A12- A1.1.1 N3.2+ A1.1.2@ 
 0000024 310  JJ      Israeli                  Z2 
-0000024 320  NN1     pressure                 E6-[i18.2.2 A1.7+[i18.2.2 N3.5 S7.1+ E6- 
+0000024 320  NN1     pressure                 E6-[i20.2.2 A1.7+[i20.2.2 N3.5 S7.1+ E6- 
 0000024 321  ,       ,                        
 0000024 330  NP1     Egypt                    Z2 
 0000024 340  VVD     delayed                  T4- 
 0000024 350  AT      the                      Z5 
 0000024 360  NN1     resolution               X6+ X9.2+ 
-0000024 370  MD      last                     T1.1.1[i19.2.1 N4 
-0000024 380  NNT1    week                     T1.1.1[i19.2.2 T1.3 
+0000024 370  MD      last                     T1.1.1[i21.2.1 N4 
+0000024 380  NNT1    week                     T1.1.1[i21.2.2 T1.3 
 0000024 390  II      before                   Z5 
 0000024 400  JJ      other                    A6.1- 
 0000024 410  NN1     council                  G1.1c S7.1+/S5+c 
@@ -411,12 +416,12 @@
 0000024 501  .       .                        
 0000024 502  -----   -----                    
 0000024 510  NP1     Egypt                    Z2 
-0000024 520  VVD     ended                    T2-[i20.2.1 T2- 
-0000024 530  RP      up                       T2-[i20.2.2 
+0000024 520  VVD     ended                    T2-[i22.2.1 T2- 
+0000024 530  RP      up                       T2-[i22.2.2 
 0000024 540  VVG     voting                   G1.2 
-0000024 550  II31    in                       S8+[i21.3.1 Z5 
-0000024 560  II32    favor                    S8+[i21.3.2 
-0000024 570  II33    of                       S8+[i21.3.3 
+0000024 550  II31    in                       S8+[i23.3.1 Z5 
+0000024 560  II32    favor                    S8+[i23.3.2 
+0000024 570  II33    of                       S8+[i23.3.3 
 0000024 580  AT      the                      Z5 
 0000024 590  NN1     measure                  N3.1 F2 K2 
 0000024 591  .       .                        
@@ -508,9 +513,9 @@
 0000030 020  NN1     Ambassador               G1.1/S2mf S1.1.1/S2mf 
 0000030 030  II      to                       Z5 
 0000030 040  AT      the                      Z5 
-0000030 050  NP1     UN                       Z1mf[i23.3.1 Z3c[i23.3.1 Z1mf[i22.2.1 Z3c[i22.2.1 
-0000030 060  NP1     Samantha                 Z1mf[i23.3.2 Z3c[i23.3.2 Z1f Z1mf[i22.2.2 Z3c[i22.2.2 Z1mf[i24.2.1 Z3c[i24.2.1 
-0000030 070  NP1@    Power                    Z3c[i23.3.3 Z1mf[i23.3.3 Z1mf[i24.2.2 Z3c[i24.2.2 
+0000030 050  NP1     UN                       Z1mf[i25.3.1 Z3c[i25.3.1 Z1mf[i24.2.1 Z3c[i24.2.1 
+0000030 060  NP1     Samantha                 Z1mf[i25.3.2 Z3c[i25.3.2 Z1f Z1mf[i24.2.2 Z3c[i24.2.2 Z1mf[i26.2.1 Z3c[i26.2.1 
+0000030 070  NP1@    Power                    Z3c[i25.3.3 Z1mf[i25.3.3 Z1mf[i26.2.2 Z3c[i26.2.2 
 0000030 080  VVD     defended                 S8+ G3 G2.1c Q2.2 K5.1 S7.3+ 
 0000030 090  AT      the                      Z5 
 0000030 100  NP1     U.S.                     Z8 
@@ -529,7 +534,7 @@
 0000030 210  CSW@    if                       Z7 
 0000030 220  PPH1    it                       Z8 
 0000030 230  VHD     had                      Z5 A9+ A2.2 S4 
-0000030 231  XX      nt                       S9/Q4.1 Z3c 
+0000030 231  XX      n't                      Z6 
 0000030 240  VVN     addressed                Q1.2 Q2.2 A1.1.1 
 0000030 250  JJ      counterproductive        S8- 
 0000030 260  NN2     steps                    M1 T1.2 H5 A1.1.1 K1@ 
@@ -551,8 +556,9 @@
 0000030 400  NN1     way                      X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
 0000030 410  VV0     diminish                 N5-/A2.1 
 0000030 420  AT      the                      Z5 
-0000030 430  NP1     United                   Z2c[i27.2.1 Z2c[i26.2.1 Z3c Z1mf[i25.2.1 Z3c[i25.2.1 
-0000030 440  NP1     States                   Z2c[i27.2.2 Z2c[i26.2.2 Z2 Z1mf[i25.2.2 Z3c[i25.2.2 
+0000030 430  NP1     United                   Z2c[i29.2.1 Z2c[i28.2.1 Z3c Z1mf[i27.2.1 Z3c[i27.2.1 
+0000030 440  NP1     States                   Z2c[i29.2.2 Z2c[i28.2.2 Z2 Z1mf[i27.2.2 Z3c[i27.2.2 
+0000030 441  GE      '                        Z5 
 0000030 450  JJ      steadfast                A2.1- 
 0000030 460  CC      and                      Z5 
 0000030 470  JJ      unparalleled             A5.1+++ 
@@ -569,8 +575,8 @@
 0000032 030  VVN     warned                   X2.2+/A15- A1.3+ 
 0000032 040  CST     that                     Z5 Z8 
 0000032 050  NN2     settlements              M7 Q2.2 I1.2 
-0000032 060  VV0     make                     X9.2+[i28.2.1 M1[i28.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
-0000032 070  PPH1    it                       X9.2+[i28.2.2 M1[i28.2.2 Z8 
+0000032 060  VV0     make                     X9.2+[i30.2.1 M1[i30.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000032 070  PPH1    it                       X9.2+[i30.2.2 M1[i30.2.2 Z8 
 0000032 080  JJR     harder                   O4.5 A12-- S1.2.5++ 
 0000032 090  TO      to                       Z5 
 0000032 100  VVI     negotiate                Q2.2 
@@ -592,14 +598,15 @@
 0000032 241  ,       ,                        
 0000032 250  NP1     CBS                      Q1.3 
 0000032 260  NN1     News                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
-0000032 270  NP1     Margaret                 Z1mf[i29.2.1 Z3c[i29.2.1 Z1f 
-0000032 280  NP1     Brennan                  Z1mf[i29.2.2 Z3c[i29.2.2 
+0000032 261  GE      '                        Z5 
+0000032 270  NP1     Margaret                 Z1mf[i31.2.1 Z3c[i31.2.1 Z1f 
+0000032 280  NP1     Brennan                  Z1mf[i31.2.2 Z3c[i31.2.2 
 0000032 290  VVZ     reports                  Q2.2 S7.1- 
 0000032 291  .       .                        
 0000032 292  -----   -----                    
 0000034 010  AT      The                      Z5 
-0000034 020  NP1     United                   Z2c[i32.2.1 Z2c[i31.2.1 Z3c Z1mf[i30.2.1 Z3c[i30.2.1 
-0000034 030  NP1     States                   Z2c[i32.2.2 Z2c[i31.2.2 Z2 Z1mf[i30.2.2 Z3c[i30.2.2 
+0000034 020  NP1     United                   Z2c[i34.2.1 Z2c[i33.2.1 Z3c Z1mf[i32.2.1 Z3c[i32.2.1 
+0000034 030  NP1     States                   Z2c[i34.2.2 Z2c[i33.2.2 Z2 Z1mf[i32.2.2 Z3c[i32.2.2 
 0000034 040  VHZ     has                      Z5 A9+ A2.2 S4 
 0000034 050  VBN     been                     Z5 A3+ 
 0000034 060  VVG     sending                  M2 A2.2 
@@ -624,7 +631,8 @@
 0000034 220  VVD     said                     Q2.1 
 0000034 221  .       .                        
 0000035 001  -----   -----                    
-0000036 010  NP2     Israels                  Z2 
+0000036 010  NP1     Israel                   Z2 
+0000036 011  GE      's                       Z5 
 0000036 020  JJ      recent                   T3- 
 0000036 030  JJ      diplomatic               G1.1 S1.2.4+ 
 0000036 040  NN1     defeat                   X9.2- 
@@ -644,7 +652,8 @@
 0000036 180  JJ      major                    A11.1+ N3.2+ 
 0000036 190  NN1     ace                      K5.2 M5/S2mf 
 0000036 200  II      in                       Z5 
-0000036 210  NP1     Netanyahus               Z99 
+0000036 210  NP1     Netanyahu                Z99 
+0000036 211  GE      's                       Z5 
 0000036 220  NN1     hand                     B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf 
 0000036 221  :       :                        
 0000036 230  AT      the                      Z5 
@@ -694,8 +703,8 @@
 0000038 350  VBI     be                       A3+ Z5 
 0000038 360  JJ      different                A6.1- 
 0000038 370  II      after                    Z5 
-0000038 380  NPM1    Jan.                     T1.3[i33.2.1 T1.3 
-0000038 390  MD      20th                     T1.3[i33.2.2 N4 T1.3 
+0000038 380  NPM1    Jan.                     T1.3[i35.2.1 T1.3 
+0000038 390  MD      20th                     T1.3[i35.2.2 N4 T1.3 
 0000038 391  .       .                        
 0000038 392  -----   -----                    
 0000040 010  RR      Critically               Q2.2/E2- X2.4 A11.1+ A15- 
@@ -715,8 +724,8 @@
 0000040 130  APPGE   his                      Z8m 
 0000040 140  JJ      longtime                 T1.3++ 
 0000040 150  NN1     attorney                 G2.1/S2mf 
-0000040 160  NP1     David                    Z1mf[i34.2.1 Z3c[i34.2.1 Z1m 
-0000040 170  NP1     Friedman                 Z1mf[i34.2.2 Z3c[i34.2.2 
+0000040 160  NP1     David                    Z1mf[i36.2.1 Z3c[i36.2.1 Z1m 
+0000040 170  NP1     Friedman                 Z1mf[i36.2.2 Z3c[i36.2.2 
 0000040 171  ,       ,                        
 0000040 180  CSA     as                       Z5 
 0000040 190  NN1     ambassador               G1.1/S2mf S1.1.1/S2mf 
@@ -736,11 +745,11 @@
 0000040 310  TO      to                       Z5 
 0000040 320  VVI     move                     M2 M1 A2.1+ E1 H4/A2.1 
 0000040 330  AT      the                      Z5 
-0000040 340  NP1     U.S.                     Z1mf[i35.2.1 Z3c[i35.2.1 
-0000040 350  NN1     Embassy                  Z1mf[i35.2.2 Z3c[i35.2.2 Z3c 
+0000040 340  NP1     U.S.                     Z1mf[i37.2.1 Z3c[i37.2.1 
+0000040 350  NN1     Embassy                  Z1mf[i37.2.2 Z3c[i37.2.2 Z3c 
 0000040 360  II      from                     Z5 
-0000040 370  NP1     Tel                      Z1mf[i36.2.1 Z3c[i36.2.1 Z1m 
-0000040 380  NP1     Aviv                     Z1mf[i36.2.2 Z3c[i36.2.2 
+0000040 370  NP1     Tel                      Z1mf[i38.2.1 Z3c[i38.2.1 Z1m 
+0000040 380  NP1     Aviv                     Z1mf[i38.2.2 Z3c[i38.2.2 
 0000040 390  II      to                       Z5 
 0000040 400  NP1     Jerusalem                Z2 Z3 
 0000040 401  ,       ,                        
@@ -757,8 +766,8 @@
 0000040 490  AT      The                      Z5 
 0000040 500  NN2     Palestinians             Z2/S2mf 
 0000040 510  VV0     claim                    Q2.2 A9+ 
-0000040 520  ND1     east                     Z2c[i37.2.1 M6 
-0000040 530  NP1     Jerusalem                Z2c[i37.2.2 Z2 Z3 
+0000040 520  ND1     east                     Z2c[i39.2.1 M6 
+0000040 530  NP1     Jerusalem                Z2c[i39.2.2 Z2 Z3 
 0000040 531  ,       ,                        
 0000040 540  RL      home                     H4 M6 
 0000040 550  II      to                       Z5 
@@ -780,16 +789,18 @@
 0000040 691  .       .                        
 0000040 692  -----   -----                    
 0000042 010  II      After                    Z5 
-0000042 020  NPD2    Fridays                  T1.3 
-0000042 030  VV0     vote                     G1.2 
+0000042 020  NPD1    Friday                   T1.3 
+0000042 021  GE      's                       Z5 
+0000042 030  NN1     vote                     G1.2 
 0000042 031  ,       ,                        
-0000042 040  NP1     Netanyahus               Z99 
+0000042 040  NP1     Netanyahu                Z99 
+0000042 041  GE      's                       Z5 
 0000042 050  NN1     office                   I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+ 
 0000042 060  VVD     said                     Q2.1 
 0000042 070  PPHS1   he                       Z8m 
-0000042 080  VVD     looked                   X2.6+/E2+[i38.2.1 X2.1/T1.1.3[i38.2.1 X3.4/M6[i38.2.1 A8 X3.4 X2.4 X7+ S7.1-[i39.2.1 
-0000042 090  RL      forward                  X2.6+/E2+[i38.2.2 X2.1/T1.1.3[i38.2.2 X3.4/M6[i38.2.2 M6 T1.1.3 
-0000042 100  II      to                       Z5 S7.1-[i39.2.2 
+0000042 080  VVD     looked                   X2.6+/E2+[i40.2.1 X2.1/T1.1.3[i40.2.1 X3.4/M6[i40.2.1 A8 X3.4 X2.4 X7+ S7.1-[i41.2.1 
+0000042 090  RL      forward                  X2.6+/E2+[i40.2.2 X2.1/T1.1.3[i40.2.2 X3.4/M6[i40.2.2 M6 T1.1.3 
+0000042 100  II      to                       Z5 S7.1-[i41.2.2 
 0000042 110  VVG     working                  I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
 0000042 120  IW      with                     Z5 
 0000042 130  NN1     Trump                    Z1mf 
@@ -841,7 +852,8 @@
 0000044 320  NN2     votes                    G1.2 
 0000044 330  TO      to                       Z5 
 0000044 340  VVI     overturn                 A2.1+ M2 
-0000044 350  NPD2    Fridays                  T1.3 
+0000044 350  NPD1    Friday                   T1.3 
+0000044 351  GE      's                       Z5 
 0000044 360  NN1     decision                 X6+ 
 0000044 370  VVZ     appears                  A8 A10+ A3+ G2.1 K4 Q4 
 0000044 380  TO      to                       Z5 
@@ -858,8 +870,8 @@
 0000046 070  VVN     found                    A10+ X2.1 X6+.1 
 0000046 080  II      in                       Z5 
 0000046 090  AT      the                      Z5 
-0000046 100  NP1     Geneva                   Z3[i40.2.1 Z2 Z3c 
-0000046 110  NN2     conventions              Z3[i40.2.2 A6.2+ S1.1.3+ A6.1+/G1.1 
+0000046 100  NP1     Geneva                   Z3[i42.2.1 Z2 Z3c 
+0000046 110  NN2     conventions              Z3[i42.2.2 A6.2+ S1.1.3+ A6.1+/G1.1 
 0000046 111  ,       ,                        
 0000046 120  DDQ     which                    Z8 Z5 
 0000046 130  VV0     forbid                   S7.4- 
@@ -881,7 +893,7 @@
 0000046 270  AT      the                      Z5 
 0000046 280  NN1     law                      G2.1 S6+ Y1 
 0000046 290  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000046 291  XX      nt                       S9/Q4.1 Z3c 
+0000046 291  XX      n't                      Z6 
 0000046 300  VVI     apply                    Q2.2 A1.5.1 A1.2+ A1.8+ S7.1+ 
 0000046 310  CS      because                  Z5/A2.2 
 0000046 320  AT      the                      Z5 
@@ -915,7 +927,8 @@
 0000046 561  .       .                        
 0000046 562  -----   -----                    
 0000048 010  CS      When                     Z5 
-0000048 020  NP1     Netanyahus               Z99 
+0000048 020  NP1     Netanyahu                Z99 
+0000048 021  GE      's                       Z5 
 0000048 030  NN2     rivals                   S7.3+/S2mf 
 0000048 040  II      in                       Z5 
 0000048 050  NP1     Israel                   Z2 
@@ -927,8 +940,8 @@
 0000048 100  VBZ     is                       A3+ Z5 
 0000048 110  XX      not                      Z6 
 0000048 120  RR      necessarily              S6+ 
-0000048 130  II21    due                      A2.2[i41.2.1 
-0000048 140  II22    to                       A2.2[i41.2.2 Z5 
+0000048 130  II21    due                      A2.2[i43.2.1 
+0000048 140  II22    to                       A2.2[i43.2.2 Z5 
 0000048 150  AT1     a                        Z5 
 0000048 160  NN1     conviction               X2.1 X4.1 G2.1 
 0000048 170  CST     that                     Z8 Z5 
@@ -937,15 +950,16 @@
 0000048 200  NN1     peace                    E3+ 
 0000048 210  VM      could                    A7+ 
 0000048 220  VBI     be                       A3+ Z5 
-0000048 230  II      at                       N3.3-[i42.2.1 Z5 
-0000048 240  NN1     hand                     N3.3-[i42.2.2 B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf 
+0000048 230  II      at                       N3.3-[i44.2.1 Z5 
+0000048 240  NN1     hand                     N3.3-[i44.2.2 B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf 
 0000048 241  ,       ,                        
 0000048 250  CCB     but                      Z5 
 0000048 260  RR@     rather                   Z4 E2++ 
 0000048 270  IF      for                      Z5 
 0000048 280  NN1     concern                  E6- I2.1 
 0000048 290  IF      for                      Z5 
-0000048 300  NP2     Israels                  Z2 
+0000048 300  NP1     Israel                   Z2 
+0000048 301  GE      's                       Z5 
 0000048 310  NN1     democracy                G1.2 
 0000048 311  .       .                        
 0000048 312  -----   -----                    
@@ -955,17 +969,17 @@
 0000048 350  JJ      inseparable              S5+++ A1.7+++ 
 0000048 360  II      from                     Z5 
 0000048 370  AT      the                      Z5 
-0000048 380  NP1     West                     Z2[i44.2.1 Z2 Z1mf Z1mf[i43.2.1 Z3c[i43.2.1 
-0000048 390  NP1     Bank                     Z2[i44.2.2 Z2 Z1mf[i43.2.2 Z3c[i43.2.2 
+0000048 380  NP1     West                     Z2[i46.2.1 Z2 Z1mf Z1mf[i45.2.1 Z3c[i45.2.1 
+0000048 390  NP1     Bank                     Z2[i46.2.2 Z2 Z1mf[i45.2.2 Z3c[i45.2.2 
 0000048 391  ,       ,                        
 0000048 400  PPH1    it                       Z8 
 0000048 410  VM      will                     T1.1.3 
-0000048 420  VHI     have                     S6+[i45.2.1 A9+ Z5 A2.2 S4 
-0000048 430  TO      to                       S6+[i45.2.2 Z5 
+0000048 420  VHI     have                     S6+[i47.2.1 A9+ Z5 A2.2 S4 
+0000048 430  TO      to                       S6+[i47.2.2 Z5 
 0000048 440  VVI     grant                    A9- Q2.2 
 0000048 450  APPGE   its                      Z8 
-0000048 460  MC      2.5                      N1[i46.2.1 T1.3[i46.2.1 I1[i46.2.1 N1 T1.2 T3 T1.3 N3.2 
-0000048 470  NNO     million                  N1[i46.2.2 T1.3[i46.2.2 I1[i46.2.2 N1 I1 
+0000048 460  MC      2.5                      N1[i48.2.1 T1.3[i48.2.1 I1[i48.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000048 470  NNO     million                  N1[i48.2.2 T1.3[i48.2.2 I1[i48.2.2 N1 I1 
 0000048 480  NN2     Palestinians             Z2/S2mf 
 0000048 490  NN1     voting                   G1.2 
 0000048 500  NN2     rights                   S7.4+ G2.2+ M6 G1.2 
@@ -1035,17 +1049,17 @@
 0000050 440  RP@     about                    Z5 M6 
 0000050 441  .       .                        
 0000050 442  -----   -----                    
-0000052 010  NP1     Dan                      Z1mf[i47.2.1 Z3c[i47.2.1 Z1m 
-0000052 020  NP1     Miodownik                Z1mf[i47.2.2 Z3c[i47.2.2 
+0000052 010  NP1     Dan                      Z1mf[i49.2.1 Z3c[i49.2.1 Z1m 
+0000052 020  NP1     Miodownik                Z1mf[i49.2.2 Z3c[i49.2.2 
 0000052 021  ,       ,                        
 0000052 030  AT1     a                        Z5 
 0000052 040  NN1     professor                P1/S2mf 
 0000052 050  IO      of                       Z5 
-0000052 060  JJ      political                G1.2[i48.2.1 G1.2 
-0000052 070  NN1     science                  G1.2[i48.2.2 Y1 
+0000052 060  JJ      political                G1.2[i50.2.1 G1.2 
+0000052 070  NN1     science                  G1.2[i50.2.2 Y1 
 0000052 080  CC      and                      Z5 
-0000052 090  JJ      international            G1.1[i49.2.1 M7 
-0000052 100  NN2     relations                G1.1[i49.2.2 A2.2 S1.1.1 S4 S3.2 
+0000052 090  JJ      international            G1.1[i51.2.1 M7 
+0000052 100  NN2     relations                G1.1[i51.2.2 A2.2 S1.1.1 S4 S3.2 
 0000052 110  II      at                       Z5 
 0000052 120  JJ      Hebrew                   Z2/Q3 
 0000052 130  NN1     University               P1/H1c 
@@ -1102,14 +1116,14 @@
 0000054 330  VVD     signaled                 Z99 
 0000054 340  CST     that                     Z5 Z8 
 0000054 350  JJ      unlike                   A6.1- 
-0000054 360  II      in                       T1.1.1[i50.3.1 Z5 
-0000054 370  AT      the                      T1.1.1[i50.3.2 Z5 
-0000054 380  NN1     past                     T1.1.1[i50.3.3 T1.1.1 
+0000054 360  II      in                       T1.1.1[i52.3.1 Z5 
+0000054 370  AT      the                      T1.1.1[i52.3.2 Z5 
+0000054 380  NN1     past                     T1.1.1[i52.3.3 T1.1.1 
 0000054 381  ,       ,                        
 0000054 390  NP1     Israel                   Z2 
 0000054 400  VBDZ    was                      Z5 A3+ 
-0000054 410  RR21    no                       T2-[i51.2.1 Z6 
-0000054 420  RR22    longer                   T2-[i51.2.2 T1.3++ 
+0000054 410  RR21    no                       T2-[i53.2.1 Z6 
+0000054 420  RR22    longer                   T2-[i53.2.2 T1.3++ 
 0000054 430  VBG     being                    Z5 A3+ 
 0000054 440  VVN     forced                   S7.1+ A1.1.1 E3- 
 0000054 450  TO      to                       Z5 

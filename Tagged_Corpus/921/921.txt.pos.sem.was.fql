@@ -1,23 +1,23 @@
-TOTAL              971
+TOTAL              978
 the                  Z5                  56 
 and                  Z5                  38 
 of                   Z5                  28 
 to                   Z5                  23 
 a                    Z5                  20 
 in                   Z5                  19 
+Cambria              Z99                 16 
 is                   A3+                 15 
-Cambria              Z99                 14 
 said                 Q2.1                12 
 she                  Z8                  10 
 are                  A3+                 10 
 there                Z5                   9 
 for                  Z5                   8 
 with                 Z5                   8 
+n't                  Z6                   7 
 at                   Z5                   7 
 i                    Z8                   6 
 we                   Z8                   6 
 that                 Z5                   6 
-nt                   S9                   6 
 town                 M7                   6 
 or                   Z5                   5 
 more                 N5++                 5 
@@ -27,6 +27,7 @@ have                 A9+                  4
 who                  Z8                   4 
 that                 Z8                   4 
 coastal              W3                   4 
+it                   Z8                   4 
 than                 Z5                   4 
 when                 Z5                   4 
 from                 Z5                   4 
@@ -34,9 +35,9 @@ view                 X4.1                 4
 homes                H4                   4 
 time                 T1                   3 
 much                 N5+                  3 
-its                  Z8                   3 
 is                   Z5                   3 
 through              Z5                   3 
+'s                   A3+                  3 
 east                 M6                   3 
 village              M7                   3 
 be                   Z5                   3 
@@ -44,11 +45,11 @@ real                 A3+                  3
 be                   A3+                  3 
 wine                 F2                   3 
 home                 H4                   3 
+you                  Z8                   3 
 advertisement        I2.2                 3 
 continue             T2++                 3 
 reading              Q3                   3 
 main                 A11.1+               3 
-it                   Z8                   3 
 an_ocean             Z2                   3 
 here                 M6                   3 
 small                N3.2-                3 
@@ -68,6 +69,7 @@ California_coast     Z2                   2
 Ms.                  S2.1                 2 
 lived                H4                   2 
 before               Z5                   2 
+its                  Z8                   2 
 as                   Z5                   2 
 want                 X7+                  2 
 many                 N5+                  2 
@@ -87,7 +89,7 @@ which                Z8                   2
 100                  N1                   2 
 feet                 B1                   2 
 those                Z5                   2 
-youre                Z99                  2 
+'re                  Z5                   2 
 by                   Z5                   2 
 sea                  W3                   2 
 away                 M6                   2 
@@ -109,7 +111,6 @@ could                A7+                  2
 found                A10+                 2 
 younger              T3--                 2 
 age                  T3                   2 
-Cambrias             Z99                  2 
 San_Luis_Obispo      Z1                   2 
 story                Q2.1                 2 
 north                M6                   2 
@@ -349,7 +350,7 @@ Coldwell             Z99                  1
 banker               I1.1                 1 
 Don_Bricker          Z1                   1 
 probably             A7+                  1 
-wont                 A6.2+                1 
+wo                   T1.1.3               1 
 lose                 X9.2-                1 
 feeling              X2.1                 1 
 because              Z5                   1 
@@ -385,6 +386,7 @@ university           P1                   1
 census               G1.1                 1 
 bureau               G1.1                 1 
 puts                 M2                   1 
+'s                   Z5                   1 
 50.9                 N1                   1 
 grocery_store        F1                   1 
 in_the_way           M6                   1 
@@ -449,7 +451,6 @@ cliff                Z1                   1
 estates              M7                   1 
 cost                 I1.3                 1 
 $1_million           Z99                  1 
-you                  Z8                   1 
 compare              A6.1                 1 
 Monterey             Z99                  1 
 Montecito            Z99                  1 
@@ -498,7 +499,7 @@ department           H2                   1
 planning             X7+                  1 
 size_8.57            N3.2                 1 
 square               O4.4                 1 
-WHOS                 Z3                   1 
+WHO                  Z3                   1 
 northern             M6                   1 
 southern             M6                   1 
 California           Z2                   1 

@@ -1,4 +1,4 @@
-TOTAL              485
+TOTAL              488
 the                  AT             33 
 and                  CC             20 
 in                   II             14 
@@ -14,11 +14,12 @@ Darfur               NP1             6
 their                APPGE           6 
 a                    AT1             6 
 government           NN1             5 
-Sudan                NP1             4 
 channel_4            NN1             4 
 news                 NN1             4 
 that                 CST             4 
+Cox                  NP1             4 
 was                  VBDZ            4 
+Sudan                NP1             3 
 into                 II              3 
 two                  MC              3 
 from                 II              3 
@@ -44,10 +45,9 @@ militia              NN              2
 with                 IW              2 
 beaten               JJ              2 
 Khartoum             NP1             2 
-Cox                  NP1             2 
 journalists          NN2             2 
 tortured             VVN             2 
-Coxs                 NP2             2 
+'s                   GE              2 
 UK                   NP1             2 
 US                   NP1             2 
 released             VVN             2 
@@ -164,7 +164,7 @@ Hari                 NP1             1
 18                   MC              1 
 January_2017         NPM1            1 
 followed             VVN             1 
-release              VV0             1 
+release              NN1             1 
 1                    MC1             1 
 February_2017        NPM1            1 
 despite              II              1 
@@ -260,6 +260,7 @@ or                   CC              1
 anti-government      JJ              1 
 criticism            NN1             1 
 dealt                VVN             1 
+'                    GE              1 
 initial              JJ              1 
 commission           NN1             1 
 supported            VVN             1 
@@ -268,6 +269,7 @@ platform             NN1             1
 field                NN1             1 
 vision               NN1             1 
 hunted               VVN             1 
+Sudan'               NP1             1 
 be                   VBI             1 
 5                    MC              1 
 6                    MC              1 

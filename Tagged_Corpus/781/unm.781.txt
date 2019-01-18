@@ -7,8 +7,7 @@ debt-to-equity           JJ      Z99
 factored                 VVN     Z99 
 impressiveness           NN1     Z99 
 industry-beating         JJ      Z99 
-Ive                      NP1     Z99 
 mispriced                VVN     Z99 
 NASDAQ:STX               FO      Z99 
 ROE                      NN      Z99 
-STXs                     NP1     Z99 
+STX                      NP1     Z99 

@@ -4,7 +4,7 @@ from bag_of_x import get_bag_of_x
 
 
 class CorpusBags(Corpus):
-    def __init__(self, articles):
+    def __init__(self, articles, kind='bow'):
         Corpus.__init__(self, articles)
         for article in articles:
             if article.train:
@@ -17,7 +17,7 @@ class CorpusBags(Corpus):
         sem_bag = make_bag([a.sem_fql for a in self.train_articles])
 
         for article in articles:
-            features = get_bag_of_x(article, wrd_bag, pos_bag, sem_bag)
+            features = get_bag_of_x(article, wrd_bag, pos_bag, sem_bag, kind)
             if article.train:  # put feature dict in either testing or training.
                 self.train_feats.append(features)
             else:

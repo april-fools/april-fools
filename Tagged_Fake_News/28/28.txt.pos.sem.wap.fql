@@ -1,6 +1,6 @@
-TOTAL              226
+TOTAL              232
+i                    PPIS1          11 
 the                  AT              9 
-i                    PPIS1           7 
 and                  CC              6 
 a                    AT1             5 
 to                   TO              5 
@@ -10,6 +10,7 @@ me                   PPIO1           4
 she                  PPHS1           4 
 for                  IF              3 
 Palin                NP1             3 
+it                   PPH1            3 
 my                   APPGE           3 
 endorsement          NN1             3 
 her                  APPGE           3 
@@ -22,13 +23,13 @@ job                  NN1             2
 since                CS              2 
 in                   II              2 
 Ted                  NP1             2 
-im                   VV0             2 
-it                   PPH1            2 
+'m                   VBM             2 
+'ll                  VM              2 
 New_Hampshire        NP1             2 
 trump                NN1             2 
 doomed               VVN             2 
 let                  VV0             2 
-nt                   XX              2 
+n't                  XX              2 
 week                 NNT1            1 
 after                II              1 
 Sarah_Palin          NP1             1 
@@ -50,10 +51,10 @@ moose                NN              1
 decided              VVD             1 
 real                 JJ              1 
 man                  NN1             1 
-its                  APPGE           1 
+'s                   VBZ             1 
 hard                 JJ              1 
 admit                VVI             1 
-Ive                  NP1             1 
+'ve                  VH0             1 
 only                 RR              1 
 been                 VBN             1 
 wrong                JJ              1 
@@ -90,8 +91,8 @@ duck                 NN              1
 dating               VVG             1 
 mongoose             NN1             1 
 support              VVI             1 
-well                 RR              1 
-see                  VV0             1 
+we                   PPIS2           1 
+see                  VVI             1 
 who                  PNQS            1 
 wins                 VVZ             1 
 though               CS              1 
@@ -122,7 +123,7 @@ done                 VDN             1
 called               VVN             1 
 an                   AT1             1 
 indian               JJ              1 
-giver                NN1             1 
+giver'               NN1             1 
 changed              VVD             1 
 gave                 VVD             1 
 rival                VVI             1 
@@ -137,8 +138,7 @@ first                MD              1
 McCain               NP1             1 
 then                 RT              1 
 think                VV0             1 
-Ill                  NP1             1 
-stay                 VV0             1 
+stay                 VVI             1 
 as                   RG              1 
 far                  RR              1 
 away_from            II21            1 

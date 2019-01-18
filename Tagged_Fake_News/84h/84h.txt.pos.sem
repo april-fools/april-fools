@@ -3,7 +3,8 @@
 0000002 010  JJ      Special                  A4.2+ A6.2- 
 0000002 020  NN1     Report                   Q2.2 X3.2 
 0000002 021  :       :                        
-0000002 030  NP2     Obamas                   Z99 
+0000002 030  NP1     Obama                    Z99 
+0000002 031  GE      's                       Z5 
 0000002 040  NN1     Bathroom                 B4/H2 
 0000002 050  NN2     Breaks                   K1/T1.3 T2- O2 A1.4 A1.1.2 A1.1.1 A1.9 S5- E4.1-/A2.2 A2.1+ T1.3 Q2.1@ 
 0000002 060  VV0     Cost                     I1.3 I1.2 

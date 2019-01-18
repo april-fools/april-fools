@@ -94,7 +94,8 @@
 0000008 010  AT      The                      Z5 
 0000008 020  NN1     aftermath                N4 
 0000008 030  VVD     sparked                  O4.6+ O3 A2.2 
-0000008 040  NP2     Japans                   Z2 
+0000008 040  NP1     Japan                    Z2 
+0000008 041  GE      's                       Z5 
 0000008 050  JJT     biggest                  N3.2+++ N5+++ A11.1+++ S1.2.5+++ X5.2+++ 
 0000008 060  JJ      humanitarian             S8+ 
 0000008 070  NN1     crisis                   A12- 
@@ -114,7 +115,8 @@
 0000008 200  PPH1    it                       Z8 
 0000008 210  II      among                    Z5 
 0000008 220  AT      the                      Z5 
-0000008 230  NN2     worlds                   W1 S5+c A4.1 N5+ 
+0000008 230  NN1     world                    W1 S5+c A4.1 N5+ 
+0000008 231  GE      's                       Z5 
 0000008 240  JJT     costliest                I1.3+ 
 0000008 250  JJ      natural                  A6.2+ A9+ A5.4+ W3 W5 B1 K2 
 0000008 260  NN2     disasters                A5.1--- X9.2- A1.1.2/W4 

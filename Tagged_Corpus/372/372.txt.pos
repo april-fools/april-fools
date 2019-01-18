@@ -210,7 +210,8 @@
 0000004 450 intermodulate                               06 [VV0/95] NN1/5
 0000004 460 with                                        93 IW
 0000004 470 the                                         93 AT
-0000004 480 earths                                      04 [NN2/100] VVZ%/0
+0000004 480 earth                     >                 93 [NN1/100] VV0%/0
+0000004 481 's                        <                 98 GE
 0000004 490 magnetic                                    03 JJ
 0000004 500 field                                       03 [NN1/100] VV0@/0
 0000004 510 during                                      93 II

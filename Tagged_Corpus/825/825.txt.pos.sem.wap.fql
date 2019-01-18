@@ -1,27 +1,28 @@
-TOTAL              633
+TOTAL              651
 the                  AT             26 
+SINGAPORE            NP1            19 
 in                   II             19 
 and                  CC             19 
 of                   IO             14 
 to                   TO             14 
-SINGAPORE            NP1            12 
 is                   VBZ            12 
 a                    AT1            12 
-it                   PPH1            7 
+'s                   GE             12 
+it                   PPH1           10 
 to                   II              7 
-Singapores           NP2             7 
 by                   II              7 
+government           NN1             5 
 companies            NN2             5 
 for                  IF              5 
 manufacturing        NN1             5 
 data                 NN              5 
 are                  VBR             5 
-government           NN1             4 
 have                 VH0             4 
 that                 CST             4 
 wants                VVZ             4 
 more                 DAR             4 
-its                  APPGE           4 
+'s                   VBZ             4 
+city-state           NN1             4 
 has                  VHZ             4 
 with                 IW              4 
 said                 VVD             4 
@@ -37,7 +38,6 @@ about                II              3
 technologies         NN2             3 
 research             NN1             3 
 centre               NN1             3 
-city-state           NN1             3 
 engineering          NN1             3 
 from                 II              3 
 about                RG              3 
@@ -48,9 +48,11 @@ Yeoh                 NP1             3
 because              CS              3 
 we                   PPIS2           3 
 global               JJ              3 
+that                 DD1             2 
 such_as              II21            2 
 robotics             NN2             2 
 labour-intensive     JJ              2 
+Asia                 NP1             2 
 productivity         NN1             2 
 on                   II              2 
 foreign              JJ              2 
@@ -70,6 +72,7 @@ last_year            MD              2
 do                   VDI             2 
 edb                  NN1             2 
 which                DDQ             2 
+island               NN1             2 
 operations           NN2             2 
 asian                JJ              2 
 countries            NN2             2 
@@ -85,7 +88,6 @@ international        JJ              2
 headquarters         NN              2 
 Shanghai             NP1             2 
 these                DD2             2 
-that                 DD1             1 
 building             NN1             1 
 expertise            NN1             1 
 high-tech            JJ              1 
@@ -100,7 +102,6 @@ industries           NN2             1
 cheaper              JJR             1 
 bases                NN2             1 
 elsewhere            RL              1 
-Asia                 NP1             1 
 in_line_with         II31            1 
 efforts              NN2             1 
 lift                 VVI             1 
@@ -169,7 +170,6 @@ into                 II              1
 computational        JJ              1 
 helped               VVN             1 
 drive                VVI             1 
-islands              NN2             1 
 transformation       NN1             1 
 trading              NN1             1 
 outpost              NN1             1 
@@ -214,7 +214,7 @@ secure               VV0             1
 hosts                NN2             1 
 sophisticated        JJ              1 
 one-third            MF              1 
-worlds               NN2             1 
+world                NN1             1 
 hearing_aids         NN1             1 
 german               JJ              1 
 conglomerate         NN1             1 
@@ -227,7 +227,8 @@ everything           PN1             1
 activities           NN2             1 
 much                 RR              1 
 labour_intensive     NN1             1 
-cant                 NN1             1 
+ca                   VM              1 
+n't                  XX              1 
 be                   VBI             1 
 sustained            VVN             1 
 need                 VVI             1 
@@ -254,9 +255,7 @@ analytics_professionals NN1             1
 already              RR              1 
 half                 DB              1 
 southeast            ND1             1 
-Asias                NP2             1 
 capacity             NN1             1 
-thats                NN2             1 
 energy               NN1             1 
 do                   VD0             1 
 nt                   XX              1 
@@ -278,12 +277,10 @@ have_to              VHI             1
 shrink               VVI             1 
 as                   II              1 
 part                 NN1             1 
-governments          NN2             1 
 drive                NN1             1 
 currently            RR              1 
 employs              VVZ             1 
 120,000              MC              1 
-city-states          NN2             1 
 5.3_million          MC              1 
 people               NN              1 
 number               NN1             1 
@@ -313,11 +310,11 @@ would                VM              1
 shift                VVI             1 
 unit                 NN1             1 
 oversees             VVZ             1 
+its                  APPGE           1 
 decade               NNT1            1 
 after                II              1 
 company              NN1             1 
 left                 VVD             1 
-island               NN1             1 
 taxes                NN2             1 
 high                 JJ              1 
 living               NN1             1 
@@ -332,6 +329,7 @@ group                NN1             1
 2010                 MC              1 
 found                VVD             1 
 44_percent           MC              1 
+'                    GE              1 
 were                 VBDR            1 
 compared             VVN             1 
 17_percent           MC              1 

@@ -1,4 +1,4 @@
-TOTAL              640
+TOTAL              643
 the                  AT             31 
 in                   II             30 
 of                   IO             25 
@@ -10,15 +10,16 @@ was                  VBDZ            7
 who                  PNQS            6 
 are                  VBR             6 
 offshore             JJ              6 
+Mossack_Fonseca      NP1             6 
 is                   VBZ             6 
 an                   AT1             5 
 tax                  NN1             5 
-Mossack_Fonseca      NP1             5 
 leak                 NN1             4 
 americans            NN2             4 
 with                 IW              4 
 he                   PPHS1           4 
 to                   II              4 
+McClatchy            NP1             4 
 be                   VBI             4 
 documents            NN2             3 
 how                  RRQ             3 
@@ -28,12 +29,12 @@ guilty               JJ              3
 british              JJ              3 
 US                   NP1             3 
 Panama               NP1             3 
+'s                   GE              3 
 company              NN1             3 
 financial            JJ              3 
 files                NN2             3 
 companies            NN2             3 
 investors            NN2             3 
-McClatchy            NP1             3 
 also                 RR              3 
 it                   PPH1            3 
 but                  CCB             3 
@@ -86,6 +87,7 @@ using                VVG             2
 american             JJ              2 
 appears              VVZ             2 
 two                  MC              2 
+i                    PPIS1           2 
 what                 DDQ             2 
 said                 VVD             2 
 state                NN1             2 
@@ -115,7 +117,6 @@ prime_minister       JJ              1
 resigns              VVZ             1 
 over                 II              1 
 family               NN1             1 
-'s                   GE              1 
 live                 RR              1 
 read                 VVN             1 
 more                 RRR             1 
@@ -140,8 +141,6 @@ fell                 VVD             1
 foul                 JJ              1 
 law                  NN1             1 
 identified           VVN             1 
-Mossack              NP1             1 
-Fonsecas             NP2             1 
 McClatchy_DC         NP1             1 
 which                DDQ             1 
 has                  VHZ             1 
@@ -179,6 +178,7 @@ investment           NN1             1
 indonesian           JJ              1 
 oilfields            NN2             1 
 new                  JJ              1 
+'                    GE              1 
 money                NN1             1 
 allegedly            RR              1 
 used_to              VMK             1 
@@ -192,7 +192,7 @@ Anthony_Gumbiner     NP1             1
 dallas-area          JJ              1 
 chairman             NN1             1 
 Hallwood_group       NP1             1 
-s                    VBZ             1 
+'s                   VBZ             1 
 national             JJ              1 
 deep                 JJ              1 
 Texas                NP1             1 
@@ -285,7 +285,7 @@ books                NN2             1
 from                 II              1 
 here                 RL              1 
 Malta                NP1             1 
-ive                  NN1             1 
+'ve                  VH0             1 
 been                 VBN             1 
 arrested             VVN             1 
 2008                 MC              1 
@@ -307,7 +307,6 @@ roughly              RR              1
 $10m                 NNU             1 
 revenue              NN1             1 
 according_to         II21            1 
-McClatchys           NP1             1 
 analysis             NN1             1 
 treasure             NN1             1 
 trove                NN1             1 
@@ -345,7 +344,6 @@ affairs              NN2             1
 at                   II              1 
 global               JJ              1 
 integrity            NN1             1 
-i                    PPIS1           1 
 would                VM              1 
 expect               VVI             1 
 both                 DB2             1 

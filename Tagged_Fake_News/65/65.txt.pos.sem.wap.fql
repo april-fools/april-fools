@@ -1,4 +1,4 @@
-TOTAL              218
+TOTAL              220
 the                  AT             15 
 in                   II              7 
 to                   II              6 
@@ -19,6 +19,8 @@ according_to         II21            2
 White_house          NP1             2 
 who                  PNQS            2 
 was                  VBDZ            2 
+Russia               NP1             2 
+'s                   GE              2 
 Mid-Pacific          NP1             2 
 country_club         NN1             2 
 press                NN1             2 
@@ -55,7 +57,6 @@ national             JJ              1
 security             NN1             1 
 team                 NN1             1 
 assassination        NN1             1 
-Russias              NP2             1 
 ambassador           NN1             1 
 Turkey               NP1             1 
 just                 RR              1 
@@ -114,7 +115,6 @@ police               NN2             1
 believe              VV0             1 
 incident             NN1             1 
 deliberate           JJ              1 
-Russia               NP1             1 
 meanwhile            RR              1 
 declared             VVD             1 
 killing              NN1             1 
@@ -141,7 +141,7 @@ hurricane_Katrina    NN1             1
 condemned            VVD             1 
 continuing           VVG             1 
 two-week             JJ              1 
-Marthas              NP2             1 
+Martha               NP1             1 
 vineyard             NN1             1 
 while                CS              1 
 historic             JJ              1 

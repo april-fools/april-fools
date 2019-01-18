@@ -1,17 +1,18 @@
-TOTAL              240
+TOTAL              243
 the                  AT             22 
 has                  VHZ             8 
 of                   IO              7 
 and                  CC              6 
-in                   II              5 
-DC                   NP1             4 
+DC                   NP1             5 
+in                   II              4 
 from                 II              4 
 a                    AT1             4 
 to                   TO              3 
 on                   II              3 
 watchmen             NN2             3 
 is                   VBZ             3 
-its                  APPGE           3 
+'s                   VBZ             3 
+it                   PPH1            3 
 an                   AT1             3 
 will                 VM              2 
 what                 DDQ             2 
@@ -23,9 +24,11 @@ against              II              2
 with                 IW              2 
 to                   II              2 
 for                  IF              2 
+'s                   GE              2 
 sales                NN              2 
 which                DDQ             2 
 copies               NN2             2 
+we                   PPIS2           2 
 clock                NN1             1 
 reached              VVN             1 
 midnight             NNT1            1 
@@ -54,7 +57,6 @@ reason               NN1             1
 elegant              JJ              1 
 ironic               JJ              1 
 he                   PPHS1           1 
-s                    VBZ             1 
 using                VVG             1 
 fund                 VVI             1 
 intent               NN1             1 
@@ -72,6 +74,7 @@ graphic              JJ              1
 novel                NN1             1 
 two                  MC              1 
 decades              NNT2            1 
+its                  APPGE           1 
 collected            JJ              1 
 release              NN1             1 
 enjoyed              VVN             1 
@@ -93,7 +96,6 @@ unclear              JJ              1
 at_this_point_in_time II              1 
 this                 DD1             1 
 do                   VDI             1 
-DCs                  NP2             1 
 backlist             NN1             1 
 revolve              VV0             1 
 around               RP              1 
@@ -124,9 +126,8 @@ today                RT              1
 ruling               NN1             1 
 already              RR              1 
 come_down            VVN             1 
-England              NP1             1 
-Alans                NP2             1 
-favor                VV0             1 
+England_in_Alan      NP1             1 
+favor                NN1             1 
 caused               VVN             1 
 suspension           NN1             1 
 all                  DB              1 
@@ -149,12 +150,10 @@ legally              RR              1
 sell                 VVI             1 
 stay                 VV0             1 
 tuned                VVN             1 
-well                 RR              1 
-have                 VH0             1 
+'ll                  VM              1 
+have                 VHI             1 
 more                 DAR             1 
-it                   PPH1            1 
 develops             VVZ             1 
-we                   PPIS2           1 
 anticipate           VV0             1 
 announcement         NN1             1 
 as_soon_as           CS31            1 

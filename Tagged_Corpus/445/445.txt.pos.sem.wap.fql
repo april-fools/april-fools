@@ -1,4 +1,4 @@
-TOTAL              196
+TOTAL              199
 of                   IO             12 
 the                  AT             10 
 a                    AT1             9 
@@ -7,18 +7,19 @@ in                   II              6
 four                 MC              6 
 is                   VBZ             5 
 to                   TO              4 
+we                   PPIS2           3 
 capacity             NN1             3 
-its                  APPGE           3 
-were                 VBDR            2 
+it                   PPH1            3 
+'re                  VBR             2 
 Filmhouse            NP1             2 
 our                  APPGE           2 
 cinema               NN1             2 
 and                  CC              2 
 an                   AT1             2 
 with                 IW              2 
-it                   PPH1            2 
 exclusive            JJ              2 
 features             NN2             2 
+its                  APPGE           2 
 by                   II              2 
 from                 II              2 
 one                  MC1             2 
@@ -45,7 +46,6 @@ artisan              NN1             1
 micro-screen         NN1             1 
 challenges           VVZ             1 
 way                  NN1             1 
-we                   PPIS2           1 
 think                VV0             1 
 about                II              1 
 moving               JJ              1 
@@ -120,6 +120,7 @@ not                  XX              1
 make                 VVI             1 
 so                   RG              1 
 small                JJ              1 
+'s                   VBZ             1 
 easy                 JJ              1 
 fill                 VVI             1 
 every_night          AT1             1 

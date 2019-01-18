@@ -5244,8 +5244,8 @@
 0000234 030  RRQ     why                      A2.2 
 0000234 040  JJR     younger                  T3-- 
 0000234 050  NN2     women                    S2.1f 
-0000234 060  VB0     are                      Z5 
-0000234 061  XX      nt                       S9/Q4.1 Z3c 
+0000234 060  VBR     are                      Z5 A3+ 
+0000234 061  XX      n't                      Z6 
 0000234 070  VVN@    excited                  X5.2+ 
 0000234 080  II      about                    Z5 
 0000234 090  VVG     electing                 G1.2/X7+ 

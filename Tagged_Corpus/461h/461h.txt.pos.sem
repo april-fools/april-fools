@@ -9,7 +9,8 @@
 0000002 070  NP1     Surrey                   Z2 Z1mf 
 0000002 080  NN2     scientists               Y1/S2mf 
 0000002 090  VV0     discover                 A10+ 
-0000002 100  NN2     Earths                   W3 W1 O1.1 O3 N5++ 
+0000002 100  NN1     Earth                    W3 W1 O1.1 O3 N5++ 
+0000002 101  GE      's                       Z5 
 0000002 110  NN1     orbit                    M7/W1 S7.1+ 
 0000002 120  VHZ     has                      Z5 A9+ A2.2 S4 
 0000002 130  VVN     slowed                   N3.8- 

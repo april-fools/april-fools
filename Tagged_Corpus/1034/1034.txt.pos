@@ -10,9 +10,10 @@
 0000002 080 and                                         98 CC
 0000002 090 raised                                      98 VVN
 0000002 100 the                                         93 AT
-0000002 110 countrys                                    04 NN2
-0000002 120 profile                                     93 [VV0@/74] NN1/26
-0000002 130 in                                          93 [II/86] RP@/14
+0000002 110 country                   >                 93 NN1
+0000002 111 's                        <                 98 GE
+0000002 120 profile                                     93 [NN1/100] VV0@/0
+0000002 130 in                                          93 [II/99] RP@/1
 0000002 140 his                                         93 [APPGE/100] PPGE@/0
 0000002 150 eight                                       93 MC
 0000002 160 years                                       93 NNT2
@@ -145,9 +146,10 @@
 0000008 060 and                                         93 CC
 0000008 070 responding                                  03 VVG
 0000008 080 to                                          93 [II/100] TO/0
-0000008 090 voters                                      03 NN2
-0000008 100 fears                                       03 [VVZ/76] NN2/24
-0000008 110 about                                       93 [II/95] RP@/5 RG%/0
+0000008 090 voters                    >                 58 NN2
+0000008 091 '                         <                 97 GE
+0000008 100 fears                                       03 [NN2/99] VVZ/1
+0000008 110 about                                       93 [II/99] RP@/1 RG%/0
 0000008 120 immigration                                 03 NN1
 0000008 121 ,                                           03 ,
 0000008 130 Mr                                          96 NNB
@@ -160,8 +162,9 @@
 0000008 181 )                                           03 )
 0000008 190 party                                       93 [NN1/96] VV0%/4
 0000008 200 into                                        93 II
-0000008 210 Denmarks                                    04 NP2
-0000008 220 leading                                     93 [VVG/82] JJ/18
+0000008 210 Denmark                   >                 93 NP1
+0000008 211 's                        <                 03 [GE/81] VBZ/18 VHZ@/0
+0000008 220 leading                                     93 [JJ/87] VVG/13
 0000008 230 political                                   03 JJ
 0000008 240 party                                       93 [NN1/100] VV0%/0
 0000008 241 .                                           03 .
@@ -221,7 +224,8 @@
 0000010 320 and                                         93 CC
 0000010 330 the                                         93 AT
 0000010 340 minority                                    93 NN1
-0000010 350 governments                                 03 NN2
+0000010 350 government                >                 93 NN1
+0000010 351 's                        <                 98 GE
 0000010 360 popularity                                  03 NN1
 0000010 370 hitting                                     93 [VVG/98] NN1@/2
 0000010 380 new                                         93 JJ
@@ -254,8 +258,9 @@
 0000012 240 Denmark                                     93 NP1
 0000012 250 held                                        93 [VVD/100] VVN/0 JJ%/0
 0000012 260 the                                         93 AT
-0000012 270 EUs                                         04 NP2
-0000012 280 rotating                                    06 [VVG/87] JJ@/10 NN1@/3
+0000012 270 EU                        >                 93 NP1
+0000012 271 's                        <                 98 GE
+0000012 280 rotating                                    06 [JJ@/64] NN1@/18 VVG/17
 0000012 290 presidency                                  03 NN1
 0000012 291 .                                           03 .
 0000012 292 ----------------------------------------------------
@@ -273,9 +278,10 @@
 0000012 400 one                                         97 MC1
 0000012 410 of                                          97 IO
 0000012 420 the                                         93 AT
-0000012 430 EUs                                         04 NP2
-0000012 440 longest                                     93 [RRT/98] JJT/2
-0000012 450 serving                                     93 [VVG/98] NN1@/1 JJ%/1
+0000012 430 EU                        >                 93 NP1
+0000012 431 's                        <                 03 [GE/90] VBZ/10 VHZ@/0
+0000012 440 longest                                     93 [RRT/69] JJT/31
+0000012 450 serving                                     93 [VVG/77] NN1@/19 JJ%/4
 0000012 460 premiers                                    04 NN2
 0000012 461 ,                                           03 ,
 0000012 470 he                                          93 PPHS1
@@ -325,8 +331,8 @@
 0000014 250 a                                           93 AT1
 0000014 260 gameplan                                    06 [NN1/50] JJ/50
 0000014 270 and                                         93 CC
-0000014 280 he                        >                 56 PPHS1
-0000014 281 s                         <                 56 VBZ
+0000014 280 he                        >                 93 PPHS1
+0000014 281 's                        <                 98 VBZ
 0000014 290 very                                        97 RG
 0000014 300 interested                                  93 [JJ/100] VVN%/0 VVD@/0
 0000014 310 in                                          93 [II/100] RP@/0
@@ -377,14 +383,16 @@
 0000016 370 break                                       93 [NN1/94] VV0/6
 0000016 380 both                                        93 [RR/98] DB2/2
 0000016 390 with                                        93 IW
-0000016 400 Denmarks                                    04 NP2
+0000016 400 Denmark                   >                 93 NP1
+0000016 401 's                        <                 03 [GE/90] VBZ/10 VHZ@/0
 0000016 410 traditional                                 03 JJ
 0000016 420 consensus-based                             33 [JJ/73] NN1/27
 0000016 430 foreign                                     03 JJ
 0000016 440 policy                                      93 NN1
 0000016 450 and                                         93 CC
 0000016 460 previous                                    93 JJ
-0000016 470 governments                                 03 NN2
+0000016 470 governments               >                 58 NN2
+0000016 471 '                         <                 97 GE
 0000016 480 reluctance                                  03 NN1
 0000016 490 to                                          97 TO
 0000016 500 commit                                      97 VVI

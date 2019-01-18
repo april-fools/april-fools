@@ -1,7 +1,7 @@
-TOTAL         212
+TOTAL         216
 NN1            50 
 II             21 
-NP1            15 
+NP1            16 
 AT             15 
 NNB            10 
 JJ              8 
@@ -13,10 +13,11 @@ APPGE           5
 VVG             5 
 VHZ             4 
 IO              4 
-NN2             4 
+GE              4 
 VVI             3 
 IF              3 
 PPHS1           3 
+NN2             3 
 VM              3 
 RR              3 
 DA              2 

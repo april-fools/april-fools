@@ -52,13 +52,15 @@
 0000010 010  II      In                       Z5 
 0000010 020  MC      2007                     N1 T1.2 T3 T1.3 N3.2 
 0000010 021  ,       ,                        
-0000010 030  NP2     FDAs                     Z99 
+0000010 030  NP1     FDA                      Z99 
+0000010 031  GE      's                       Z5 
 0000010 040  NN1     Science                  Y1 
 0000010 050  NN1     Board                    S7.1+/S5+c O2 O1.1 H4 P1 K5.1 
 0000010 060  VVD     concluded                X6+ T2- 
 0000010 070  CST     that                     Z5 Z8 
 0000010 080  AT      the                      Z5 
-0000010 090  NN2     agencys                  I2.2/S5+c G1.1c 
+0000010 090  NN1     agency                   I2.2/S5+c G1.1c 
+0000010 091  GE      's                       Z5 
 0000010 100  NN1     IT                       Y2 B3@ 
 0000010 110  NN2     systems                  X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 
 0000010 120  VBDR    were                     A3+ Z5 
@@ -596,7 +598,8 @@
 0000038 230  RR21    In                       N5++[i27.2.1 
 0000038 240  RR22    addition                 N5++[i27.2.2 
 0000038 241  ,       ,                        
-0000038 250  NP2     FDAs                     Z99 
+0000038 250  NP1     FDA                      Z99 
+0000038 251  GE      's                       Z5 
 0000038 260  NN1     Investment               I1.1 
 0000038 270  NN1     Review                   X2.4 Q4 
 0000038 280  NN1     Board                    S7.1+/S5+c O2 O1.1 H4 P1 K5.1 
@@ -712,7 +715,8 @@
 0000046 090  AT      the                      Z5 
 0000046 100  NN1     upgrade                  A11.1+/A2.1 A5.1+/A2.1 
 0000046 110  II      to                       Z5 
-0000046 120  NP2     FDAs                     Z99 
+0000046 120  NP1     FDA                      Z99 
+0000046 121  GE      's                       Z5 
 0000046 130  NN1     IT                       Y2 B3@ 
 0000046 140  NN2     systems                  X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 
 0000046 150  VBZ     is                       Z5 A3+ 
@@ -776,7 +780,8 @@
 0000054 171  .       .                        
 0000058 001  NULL    <quote>                  
 0000058 002  -----   -----                    
-0000058 010  NP2     FDAs                     Z99 
+0000058 010  NP1     FDA                      Z99 
+0000058 011  GE      's                       Z5 
 0000058 020  NN1     core                     O2 F1 A11.1+ Y2% 
 0000058 030  NN1     technology               Y1 
 0000058 040  TO      to                       Z5 
@@ -1034,7 +1039,8 @@
 0000082 040  IO      of                       Z5 
 0000082 050  NN2     acquisitions             A9+ 
 0000082 060  II      at                       Z5 
-0000082 070  NP2     FDAs                     Z99 
+0000082 070  NP1     FDA                      Z99 
+0000082 071  GE      's                       Z5 
 0000082 080  NN1     Office                   I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+ 
 0000082 090  IO      of                       Z5 
 0000082 100  NN1     Administration           S7.1+c A9- 
@@ -1117,7 +1123,8 @@
 0000094 290  DDQ     which                    Z8 Z5 
 0000094 300  VBZ     is                       A3+ Z5 
 0000094 310  II      under                    Z5 
-0000094 320  NP2     FDAs                     Z99 
+0000094 320  NP1     FDA                      Z99 
+0000094 321  GE      's                       Z5 
 0000094 330  NN1     purview                  Z99 
 0000094 331  .       .                        
 0000094 332  -----   -----                    
@@ -1182,8 +1189,9 @@
 0000098 050  NN1     budget                   I1 G1.1/I1 I1.3- 
 0000098 060  NN1     request                  Q2.1 Q2.2 
 0000098 061  ,       ,                        
-0000098 070  NN2     FDAs                     Z99 
-0000098 080  VVD     proposed                 Q2.2/X7+ X4.1 G1.2 Q2.2/S4 
+0000098 070  NP1     FDA                      Z99 
+0000098 071  GE      's                       Z5 
+0000098 080  JJ      proposed                 Q2.2/X7+ X4.1 G1.2 Q2.2/S4 
 0000098 090  MC      6                        N5[i52.2.1 N1 T1.2 T3 T1.3 N3.2 
 0000098 100  NNU     percent                  N5[i52.2.2 N5 
 0000098 110  NN1     increase                 N5+/A2.1 
@@ -1250,7 +1258,8 @@
 0000102 190  CC      and                      Z5 
 0000102 200  NN1     modernization            T1.1.2/A2.1 
 0000102 210  IO      of                       Z5 
-0000102 220  NP2     FDAs                     Z99 
+0000102 220  NP1     FDA                      Z99 
+0000102 221  GE      's                       Z5 
 0000102 230  JJ      regulatory               A1.7-/G1.1 
 0000102 240  NN1     science                  Y1 
 0000102 241  ,       ,                        
@@ -1307,7 +1316,8 @@
 0000110 030  VBZ     is                       Z5 A3+ 
 0000110 040  VVN     earmarked                X7+ 
 0000110 050  IF      for                      Z5 
-0000110 060  NN2     FDAs                     Z99 
+0000110 060  NP1     FDA                      Z99 
+0000110 061  GE      's                       Z5 
 0000110 070  NN1     IT                       Y2 B3@ 
 0000110 080  NN1     infrastructure           I2.1/S8+ 
 0000110 090  TO      to                       Z5 
@@ -1353,7 +1363,8 @@
 0000110 440  NN1     Plus                     A5.1+ N2 
 0000110 441  .       .                        
 0000111 001  -----   -----                    
-0000114 010  NP2     FDAs                     Z99 
+0000114 010  NP1     FDA                      Z99 
+0000114 011  GE      's                       Z5 
 0000114 020  NN1     Sentinel                 Z99 
 0000114 030  NN1     Initiative               A1.1.1 X5.2+ 
 0000114 040  IF      for                      Z5 

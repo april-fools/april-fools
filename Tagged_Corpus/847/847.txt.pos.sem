@@ -24,7 +24,8 @@
 0000002 210  NN2     affairs                  A1.1.1 S1.1.1 S3.2 
 0000002 220  IO      of                       Z5 
 0000002 230  AT      the                      Z5 
-0000002 240  NN2     worlds                   W1 S5+c A4.1 N5+ 
+0000002 240  NN1     world                    W1 S5+c A4.1 N5+ 
+0000002 241  GE      's                       Z5 
 0000002 250  RGT     most                     A13.2 
 0000002 260  JJ      powerful                 S7.1+ S1.2.5+ N3 
 0000002 270  NN      people                   S2mfc 
@@ -76,7 +77,8 @@
 0000002 621  .       .                        
 0000003 001  -----   -----                    
 0000004 010  PPH1    It                       Z8 
-0000004 020  NN1     shouldnt                 Z99 
+0000004 020  VM      should                   S6+ A7+ 
+0000004 021  XX      n't                      Z6 
 0000004 030  VBI     be                       A3+ Z5 
 0000004 031  .       .                        
 0000004 032  -----   -----                    
@@ -145,7 +147,8 @@
 0000004 580  NN2     agreements               A6.1+ Q2.2 
 0000004 590  DDQ     which                    Z8 Z5 
 0000004 600  AT      the                      Z5 
-0000004 610  NN2     partys                   K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c 
+0000004 610  NN1     party                    K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c 
+0000004 611  GE      's                       Z5 
 0000004 620  NN1     elite                    A5.1+++/S5+c S7.1+/S5+c 
 0000004 630  VH0     have                     Z5 A9+ A2.2 S4 
 0000004 640  VBN     been                     Z5 A3+ 
@@ -410,7 +413,8 @@
 0000012 430  NN2     Papers                   Q4.2c O1.1 Q1.2 P1/Q1.2 H5 
 0000012 440  VBZ     is                       A3+ Z5 
 0000012 450  XX      not                      Z6 
-0000012 460  NN2     whats                    Z8 Z5 
+0000012 460  DDQ     what                     Z8 Z5 
+0000012 461  VBZ     's                       A3+ Z5 
 0000012 470  JJ      illegal                  G2.1- 
 0000012 471  ,       ,                        
 0000012 480  CCB     but                      Z5 
@@ -512,7 +516,8 @@
 0000014 780  DA1     much                     N5+ I1.3+ 
 0000014 790  IO      of                       Z5 
 0000014 800  AT      the                      Z5 
-0000014 810  NN2     worlds                   W1 S5+c A4.1 N5+ 
+0000014 810  NN1     world                    W1 S5+c A4.1 N5+ 
+0000014 811  GE      's                       Z5 
 0000014 820  NN1     public                   S5+ A10+ S5+c 
 0000014 830  VBZ     is                       A3+ Z5 
 0000014 840  RG      so                       A13.3 
@@ -522,8 +527,9 @@
 0000014 880  RT      now                      T1.1.2 Z4 
 0000014 881  .       .                        
 0000015 001  -----   -----                    
-0000016 010  II@     As                       Z5 
-0000016 020  NP2     Voxs                     Z3c 
+0000016 010  CSA     As                       Z5 
+0000016 020  NP1     Vox                      Z3c 
+0000016 021  GE      's                       Z5 
 0000016 030  NP1     Matt                     Z1m 
 0000016 040  NP2     Yglesias                 Z99 
 0000016 050  VVD     wrote                    Q1.2 I2.1 
@@ -548,7 +554,8 @@
 0000016 210  CS22    though                   Z5[i34.2.2 Z5 
 0000016 220  DB      all                      N5.1+ 
 0000016 230  APPGE   your                     Z8 
-0000016 240  NN2     funds                    I1.1 N5+ 
+0000016 240  NN1     fund                     I1.1 N5+ 
+0000016 241  GE      's                       Z5 
 0000016 250  NN2     employees                I3.1/S2mf 
 0000016 260  CC      and                      Z5 
 0000016 270  NN2     investors                I1.1/S2mf 
@@ -582,7 +589,8 @@
 0000016 510  DAT     most                     N5+++ 
 0000016 520  IO      of                       Z5 
 0000016 530  APPGE   your                     Z8 
-0000016 540  NN2     familys                  S4c A4.1c 
+0000016 540  NN1     family                   S4c A4.1c 
+0000016 541  GE      's                       Z5 
 0000016 550  NN1     fortune                  I1.1+++ A1.4 X9.2 T1.1.3/S9 
 0000016 551  .       .                        
 0000016 552  NULL    </quote>                 
@@ -605,6 +613,7 @@
 0000018 160  AT      the                      Z5 
 0000018 170  NP1     Panama                   Z2 B5 
 0000018 180  NN2     Papers                   Q4.2c O1.1 Q1.2 P1/Q1.2 H5 
+0000018 181  GE      '                        Z5 
 0000018 190  NN1     web                      Y2 L2 O2 
 0000018 191  .       .                        
 0000018 192  -----   -----                    
@@ -642,7 +651,8 @@
 0000018 460  NN2     donations                A9- 
 0000018 470  II      from                     Z5 
 0000018 480  AT      the                      Z5 
-0000018 490  NN2     countrys                 G1.1c W3 F4/M7 K2 
+0000018 490  NN1     country                  G1.1c W3 F4/M7 K2 
+0000018 491  GE      's                       Z5 
 0000018 500  JJT     largest                  N3.2+++ N5+++ A11.1+++ 
 0000018 510  NN2     corporations             I2.1/S5c G1.1c 
 0000018 520  CC      and                      Z5 
@@ -663,8 +673,9 @@
 0000018 640  II      In                       S1.1.2+[i43.2.1 Z5 
 0000018 650  NN1     return                   S1.1.2+[i43.2.2 M1 A9- S1.1.2+ N6 I1.1 G1.1/Q1.2 M3 K5.1 Y2% 
 0000018 651  ,       ,                        
-0000018 660  NN1     theyve                   Z99 
-0000018 670  VVD     made                     A7+[i44.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000018 660  PPHS2   they                     Z8mfn 
+0000018 661  VH0     've                      Z5 A9+ A2.2 
+0000018 670  VVN     made                     A7+[i44.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
 0000018 680  JJ      sure                     A7+[i44.2.2 A7+ Z4 
 0000018 690  CST     that                     Z5 Z8 
 0000018 700  DD      any                      N5.1+ N5 

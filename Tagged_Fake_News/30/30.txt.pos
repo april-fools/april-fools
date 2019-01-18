@@ -6,7 +6,8 @@
 0000002 040 interview                                   03 [NN1/100] VV0@/0
 0000002 050 with                                        93 IW
 0000002 060 Pat                                         93 [NP1/100] NN1@/0 VV0@/0
-0000002 070 Robertsons                                  04 NP2
+0000002 070 Robertson                 >                 93 NP1
+0000002 071 's                        <                 98 GE
 0000002 080 television                                  93 NN1
 0000002 090 network                                     03 [NN1/100] VV0%/0
 0000002 091 ,                                           03 ,
@@ -24,14 +25,15 @@
 0000002 210 easy                                        93 [RR@/75] JJ/25
 0000002 220 knowing                                     03 [VVG/88] JJ@/12
 0000002 230 that                                        97 [CST/100] DD1@/0
-0000002 240 he                        >                 56 PPHS1
-0000002 241 s                         <                 56 VBZ
-0000002 250 committed                                   03 [VVN/97] JJ/3 VVD@/0
+0000002 240 he                        >                 93 PPHS1
+0000002 241 's                        <                 03 [VBZ/65] VHZ@/35 GE/0
+0000002 250 committed                                   03 [VVN/98] JJ/2 VVD@/0
 0000002 260 to                                          93 [II/100] TO/0
 0000002 270 overturning                                 93 [VVG/100] NN1%/0
 0000002 280 the                                         93 AT
 0000002 290 Supreme                                     93 JJ
-0000002 300 Courts                                      93 [NN2/100] VVZ%/0
+0000002 300 Court                     >                 93 NN1
+0000002 301 's                        <                 98 GE
 0000002 310 landmark                                    93 NN1
 0000002 320 decision                                    03 NN1
 0000002 330 that                                        93 [CST/95] DD1/5 RG%/0
@@ -47,8 +49,9 @@
 0000003 001 ----------------------------------------------------
 0000004 010 The                                         93 AT
 0000004 020 Christian                                   93 [JJ/97] NN1@/3 NP1%/0
-0000004 030 Broadcasting                                93 [NN1/88] JJ@/11 VVG@/0
-0000004 040 Networks                                    93 NN2
+0000004 030 Broadcasting                                93 [NN1/88] JJ@/12 VVG@/0
+0000004 040 Network                   >                 93 NN1
+0000004 041 's                        <                 03 [GE/77] VBZ/23 VHZ@/1
 0000004 050 David                                       93 NP1
 0000004 060 Brody                                       06 [NP1/97] NN1/3
 0000004 070 asked                                       93 [VVD/100] VVN@/0
@@ -170,7 +173,8 @@
 0000008 610 states                                      03 [NN2/100] VVZ/0
 0000008 620 decide                                      97 VVI
 0000008 630 and                                         93 CC
-0000008 640 thats                       ERROR?          07 [VVZ/98] NN2/2
+0000008 640 that                      >                 93 [DD1/88] CST/12 RG%/0
+0000008 641 's                        <                 96 VBZ
 0000008 650 the                                         93 AT
 0000008 660 way                                         93 [NN1/100] RR%/0
 0000008 670 it                                          93 PPH1
@@ -206,8 +210,9 @@
 0000008 950 in                                          97 II31
 0000008 960 favor                       ERROR?          97 II32
 0000008 970 of                                          97 II33
-0000008 980 states                                      03 [NN2/100] VVZ/0
-0000008 990 rights                                      93 [NN2/99] VVZ%/1
+0000008 980 state                     >                 93 [NN1/100] VV0/0
+0000008 981 's                        <                 98 GE
+0000008 990 rights                                      93 [NN2/100] VVZ%/0
 0000008 991 ;                                           03 ;
 0000008 000 states                                      03 [NN2/83] VVZ/17
 0000008 010 deciding                                    03 [VVG/96] JJ@/4

@@ -9,5 +9,4 @@ recieved                 VVD     Z99
 Retweets                 VVZ     Z99 
 Trump-owned              JJ      Z99 
 tweets                   NN2     Z99 
-tweets                   VVZ     Z99 
 Twitter                  NN1     Z99 

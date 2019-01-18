@@ -1,4 +1,4 @@
-TOTAL         413
+TOTAL         416
 NN1            67 
 JJ             38 
 NP1            37 
@@ -12,18 +12,18 @@ NNU            11
 TO              8 
 MC              8 
 VVZ             7 
+GE              7 
 VVD             7 
 IO              6 
 APPGE           6 
-NP2             6 
 VV0             6 
 VVG             5 
 RR              5 
 RL              5 
 IF              4 
+NP2             4 
 VHZ             3 
 AT1             3 
-GE              3 
 MD              3 
 IW              3 
 CST             2 
@@ -41,6 +41,7 @@ PPH1            1
 NN              1 
 II21            1 
 NPD1            1 
+VBZ             1 
 RT              1 
 PNQS            1 
 VHD             1 

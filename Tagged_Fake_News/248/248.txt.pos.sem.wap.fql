@@ -1,8 +1,8 @@
-TOTAL              619
+TOTAL              629
 the                  AT             36 
 and                  CC             21 
 to                   TO             16 
-fed                  VVN            11 
+fed                  VVN            12 
 a                    AT1            11 
 rate                 NN1            10 
 inflation            NN1            10 
@@ -10,26 +10,29 @@ that                 CST             8
 in                   II              8 
 of                   IO              7 
 has                  VHZ             7 
+'s                   VBZ             6 
 says                 VVZ             6 
 is                   VBZ             5 
 this                 DD1             5 
+it                   PPH1            5 
+'s                   GE              5 
 increases            VVZ             5 
 for                  IF              5 
-its                  APPGE           4 
 by                   II              4 
 economy              NN1             4 
 more                 RGR             4 
 unemployment         NN1             4 
 growth               NN1             4 
+that                 DD1             4 
 to                   II              4 
 if                   CS              4 
+trump                NN1             4 
 year                 NNT1            3 
 but                  CCB             3 
 hikes                NN2             3 
-it                   PPH1            3 
 will                 VM              3 
 plan                 NN1             3 
-nt                   XX              3 
+n't                  XX              3 
 as                   CSA             3 
 they                 PPHS2           3 
 their                APPGE           3 
@@ -45,6 +48,7 @@ interest_rates       NN1             2
 week                 NNT1            2 
 future               JJ              2 
 suddenly             RR              2 
+its                  APPGE           2 
 say                  VV0             2 
 fiscal               JJ              2 
 stimulus             NN1             2 
@@ -62,7 +66,6 @@ are                  VBR             2
 long-term            JJ              2 
 yet                  RR              2 
 he                   PPHS1           2 
-that                 DD1             2 
 November             NPM1            2 
 already              RR              2 
 below                II              2 
@@ -74,7 +77,6 @@ those                DD2             2
 typically            RR              2 
 workers              NN2             2 
 as                   II              2 
-early                RR              2 
 economist            NN1             2 
 into                 II              2 
 labor                NN1             2 
@@ -83,11 +85,9 @@ forecast             NN1             2
 next_year            MD              2 
 you                  PPY             2 
 U.S.                 NP1             2 
-trump                NN1             2 
 rates                NN2             2 
 too                  RG              2 
 economic             JJ              2 
-trumps               NN2             2 
 reserve              NN1             1 
 virtually            RR              1 
 certain              JJ              1 
@@ -110,14 +110,13 @@ begins               VVZ             1
 Tuesday              NPD1            1 
 futures              NN2             1 
 markets              NN2             1 
-theres               NN2             1 
+there                EX              1 
 93%                  NNU             1 
 chance               NN1             1 
 follow_through       VVI             1 
 meanwhile            RR              1 
 President-elect      NNB             1 
-Donald               NP1             1 
-trumps               VVZ             1 
+Donald_trump         NP1             1 
 ultimately           RR              1 
 require              VVI             1 
 head                 VVI             1 
@@ -181,7 +180,6 @@ dropped              VVN             1
 4.6%                 FO              1 
 4.9%                 FO              1 
 month                NNT1            1 
-thats                NN2             1 
 4.8%                 FO              1 
 deemed               VVN             1 
 lowest               JJT             1 
@@ -228,9 +226,7 @@ effects              NN2             1
 gasoline             NN1             1 
 prices               NN2             1 
 faded                VVD             1 
-thats                VVZ             1 
 well                 RR              1 
-Feds                 NP1             1 
 2%                   NNU             1 
 target               NN1             1 
 still                RR              1 
@@ -247,6 +243,7 @@ high                 JJ              1
 climbed              VVN             1 
 steadily             RR              1 
 since                CS              1 
+early                RR              1 
 2015                 MC              1 
 further              JJR             1 
 signal               NN1             1 
@@ -298,7 +295,7 @@ held                 VVD             1
 off                  RP              1 
 earlier              RRR             1 
 in_response_to       II31            1 
-Chinas               NP2             1 
+China                NP1             1 
 slowdown             NN1             1 
 sluggish             JJ              1 
 among                II              1 
@@ -309,7 +306,7 @@ proposed             VVN             1
 $1                   NNU             1 
 trillion             NNO             1 
 upgrade              VVI             1 
-nations              NN2             1 
+nation               NN1             1 
 infrastructure       NN1             1 
 sharp                JJ              1 
 tax                  NN1             1 
@@ -321,6 +318,7 @@ fuel                 NN1             1
 force                VV0             1 
 lift                 VVI             1 
 probably             RR              1 
+early                JJ              1 
 incorporate          VVI             1 
 any                  DD              1 
 policy               NN1             1 

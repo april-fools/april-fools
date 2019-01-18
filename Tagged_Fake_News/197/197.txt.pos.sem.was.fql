@@ -1,22 +1,24 @@
-TOTAL              434
+TOTAL              438
 the                  Z5                  40 
 of                   Z5                  15 
 a                    Z5                  14 
 and                  Z5                  10 
 to                   Z5                   9 
+'s                   Z5                   8 
 for                  Z5                   8 
+Donald_trump         Z1                   7 
 as                   Z5                   7 
 trump                Z1                   7 
 opening              A1.1.1               7 
 in                   Z5                   6 
 event                A3+                  6 
-Donald_Trump         Z1                   6 
 sons                 S4                   5 
 with                 Z5                   5 
 that                 Z5                   4 
 nonprofit            Z99                  4 
+Day_foundation       Z3                   4 
+Mr._Trump            Z1                   4 
 Jr                   Z3                   4 
-Day                  T1.3                 4 
 been                 Z5                   4 
 are                  A3+                  4 
 listed               Q1.2                 3 
@@ -25,18 +27,16 @@ inauguration         T2+                  3
 on                   Z5                   3 
 involvement          A1.8+                3 
 center               M6                   3 
-Day_foundation       Z3                   3 
 Texas                Z2                   3 
 that                 Z8                   3 
 draft                Q1.2                 3 
 Eric_trump           Z1                   3 
-Mr._Trumps           Z1                   3 
+Day                  T1.3                 3 
 but                  Z5                   3 
 spokeswoman          Q2.2                 3 
 have                 Z5                   3 
 after                Z5                   2 
 reports              Q2.2                 2 
-trumps               K5.2                 2 
 adult                T3+                  2 
 were                 Z5                   2 
 president-elect      G1.1                 2 
@@ -47,7 +47,6 @@ integrity            G2.2+                2
 great                A5.1+                2 
 hunting              X2.4                 2 
 fishing              K5.1                 2 
-'s                   Z5                   2 
 wealthy              I1.1+                2 
 group                S5+                  2 
 cabinet              H5                   2 
@@ -65,7 +64,6 @@ Wednesday            T1.3                 2
 according_to         Z5                   2 
 still                T2++                 2 
 Washington           Z2                   2 
-Donald               Z1                   1 
 offering             A9-                  1 
 weekend              T1.3                 1 
 access               M1                   1 
@@ -79,8 +77,8 @@ documents            Q1.2                 1
 formed               T2+                  1 
 Dec._14              T1.3                 1 
 says                 Q2.1                 1 
-its                  Z8                   1 
-dedicated            X5.2+                1 
+it                   Z8                   1 
+dedicated            Q2.2                 1 
 preserving           S8+                  1 
 outdoors             M6                   1 
 invitiation          Z99                  1 
@@ -94,7 +92,6 @@ promised             S6+                  1
 private              A10-                 1 
 reception            H2                   1 
 photo_opportunity    Q4.2                 1 
-Mr._Trump            Z1                   1 
 as_well              N5++                 1 
 multi-day            Z99                  1 
 and/or               Z5                   1 
@@ -207,12 +204,12 @@ local                M7                   1
 news                 X2.2+                1 
 soon                 T1.1.3               1 
 found                A10+                 1 
-foundations          T2+                  1 
 registration         Q1.2                 1 
 papers               Q4.2                 1 
 released             A1.7-                1 
 disavowing           A6.1-                1 
 participation        S1.1.3+              1 
+trumps               K5.2                 1 
 secretary_of_state   G1.1                 1 
 told                 Q2.1                 1 
 post                 Q1.2                 1 

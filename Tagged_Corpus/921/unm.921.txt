@@ -11,9 +11,8 @@ barbecued                JJ@     Z99
 bed-and-breakfast        NN1     Z99 
 bed-and-breakfasts       NN2     Z99 
 cabernet                 NN1     Z99 
+Cambria                  NN1     Z99 
 Cambria                  NP1     Z99 
-Cambrias                 NN2     Z99 
-Cambrias                 NP2     Z99 
 Carson                   NP1     Z99 
 Castoro                  NP1     Z99 
 chardonnays              NN2     Z99 
@@ -44,11 +43,9 @@ six-bathroom             JJ      Z99
 six-bedroom              NN1     Z99 
 small-town               JJ      Z99 
 Soucie                   NP1     Z99 
-swaddled                 VVD     Z99 
+swaddled                 VVN     Z99 
 Sweeting                 NP1     Z99 
 Templeton                NP1     Z99 
 unincorporated           JJ      Z99 
 wildflowers              NN2     Z99 
 www.squibbhouse.net      NNU     Z99 
-youre                    NN1     Z99 
-YOURE                    NP1     Z99 

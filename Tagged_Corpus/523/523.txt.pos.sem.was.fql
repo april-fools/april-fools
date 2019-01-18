@@ -1,24 +1,25 @@
-TOTAL              367
+TOTAL              369
 the                  Z5                  19 
 to                   Z5                  15 
 a                    Z5                  13 
+George_Galloway      Z1                   7 
 in                   Z5                   7 
 after                Z5                   7 
 he                   Z8                   7 
 and                  Z5                   7 
-George_Galloway      Z1                   6 
 brewery              F2                   5 
 April_4              T1.3                 5 
 2015                 N1                   5 
 twitter              Z99                  4 
 was                  A3+                  4 
+Mr_Galloway          Z1                   4 
 of                   Z5                   4 
 has                  Z5                   3 
 with                 Z5                   3 
 which                Z8                   3 
 Bradford_brewery     Z3                   3 
+'s                   Z5                   3 
 account              I1                   3 
-Mr_Galloway          Z1                   3 
 were                 A3+                  3 
 election             G1.2                 3 
 you                  Z8                   3 
@@ -66,12 +67,10 @@ on                   Z5                   1
 responded            S1.1.2+              1 
 tweet                Z99                  1 
 annoy                E3-                  1 
-George_Galloways     Z1                   1 
 asking               Q2.2                 1 
 whether              Z5                   1 
 still                T2++                 1 
 thing                O2                   1 
-'s                   Z5                   1 
 questioned           Q2.2                 1 
 why                  A2.2                 1 
 only                 A14                  1 
@@ -207,7 +206,6 @@ since                N4                   1
 been                 Z5                   1 
 blocked              A10-                 1 
 following            M1                   1 
-Mr_Galloways         Z1                   1 
 independent          Z3                   1 
 contacted            Q2.2                 1 
 representative       Q2.1                 1 

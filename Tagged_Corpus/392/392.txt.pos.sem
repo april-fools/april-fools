@@ -70,7 +70,8 @@
 0000004 243  -----   -----                    
 0000004 250  NN1     CD                       K3 
 0000004 260  NN1     Projekt                  Z99 
-0000004 270  NN2     Reds                     O4.3 G1.2 G1.2/S2mf 
+0000004 270  NN1@    Red                      O4.3 G1.2/S2mf 
+0000004 271  GE      's                       Z5 
 0000004 280  JJ      global                   W3 M7 A1.8+ O4.4 
 0000004 290  NN1     head                     B1 S7.1+/S2mf P1/S2mf X1 M6 A4.1 S2mf F2 H5/M4% 
 0000004 300  IO      of                       Z5 
@@ -115,7 +116,8 @@
 0000006 150  VVG     maxing                   N5.1+ Z1m 
 0000006 160  RP      out                      M6 
 0000006 170  AT      the                      Z5 
-0000006 180  NN2@    consoles                 O3 
+0000006 180  NN1@    console                  O3 
+0000006 181  GE      's                       Z5 
 0000006 190  JJ      technical                Y1 I4 X9.1 
 0000006 200  NN2     capabilities             X9.1+ 
 0000006 201  ,       ,                        

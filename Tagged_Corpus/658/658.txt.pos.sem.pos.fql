@@ -1,8 +1,8 @@
-TOTAL         533
-NN1            67 
+TOTAL         535
+NN1            68 
 AT             47 
 JJ             47 
-NN2            37 
+NN2            36 
 II             30 
 NP1            23 
 AT1            21 
@@ -36,6 +36,7 @@ APPGE           3
 VBI             3 
 CCB             3 
 CS              3 
+GE              3 
 VH0             3 
 IF              3 
 RRQ             3 
@@ -68,5 +69,4 @@ RG21            1
 RG22            1 
 NNT2            1 
 CSA             1 
-GE              1 
 PPY             1 

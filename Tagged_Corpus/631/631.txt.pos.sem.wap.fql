@@ -1,13 +1,13 @@
-TOTAL              612
+TOTAL              616
 the                  AT             42 
 and                  CC             31 
 of                   IO             24 
 is                   VBZ            14 
 in                   II             11 
+China                NP1            11 
 cyber                NN1            11 
 to                   TO             10 
 chinese              JJ              9 
-China                NP1             9 
 technology           NN1             8 
 a                    AT1             8 
 that                 CST             8 
@@ -44,7 +44,7 @@ current              JJ              2
 unfair               JJ              2 
 often                RR              2 
 competitors          NN2             2 
-Chinas               NP2             2 
+'s                   GE              2 
 both                 RR              2 
 how                  RRQ             2 
 history              NN1             2 
@@ -63,6 +63,7 @@ their                APPGE           2
 than                 CSN             2 
 public               JJ              2 
 companies            NN2             2 
+should               VM              2 
 evidence             NN1             2 
 something            PN1             2 
 glacially            RR              2 
@@ -133,6 +134,7 @@ them                 PPHO2           1
 so                   RR              1 
 commentaries         NN2             1 
 focus                VV0             1 
+'                    GE              1 
 advantages           NN2             1 
 dominate             VV0             1 
 hardware             NN1             1 
@@ -276,8 +278,8 @@ all                  DB              1
 ipr                  NN1             1 
 allegedly            RR              1 
 stealing             VVG             1 
-shouldnt             VV0             1 
-start                VV0             1 
+n't                  XX              1 
+start                VVI             1 
 paying_off           VVG             1 
 more                 RGR             1 
 competitive          JJ              1 
@@ -317,7 +319,6 @@ happened             VVN             1
 yet                  RR              1 
 multilateral         JJ              1 
 pressure             NN1             1 
-should               VM              1 
 applied              VVN             1 
 backed_down          VVD             1 
 from                 II              1 

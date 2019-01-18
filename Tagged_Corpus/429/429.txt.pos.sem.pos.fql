@@ -1,12 +1,12 @@
-TOTAL         275
+TOTAL         276
 NN1            46 
 II             17 
 JJ             14 
 AT             14 
 RR             11 
 IO             10 
+NP1            10 
 AT1             9 
-NP1             9 
 VVG             8 
 VVI             8 
 VM              7 
@@ -42,7 +42,7 @@ PPX1            2
 DDQ             2 
 IW              2 
 MC              1 
-NP2             1 
+GE              1 
 PPX2            1 
 CSA             1 
 MC1             1 

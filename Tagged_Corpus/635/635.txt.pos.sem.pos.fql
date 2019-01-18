@@ -1,13 +1,13 @@
-TOTAL         277
-NN1            30 
+TOTAL         280
+NN1            31 
 JJ             28 
 NN2            25 
-NP1            16 
+NP1            14 
+VVN            12 
 II             11 
-VVN            11 
-VVD            10 
 AT             10 
 CC             10 
+VVD             9 
 VVI             8 
 AT1             8 
 TO              7 
@@ -25,6 +25,8 @@ CS              3
 PPHS2           3 
 APPGE           3 
 IF              3 
+VH0             3 
+PPIS1           3 
 RG              2 
 II21            2 
 VBZ             2 
@@ -48,9 +50,7 @@ PNQS            1
 MC1             1 
 VDG             1 
 DD1             1 
-VH0             1 
 PPHS1           1 
-PPIS1           1 
 RRQV            1 
 VBI             1 
 VHI             1 

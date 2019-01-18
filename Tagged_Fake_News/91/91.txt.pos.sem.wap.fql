@@ -1,4 +1,4 @@
-TOTAL              273
+TOTAL              274
 the                  AT             18 
 to                   TO              9 
 they                 PPHS2           7 
@@ -17,7 +17,6 @@ did                  VDD             3
 was                  VBDZ            3 
 for                  IF              3 
 you                  PPY             3 
-democrats            NN2             2 
 election             NN1             2 
 of                   IO              2 
 big                  JJ              2 
@@ -40,6 +39,7 @@ great                JJ              2
 your                 APPGE           2 
 so                   RR              2 
 will                 VM              2 
+democrats            NN2             1 
 thought              VVD             1 
 had                  VHD             1 
 bag                  NN1             1 
@@ -108,6 +108,8 @@ or                   CC              1
 question             NN1             1 
 #1                   NNU             1 
 reason               NN1             1 
+democrat             NN1             1 
+'s                   GE              1 
 when                 CS              1 
 dust                 NN1             1 
 settled              VVD             1 
@@ -147,7 +149,7 @@ conservatives        NN2             1
 ended_up             VVD             1 
 backfiring           VVG             1 
 time                 NNT1            1 
-nt                   XX              1 
+n't                  XX              1 
 get                  VVI             1 
 steal                VVI             1 
 no                   UH              1 

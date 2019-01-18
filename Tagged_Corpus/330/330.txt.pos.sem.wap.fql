@@ -1,4 +1,4 @@
-TOTAL              563
+TOTAL              568
 the                  AT             30 
 and                  CC             17 
 a                    AT1            13 
@@ -9,10 +9,11 @@ has                  VHZ            10
 i                    PPIS1          10 
 not                  XX              8 
 said                 VVD             8 
+it                   PPH1            8 
 have                 VH0             7 
 are                  VBR             7 
-it                   PPH1            7 
 his                  APPGE           6 
+Mr_Punch             NNB             6 
 of                   IO              6 
 Glyn                 NP1             6 
 this                 DD1             6 
@@ -22,15 +23,15 @@ been                 VBN             5
 health_and_safety    NN1             4 
 could                VM              4 
 for                  IF              4 
-Mr_Punch             NNB             4 
 do                   VD0             4 
 who                  PNQS            4 
+'s                   GE              4 
 then                 RT              4 
 in                   II              4 
 Judy                 NP1             3 
 puppets              NN2             3 
 so                   RR              3 
-nt                   XX              3 
+n't                  XX              3 
 would                VM              3 
 from                 II              3 
 asked                VVN             3 
@@ -40,7 +41,6 @@ years                NNT2            3
 Punch                NP1             2 
 tell                 VVI             2 
 him                  PPHO1           2 
-vulnerable           JJ              2 
 hi-viz               REX             2 
 saying               VVG             2 
 please               RR              2 
@@ -52,7 +52,6 @@ me                   PPIO1           2
 want                 VVI             2 
 being                VBG             2 
 through              II              2 
-Mr_Punchs            NNB             2 
 thought              VVD             2 
 two                  MC              2 
 make                 VV0             2 
@@ -98,6 +97,7 @@ toy                  NN1             1
 truncheon            NN1             1 
 might                VM              1 
 offend               VVI             1 
+vulnerable           JJ              1 
 veteran              JJ              1 
 entertainer          NN1             1 
 made                 VVN             1 
@@ -113,6 +113,7 @@ used                 VVN             1
 duty                 NN1             1 
 care                 NN1             1 
 to                   II              1 
+vulnerable'          NN1             1 
 trying               VVG             1 
 doing                VDG             1 
 activity             NN1             1 
@@ -179,14 +180,14 @@ famous               JJ              1
 Brighton_Punch       NP1             1 
 show                 NN1             1 
 appeared             VVN             1 
-Aberystwyths         NP2             1 
+Aberystwyth          NP1             1 
 annual               JJ              1 
 Judy_festival        NP1             1 
 says                 VVZ             1 
 check                NN1             1 
 pebbles              NN2             1 
 sharp                JJ              1 
-its                  APPGE           1 
+'s                   VBZ             1 
 public               JJ              1 
 does                 VDZ             1 
 anyone               PN1             1 
@@ -225,7 +226,6 @@ organising           VVG             1
 big                  JJ              1 
 grin                 NN1             1 
 celebrate            VVI             1 
-'s                   GE              1 
 350th                MD              1 
 birthday             NN1             1 
 year                 NNT1            1 
@@ -234,6 +234,7 @@ when                 RRQ             1
 mop                  VV0             1 
 put_up               VVD             1 
 wet                  JJ              1 
+'                    GE              1 
 trip_over            VV0             1 
 causes               VVZ             1 
 more                 RGR             1 

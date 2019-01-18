@@ -8,10 +8,11 @@
 0000002 060  VBR     are                      A3+ Z5 
 0000002 070  RR21    a                        A13.6[i1.2.1 A13.7[i1.2.1 
 0000002 080  RR22    bit                      A13.6[i1.2.2 A13.7[i1.2.2 
-0000002 090  MC      05                       T3 N1 T1.2 T1.3 N3.2 
+0000002 090  MC      '05                      T3 N1 T1.2 T1.3 N3.2 
 0000002 091  .       .                        
 0000002 092  -----   -----                    
-0000002 100  NN2     Whats                    Z8 Z5 
+0000002 100  DDQ     What                     Z8 Z5 
+0000002 101  VBZ     's                       A3+ Z5 
 0000002 110  RR      really                   A13.3 A5.2+ 
 0000002 120  JJ      hot                      O4.6+ X9.1+ O4.2+ X5.2+ G2.1- A12- S7.3+ E6- A7+++ 
 0000002 130  NN1     right                    S7.4+ G2.2+ M6 G1.2 
@@ -48,7 +49,8 @@
 0000002 410  VVN     submitted                A9- S7.1- 
 0000002 420  NN2     stories                  Q2.1 X4.1 
 0000002 430  VVG     suggesting               Q2.2 Q1.1 
-0000002 440  NN2     theres                   Z5 M6 T1.2 
+0000002 440  EX      there                    Z5 
+0000002 441  VBZ     's                       A3+ Z5 
 0000002 450  RT      now                      T1.1.2 Z4 
 0000002 460  AT1     a                        Z5 
 0000002 470  JJR     greater                  A5.1++ A11.1++ N3.2++ N5++ X5.2++ 
@@ -82,7 +84,8 @@
 0000004 040  MC1     one                      N1 T3 T1.2 
 0000004 050  IO      of                       Z5 
 0000004 060  AT      the                      Z5 
-0000004 070  NN2     worlds                   W1 S5+c A4.1 N5+ 
+0000004 070  NN1     world                    W1 S5+c A4.1 N5+ 
+0000004 071  GE      's                       Z5 
 0000004 080  JJT     busiest                  A1.1.1/N5+++ 
 0000004 090  NN2     airports                 M5/M7 
 0000004 100  VHZ     has                      A9+ Z5 A2.2 S4 
@@ -125,7 +128,8 @@
 0000004 391  ,       ,                        
 0000004 392  NULL    <quote>                  
 0000004 393  -----   -----                    
-0000004 400  VBDR    were                     Z5 A3+ 
+0000004 400  PPIS2   we                       Z8 
+0000004 401  VBR     're                      Z5 A3+ 
 0000004 410  VVGK    going                    T1.1.3[i8.2.1 
 0000004 420  TO      to                       T1.1.3[i8.2.2 Z5 
 0000004 430  VVI     wipe                     A1.1.2[i9.2.1 B4[i9.2.1 L1-[i9.2.1 B4 A1.1.2 A1.1.2[i10.2.1 L1-[i10.2.1 B4[i10.2.1 
@@ -157,7 +161,8 @@
 0000004 670  NN2     upgrades                 A11.1+/A2.1 A5.1+/A2.1 
 0000004 671  ,       ,                        
 0000004 680  CCB     but                      Z5 
-0000004 690  RR      well                     A5.1+ A13.3 A7+ B2+ Z4 
+0000004 690  PPIS2   we                       Z8 
+0000004 691  VM      'll                      T1.1.3 
 0000004 700  VBI     be                       A3+ Z5 
 0000004 710  JK      able                     X9.1+ 
 0000004 720  TO      to                       Z5 
@@ -201,7 +206,8 @@
 0000004 070  RR      instead                  A6.1- 
 0000004 071  .       .                        
 0000004 072  -----   -----                    
-0000004 080  APPGE   Its                      Z8 
+0000004 080  PPH1    It                       Z8 
+0000004 081  VBZ     's                       A3+ Z5 
 0000004 090  NP1     Ajax                     Z3c Z1m 
 0000004 100  II      after                    Z4[i15.2.1 Z5 
 0000004 110  DB      all                      Z4[i15.2.2 N5.1+ 
@@ -231,12 +237,14 @@
 0000005 180  VVG     monitoring               X2.4 
 0000005 190  II      via                      Z5 
 0000005 200  AT      the                      Z5 
-0000005 210  NN2     owners                   A9+/S2mf 
-0000005 220  VV0     smartphone               Z99 
+0000005 210  NN1     owner                    A9+/S2mf 
+0000005 211  GE      's                       Z5 
+0000005 220  NN1     smartphone               Z99 
 0000005 221  .       .                        
 0000005 222  NULL    <quote>                  
 0000005 223  -----   -----                    
-0000005 230  NN1     Weve                     Z99 
+0000005 230  PPIS2   We                       Z8 
+0000005 231  VH0     've                      Z5 A9+ A2.2 
 0000005 240  VBN     been                     Z5 A3+ 
 0000005 250  VVG     wanting                  X7+ S6+ A7+ S3.2 A9- 
 0000005 260  TO      to                       Z5 
@@ -263,7 +271,8 @@
 0000005 451  .       .                        
 0000005 452  -----   -----                    
 0000005 460  PPIS1   I                        Z8mf 
-0000005 470  VV0     havent                   Z99 
+0000005 470  VH0     have                     Z5 A9+ A2.2 S4 
+0000005 471  XX      n't                      Z6 
 0000005 480  VVN     seen                     X3.4 X2.1 S1.1.1 X2.5+ A7+ 
 0000005 490  RR      much                     A13.3 N6+ 
 0000005 500  II      on                       Z5 
@@ -275,8 +284,9 @@
 0000005 550  CS@     so                       Z5 
 0000005 560  PPIS1   I                        Z8mf 
 0000005 570  VVD     figured                  X2.1 X2.5+ 
-0000005 580  NN1     Id                       X2 
-0000005 590  VV0     let                      S7.4+ I2.2/H1 T2- 
+0000005 580  PPIS1   I                        Z8mf 
+0000005 581  VM      'd                       A7+ 
+0000005 590  VVI     let                      S7.4+ I2.2/H1 T2- 
 0000005 600  PPY     you                      Z8mf 
 0000005 610  NN2     guys                     S2.2m O2 
 0000005 620  VVI     know                     X2.2+ S3.2/B1% 
@@ -286,7 +296,8 @@
 0000005 642  NULL    </quote>                 
 0000005 643  -----   -----                    
 0000005 650  AT      The                      Z5 
-0000005 660  NN2     trials                   G2.1 X2.4 E6- A12- K5.1 
+0000005 660  NN1     trial                    G2.1 X2.4 E6- A12- K5.1 
+0000005 661  VBZ     's                       Z5 A3+ 
 0000005 670  VVG     working                  N2[i20.2.1 X9.2+[i20.2.1 X2.5+[i20.2.1 A1.1.1[i20.2.1 K5.1[i20.2.1 X2.1[i20.2.1 I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
 0000005 680  RP      out                      N2[i20.2.2 X9.2+[i20.2.2 X2.5+[i20.2.2 A1.1.1[i20.2.2 K5.1[i20.2.2 X2.1[i20.2.2 M6 
 0000005 690  RG      quite                    A13.5 A13.6 A13.2 
@@ -405,7 +416,8 @@
 0000006 561  )       )                        
 0000006 570  VV0     ut                       Z99 
 0000006 580  DDQ     what                     Z8 Z5 
-0000006 590  VV0     weve                     Z99 
+0000006 590  PPIS2   we                       Z8 
+0000006 591  VH0     've                      Z5 A9+ A2.2 
 0000006 600  RT      now                      T1.1.2 Z4 
 0000006 610  VVN     found                    A10+ X2.1 X6+.1 
 0000006 620  VBZ     is                       A3+ Z5 
@@ -420,7 +432,8 @@
 0000006 710  NN1     experience               X2.2+ X9.1+ I3.2 A2.1+/A3+ X3 
 0000006 720  DDQ     which                    Z8 Z5 
 0000006 730  VVZ     means                    Q1.1 X7+ 
-0000006 740  NN1     theyre                   Z99 
+0000006 740  PPHS2   they                     Z8mfn 
+0000006 741  VBR     're                      A3+ Z5 
 0000006 750  RR      always                   N6+++ 
 0000006 760  II      in                       S7.1+[i28.2.1 Z5 
 0000006 770  NN1     control                  S7.1+[i28.2.2 S7.1+ A1.7+ O2 
@@ -447,15 +460,17 @@
 0000006 960  RR      reliably                 A5.1+ A5.3+ 
 0000006 970  VVN     informed                 X2.2+ X2.4 Q2.1 
 0000006 980  PPIO2   us                       Z8 
-0000006 990  DD1     that                     Z5 Z8 
-0000006 000  NN1     wont                     A6.2+ 
-0000006 010  VV0     happen                   A2.1+ A3+ X7- 
+0000006 990  CST     that                     Z8 Z5 
+0000006 000  VM      wo                       T1.1.3 
+0000006 001  XX      n't                      Z6 
+0000006 010  VVI     happen                   A2.1+ A3+ X7- 
 0000006 020  RT      again                    N6+ Z4 
 0000006 021  )       )                        
 0000006 022  .       .                        
 0000006 023  -----   -----                    
-0000006 030  VV0     Weve                     Z99 
-0000006 040  JJ      used                     A1.5.1 T3+ 
+0000006 030  PPIS2   We                       Z8 
+0000006 031  VH0     've                      Z5 A9+ A2.2 
+0000006 040  VVN     used                     A1.5.1 S7.1+ 
 0000006 050  NN1     Flash                    Z3 Z1m Z2 
 0000006 060  IF      for                      Z5 
 0000006 070  DD      some                     N5 Z5 
@@ -469,7 +484,8 @@
 0000006 140  AT      the                      Z5 
 0000006 150  JJ      main                     A11.1+ N5+++ 
 0000006 160  NN1     interaction              S1.1.2+ A1.1.1 
-0000006 170  APPGE   its                      Z8 
+0000006 170  PPH1    it                       Z8 
+0000006 171  VBZ     's                       A3+ Z5 
 0000006 180  RG      pretty                   A13.4[i34.2.1 A13.5 
 0000006 190  RR      much                     A13.4[i34.2.2 A13.3 N6+ 
 0000006 200  DB      all                      N5.1+ 
@@ -530,7 +546,8 @@
 0000006 660  JJ      privately-held           Z99 
 0000006 670  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
 0000006 671  ,       ,                        
-0000006 680  NN2     theres                   Z5 M6 T1.2 
+0000006 680  EX      there                    Z5 
+0000006 681  VBZ     's                       A3+ Z5 
 0000006 690  RR      always                   N6+++ 
 0000006 700  AT      the                      Z5 
 0000006 710  NN1     possibility              A7+ 
@@ -547,12 +564,14 @@
 0000006 780  NN2     directors                S7.1+/S2mf K4/S2mf 
 0000006 790  VBR     are                      A3+ Z5 
 0000006 800  JJ      pleased                  E4.2+ E2+ 
-0000006 810  NN1     theyll                   Z99 
+0000006 810  PPHS2   they                     Z8mfn 
+0000006 811  VM      'll                      T1.1.3 
 0000006 820  VBI     be                       A3+ Z5 
 0000006 830  JK      able                     X9.1+ 
 0000006 840  TO      to                       Z5 
 0000006 850  VVI     claim                    Q2.2 A9+ 
-0000006 860  NN2     theres                   Z5 M6 T1.2 
+0000006 860  EX      there                    Z5 
+0000006 861  VBZ     's                       A3+ Z5 
 0000006 870  AT1     a                        Z5 
 0000006 880  NN1     hint                     Q2.2 N5- 
 0000006 890  IO      of                       Z5 
@@ -604,11 +623,12 @@
 0000010 060  II      on                       A2.2[i41.2.2 Z5 
 0000010 070  PN1     something                Z8 
 0000010 080  VVD@    called                   Q2.2 S1.1.1 Q1.3 S9% 
-0000010 090  NP1     AJAX                     Z3c Z1m 
+0000010 090  NP1     AJAX'                    Z99 
 0000010 100  DD1     that                     Z5 Z8 
 0000010 110  JJ      darling                  E2+ 
 0000010 120  NN1     technology               Y1 
-0000010 130  NN2     thats                    Z5 Z8 A13.3 A6.1+ 
+0000010 130  CST     that                     Z8 Z5 
+0000010 131  VBZ     's                       Z5 A3+ 
 0000010 140  VVN     taken                    A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
 0000010 150  AT      the                      Z5 
 0000010 160  NN1     world                    W1 S5+c A4.1 N5+ 
@@ -664,7 +684,8 @@
 0000012 250  NN1     step                     M1 T1.2 H5 O2 A2.1+ A1.1.1 K1@ K5.1@ 
 0000012 251  .       .                        
 0000012 252  -----   -----                    
-0000012 260  NP1@    Tomorrows                T1.1.3 
+0000012 260  RT      Tomorrow                 T1.1.3 
+0000012 261  GE      's                       Z5 
 0000012 270  NN2     children                 S2mf/T3- S4mf 
 0000012 280  VM      will                     T1.1.3 
 0000012 290  VBI     be                       Z5 A3+ 
@@ -726,7 +747,7 @@
 0000012 780  VVG     getting                  A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
 0000012 790  AT      the                      Z5 
 0000012 800  NN1     back                     B1 M6 
-0000012 810  NN1     button                   B5 O2 
+0000012 810  NN1     button'                  Z99 
 0000012 820  TO@     to                       Z5 
 0000012 830  VVI     work                     I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
 0000012 840  II      during                   Z5 
@@ -758,7 +779,8 @@
 0000012 060  II      In                       A1.1.1[i47.2.1 Z5 
 0000012 070  NN1     practice                 A1.1.1[i47.2.2 A1.1.1 I3.1/S5+c 
 0000012 071  ,       ,                        
-0000012 080  APPGE   its                      Z8 
+0000012 080  PPH1    it                       Z8 
+0000012 081  VBZ     's                       A3+ Z5 
 0000012 090  RR21    a                        A13.6[i48.2.1 N6-[i48.2.1 
 0000012 100  RR22    little                   A13.6[i48.2.2 N6-[i48.2.2 A13.7 
 0000012 110  RRR     harder                   X8++ N5++ A12-- 

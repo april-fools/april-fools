@@ -1,17 +1,17 @@
-TOTAL              298
+TOTAL              300
 the                  AT             22 
 of                   IO             10 
 and                  CC              9 
 us                   PPIO2           9 
 last                 MD              8 
 part                 NN1             7 
+we                   PPIS2           7 
 to                   II              6 
 xbox                 NN1             6 
 one                  MC1             6 
 2                    MC              6 
 a                    AT1             6 
 that                 CST             6 
-we                   PPIS2           6 
 it                   PPH1            5 
 is                   VBZ             5 
 for                  IF              5 
@@ -37,8 +37,10 @@ was                  VBDZ            2
 excited              JJ              2 
 fans                 NN2             2 
 not                  XX              2 
+wait                 VVI             2 
 game                 NN1             2 
 as                   CSA             2 
+n't                  XX              2 
 release              NN1             2 
 later                RRR             2 
 more                 DAR             2 
@@ -76,12 +78,10 @@ our                  APPGE           1
 excited              VVN             1 
 as_well              RR21            1 
 can                  VM              1 
-wait                 VVI             1 
 get_your_hands_on    VVI             1 
-were                 VBDR            1 
+'re                  VBR             1 
 so                   RG              1 
 does                 VDZ             1 
-nt                   XX              1 
 even                 RR              1 
 seem                 VVI             1 
 real                 JJ              1 
@@ -122,8 +122,7 @@ future               NN1             1
 regarding            II              1 
 exciting             JJ              1 
 projects             NN2             1 
-cant                 JJ              1 
-wait                 NN1             1 
+ca                   VM              1 
 their                APPGE           1 
 enjoy                VVI             1 
 just                 RR              1 

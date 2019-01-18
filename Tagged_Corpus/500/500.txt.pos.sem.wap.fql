@@ -1,4 +1,4 @@
-TOTAL              427
+TOTAL              432
 will                 VM             12 
 the                  AT             12 
 to                   TO             10 
@@ -14,15 +14,17 @@ they                 PPHS2           6
 to                   II              6 
 visa                 NN1             6 
 in                   II              6 
+Japan                NP1             5 
 that                 CST             5 
-Japan                NP1             4 
 for                  IF              4 
 with                 IW              4 
+it                   PPH1            4 
 foreign              JJ              4 
 this                 DD1             3 
+'s                   GE              3 
 been                 VBN             3 
+government           NN1             3 
 however              RR              3 
-it                   PPH1            3 
 japanese             JJ              3 
 at_least             RR21            3 
 later                RRR             2 
@@ -32,7 +34,6 @@ now                  RT              2
 by                   II              2 
 but                  CCB             2 
 successful           JJ              2 
-governments          NN2             2 
 family               NN1             2 
 residents            NN2             2 
 allow                VVI             2 
@@ -51,6 +52,7 @@ than                 CSN             2
 not                  XX              2 
 are                  VBR             2 
 naruto               NN1             2 
+you                  PPY             2 
 saying               VVG             2 
 were                 VBDR            2 
 what                 DDQ             2 
@@ -59,7 +61,6 @@ attempt              VVI             1
 its_own              APPGE           1 
 baby                 NN1             1 
 boom                 NN1             1 
-Japans               NP2             1 
 rapidly              RR              1 
 aging                JJ              1 
 population           NN1             1 
@@ -71,7 +72,6 @@ decades              NNT2            1
 there                EX              1 
 several              DA2             1 
 attempts             NN2             1 
-government           NN1             1 
 try                  VVI             1 
 alleviate            VVI             1 
 issue                NN1             1 
@@ -202,11 +202,11 @@ official             JJ              1
 certification_exam   NN1             1 
 b-but                CCB             1 
 sakura-chan          JJ              1 
-youre                NN1             1 
-married              VVN             1 
+'re                  VBR             1 
+married              JJ              1 
 Sasuke               NP1             1 
 dattebayo            NN1             1 
-its                  APPGE           1 
+'s                   VBZ             1 
 okay                 JJ              1 
 i                    PPIS1           1 
 sakura               NN1             1 
@@ -242,7 +242,7 @@ detractors           NN2             1
 realized             VVD             1 
 we                   PPIS2           1 
 do                   VD0             1 
-nt                   XX              1 
+n't                  XX              1 
 want                 VVI             1 
 thousands            NNO2            1 
 women                NN2             1 
@@ -251,7 +251,6 @@ intent               NN1             1
 oh                   UH              1 
 yeah                 UH              1 
 never_mind           RR              1 
-you                  PPY             1 
 picking_up           VVG             1 
 of_your_own          IO              1 
 more                 RGR             1 

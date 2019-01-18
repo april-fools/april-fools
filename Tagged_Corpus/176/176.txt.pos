@@ -161,9 +161,10 @@
 0000008 140 might                                       93 [VM/100] NN1%/0
 0000008 150 be                                          93 VBI
 0000008 160 thinking                                    03 [VVG/99] NN1/1 JJ%/0
-0000008 170 that                                        93 [CST/82] DD1/18 RG%/0
-0000008 180 providing                                   03 [CS@/48] VVG/52
-0000008 190 Im                                          06 [NP1/65] NN1/19 VV0/17
+0000008 170 that                                        93 [CST/92] DD1/8 RG%/0
+0000008 180 providing                                   03 [CS@/98] VVG/2
+0000008 190 I                         >                 93 [PPIS1/100] ZZ1%/0 MC1%/0
+0000008 191 'm                        <                 03 VBM
 0000008 200 super-careful                               20 JJ
 0000008 210 and                                         93 CC
 0000008 220 keep                                        93 [VV0/100] NN1%/0

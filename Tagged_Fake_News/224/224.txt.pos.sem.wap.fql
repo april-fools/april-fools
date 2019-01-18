@@ -1,13 +1,14 @@
-TOTAL              933
+TOTAL              945
 the                  AT             66 
 and                  CC             22 
 a                    AT1            20 
+Israel               NP1            19 
 to                   TO             18 
-Israel               NP1            17 
 in                   II             17 
 of                   IO             17 
 that                 CST            14 
 resolution           NN1            14 
+'s                   GE             13 
 on                   II             12 
 it                   PPH1           12 
 from                 II             11 
@@ -17,6 +18,7 @@ be                   VBI            10
 to                   II             10 
 its                  APPGE           9 
 settlements          NN2             9 
+vote                 NN1             9 
 U.S.                 NP1             9 
 said                 VVD             8 
 with                 IW              7 
@@ -24,30 +26,27 @@ administration       NN1             7
 israeli              JJ              6 
 U.N                  NP1             6 
 security             NN1             6 
-vote                 NN1             6 
 not                  XX              6 
 he                   PPHS1           6 
 is                   VBZ             6 
 palestinians         NN2             5 
 his                  APPGE           5 
+we                   PPIS2           5 
 which                DDQ             5 
 trump                NN1             5 
 Obama                NP1             4 
 information          NN1             4 
-Fridays              NPD2            4 
+Friday               NPD1            4 
 against              II              4 
 peace                NN1             4 
 policy               NN1             4 
 council              NN1             4 
 impact               NN1             4 
 relations            NN2             4 
-we                   PPIS2           4 
 could                VM              4 
 sources              NN2             3 
-weeks                NNT2            3 
-vote                 VV0             3 
+last_week            MD              3 
 an                   AT1             3 
-were                 VBDR            3 
 veto                 NN1             3 
 have                 VH0             3 
 that                 DD1             3 
@@ -55,7 +54,7 @@ this                 DD1             3
 how                  RRQ             3 
 Egypt                NP1             3 
 state                NN1             3 
-Netanyahus           NP1             3 
+Netanyahu            NP1             3 
 will                 VM              3 
 many                 DA2             3 
 some                 DD              3 
@@ -65,7 +64,6 @@ had                  VHD             2
 ironclad             NN1             2 
 arab                 JJ              2 
 craft                NN1             2 
-last                 MD              2 
 further              RRR             2 
 increasingly         RR              2 
 between              II              2 
@@ -76,7 +74,7 @@ final                JJ              2
 office               NN1             2 
 international        JJ              2 
 they                 PPHS2           2 
-'s                   GE              2 
+were                 VBDR            2 
 U.S.-Israel          NP1             2 
 play                 VV0             2 
 long                 RR              2 
@@ -97,12 +95,12 @@ world                NN1             2
 claim                VV0             2 
 ambassador           NN1             2 
 would                VM              2 
-nt                   XX              2 
+n't                  XX              2 
 does                 VDZ             2 
 any                  DD              2 
 United_States        NP1             2 
+'                    GE              2 
 also                 RR              2 
-Israels              NP2             2 
 if                   CS              2 
 after                II              2 
 as                   CSA             2 
@@ -137,6 +135,7 @@ whether              CSW             1
 White_house          NP1             1 
 take_further         VVI             1 
 settlements_in       NN2             1 
+weeks                NNT2            1 
 expected             VVD             1 
 participate          VVI             1 
 conference           NN1             1 
@@ -188,6 +187,7 @@ pushed               VVD             1
 hard                 RR              1 
 eventual_passage     JJ              1 
 David_Keyes          NP1             1 
+'re                  VBR             1 
 just                 RR              1 
 going_to             VVGK            1 
 punching             JJ              1 
@@ -210,7 +210,6 @@ sponsor              NN1             1
 under_pressure       II              1 
 heavy                JJ              1 
 delayed              VVD             1 
-last_week            MD              1 
 before               II              1 
 other                JJ              1 
 members              NN2             1 

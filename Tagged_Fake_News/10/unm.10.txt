@@ -15,5 +15,4 @@ palantr                  NN1     Z99
 Rohirrim                 NN1     Z99 
 Sauron                   NN1     Z99 
 Sauron                   NP1     Z99 
-Saurons                  NP1     Z99 
 Twitter                  NN1     Z99 

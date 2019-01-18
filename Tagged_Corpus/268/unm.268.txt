@@ -8,5 +8,3 @@ TEXTp                    NP1     Z99
 TEXTp                    VV0     Z99 
 transcoding              JJ@     Z99 
 URLs                     VVZ     Z99 
-weve                     NN1     Z99 
-youll                    VV0     Z99 

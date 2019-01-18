@@ -1,4 +1,4 @@
-TOTAL              228
+TOTAL              230
 the                  AT             16 
 office               NN1             7 
 2010                 MC              5 
@@ -79,7 +79,8 @@ discover             VVI             1
 key                  JJ              1 
 features             NN2             1 
 applications         NN2             1 
-havent               NN1             1 
+have                 VH0             1 
+n't                  XX              1 
 been                 VBN             1 
 same                 DA              1 
 without              IW              1 
@@ -100,7 +101,8 @@ share                VV0             1
 sentiment            NN1             1 
 see                  VVI             1 
 return               NN1             1 
-were                 VBDR            1 
+we                   PPIS2           1 
+'re                  VBR             1 
 asking               VVG             1 
 public               JJ              1 
 help                 VVI             1 

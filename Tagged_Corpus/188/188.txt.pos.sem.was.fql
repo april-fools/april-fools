@@ -1,4 +1,4 @@
-TOTAL             1215
+TOTAL             1225
 the                  Z5                  70 
 and                  Z5                  34 
 to                   Z5                  32 
@@ -6,23 +6,23 @@ a                    Z5                  32
 of                   Z5                  31 
 in                   Z5                  24 
 for                  Z5                  22 
-you                  Z8                  12 
+you                  Z8                  14 
+it                   Z8                  13 
 with                 Z5                  11 
 can                  A7+                 11 
 or                   Z5                  11 
 hair                 B1                  10 
-its                  Z8                   9 
 but                  Z5                   9 
-that                 Z5                   8 
 care                 S8+                  8 
 cost                 I1.3                 8 
 into                 Z5                   8 
+that                 Z5                   7 
 on                   Z5                   7 
 at                   Z5                   7 
 most                 N5+++                7 
 tourists             M1                   7 
 from                 Z5                   6 
-it                   Z8                   6 
+'s                   A3+                  6 
 getting              M1                   6 
 will                 T1.1.3               6 
 haircuts             B4                   5 
@@ -36,8 +36,9 @@ haircut              B4                   5
 their                Z8                   5 
 Salvador             Z99                  5 
 up                   Z5                   4 
-nt                   S9                   4 
+n't                  Z6                   4 
 is                   A3+                  4 
+that                 Z8                   4 
 are                  Z5                   4 
 while                Z5                   4 
 simple               A12+                 4 
@@ -56,7 +57,6 @@ then                 N4                   4
 cuts                 A1.1.1               4 
 those                Z5                   4 
 barbers              B4                   4 
-tourism              M1                   3 
 countries            M7                   3 
 save                 I1.1                 3 
 common               A6.2+                3 
@@ -70,7 +70,6 @@ this                 M6                   3
 now                  T1.1.2               3 
 throughout           Z5                   3 
 get                  A9+                  3 
-that                 Z8                   3 
 have                 Z5                   3 
 real                 A3+                  3 
 home                 H4                   3 
@@ -89,10 +88,12 @@ be                   Z5                   3
 take                 A9+                  3 
 which                Z8                   3 
 boom                 N5++                 2 
+Tourism'             Z99                  2 
 having               Z5                   2 
 them                 Z8                   2 
 done                 A1.1.1               2 
 similar              A6.1+                2 
+its                  Z8                   2 
 easily               A12+                 2 
 possible             A7+                  2 
 things               O2                   2 
@@ -113,6 +114,7 @@ recently             T3---                2
 having               A9+                  2 
 place                M7                   2 
 could                A7+                  2 
+'s                   Z5                   2 
 one                  N1                   2 
 entire               N5.1+                2 
 discovered           A10+                 2 
@@ -136,7 +138,6 @@ where                M6                   2
 first                N4                   2 
 spent                I1.2                 2 
 city                 M7                   2 
-cousins              S4                   2 
 cheap                I1.3-                2 
 although             Z5                   2 
 true                 A5.2+                2 
@@ -172,7 +173,7 @@ xinjiang             Z99                  2
 autonomous_region    M7                   2 
 China                Z2                   2 
 instead              A6.1-                2 
-youll                Z99                  2 
+'ll                  T1.1.3               2 
 miles                N3.3                 2 
 find                 A10+                 2 
 well                 W3                   1 
@@ -235,6 +236,7 @@ coolest              O4.6-                1
 name                 Q2.2                 1 
 ever                 T1.1                 1 
 t-shirt              B5                   1 
+tourism              M1                   1 
 transformed          A2.1+                1 
 busiest              A1.1.1               1 
 destinations         M6                   1 
@@ -310,6 +312,7 @@ wandering            M1                   1
 fighting_off         E3-                  1 
 touts                I2.2                 1 
 whose                Z8                   1 
+cousins              S4                   1 
 brothers             S4                   1 
 offer                A9-                  1 
 amazingly            X2.6-                1 
@@ -326,6 +329,7 @@ beg                  Q2.2                 1
 buy                  I2.2                 1 
 duty_free            I1.3-                1 
 vodka                F2                   1 
+cousin               S4                   1 
 wedding              S4                   1 
 later                T4--                 1 
 airlines             M5                   1 

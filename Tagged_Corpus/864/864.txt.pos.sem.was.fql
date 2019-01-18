@@ -1,16 +1,16 @@
-TOTAL              983
+TOTAL              990
 the                  Z5                  72 
 in                   Z5                  32 
 a                    Z5                  26 
-Toyota               Z3                  22 
+Toyota               Z3                  25 
 to                   Z5                  21 
 of                   Z5                  19 
-it                   Z8                  16 
+it                   Z8                  17 
 said                 Q2.1                15 
+company              I2.1                13 
 for                  Z5                  13 
 and                  Z5                  13 
 fine                 A5.1+               11 
-company              I2.1                11 
 had                  Z5                   9 
 that                 Z8                   9 
 that                 Z5                   9 
@@ -23,22 +23,22 @@ safety               A15+                 6
 not                  Z6                   6 
 could                A7+                  6 
 on                   Z5                   6 
+'s                   Z5                   6 
 recalls              X2.2+                6 
 would                A7+                  5 
 government           G1.1                 5 
 about                Z5                   5 
 by                   Z5                   5 
 from                 Z5                   5 
+agency               I2.2                 5 
 problems             A12-                 4 
 pedals               O2                   4 
 we                   Z8                   4 
-its                  Z8                   4 
 officials            G1.1                 4 
 documents            Q1.2                 4 
 received             A9+                  4 
 United_States        Z2                   4 
 if                   Z7                   4 
-agency               I2.2                 4 
 as                   Z5                   4 
 investigation        X2.4                 4 
 was                  Z5                   4 
@@ -52,6 +52,7 @@ penalty              G2.1                 3
 are                  Z5                   3 
 yet                  T1.1.2               3 
 have                 A9+                  3 
+its                  Z8                   3 
 statement            Q2.1                 3 
 defect               A5.1-                3 
 showed               A10+                 3 
@@ -61,7 +62,6 @@ this                 M6                   3
 until                Z5                   3 
 defects              A5.1-                3 
 our                  Z8                   3 
-Toyotas              Z3                   3 
 more                 N5++                 3 
 than                 Z5                   3 
 at                   Z5                   3 
@@ -125,7 +125,6 @@ sales                I2.2                 2
 sold                 I2.2                 2 
 hearings             B1                   2 
 winter               T1.3                 2 
-companys             I2.1                 2 
 accidents            A1.1.2               2 
 during               Z5                   2 
 testimony            G2.1                 2 
@@ -323,7 +322,6 @@ violations           G2.1-                1
 find                 A10+                 1 
 ongoing              T2++                 1 
 David_Strickland     Z1                   1 
-agencys              I2.2                 1 
 administrator        S7.1+                1 
 decided              X6+                  1 
 based_on             A2.2                 1 
@@ -414,6 +412,7 @@ research             X2.4                 1
 organization         S5+                  1 
 questioned           Q2.2                 1 
 effective            X9.2+                1 
+'s                   A3+                  1 
 good                 A5.1+                1 
 news                 X2.2+                1 
 regulator            O2                   1 

@@ -1,4 +1,4 @@
-TOTAL              373
+TOTAL              374
 the                  AT             29 
 and                  CC             14 
 of                   IO             13 
@@ -59,7 +59,8 @@ productivity         NN1             2
 employees            NN2             2 
 bureaucracy          NN1             1 
 maze                 NN1             1 
-nations              NN2             1 
+nation               NN1             1 
+'s                   GE              1 
 creates              VVZ             1 
 enormous             JJ              1 
 cabinet              NN1             1 

@@ -1,18 +1,20 @@
-TOTAL              499
+TOTAL              507
 the                  AT             32 
 a                    AT1            14 
 of                   IO             11 
 and                  CC             10 
+'s                   GE              8 
+Intel                NP1             7 
+AMD                  NP1             7 
 with                 IW              7 
 to                   TO              6 
 this                 DD1             6 
 has                  VHZ             5 
 will                 VM              5 
-AMD                  NP1             5 
 for                  IF              4 
-Intel                NP1             4 
 in                   II              4 
 that                 CST             4 
+n't                  XX              4 
 more                 DAR             4 
 compute              VV0             3 
 cards                NN2             3 
@@ -23,10 +25,10 @@ us                   PPIO2           3
 we                   PPIS2           3 
 by                   II              3 
 could                VM              3 
+Nvidia               NP1             3 
 to                   II              3 
 release              NN1             3 
 date                 NN1             3 
-Intels               NP2             3 
 have                 VH0             3 
 video                NN1             3 
 12                   MC              2 
@@ -43,7 +45,6 @@ GPUs                 NP2             2
 not                  XX              2 
 same                 DA              2 
 or                   CC              2 
-Nvidia               NP1             2 
 which                DDQ             2 
 as                   II              2 
 was                  VBDZ            2 
@@ -54,9 +55,7 @@ come                 VVN             2
 hardware             NN1             2 
 already              RR              2 
 is                   VBZ             2 
-AMDs                 NP2             2 
 do                   VD0             2 
-n't                  XX              2 
 from                 II              2 
 Knights              NP2             2 
 at                   II              2 
@@ -131,12 +130,12 @@ appealing            JJ              1
 geeks                NN2             1 
 homeopathic          JJ              1 
 a                    ZZ1             1 
-Microsofts           NP2             1 
+Microsoft            NP1             1 
 focused              JJ              1 
 directx              NN1             1 
 advancing            JJ              1 
 steadily             RR              1 
-experience           VV0             1 
+experience           NN1             1 
 drivers              NN2             1 
 matter               VVI             1 
 less                 RRR             1 
@@ -155,7 +154,7 @@ samples              NN2             1
 when                 CS              1 
 paired_off           VVN             1 
 decap                NN1             1 
-ring                 NN1             1 
+ring'                NN1             1 
 last                 MD              1 
 seen                 VVN             1 
 HD_4890              NP1             1 
@@ -175,7 +174,7 @@ tomorrow             RT              1
 know                 VV0             1 
 basic                JJ              1 
 model                NN1             1 
-landing              VVG             1 
+landing'             VV0             1 
 packs                NN2             1 
 whopping             JJ              1 
 72                   MC              1 
@@ -200,14 +199,13 @@ tail_end             NN1             1
 KN                   NP1             1 
 architecture         NN1             1 
 be_up                VBI             1 
-Nvidias              NP2             1 
 pascal               JJ              1 
 GCN_3.0              NP1             1 
 perhaps              RR              1 
 these                DD2             1 
 numbers              NN2             1 
-wont                 JJ              1 
-look_amazing         NN1             1 
+wo                   VM              1 
+look_amazing         VVI             1 
 quite                RG              1 
 so                   RG              1 
 once                 CS              1 
@@ -230,7 +228,6 @@ unconventional       JJ              1
 move                 NN1             1 
 prototype            NN1             1 
 'seven'              NN1             1 
-nt                   XX              1 
 output               VVI             1 
 directly             RR              1 
 at_all               RR21            1 
@@ -268,7 +265,7 @@ current              JJ              1
 enthusiast           NN1             1 
 systems              NN2             1 
 at_least             RR21            1 
-one                  MC1             1 
+one'                 VV0             1 
 digital              JJ              1 
 does                 VDZ             1 
 also                 RR              1 
@@ -276,7 +273,7 @@ mention              VVI             1
 planned              JJ              1 
 alternative          JJ              1 
 single-slot          JJ              1 
-outboard             NN1             1 
+outboard'            NN1             1 
 connectors           NN2             1 
 both                 DB2             1 
 PCIe                 NP1             1 
@@ -307,7 +304,6 @@ yesterday            RT              1
 makes                VVZ             1 
 kind                 NN1             1 
 sense                NN1             1 
-'s                   GE              1 
 movement             NN1             1 
 open                 JJ              1 
 standards            NN2             1 

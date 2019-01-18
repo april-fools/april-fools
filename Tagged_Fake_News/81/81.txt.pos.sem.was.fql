@@ -1,4 +1,4 @@
-TOTAL              287
+TOTAL              289
 the                  Z5                  18 
 and                  Z5                   8 
 a                    Z5                   6 
@@ -29,7 +29,7 @@ White_house          Z3                   2
 lockdown             Z99                  2 
 by                   Z5                   2 
 leave                M1                   2 
-visitors             S1.1.1               2 
+'s                   Z5                   2 
 center               M6                   2 
 heard                X3.2                 2 
 expletive            Z99                  2 
@@ -42,7 +42,7 @@ republican           G1.2                 2
 Donald_trump         Z1                   2 
 not                  Z6                   2 
 is                   Z5                   2 
-its                  Z8                   2 
+it                   Z8                   2 
 concerning           E6-                  2 
 how                  Z5                   2 
 citizens             G1.1                 2 
@@ -76,6 +76,7 @@ Finnigan             Z99                  1
 described            Q2.2                 1 
 eyewitnesses         G2.1                 1 
 trying               X8+                  1 
+visitor              S1.1.1               1 
 advance              M1                   1 
 further              N5++                 1 
 either               Z5                   1 
@@ -95,6 +96,7 @@ again                N6+                  1
 John_Burke           Z1                   1 
 college_student      P1                   1 
 visiting             S1.1.1               1 
+visitors             S1.1.1               1 
 stated               Q2.1                 1 
 then                 N4                   1 
 we                   Z8                   1 
@@ -154,13 +156,13 @@ violent              E3-                  1
 other                A6.1-                1 
 members              S5+                  1 
 population           S2                   1 
-it                   Z8                   1 
 see                  X3.4                 1 
 party                K1                   1 
 radicalized          Z99                  1 
 hope                 X2.6+                1 
 can                  A7+                  1 
 learn                X2.3+                1 
+its                  Z8                   1 
 lesson               P1                   1 
 treacherous          A15-                 1 
 trump                Z1                   1 

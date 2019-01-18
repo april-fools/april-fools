@@ -145,7 +145,8 @@
 0000009 030  NN1     Reason                   A2.2 X2.1 
 0000009 040  IF      For                      Z5 
 0000009 050  AT      The                      Z5 
-0000009 060  NN2     Democrats                Z3c 
+0000009 060  NN1     Democrat                 G1.2/S2mf 
+0000009 061  GE      's                       Z5 
 0000009 070  JJ      Historic                 T3+ 
 0000009 080  NN1     Loss                     I1.2 A9- S8- L1- 
 0000010 010  CS      When                     Z5 
@@ -265,7 +266,7 @@
 0000016 172  -----   -----                    
 0000016 180  PPY     You                      Z8mf 
 0000016 190  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000016 191  XX      nt                       S9/Q4.1 Z3c 
+0000016 191  XX      n't                      Z6 
 0000016 200  VVI     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
 0000016 210  TO      to                       Z5 
 0000016 220  VVI     steal                    G2.1-/A9+ A9+ 

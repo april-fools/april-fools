@@ -9,8 +9,6 @@ ERTS                     NP2     Z99
 Gawker                   NP1     Z99 
 Gizmodo                  NN1     Z99 
 GOOG                     NP1     Z99 
-havent                   VV0     Z99 
-Howd                     VV0     Z99 
 Igor                     NP1     Z99 
 iPad                     NN1     Z99 
 iPhone                   NN1     Z99 
@@ -25,9 +23,6 @@ notesthey                NN1     Z99
 Pusenjaks                NP2     Z99 
 sellingand               NN1     Z99 
 SNE                      NP1     Z99 
-theyd                    VV0     Z99 
-theyve                   VV0     Z99 
 transom                  NN1     Z99 
 two-man                  JJ      Z99 
 updatesnew               NN1     Z99 
-youre                    NN1     Z99 

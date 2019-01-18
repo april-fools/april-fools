@@ -1,13 +1,13 @@
-TOTAL              504
+TOTAL              513
 the                  Z5                  46 
 to                   Z5                  16 
 birth_certificate    Q1.2                15 
+Obama                Z99                 14 
 a                    Z5                  14 
+'s                   Z5                  12 
 of                   Z5                  12 
 and                  Z5                  11 
-Obama                Z99                  9 
 in                   Z5                   8 
-Obamas               Z99                  7 
 from                 Z5                   7 
 forensic             G2.1                 7 
 investigation        X2.4                 6 
@@ -22,7 +22,6 @@ as                   Z5                   4
 child                S2                   4 
 by                   Z5                   4 
 on                   Z5                   4 
-Barack               Z99                  3 
 might                A7+                  3 
 it                   Z8                   3 
 which                Z8                   3 
@@ -35,6 +34,7 @@ two                  N1                   3
 xs                   Z5                   3 
 investigators        X2.4                 3 
 President            G1.1                 2 
+Barack_Obama         Z1                   2 
 results              A2.2                 2 
 just                 A14                  2 
 revealed             A10+                 2 
@@ -44,13 +44,13 @@ prove                A5.2+                2
 is                   Z5                   2 
 congress             Z3                   2 
 sheriff              G2.1                 2 
-Joe                  Z1                   2 
-Apraios              Z99                  2 
+Joe_Apraio           Z1                   2 
 found                A10+                 2 
 after                Z5                   2 
 office               I2.1                 2 
 WND                  Z99                  2 
 proves               A5.2+                2 
+public               S5+                  2 
 be                   A3+                  2 
 born                 B1                   2 
 for                  Z5                   2 
@@ -61,7 +61,7 @@ identical            A6.1+++              2
 copied               A6.1+                2 
 another              A6.1-                2 
 Hawaii               Z2                   2 
-Johanna_Ahnee        Z1                   2 
+Johanna_Ah'nee       Z1                   2 
 word                 Q3                   2 
 was                  A3+                  2 
 certificate          Q1.2                 2 
@@ -80,7 +80,8 @@ beyond               Z5                   1
 repair               A5.1+                1 
 long-awaited         X2.6                 1 
 in-depth             A4.2+                1 
-past                 M6                   1 
+past                 T1.1.1               1 
+barack               Z99                  1 
 fake                 A5.4-                1 
 complete             N5.1+                1 
 now                  T1.1.2               1 
@@ -111,12 +112,12 @@ forcing              S7.1+                1
 administration       S7.1+                1 
 release              A1.7-                1 
 in_the_first_place   Z4                   1 
-corsis_book          Q4.1                 1 
-Wheres               M6                   1 
+Corsi                Z99                  1 
+book                 Q4.1                 1 
+where                M6                   1 
 first                N4                   1 
 brought              M2                   1 
 issue                X4.1                 1 
-publics              S5+                  1 
 attention            X5.1+                1 
 constitution         G1.1                 1 
 requires             X7+                  1 
@@ -158,7 +159,6 @@ Indonesia            Z2                   1
 mother               S4                   1 
 stepfather           S4                   1 
 presented            A9-                  1 
-public               S5+                  1 
 appears              A8                   1 
 issued               A9-                  1 
 several              N5                   1 
@@ -231,8 +231,8 @@ disciplines          G2.1                 1
 forensics            G2.1                 1 
 came_to              A4.1                 1 
 conclusion           X6+                  1 
-long                 T1.3+                1 
-form                 T2+                  1 
+long                 N3.7+                1 
+form                 A4.1                 1 
 authentic            A5.4+                1 
 Mike_Zullo           Z1                   1 
 lead                 S7.1+                1 

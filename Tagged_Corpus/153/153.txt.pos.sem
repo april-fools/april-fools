@@ -112,13 +112,15 @@
 0000006 080  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
 0000006 090  XX      not                      Z6 
 0000006 100  VVI     involve                  A1.8+ 
-0000006 110  NP1     Telkoms                  Z99 
+0000006 110  NP1     Telkom                   Z99 
+0000006 111  GE      's                       Z5 
 0000006 120  NN1     copper                   O1.1 I1.1 G2.1/S2mf 
 0000006 130  NN1     infrastructure           I2.1/S8+ 
 0000006 131  ,       ,                        
 0000006 140  CCB     but                      Z5 
 0000006 150  RR@     rather                   Z4 E2++ 
-0000006 160  VVZ     SEACOMs                  Z99 
+0000006 160  NP1     SEACOM                   Z99 
+0000006 161  GE      's                       Z5 
 0000006 170  JJ      terrestrial              W1 
 0000006 180  NN1     fibre                    O1.1 O2 
 0000006 190  NN1     infrastructure           I2.1/S8+ 
@@ -153,7 +155,8 @@
 0000007 001  -----   -----                    
 0000008 010  II21    According                Z5[i5.2.1 Z5 
 0000008 020  II22    to                       Z5[i5.2.2 Z5 
-0000008 030  NN2     SEACOMs                  Z99 
+0000008 030  NP1     SEACOM                   Z99 
+0000008 031  GE      's                       Z5 
 0000008 040  JJ      operational              A1.1.1 
 0000008 050  NN1     manager                  S7.1+/S2mf K1/S7.1+/S2mf K5/S7.1+/S2mf 
 0000008 060  NP1     Fredrik                  Z99 

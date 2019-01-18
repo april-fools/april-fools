@@ -1,4 +1,4 @@
-TOTAL              189
+TOTAL              190
 the                  AT             15 
 of                   IO              9 
 in                   II              7 
@@ -16,6 +16,7 @@ airline              NN1             2
 was                  VBDZ            2 
 with                 IW              2 
 quality              NN1             2 
+last_year            MD              2 
 department           NN1             2 
 transportation       NN1             2 
 complaints           NN2             2 
@@ -67,7 +68,7 @@ list                 NN1             1
 13                   MC              1 
 an                   AT1             1 
 analysis             NN1             1 
-last_years           MD              1 
+'s                   GE              1 
 data                 NN              1 
 spirit               NN1             1 
 came_in              VVD             1 
@@ -87,7 +88,6 @@ airline_industry     NN1             1
 has                  VHZ             1 
 improved             VVN             1 
 slightly             RR              1 
-last_year            MD              1 
 but                  CCB             1 
 rate                 NN1             1 
 spiked               VVN             1 

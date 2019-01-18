@@ -187,6 +187,7 @@
 0000004 970  VV0     focus                    X5.1+ X3.4 A4.2+ 
 0000004 980  II      on                       Z5 
 0000004 990  NN2     competitors              S7.3+/S2mf 
+0000004 991  GE      '                        Z5 
 0000004 000  JJ      unfair                   G2.2- 
 0000004 010  NN2     advantages               A5.1+ K5.2 
 0000004 011  (       (                        
@@ -208,7 +209,8 @@
 0000004 160  NP1     U.S.                     Z8 
 0000004 161  )       )                        
 0000004 170  CC      and                      Z5 
-0000004 180  NP2     Chinas                   Z2 
+0000004 180  NP1     China                    Z2 
+0000004 181  GE      's                       Z5 
 0000004 190  NN1     victimization            Z99 
 0000004 191  (       (                        
 0000004 200  NP1     China                    Z2 
@@ -540,7 +542,8 @@
 0000010 200  VVZ     raises                   M2 N5+/A2.1 A5.1+/A2.1 X3.2++ A9+ A1.1.1 A2.2 S1.1.1 F4 Q2.2 S4 
 0000010 210  NN2     questions                Q2.2 X4.1 
 0000010 220  IO      of                       Z5 
-0000010 230  NP2     Chinas                   Z2 
+0000010 230  NP1     China                    Z2 
+0000010 231  GE      's                       Z5 
 0000010 240  JJ      absorptive               O4.1 A2.1/O1.2 
 0000010 250  NN1     capacity                 N3.2 N3.4 N5.1+ X9.1+ I3.1 
 0000010 251  .       .                        
@@ -582,9 +585,10 @@
 0000010 570  VVG     stealing                 G2.1-/A9+ A9+ 
 0000010 571  ,       ,                        
 0000010 580  CC      and                      Z5 
-0000010 590  VV0     shouldnt                 Z99 
+0000010 590  VM      should                   S6+ A7+ 
+0000010 591  XX      n't                      Z6 
 0000010 600  PPIS2   we                       Z8 
-0000010 610  VV0     start                    T2+ E5- E3- 
+0000010 610  VVI     start                    T2+ E5- E3- 
 0000010 620  TO      to                       Z5 
 0000010 630  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
 0000010 640  PPH1    it                       Z8 

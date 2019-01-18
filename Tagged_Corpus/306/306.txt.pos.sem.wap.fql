@@ -1,14 +1,18 @@
-TOTAL              346
+TOTAL              351
 the                  AT             28 
 to                   TO             10 
 and                  CC             10 
 of                   IO              8 
 a                    AT1             8 
 be                   VBI             5 
+'s                   GE              5 
+Blatter              NP1             5 
 that                 CST             4 
 not                  XX              4 
+Lowy                 NP1             4 
 is                   VBZ             3 
 between              II              3 
+football             NN1             3 
 in                   II              3 
 but                  CCB             3 
 it                   PPH1            3 
@@ -17,12 +21,10 @@ was                  VBDZ            3
 bin                  VV0             3 
 Hammam               NP1             3 
 on                   II              3 
-Lowy                 NP1             3 
 could                VM              3 
 that                 DD1             3 
 move                 NN1             2 
 group                NN1             2 
-football             NN1             2 
 Australia            NP1             2 
 nine                 MC              2 
 nation               NN1             2 
@@ -37,8 +39,6 @@ for                  IF              2
 presidency           NN1             2 
 with                 IW              2 
 world_cup            NN1             2 
-Blatter              NP1             2 
-blatters             VVZ             2 
 to                   II              2 
 in_the_meantime      II              2 
 had                  VHD             2 
@@ -92,7 +92,6 @@ has                  VHZ             1
 launched             VVN             1 
 topple               VVI             1 
 blatter              NN1             1 
-footballs            NN2             1 
 top                  JJ              1 
 job                  NN1             1 
 labyrinthine         JJ              1 
@@ -107,8 +106,7 @@ important            JJ              1
 deals                NN2             1 
 reportedly           RR              1 
 securing             VVG             1 
-blatters             NN2             1 
-support              VV0             1 
+support              NN1             1 
 in_return_for        II31            1 
 agreement            NN1             1 
 run                  VVI             1 
@@ -120,7 +118,7 @@ turnaround           NN1             1
 left                 VVD             1 
 drained              VVD             1 
 he                   PPHS1           1 
-s                    VBZ             1 
+'s                   VBZ             1 
 now                  RT              1 
 decided              VVN             1 
 take_lying_down      VVI             1 
@@ -200,7 +198,6 @@ his                  APPGE           1
 intention            NN1             1 
 challenge            VVI             1 
 communication        NN1             1 
-Lowys                NP1             1 
 hastily-assembled    JJ              1 
 war                  NN1             1 
 skyrocketed          VVD             1 

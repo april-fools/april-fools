@@ -64,8 +64,9 @@
 0000002 521  .       .                        
 0000003 001  -----   -----                    
 0000004 010  AT      The                      Z5 
-0000004 020  NN2     companys                 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
-0000004 030  VVD     trademarked              Q1.1 
+0000004 020  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000004 021  GE      's                       Z5 
+0000004 030  JJ@     trademarked              Q1.1 
 0000004 040  NN1     technology               Y1 
 0000004 050  VVZ     provides                 A9- S6+ 
 0000004 060  AT1     a                        Z5 
@@ -239,7 +240,8 @@
 0000006 962  .       .                        
 0000006 963  NULL    </quote>                 
 0000006 964  -----   -----                    
-0000008 010  NP1@    InnoVocs                 Z99 
+0000008 010  NP1@    InnoVoc                  Z99 
+0000008 011  GE      's                       Z5 
 0000008 020  NN1     technology               Y1 
 0000008 030  VBDZ    was                      Z5 A3+ 
 0000008 040  VVN     developed                A2.1+ T2+ A5.1+/A2.1 N3.2+/A2.1 H1 A9+ C1 

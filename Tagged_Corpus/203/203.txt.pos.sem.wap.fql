@@ -13,7 +13,6 @@ in                   II              2
 show                 NN1             2 
 a                    AT1             2 
 expected             VVN             2 
-company              NN1             2 
 network              NN1             1 
 ten                  MC              1 
 plans                NN2             1 
@@ -40,7 +39,7 @@ take_over            VVI             1
 with                 IW              1 
 new                  JJ              1 
 title                NN1             1 
-Pete                 NP1             1 
+Pete'                NP1             1 
 relaunched           JJ              1 
 series               NN              1 
 premiere             VVI             1 
@@ -57,6 +56,7 @@ want                 VVI             1
 more                 DAR             1 
 time                 NNT1            1 
 relationship         NN1             1 
+company              NN1             1 
 close                JJ              1 
 source               NN1             1 
 revealed             VVD             1 
@@ -67,3 +67,4 @@ grind                NN1             1
 each_week            DD1             1 
 wanted               VVD             1 
 grow                 VVI             1 
+company'             NN1             1 

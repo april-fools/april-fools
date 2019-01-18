@@ -1,4 +1,4 @@
-TOTAL              314
+TOTAL              319
 the                  AT             18 
 campaign             NN1             7 
 of                   IO              7 
@@ -7,17 +7,18 @@ not                  XX              7
 to                   TO              7 
 and                  CC              7 
 rape                 NN1             6 
+women                NN2             6 
+Donald_trump         NP1             5 
 be                   VBI             5 
-women                NN2             5 
 a                    AT1             5 
 for                  IF              5 
 Conway               NP1             5 
+'s                   GE              4 
 manager              NN1             4 
+men                  NN2             4 
 on                   II              4 
-Donald_trump         NP1             4 
 if                   CS              3 
 were                 VBDR            3 
-men                  NN2             3 
 Kellyanne_Conway     NP1             3 
 military             JJ              3 
 2013                 MC              3 
@@ -35,20 +36,20 @@ to                   II              2
 she                  PPHS1           2 
 physiologically      RR              2 
 said                 VVD             2 
+fight_off            VVI             2 
 bizarre              JJ              2 
 about                II              2 
 other                JJ              2 
 fitness              NN1             2 
 that                 CST             2 
 1999                 MC              2 
+trump                NN1             2 
 news                 NN1             2 
 who                  PNQS            2 
 speaks               VVZ             2 
 at                   II              2 
 rally                NN1             2 
 Manchester           NP1             2 
-Donald               NP1             1 
-trumps               VVZ             1 
 new                  JJ              1 
 once                 RR              1 
 insisted             VVD             1 
@@ -58,6 +59,7 @@ eradicated           VVN             1
 discussing           VVG             1 
 episode              NN1             1 
 PBS                  NP1             1 
+'                    GE              1 
 contrary             NN1             1 
 roundtable           JJ              1 
 discussion           NN1             1 
@@ -79,7 +81,6 @@ you                  PPY             1
 able                 JK              1 
 defend               VVI             1 
 yourself             PPX1            1 
-fight_off            VVI             1 
 him                  PPHO1           1 
 CARLO_ALLEGRI/REUTERS NP1             1 
 panelists            NN2             1 
@@ -98,8 +99,6 @@ universal            JJ              1
 test                 NN1             1 
 all                  DB              1 
 soldiers             NN2             1 
-womens               NN2             1 
-mens                 VVZ             1 
 versions             NN2             1 
 ensure               VVI             1 
 have                 VH0             1 
@@ -121,7 +120,6 @@ pundits              NN2             1
 brought_up           VVD             1 
 point                NN1             1 
 back                 NN1             1 
-trump                NN1             1 
 considered           VVD             1 
 running              VVG             1 
 president            NN1             1 
@@ -154,8 +152,8 @@ also                 RR              1
 seem                 VV0             1 
 place                VVI             1 
 blame                NN1             1 
-cant                 JJ              1 
-fight_off            NN1             1 
+ca                   VM              1 
+n't                  XX              1 
 their                APPGE           1 
 aggressors           NN2             1 
 offenders            NN2             1 
@@ -169,7 +167,6 @@ N.H._Donald_trump    NP1             1
 N.H.                 NP1             1 
 GERALD_HERBERT/AP    NP1             1 
 took_charge          VVD             1 
-trumps               NN2             1 
 presidential         JJ              1 
 earlier              RRR             1 
 this                 DD1             1 

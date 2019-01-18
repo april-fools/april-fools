@@ -1,4 +1,4 @@
-TOTAL         214
+TOTAL         215
 NN1            39 
 JJ             24 
 NN2            23 
@@ -11,14 +11,14 @@ RR              6
 VV0             5 
 IF              4 
 AT1             4 
-APPGE           4 
 CST             4 
+VBZ             3 
 VVD             3 
 VBR             3 
+APPGE           3 
 VVI             3 
 PPHS1           3 
 IO              3 
-VBZ             2 
 IW              2 
 VVG             2 
 NNB             2 
@@ -33,6 +33,7 @@ FW              1
 RL              1 
 CS21            1 
 GE              1 
+PPH1            1 
 RP              1 
 RGR             1 
 NNU2            1 

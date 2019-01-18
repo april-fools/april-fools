@@ -1,20 +1,20 @@
-TOTAL              540
+TOTAL              543
 the                  Z5                  33 
 in                   Z5                  28 
 and                  Z5                  26 
+UQ                   Z99                 16 
 of                   Z5                  15 
-UQ                   Z99                 15 
 world                W1                  11 
 research             X2.4                11 
+university           P1                  10 
 universities         P1                   9 
-university           P1                   9 
 engineering          Y1                   8 
 rankings             S7.1+                7 
+'s                   Z5                   7 
 for                  Z5                   6 
 with                 Z5                   6 
 to                   Z5                   6 
 a                    Z5                   5 
-'s                   Z5                   5 
 australian           Z2                   5 
 academic             P1                   4 
 students             P1                   4 
@@ -103,7 +103,7 @@ per                  Z5                   1
 paper                Q4.2                 1 
 result               A2.2                 1 
 correlates           A6.1+                1 
-UQs_43rd             Z1                   1 
+43rd                 N4                   1 
 overall              N5.1+                1 
 top_200              A5.1+++              1 
 placing              M2                   1 
@@ -131,7 +131,6 @@ materials            O1                   1
 chemistry            Y1                   1 
 he                   Z8                   1 
 delighted            E4.1+                1 
-universitys          P1                   1 
 performance          K4                   1 
 latest               T3---                1 
 consistent           A6.1+                1 

@@ -168,7 +168,8 @@
 0000006 390 to                                          97 TO
 0000006 400 support                                     97 VVI
 0000006 410 Mr                                          96 NNB
-0000006 420 Berlusconis                                 96 NP1
+0000006 420 Berlusconi                >                 96 NP1
+0000006 421 's                        <                 98 GE
 0000006 430 election                                    03 NN1
 0000006 440 as                                          93 [CSA/73] II@/27 RG@/0
 0000006 450 president                                   93 NN1
@@ -194,7 +195,8 @@
 0000008 110 of                                          93 IO
 0000008 120 the                                         93 AT
 0000008 130 Southern                                    93 JJ
-0000008 140 Oceans                                      93 NN2
+0000008 140 Ocean                     >                 93 NN1
+0000008 141 's                        <                 98 GE
 0000008 150 storms                                      03 NN2
 0000008 160 is                                          93 VBZ
 0000008 170 no                                          93 [AT/95] UH/4 RR%/0 NN1%/0
@@ -343,8 +345,9 @@
 0000010 750 company                                     96 NN1
 0000010 760 of                                          93 IO
 0000010 770 Mr                                          96 NNB
-0000010 780 Berlusconis                                 96 NP1
-0000010 790 Media                                       96 NP1
-0000010 800 Empire                                      96 NP1
+0000010 780 Berlusconi                >                 96 NP1
+0000010 781 's                        <                 98 GE
+0000010 790 Media                                       93 NN
+0000010 800 Empire                                      96 NN1
 0000010 801 .                                           03 .
 0000013 001 **8;7;text                                  01 NULL

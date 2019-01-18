@@ -20,7 +20,7 @@
 0000002 180  VVI     prombut                  Z99 
 0000002 190  PPY     you                      Z8mf 
 0000002 200  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000002 201  XX      nt                       S9/Q4.1 Z3c 
+0000002 201  XX      n't                      Z6 
 0000002 210  VHI     have                     A9+ Z5 A2.2 S4 
 0000002 220  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000002 230  TO      to                       Z5 
@@ -47,7 +47,8 @@
 0000004 110  NP1     Google                   Z3c/Y2 
 0000004 111  ,       ,                        
 0000004 120  VVG     assuming                 X2.1 A5.4-/A8 
-0000004 130  NN1     youre                    Z99 
+0000004 130  PPY     you                      Z8mf 
+0000004 131  VBR     're                      A3+ Z5 
 0000004 140  JJ      gullible                 S1.2.6- 
 0000004 150  RR      enough                   N5+ N6+ 
 0000004 160  TO      to                       Z5 
@@ -108,7 +109,8 @@
 0000008 050  VV0%    type                     Q1.2 
 0000008 060  AT      the                      Z5 
 0000008 070  NN1     item                     O2 Q4 X4.1 
-0000008 080  NN1     youre                    Z99 
+0000008 080  PPY     you                      Z8mf 
+0000008 081  VBR     're                      Z5 A3+ 
 0000008 090  VVG     looking                  X2.4[i4.2.1 A8 X3.4 X2.4 X7+ Z4 
 0000008 100  IF      for                      X2.4[i4.2.2 Z5 
 0000008 110  II      into                     Z5 
@@ -133,9 +135,10 @@
 0000010 020  NN1     moment                   T1.2 T1.1.2 N3 
 0000010 030  CC      or                       A13.4[i5.2.1 Z5 
 0000010 040  RR      so                       A13.4[i5.2.2 Z5 A13.3 
-0000010 050  JJR     later                    T4-- T1.1.3 N4 
-0000010 060  NN1     youll                    Z99 
-0000010 070  VV0     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000010 050  RRR     later                    T4-- T1.1.3 N4 
+0000010 060  PPY     you                      Z8mf 
+0000010 061  VM      'll                      T1.1.3 
+0000010 070  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
 0000010 080  AT1     a                        Z5 
 0000010 090  NN1     listing                  Q1.2/N4 I2.1 
 0000010 100  IO      of                       Z5 
@@ -208,7 +211,8 @@
 0000012 362  -----   -----                    
 0000012 363  (       (                        
 0000012 370  AT      The                      Z5 
-0000012 380  NN2     sites                    M7 
+0000012 380  NN1     site                     M7 
+0000012 381  GE      's                       Z5 
 0000012 390  NN1     name                     Q2.2 
 0000012 400  VBZ     is                       A3+ Z5 
 0000012 410  AT1     a                        Z5 
@@ -261,7 +265,8 @@
 0000014 310  CSA     as                       Z5 
 0000014 320  VVN     compared                 A6.1 A5.1 Q3 
 0000014 330  II      to                       Z5 
-0000014 340  NP1     Googles                  Z3c/Y2 
+0000014 340  NP1     Google                   Z3c/Y2 
+0000014 341  GE      's                       Z5 
 0000014 350  JJ      austere                  O4.2- S1.2.1- 
 0000014 360  CC      and                      Z5 
 0000014 370  RG      rather                   A13.5 
@@ -269,13 +274,14 @@
 0000014 390  NN1     homepage                 Z99 
 0000014 391  .       .                        
 0000015 001  -----   -----                    
-0000016 010  VVZ     Lets                     S7.4+ I2.2/H1 T2- 
+0000016 010  VM21    Let                      Z5[i8.2.1 
+0000016 011  VM22    's                       Z5[i8.2.2 
 0000016 020  RR      just                     A14 T3--- T1.3- N3.3--- 
 0000016 030  VVI     hope                     X2.6+ E4.1+ X9.2+ A5.1+ 
 0000016 040  AT      the                      Z5 
 0000016 050  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
 0000016 060  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000016 061  XX      nt                       S9/Q4.1 Z3c 
+0000016 061  XX      n't                      Z6 
 0000016 070  VVI     venture                  M1 X8+ A15- Q2.2 
 0000016 080  RR      foolishly                S1.2.5- 
 0000016 090  II      into                     Z5 

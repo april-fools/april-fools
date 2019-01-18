@@ -1,4 +1,4 @@
-TOTAL              431
+TOTAL              437
 the                  AT             21 
 in                   II             18 
 and                  CC             13 
@@ -6,19 +6,21 @@ for                  IF             11
 on                   II              9 
 a                    AT1             8 
 of                   IO              8 
-ITV                  NP1             5 
+'s                   GE              8 
+ITV                  NP1             6 
 has                  VHZ             5 
 new                  JJ              5 
 its                  APPGE           5 
 it                   PPH1            5 
 show                 NN1             5 
-Victoria             NP1             4 
 to                   II              4 
 will                 VM              4 
 which                DDQ             4 
 drama                NN1             4 
 is                   VBZ             4 
+entertainment        NN1             3 
 dramas               NN2             3 
+Victoria             NP1             3 
 prime                JJ              3 
 suspect              NN1             3 
 series               NN              3 
@@ -29,7 +31,6 @@ than                 CSN             3
 by                   II              3 
 to                   TO              3 
 studios_global       NN2             2 
-entertainment        NN1             2 
 secured              VVN             2 
 top                  JJ              2 
 Tennison             NP1             2 
@@ -37,6 +38,7 @@ a_number_of          AT1             2
 agreements           NN2             2 
 Loch_Ness            NNL1            2 
 latest               JJT             2 
+Russia               NP1             2 
 launch               NN1             2 
 Italy                NP1             2 
 tv                   NN1             2 
@@ -48,7 +50,6 @@ this                 DD1             2
 year                 NNT1            2 
 U.S.                 NP1             2 
 viewers              NN2             2 
-'s                   GE              2 
 continues            VVZ             2 
 global               JJ              2 
 EMEA                 NP1             2 
@@ -56,6 +57,7 @@ digital              JJ              2
 markets              NN2             2 
 deals                NN2             2 
 DR                   NNB             2 
+Denmark              NP1             2 
 raft                 NN1             1 
 emea                 NN1             1 
 deals                VVZ             1 
@@ -80,12 +82,10 @@ Israel               NP1             1
 VOD                  NP1             1 
 service              NN1             1 
 ivi                  NN2             1 
-Russia               NP1             1 
 where                RRQ             1 
 simultaneous         JJ              1 
 pay-tv               JJ              1 
 tricolor             NN1             1 
-Russias              NP2             1 
 kino                 NN1             1 
 premium              NN1             1 
 channel              NN1             1 
@@ -96,15 +96,14 @@ current              JJ              1
 pay-tv               NN1             1 
 run                  VVN             1 
 feltrinelli          JJ              1 
-groups               NN2             1 
+group                NN1             1 
 La_Effe              NP1             1 
 was                  VBDZ            1 
 an                   AT1             1 
 instant              JJ              1 
 ratings              NN2             1 
 hit                  VVN             1 
-becoming             JJ              1 
-ITVs                 NP2             1 
+becoming             VVG             1 
 top-rated            JJ              1 
 2016                 MC              1 
 after                II              1 
@@ -160,13 +159,14 @@ fine                 JJ              1
 sources              NN2             1 
 evil                 NN1             1 
 whatever             DDQV            1 
-Linda                NP1             1 
+Linda'               NP1             1 
 take                 VV0             1 
 honors               NN2             1 
 at                   II              1 
 Canneseries          NP1             1 
 MipTV                NP1             1 
 development          NN1             1 
+Victoria'            NP1             1 
 have                 VHI             1 
 huge                 JJ              1 
 appeal               NN1             1 
@@ -201,14 +201,12 @@ platforms            NN2             1
 U.K.                 NP1             1 
 debuts               NN2             1 
 RLJ                  NP1             1 
-entertainments       NN2             1 
 acorn                NN1             1 
 respectively         RR              1 
 studios              NN2             1 
 now                  RT              1 
 RTL                  NP1             1 
 Netherlands          NP1             1 
-Denmark              NP1             1 
 tv4                  FO              1 
 Sweden               NP1             1 
 tv2                  FO              1 
@@ -224,11 +222,10 @@ detective            NN1             1
 searching            VVG             1 
 serial_killer        JJ              1 
 shores               NN2             1 
-Scotlands            NP2             1 
+Scotland             NP1             1 
 famous               JJ              1 
 deep-water           JJ              1 
 lake                 NN1             1 
-Denmarks             NP2             1 
 also                 RR              1 
 snapped_up           VVN             1 
 sold                 VVD             1 

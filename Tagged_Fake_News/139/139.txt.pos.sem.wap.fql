@@ -1,7 +1,9 @@
-TOTAL              331
+TOTAL              342
 the                  AT             23 
 and                  CC              8 
+'s                   GE              7 
 of                   IO              7 
+we                   PPIS2           6 
 that                 CST             5 
 to                   TO              5 
 for                  IF              5 
@@ -12,10 +14,10 @@ presidency           NN1             4
 a                    AT1             4 
 our                  APPGE           4 
 to                   II              4 
-we                   PPIS2           4 
 is                   VBZ             3 
 state                NN1             3 
 victory              NN1             3 
+Mr._Trump            NNB             3 
 have                 VH0             3 
 which                DDQ             3 
 like                 II              3 
@@ -25,14 +27,17 @@ favored              VVN             2
 win                  VVI             2 
 based_on             VVN             2 
 by                   II              2 
-Mr._Trump            NNB             2 
+Mrs._Clinton         NNB             2 
 chance               NN1             2 
 as                   CSA             2 
+'ve                  VH0             2 
 been                 VBN             2 
 estimates            NN2             2 
+'s                   VBZ             2 
 will                 VM              2 
 you                  PPY             2 
 paths                NN2             2 
+here                 RL              2 
 how                  RRQ             2 
 estimates            VVZ             2 
 district             NN1             2 
@@ -43,7 +48,6 @@ nation               NN1             2
 since                II              2 
 2004                 MC              2 
 one                  MC1             2 
-organizations        NN2             2 
 election             NN1             2 
 ratings              NN2             2 
 or                   CC              2 
@@ -53,7 +57,7 @@ more                 RGR             2
 outcome              NN1             2 
 diagram              NN1             2 
 illustrates          VVZ             2 
-upshots              NN2             1 
+upshot               NN1             1 
 elections            NN2             1 
 suggests             VVZ             1 
 Hillary_Clinton      NP1             1 
@@ -62,7 +66,6 @@ national             JJ              1
 polls                NN2             1 
 remains              VVZ             1 
 possible             JJ              1 
-Mrs._Clintons        NNB             1 
 losing               VVG             1 
 about                II              1 
 same                 DA              1 
@@ -75,17 +78,15 @@ misses               VVZ             1
 field                NN1             1 
 goal                 NN1             1 
 months               NNT2            1 
-weve                 NN1             1 
 updating             VVG             1 
 with                 IW              1 
 new                  JJ              1 
 poll                 NN1             1 
 today                RT              1 
-its                  APPGE           1 
+it                   PPH1            1 
 election_day         NN1             1 
 what                 DDQ             1 
-weve                 VV0             1 
-all                  DB              1 
+all                  RR              1 
 waiting              VVG             1 
 there                EX              1 
 be                   VBI             1 
@@ -95,12 +96,11 @@ updates              NN2             1
 can                  VM              1 
 chart                VVI             1 
 different            JJ              1 
-heres                NN2             1 
 changed_over         VVN             1 
 time                 NNT1            1 
 State-by-State       NP1             1 
 forecast             VVI             1 
-partys               VVZ             1 
+party                NN1             1 
 winning              VVG             1 
 calculates           VVZ             1 
 vote                 NN1             1 
@@ -116,8 +116,8 @@ table                NN1             1
 divided              VVN             1 
 country              NN1             1 
 groups               NN2             1 
-areas                NN2             1 
-voting               VVG             1 
+area                 NN1             1 
+voting               NN1             1 
 history              NN1             1 
 relative_to          II21            1 
 forecast             NN1             1 
@@ -127,6 +127,7 @@ vote                 VVI             1
 New_York_times       NP1             1 
 many                 DA2             1 
 news                 NN1             1 
+organizations        NN2             1 
 publish              VVI             1 
 forecasts            NN2             1 
 FiveThirtyEight      NP1             1 
@@ -145,6 +146,7 @@ on                   II              1
 reporting            VVG             1 
 knowledgeable        JJ              1 
 experts              NN2             1 
+'                    GE              1 
 opinions             NN2             1 
 predictwise          RR              1 
 uses                 VVZ             1 
@@ -160,7 +162,8 @@ scoreboard           NN1             1
 comparison           NN1             1 
 first                MD              1 
 every                AT1             1 
-estimate             VV0             1 
+organization         NN1             1 
+estimate             NN1             1 
 who                  PNQS            1 
 combinations         NN2             1 
 much                 RR              1 
@@ -171,10 +174,8 @@ shows                VVZ             1
 estimated            JJ              1 
 likelihood           NN1             1 
 interactive          JJ              1 
-Mr._Trumps           NNB             1 
 challenging          JJ              1 
 path                 NN1             1 
-here                 RL              1 
 let                  VV0             1 
 control              VVI             1 
 nine                 MC              1 
@@ -190,7 +191,6 @@ as                   II              1
 competitive          JJ              1 
 then                 RT              1 
 assume               VV0             1 
-Mrs._Clinton         NNB             1 
 win                  VV0             1 
 other                JJ              1 
 states               NN2             1 
@@ -208,4 +208,3 @@ the_states           AT              1
 see                  VVI             1 
 either               DD1             1 
 candidate            NN1             1 
-'s                   GE              1 

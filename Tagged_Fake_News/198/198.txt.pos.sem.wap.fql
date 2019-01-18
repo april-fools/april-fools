@@ -1,4 +1,4 @@
-TOTAL              293
+TOTAL              299
 the                  AT             15 
 of                   IO              9 
 lives                NN2             9 
@@ -10,16 +10,18 @@ on                   II              6
 black                JJ              5 
 from                 II              5 
 website              NN1             5 
+'s                   GE              5 
+Walmart              NP1             4 
 shirts               NN2             3 
 its                  APPGE           3 
 like                 II              3 
 we                   PPIS2           3 
 that                 CST             3 
 merchandise          NN1             3 
+world                NN1             3 
 in                   II              3 
 to                   II              3 
 be                   VBI             3 
-Walmart              NP1             2 
 slogan               NN1             2 
 spokesperson         NN1             2 
 police               NN2             2 
@@ -30,14 +32,13 @@ third                MD              2
 blue                 JJ              2 
 all                  DB              2 
 for                  IF              2 
-worlds               NN2             2 
 largest              JJT             2 
 retailer             NN1             2 
 more                 DAR             2 
 than                 CSN             2 
 are                  VBR             2 
-bulletproof          JJ              2 
 wrote                VVD             2 
+company              NN1             2 
 to                   TO              2 
 members              NN2             2 
 law                  NN1             2 
@@ -75,6 +76,7 @@ customers            NN2             1
 removing             VVG             1 
 specific             JJ              1 
 item                 NN1             1 
+bulletproof'         JJ              1 
 reference            NN1             1 
 head                 NN1             1 
 fraternal            JJ              1 
@@ -84,14 +86,12 @@ open                 JJ              1
 letter               NN1             1 
 Tuesday_night        NPD1            1 
 requesting           VVG             1 
-company              NN1             1 
 take_down            VVI             1 
 Canterbury           NP1             1 
 clothing             NN1             1 
 would                VM              1 
 damage               VVI             1 
 your                 APPGE           1 
-companys             NN2             1 
 good                 JJ              1 
 name                 NN1             1 
 amongst              II              1 
@@ -115,7 +115,6 @@ as                   II              1
 nation               NN1             1 
 indeed               RR              1 
 as                   CSA             1 
-world                NN1             1 
 should               VM              1 
 coming_together      VVG             1 
 hopes                NN2             1 
@@ -136,7 +135,7 @@ breitbart            NN1             1
 drew                 VVD             1 
 attention            NN1             1 
 presence             NN1             1 
-Walmarts_site        NP1             1 
+site                 NN1             1 
 earlier              RRR             1 
 this                 DD1             1 
 month                NNT1            1 
@@ -161,10 +160,10 @@ product              NN1             1
 page                 NN1             1 
 as_of                II21            1 
 Wednesday_afternoon  NPD1            1 
+bulletproof          JJ              1 
 could                VM              1 
 not                  XX              1 
 found                VVN             1 
-Walmarts             NP1             1 
 plenty               PN              1 
 phrases              NN2             1 
 even                 RR              1 

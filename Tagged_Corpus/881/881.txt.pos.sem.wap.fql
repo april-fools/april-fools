@@ -1,4 +1,4 @@
-TOTAL             1475
+TOTAL             1480
 the                  AT            119 
 of                   IO             43 
 and                  CC             28 
@@ -56,6 +56,7 @@ SLBMs                NP1             5
 counting             NN1             5 
 reductions           NN2             5 
 which                DDQ             5 
+that                 DD1             5 
 1991                 MC              5 
 systems              NN2             5 
 100                  MC              5 
@@ -67,6 +68,7 @@ loadings             NN2             4
 than                 CSN             4 
 US                   NP1             4 
 conventional         JJ              4 
+n't                  XX              4 
 Minuteman_iii        NP1             4 
 b1                   FO              4 
 b52                  FO              4 
@@ -100,12 +102,11 @@ either               RR              3
 start                VV0             3 
 have                 VH0             3 
 actual               JJ              3 
+'s                   VBZ             3 
 no                   AT              3 
 Russia               NP1             3 
-that                 DD1             3 
 all                  DB              3 
 do                   VD0             3 
-nt                   XX              3 
 best                 JJT             3 
 b2                   FO              3 
 notional             JJ              3 
@@ -163,7 +164,7 @@ makes                VVZ             2
 right                JJ              2 
 why                  RRQ             2 
 fact                 NN1             2 
-its                  APPGE           2 
+it                   PPH1            2 
 Trident              NP1             2 
 lower                JJR             2 
 numbers              NN2             2 
@@ -190,6 +191,7 @@ pen                  NN1             2
 in_some_cases        II              2 
 can                  VM              2 
 overhaul             NN1             2 
+'s                   GE              2 
 new                  JJ              2 
 convert              VVI             2 
 largely              RR              2 
@@ -232,7 +234,7 @@ official             NN1             1
 saying               VVG             1 
 negotiation          NN1             1 
 association          NN1             1 
-lets                 VVZ             1 
+let_'s               VM21            1 
 clear                JJ              1 
 recall               VV0             1 
 imposes              VVZ             1 
@@ -307,7 +309,6 @@ moving               VVG             1
 6,500                MC              1 
 result               VVI             1 
 9,500                MC              1 
-thats                VVZ             1 
 3,000                MC              1 
 slush                NN1             1 
 fund                 NN1             1 
@@ -320,7 +321,6 @@ areas                NN2             1
 bases                NN2             1 
 Amyfw                NP1             1 
 noted                VVD             1 
-thats                NN2             1 
 hardly               RR              1 
 improvement          NN1             1 
 so                   RG              1 
@@ -348,7 +348,7 @@ weird                JJ              1
 Kingston_Reif        NP1             1 
 arguments            NN2             1 
 we                   PPIS2           1 
-shouldnt             VV0             1 
+should               VM              1 
 too                  RR              1 
 worked_up            VVN             1 
 fundamentally        RR              1 
@@ -426,6 +426,7 @@ silos.               NNU             1
 guided_missile       JJ              1 
 SSGNs                NP1             1 
 converted            JJ              1 
+its                  APPGE           1 
 sitting              VVG             1 
 boneyard             NN1             1 
 rather               RG              1 
@@ -464,8 +465,7 @@ tubes                NN2             1
 35                   MC              1 
 combat               VV0             1 
 coded                JJ              1 
-Marc                 NP1             1 
-schanzs              VVZ             1 
+Marc_Schanz          NP1             1 
 magisterial          JJ              1 
 BUFF_Blogging        NP1             1 
 arms-control_oriented JJ              1 
@@ -491,12 +491,11 @@ because              CS              1
 sum                  NN1             1 
 have_to              VHI             1 
 convert              VV0             1 
-David_Moshers        NP1             1 
+David_Mosher         NP1             1 
 turn                 NN1             1 
 phrase               NN1             1 
 small                JJ              1 
 potatoes             NN2             1 
-it                   PPH1            1 
 understanding        NN1             1 
 yet                  RR              1 
 decided              VVN             1 

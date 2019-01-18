@@ -59,7 +59,8 @@
 0000004 190 the                                         93 AT
 0000004 200 assassination                               03 NN1
 0000004 210 of                                          93 IO
-0000004 220 Russias                                     04 NP2
+0000004 220 Russia                    >                 93 NP1
+0000004 221 's                        <                 98 GE
 0000004 230 ambassador                                  93 NN1
 0000004 240 to                                          93 [II/100] TO/0
 0000004 250 Turkey                                      93 [NP1/97] NN1@/3
@@ -255,7 +256,8 @@
 0000016 270 two-week                                    93 JJ
 0000016 280 vacation                                    93 [NN1/100] VV0%/0
 0000016 290 on                                          93 [II/100] RP@/0
-0000016 300 Marthas                                     04 NP2
+0000016 300 Martha                    >                 93 NP1
+0000016 301 's                        <                 98 GE
 0000016 310 Vineyard                                    93 NN1
 0000016 320 while                                       93 [CS/99] NNT1@/0 VV0%/0
 0000016 330 historic                                    03 JJ

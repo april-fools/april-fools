@@ -1,6 +1,6 @@
-TOTAL         541
+TOTAL         543
 NN1            79 
-NN2            51 
+NN2            50 
 II             36 
 JJ             32 
 AT             30 
@@ -34,6 +34,7 @@ MC              3
 JJT             3 
 PPHS2           3 
 MC1             3 
+NN              3 
 II21            3 
 DB              3 
 APPGE           3 
@@ -41,7 +42,7 @@ DD2             3
 DAR             3 
 PNQS            3 
 PPIO2           3 
-NN              2 
+GE              2 
 MD              2 
 RRR             2 
 RL              2 

@@ -6,7 +6,6 @@ bill-backed              JJ      Z99
 candidly                 RR      Z99 
 dais                     NN1     Z99 
 demagogue                NN1     Z99 
-demagogues               NN2     Z99 
 demeanor                 NN1     Z99 
 dystopian                JJ      Z99 
 dystopian                NN1     Z99 
@@ -19,7 +18,6 @@ FBI                      NP1     Z99
 fervor                   NN1     Z99 
 get-rich                 JJ      Z99 
 hater                    NN1     Z99 
-Havent                   NP1@    Z99 
 hell-hole                NN1     Z99 
 high-fiving              NN1     Z99 
 Hillary                  NP1     Z99 
@@ -73,5 +71,4 @@ waterboarding            VVG     Z99
 well-qualified           NN1     Z99 
 whichsurprise            NN1     Z99 
 whopper                  NN1     Z99 
-wouldnt                  NN1     Z99 
 Xenophobe                NP1@    Z99 

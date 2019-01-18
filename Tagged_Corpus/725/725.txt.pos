@@ -37,7 +37,8 @@
 0000004 080 conflict                                    93 [NN1/100] VV0@/0
 0000004 090 between                                     93 [II/100] RL%/0
 0000004 100 the                                         93 AT
-0000004 110 worlds                                      03 NN2
+0000004 110 world                     >                 93 NN1
+0000004 111 's                        <                 03 [GE/63] VBZ/28 VHZ@/9
 0000004 120 two                                         93 MC
 0000004 130 biggest                                     03 JJT
 0000004 140 economies                                   03 NN2
@@ -52,7 +53,8 @@
 0000004 230 evening                                     93 [NNT1/100] VVG%/0
 0000004 240 with                                        93 IW
 0000004 250 President                                   96 NNB
-0000004 260 Trumps                                      96 NP1
+0000004 260 Trump                     >                 96 NP1
+0000004 261 's                        <                 98 GE
 0000004 270 threat                                      93 NN1
 0000004 280 to                                          97 TO
 0000004 290 add                                         97 VVI
@@ -61,9 +63,10 @@
 0000004 320 more                                        93 [DAR/100] RRR/0 RGR/0
 0000004 330 in                                          93 [II/100] RP@/0
 0000004 340 tariffs                                     93 NN2
-0000004 350 its                                         93 APPGE
-0000004 360 worth                                       03 [NN1@/98] II/2
-0000004 370 keeping                                     93 [VVG/99] NN1@/1
+0000004 350 it                        >                 93 PPH1
+0000004 351 's                        <                 03 [VBZ/99] VHZ@/1 GE/0
+0000004 360 worth                                       03 [II/100] NN1@/0
+0000004 370 keeping                                     93 [VVG/100] NN1@/0
 0000004 380 something                                   93 PN1
 0000004 390 in                                          93 [II/98] RP@/2
 0000004 400 mind                                        03 [NN1/99] VV0/1
@@ -118,8 +121,8 @@
 0000008 151 ,                                           03 ,
 0000008 160 China                                       93 [NP1/98] NN1@/2
 0000008 170 simply                                      03 RR
-0000008 180 does                      >                 56 VDZ
-0000008 181 nt                        <                 56 XX
+0000008 180 does                      >                 93 VDZ
+0000008 181 n't                       <                 03 XX
 0000008 190 have                                        97 VHI
 0000008 200 as                                          93 [RG@/100] II@/0 CSA/0
 0000008 210 much                                        93 [DA1/99] RR/1
@@ -135,9 +138,10 @@
 0000008 300 especially                                  03 RR
 0000008 310 given                                       93 [VVN/100] JJ@/0
 0000008 320 the                                         93 AT
-0000008 330 Chinese                                     93 [JJ/97] NN1@/3 NP1@/0
-0000008 340 governments                                 03 NN2
-0000008 350 desire                                      93 [VV0@/90] NN1/10
+0000008 330 Chinese                                     93 [JJ/97] NN1@/3 NP1@/1
+0000008 340 government                >                 93 NN1
+0000008 341 's                        <                 98 GE
+0000008 350 desire                                      93 [NN1/99] VV0@/1
 0000008 360 to                                          97 TO
 0000008 370 cushion                                     97 VVI
 0000008 380 its                                         93 APPGE

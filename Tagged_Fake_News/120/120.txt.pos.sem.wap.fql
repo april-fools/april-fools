@@ -1,4 +1,4 @@
-TOTAL              467
+TOTAL              472
 the                  AT             27 
 and                  CC             16 
 to                   TO             10 
@@ -39,10 +39,11 @@ tweeted              VVD             2
 attacked             VVN             2 
 out_of               II21            2 
 lives                NN2             2 
-matter               VV0             2 
+'                    GE              2 
 so                   RR              2 
 on_their_way         II              2 
 home                 RL              2 
+could                VM              2 
 is                   VBZ             2 
 one                  MC1             2 
 soeller              NN1             2 
@@ -62,6 +63,7 @@ was                  VBDZ            2
 just                 RR              2 
 with                 IW              2 
 holes                NN2             2 
+we                   PPIS2           2 
 twenty               MC              1 
 millennial           JJ              1 
 believe              VVI             1 
@@ -106,6 +108,7 @@ confronted           VVD             1
 assaulted            VVD             1 
 yelling              VVG             1 
 blue                 JJ              1 
+matter'              VV0             1 
 get                  VV0             1 
 my                   APPGE           1 
 country              NN1             1 
@@ -116,6 +119,7 @@ as                   CSA             1
 wailed               VVD             1 
 there                EX              1 
 black                JJ              1 
+matter               VV0             1 
 not_a_single         XX              1 
 one                  PN1             1 
 cellphone            NN1             1 
@@ -131,7 +135,6 @@ rarely               RR              1
 ever                 RR              1 
 separated            VVN             1 
 phonesdoing          VVG             1 
-could                VM              1 
 lead_to              VVI             1 
 missing              VVG             1 
 chance               NN1             1 
@@ -254,15 +257,16 @@ many                 DA2             1
 existed              VVD             1 
 tall                 JJ              1 
 tale                 NN1             1 
-well                 RR              1 
-have_to              VH0             1 
+'ll                  VM              1 
+have_to              VHI             1 
 wait                 VVI             1 
 see                  VVI             1 
 if                   CSW             1 
 start                VV0             1 
 piling_up            VVG             1 
 in_this_case         II              1 
-im                   VV0             1 
+i                    PPIS1           1 
+'m                   VBM             1 
 sure                 JJ              1 
 involved             JJ              1 
 will                 VM              1 
@@ -272,8 +276,8 @@ close                JJ              1
 case                 NN1             1 
 cop-hating           JJ              1 
 agitator             NN1             1 
-couldnt              VV0             1 
-take_on              VV0             1 
+n't                  XX              1 
+take_on              VVI             1 
 cop                  NN1             1 
 built                VVD             1 
 guys                 NN2             1 
@@ -284,7 +288,6 @@ tell                 VV0             1
 you                  PPY             1 
 think                VV0             1 
 because              CS              1 
-we                   PPIS2           1 
 hear                 VVI             1 
 your                 APPGE           1 
 voice                NN1             1 

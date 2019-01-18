@@ -31,7 +31,8 @@
 0000002 270  MC      2010                     N1 T1.2 T3 T1.3 N3.2 
 0000002 271  ,       ,                        
 0000002 280  AT      the                      Z5 
-0000002 290  NP1     Internets                Y2 
+0000002 290  NP1     Internet                 Y2 
+0000002 291  GE      's                       Z5 
 0000002 300  NN1     root                     L3 B1 A2.2 S4 A11.1+ Q3 N2 
 0000002 310  NN2     servers                  Y2 S9/S2mf 
 0000002 320  CC      and                      Z5 

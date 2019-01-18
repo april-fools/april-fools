@@ -1,29 +1,29 @@
-TOTAL              877
+TOTAL              882
 the                  AT             41 
 a                    AT1            23 
+'s                   GE             19 
 to                   TO             19 
 and                  CC             18 
+OCZ                  NP1            17 
 that                 CST            16 
-OCZ                  NP1            15 
-'s                   GE             15 
 of                   IO             14 
 in                   II             13 
-its                  APPGE          11 
+it                   PPH1           12 
 controller           NN1            11 
 on                   II             11 
-it                   PPH1           11 
+its                  APPGE          10 
 vertex               NN1             9 
 is                   VBZ             9 
 with                 IW              8 
 we                   PPIS2           8 
 4                    MC              7 
+company              NN1             7 
 was                  VBDZ            7 
 at                   II              7 
 to                   II              7 
 this                 DD1             5 
 n't                  XX              5 
 SSD                  NP1             5 
-company              NN1             5 
 an                   AT1             5 
 based_on             VVN             5 
 as                   CSA             5 
@@ -33,6 +33,7 @@ us                   PPIO2           4
 technology           NN1             4 
 our                  APPGE           4 
 performance          NN1             4 
+'s                   VBZ             4 
 vendors              NN2             4 
 2                    MC              3 
 Everest              NP1             3 
@@ -49,7 +50,6 @@ hardware             NN1             3
 you                  PPY             3 
 first                MD              3 
 year                 NNT1            3 
-'s                   VBZ             3 
 by                   II              3 
 today                RT              3 
 most                 RGT             3 
@@ -57,7 +57,6 @@ GB                   NP1             3
 latest               JJT             2 
 flagship             NN1             2 
 intended             VVN             2 
-companys             NN2             2 
 effort               NN1             2 
 making               VVG             2 
 however              RR              2 
@@ -132,7 +131,6 @@ samsung_830          VVD             1
 update               VV0             1 
 praise               NN1             1 
 heaped               VVD             1 
-OCZs                 NP2             1 
 recognize            VVI             1 
 itself               PPX1            1 
 independent          JJ              1 
@@ -144,7 +142,6 @@ xtreme               JJ              1
 systems              NN2             1 
 raised               VVD             1 
 suspicions           NN2             1 
-oczs                 VVZ             1 
 controllers          NN2             1 
 first-               JJ              1 
 second-gen           NN1             1 

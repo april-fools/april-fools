@@ -23,8 +23,9 @@
 0000002 210  MC      2020                     N1 T1.2 T3 T1.3 N3.2 
 0000002 211  .       .                        
 0000003 001  -----   -----                    
-0000004 010  NN2     Shes                     Z8f 
-0000004 020  VVD@    convinced                A7+/Q2.2 
+0000004 010  PPHS1   She                      Z8f 
+0000004 011  VBZ     's                       A3+ Z5 
+0000004 020  JJ      convinced                A7+ 
 0000004 030  CST     that                     Z8 Z5 
 0000004 031  ,       ,                        
 0000004 040  RRR     sooner                   T1.1.3/N3.8++ 
@@ -67,8 +68,9 @@
 0000004 370  JJ      Confidential             A10- 
 0000004 371  .       .                        
 0000004 372  -----   -----                    
-0000004 380  NN2     Shes                     Z8f 
-0000004 390  RR%     sure                     A7+ 
+0000004 380  PPHS1   She                      Z8f 
+0000004 381  VBZ     's                       A3+ Z5 
+0000004 390  JJ      sure                     A7+ Z4 
 0000004 400  AT      the                      Z5 
 0000004 410  NN2     voters                   G1.2/S2mf 
 0000004 420  VM      will                     T1.1.3 
@@ -83,7 +85,8 @@
 0000004 510  PPHS1   she                      Z8f 
 0000004 520  VVZ     says                     Q2.1 
 0000004 521  ,       ,                        
-0000004 530  VV0     Im                       Z99 
+0000004 530  PPIS1   I                        Z8mf 
+0000004 531  VBM     'm                       Z5 A3+ 
 0000004 540  VVGK    going                    T1.1.3[i8.2.1 
 0000004 550  TO      to                       T1.1.3[i8.2.2 Z5 
 0000004 560  VVI     run                      M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4 
@@ -91,6 +94,7 @@
 0000004 580  II      in                       Z5 
 0000004 590  MC      2020                     N1 T1.2 T3 T1.3 N3.2 
 0000004 591  .       .                        
+0000004 592  "@      '                        
 0000005 001  -----   -----                    
 0000006 010  XX      Not                      Z6 
 0000006 020  DB      all                      N5.1+ 
@@ -137,9 +141,10 @@
 0000006 380  II      from                     Z5 
 0000006 390  RT      now                      T1.1.2 Z4 
 0000006 400  CS      when                     Z5 
-0000006 410  NN1     shell                    L2 O2 G3 
+0000006 410  PPHS1   she                      Z8f 
+0000006 411  VM      'll                      T1.1.3 
 0000006 420  VBI     be                       A3+ Z5 
-0000006 430  MC      73                       T3 N1 T1.2 T1.3 N3.2 
+0000006 430  MC      73                       N1 T1.2 T3 T1.3 N3.2 
 0000006 440  CC      and                      Z5 
 0000006 450  II      in                       Z5 
 0000006 460  JJ      shaky                    M1 A7- A5.1- 
@@ -153,7 +158,8 @@
 0000008 050  JJ      afraid                   E5- E4.1- 
 0000008 060  TO      to                       Z5 
 0000008 070  VVI     dash                     M1/N3.8+ 
-0000008 080  NP2     Hillarys                 Z99 
+0000008 080  NP1     Hillary                  Z99 
+0000008 081  GE      's                       Z5 
 0000008 090  JJ      presidential             G1.1/S7.1+ 
 0000008 100  NN2     dreams                   X4.1 X7+ A5.2- 
 0000008 110  CC      and                      Z5 
@@ -190,15 +196,17 @@
 0000010 210  VVD     said                     Q2.1 
 0000010 211  .       .                        
 0000010 212  -----   -----                    
-0000010 220  NN2     Shes                     Z8f 
-0000010 230  VVD@    convinced                A7+/Q2.2 
+0000010 220  PPHS1   She                      Z8f 
+0000010 221  VBZ     's                       A3+ Z5 
+0000010 230  JJ      convinced                A7+ 
 0000010 240  CST     that                     Z5 Z8 
 0000010 241  (       &lsqb;                   
 0000010 250  NP1     FBI                      Z99 
 0000010 260  NN1     Director                 S7.1+/S2mf K4/S2mf 
 0000010 270  NP1     James                    Z1m 
 0000010 271  )       &rsqb;                   
-0000010 280  NN2@    Comeys                   Z99 
+0000010 280  NP1     Comey                    Z99 
+0000010 281  GE      's                       Z5 
 0000010 290  JJ      last-minute              T4- 
 0000010 300  NN1     announcement             Q2.2 
 0000010 310  CST     that                     Z8 Z5 
@@ -208,7 +216,8 @@
 0000010 350  APPGE   his                      Z8m 
 0000010 360  NN1     investigation            X2.4 B3 
 0000010 370  IO      of                       Z5 
-0000010 380  NP2     Hillarys                 Z99 
+0000010 380  NP1     Hillary                  Z99 
+0000010 381  GE      's                       Z5 
 0000010 390  NN2     emails                   Q1.3/Y2 
 0000010 400  VBDZ    was                      Z5 A3+ 
 0000010 410  VVN     planned                  X7+ 
@@ -220,7 +229,8 @@
 0000010 470  NN2     enemies                  S1.2.1-/S2mfc 
 0000010 471  .       .                        
 0000010 472  -----   -----                    
-0000010 480  NN2     Shes                     Z8f 
+0000010 480  PPHS1   She                      Z8f 
+0000010 481  VBZ     's                       A3+ Z5 
 0000010 490  RR      also                     N5++ 
 0000010 500  JJ      convinced                A7+ 
 0000010 510  CST     that                     Z5 Z8 
@@ -286,7 +296,7 @@
 0000012 351  ,       ,                        
 0000012 360  CC      and                      Z5 
 0000012 370  PPHS1   he                       Z8m 
-0000012 371  VBZ     s                        Z5 
+0000012 371  VBZ     's                       Z5 A3+ 
 0000012 380  VVGK    going                    T1.1.3[i18.2.1 
 0000012 390  TO      to                       T1.1.3[i18.2.2 Z5 
 0000012 400  VVI     screw                    X9.2-[i19.2.1 A1.1.2[i19.2.1 E1[i19.2.1 A1.1.1 S3.2/B1 G2.2- X9.2- E6+ 
@@ -303,7 +313,8 @@
 0000014 010  PPHS1   She                      Z8f 
 0000014 020  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
 0000014 030  NN1     meand                    Z99 
-0000014 040  NN1     Im                       Z99 
+0000014 040  PPIS1   I                        Z8mf 
+0000014 041  VBM     'm                       Z5 A3+ 
 0000014 050  VVG     paraphrasing             Q3 
 0000014 051  :       :                        
 0000014 060  NN1     Trump                    Z1mf 
@@ -311,7 +322,8 @@
 0000014 080  AT      no                       X2.2-[i21.3.2 X9.1-[i21.3.2 Z6 
 0000014 090  NN1     idea                     X2.2-[i21.3.3 X9.1-[i21.3.3 X4.1 X7+ 
 0000014 100  DDQ     what                     Z8 Z5 
-0000014 110  APPGE   its                      Z8 
+0000014 110  PPH1    it                       Z8 
+0000014 111  VBZ     's                       A3+ Z5 
 0000014 120  JJ@     like                     Z5 A6.1+ Z4 E2+ 
 0000014 130  TO      to                       Z5 
 0000014 140  VVI     run                      M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4 
@@ -363,6 +375,7 @@
 0000014 540  PPY     you                      Z8mf 
 0000014 550  VV0     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
 0000014 551  .       .                        
+0000014 552  "@      '                        
 0000015 001  -----   -----                    
 0000016 010  II21    According                Z5[i26.2.1 Z5 
 0000016 020  II22    to                       Z5[i26.2.2 Z5 
@@ -427,7 +440,7 @@
 0000018 171  .       .                        
 0000018 172  -----   -----                    
 0000018 180  PPHS1   He                       Z8m 
-0000018 181  VBZ     s                        T1.3 I1.1 Z5 
+0000018 181  VBZ     's                       A3+ Z5 
 0000018 190  JJ      sure                     A7+ Z4 
 0000018 200  AT      the                      Z5 
 0000018 210  NN1     party                    K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c 

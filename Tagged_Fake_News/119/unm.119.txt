@@ -5,7 +5,7 @@ debunk                   VVI     Z99
 fact-check               JJ      Z99 
 fact-checker             JJ      Z99 
 fact-checker             NN1     Z99 
-Fact-Checker             NP1     Z99 
+Fact-Checker'            NN1     Z99 
 fact-checkers            NN2     Z99 
 Fact-Checking            JJ      Z99 
 flailing                 JJ      Z99 
@@ -18,4 +18,3 @@ Snopes                   NP1     Z99
 Snopes                   VVZ     Z99 
 TheDC                    NN1     Z99 
 TheDC                    NP1     Z99 
-TheDCs                   NP2     Z99 

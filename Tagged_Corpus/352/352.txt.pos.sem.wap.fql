@@ -1,4 +1,4 @@
-TOTAL              868
+TOTAL              875
 the                  AT             52 
 a                    AT1            24 
 and                  CC             18 
@@ -12,16 +12,16 @@ will                 VM             12
 this                 DD1            12 
 for                  IF             12 
 with                 IW             12 
+it                   PPH1           11 
 in                   II             11 
 arcade               NN1             9 
 have                 VH0             8 
-it                   PPH1            8 
 players              NN2             8 
+i                    PPIS1           7 
 or                   CC              7 
 they                 PPHS2           7 
 on                   II              6 
 be                   VBI             6 
-i                    PPIS1           6 
 we                   PPIS2           5 
 you                  PPY             5 
 but                  CCB             5 
@@ -36,8 +36,10 @@ some                 DD              4
 that                 DD1             4 
 can                  VM              4 
 also                 RR              4 
+Sega                 NP1             3 
+was                  VBDZ            3 
 show                 NN1             3 
-its                  APPGE           3 
+'s                   VBZ             3 
 small                JJ              3 
 there                EX              3 
 now                  RT              3 
@@ -55,11 +57,9 @@ many                 DA2             2
 justice              NN1             2 
 league               NN1             2 
 heroes               NN2             2 
-Sega                 NP1             2 
 so                   RR              2 
 year                 NNT1            2 
 at                   II              2 
-was                  VBDZ            2 
 here                 RL              2 
 anniversary          NN1             2 
 firefly              NN1             2 
@@ -80,7 +80,9 @@ out_of               II21            2
 hearkens_back        VVZ             2 
 run                  NN1             2 
 has                  VHZ             2 
+n't                  XX              2 
 seen                 VVN             2 
+'s                   GE              2 
 no                   AT              2 
 if                   CS              2 
 led                  NN1             2 
@@ -111,7 +113,7 @@ racing               VVG             1
 terminator           NN1             1 
 salvation            NN1             1 
 others               NN2             1 
-im                   VV0             1 
+'m                   VBM             1 
 glad                 JJ              1 
 once_again           RR21            1 
 present              JJ              1 
@@ -209,16 +211,14 @@ itself               PPX1            1
 surprise             NN1             1 
 step                 NN1             1 
 style                NN1             1 
-nt                   XX              1 
 3rd                  MD              1 
 person               NN1             1 
 behind-the-back      NN1             1 
 early_90s            JJ              1 
 such_as              II21            1 
-Konamis              NP1             1 
+Konami               NP1             1 
 g.i                  NN1             1 
 Joe                  NP1             1 
-Segas                NP2             1 
 Rambo_iii            NP1             1 
 shiny                JJ              1 
 modernized           VVD             1 
@@ -282,7 +282,6 @@ much                 DA1             1
 voice                NN1             1 
 acting               VVG             1 
 provided             VVN             1 
-wasnt                NN1             1 
 mentioned            VVN             1 
 fitting              JJ              1 
 touch                NN1             1 

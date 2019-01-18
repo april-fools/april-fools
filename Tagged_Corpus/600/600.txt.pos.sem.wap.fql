@@ -1,25 +1,24 @@
-TOTAL              468
+TOTAL              472
 the                  AT             29 
 and                  CC             19 
+we                   PPIS2          11 
 common               JJ             11 
 our                  APPGE          11 
-we                   PPIS2          10 
 good                 JJ             10 
 do                   VD0             9 
 of                   IO              8 
 to                   II              8 
 is                   VBZ             6 
+it                   PPH1            6 
 how                  RRQ             6 
 that                 CST             5 
 but                  CCB             5 
-it                   PPH1            5 
 a                    AT1             5 
 in                   II              5 
 with                 IW              5 
-its                  APPGE           4 
 has                  VHZ             4 
 are                  VBR             4 
-nt                   XX              4 
+n't                  XX              4 
 to                   TO              4 
 an                   AT1             3 
 have                 VH0             3 
@@ -28,6 +27,7 @@ should               VM              3
 find                 VVI             3 
 for                  IF              3 
 what                 DDQ             3 
+its                  APPGE           3 
 us                   PPIO2           3 
 politics             NN1             3 
 political            JJ              3 
@@ -47,9 +47,9 @@ their                APPGE           2
 this                 DD1             2 
 most                 RGT             2 
 make                 VVI             2 
-neighbors            NN2             2 
 all                  DB              2 
 say                  VV0             2 
+'s                   GE              2 
 people               NN              2 
 faith                NN1             2 
 says                 VVZ             2 
@@ -62,11 +62,13 @@ also                 RR              2
 those                DD2             2 
 communal             JJ              2 
 will                 VM              2 
+nation               NN1             2 
 there                EX              1 
 ancient              JJ              1 
 idea                 NN1             1 
 again                RT              1 
-called               JJ              1 
+'s                   VBZ             1 
+called               VVN             1 
 simply               RR              1 
 goes_back            VVZ             1 
 many                 DA2             1 
@@ -120,9 +122,11 @@ Christ               NP1             1
 as                   CSA             1 
 caring               VVG             1 
 his                  APPGE           1 
+neighbors            NN2             1 
 of_course            RR21            1 
 traditions           NN2             1 
 indeed               RR              1 
+neighbor             NN1             1 
 keeper               NN1             1 
 every                AT1             1 
 often                RR              1 
@@ -153,8 +157,8 @@ right                RR              1
 left                 JJ              1 
 go                   VV0             1 
 deeper               RRR             1 
-weve                 VV0             1 
-lost_touch           JJ              1 
+'ve                  VH0             1 
+lost_touch           VVN             1 
 compass              NN1             1 
 Washington_D.C.      NP1             1 
 where                CS              1 
@@ -231,7 +235,6 @@ movements            NN2             1
 really               RR              1 
 change               VVI             1 
 in_the_long_run      II              1 
-nation               NN1             1 
 soon                 RR              1 
 be                   VBI             1 
 deciding             VVG             1 
@@ -246,7 +249,6 @@ path                 NN1             1
 fiscal               JJ              1 
 sustainability       NN1             1 
 reflects             VVZ             1 
-nations              NN2             1 
 soul                 NN1             1 
 only                 RR              1 
 inspiring            VVG             1 

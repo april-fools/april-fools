@@ -1,4 +1,4 @@
-TOTAL              801
+TOTAL              813
 the                  AT             54 
 of                   IO             25 
 and                  CC             23 
@@ -6,31 +6,32 @@ a                    AT1            15
 is                   VBZ            13 
 this                 DD1            13 
 atmosphere           NN1            11 
+earth                NN1            10 
 co                   FO             10 
 2                    MC             10 
 carbon               NN1            10 
+that                 CST             8 
 to                   TO              8 
+'s                   GE              8 
 we                   PPIS2           8 
 mineral              NN1             8 
 in                   II              7 
 on                   II              7 
-that                 CST             7 
 from                 II              7 
 Mars                 NP1             6 
 into                 II              6 
+have                 VH0             6 
 how                  RRQ             6 
 process              NN1             6 
 can                  VM              6 
-earths               NN2             5 
 water                NN1             5 
 at                   II              5 
+planet               NN1             5 
 been                 VBN             5 
 by                   II              5 
 with                 IW              5 
 gas                  NN1             5 
 climate              NN1             5 
-have                 VH0             5 
-earth                NN1             5 
 fluid                NN1             5 
 rocks                NN2             5 
 be                   VBI             5 
@@ -45,7 +46,6 @@ will                 VM              4
 surface              NN1             3 
 martian              JJ              3 
 has                  VHZ             3 
-planets              NN2             3 
 which                DDQ             3 
 but                  CCB             3 
 an                   AT1             3 
@@ -61,6 +61,7 @@ may                  VM              3
 point                NN1             2 
 history              NN1             2 
 yet                  RR              2 
+'s                   VBZ             2 
 around               II              2 
 making_it            VVG             2 
 some                 DD              2 
@@ -107,7 +108,6 @@ global               JJ              2
 across               II              2 
 understanding        VVG             2 
 loss                 NN1             2 
-planet               NN1             2 
 better               RRR             2 
 carbonates           NN2             2 
 found                VVN             2 
@@ -125,7 +125,6 @@ planetary            JJ              1
 oceans               NN2             1 
 current              JJ              1 
 density              NN1             1 
-thats                VVZ             1 
 0.6%                 FO              1 
 far_too              RR              1 
 thin                 JJ              1 
@@ -345,8 +344,8 @@ how                  RGQ             1
 mineralise           VVI             1 
 space                NN1             1 
 take_up              VVI             1 
-NASA/JPL-Caltech/MSSS_Marss NP1             1 
-gain                 VV0             1 
+NASA/JPL-Caltech/MSSS_Mars NP1             1 
+gain                 NN1             1 
 learn                VVI             1 
 near-endless         JJ              1 
 ways                 NN2             1 
@@ -376,7 +375,7 @@ about                II              1
 carbon-based         JJ              1 
 think                VV0             1 
 exist                VV0             1 
-havent               VV0             1 
+n't                  XX              1 
 there                RL              1 
 surprisingly         RR              1 
 little               JJ              1 
@@ -392,6 +391,7 @@ control              VVI             1
 our                  APPGE           1 
 problems             NN2             1 
 rocky                JJ              1 
+'                    GE              1 
 eventually           RR              1 
 become               VVI             1 
 saviour              NN1             1 

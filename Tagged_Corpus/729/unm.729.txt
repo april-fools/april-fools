@@ -12,9 +12,6 @@ poundsor                 NN1     Z99
 pretzels                 NN2     Z99 
 serviceand               VV0     Z99 
 superfoods               NN2     Z99 
-Theyre                   NP1@    Z99 
-theyve                   NN1     Z99 
 ThreatTrack              NN1     Z99 
 thrillseekers            NN2     Z99 
 vapor                    NN1     Z99 
-wasnt                    VV0     Z99 

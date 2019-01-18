@@ -67,6 +67,7 @@ voice                NN1             2
 pulitzer             NN1             2 
 first                MD              2 
 did                  VDD             2 
+n't                  XX              2 
 when                 RRQ             2 
 power                NN1             2 
 New_York_Daily       NP1             2 
@@ -148,7 +149,6 @@ commentator          NN1             1
 given                VVN             1 
 Hollywood_walk       NP1             1 
 fame                 NN1             1 
-nt                   XX              1 
 like                 VVI             1 
 honest               JJ              1 
 effusive             JJ              1 
@@ -164,7 +164,6 @@ statement            NN1             1
 April_5              NPM1            1 
 2013                 MC              1 
 wo                   VM              1 
-n't                  XX              1 
 same                 DA              1 
 without              IW              1 
 Robert_Redford       NP1             1 

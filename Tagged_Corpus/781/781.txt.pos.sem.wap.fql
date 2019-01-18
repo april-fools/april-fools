@@ -1,29 +1,30 @@
-TOTAL              656
+TOTAL              669
 the                  AT             26 
 of                   IO             22 
 is                   VBZ            21 
+technology           NN1            16 
 roe                  NN             16 
 equity               NN1            14 
 Seagate              NP1            12 
-technology           NN1            11 
 its                  APPGE          11 
 a                    AT1            11 
 be                   VBI            10 
 by                   II             10 
+'s                   GE              9 
 can                  VM              9 
 and                  CC              8 
+profit               NN1             8 
 which                DDQ             8 
 this                 DD1             7 
 debt                 NN1             7 
 it                   PPH1            7 
-profit               NN1             7 
 on                   II              6 
+company              NN1             6 
 financial            JJ              6 
 capital              NN1             6 
 leverage             NN1             5 
 our                  APPGE           5 
 for                  IF              5 
-technologys          NN2             5 
 how                  RGQ             5 
 to                   TO              5 
 cost                 NN1             5 
@@ -38,10 +39,9 @@ in                   II              4
 net                  JJ              4 
 into                 II              4 
 with                 IW              4 
-companys             NN2             3 
 has                  VHZ             3 
 at                   II              3 
-company              NN1             3 
+'                    GE              3 
 may                  VM              3 
 but                  CCB             3 
 levels               NN2             3 
@@ -50,6 +50,7 @@ today                RT              3
 margin               NN1             3 
 turnover             NN1             3 
 assets               NN2             3 
+returns              NN2             3 
 seagate              VV0             2 
 hardware             NN1             2 
 storage              NN1             2 
@@ -71,7 +72,7 @@ stock                NN1             2
 different            JJ              2 
 could                VM              2 
 against              II              2 
-lets                 VVZ             2 
+let_'s               VM21            2 
 not                  XX              2 
 look_at              VVI             2 
 than                 CSN             2 
@@ -90,7 +91,6 @@ structure            NN1             2
 we                   PPIS2           2 
 inflated             VVN             2 
 means                VVZ             2 
-returns              NN2             2 
 over                 II              2 
 ratio                NN1             2 
 currently            RR              2 
@@ -116,7 +116,7 @@ average              NN1             1
 over_the_past_12_months II              1 
 though               CS              1 
 impressiveness       NN1             1 
-STXs                 NP1             1 
+STX                  NP1             1 
 contingent_on        JJ              1 
 industry-beating     JJ              1 
 level                NN1             1 
@@ -134,7 +134,6 @@ check_out            VV0             1
 latest               JJT             1 
 breaking_down        VVG             1 
 measure              NN1             1 
-profit               VV0             1 
 essentially          RR              1 
 generate             VVI             1 
 amount               NN1             1 
@@ -244,7 +243,6 @@ use                  NN1             1
 funding              NN1             1 
 raising              VVG             1 
 questions            NN2             1 
-returns              VVZ             1 
 helpful              JJ              1 
 signal               NN1             1 
 definitely           RR              1 
@@ -253,8 +251,9 @@ make                 VVI             1
 an                   AT1             1 
 investment           NN1             1 
 decision             NN1             1 
-Ive                  NP1             1 
-compiled             VVD             1 
+i                    PPIS1           1 
+'ve                  VH0             1 
+compiled             VVN             1 
 pertinent            JJ              1 
 should               VM              1 
 1                    MC1             1 

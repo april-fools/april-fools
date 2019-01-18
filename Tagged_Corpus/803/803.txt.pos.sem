@@ -48,7 +48,8 @@
 0000004 230  NN1     engine                   O2 Y2@ 
 0000004 240  IO      of                       Z5 
 0000004 250  AT      the                      Z5 
-0000004 260  NN2     teams                    S5+ K5.1/S5+ 
+0000004 260  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000004 261  GE      's                       Z5 
 0000004 270  NN1     car                      M3fn 
 0000004 280  II      during                   Z5 
 0000004 290  AT      the                      Z5 
@@ -198,7 +199,8 @@
 0000006 700  VVI     understand               X2.5+ 
 0000006 710  RRQ     how                      Z5 A13.3 
 0000006 720  AT      the                      Z5 
-0000006 730  NN2     cars                     M3fn 
+0000006 730  NN1     car                      M3fn 
+0000006 731  GE      's                       Z5 
 0000006 740  NN1     setup                    X4.2 
 0000006 750  VM      will                     T1.1.3 
 0000006 760  VVI     affect                   A2.1+ A5.4-/A8 
@@ -277,7 +279,8 @@
 0000006 420  RR22    once                     N3.8+[i15.2.2 T1.1.2[i15.2.2 N6- T1.1.1 
 0000006 430  VVG     increasing               N5+/A2.1 
 0000006 440  AT      the                      Z5 
-0000006 450  NN2     teams                    S5+ K5.1/S5+ 
+0000006 450  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000006 451  GE      's                       Z5 
 0000006 460  NNU     efficiency.After         Z99 
 0000006 470  NNU2    miles                    N3.3 N3.3+ N3.7 N5+ A13.2 
 0000006 480  IO      of                       Z5 
@@ -379,7 +382,8 @@
 0000006 380  VVI     analyze                  X2.4 
 0000006 390  AT      the                      Z5 
 0000006 400  NN1     information              X2.2+ 
-0000006 410  NN1     theyre                   Z99 
+0000006 410  PPHS2   they                     Z8mfn 
+0000006 411  VBR     're                      Z5 A3+ 
 0000006 420  VVG     receiving                A9+ S5+ 
 0000006 430  II      from                     Z5 
 0000006 440  NN2     sensors                  O3 

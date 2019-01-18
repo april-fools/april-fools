@@ -1,12 +1,12 @@
-TOTAL              792
+TOTAL              794
 the                  AT             55 
 Facebook             NP1            24 
 is                   VBZ            23 
 and                  CC             23 
 to                   TO             20 
 of                   IO             19 
+facebook             NN1            18 
 a                    AT1            18 
-facebook             NN1            17 
 to                   II             16 
 users                NN2            14 
 documents            NN2            11 
@@ -16,7 +16,7 @@ on                   II              8
 for                  IF              8 
 will                 VM              8 
 this                 DD1             8 
-'s                   GE              7 
+'s                   GE              8 
 has                  VHZ             7 
 in                   II              7 
 user                 NN1             7 
@@ -66,6 +66,7 @@ within               II              2
 statement            NN1             2 
 all                  DB              2 
 trouble              NN1             2 
+Mashable             NP1             2 
 our                  APPGE           2 
 at                   II              2 
 good                 JJ              2 
@@ -132,12 +133,10 @@ would                VM              1
 go                   VVI             1 
 post                 NN1             1 
 part                 NN1             1 
-Mashables_Facebook   NP1             1 
 week                 NNT1            1 
 discuss              VVI             1 
 join                 VV0             1 
 authors              NN2             1 
-Mashable             NP1             1 
 facebook_page        NN1             1 
 my                   APPGE           1 
 photos               NN2             1 

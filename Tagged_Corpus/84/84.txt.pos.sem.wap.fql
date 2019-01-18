@@ -1,4 +1,4 @@
-TOTAL              316
+TOTAL              320
 the                  AT             20 
 of                   IO             10 
 will                 VM              9 
@@ -7,9 +7,9 @@ and                  CC              7
 to                   II              6 
 series               NN              6 
 he                   PPHS1           6 
+we                   PPIS2           5 
 in                   II              5 
 to                   TO              5 
-we                   PPIS2           4 
 Superman             NP1             3 
 Siegel_estate        NP1             3 
 first                MD              3 
@@ -24,7 +24,7 @@ DC                   NP1             3
 can                  VM              2 
 has                  VHZ             2 
 announced            VVN             2 
-its                  APPGE           2 
+'s                   VBZ             2 
 with                 IW              2 
 starting             VVG             2 
 in_time              II              2 
@@ -33,6 +33,7 @@ stories              NN2             2
 comics               NN2             2 
 here                 RL              2 
 a                    AT1             2 
+n't                  XX              2 
 is                   VBZ             2 
 how                  RRQ             2 
 an                   AT1             2 
@@ -62,9 +63,10 @@ Jerry_Siegel         NP1             1
 their                APPGE           1 
 deal                 NN1             1 
 publish              VVI             1 
-were                 VBDR            1 
+'re                  VBR             1 
 proud                JJ              1 
 say                  VVI             1 
+it                   PPH1            1 
 us                   PPIO2           1 
 San_Diego_Comic-Con  NP1             1 
 publishing           VVG             1 
@@ -80,11 +82,9 @@ making               VVG             1
 time                 NNT1            1 
 25                   MC              1 
 years                NNT2            1 
-nt                   XX              1 
 written              VVN             1 
 himself              PPX1            1 
 as_soon_as           CS31            1 
-s                    VBZ             1 
 done                 VDN             1 
 current              JJ              1 
 commitment           NN1             1 
@@ -110,8 +110,7 @@ interdimensional     JJ              1
 portal               NN1             1 
 ended_up             VVD             1 
 Cynosure             NP1             1 
-Mundens              NP2             1 
-bar                  NN1             1 
+Munden_'s_bar        NP1             1 
 where                CS              1 
 usual                JJ              1 
 confusion            NN1             1 
@@ -151,7 +150,8 @@ black_ice            JJ              1
 even                 RR              1 
 work                 VVI             1 
 him                  PPHO1           1 
-Trevor_Von_Eedens    NP1             1 
+Trevor_Von_Eeden     NP1             1 
+'s                   GE              1 
 upcoming             JJ              1 
 biography            NN1             1 
 Jack_Johnson         NP1             1 
@@ -162,8 +162,9 @@ New_York             NP1             1
 comic                JJ              1 
 con                  NN1             1 
 although             CS              1 
-youll                NN1             1 
-hear_about           VV0             1 
+you                  PPY             1 
+'ll                  VM              1 
+hear_about           VVI             1 
 if                   CSW             1 
 on                   II              1 
 these                DD2             1 
@@ -177,8 +178,8 @@ about                II              1
 well                 RR              1 
 they                 PPHS2           1 
 really               RR              1 
-cant                 JJ              1 
-do                   VD0             1 
+ca                   VM              1 
+do                   VDI             1 
 anything             PN1             1 
 as_long_as           CS31            1 
 pays                 VVZ             1 
@@ -194,6 +195,7 @@ splitting            VVG             1
 revenues             NN2             1 
 making_sure          VVG             1 
 gets                 VVZ             1 
+its                  APPGE           1 
 share                NN1             1 
 turnabout            NN1             1 
 play                 NN1             1 

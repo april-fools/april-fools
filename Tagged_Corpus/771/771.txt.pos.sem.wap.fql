@@ -1,4 +1,4 @@
-TOTAL              239
+TOTAL              241
 the                  AT             18 
 of                   IO              9 
 new                  JJ              9 
@@ -11,12 +11,13 @@ builder              NN1             6
 be                   VBI             5 
 is                   VBZ             4 
 with                 IW              4 
+we                   PPIS2           4 
 to                   II              4 
 hit                  VV0             3 
 will                 VM              3 
 a                    AT1             3 
+hit                  NN1             3 
 mainframe            NN1             3 
-we                   PPIS2           3 
 are                  VBR             3 
 an                   AT1             3 
 produce              VVI             2 
@@ -30,6 +31,7 @@ in                   II              2
 late                 JJ              2 
 2015                 MC              2 
 cg-animated          JJ              2 
+'s                   GE              2 
 episodes             NN2             2 
 bringing             VVG             2 
 all                  DB              2 
@@ -37,7 +39,6 @@ viewers              NN2             2
 executive            NN1             2 
 producer             NN1             2 
 at                   II              2 
-hit                  NN1             2 
 on                   II              2 
 working              VVG             2 
 for                  IF              2 
@@ -48,7 +49,6 @@ pre-production       JJ              1
 being                VBG             1 
 produced             VVN             1 
 out_of               II21            1 
-hits                 NN2             1 
 UK                   NP1             1 
 headquarters         NN              1 
 animation            NN1             1 
@@ -74,7 +74,7 @@ strong               JJ              1
 foundations          NN2             1 
 creative             JJ              1 
 direction            NN1             1 
-were                 VBDR            1 
+'re                  VBR             1 
 on                   RP              1 
 committed            VVN             1 
 ensuring             VVG             1 
@@ -82,7 +82,6 @@ future               NN1             1
 remains              VVZ             1 
 bright               JJ              1 
 tv                   NN1             1 
-'s                   GE              1 
 favourite            JJ              1 
 can                  VM              1 
 look_forward         VVI             1 

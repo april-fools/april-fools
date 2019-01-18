@@ -1,16 +1,13 @@
 'could                   VV0     Z99 
 Abedin                   NP1     Z99 
-Abedins                  NP1     Z99 
 already-completed        JJ      Z99 
 Comey                    NN1     Z99 
 Comey                    NP1     Z99 
-Comeys                   NP1@    Z99 
-couldnt                  VV0     Z99 
+Comey                    NP1@    Z99 
 cudgel                   NN1     Z99 
 D-Nev.                   NP1     Z99 
 drumbeat                 NN1     Z99 
 FBI                      NP1     Z99 
-FBIs                     NP2     Z99 
 FiveThirtyEight          NP1     Z99 
 Hillary                  NP1     Z99 
 his/her                  APPGE   Z99 

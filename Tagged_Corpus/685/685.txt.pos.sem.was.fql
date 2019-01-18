@@ -1,37 +1,38 @@
-TOTAL              801
+TOTAL              813
 the                  Z5                  54 
 of                   Z5                  25 
 and                  Z5                  23 
 a                    Z5                  15 
 to                   Z5                  12 
 atmosphere           W3                  11 
+earth                W3                  10 
 co                   I2.1                10 
 2                    N1                  10 
 this                 M6                  10 
 carbon               O1.1                10 
+'s                   Z5                   8 
 we                   Z8                   8 
 mineral              O1                   8 
 is                   A3+                  7 
 in                   Z5                   7 
 on                   Z5                   7 
+have                 Z5                   7 
 from                 Z5                   7 
 how                  Z5                   7 
 Mars                 Z3                   6 
-have                 Z5                   6 
+that                 Z8                   6 
 is                   Z5                   6 
 into                 Z5                   6 
 process              A1.1.1               6 
 can                  A7+                  6 
-earths               W3                   5 
 water                O1.2                 5 
 at                   Z5                   5 
+planet               W1                   5 
 by                   Z5                   5 
 with                 Z5                   5 
 gas                  O1.3                 5 
 climate              W4                   5 
 change               A2.1+                5 
-that                 Z8                   5 
-earth                W3                   5 
 fluid                O1.2                 5 
 rocks                O2                   5 
 us                   Z8                   4 
@@ -45,7 +46,6 @@ will                 T1.1.3               4
 surface              M6                   3 
 martian              W1                   3 
 liquid               O1.2                 3 
-planets              W1                   3 
 there                Z5                   3 
 which                Z8                   3 
 as                   Z5                   3 
@@ -67,6 +67,7 @@ point                Q2.1                 2
 history              T1.1.1               2 
 yet                  T1.1.2               2 
 has                  A9+                  2 
+'s                   A3+                  2 
 around               Z5                   2 
 making_it            X9.2+                2 
 some                 N5                   2 
@@ -111,7 +112,6 @@ global               W3                   2
 across               Z5                   2 
 understanding        X2.5+                2 
 loss                 I1.2                 2 
-planet               W1                   2 
 better               A5.1++               2 
 carbonates           O4.5                 2 
 found                A10+                 2 
@@ -129,7 +129,6 @@ planetary            Z99                  1
 oceans               W3                   1 
 current              T1.1.2               1 
 density              N5                   1 
-thats                Z5                   1 
 0.6%                 Z99                  1 
 far_too              N5.2+                1 
 thin                 N3.7-                1 
@@ -343,7 +342,7 @@ estimating           X6                   1
 mineralise           O1                   1 
 space                N3.6                 1 
 take_up              A9+                  1 
-NASA/JPL-Caltech/MSSS_Marss Z1                   1 
+NASA/JPL-Caltech/MSSS_Mars Z1                   1 
 gain                 A9+                  1 
 learn                X2.3+                1 
 near-endless         Z99                  1 
@@ -373,7 +372,7 @@ about                Z5                   1
 carbon-based         Z99                  1 
 think                X2.1                 1 
 exist                A3+                  1 
-havent               Z99                  1 
+n't                  Z6                   1 
 surprisingly         X2.6-                1 
 little               N3.2-                1 
 communication        Q2.1                 1 
@@ -388,5 +387,6 @@ control              S7.1+                1
 our                  Z8                   1 
 problems             A12-                 1 
 rocky                W3                   1 
+'                    Z5                   1 
 eventually           N4                   1 
 saviour              S8+                  1 

@@ -1,15 +1,16 @@
-TOTAL              265
+TOTAL              272
 the                  AT             16 
-it                   PPH1            8 
-that                 CST             6 
-apple                NN1             6 
+it                   PPH1            9 
+that                 CST             8 
+apple                NN1             7 
+is                   VBZ             6 
 and                  CC              6 
-is                   VBZ             5 
+music                NN1             5 
 a                    AT1             5 
 to                   TO              5 
 or                   CC              5 
+'s                   VBZ             5 
 of                   IO              4 
-music                NN1             4 
 patent               NN1             4 
 technology           NN1             4 
 be                   VBI             4 
@@ -29,12 +30,12 @@ able                 JK              2
 words                NN2             2 
 would                VM              2 
 phrases              NN2             2 
-theres               NN2             2 
+there                EX              2 
 streaming            VVG             2 
 not                  XX              2 
 used                 VVN             2 
-apples               NN2             1 
-beats                VVZ             1 
+'s                   GE              1 
+beats                NN2             1 
 1                    MC1             1 
 already              RR              1 
 plays                VVZ             1 
@@ -105,7 +106,7 @@ via                  II              1
 itunes               NN2             1 
 other                JJ              1 
 methods              NN2             1 
-isnt                 NN1             1 
+n't                  XX              1 
 limited              VVN             1 
 mentions             VVZ             1 
 books                NN2             1 
@@ -118,9 +119,8 @@ from                 II              1
 literature           NN1             1 
 as_well              RR21            1 
 of_course            RR21            1 
-no                   RR              1 
-guarantee            VV0             1 
-that                 DD1             1 
+no                   AT              1 
+guarantee            NN1             1 
 will                 VM              1 
 ever                 RR              1 
 actually             RR              1 
@@ -132,9 +132,8 @@ file                 VV0             1
 patents              NN2             1 
 all_the_time         DB              1 
 tech                 NN1             1 
-thats                VVZ             1 
 never                RR              1 
-meant                VVN             1 
+meant                VVNK            1 
 in_order_to          BCL21           1 
 prevent              VVI             1 
 someone              PN1             1 
@@ -150,9 +149,7 @@ choose               VVI             1
 implement            VVI             1 
 auto-censorship      NN1             1 
 system               NN1             1 
-musics               NN2             1 
 options              NN2             1 
-its                  APPGE           1 
 always               RR              1 
 possible             JJ              1 
 as                   II              1 

@@ -1,5 +1,4 @@
 appellate                JJ      Z99 
-Barack                   NP1     Z99 
 clove-flavored           JJ      Z99 
 FDA                      NN1     Z99 
 GENEVA/WASHINGTON        NP1     Z99 
@@ -13,10 +12,9 @@ McMinimy                 NP1     Z99
 Myers                    NP1     Z99 
 Nkenge                   VV0     Z99 
 Obama                    NP1     Z99 
-Obamas                   NN2@    Z99 
 retaliatory              JJ      Z99 
 Reynolds                 NP1     Z99 
 Tobacco-Free             JJ      Z99 
 Vector                   NN1     Z99 
 WTO                      NN1     Z99 
-WTOs                     NP2     Z99 
+WTO                      NP1     Z99 

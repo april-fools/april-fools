@@ -1,4 +1,4 @@
-TOTAL              289
+TOTAL              292
 the                  AT             21 
 to                   TO             11 
 of                   IO              9 
@@ -10,6 +10,7 @@ limits               NN2             4
 and                  CC              4 
 he                   PPHS1           3 
 amendment            NN1             3 
+Obama                NP1             3 
 decision             NN1             3 
 on                   II              3 
 WASHINGTON           NP1             2 
@@ -21,8 +22,8 @@ order                NN1             2
 suspend              VVI             2 
 22nd                 MD              2 
 political            JJ              2 
+'s                   GE              2 
 national             JJ              2 
-Obama                NP1             2 
 temporarily          RR              2 
 not                  XX              2 
 country              NN1             2 
@@ -59,12 +60,13 @@ action               NN1             1
 conference           NN1             1 
 held                 VVN             1 
 at                   II              1 
-Marylands            NP2             1 
+Maryland             NP1             1 
 harbor               NN1             1 
 announced            VVD             1 
 end                  VVI             1 
 saying               VVG             1 
-im                   VV0             1 
+i                    PPIS1           1 
+'m                   VBM             1 
 seeing               VVG             1 
 any                  DD              1 
 potential            JJ              1 
@@ -183,7 +185,6 @@ all                  DB              1
 three                MC              1 
 congressmen          NN2             1 
 support              VV0             1 
-obamas               NN2             1 
 take_on              VVI             1 
 another              DD1             1 
 which                DDQ             1 

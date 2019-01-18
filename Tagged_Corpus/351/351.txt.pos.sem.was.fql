@@ -1,4 +1,4 @@
-TOTAL              542
+TOTAL              545
 the                  Z5                  44 
 of                   Z5                  21 
 in                   Z5                  14 
@@ -29,6 +29,7 @@ an                   Z5                   3
 word                 Q3                   3 
 has                  Z5                   3 
 for                  Z5                   3 
+n't                  Z6                   2 
 today                T1.1.2               2 
 33                   N1                   2 
 rather               Z4                   2 
@@ -44,6 +45,8 @@ resolution           X6+                  2
 from                 Z5                   2 
 2007                 N1                   2 
 russian_federation   Z2                   2 
+ministry             G1.1                 2 
+'s                   Z5                   2 
 spokesperson         Q2.2                 2 
 decision             X6+                  2 
 one                  N1                   2 
@@ -68,6 +71,7 @@ official             G1.1                 2
 documents            Q1.2                 2 
 most                 N5+++                2 
 expected             X2.6+                2 
+there                Z5                   2 
 all                  N5.1+                2 
 song                 K2                   2 
 already              T1.1.1               2 
@@ -77,10 +81,9 @@ list                 Q1.2                 2
 rules                G2.1                 2 
 two                  N1                   2 
 always               N6+++                2 
-lets                 S7.4+                2 
+let_'s               Z5                   2 
 i                    Z8                   1 
 do                   A1.1.1               1 
-nt                   S9                   1 
 post                 Q1.2                 1 
 blog                 Z99                  1 
 weekends             T1.3                 1 
@@ -111,7 +114,6 @@ science              Y1                   1
 decided              X6+                  1 
 eliminate            A9-                  1 
 according_to         Z5                   1 
-ministrys            G1.1                 1 
 was                  A3+                  1 
 difficult            A12-                 1 
 hand                 B1                   1 
@@ -138,7 +140,6 @@ infrequently         N6-                  1
 statistically        N2                   1 
 average              A6.2+                1 
 text                 Q1.2                 1 
-s                    Z5                   1 
 less                 N5--                 1 
 than                 Z5                   1 
 0.5%                 Z99                  1 
@@ -188,7 +189,6 @@ public               S5+                  1
 media                Q4                   1 
 customarily          A6.2+                1 
 replace              A2.1+                1 
-ministry             G1.1                 1 
 emphasizes           A11.1+               1 
 although             Z5                   1 
 being                Z5                   1 
@@ -205,7 +205,6 @@ practical            A1.6                 1
 implications         A2.2                 1 
 are                  Z5                   1 
 minor                A11.1-               1 
-there                Z5                   1 
 initial              T2+                  1 
 expense              I1.3                 1 
 confusion            X2.5-                1 
@@ -280,12 +279,12 @@ stressed             Q2.2                 1
 of_course            Z4                   1 
 history              T1.1.1               1 
 shown                A10+                 1 
-theres               Z5                   1 
+'s                   A3+                  1 
 possibility          A7+                  1 
 another              A6.1-                1 
 dramatic             K4                   1 
 hope                 X2.6+                1 
-wont                 A6.2+                1 
+wo                   T1.1.3               1 
 kind                 A4.1                 1 
 resurrects           T2+                  1 
 tribute              S7.2+                1 

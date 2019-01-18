@@ -1,4 +1,4 @@
-TOTAL              640
+TOTAL              643
 the                  Z5                  31 
 in                   Z5                  30 
 of                   Z5                  25 
@@ -8,16 +8,17 @@ and                  Z5                  14
 for                  Z5                   8 
 who                  Z8                   6 
 offshore             M6                   6 
+Mossack_Fonseca      Z1                   6 
 was                  Z5                   6 
 an                   Z5                   5 
 tax                  I1.1                 5 
 is                   A3+                  5 
-Mossack_Fonseca      Z1                   5 
 leak                 A1.7-                4 
 americans            Z2                   4 
 US                   Z8                   4 
 with                 Z5                   4 
 he                   Z8                   4 
+McClatchy            Z99                  4 
 documents            Q1.2                 3 
 how                  Z5                   3 
 use                  A1.5.1               3 
@@ -28,13 +29,13 @@ guilty               G2.1-                3
 british              Z2                   3 
 are                  A3+                  3 
 Panama               Z2                   3 
+'s                   Z5                   3 
 company              I2.1                 3 
 financial            I1                   3 
 are                  Z5                   3 
 files                O2                   3 
 companies            I2.1                 3 
 investors            I1.1                 3 
-McClatchy            Z99                  3 
 also                 N5++                 3 
 it                   Z8                   3 
 but                  Z5                   3 
@@ -90,6 +91,7 @@ using                A1.5.1               2
 american             Z2                   2 
 appears              A8                   2 
 two                  N1                   2 
+i                    Z8                   2 
 what                 Z8                   2 
 said                 Q2.1                 2 
 state                G1.1                 2 
@@ -116,7 +118,6 @@ prime_minister       G1.1                 1
 resigns              A9-                  1 
 over                 Z5                   1 
 family               S4                   1 
-'s                   Z5                   1 
 live                 L1+                  1 
 read                 Q3                   1 
 more                 A13.3                1 
@@ -142,8 +143,6 @@ fell                 M1                   1
 foul                 O4.2-                1 
 law                  G2.1                 1 
 identified           X2.2+                1 
-Mossack              Z99                  1 
-Fonsecas             Z99                  1 
 McClatchy_DC         Z1                   1 
 which                Z8                   1 
 has                  Z5                   1 
@@ -179,6 +178,7 @@ investment           I1.1                 1
 indonesian           Z2                   1 
 oilfields            W3                   1 
 new                  T3-                  1 
+'                    Z5                   1 
 money                I1                   1 
 allegedly            Q2.2                 1 
 used_to              T1.1.1               1 
@@ -192,7 +192,7 @@ Anthony_Gumbiner     Z1                   1
 dallas-area          Z99                  1 
 chairman             S7.1+                1 
 Hallwood_group       Z3                   1 
-s                    T1.3                 1 
+'s                   A3+                  1 
 deep                 N3.7+                1 
 Texas                Z2                   1 
 ties                 B5                   1 
@@ -283,7 +283,7 @@ books                Q4.1                 1
 from                 Z5                   1 
 here                 M6                   1 
 Malta                Z2                   1 
-ive                  Z99                  1 
+'ve                  Z5                   1 
 been                 Z5                   1 
 arrested             G2.1                 1 
 2008                 N1                   1 
@@ -302,7 +302,6 @@ roughly              A13.4                1
 $10m                 N3.3                 1 
 revenue              G1.1                 1 
 according_to         Z5                   1 
-McClatchys           Z99                  1 
 analysis             X2.4                 1 
 treasure             I1.1+++              1 
 trove                Z99                  1 
@@ -339,7 +338,6 @@ affairs              A1.1.1               1
 at                   Z5                   1 
 global               Z3                   1 
 integrity            G2.2+                1 
-i                    Z8                   1 
 would                A7+                  1 
 expect               X2.6+                1 
 be                   Z5                   1 

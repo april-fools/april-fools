@@ -1,13 +1,14 @@
-TOTAL               99
+TOTAL              102
 the                  AT              6 
+'                    GE              3 
 photos               NN2             3 
 by                   II              3 
 of                   IO              3 
-'                    GE              2 
 testicles            NN2             2 
 his                  APPGE           2 
 steroid              JJ              2 
 has                  VHZ             2 
+bonds                NN2             2 
 for                  IF              2 
 and                  CC              2 
 after                CS              2 
@@ -21,7 +22,8 @@ before               II              1
 a                    AT1             1 
 U.S._district        NP1             1 
 court                NN1             1 
-sluggers             NN2             1 
+slugger              NN1             1 
+'s                   GE              1 
 were                 VBDR            1 
 smaller              JJR             1 
 unusual              JJ              1 
@@ -35,15 +37,15 @@ BallHyped.com        NP1             1
 to                   TO              1 
 prove                VVI             1 
 it                   PPH1            1 
-thats                NN2             1 
-right                RR              1 
+that                 DD1             1 
+'s                   VBZ             1 
+right                JJ              1 
 ballhyped            JJ              1 
 lived_up_to          VVN             1 
 its                  APPGE           1 
 name                 NN1             1 
 publishing           VVG             1 
 exclusive            JJ              1 
-bonds                NN2             1 
 is                   VBZ             1 
 that                 CST             1 
 AP                   NP1             1 
@@ -61,7 +63,6 @@ before               CS              1
 allegedly            RR              1 
 taken                VVN             1 
 Kimberly_Bell        NP1             1 
-bonds                VVZ             1 
 former               DA              1 
 girlfriend           NN1             1 
 nine                 MC              1 

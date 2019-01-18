@@ -1,22 +1,24 @@
-TOTAL              269
+TOTAL              273
 the                  AT             19 
+it                   PPH1            8 
 and                  CC              7 
-it                   PPH1            7 
 is                   VBZ             7 
 element              NN1             5 
 for                  IF              4 
 that                 CST             4 
 not                  XX              4 
 to                   TO              4 
-its                  APPGE           4 
 will                 VM              4 
 any                  DD              3 
 be                   VBI             3 
 from                 II              3 
 a                    AT1             3 
 although             CS              3 
+user                 NN1             3 
 of                   IO              3 
+browser              NN1             3 
 in                   II              3 
+its                  APPGE           3 
 new                  JJ              2 
 html5                FO              2 
 can                  VM              2 
@@ -24,13 +26,12 @@ safe                 JJ              2
 work                 NN1             2 
 to                   II              2 
 nsfw                 NNU             2 
-browsers             NN2             2 
 by                   II              2 
 never                RR              2 
 downloading          VVG             2 
 with                 IW              2 
-user                 NN1             2 
-browser              NN1             2 
+'s                   GE              2 
+setting              NN1             2 
 index                NN1             2 
 using                VVG             2 
 ie9                  FO              2 
@@ -50,6 +51,7 @@ describes            VVZ             1
 as                   II              1 
 commonly             RR              1 
 abbreviated          VVN             1 
+browsers             NN2             1 
 configured           VVN             1 
 parents              NN2             1 
 or                   CC              1 
@@ -69,7 +71,9 @@ employers            NN2             1
 employees            NN2             1 
 things               NN2             1 
 they                 PPHS2           1 
-shouldnt             VV0             1 
+should               VM              1 
+n't                  XX              1 
+'s                   VBZ             1 
 just                 RR              1 
 presentational       JJ              1 
 does                 VDZ             1 
@@ -84,7 +88,6 @@ resources            NN2             1
 contained            VVN             1 
 within               II              1 
 if                   CS              1 
-setting              VVG             1 
 on                   II              1 
 works                VVZ             1 
 like                 II              1 
@@ -112,7 +115,6 @@ could                VM              1
 tempt                VVI             1 
 teenagers            NN2             1 
 circumvent           VVI             1 
-setting              NN1             1 
 video                NN1             1 
 set                  VVN             1 
 autoplay             VVI             1 
@@ -121,7 +123,6 @@ downloaded           VVN             1
 meaning              VVG             1 
 nothing              PN1             1 
 compromising         VVG             1 
-users                NN2             1 
 cache                NN1             1 
 was                  VBDZ            1 
 suggested            VVN             1 

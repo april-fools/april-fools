@@ -6,5 +6,3 @@ Nebraska                 NP1     Z99
 PredictWise              RR      Z99 
 scoreboard               NN1     Z99 
 State-by-State           NP1     Z99 
-weve                     NN1     Z99 
-weve                     VV0     Z99 

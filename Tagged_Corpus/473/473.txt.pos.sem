@@ -95,7 +95,8 @@
 0000004 250  VH0     have                     A9+ Z5 A2.2 S4 
 0000004 251  .       .                        
 0000004 252  -----   -----                    
-0000004 260  APPGE   Its                      Z8 
+0000004 260  PPH1    It                       Z8 
+0000004 261  VBZ     's                       A3+ Z5 
 0000004 270  II      about                    Z5 
 0000004 280  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000004 290  PPIS2   we                       Z8 
@@ -117,8 +118,9 @@
 0000004 410  AT      the                      Z5 
 0000004 420  NN1     spokesperson             Q2.2/S2mf 
 0000004 430  VVD     said                     Q2.1 
-0000004 440  CST     that                     Z5 Z8 
-0000004 450  APPGE   its                      Z8 
+0000004 440  CST     that                     Z8 Z5 
+0000004 450  PPH1    it                       Z8 
+0000004 451  VBZ     's                       A3+ Z5 
 0000004 460  JJ      unlikely                 A7- 
 0000004 470  AT      the                      Z5 
 0000004 480  JJ      revamped                 A2.1+ 
@@ -166,7 +168,8 @@
 0000004 840  JJ      White                    Z1mf 
 0000004 850  NN1     Zombie                   Z99 
 0000004 860  II      to                       Z5 
-0000004 870  NN2     todays                   T1.1.2 
+0000004 870  RT      today                    T1.1.2 
+0000004 871  GE      's                       Z5 
 0000004 880  NN1     music                    K2 
 0000004 890  II      like                     Z5 
 0000004 900  NN1     Ghost                    Z3 
@@ -205,9 +208,10 @@
 0000006 100  VVG     ending                   T2- 
 0000006 110  PPH1    it                       Z8 
 0000006 120  IW      with                     Z5 
-0000006 130  NP2     Metallicas               Z3c 
-0000006 131  NULL    <quote>                  
-0000006 132  -----   -----                    
+0000006 130  NP1     Metallica                Z3c 
+0000006 131  GE      's                       Z5 
+0000006 132  NULL    <quote>                  
+0000006 133  -----   -----                    
 0000006 140  VV0     Fade                     O4.3 A10- N5-/A2.1 
 0000006 150  II      to                       Z5 
 0000006 160  NP1@    Black                    O4.3 G2.2- A5.1- E4.1- S5+ S5+/S2mf F2% 

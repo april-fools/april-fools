@@ -10,8 +10,9 @@
 0000002 080  CC      and                      Z5 
 0000002 090  VVN     raised                   M2 N5+/A2.1 A5.1+/A2.1 X3.2++ A9+ A1.1.1 A2.2 S1.1.1 F4 Q2.2 S4 
 0000002 100  AT      the                      Z5 
-0000002 110  NN2     countrys                 G1.1c W3 F4/M7 K2 
-0000002 120  VV0@    profile                  Q1.1 
+0000002 110  NN1     country                  G1.1c W3 F4/M7 K2 
+0000002 111  GE      's                       Z5 
+0000002 120  NN1     profile                  B1 Q1.1 
 0000002 130  II      in                       Z5 
 0000002 140  APPGE   his                      Z8m 
 0000002 150  MC      eight                    N1 T1.2 T3 T1.3 N3.2 
@@ -146,7 +147,8 @@
 0000008 070  VVG     responding               S1.1.2+ Q2.2 
 0000008 080  II      to                       Z5 
 0000008 090  NN2     voters                   G1.2/S2mf 
-0000008 100  VVZ     fears                    E5- 
+0000008 091  GE      '                        Z5 
+0000008 100  NN2     fears                    E5- 
 0000008 110  II      about                    Z5 
 0000008 120  NN1     immigration              M1/M7 
 0000008 121  ,       ,                        
@@ -160,8 +162,9 @@
 0000008 181  )       )                        
 0000008 190  NN1     party                    K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c 
 0000008 200  II      into                     Z5 
-0000008 210  NP2     Denmarks                 Z2 Z1mf Z3c 
-0000008 220  VVG     leading                  S7.1+ A2.2 M2 A1.1.1 
+0000008 210  NP1     Denmark                  Z2 Z1mf Z3c 
+0000008 211  GE      's                       Z5 
+0000008 220  JJ      leading                  S7.1+ A11.1+ A2.2 M2 A1.1.1 
 0000008 230  JJ      political                G1.2 
 0000008 240  NN1     party                    K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c 
 0000008 241  .       .                        
@@ -221,7 +224,8 @@
 0000010 320  CC      and                      Z5 
 0000010 330  AT      the                      Z5 
 0000010 340  NN1     minority                 N5- 
-0000010 350  NN2     governments              G1.1c 
+0000010 350  NN1     government               G1.1c 
+0000010 351  GE      's                       Z5 
 0000010 360  NN1     popularity               E2+ 
 0000010 370  VVG     hitting                  E3- A1.1.1 A2.1+ A11.2+ 
 0000010 380  JJ      new                      T3- 
@@ -254,8 +258,9 @@
 0000012 240  NP1     Denmark                  Z2 Z1mf Z3c 
 0000012 250  VVD     held                     M2 A1.1.1 A9+ X2.1 S7.1+/A1.7+ 
 0000012 260  AT      the                      Z5 
-0000012 270  NP2     EUs                      Z3c Z2 
-0000012 280  VVG     rotating                 M1 M2 A6.3+ 
+0000012 270  NP1     EU                       Z3c Z2 
+0000012 271  GE      's                       Z5 
+0000012 280  JJ@     rotating                 M1 A6.3+ 
 0000012 290  NN1     presidency               S7.1+ G1.1 
 0000012 291  .       .                        
 0000012 292  -----   -----                    
@@ -273,7 +278,8 @@
 0000012 400  MC1     one                      N1 T3 T1.2 
 0000012 410  IO      of                       Z5 
 0000012 420  AT      the                      Z5 
-0000012 430  NP2     EUs                      Z3c Z2 
+0000012 430  NP1     EU                       Z3c Z2 
+0000012 431  GE      's                       Z5 
 0000012 440  RRT     longest                  T1.3+++ 
 0000012 450  VVG     serving                  S8+ S7.1- I2.2 A9- F1 A1.1.1 I3.1 K5.1 G2.1 
 0000012 460  NN2     premiers                 G1.1/S2mf Z3c 
@@ -326,7 +332,7 @@
 0000014 260  NN1     gameplan                 Z99 
 0000014 270  CC      and                      Z5 
 0000014 280  PPHS1   he                       Z8m 
-0000014 281  VBZ     s                        T1.3 I1.1 Z5 
+0000014 281  VBZ     's                       A3+ Z5 
 0000014 290  RG      very                     A13.3 
 0000014 300  JJ      interested               X5.2+ S1.1.3+ 
 0000014 310  II      in                       Z5 
@@ -377,7 +383,8 @@
 0000016 370  NN1     break                    K1/T1.3 T2- O2 A1.4 A1.1.2 
 0000016 380  RR      both                     Z5 
 0000016 390  IW      with                     Z5 
-0000016 400  NP2     Denmarks                 Z2 Z1mf Z3c 
+0000016 400  NP1     Denmark                  Z2 Z1mf Z3c 
+0000016 401  GE      's                       Z5 
 0000016 410  JJ      traditional              S1.1.1 A6.2+ T3++ 
 0000016 420  JJ      consensus-based          Z99 
 0000016 430  JJ      foreign                  M7 
@@ -385,6 +392,7 @@
 0000016 450  CC      and                      Z5 
 0000016 460  JJ      previous                 N4 
 0000016 470  NN2     governments              G1.1c 
+0000016 471  GE      '                        Z5 
 0000016 480  NN1     reluctance               X5.2- 
 0000016 490  TO      to                       Z5 
 0000016 500  VVI     commit                   A1.1.1 S6+ A1.7+/G2.1 

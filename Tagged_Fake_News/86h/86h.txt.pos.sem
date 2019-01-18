@@ -13,5 +13,6 @@
 0000002 100  RL      Everywhere               M6/N5.1+ 
 0000002 110  CS      if                       Z7 
 0000002 120  NN1     Trump                    Z1mf 
-0000002 130  VVZ     Wins                     X9.2+/S7.3 X9.2+/G3 A9+ 
+0000002 130  NN2     Wins                     X9.2+/S7.3 X9.2+/G3 A9+ 
+0000002 131  GE      '                        Z5 
 0000004 001  NULL    **8;7;text               

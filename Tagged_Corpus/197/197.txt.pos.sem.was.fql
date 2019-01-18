@@ -1,6 +1,7 @@
-TOTAL              139
+TOTAL              142
 has                  Z5                   6 
 to                   Z5                   4 
+'s                   Z5                   3 
 in                   Z5                   3 
 their                Z8                   3 
 the                  Z5                   3 
@@ -8,6 +9,7 @@ it                   Z8                   2
 this                 M6                   2 
 about                Z5                   2 
 from                 Z5                   2 
+President            G1.1                 2 
 phones               Q1.3                 2 
 and                  Z5                   2 
 that                 Z8                   2 
@@ -20,7 +22,7 @@ seems                A8                   1
 that                 Z5                   1 
 whole                N5.1+                1 
 story                Q2.1                 1 
-Mr._Presidents       Z1                   1 
+Mr._President        Z1                   1 
 blackberry           F1                   1 
 really               A13.3                1 
 pissed_off           E3-                  1 
@@ -29,7 +31,6 @@ an                   Z5                   1
 official             G1.1                 1 
 statement            Q2.1                 1 
 yesterday            T1.1.1               1 
-President            G1.1                 1 
 Barack_Obama         Z1                   1 
 declared             Q2.2                 1 
 cell                 B1                   1 
@@ -77,9 +78,8 @@ at                   Z5                   1
 subscribers          Q4.2                 1 
 said                 Q2.1                 1 
 do                   Z5                   1 
-nt                   S9                   1 
+n't                  Z6                   1 
 care                 E6-                  1 
-presidents           G1.1                 1 
 declaration          Q2.2                 1 
 as                   Z5                   1 
 carrier              M3                   1 
@@ -88,7 +88,7 @@ released             A1.7-                1
 decent               A5.1+                1 
 smartphone           Z99                  1 
 ever_since           T2++                 1 
-iphones              Z99                  1 
+iphone               Z99                  1 
 launch               M4                   1 
 in_the_end           N4                   1 
 decided              X6+                  1 

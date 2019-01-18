@@ -1,5 +1,6 @@
-TOTAL                7
-Londons              NP2             1 
+TOTAL                8
+London               NP1             1 
+'s                   GE              1 
 famous               JJ              1 
 gherkin              NN1             1 
 building             NN1             1 

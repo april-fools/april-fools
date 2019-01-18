@@ -1,11 +1,11 @@
-TOTAL         312
-NN1            37 
+TOTAL         313
+NN1            38 
 II             32 
 AT             26 
-NP1            19 
+NP1            20 
 NN2            19 
-JJ             19 
 VVD            18 
+JJ             18 
 AT1            10 
 PPHS1           8 
 CC              8 
@@ -16,11 +16,11 @@ VVI             5
 VVG             5 
 VVN             5 
 APPGE           5 
-VV0             5 
 PPIS2           5 
 CS              4 
 VM              4 
 PPHO1           4 
+VV0             4 
 DA              3 
 CCB             3 
 MD              2 
@@ -33,7 +33,7 @@ MC2             2
 VHG             2 
 IW              2 
 RRQ             2 
-NP2             2 
+GE              2 
 DA2             2 
 PPIS1           2 
 RT              1 
@@ -54,5 +54,6 @@ VBDZ            1
 VBM             1 
 VBR             1 
 JJT             1 
+RL              1 
 VH0             1 
 MC              1 

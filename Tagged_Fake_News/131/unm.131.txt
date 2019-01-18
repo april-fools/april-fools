@@ -43,7 +43,6 @@ Kasich                   NN1     Z99
 NBC                      NP1     Z99 
 non-Muslims              NN2     Z99 
 Obama                    NP1     Z99 
-Obamas                   NP1     Z99 
 pledged                  JJ%     Z99 
 rounding                 JJ      Z99 
 savior                   NN1     Z99 
@@ -52,8 +51,6 @@ self-aggrandizing        JJ      Z99
 Sept.                    NPM1    Z99 
 smartphones              NN2     Z99 
 superdelegates           NN2     Z99 
-Theyre                   NN1     Z99 
-theyve                   VV0     Z99 
 Twitter                  VV0     Z99 
 unreality                NN1     Z99 
 whoppers                 NN2     Z99 

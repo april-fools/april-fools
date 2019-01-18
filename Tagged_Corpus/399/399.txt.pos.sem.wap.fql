@@ -1,4 +1,4 @@
-TOTAL              480
+TOTAL              481
 the                  AT             30 
 apple                NN1            14 
 a                    AT1            13 
@@ -15,12 +15,12 @@ to                   II              6
 air                  NN1             5 
 that                 DD1             5 
 technology           NN1             4 
+'s                   GE              4 
 in                   II              4 
 it                   PPH1            4 
 that                 CST             4 
 but                  CCB             4 
 be                   VBI             4 
-'s                   GE              3 
 is                   VBZ             3 
 Reg                  NP1             3 
 seen                 VVN             3 
@@ -97,7 +97,7 @@ remarked             VVN             1
 looked_like          VVN             1 
 'trailing            JJ              1 
 edge'                NN1             1 
-planes               NN2             1 
+plane                NN1             1 
 rear                 JJ              1 
 edge                 NN1             1 
 tapers               NN2             1 

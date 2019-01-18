@@ -1,20 +1,23 @@
-TOTAL              434
+TOTAL              438
 the                  AT             40 
 of                   IO             15 
 a                    AT1            14 
 and                  CC             10 
 for                  IF              8 
 that                 CST             7 
+Donald_trump         NP1             7 
+'s                   GE              7 
 to                   II              7 
 as                   CSA             6 
 trump                NN1             6 
 in                   II              6 
 event                NN1             6 
-Donald_Trump         NP1             6 
 sons                 NN2             5 
 opening              NN1             5 
 with                 IW              5 
 nonprofit            JJ              4 
+Day_foundation       NP1             4 
+Mr._Trump            NNB             4 
 Jr                   NNA             4 
 been                 VBN             4 
 are                  VBR             4 
@@ -24,12 +27,9 @@ inauguration         NN1             3
 on                   II              3 
 involvement          NN1             3 
 center               NN1             3 
-Day_foundation       NP1             3 
 Texas                NP1             3 
 draft                NN1             3 
 Eric_trump           NP1             3 
-Day                  NP1             3 
-Mr._Trumps           NNB             3 
 but                  CCB             3 
 spokeswoman          NN1             3 
 have                 VH0             3 
@@ -43,11 +43,11 @@ great                JJ              2
 opening              VVG             2 
 hunting              NN1             2 
 fishing              NN1             2 
-'s                   GE              2 
 wealthy              JJ              2 
 group                NN1             2 
 cabinet              NN1             2 
 picks                VVZ             2 
+Day                  NP1             2 
 is                   VBZ             2 
 to                   TO              2 
 family               NN1             2 
@@ -64,8 +64,6 @@ according_to         II21            2
 still                RR              2 
 Washington           NP1             2 
 after                CS              1 
-Donald               NP1             1 
-trumps               VVZ             1 
 adult                NN1             1 
 listed               VVN             1 
 offering             NN1             1 
@@ -81,8 +79,9 @@ documents            NN2             1
 formed               VVN             1 
 Dec._14              NPM1            1 
 says                 VVZ             1 
-its                  APPGE           1 
-dedicated            JJ              1 
+it                   PPH1            1 
+'s                   VBZ             1 
+dedicated            VVN             1 
 preserving           VVG             1 
 outdoors             NN1             1 
 invitiation          NN1             1 
@@ -96,7 +95,6 @@ promised             VVN             1
 private              JJ              1 
 reception            NN1             1 
 photo_opportunity    NN1             1 
-Mr._Trump            NNB             1 
 as_well              II31            1 
 as                   II33            1 
 multi-day            JJ              1 
@@ -213,7 +211,6 @@ news                 NN1             1
 soon                 RR              1 
 after                II              1 
 found                VVD             1 
-foundations          NN2             1 
 registration         NN1             1 
 papers               NN2             1 
 released             VVN             1 

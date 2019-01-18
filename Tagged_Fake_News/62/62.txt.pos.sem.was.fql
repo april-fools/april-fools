@@ -1,4 +1,4 @@
-TOTAL              376
+TOTAL              383
 the                  Z5                  31 
 of                   Z5                  12 
 to                   Z5                   9 
@@ -6,7 +6,8 @@ and                  Z5                   8
 in                   Z5                   7 
 a                    Z5                   7 
 islamic              S9                   6 
-state                G1.1                 5 
+state                G1.1                 6 
+'s                   Z5                   6 
 campaign             X7+                  4 
 by                   Z5                   4 
 from                 Z5                   4 
@@ -15,8 +16,8 @@ with                 Z5                   4
 have                 Z5                   3 
 republican           G1.2                 3 
 presidential         G1.1                 3 
-candidates           G1.2                 3 
 terror               E5-                  3 
+it                   Z8                   3 
 Senator              G1.2                 3 
 that                 Z8                   3 
 legislation          G2.1                 3 
@@ -25,6 +26,7 @@ provided             A9-                  2
 more                 N5++                 2 
 than                 Z5                   2 
 dollars              I1                   2 
+candidates           G1.2                 2 
 year                 T1.3                 2 
 according_to         Z5                   2 
 report               Q2.2                 2 
@@ -35,9 +37,7 @@ donors               A9-                  2
 maximum              N5.1+                2 
 contribution         A9-                  2 
 using                A1.5.1               2 
-its                  Z8                   2 
 ISIS                 Z3                   2 
-it                   Z8                   2 
 residing             H4                   2 
 individuals          S2                   2 
 for                  Z5                   2 
@@ -58,7 +58,6 @@ WASHINGTON           Z2                   1
 D.C._Abu_Bakr        Z1                   1 
 and_other            S2                   1 
 members              S5+                  1 
-States               Z2                   1 
 leadership           S7.1+                1 
 council              G1.1                 1 
 five_million         N1                   1 
@@ -68,7 +67,7 @@ finance              I1                   1
 released             A1.7-                1 
 last_week            T1.1.1               1 
 half                 N5                   1 
-GOPs                 Z99                  1 
+GOP                  Z99                  1 
 leading              S7.1+                1 
 contenders           S7.3+                1 
 including            A1.8+                1 
@@ -118,6 +117,7 @@ in_place             M6                   1
 meant                Q1.1                 1 
 provide              A9-                  1 
 funding              I1.1                 1 
+its                  Z8                   1 
 various              A6.3+                1 
 operations           A1.1.1               1 
 is                   A3+                  1 
@@ -139,6 +139,8 @@ check                X2.4                 1
 donation             A9-                  1 
 allowed              S7.4+                1 
 payable              I1.2                 1 
+candidate            G1.2                 1 
+'s                   A3+                  1 
 really               A13.3                1 
 ingenious            X9.1+                1 
 system               X4.2                 1 
@@ -147,7 +149,7 @@ assistant            S8+                  1
 manager              S7.1+                1 
 obviously            Z4                   1 
 does                 Z5                   1 
-nt                   S9                   1 
+n't                  Z6                   1 
 see_eye_to_eye       A6.1+                1 
 some                 N5                   1 
 issues               X4.1                 1 
@@ -162,7 +164,7 @@ beliefs              X2.1                 1
 particularly         A13.3                1 
 when                 Z5                   1 
 comes_to             A4.1                 1 
-womens               S2.1                 1 
+women                S2.1                 1 
 added                N5+                  1 
 have                 A9+                  1 
 moral                G2.2+                1 
@@ -172,7 +174,7 @@ uphold               S8+                  1
 supporters           S8+                  1 
 alike                A6.1+                1 
 wake                 M4                   1 
-nations              G1.1                 1 
+nation               G1.1                 1 
 most                 A13.2                1 
 recent               T3-                  1 
 mass                 N5+                  1 
@@ -201,7 +203,7 @@ are                  A3+                  1
 estimated            X6                   1 
 700,000              N1                   1 
 U.S.                 Z8                   1 
-governments          G1.1                 1 
+government           G1.1                 1 
 watch                T1                   1 
 list                 Q1.2                 1 
 several              N5                   1 

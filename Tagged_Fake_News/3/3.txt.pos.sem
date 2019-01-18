@@ -77,8 +77,9 @@
 0000005 161  .       .                        
 0000005 162  -----   -----                    
 0000005 170  PPIS2   We                       Z8 
-0000005 180  NN1     wont                     A6.2+ 
-0000005 190  VV0     survive                  A3+/T2++ L1+ 
+0000005 180  VM      wo                       T1.1.3 
+0000005 181  XX      n't                      Z6 
+0000005 190  VVI     survive                  A3+/T2++ L1+ 
 0000005 200  MC      four                     N1 T3 T1.2 
 0000005 210  DAR     more                     N5++ 
 0000005 220  NNT2    years                    T1.3 
@@ -150,7 +151,7 @@
 0000009 110  NN1     News                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
 0000009 120  NN1     commentator              Q2.2/S2mf 
 0000009 130  NP1     Bill                     Z1mf[i12.2.1 Z3c[i12.2.1 
-0000009 140  NP1     OReilly                  Z1mf[i12.2.2 Z3c[i12.2.2 
+0000009 140  NP1     O'Reilly                 Z1mf[i12.2.2 Z3c[i12.2.2 
 0000009 150  VHZ     has                      Z5 A9+ A2.2 S4 
 0000009 160  VDN     done                     A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
 0000009 170  DA2     several                  N5 

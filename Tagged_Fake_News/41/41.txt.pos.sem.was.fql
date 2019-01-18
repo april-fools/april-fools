@@ -9,11 +9,11 @@ to                   Z5                   5
 for                  Z5                   4 
 his                  Z8                   4 
 by                   Z5                   3 
+Donald_trump         Z1                   3 
 in                   Z5                   3 
 and                  Z5                   3 
 announced            Q2.2                 2 
 race                 K5.1                 2 
-Donald_trump         Z1                   2 
 this                 M6                   2 
 point                Q2.1                 2 
 as                   Z5                   2 
@@ -38,8 +38,7 @@ large                N3.2+                1
 margin               N5                   1 
 had                  Z5                   1 
 served               S8+                  1 
-Donald               Z1                   1 
-trumps               K5.2                 1 
+'s                   Z5                   1 
 strictest            S1.2.5+++            1 
 often                N6+                  1 
 contentious          A7-                  1 

@@ -1,6 +1,7 @@
 0000001 001  NULL    **6;0;START              
 0000001 002  -----   -----                    
-0000002 010  NN2     Turkeys                  F1 L2mfn 
+0000002 010  NP1     Turkey                   Z2 
+0000002 011  GE      's                       Z5 
 0000002 020  NP1     Erdogan                  Z99 
 0000002 030  VVZ     Says                     Q2.1 
 0000002 040  NP1     U.S.                     Z8 
@@ -14,4 +15,5 @@
 0000002 110  NN2     Pictures                 C1 Q4.3 X4.1 
 0000002 111  NULL    &;                       
 0000002 120  NN2     Videos                   Q4.3 
+0000002 121  GE      '                        Z5 
 0000004 001  NULL    **8;7;text               

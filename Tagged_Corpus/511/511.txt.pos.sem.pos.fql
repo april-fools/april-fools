@@ -1,7 +1,7 @@
-TOTAL         287
-NN1            39 
+TOTAL         288
+NN1            40 
 AT             24 
-NN2            21 
+NN2            20 
 JJ             17 
 II             14 
 RR             11 
@@ -44,6 +44,7 @@ JJR             1
 MC1             1 
 VHN             1 
 CCB             1 
+GE              1 
 UH              1 
 NNT1            1 
 II31            1 

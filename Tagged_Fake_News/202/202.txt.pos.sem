@@ -30,8 +30,9 @@
 0000002 240  CC      and                      Z5 
 0000002 250  APPGE   his                      Z8m 
 0000002 260  NN1     wife                     S4f 
-0000002 270  NN1     werent                   Z99 
-0000002 280  VVD     meant                    Q1.1 X7+ 
+0000002 270  VBDR    were                     Z5 A3+ 
+0000002 271  XX      n't                      Z6 
+0000002 280  VVN     meant                    Q1.1 X7+ S6+ 
 0000002 290  IF      for                      Z5 
 0000002 300  NN1     publication              Q4 
 0000002 310  CCB     but                      Z5 
@@ -55,8 +56,9 @@
 0000004 100  AT1     a                        Z5 
 0000004 110  JJ      weekly                   N6+ 
 0000004 120  JJ      alternative              A6.1- N6 
-0000004 130  NN2     publications             Q4 
-0000004 140  VV0@    survey                   X2.4 
+0000004 130  NN1     publication              Q4 
+0000004 131  GE      's                       Z5 
+0000004 140  NN1     survey                   X2.4 
 0000004 150  TO      to                       Z5 
 0000004 160  RR      only                     A14 
 0000004 170  VVI     go                       M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
@@ -113,14 +115,16 @@
 0000006 261  .       .                        
 0000007 001  -----   -----                    
 0000008 010  II      In                       Z5 
-0000008 020  NP1     Paladinos                Z99 
+0000008 020  NP1     Paladino                 Z99 
+0000008 021  VBZ     's                       A3+ Z5 
 0000008 030  NPD1    Tuesday                  T1.3 
 0000008 040  NN1     statement                Q2.1 I1/Q1.2 
 0000008 041  ,       ,                        
 0000008 050  MD      first                    N4 
 0000008 060  VVN     reported                 Q2.2 S7.1- 
 0000008 070  II      on                       Z5 
-0000008 080  NP2     Buffalos                 Z2 
+0000008 080  NP1     Buffalo                  Z2 
+0000008 081  GE      's                       Z5 
 0000008 090  JJ      WBEN                     Z99 
 0000008 100  NN1     radio                    Q4.3 Q1.3 
 0000008 101  ,       ,                        
@@ -152,21 +156,24 @@
 0000008 330  NN2     circles                  O4.4 S5+ K4/H1@ 
 0000008 331  ,       ,                        
 0000008 340  II      including                A1.8+ 
-0000008 350  NN2     Trumps                   K5.2 S7.1+ 
+0000008 350  NN1     Trump                    Z1mf 
+0000008 351  GE      's                       Z5 
 0000008 360  NN1     transition               A2.1+ 
 0000008 370  NN1     team                     S5+c K5.1/S5+c S5+ 
 0000008 371  ,       ,                        
 0000008 380  DDQ     which                    Z8 Z5 
 0000008 390  VVD@    called                   Q2.2 S1.1.1 Q1.3 S9% 
 0000008 400  AT      the                      Z5 
-0000008 410  NN2     developers               H1/S2mf C1/O1.2 
-0000008 420  VVZ@    comments                 Q2.1 
+0000008 410  NN1     developer                H1/S2mf C1/O1.2@@ 
+0000008 411  GE      's                       Z5 
+0000008 420  NN2     comments                 Q2.1 
 0000008 430  RR      absolutely               A13.2 Z4 
 0000008 440  JJ      reprehensible            A5.1- 
 0000008 441  .       .                        
 0000009 001  -----   -----                    
-0000010 010  NP1@    Paladinos                Z99 
-0000010 020  VVZ@    comments                 Q2.1 
+0000010 010  NP1@    Paladino                 Z99 
+0000010 011  GE      's                       Z5 
+0000010 020  NN2     comments                 Q2.1 
 0000010 030  RR      even                     A13.1 
 0000010 040  VVD     drew                     C1 A9+ 
 0000010 050  AT1     a                        Z5 
@@ -180,7 +187,8 @@
 0000010 120  PNQS    who                      Z8 
 0000010 130  VVZ     runs                     M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4 
 0000010 140  AT      the                      Z5 
-0000010 150  NN2     familys                  S4c A4.1c 
+0000010 150  NN1     family                   S4c A4.1c 
+0000010 151  GE      's                       Z5 
 0000010 160  NN1     development              A2.1+/I2.1c[i14.2.1 A2.1+ A5.1+/A2.1 H1 
 0000010 170  NN1     firm                     A2.1+/I2.1c[i14.2.2 I2.1/S5+c 
 0000010 171  .       .                        
@@ -198,7 +206,8 @@
 0000010 271  .       .                        
 0000011 001  -----   -----                    
 0000012 010  AT      The                      Z5 
-0000012 020  NN2     fathers                  S4m S9/S2.2m 
+0000012 020  NN1     father                   S4m S9/S2.2m 
+0000012 021  GE      's                       Z5 
 0000012 030  JJR     earlier                  N4 T1.1.1 T4++ 
 0000012 040  NN2     comments                 Q2.1 
 0000012 050  II      about                    Z5 
@@ -271,8 +280,9 @@
 0000014 080  RR      also                     N5++ 
 0000014 090  VVD     said                     Q2.1 
 0000014 100  PPHS1   he                       Z8m 
-0000014 110  JJ      wont                     A6.2+ 
-0000014 120  VV0     resign                   A9- Q2.2 S7.1- I3.1 
+0000014 110  VM      wo                       T1.1.3 
+0000014 111  XX      n't                      Z6 
+0000014 120  VVI     resign                   A9- Q2.2 S7.1- I3.1 
 0000014 130  APPGE   his                      Z8m 
 0000014 140  JJ@     elected                  G1.2/X7+ 
 0000014 150  NN1     position                 M6 M7 S7.1 I3.1 N4 S1.1.1 A1.1.1 K5.1% 
@@ -283,7 +293,8 @@
 0000015 001  -----   -----                    
 0000016 010  UH      No                       Z4 
 0000016 011  ,       ,                        
-0000016 020  VV0     Im                       Z99 
+0000016 020  PPIS1   I                        Z8mf 
+0000016 021  VBM     'm                       Z5 A3+ 
 0000016 030  XX      not                      Z6 
 0000016 040  VVG     leaving                  M1 M2 A1.1.1 A1.9 A9- T2- 
 0000016 050  AT      the                      Z5 
@@ -298,7 +309,8 @@
 0000016 121  ,       ,                        
 0000016 130  XX      not                      Z6 
 0000016 140  RRQ     when                     Z5 
-0000016 150  APPGE   its                      Z8 
+0000016 150  PPH1    it                       Z8 
+0000016 151  VBZ     's                       A3+ Z5 
 0000016 160  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000016 170  TO      to                       Z5 
 0000016 180  VVI     help                     S8+ 
@@ -308,8 +320,9 @@
 0000016 220  NN1     choice                   X7+[i24.2.1 X7+ A6.3+ 
 0000016 230  NN2     elements                 X7+[i24.2.2 A4.1 N5 S5+c O1 O3 O2 W4 
 0000016 240  IO      of                       Z5 
-0000016 250  NN2     Trumps                   K5.2 S7.1+ 
-0000016 260  VV0     plan                     X7+ 
+0000016 250  NN1     Trump                    Z1mf 
+0000016 251  GE      's                       Z5 
+0000016 260  NN1     plan                     X7+ C1/H1 
 0000016 270  IF      for                      Z5 
 0000016 280  NN1     education                P1 X2.3+ 
 0000016 290  NN1     reform                   A2.1+ 
@@ -412,8 +425,9 @@
 0000022 200  IF      for                      Z5 
 0000022 210  APPGE   their                    Z8 
 0000022 220  JJ      New                      T1.3/K1[i29.2.1 T3- 
-0000022 230  NNT2    Years                    T1.3/K1[i29.2.2 T1.3 
-0000022 240  VV0     wish                     X7+ 
+0000022 230  NNT1    Year                     T1.3/K1[i29.2.2 T1.3 P1c 
+0000022 231  GE      's                       Z5 
+0000022 240  NN1     wish                     X7+ 
 0000022 250  NN1     list                     Q1.2 N4 M4 
 0000022 251  .       .                        
 0000023 001  -----   -----                    
@@ -473,8 +487,9 @@
 0000026 130  NP1     Obama                    Z1mf[i32.2.2 Z3c[i32.2.2 
 0000026 131  .       .                        
 0000026 132  -----   -----                    
-0000028 010  NN1     Id                       X2 
-0000028 020  II      like                     Z5 
+0000028 010  PPIS1   I                        Z8mf 
+0000028 011  VM      'd                       A7+ 
+0000028 020  VVI     like                     E2+ 
 0000028 030  PPHO1   her                      Z8f 
 0000028 040  TO      to                       Z5 
 0000028 050  VVI     return                   M1 A9- N6 
@@ -535,7 +550,8 @@
 0000030 230  NN1     opinion                  X2.1 X2.1/A5 X6+ 
 0000030 240  IO      of                       Z5 
 0000030 250  AT      the                      Z5 
-0000030 260  NN2     presidents               G1.1/S7.1+/S2mf 
+0000030 260  NN1     president                G1.1/S7.1+/S2mf 
+0000030 261  GE      's                       Z5 
 0000030 270  NN1     performance              K4 X9.2 A1.1.1 A12- 
 0000030 280  II      in                       Z5 
 0000030 290  NN1     office                   I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+ 
@@ -549,7 +565,7 @@
 0000032 060  CS      if                       Z7 
 0000032 070  PPY     you                      Z8mf 
 0000032 080  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000032 081  XX      nt                       S9/Q4.1 Z3c 
+0000032 081  XX      n't                      Z6 
 0000032 090  VVI     like                     E2+ 
 0000032 100  APPGE   my                       Z8 
 0000032 110  NN1     answer                   Q2.2 X4.1 X9.2+ 

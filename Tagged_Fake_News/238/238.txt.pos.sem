@@ -178,7 +178,8 @@
 0000010 070  VBI     be                       Z5 A3+ 
 0000010 080  VVG     ensuring                 A7+ 
 0000010 090  CST     that                     Z5 Z8 
-0000010 100  NP2     Americas                 Z2 
+0000010 100  NP1     America                  Z2 
+0000010 101  GE      's                       Z5 
 0000010 110  NN2     soldiers                 G3/S2mf 
 0000010 120  VH0     have                     A9+ Z5 A2.2 S4 
 0000010 130  AT      the                      Z5 

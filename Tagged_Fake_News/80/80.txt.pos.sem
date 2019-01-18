@@ -116,7 +116,8 @@
 0000004 551  .       .                        
 0000004 552  -----   -----                    
 0000004 560  DDQ     What                     Z8 Z5 
-0000004 570  VV0     weve                     Z99 
+0000004 570  PPIS2   we                       Z8 
+0000004 571  VH0     've                      Z5 A9+ A2.2 
 0000004 580  VVN     seen                     X3.4 X2.1 S1.1.1 X2.5+ A7+ 
 0000004 590  VBZ     is                       A3+ Z5 
 0000004 600  AT1     an                       Z5 
@@ -173,7 +174,7 @@
 0000006 240  JJ      current                  T1.1.2 
 0000006 250  NN      data                     X2.2/X2.4 Q1.1 
 0000006 260  VDZ     does                     A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
-0000006 261  XX      nt                       S9/Q4.1 Z3c 
+0000006 261  XX      n't                      Z6 
 0000006 270  NN1     factor                   A2.2 A4.1 N2 I2.1/S2mf@ 
 0000006 280  II      in                       Z5 
 0000006 290  AT      the                      Z5 
@@ -277,7 +278,8 @@
 0000008 300  NN2     climates                 W4 A1.1.1 E1 
 0000008 310  CC      and                      Z5 
 0000008 320  AT      the                      Z5 
-0000008 330  NN2     countrys                 G1.1c W3 F4/M7 K2 
+0000008 330  NN1     country                  G1.1c W3 F4/M7 K2 
+0000008 331  GE      's                       Z5 
 0000008 340  JJ      ongoing                  T2++ 
 0000008 350  JJ      internal                 M6 A10- G1.1 
 0000008 360  NN1     conflict                 A6.1- G3 E3- 
@@ -289,7 +291,8 @@
 0000008 402  -----   -----                    
 0000008 410  NN2     Mexicans                 Z2/S2mf 
 0000008 420  CSA     -as                      Z99 
-0000008 430  NN1     weve                     Z99 
+0000008 430  PPIS2   we                       Z8 
+0000008 431  VH0     've                      Z5 A9+ A2.2 
 0000008 440  VVN     seen                     X3.4 X2.1 S1.1.1 X2.5+ A7+ 
 0000008 450  II      over                     Z5 
 0000008 460  AT      the                      Z5 
@@ -347,7 +350,8 @@
 0000008 920  NNT2    decades                  T1.3 
 0000008 921  .       .                        
 0000009 001  -----   -----                    
-0000010 010  NP2     Garcias                  Z1mf 
+0000010 010  NP1     Garcia                   Z1mf 
+0000010 011  GE      's                       Z5 
 0000010 020  NN      data                     X2.2/X2.4 Q1.1 
 0000010 030  VVZ     shows                    A10+ S1.1.1 
 0000010 040  CST     that                     Z8 Z5 
@@ -382,8 +386,8 @@
 0000010 272  -----   -----                    
 0000010 280  DD2     These                    Z5 Z8 
 0000010 290  NN      people                   S2mfc 
-0000010 300  VB0     are                      A3+ Z5 
-0000010 301  XX      nt                       S9/Q4.1 Z3c 
+0000010 300  VBR     are                      A3+ Z5 
+0000010 301  XX      n't                      Z6 
 0000010 310  RR      simply                   A13.6 A14 A12+ 
 0000010 320  JJ      disappearing             A10- M1 A3- 
 0000010 321  ,       ,                        
@@ -395,7 +399,8 @@
 0000010 360  AT      the                      Z5 
 0000010 370  NN1     contrary                 A6.1- 
 0000010 371  ,       ,                        
-0000010 380  NN1     theyre                   Z99 
+0000010 380  PPHS2   they                     Z8mfn 
+0000010 381  VBR     're                      Z5 A3+ 
 0000010 390  VVG     coming                   A4.1[i37.2.1 M1[i37.2.1 B1[i37.2.1 N5[i37.2.1 X6+[i37.2.1 X2.1[i37.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
 0000010 400  II      to                       A4.1[i37.2.2 M1[i37.2.2 B1[i37.2.2 N5[i37.2.2 X6+[i37.2.2 X2.1[i37.2.2 Z5 
 0000010 410  AT      the                      Z5 

@@ -79,7 +79,8 @@
 0000010 120  PPHS1   He                       Z8m 
 0000010 130  VVD     befriended               S1.2.1+ 
 0000010 140  NP1     Sharon                   Z1mf[i6.2.1 Z3c[i6.2.1 Z1f 
-0000010 150  NN2     Stones                   Z1mf[i6.2.2 Z3c[i6.2.2 Z3c 
+0000010 150  NP1@    Stone                    Z1mf[i6.2.2 Z3c[i6.2.2 
+0000010 151  GE      's                       Z5 
 0000010 160  NN1     stylist                  B4/S2mf 
 0000010 170  CC      and                      Z5 
 0000010 180  VHN@    had                      S1.1.1[i8.2.1 A9+ Z5 A2.2 S4 S1.1.1[i7.2.1 
@@ -107,8 +108,9 @@
 0000010 380  JJ      furious                  E3- 
 0000010 390  CS      when                     Z5 
 0000010 400  PPHS1   he                       Z8m 
-0000010 410  VV0     couldnt                  Z99 
-0000010 420  NN1     hook                     O2 O4.4 K5.1 
+0000010 410  VM      could                    A7+ 
+0000010 411  XX      n't                      Z6 
+0000010 420  VVI     hook                     A9+ X5.2+ 
 0000010 430  NN1     Stone                    O1.1 O2 B2- N3.5 B5 
 0000010 440  RP      up                       Z5 X9.1+ M6 N4 N5++ T2- A1.1.1 N5+/A2.1 
 0000010 450  II      as                       Z5 
@@ -170,7 +172,8 @@
 0000014 470  AT1     a                        Z5 
 0000014 480  NN1     suit                     B5 G2.1 K5.2 
 0000014 490  IF      for                      Z5 
-0000014 500  NN2@    Raywoods                 Z99 
+0000014 500  NP1     Raywood                  Z99 
+0000014 501  GE      's                       Z5 
 0000014 510  NN1     ex-boyfriend             S3.2/T1.1.1m 
 0000014 511  ,       ,                        
 0000014 520  VVZ     reports                  Q2.2 S7.1- 
@@ -194,9 +197,10 @@
 0000018 090  AT1     a                        Z5 
 0000018 100  NN1     warrant                  Q1.2 
 0000018 110  IF      for                      Z5 
-0000018 120  NN2@    Raywoods                 Z99 
-0000018 130  VV0     arrest                   G2.1 
-0000018 140  RRQ     when                     Z5 
+0000018 120  NP1     Raywood                  Z99 
+0000018 121  GE      's                       Z5 
+0000018 130  NN1     arrest                   G2.1 
+0000018 140  CS      when                     Z5 
 0000018 150  PPHS1   he                       Z8m 
 0000018 160  VVD     failed                   X9.2- A5.1-/A2.1 
 0000018 170  TO      to                       Z5 
@@ -207,7 +211,8 @@
 0000018 220  NN1     hearing                  B1/X3.2 G2.1 
 0000018 221  .       .                        
 0000018 222  -----   -----                    
-0000018 230  NP1@    Raywoods                 Z99 
+0000018 230  NP1@    Raywood                  Z99 
+0000018 231  GE      's                       Z5 
 0000018 240  NN1     lawyer                   G2.1/I3.2/S2mf 
 0000018 241  ,       ,                        
 0000018 250  NP1     Stephen                  Z1mf[i22.3.1 Z3c[i22.3.1 Z1m Z1mf[i21.2.1 Z3c[i21.2.1 Z2[i23.2.1 Z3c[i23.2.1 Z1mf[i23.2.1 

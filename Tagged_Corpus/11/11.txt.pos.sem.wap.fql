@@ -1,13 +1,14 @@
-TOTAL              832
+TOTAL              848
 the                  AT             54 
 and                  CC             32 
 of                   IO             20 
+apple                NN1            19 
 with                 IW             19 
 in                   II             16 
 to                   TO             16 
-apple                NN1            13 
 a                    AT1            11 
 OS                   NP2            10 
+'s                   GE              9 
 for                  IF              9 
 Mac                  NP1             9 
 tiger                NN1             9 
@@ -18,7 +19,6 @@ is                   VBZ             7
 be                   VBI             7 
 tiger_Woods          NN1             6 
 x                    II              6 
-apples               NN2             6 
 on                   II              6 
 more                 DAR             6 
 2005                 MC              5 
@@ -30,17 +30,21 @@ than                 CSN             5
 will                 VM              5 
 to                   II              5 
 EA                   NP1             5 
-its                  APPGE           5 
 at                   II              5 
 has                  VHZ             4 
+world                NN1             4 
+i                    PPIS1           4 
 personal_computer    JJ              4 
+industry             NN1             4 
 golf                 NN1             4 
+'s                   VBZ             4 
 now                  RT              4 
 all                  DB              4 
+we                   PPIS2           4 
 through              II              4 
 information          NN1             4 
+its                  APPGE           4 
 foundation           NN1             4 
-i                    PPIS1           3 
 my                   APPGE           3 
 innovation           NN1             3 
 continues            VVZ             3 
@@ -52,7 +56,6 @@ tiger+tiger          FO              3
 about                II              3 
 said                 VVD             3 
 are                  VBR             3 
-we                   PPIS2           3 
 worldwide            RL              3 
 from                 II              3 
 features             NN2             3 
@@ -66,19 +69,16 @@ entertainment        NN1             3
 California           NP1             2 
 company              NN1             2 
 reached              VVN             2 
-worlds               NN2             2 
 professional         JJ              2 
 as                   CSA             2 
-industrys            NN2             2 
+it                   PPH1            2 
 always               RR              2 
 myself               PPX1            2 
 best                 JJT             2 
 product              NN1             2 
 computers            NN2             2 
 x                    ZZ1             2 
-industry             NN1             2 
 our                  APPGE           2 
-world                NN1             2 
 Steve                NP1             2 
 jobs                 NN2             2 
 ceo                  NN1             2 
@@ -133,7 +133,6 @@ thrilled             VVN             1
 relationship         NN1             1 
 involvement          NN1             1 
 leader               NN1             1 
-it                   PPH1            1 
 important            JJ              1 
 align                VV0             1 
 brands               NN2             1 
@@ -141,7 +140,7 @@ each                 DD1             1
 category             NN1             1 
 said                 JJ              1 
 just                 RR              1 
-Im                   NP1             1 
+'m                   VBM             1 
 pushing              VVG             1 
 improve              VVI             1 
 push                 VVI             1 
@@ -149,7 +148,7 @@ envelope             NN1             1
 space                NN1             1 
 me                   PPIO1           1 
 grew_up              VVD             1 
-theres               NN2             1 
+there                EX              1 
 nothing              PN1             1 
 better               JJR             1 
 partnering_with      VVG             1 
@@ -167,7 +166,8 @@ benefits             NN2             1
 using                VVG             1 
 others               NN2             1 
 following            II              1 
-xs                   MC2             1 
+x                    MC221           1 
+'s                   MC222           1 
 taillights           NN2             1 
 make_it              VVI             1 
 even                 RR              1 
@@ -211,7 +211,7 @@ spend                VVI             1
 $300_million         NNU             1 
 until                II              1 
 end                  NN1             1 
-were                 VBDR            1 
+'re                  VBR             1 
 delivering           VVG             1 
 innovations          NN2             1 
 not                  XX              1 
@@ -268,7 +268,7 @@ access               VVI             1
 collection           NN1             1 
 accessory            NN1             1 
 widgets              NN2             1 
-ichat                VV0             1 
+ichat                NN1             1 
 messaging            NN1             1 
 client               NN1             1 
 first                MD              1 
@@ -315,7 +315,7 @@ promote              VV0             1
 health               NN1             1 
 education            NN1             1 
 welfare              NN1             1 
-Americas             NP2             1 
+America              NP1             1 
 TWF                  NP1             1 
 reaching_out         VVG             1 
 primarily            RR              1 

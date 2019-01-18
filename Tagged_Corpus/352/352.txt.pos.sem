@@ -41,7 +41,8 @@
 0000002 311  .       .                        
 0000002 312  -----   -----                    
 0000002 320  RR      So                       Z5 A13.3 
-0000002 330  VV0     Im                       Z99 
+0000002 330  PPIS1   I                        Z8mf 
+0000002 331  VBM     'm                       A3+ Z5 
 0000002 340  JJ      glad                     E4.2+ 
 0000002 350  TO      to                       Z5 
 0000002 360  RR21    once                     Z4[i3.2.1 N6+[i3.2.1 N6- T1.1.1 
@@ -104,7 +105,8 @@
 0000004 121  .       .                        
 0000004 122  -----   -----                    
 0000004 130  II      Despite                  Z5 
-0000004 140  APPGE   its                      Z8 
+0000004 140  PPH1    it                       Z8 
+0000004 141  VBZ     's                       A3+ Z5 
 0000004 150  JJ      short                    T1.3- N3.7- N3.3- N5- S1.2.4- N3.8+@ F1% 
 0000004 160  NN1     life-span                Z99 
 0000004 170  II      on                       Z5 
@@ -298,7 +300,8 @@
 0000006 970  AT1     an                       Z5 
 0000006 980  NN1     arcade                   H1 
 0000006 990  NN1     title                    Q4 S7.1+ A9+ Q2.2 
-0000006 000  APPGE   its                      Z8 
+0000006 000  PPH1    it                       Z8 
+0000006 001  VBZ     's                       A3+ Z5 
 0000006 010  RR      probably                 A7+ 
 0000006 020  AT1     a                        Z5 
 0000006 030  JJ      minimal                  N5--- 
@@ -352,7 +355,7 @@
 0000006 460  NN1     game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
 0000006 470  CST     that                     Z8 Z5 
 0000006 480  VHZ     has                      Z5 A9+ A2.2 S4 
-0000006 481  XX      nt                       S9/Q4.1 Z3c 
+0000006 481  XX      n't                      Z6 
 0000006 490  VBN     been                     Z5 A3+ 
 0000006 500  VVN     seen                     X3.4 X2.1 S1.1.1 X2.5+ A7+ 
 0000006 510  II      in                       Z5 
@@ -374,7 +377,8 @@
 0000006 660  NN2     titles                   Q4 S7.1+ A9+ Q2.2 
 0000006 670  II21    such                     Z5[i21.2.1 
 0000006 680  II22    as                       Z5[i21.2.2 Z5 
-0000006 690  NP1     Konamis                  Z99 
+0000006 690  NP1     Konami                   Z99 
+0000006 691  GE      's                       Z5 
 0000006 700  NN1     G.I                      Z3c 
 0000006 710  NP1     Joe                      Z1m 
 0000006 711  :       :                        
@@ -383,7 +387,8 @@
 0000006 740  NN1     Game                     K1[i22.2.2 K5.1 K5.2 X7+ A1.1.1 L2 F1 
 0000006 741  ,       ,                        
 0000006 750  CC      or                       Z5 
-0000006 760  NP2     Segas                    Z3c 
+0000006 760  NP1     Sega                     Z3c 
+0000006 761  GE      's                       Z5 
 0000006 770  NP1     Rambo                    Z2[i23.2.1 Z1mf[i23.2.1 Z3 Z1m 
 0000006 780  MC      III                      Z2[i23.2.2 Z1mf[i23.2.2 N1 
 0000006 790  CCB     but                      Z5 
@@ -549,10 +554,12 @@
 0000010 170  PPHS2   they                     Z8mfn 
 0000010 180  VH0     have                     Z5 A9+ A2.2 S4 
 0000010 190  VVN     provided                 A9- S6+ 
-0000010 200  NN1     wasnt                    Z99 
+0000010 200  VBDZ    was                      Z5 A3+ 
+0000010 201  XX      n't                      Z6 
 0000010 210  VVN     mentioned                Q2.1 
 0000010 220  CCB     but                      Z5 
-0000010 230  APPGE   its                      Z8 
+0000010 230  PPH1    it                       Z8 
+0000010 231  VBZ     's                       A3+ Z5 
 0000010 240  AT1     a                        Z5 
 0000010 250  JJ      fitting                  A1.2+ 
 0000010 260  NN1     touch                    X3.3 X4.2 N5- 

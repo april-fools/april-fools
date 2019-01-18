@@ -77,8 +77,9 @@
 0000004 200  NN2     compounds                H3 H4 O1 A6.3+ G2.1/M6 Q3% 
 0000004 201  .       .                        
 0000004 202  -----   -----                    
-0000004 210  APPGE   Its                      Z8 
-0000004 220  JJ@     estimated                X6/A7- N2/A7- 
+0000004 210  PPH1    It                       Z8 
+0000004 211  VBZ     's                       Z5 A3+ 
+0000004 220  VVN     estimated                X6/A7- N2/A7- 
 0000004 230  CST     that                     Z5 Z8 
 0000004 240  MC      25                       N5[i5.2.1 N1 T1.2 T3 T1.3 N3.2 
 0000004 250  NNU     percent                  N5[i5.2.2 N5 

@@ -1,4 +1,4 @@
-TOTAL              306
+TOTAL              308
 the                  AT             18 
 and                  CC             12 
 of                   IO              8 
@@ -27,6 +27,7 @@ Senator              NNB             2
 Bernie_Sanders       NP1             2 
 its                  APPGE           2 
 people               NN              2 
+'s                   VBZ             2 
 should               VM              2 
 his                  APPGE           2 
 be                   VBI             2 
@@ -77,8 +78,9 @@ ideas                NN2             1
 formulas             NN2             1 
 free                 JJ              1 
 availability         NN1             1 
-gods                 NN2             1 
-love                 VV0             1 
+God                  NP1             1 
+'s                   GE              1 
+love                 NN1             1 
 forgiveness          NN1             1 
 said                 VVD             1 
 i_see                PPIS1           1 
@@ -93,8 +95,8 @@ these                DD2             1
 principles           NN2             1 
 genuinely            RR              1 
 wants                VVZ             1 
-whats                NN2             1 
-best                 RRT             1 
+what                 DDQ             1 
+best                 JJT             1 
 all                  DB              1 
 went_on              VVD             1 
 criticize            VVI             1 
@@ -167,7 +169,7 @@ everything           PN1             1
 climate              NN1             1 
 income               NN1             1 
 inequality           NN1             1 
-Bill_OReilly         NP1             1 
+Bill_O'Reilly        NP1             1 
 numerous             JJ              1 
 times                NNT2            1 
 compared             VVD             1 
@@ -183,7 +185,6 @@ bringing             VVG             1
 environmental        JJ              1 
 forefront            NN1             1 
 he                   PPHS1           1 
-s                    VBZ             1 
 rockstar             NN1             1 
 prudence_Bradley     NN1             1 
 19                   MC              1 

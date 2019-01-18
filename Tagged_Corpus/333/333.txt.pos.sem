@@ -1,6 +1,7 @@
 0000001 001  NULL    **6;0;START              
 0000001 002  -----   -----                    
-0000002 010  NN1     Weve                     Z99 
+0000002 010  PPIS2   We                       Z8 
+0000002 011  VH0     've                      Z5 A9+ A2.2 
 0000002 020  VBN     been                     Z5 A3+ 
 0000002 030  VVG     dreaming                 X2 X2.1 X7++ 
 0000002 040  II      about                    Z5 
@@ -17,8 +18,9 @@
 0000002 150  APPGE   our                      Z8 
 0000002 160  NN2     dreams                   X4.1 X7+ A5.2- 
 0000002 170  VBR     are                      A3+ Z5 
-0000002 180  NN2@    Telstras                 Z99 
-0000002 190  VVZ     commands                 S7.1+ X9.1+ 
+0000002 180  NP1     Telstra                  Z99 
+0000002 181  GE      's                       Z5 
+0000002 190  NN2     commands                 S7.1+ Q2.2 
 0000002 191  .       .                        
 0000002 192  -----   -----                    
 0000002 200  AT      The                      Z5 
@@ -90,7 +92,8 @@
 0000006 090  VV0     recommend                Q2.2 
 0000006 100  VVG     checking                 X2.4[i4.2.1 I2.2[i4.2.1 A5.2+[i4.2.1 X2.4/A5.3 A15 Q1.2 T2- M5 
 0000006 110  RP      out                      X2.4[i4.2.2 I2.2[i4.2.2 A5.2+[i4.2.2 M6 
-0000006 120  NN2@    Telstras                 Z99 
+0000006 120  NP1     Telstra                  Z99 
+0000006 121  GE      's                       Z5 
 0000006 130  JJ      detailed                 A4.2+ 
 0000006 140  NN1     page                     Q1.2 T1.3 S7.1-/S2.2m 
 0000006 150  IW      with                     Z5 
@@ -100,7 +103,8 @@
 0000006 190  RL      here                     M6 T1.1.2 T1.2 
 0000006 191  .       .                        
 0000006 192  -----   -----                    
-0000006 200  APPGE   Its                      Z8 
+0000006 200  PPH1    It                       Z8 
+0000006 201  VBZ     's                       A3+ Z5 
 0000006 210  JJ      great                    A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3 
 0000006 220  TO      to                       Z5 
 0000006 230  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
@@ -114,7 +118,8 @@
 0000006 301  ,       ,                        
 0000006 310  RR      especially               A14 
 0000006 320  CS      when                     Z5 
-0000006 330  APPGE   its                      Z8 
+0000006 330  PPH1    it                       Z8 
+0000006 331  VBZ     's                       A3+ Z5 
 0000006 340  RG      as                       A13 
 0000006 350  JJ      big                      N3.2+ N5+ A11.1+ S1.2.5+ X5.2+ 
 0000006 360  CSA     as                       Z5 

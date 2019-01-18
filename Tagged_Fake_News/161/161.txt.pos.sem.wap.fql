@@ -1,4 +1,4 @@
-TOTAL              769
+TOTAL              776
 the                  AT             39 
 i                    PPIS1          18 
 of                   IO             18 
@@ -12,8 +12,10 @@ that                 CST            11
 his                  APPGE          11 
 to                   II             10 
 our                  APPGE           9 
+'s                   GE              8 
 with                 IW              7 
 he                   PPHS1           7 
+Mr._Trump            NNB             7 
 was                  VBDZ            6 
 as                   CSA             6 
 be                   VBI             6 
@@ -24,13 +26,12 @@ on                   II              5
 president            NN1             5 
 she                  PPHS1           5 
 important            JJ              5 
+nation               NN1             5 
 an                   AT1             5 
-Mr._Trump            NNB             5 
 we                   PPIS2           4 
 will                 VM              4 
 this                 DD1             4 
 Mrs._Clinton         NNB             4 
-nation               NN1             4 
 national             JJ              4 
 her                  APPGE           4 
 country              NN1             4 
@@ -93,8 +94,8 @@ even                 RR              2
 character            NN1             2 
 traits               NN2             2 
 based_on             VVN             2 
-Mr._Trumps           NNB             2 
 just                 RR              2 
+Russia               NP1             2 
 officer              NN1             2 
 identify             VVI             2 
 vulnerabilities      NN2             2 
@@ -102,6 +103,7 @@ did                  VDD             2
 had                  VHD             2 
 against              II              2 
 who                  PNQS            2 
+C.I.A                NP1             2 
 33-year              JJ              1 
 central              JJ              1 
 intelligence_agency  NN1             1 
@@ -109,8 +111,7 @@ served               VVD             1
 presidents           NN2             1 
 republicans          NN2             1 
 democrats            NN2             1 
-George_W.            NP1             1 
-Bushs                NP2             1 
+George_W._Bush       NP1             1 
 side                 NN1             1 
 were                 VBDR            1 
 attacked             VVN             1 
@@ -185,9 +186,8 @@ change_her_mind      VVI             1
 presented            VVN             1 
 compelling           JJ              1 
 argument             NN1             1 
-secretarys           NN2             1 
+secretary            NN1             1 
 commitment           NN1             1 
-nations              NN2             1 
 belief               NN1             1 
 exceptional          JJ              1 
 must                 VM              1 
@@ -213,7 +213,7 @@ put                  VVI             1
 young                JJ              1 
 women                NN2             1 
 men                  NN2             1 
-harms                NN2             1 
+harm                 NN1             1 
 way                  NN1             1 
 advocate             NN1             1 
 brought              VVD             1 
@@ -299,7 +299,6 @@ damaging             VVG             1
 Vladimir             NP1             1 
 v.                   II              1 
 Putin                NP1             1 
-Russia               NP1             1 
 trained              VVN             1 
 individual           JJ              1 
 exploit              VVI             1 
@@ -336,8 +335,7 @@ interests            NN2             1
 endorsing            VVG             1 
 espionage            NN1             1 
 United_States        NP1             1 
-supporting           JJ              1 
-Russias              NP2             1 
+supporting           VVG             1 
 annexation           NN1             1 
 Crimea               NP1             1 
 giving               VVG             1 
@@ -383,7 +381,6 @@ including            II              1
 man                  NN1             1 
 whom                 PNQO            1 
 ran                  VVD             1 
-C.I.A.s              NP1             1 
 counterterrorism     NN1             1 
 center               NN1             1 
 nearly               RR              1 
@@ -397,7 +394,6 @@ training             NN1             1
 taught               VVD             1 
 call                 VVI             1 
 i_see                PPIS1           1 
-C.I.A                NP1             1 
 doing                VDG             1 
 now                  RT              1 
 much                 RR              1 

@@ -1,9 +1,6 @@
 animatronic              JJ      Z99 
 decade-long              JJ      Z99 
 empty-chair              NN1     Z99 
-Im                       VV0     Z99 
-isnt                     NN1     Z99 
-isnt                     VV0     Z99 
 lily-livered             JJ      Z99 
 Obama-Clinton            NP1     Z99 
 Paxman                   NN1     Z99 
@@ -14,5 +11,3 @@ pulverized               VVN     Z99
 quizzical                JJ      Z99 
 roaring                  JJ@     Z99 
 Sisyphean                JJ      Z99 
-theyre                   NN1     Z99 
-weve                     NN1     Z99 

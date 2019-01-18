@@ -18,7 +18,7 @@
 0000002 140  FO      dv3000                   Z99 
 0000002 150  NN1     Entertainment            K1 
 0000002 160  NN1     Notebook                 Q1.2 Y2 
-0000002 170  NN1     PC                       Y2 
+0000002 170  NP1     PC'                      Z99 
 0000002 180  II      in                       Z5 
 0000002 190  AT      the                      Z5 
 0000002 200  JJ      Indian                   Z2 
@@ -54,7 +54,8 @@
 0000006 040  NN2     pounds                   I1[i1.2.2 N3.5[i1.2.2 M7 
 0000006 041  ,       ,                        
 0000006 050  AT      the                      Z5 
-0000006 060  NN2     HPs                      Z3c 
+0000006 060  NN1     HP                       Z3c 
+0000006 061  GE      's                       Z5 
 0000006 070  JJ      initial                  T2+ 
 0000006 080  NN1     entertainment            K1 
 0000006 090  NN1     notebook                 Q1.2 Y2 
@@ -206,7 +207,8 @@
 0000010 100  NN1     computer                 Y2 
 0000010 110  RR      also                     N5++ 
 0000010 120  VVZ     contains                 A1.8+ A1.7+ 
-0000010 130  NP2     Intels                   Z3c 
+0000010 130  NP1     Intel                    Z3c 
+0000010 131  GE      's                       Z5 
 0000010 140  FU      802.11a/b/g              Z99 
 0000010 150  NN1     wireless                 Q4.3 Q1.3 
 0000010 160  NN1     module                   P1 N5.1- M3/W1 

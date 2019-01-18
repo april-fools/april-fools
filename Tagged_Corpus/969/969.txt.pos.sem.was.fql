@@ -1,24 +1,25 @@
-TOTAL              618
+TOTAL              627
 the                  Z5                  29 
 and                  Z5                  22 
 of                   Z5                  18 
 to                   Z5                  12 
 a                    Z5                  12 
+we                   Z8                   9 
+that                 Z8                   8 
 is                   A3+                  8 
-we                   Z8                   8 
 our                  Z8                   7 
-that                 Z8                   6 
 world                W1                   6 
 location             M7                   6 
+i                    Z8                   6 
 in                   Z5                   6 
 virtual              A13.4                6 
 with                 Z5                   5 
-i                    Z8                   5 
+it                   Z8                   5 
 want                 X7+                  5 
+'s                   Z5                   4 
 but                  Z5                   4 
 people               S2                   4 
 not                  Z6                   4 
-it                   Z8                   4 
 or                   Z5                   4 
 real                 A3+                  4 
 game                 K5.1                 4 
@@ -41,6 +42,7 @@ most                 A13.2                2
 was                  A3+                  2 
 years                T1.3                 2 
 can                  A7+                  2 
+there                Z5                   2 
 too                  N5++                 2 
 new                  T3-                  2 
 build                H1                   2 
@@ -59,7 +61,7 @@ do                   Z5                   2
 have                 A9+                  2 
 location-based       Z99                  2 
 yet                  T1.1.2               2 
-thats                Z5                   2 
+'s                   A3+                  2 
 understand           X2.5+                2 
 environment          W5                   2 
 reality-modding      Z99                  2 
@@ -68,7 +70,6 @@ physical             B1                   2
 via                  Z5                   2 
 this                 Z8                   2 
 you                  Z8                   2 
-its                  Z8                   2 
 VURB                 Z99                  2 
 how                  Z5                   2 
 use                  A1.5.1               2 
@@ -88,8 +89,8 @@ more                 A13.3                2
 millions             N1                   2 
 them                 Z8                   2 
 sixth                N1                   1 
-OReilly              Z99                  1 
-medias               Q4                   1 
+O'Reilly             Z99                  1 
+media                Q4                   1 
 annual               N6+                  1 
 conference           S1.1.3+              1 
 wrapped              A1.1.1               1 
@@ -114,7 +115,6 @@ value                A11.1+               1
 geographic           W3                   1 
 location-aware       Z99                  1 
 advertising          I2.2                 1 
-there                Z5                   1 
 else                 A6.1-                1 
 going_on             T2++                 1 
 complex              A12-                 1 
@@ -149,7 +149,7 @@ simplest             A12+++               1
 geo                  W3                   1 
 tools                O2                   1 
 after_all            Z4                   1 
-im                   Z99                  1 
+'m                   Z5                   1 
 suffering            E4.1-                1 
 withdrawal           M2                   1 
 swarm                N5+                  1 
@@ -172,7 +172,6 @@ on                   Z5                   1
 helping              S8+                  1 
 access               M1                   1 
 more                 N5++                 1 
-theres               Z5                   1 
 been                 A3+                  1 
 no                   Z6                   1 
 breakthrough         X9.2+                1 
@@ -181,7 +180,7 @@ friend-finding       Z99                  1
 place-finding        Z99                  1 
 applications         Q1.2                 1 
 humans               S2                   1 
-nt                   S9                   1 
+n't                  Z6                   1 
 local                M7                   1 
 better               A5.1++               1 
 control              S7.1+                1 
@@ -238,7 +237,7 @@ design               C1                   1
 human-               Z99                  1 
 city-scale           Z99                  1 
 which                Z8                   1 
-Ben_Cervenys         Z1                   1 
+Ben_Cerveny          Z1                   1 
 work                 I3.1                 1 
 gets                 A9+                  1 
 really               A13.3                1 
@@ -272,7 +271,7 @@ smartphones          Z99                  1
 container            O2                   1 
 number               N5                   1 
 soon                 T1.1.3               1 
-well                 A5.1+                1 
+'ll                  T1.1.3               1 
 track                X2.4                 1 
 locations            M7                   1 
 spread               F1                   1 
@@ -362,6 +361,7 @@ Othman_Laraki        Z1                   1
 geostreams           Z99                  1 
 services_industry    I4                   1 
 matured              T3+                  1 
+its                  Z8                   1 
 possibilities        A7+                  1 
 remain               T2++                 1 
 largely              A13.2                1 
@@ -369,7 +369,8 @@ unrealized           X9.2-                1
 gigaom               Z99                  1 
 pro_content          Q2.1                 1 
 sub                  K5.1                 1 
-reqd                 Z99                  1 
+req                  Z99                  1 
+'d                   A7+                  1 
 epicenter            Z99                  1 
 Mobile               M1                   1 
 innovation           T3-                  1 

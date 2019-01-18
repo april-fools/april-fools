@@ -1,4 +1,4 @@
-TOTAL              371
+TOTAL              376
 the                  AT             30 
 in                   II             10 
 of                   IO             10 
@@ -9,10 +9,12 @@ is                   VBZ             6
 to                   TO              6 
 will                 VM              6 
 at                   II              5 
+show                 NN1             5 
+'s                   GE              5 
 physicist            NN1             4 
 he                   PPHS1           4 
-show                 NN1             4 
 as                   CSA             4 
+Cox                  NP1             4 
 his                  APPGE           4 
 particle             NN1             3 
 has                  VHZ             3 
@@ -23,6 +25,7 @@ Weatherfield         NP1             3
 to                   II              3 
 that                 CST             3 
 Knox                 NP1             3 
+CERN                 NP1             3 
 physics              NN1             3 
 set                  VVN             2 
 soap_opera           NN1             2 
@@ -37,10 +40,10 @@ was                  VBDZ            2
 indeed               RR              2 
 can                  VM              2 
 prime-time           NNT1            2 
-Cox                  NP1             2 
 an                   AT1             2 
 known                VVN             2 
 Corrie               NP1             2 
+street               NN1             2 
 rovers               NN2             2 
 return               VV0             2 
 who                  PNQS            2 
@@ -49,7 +52,6 @@ or                   CC              2
 character            NN1             2 
 Weatherfield_polytechnic NP1             2 
 physicsworld.com     NNU             2 
-CERN                 NP1             2 
 after                II              2 
 one                  MC1             2 
 career               NN1             2 
@@ -124,7 +126,6 @@ a_number_of          AT1             1
 dysfunctional        JJ              1 
 families             NN2             1 
 living               VVG             1 
-street               NN1             1 
 pub                  NN1             1 
 its                  APPGE           1 
 main                 JJ              1 
@@ -152,7 +153,6 @@ although             CS              1
 details              NN2             1 
 about                II              1 
 storyline            NN1             1 
-coxs                 NN2             1 
 are                  VBR             1 
 scarce               JJ              1 
 learned              VVN             1 
@@ -167,7 +167,6 @@ meat_and_potato_pie  NN1             1
 onto                 II              1 
 electrical           JJ              1 
 connection           NN1             1 
-CERNs                NP2             1 
 large                JJ              1 
 hadron               NN1             1 
 collider             NN1             1 
@@ -197,13 +196,11 @@ scenes               NN2             1
 involve              VVI             1 
 him                  PPHO1           1 
 lecturing            VVG             1 
-shows                NN2             1 
 stars                NN2             1 
 as_well              II31            1 
 as                   II33            1 
 encouraging          VVG             1 
-streets              NN2             1 
-rebel                VV0             1 
+rebel                NN1             1 
 teenager             NN1             1 
 Rosie_Webster        NP1             1 
 pursue               VVI             1 
@@ -211,7 +208,6 @@ it                   PPH1            1
 not                  XX              1 
 yet                  RR              1 
 whether              CSW             1 
-Coxs                 NP2             1 
 appearance           NN1             1 
 one-off              NN1             1 
 if                   CS              1 

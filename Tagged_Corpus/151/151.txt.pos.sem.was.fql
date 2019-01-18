@@ -1,4 +1,4 @@
-TOTAL              255
+TOTAL              258
 the                  Z5                  19 
 to                   Z5                   9 
 of                   Z5                   9 
@@ -11,7 +11,6 @@ kaleb                Z99                  3
 at                   Z5                   3 
 one                  N1                   3 
 in                   Z5                   3 
-that                 Z5                   3 
 an                   Z5                   3 
 nation               G1.1                 2 
 behind               Z5                   2 
@@ -25,6 +24,8 @@ what                 Z8                   2
 we                   Z8                   2 
 be                   A3+                  2 
 book                 Q4.1                 2 
+was                  A3+                  2 
+n't                  Z6                   2 
 enough               N5+                  2 
 even                 A13.1                2 
 when                 Z5                   2 
@@ -32,6 +33,7 @@ but                  Z5                   2
 web                  Y2                   2 
 chapter              Q4.1                 2 
 by                   Z5                   2 
+that                 Z5                   2 
 week                 T1.3                 2 
 from                 Z5                   2 
 genius               X9.1+                1 
@@ -66,8 +68,8 @@ has                  Z5                   1
 already              T1.1.1               1 
 signed               Q1.2                 1 
 with                 Z5                   1 
-new                  T3-                  1 
-Yorks                Z2                   1 
+New_York             Z2                   1 
+'s                   Z5                   1 
 leading              S7.1+                1 
 literary             Q4.1                 1 
 agencies             I2.2                 1 
@@ -85,13 +87,12 @@ store                I2.2                 1
 fall                 M1                   1 
 year                 T1.3                 1 
 if                   Z7                   1 
-wasnt                Z99                  1 
+that                 Z8                   1 
 make                 A1.1.1               1 
 you                  Z8                   1 
 swoon                B2-                  1 
 media                Q4                   1 
 earlier              N4                   1 
-was                  A3+                  1 
 thirteen             T3                   1 
 his_own              Z8                   1 
 radio                Q4.3                 1 
@@ -107,7 +108,8 @@ hosts                S2                   1
 on_air               Q4.3                 1 
 accomplishment       X9.2+                1 
 wait                 T1.3                 1 
-theres               Z5                   1 
+there                Z5                   1 
+'s                   A3+                  1 
 more                 A13.3                1 
 website              Y2                   1 
 provide              A9-                  1 
@@ -156,7 +158,7 @@ spent                I1.2                 1
 red                  O4.3                 1 
 carpet               H5                   1 
 just                 A14                  1 
-cant                 Q2.1                 1 
+ca                   A7+                  1 
 get                  A9+                  1 
 move                 M2                   1 
 over                 Z5                   1 

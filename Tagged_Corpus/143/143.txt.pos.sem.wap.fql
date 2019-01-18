@@ -1,19 +1,20 @@
-TOTAL              433
+TOTAL              439
 the                  AT             23 
 a                    AT1            15 
 and                  CC             14 
 in                   II             11 
 apple                NN1            10 
+you                  PPY             8 
 to                   TO              8 
 McIntosh             NP1             7 
 is                   VBZ             7 
+we                   PPIS2           6 
 of                   IO              6 
 skin                 NN1             6 
-we                   PPIS2           5 
 with                 IW              5 
 to                   II              5 
+'re                  VBR             4 
 it                   PPH1            4 
-you                  PPY             4 
 if                   CS              4 
 an                   AT1             3 
 cultivar             NN1             3 
@@ -25,10 +26,8 @@ not                  XX              3
 peanut               NN1             3 
 were                 VBDR            3 
 tasty                JJ              3 
-tasted               VVD             2 
 can                  VM              2 
 that                 CST             2 
-youre                VV0             2 
 tart                 JJ              2 
 most                 RGT             2 
 unpeeled             JJ              2 
@@ -58,11 +57,11 @@ juicy                JJ              2
 flavour              NN1             2 
 pieces               NN2             2 
 delicious            JJ              2 
-youre                NN1             2 
 instead              RR              2 
 variety              NN1             2 
 slightly             RR              2 
-Weve                 NP1             1 
+'ve                  VH0             1 
+tasted               VVN             1 
 few                  DA2             1 
 different            JJ              1 
 types                NN2             1 
@@ -107,7 +106,8 @@ extremely            RR              1
 common               JJ              1 
 find                 VVI             1 
 packed               VVN             1 
-childrens            NN2             1 
+children             NN2             1 
+'s                   GE              1 
 lunches              NN2             1 
 owing_to             II21            1 
 medium               JJ              1 
@@ -187,6 +187,7 @@ slice                NN1             1
 another              DD1             1 
 results              NN2             1 
 unequivocally        RR              1 
+tasted               VVD             1 
 crisp                JJ              1 
 was                  VBDZ            1 
 filled               VVN             1 

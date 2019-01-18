@@ -30,8 +30,9 @@
 0000002 220  APPGE   my                       Z8 
 0000002 230  NN1     wife                     S4f 
 0000002 240  CC      and                      Z5 
-0000002 250  NN1     Id                       X2 
-0000002 260  VVD     spent                    I1.2 A1.5.1 T1.3 
+0000002 250  PPIS1   I                        Z8mf 
+0000002 251  VHD     'd                       Z5 
+0000002 260  VVN     spent                    I1.2 A1.5.1 T1.3 
 0000002 270  MC      16                       N1 T1.2 T3 T1.3 N3.2 
 0000002 280  CC      or                       Z5 
 0000002 290  MC      17                       N1 T1.2 T3 T1.3 N3.2 
@@ -270,7 +271,8 @@
 0000009 001  -----   -----                    
 0000010 010  RR      So                       Z5 A13.3 
 0000010 020  RRQ     why                      A2.2 
-0000010 030  NN1     isnt                     Z99 
+0000010 030  VBZ     is                       Z5 A3+ 
+0000010 031  XX      n't                      Z6 
 0000010 040  NN1     decency                  S1.2.4+ 
 0000010 050  VDG     doing                    A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
 0000010 060  NN1%    better                   A5.1++/S2mf 
@@ -301,14 +303,16 @@
 0000012 190  NN1     interview                Q2.1 
 0000012 191  .       .                        
 0000012 192  -----   -----                    
-0000012 200  NN1     Id                       X2 
-0000012 210  VV0     send                     M2[i6.2.1 Q1.2[i6.2.1 M2 A2.2 
+0000012 200  PPIS1   I                        Z8mf 
+0000012 201  VM      'd                       A7+ 
+0000012 210  VVI     send                     M2[i6.2.1 Q1.2[i6.2.1 M2 A2.2 
 0000012 220  PPHO1   him                      Z8m 
 0000012 230  RL      away                     M2[i6.2.2 Q1.2[i6.2.2 M6 A1.1.1% 
 0000012 231  .       .                        
 0000012 232  -----   -----                    
-0000012 240  NN1     Id                       X2 
-0000012 250  VV0     tell                     Q2.2 Q2.1 X3 A10+ 
+0000012 240  PPIS1   I                        Z8mf 
+0000012 241  VM      'd                       A7+ 
+0000012 250  VVI     tell                     Q2.2 Q2.1 X3 A10+ 
 0000012 260  APPGE   my                       Z8 
 0000012 270  NN1     daughter                 S4f 
 0000012 280  TO      to                       Z5 
@@ -318,14 +322,15 @@
 0000013 001  -----   -----                    
 0000014 010  PPIS1   I                        Z8mf 
 0000014 020  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000014 021  XX      nt                       S9/Q4.1 Z3c 
+0000014 021  XX      n't                      Z6 
 0000014 030  VVI     know                     X2.2+ S3.2/B1% 
 0000014 040  NNB     Mr.                      Z1m[i7.2.1 S2.2m 
 0000014 050  NP1     Trump                    Z1m[i7.2.2 Z1mf 
 0000014 051  .       .                        
 0000014 052  -----   -----                    
 0000014 060  CCB     But                      Z5 
-0000014 070  NN1     Ive                      Z99 
+0000014 070  PPIS1   I                        Z8mf 
+0000014 071  VH0     've                      Z5 A9+ A2.2 
 0000014 080  VBN     been                     Z5 A3+ 
 0000014 090  VVN@    chagrined                Z99 
 0000014 100  II      at                       Z5 
@@ -346,7 +351,8 @@
 0000014 210  NN1     mockery                  Q2.2/S1.2.4- S7.2- X9.2- 
 0000014 220  IO      of                       Z5 
 0000014 230  AT1     a                        Z5 
-0000014 240  NN2     reporters                Q4.2/S2mf 
+0000014 240  NN1     reporter                 Q4.2/S2mf 
+0000014 241  GE      's                       Z5 
 0000014 250  JJ      menstrual                B1[i8.2.1 B1 
 0000014 260  NN1     cycle                    B1[i8.2.2 M3fn N6 B1 
 0000014 261  .       .                        
@@ -434,7 +440,8 @@
 0000015 001  -----   -----                    
 0000016 010  DA      Such                     Z5 Z8 
 0000016 020  NN2     insensitivities          Z99 
-0000016 030  NN1     wouldnt                  Z99 
+0000016 030  VM      would                    A7+ 
+0000016 031  XX      n't                      Z6 
 0000016 040  VBI     be                       A3+ Z5 
 0000016 050  JJ      acceptable               A5.1+ 
 0000016 060  RR      even                     A13.1 
@@ -484,14 +491,15 @@
 0000018 120  NN1     campaign                 X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 G3 
 0000018 121  .       .                        
 0000018 122  -----   -----                    
-0000018 130  VV0     Im                       Z99 
+0000018 130  PPIS1   I                        Z8mf 
+0000018 131  VBM     'm                       A3+ Z5 
 0000018 140  AT1     a                        Z5 
 0000018 150  NN1     pastor                   S9/S2mf 
 0000018 151  .       .                        
 0000018 152  -----   -----                    
 0000018 160  PPIS1   I                        Z8mf 
 0000018 170  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000018 171  XX      nt                       S9/Q4.1 Z3c 
+0000018 171  XX      n't                      Z6 
 0000018 180  VVI     endorse                  S8+/Q2.2 Q1.2 
 0000018 190  NN2     candidates               G1.2/S2mf I3.1/S2mf P1/S2mf A7+ A1.2+ 
 0000018 200  CC      or                       Z5 
@@ -560,9 +568,10 @@
 0000018 710  NN2     schools                  P1/H1c S5+c L2%c 
 0000018 711  .       .                        
 0000018 712  -----   -----                    
-0000018 720  VV0     Shouldnt                 Z99 
+0000018 720  VM      Should                   S6+ A7+ 
+0000018 721  XX      n't                      Z6 
 0000018 730  PPIS2   we                       Z8 
-0000018 740  VD0     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000018 740  VDI     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
 0000018 750  AT      the                      Z5 
 0000018 760  DA      same                     A6.1+++ 
 0000018 770  II      in                       Z5 
@@ -609,7 +618,8 @@
 0000020 310  NN1     tongue                   B1 F1 B5 O2% 
 0000020 311  .       .                        
 0000020 312  -----   -----                    
-0000020 320  APPGE   Its                      Z8 
+0000020 320  PPH1    It                       Z8 
+0000020 321  VBZ     's                       A3+ Z5 
 0000020 330  JJ      hard                     O4.5 A12- S1.2.5+ O4.1 
 0000020 340  TO      to                       Z5 
 0000020 350  VVI     imagine                  X2.1 A5.2- 
@@ -632,7 +642,7 @@
 0000020 502  -----   -----                    
 0000020 510  PPIS1   I                        Z8mf 
 0000020 520  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000020 521  XX      nt                       S9/Q4.1 Z3c 
+0000020 521  XX      n't                      Z6 
 0000020 530  VVI     vote                     G1.2 
 0000020 540  IF      for                      Z5 
 0000020 550  NNB     President                G1.1/S7.1+/S2mf 
@@ -659,7 +669,7 @@
 0000020 730  RR22    least                    A13.7[i24.2.2 A13.7 
 0000020 740  PPIS2   we                       Z8 
 0000020 750  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000020 751  XX      nt                       S9/Q4.1 Z3c 
+0000020 751  XX      n't                      Z6 
 0000020 760  VVI     wince                    B1 
 0000020 770  RRQ     when                     Z5 
 0000020 780  PPHS1   he                       Z8m 
@@ -788,7 +798,8 @@
 0000026 030  NN1     explanation              Q2.2/A7+ A2.2 
 0000026 040  IF      for                      Z5 
 0000026 050  NNB     Mr.                      Z1m[i34.2.1 S2.2m 
-0000026 060  NP1     Trumps                   Z1m[i34.2.2 Z1mf 
+0000026 060  NP1     Trump                    Z1m[i34.2.2 Z1mf 
+0000026 061  GE      's                       Z5 
 0000026 070  NN1     success                  X9.2+ 
 0000026 080  VBZ     is                       A3+ Z5 
 0000026 090  DD1     this                     M6 Z5 Z8 
@@ -967,12 +978,14 @@
 0000030 100  MC1     one                      N1 T3 T1.2 
 0000030 110  IO      of                       Z5 
 0000030 120  APPGE   my                       Z8 
-0000030 130  NN2     daughters                S4f 
-0000030 140  VVZ     dates                    T3 S3.2 
+0000030 130  NN1     daughter                 S4f 
+0000030 131  GE      's                       Z5 
+0000030 140  NN2     dates                    T1.2 S3.2 S3.2/S2mf 
 0000030 141  .       .                        
 0000030 142  -----   -----                    
 0000030 150  PPHS2   They                     Z8mfn 
-0000030 160  JJ      werent                   Z99 
+0000030 160  VBDR    were                     A3+ Z5 
+0000030 161  XX      n't                      Z6 
 0000030 170  JJ      perfect                  A5.1+++ A1.2+++ Q3 
 0000030 171  ,       ,                        
 0000030 180  CCB     but                      Z5 

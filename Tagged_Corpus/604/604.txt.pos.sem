@@ -470,7 +470,8 @@
 0000029 400  CS      since                    Z5 
 0000029 410  NP1     Bertelsmann              Z99 
 0000029 420  VVD     acquired                 A9+ 
-0000029 430  NNT2    Times                    Z3 
+0000029 430  NNT1    Time                     Z3c 
+0000029 431  GE      's                       Z5 
 0000029 440  NNU     50%                      N5 
 0000029 450  NN1     stake                    I1/A1.4 S1.1.2+ O2 
 0000029 460  II      in                       Z5 
@@ -547,7 +548,8 @@
 0000030 530  REX     e.g.                     A4.1 
 0000030 531  ,       ,                        
 0000030 540  VV0     Sandow                   Z99 
-0000030 550  NN2     Medias                   Q4 
+0000030 550  NN      Media                    Q4c 
+0000030 551  GE      's                       Z5 
 0000030 560  NN1     acquisition              A9+ 
 0000030 570  IO      of                       Z5 
 0000030 580  JJ      Western                  M6 T3- 
@@ -556,7 +558,8 @@
 0000030 610  NN1     Design                   C1 X7+ B5 
 0000030 620  CC      and                      Z5 
 0000030 630  JJ      Indigo                   O4.3 
-0000030 640  NN2     Acquisitions             A9+ 
+0000030 640  NN1     Acquisition              A9+ 
+0000030 641  GE      's                       Z5 
 0000030 650  NN1     purchase                 I2.2 
 0000030 660  IO      of                       Z5 
 0000030 670  NN1     Garden                   L3/H3 M7/L3 
@@ -605,7 +608,8 @@
 0000031 340  II22    as                       Z5[i31.2.2 Z5 
 0000031 350  NP1     Hellman                  Z99 
 0000031 360  CC      and                      Z5 
-0000031 370  NP2     Friedmans                Z99 
+0000031 370  NP1     Friedman                 Z99 
+0000031 371  GE      's                       Z5 
 0000031 380  NN1     purchase                 I2.2 
 0000031 390  IO      of                       Z5 
 0000031 400  NP1     Getty                    Z99 
@@ -615,7 +619,8 @@
 0000031 440  NNO     billion                  I1.2/Z99[i32.2.2 N1 I1 
 0000031 450  CC      and                      Z5 
 0000031 460  NP1     Reed                     Z1mf[i33.2.1 Z3c[i33.2.1 Z1mf 
-0000031 470  NP1     Elseviers                Z1mf[i33.2.2 Z3c[i33.2.2 
+0000031 470  NP1     Elsevier                 Z1mf[i33.2.2 Z3c[i33.2.2 
+0000031 471  GE      's                       Z5 
 0000031 480  NNU     $4.1                     I1.2/Z99[i34.2.1 
 0000031 490  NNO     billion                  I1.2/Z99[i34.2.2 N1 I1 
 0000031 500  NN1     purchase                 I2.2 
@@ -656,7 +661,8 @@
 0000032 260  VVN     completed                T2- Q1.2 
 0000032 261  ,       ,                        
 0000032 270  II      including                A1.8+ 
-0000032 280  NP2     EBSCOs                   Z99 
+0000032 280  NP1     EBSCO                    Z99 
+0000032 281  GE      's                       Z5 
 0000032 290  NN1     acquisition              A9+ 
 0000032 300  IO      of                       Z5 
 0000032 310  NP1     Salem                    Z2 Z1mf 
@@ -706,7 +712,8 @@
 0000033 240  TO      to                       Z5 
 0000033 250  VVI     compare                  A6.1 A5.1 Q3 
 0000033 260  IW      with                     Z5 
-0000033 270  NP1     VSSs                     Z99 
+0000033 270  NP1     VSS                      Z99 
+0000033 271  GE      's                       Z5 
 0000033 280  NN1     acquisition              A9+ 
 0000033 290  IO      of                       Z5 
 0000033 300  NN1     Clarion                  Z99 
@@ -805,7 +812,8 @@
 0000034 570  II      in                       Z5 
 0000034 580  FO      Q109                     Z99 
 0000034 590  VV0     include                  A1.8+ 
-0000034 600  NN1     JEGIs                    Z99 
+0000034 600  NP1     JEGI                     Z99 
+0000034 601  GE      's                       Z5 
 0000034 610  NN1     sale                     I2.2 I2.2/I1.3- 
 0000034 620  IO      of                       Z5 
 0000034 630  NN1     mSnap                    Z99 
@@ -813,8 +821,9 @@
 0000034 650  NP1     SmartReply               Z99 
 0000034 651  ,       ,                        
 0000034 660  CC      and                      Z5 
-0000034 670  NN1     Haggin                   Z99 
-0000034 680  NN2     Marketings               I2.2 
+0000034 670  NP1     Haggin                   Z99 
+0000034 680  NN1     Marketing                I2.2 
+0000034 681  GE      's                       Z5 
 0000034 690  NN1     acquisition              A9+ 
 0000034 700  IO      of                       Z5 
 0000034 710  NN1     SolutionSet              Z99 
@@ -879,7 +888,8 @@
 0000035 480  II21    such                     Z5[i49.2.1 
 0000035 490  II22    as                       Z5[i49.2.2 Z5 
 0000035 500  NN1     Platinum                 O1.1 
-0000035 510  NN2     Equitys                  G2.2+ G2.1 I1.1 
+0000035 510  NN1     Equity                   G2.2+ G2.1 I1.1 
+0000035 511  GE      's                       Z5 
 0000035 520  NN1     acquisition              A9+ 
 0000035 530  IO      of                       Z5 
 0000035 540  AT      the                      Z5 
@@ -953,7 +963,8 @@
 0000036 501  ,       ,                        
 0000036 510  II21    such                     Z5[i62.2.1 
 0000036 520  II22    as                       Z5[i62.2.2 Z5 
-0000036 530  NP2     IACs                     Z99 
+0000036 530  NP1     IAC                      Z99 
+0000036 531  GE      's                       Z5 
 0000036 540  NN1     sale                     I2.2 I2.2/I1.3- 
 0000036 550  IO      of                       Z5 
 0000036 560  NP1     Match.com                Z99 

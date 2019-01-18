@@ -1,4 +1,4 @@
-TOTAL         193
+TOTAL         194
 NN1            37 
 AT             17 
 II             12 
@@ -12,10 +12,10 @@ VM              6
 AT1             5 
 CS              5 
 IO              5 
-NP1             5 
 CST             4 
 VV0             4 
 VVD             4 
+NP1             4 
 VVN             3 
 RRQ             3 
 VBR             3 
@@ -39,6 +39,8 @@ PNQS            1
 DD1             1 
 VDI             1 
 PN1             1 
+PPIS1           1 
+VBM             1 
 NNT1            1 
 GE              1 
 MC              1 

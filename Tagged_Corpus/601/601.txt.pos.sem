@@ -285,7 +285,7 @@
 0000012 002  -----   -----                    
 0000012 010  PPIS2   We                       Z8 
 0000012 020  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000012 021  XX      nt                       S9/Q4.1 Z3c 
+0000012 021  XX      n't                      Z6 
 0000012 030  VVI     expect                   X2.6+ B1 
 0000012 040  CST     that                     Z5 Z8 
 0000012 050  NN2     anglers                  K5.1/S2mf 
@@ -338,8 +338,9 @@
 0000012 420  VV0     gain                     A9+ N5+/A2.1 
 0000012 430  II      from                     Z5 
 0000012 440  AT      the                      Z5 
-0000012 450  NN2     Anglers                  K5.1/S2mf 
-0000012 460  VV0@    Log                      Q1.2 
+0000012 450  NN1     Angler                   F4/S2mf K5.1/S2mf 
+0000012 451  GE      's                       Z5 
+0000012 460  NN1     Log                      O2 Q1.2 N2 
 0000012 470  NN2     reports                  Q2.2 X3.2 
 0000012 480  VBR     are                      A3+ Z5 
 0000012 490  RR      also                     N5++ 
@@ -470,9 +471,11 @@
 0000018 230  NP1     Maryland                 Z2 Z3c 
 0000018 240  II      on                       Z5 
 0000018 250  AT      the                      Z5 
-0000018 260  NP1     DNRs                     Z99 
-0000018 270  NN2     Anglers                  K5.1/S2mf 
-0000018 280  VV0@    Log                      Q1.2 
+0000018 260  NP1     DNR                      Z99 
+0000018 261  GE      's                       Z5 
+0000018 270  NN1     Angler                   F4/S2mf K5.1/S2mf 
+0000018 271  GE      's                       Z5 
+0000018 280  NN1     Log                      O2 Q1.2 N2 
 0000018 290  NN1     webpage                  Y2 
 0000018 291  .       .                        
 0000018 292  -----   -----                    

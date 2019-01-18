@@ -1,22 +1,23 @@
-TOTAL              355
+TOTAL              365
 the                  AT             24 
+Obama                NP1             9 
 and                  CC              9 
 of                   IO              9 
-Obama                NP1             7 
 his                  APPGE           7 
 in                   II              7 
 for                  IF              7 
 is                   VBZ             6 
+'s                   GE              6 
+i                    PPIS1           6 
 a                    AT1             5 
 will                 VM              4 
 birth_certificate    NN1             4 
-i                    PPIS1           4 
+he                   PPHS1           4 
 which                DDQ             3 
 about                II              3 
 have                 VH0             3 
 forged               JJ              3 
 years                NNT2            3 
-he                   PPHS1           3 
 high                 JJ              3 
 me                   PPIO1           3 
 that                 CST             3 
@@ -29,8 +30,9 @@ be                   VBI             2
 treason              NN1             2 
 trolls               NN2             2 
 because              CS              2 
+they                 PPHS2           2 
 to                   II              2 
-im                   VV0             2 
+'m                   VBM             2 
 says                 VVZ             2 
 my                   APPGE           2 
 family               NN1             2 
@@ -38,7 +40,7 @@ royal                JJ              2
 our                  APPGE           2 
 from                 II              2 
 the_royal            AT              2 
-palaces              NN2             2 
+palace               NN1             2 
 America              NP1             2 
 leaving              VVG             2 
 whips                VVZ             2 
@@ -58,10 +60,9 @@ closing_in           VVG             1
 noticed              VVN             1 
 prepared             VVN             1 
 yourself             PPX1            1 
-obamas               NN2             1 
-heading              VVG             1 
+heading              NN1             1 
 courts               NN2             1 
-hell                 NN1             1 
+'ll                  VM              1 
 handed_down          VVN             1 
 thousands            NNO2            1 
 jail                 NN1             1 
@@ -75,7 +76,7 @@ than                 CSN             1
 any                  DD              1 
 Hitler               NP1             1 
 or                   CC              1 
-Stalins              NP2             1 
+Stalin               NP1             1 
 crimes               NN2             1 
 seeing               VVG             1 
 got                  VVD             1 
@@ -84,7 +85,7 @@ codes                NN2             1
 those                DD2             1 
 two                  MC              1 
 did                  VDD             1 
-nt                   XX              1 
+n't                  XX              1 
 king_of_Shambhala    NN1             1 
 also                 RR              1 
 see                  VV0             1 
@@ -93,7 +94,6 @@ mentally_ill         RR              1
 criminal             JJ              1 
 been                 VBN             1 
 heckling             VVG             1 
-they                 PPHS2           1 
 object               VV0             1 
 fact                 NN1             1 
 messiah              NN1             1 
@@ -106,7 +106,6 @@ truth                NN1             1
 alone                RR              1 
 reveal               VV0             1 
 lottery              NN1             1 
-Obamas               NP2             1 
 homestate            NN1             1 
 drew                 VVD             1 
 666                  MC              1 
@@ -122,7 +121,7 @@ troll                NN1             1
 pathological         JJ              1 
 behaviour            NN1             1 
 ignore               VV0             1 
-theyre               NN1             1 
+'re                  VBR             1 
 crazy                JJ              1 
 person               NN1             1 
 spiritual            JJ              1 
@@ -150,7 +149,7 @@ Russia               NP1             1
 Norway               NP1             1 
 among                II              1 
 others               NN2             1 
-grandmothers         NN2             1 
+grandmother          NN1             1 
 aunt                 NN1             1 
 else                 RR              1 
 Werring              NP1             1 
@@ -211,7 +210,7 @@ to                   TO              1
 defying              VVG             1 
 will                 NN1             1 
 stating              VVG             1 
-s                    VBZ             1 
+'s                   VBZ             1 
 saying               VVG             1 
 short                JJ              1 
 clip                 NN1             1 

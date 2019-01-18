@@ -1,18 +1,19 @@
-TOTAL              150
+TOTAL              153
+Microsoft            Z3                   6 
 and                  Z5                   6 
 the                  Z5                   6 
-Microsoft            Z3                   5 
 to                   Z5                   5 
-its                  Z8                   4 
+it                   Z8                   4 
 of                   Z5                   4 
 is                   A3+                  3 
 Nasdaq               Z3                   3 
-it                   Z8                   2 
+its                  Z8                   2 
 universe             W1                   2 
 Novell               Z99                  2 
 inc                  I2.1                 2 
 NOVL                 Z99                  2 
 that                 Z5                   2 
+'s                   Z5                   2 
 their                Z8                   2 
 customers            I2.2                 2 
 that                 Z8                   2 
@@ -44,7 +45,6 @@ which                Z8                   1
 possesses            A9+                  1 
 unix                 Z99                  1 
 one                  N1                   1 
-Microsofts           Z3                   1 
 most                 A13.2                1 
 formidable           E5-                  1 
 competitors          S7.3+                1 
@@ -92,6 +92,7 @@ businesses           I2.1                 1
 realize              X2.5+                1 
 full                 N5.1+                1 
 potential            A7+                  1 
+'s                   A3+                  1 
 possible             A7+                  1 
 you                  Z8                   1 
 can                  A7+                  1 

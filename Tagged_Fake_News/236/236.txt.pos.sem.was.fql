@@ -1,4 +1,4 @@
-TOTAL              360
+TOTAL              363
 the                  Z5                  27 
 to                   Z5                  17 
 in                   Z5                  10 
@@ -10,6 +10,7 @@ that                 Z8                   5
 election             G1.2                 4 
 post                 Q1.2                 4 
 that                 Z5                   4 
+President            G1.1                 4 
 we                   Z8                   4 
 and                  Z5                   4 
 Russia               Z2                   4 
@@ -18,7 +19,7 @@ Obama                Z99                  3
 response             Q2.1                 3 
 may                  A7+                  3 
 russian              Z2                   3 
-President            G1.1                 3 
+'s                   Z5                   3 
 respond              S1.1.2+              3 
 meddling             S1.1.3+++            3 
 elections            G1.2                 3 
@@ -64,8 +65,7 @@ which                Z8                   1
 cyber-operations     Z99                  1 
 alleged              Q2.2                 1 
 interference         S1.1.3+++            1 
-last                 N4                   1 
-months               T1.3                 1 
+last_month           T1.1.1               1 
 Washington           Z2                   1 
 citing               Q2.2                 1 
 anonymous            A10-                 1 
@@ -102,7 +102,8 @@ of_our_own           A9+                  1
 choosing             X7+                  1 
 Mr._Obama            Z1                   1 
 told                 Q2.1                 1 
-NPRs_Steve_Inskeep   Z1                   1 
+NPR                  Z99                  1 
+Steve_Inskeep        Z2                   1 
 earlier              N4                   1 
 month                T1.3                 1 
 explicit             A4.2+                1 
@@ -138,7 +139,6 @@ last-ditch           Z99                  1
 effort               X8+                  1 
 within               Z5                   1 
 expand               N3.2+                1 
-presidents           G1.1                 1 
 matter               X4.1                 1 
 trying               X8+                  1 
 figure_out           X2.5+                1 
@@ -198,7 +198,7 @@ pretty               A13.5                1
 well                 A5.1+                1 
 2016                 N1                   1 
 so                   Z5                   1 
-lets                 S7.4+                1 
+let_'s               Z5                   1 
 keep_going           T2++                 1 
 every_two_years      N6+                  1 
 country              G1.1                 1 

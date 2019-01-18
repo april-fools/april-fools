@@ -68,7 +68,8 @@
 0000004 050  VBDR    were                     A3+ Z5 
 0000004 060  JJ      safe                     A15+ A7+ 
 0000004 070  VVG     using                    A1.5.1 S7.1+ 
-0000004 080  MC2     1970s                    T1.3 N1 T3 
+0000004 080  MC      1970                     N1 T1.2 T3 T1.3 N3.2 
+0000004 081  VBZ     's                       Z5 A3+ 
 0000004 090  VVN     based                    T2+ M6 A2.2 
 0000004 100  NN1     technology               Y1 
 0000004 110  CC      and                      Z5 
@@ -77,7 +78,7 @@
 0000004 131  ,       ,                        
 0000004 140  PPHS2   They                     Z8mfn 
 0000004 150  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000004 151  XX      nt                       S9/Q4.1 Z3c 
+0000004 151  XX      n't                      Z6 
 0000004 160  RR      even                     A13.1 
 0000004 170  VVI     teach                    P1 
 0000004 180  CST     that                     Z8 Z5 
@@ -112,7 +113,8 @@
 0000004 420  NN1     anonymity                A10- 
 0000004 430  CC      and                      Z5 
 0000004 440  RR      also                     N5++ 
-0000004 450  VV0     wasnt                    Z99 
+0000004 450  VBDZ    was                      A3+ Z5 
+0000004 451  XX      n't                      Z6 
 0000004 460  RG      quite                    A13.5 A13.6 A13.2 
 0000004 470  JJ      happy                    E4.1+ E4.2+ 
 0000004 480  IW      with                     Z5 
@@ -141,7 +143,7 @@
 0000004 680  VV0     mean                     Z4[i7.2.2 Q1.1 X7+ 
 0000004 690  PPIS2   we                       Z8 
 0000004 700  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000004 701  XX      nt                       S9/Q4.1 Z3c 
+0000004 701  XX      n't                      Z6 
 0000004 710  RR      even                     A13.1 
 0000004 720  VVI     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
 0000004 730  TO      to                       Z5 
@@ -264,8 +266,9 @@
 0000006 710  NN1     tape                     K3 Q4.3 Y2 O2 
 0000006 720  NN1     library                  Q4.1/H1c 
 0000006 730  CST     that                     Z8 Z5 
-0000006 740  VV0     wasnt                    Z99 
-0000006 750  JJ@     encrypted                A10-/Q1.2 
+0000006 740  VBDZ    was                      Z5 A3+ 
+0000006 741  XX      n't                      Z6 
+0000006 750  VVN@    encrypted                A10-/Q1.2 
 0000006 760  CC      and                      Z5 
 0000006 770  VBDZ    was                      Z5 A3+ 
 0000006 780  VVN     lost                     X9.2- A9- M6/A5.3- L1- 
@@ -297,7 +300,7 @@
 0000006 970  DA2     Many                     N5+ 
 0000006 980  NN      people                   S2mfc 
 0000006 990  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000006 991  XX      nt                       S9/Q4.1 Z3c 
+0000006 991  XX      n't                      Z6 
 0000006 000  VVI     know                     X2.2+ S3.2/B1% 
 0000006 010  CST     that                     Z5 Z8 
 0000006 020  EX      there                    Z5 
@@ -454,7 +457,8 @@
 0000010 060  IO      of                       Z5 
 0000010 070  NN1     detail                   A4.2+ S5+c B5 
 0000010 080  II      in                       Z5 
-0000010 090  NN2     Visas                    Q1.2 
+0000010 090  NN1     Visa                     Z3c 
+0000010 091  VBZ     's                       A3+ Z5 
 0000010 100  FO      S-1                      Z99 
 0000010 110  NN1     IPO                      Z3/I2.2 
 0000010 120  NN1     filing                   Q1.2 A1.1.1 
@@ -475,7 +479,7 @@
 0000010 233  -----   -----                    
 0000010 240  PPHS2   They                     Z8mfn 
 0000010 250  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000010 251  XX      nt                       S9/Q4.1 Z3c 
+0000010 251  XX      n't                      Z6 
 0000010 260  RR      even                     A13.1 
 0000010 270  VVI     need                     S6+ 
 0000010 280  TO      to                       Z5 
@@ -569,7 +573,8 @@
 0000012 680  NN1     confindence              Z99 
 0000012 690  II      in                       Z5 
 0000012 700  AT      the                      Z5 
-0000012 710  NN2     worlds                   W1 S5+c A4.1 N5+ 
+0000012 710  NN1     world                    W1 S5+c A4.1 N5+ 
+0000012 711  GE      's                       Z5 
 0000012 720  JJ      global                   W3 M7 A1.8+ O4.4 
 0000012 730  NN1     payment                  I1.1 
 0000012 740  NN2     networks                 S5+ Q4.3 Y2 

@@ -89,7 +89,7 @@
 0000008 230  NN1     care                     S8+ G1.1/S8+ B3 A1.3 E6- 
 0000008 240  II      to                       Z5 
 0000008 250  AT      the                      Z5 
-0000008 260  JJ      vulnerable               S1.2.5- 
+0000008 260  NN1     vulnerable'              Z99 
 0000008 261  ,       ,                        
 0000008 262  NULL    </quote>                 
 0000008 263  -----   -----                    
@@ -107,7 +107,7 @@
 0000010 061  ,       ,                        
 0000010 070  PPIS2   We                       Z8 
 0000010 080  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000010 081  XX      nt                       S9/Q4.1 Z3c 
+0000010 081  XX      n't                      Z6 
 0000010 090  VVI     want                     X7+ S6+ A7+ S3.2 A9- 
 0000010 100  PPY     you                      Z8mf 
 0000010 110  VDG     doing                    A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
@@ -121,8 +121,9 @@
 0000010 190  IW      with                     X2.1[i6.3.3 A9+[i6.3.3 Z5 
 0000010 200  DD1     this                     Z8 M6 Z5 
 0000010 201  .       .                        
-0000010 202  NULL    </quote>                 
-0000010 203  -----   -----                    
+0000010 202  "@      '                        
+0000010 203  NULL    </quote>                 
+0000010 204  -----   -----                    
 0000012 010  MD      First                    N4 
 0000012 020  PPHS1   he                       Z8m 
 0000012 030  VVD     created                  A1.1.1 A2.2 E1 
@@ -143,7 +144,8 @@
 0000012 140  VVN     pushed                   M2 M1 S7.1+ X8+ I2.2 F3 I3.1- 
 0000012 150  II      through                  Z5 
 0000012 160  NNB     Mr                       Z1m[i11.2.1 S2.2m Z1m[i10.2.1 
-0000012 170  NP1     Punchs                   Z1m[i11.2.2 Z3c Z1m[i10.2.2 
+0000012 170  NP1     Punch                    Z1m[i11.2.2 Z3c Z1m[i10.2.2 
+0000012 171  GE      's                       Z5 
 0000012 180  NN1     sausage                  F1 O4.4 
 0000012 190  NN1     machine                  O2 Y2 
 0000012 191  .       .                        
@@ -193,7 +195,7 @@
 0000018 070  CS      because                  Z5/A2.2 
 0000018 080  PPY     you                      Z8mf 
 0000018 090  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000018 091  XX      nt                       S9/Q4.1 Z3c 
+0000018 091  XX      n't                      Z6 
 0000018 100  VVI     want                     X7+ S6+ A7+ S3.2 A9- 
 0000018 110  TO      to                       Z5 
 0000018 120  VVI     start                    T2+ E5- E3- 
@@ -320,7 +322,7 @@
 0000028 090  AT      the                      Z5 
 0000028 100  NN2     stones                   O1.1 O2 B2- N3.5 B5 
 0000028 110  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000028 111  XX      nt                       S9/Q4.1 Z3c 
+0000028 111  XX      n't                      Z6 
 0000028 120  VVI     get                      A2.1+ A9+ Z5 X9.2+ A2.2 M1 M2 X2.5+ E4.1- 
 0000028 130  RG      too                      N5.2+ A13.3 
 0000028 140  JJ      hot                      O4.6+ X9.1+ O4.2+ X5.2+ G2.1- A12- S7.3+ E6- A7+++ 
@@ -352,7 +354,8 @@
 0000030 140  RR      also                     N5++ 
 0000030 150  VVN     appeared                 A8 A10+ A3+ G2.1 K4 Q4 
 0000030 160  II      at                       Z5 
-0000030 170  NP2     Aberystwyths             Z2 Z3c 
+0000030 170  NP1     Aberystwyth              Z2 Z3c 
+0000030 171  GE      's                       Z5 
 0000030 180  JJ      annual                   N6+ 
 0000030 190  NN1     Punch                    Z3c 
 0000030 200  CC      and                      Z5 
@@ -374,7 +377,8 @@
 0000030 341  .       .                        
 0000032 001  NULL    <quote>                  
 0000032 002  -----   -----                    
-0000032 010  APPGE   Its                      Z8 
+0000032 010  PPH1    It                       Z8 
+0000032 011  VBZ     's                       A3+ Z5 
 0000032 020  AT1     a                        Z5 
 0000032 030  JJ      public                   S5+ A10+ 
 0000032 040  NN1     beach                    W3/M4 
@@ -524,6 +528,7 @@
 0000042 160  JJ      wet                      O1.2 W4 X5.2- 
 0000042 170  NN1     floor                    H2 S5+ 
 0000042 171  ,       ,                        
+0000042 172  GE      '                        Z5 
 0000042 180  CC      and                      Z5 
 0000042 190  RT      then                     N4 Z5 T1.2 
 0000042 200  PPY     you                      Z8mf 
@@ -716,7 +721,8 @@
 0000062 002  -----   -----                    
 0000062 010  II      From                     Z5 
 0000062 020  NNB     Mr                       Z1m[i47.2.1 S2.2m Z1m[i46.2.1 
-0000062 030  NP1     Punchs                   Z1m[i47.2.2 Z3c Z1m[i46.2.2 
+0000062 030  NP1     Punch                    Z1m[i47.2.2 Z3c Z1m[i46.2.2 
+0000062 031  GE      's                       Z5 
 0000062 040  NN1     perspective              X4.1[i48.2.1 X4.1 C1 
 0000062 050  NN2     things                   X4.1[i48.2.2 O2 X4.1 A7- S2mf L2mf 
 0000062 060  VBR     are                      Z5 A3+ 
@@ -798,5 +804,6 @@
 0000068 400  DB      all                      N5.1+ 
 0000068 410  RP@     about                    Z5 M6 
 0000068 411  .       .                        
-0000068 412  NULL    </quote>                 
+0000068 412  "@      '                        
+0000068 413  NULL    </quote>                 
 0000071 001  NULL    **8;7;text               

@@ -1,4 +1,4 @@
-TOTAL         367
+TOTAL         369
 NN1            51 
 II             31 
 NP1            19 
@@ -28,6 +28,7 @@ NN              4
 IO              4 
 VHZ             3 
 IW              3 
+GE              3 
 PPY             3 
 VH0             3 
 VBN             3 
@@ -46,7 +47,6 @@ VVZ             2
 FU              2 
 DB              2 
 CSW             1 
-GE              1 
 RRQ             1 
 UH              1 
 VHD             1 

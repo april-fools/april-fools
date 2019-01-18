@@ -1,3 +1,5 @@
+5'2                      FO      Z99 
+6'2                      FO      Z99 
 Anti-Masturbation        NP1     Z99 
 archive.org              NNU     Z99 
 Bradley                  NP1     Z99 
@@ -10,8 +12,6 @@ disclaimers              NN2     Z99
 ego-maniac               NN1     Z99 
 Fappy                    JJ      Z99 
 Fappy                    NP1@    Z99 
-Im                       VV0     Z99 
-isnt                     VV0     Z99 
 malware                  NN1     Z99 
 Mikkelson                NN1     Z99 
 Mikkelson                NP1     Z99 
@@ -26,10 +26,9 @@ short-fingered           JJ      Z99
 Snopes                   VVZ     Z99 
 Snopes.com               NP1     Z99 
 tax-exempt               JJ      Z99 
-theyre                   NN1     Z99 
 trademark-protected      JJ      Z99 
 tweet                    NN1     Z99 
 tweeting                 VVG     Z99 
 un-funny                 JJ      Z99 
 URL                      NN1     Z99 
-vulgarian                NN1     Z99 
+vulgarian'               NN1     Z99 

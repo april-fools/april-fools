@@ -1,4 +1,4 @@
-TOTAL             1589
+TOTAL             1603
 the                  Z5                  75 
 and                  Z5                  45 
 in                   Z5                  45 
@@ -14,10 +14,12 @@ FOX                  Z1                  15
 interview            Q2.1                15 
 that                 Z8                  14 
 has                  Z5                  13 
+Mr._Trump            Z1                  12 
+it                   Z8                  12 
 speech               Q2.1                12 
 for                  Z5                  11 
 or                   Z5                  10 
-it                   Z8                  10 
+'s                   Z5                  10 
 said                 Q2.1                10 
 about                Z5                   9 
 war                  G3                   9 
@@ -27,14 +29,15 @@ speeches             Q2.1                 8
 this                 M6                   8 
 Iraq                 Z2                   8 
 SEPT._20             T1.3                 8 
+they                 Z8                   7 
 him                  Z8                   7 
-Mr._Trump            Z1                   7 
 SEPT._15             T1.3                 7 
 SEPT._19             T1.3                 7 
 is                   Z5                   7 
 north_CAROLINA       Z2                   7 
 is                   A3+                  7 
 her                  Z8                   7 
+Clinton              Z1                   7 
 an                   Z5                   6 
 as                   Z5                   6 
 from                 Z5                   6 
@@ -48,14 +51,11 @@ after                Z5                   6
 ever                 T1.1                 6 
 SEPT._17             T1.3                 6 
 Mrs._Clinton         Z1                   6 
-Clinton              Z1                   6 
 all                  N5.1+                5 
 but                  Z5                   5 
-they                 Z8                   5 
-Mr._Trumps           Z1                   5 
 republican           G1.2                 5 
 are                  A3+                  5 
-nt                   S9                   5 
+n't                  Z6                   5 
 was                  A3+                  5 
 OHIO                 Z2                   5 
 no                   Z6                   5 
@@ -68,7 +68,6 @@ was                  Z5                   4
 american             Z2                   4 
 only                 A14                  4 
 who                  Z8                   4 
-its                  Z8                   4 
 presidential         G1.1                 4 
 did                  Z5                   4 
 by                   Z5                   4 
@@ -110,6 +109,7 @@ democrat             G1.2                 3
 registered           Q1.2                 3 
 some                 N5                   3 
 SEPT._16             T1.3                 3 
+Obama                Z99                  3 
 power                S7.1+                3 
 countries            M7                   3 
 were                 Z5                   3 
@@ -117,6 +117,7 @@ have                 A9+                  3
 have                 Z5                   3 
 foreign              M7                   3 
 like                 Z5                   3 
+country              G1.1                 3 
 NEW_HAMPSHIRE        Z1                   3 
 Hillary_Clinton      Z1                   2 
 twitter              Z99                  2 
@@ -126,6 +127,7 @@ pattern              X4.2                 2
 virtually            A13.4                2 
 repeatedly           N6+                  2 
 appeared             A8                   2 
+what                 Z8                   2 
 responses            Q2.1                 2 
 any                  N5.1+                2 
 tells                Q2.2                 2 
@@ -159,11 +161,13 @@ voters               G1.2                 2
 America              Z2                   2 
 we                   Z8                   2 
 article              Q4.2                 2 
+its                  Z8                   2 
 other                A6.1-                2 
 also                 N5++                 2 
 party                K1                   2 
 national             M7                   2 
 critics              Q2.2                 2 
+'s                   A3+                  2 
 NBC                  Z99                  2 
 Mr._Holt             Z1                   2 
 Mr._Kasich           Z1                   2 
@@ -186,7 +190,6 @@ using                A1.5.1               2
 destroyed            A1.1.2               2 
 hammer               O2                   2 
 proposing            Q2.2                 2 
-country              G1.1                 2 
 cut                  A1.1.1               2 
 cost                 I1.3                 2 
 syrian               Z2                   2 
@@ -194,7 +197,6 @@ year                 T1.3                 2
 youth                T3-                  2 
 dangerous            A15-                 2 
 being                Z5                   2 
-Obama                Z99                  2 
 administration       S7.1+                2 
 than                 Z5                   2 
 jobs                 I3.1                 2 
@@ -277,7 +279,6 @@ humor                E4.1+                1
 delivered            M2                   1 
 purely               A14                  1 
 effect               A2.2                 1 
-what                 Z8                   1 
 could                A7+                  1 
 generously           S1.2.2-              1 
 be                   Z5                   1 
@@ -380,11 +381,10 @@ situation            A3+                  1
 2000                 N1                   1 
 7you                 Z99                  1 
 see                  X3.4                 1 
-whats                Z8                   1 
 happening            A2.1+                1 
 numbers              N5                   1 
 african-americans    Z2                   1 
-theyre               Z99                  1 
+'re                  Z5                   1 
 like                 Z4                   1 
 high                 N3.7+                1 
 African-Americans.   Z2                   1 
@@ -507,7 +507,6 @@ controversy          Q2.2                 1
 finished             T2-                  1 
 WASHINGTON           Z2                   1 
 questioned           Q2.2                 1 
-Obamas               Z99                  1 
 birthplace           M7                   1 
 cause                A2.2                 1 
 five                 N1                   1 
@@ -590,7 +589,6 @@ funding              I1.1                 1
 border               Z3                   1 
 patrol               X2.4                 1 
 24hillary            Z99                  1 
-Clintons             Z1                   1 
 plan                 X7+                  1 
 bring_in             M2                   1 
 620,000              N1                   1 
@@ -618,7 +616,6 @@ routinely            A6.2+                1
 overstates           N5.2+                1 
 scale                N3.2                 1 
 nature               W5                   1 
-countrys             G1.1                 1 
 economic             I1.3-                1 
 distress             E6-                  1 
 threats              E3-                  1 
@@ -634,7 +631,7 @@ communities          S5+                  1
 absolutely           A13.2                1 
 worst                A5.1---              1 
 shape                O4.4                 1 
-theyve               Z99                  1 
+'ve                  Z5                   1 
 in                   M6                   1 
 measurement          N3.1                 1 
 supports             S8+                  1 
@@ -691,7 +688,7 @@ outside              Z5                   1
 United_States        Z2                   1 
 mark                 O4.2-                1 
 fields               F4                   1 
-Fords                Z3                   1 
+Ford                 Z1                   1 
 chief_executive      S7.1+                1 
 cutting              A1.1.1               1 
 30we                 Z99                  1 

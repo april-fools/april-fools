@@ -1,4 +1,4 @@
-TOTAL              503
+TOTAL              510
 the                  Z5                  46 
 to                   Z5                  18 
 of                   Z5                  18 
@@ -15,6 +15,7 @@ arts_centre          C1                   5
 part                 N5.1-                5 
 arts                 C1                   4 
 including            A1.8+                4 
+'s                   Z5                   4 
 but                  Z5                   4 
 is                   A3+                  4 
 we                   Z8                   4 
@@ -52,6 +53,7 @@ theatre              K4                   2
 efforts              X8+                  2 
 have                 Z5                   2 
 Saturday             T1.3                 2 
+Lynn                 Z1                   2 
 when                 Z5                   2 
 council              G1.1                 2 
 supporters           S8+                  2 
@@ -84,15 +86,16 @@ back                 M6                   1
 range                N3.3                 1 
 events               A3+                  1 
 attractions          O4.2+                1 
+'                    Z5                   1 
 attracted            O4.2+                1 
 support              S8+                  1 
 celebrity            A11.1+               1 
 patrons              S8+                  1 
 antique              T3+++                1 
-Roadshows_Mark       Z1                   1 
-Hill                 W3                   1 
+roadshow             K1                   1 
+Mark_Hill            Z2                   1 
 revealed             A10+                 1 
-Kings_Lynns          Z1                   1 
+King                 S7.1+                1 
 had                  A9+                  1 
 rug                  H5                   1 
 pulled               M2                   1 
@@ -132,7 +135,8 @@ top                  M6                   1
 hopes                X2.6+                1 
 also                 N5++                 1 
 medieval             T1.1.1               1 
-St_Georges_Guildhall Z1                   1 
+St_George            Z2                   1 
+Guildhall            H1                   1 
 King_Street          Z2                   1 
 believed             X2.1                 1 
 rented               I2.2                 1 
@@ -152,7 +156,6 @@ Alan_Taylor          Z1                   1
 enthusiasm           X5.2+                1 
 had                  Z5                   1 
 ensured              A7+                  1 
-Lynn                 Z1                   1 
 did                  Z5                   1 
 lose                 X9.2-                1 
 jewel                B5                   1 

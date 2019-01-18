@@ -1,4 +1,4 @@
-TOTAL             1326
+TOTAL             1337
 the                  Z5                  91 
 and                  Z5                  46 
 to                   Z5                  38 
@@ -14,13 +14,15 @@ is                   A3+                 14
 for                  Z5                  14 
 rescue               S8+                 13 
 military             G3                  11 
+it                   Z8                  10 
+that                 Z8                  10 
+'s                   Z5                  10 
 you                  Z8                  10 
 they                 Z8                  10 
 but                  Z5                   9 
+Chris                Z1                   9 
 post                 Q1.2                 9 
 their                Z8                   9 
-that                 Z8                   9 
-it                   Z8                   8 
 who                  Z8                   7 
 our                  Z8                   7 
 are                  Z5                   7 
@@ -45,12 +47,12 @@ i                    Z8                   6
 when                 Z5                   6 
 these                Z5                   6 
 one                  N1                   5 
+'s                   A3+                  5 
 are                  A3+                  5 
 this                 M6                   5 
 Facebook             Z3                   5 
 them                 Z8                   5 
 puppy                L2                   5 
-Chris                Z1                   5 
 was                  Z5                   5 
 on                   Z5                   5 
 not                  Z6                   4 
@@ -60,12 +62,13 @@ like                 Z5                   4
 mission              X7+                  4 
 has                  Z5                   4 
 started              T2+                  4 
-Chriss               Z99                  4 
+bomber               M5                   4 
 where                M6                   4 
 as_well              N5++                 4 
 were                 A3+                  4 
 some                 N5                   4 
 bond                 S5+                  4 
+n't                  Z6                   4 
 would                A7+                  4 
 fundraising          I1.1                 4 
 by                   Z5                   4 
@@ -76,6 +79,7 @@ rescued              S8+                  4
 this                 Z8                   4 
 country              G1.1                 3 
 while                Z5                   3 
+there                Z5                   3 
 working              I3.1                 3 
 put_down             M2                   3 
 is                   Z5                   3 
@@ -84,7 +88,6 @@ did                  Z5                   3
 deployed             M2                   3 
 few                  N5-                  3 
 his                  Z8                   3 
-bomber               M5                   3 
 other                A6.1-                3 
 thankfully           E4.2+                3 
 attack               E3-                  3 
@@ -103,7 +106,6 @@ been                 A3+                  3
 battle               X8+                  3 
 people               S2                   3 
 cost                 I1.3                 3 
-n't                  Z6                   3 
 recently             T3---                3 
 Sammy                Z99                  3 
 here                 M6                   3 
@@ -112,7 +114,7 @@ serve                S8+                  2
 overseas             M6                   2 
 killed               L1-                  2 
 rather_than          Z5                   2 
-its                  Z8                   2 
+America              Z2                   2 
 also                 N5++                 2 
 technology           Y1                   2 
 through              Z5                   2 
@@ -126,6 +128,7 @@ arrival              M1                   2
 suicide              L1-                  2 
 Rufus                Z1                   2 
 two                  N1                   2 
+target               Z3                   2 
 Sasha                Z1                   2 
 troops               G3                   2 
 never                T1                   2 
@@ -156,9 +159,7 @@ or                   Z5                   2
 tragic               E4.1-                2 
 life                 L1+                  2 
 save                 I1.1                 2 
-'s                   A3+                  2 
 war                  G3                   2 
-there                Z5                   2 
 be                   A3+                  2 
 money                I1                   2 
 more                 N5++                 2 
@@ -171,7 +172,6 @@ what                 Z8                   2
 does                 Z5                   2 
 get                  A9+                  2 
 middle_east          Z2                   2 
-'s                   Z5                   2 
 transport            M3                   2 
 been                 Z5                   2 
 service              S8+                  2 
@@ -186,15 +186,12 @@ keeps                A9+                  1
 headlines            Q4.2                 1 
 fact                 A5.2+                1 
 brought_home         A10+                 1 
-America              Z2                   1 
 cheap                I1.3-                1 
 ship                 M2                   1 
-theres               Z5                   1 
 nothing              Z6                   1 
 inhumane             G2.2-                1 
 in_my_opinion        Z4                   1 
 kill                 L1-                  1 
-thats                Z5                   1 
 served               S8+                  1 
 tragedy              E4.1-                1 
 so_many              N5                   1 
@@ -226,7 +223,6 @@ work                 I3.1                 1
 alongside            Z5                   1 
 over                 N5.2+                1 
 over_400             T3                   1 
-Americas             Z2                   1 
 four-legged          O4.1                 1 
 personnel            I3.1                 1 
 '                    Z5                   1 
@@ -254,9 +250,7 @@ barking              L2                   1
 took_off             X9.2+                1 
 in_pursuit_of        X2.4                 1 
 grabbed              A9+                  1 
-bombers              M5                   1 
 leg                  B1                   1 
-target               Z3                   1 
 alerted              X2.2+                1 
 blew_up              A1.1.2               1 
 himself              Z8                   1 
@@ -278,7 +272,6 @@ nursed               B3                   1
 health               B2                   1 
 shortly              N3.8+                1 
 befriended           S1.2.1+              1 
-targets              Z3                   1 
 litter               O4.2-                1 
 four                 T3                   1 
 five_weeks_old       T3                   1 
@@ -305,7 +298,6 @@ most_of_all          A13.2                1
 treating             S1.1.1               1 
 as_if                Z5                   1 
 own                  A9+                  1 
-nt                   S9                   1 
 did                  A1.1.1               1 
 could                A7+                  1 
 literally            A13.2                1 

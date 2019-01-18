@@ -1,12 +1,12 @@
-TOTAL             1097
+TOTAL             1107
 the                  AT             80 
 a                    AT1            31 
 and                  CC             28 
 of                   IO             26 
 to                   TO             23 
 intelligence         NN1            22 
+trump                NN1            19 
 that                 CST            15 
-trump                NN1            15 
 is                   VBZ            15 
 on                   II             14 
 in                   II             13 
@@ -15,17 +15,19 @@ said                 VVD            11
 for                  IF             10 
 with                 IW             10 
 an                   AT1             9 
+'s                   GE              9 
 will                 VM              8 
 not                  XX              8 
 CIA                  NP1             7 
+Russia               NP1             7 
 his                  APPGE           7 
 russian              JJ              7 
 to                   II              7 
 are                  VBR             7 
 they                 PPHS2           6 
 about                II              6 
-Russia               NP1             6 
 election             NN1             6 
+committee            NN1             6 
 who                  PNQS            6 
 our                  APPGE           6 
 have                 VH0             5 
@@ -33,18 +35,16 @@ guardian             NN1             5
 it                   PPH1            5 
 has                  VHZ             5 
 or                   CC              5 
-committee            NN1             5 
 national             JJ              5 
 also                 RR              5 
 officer              NN1             5 
 intelligence_agencies NN1             4 
 be                   VBI             4 
 retaliation          NN1             4 
-trump                VV0             4 
+president            NN1             4 
 there                EX              4 
 house                NN1             4 
 assessment           NN1             3 
-trumps               NN2             3 
 within               II              3 
 US                   NP1             3 
 but                  CCB             3 
@@ -57,11 +57,11 @@ additional           JJ              3
 public               JJ              3 
 electoral            JJ              3 
 interference         NN1             3 
-president            NN1             3 
 democrats            NN2             3 
 had                  VHD             3 
 after                CS              3 
 into                 II              3 
+trump                VV0             3 
 which                DDQ             3 
 russians             NN2             3 
 congressional        JJ              3 
@@ -77,6 +77,7 @@ fears                NN2             2
 over                 II              2 
 weekend              NNT1            2 
 when                 CS              2 
+president-elect      NNB             2 
 transition           NN1             2 
 team                 NN1             2 
 been                 VBN             2 
@@ -84,7 +85,6 @@ congress             NN1             2
 possible             JJ              2 
 political            JJ              2 
 pressure             NN1             2 
-like                 II              2 
 colleagues           NN2             2 
 Barack_Obama         NP1             2 
 disclosures          NN2             2 
@@ -133,7 +133,6 @@ cyberattacks         NN2             2
 interests            NN2             2 
 Carle                NP1             2 
 himself              PPX1            2 
-target               NN1             2 
 overseeing           VVG             1 
 vigilant             JJ              1 
 reprisals            NN2             1 
@@ -152,7 +151,6 @@ dismiss              VV0             1
 not_only             XX              1 
 basic                JJ              1 
 competence           NN1             1 
-president-elects     NN2             1 
 attempting           VVG             1 
 discredit            VVI             1 
 entire               JJ              1 
@@ -167,6 +165,7 @@ analysts             NN2             1
 Ron_Wyden            NP1             1 
 Oregon               NP1             1 
 senate               NN1             1 
+like                 II              1 
 panel                NN1             1 
 Wyden                NP1             1 
 pressing             VVG             1 
@@ -229,7 +228,6 @@ levels               NN2             1
 picks                VVZ             1 
 likely               JJ              1 
 bellwethers          VVZ             1 
-presidents           NN2             1 
 attitudes            NN2             1 
 toward               II              1 
 blazing              JJ              1 
@@ -239,7 +237,9 @@ holding              VVG             1
 match                NN1             1 
 interrogator         NN1             1 
 hurt                 VV0             1 
-wont                 NN1             1 
+wo                   VM              1 
+n't                  XX              1 
+like                 VVI             1 
 truth                NN1             1 
 without              IW              1 
 question             NN1             1 
@@ -271,7 +271,6 @@ that                 DD1             1
 believe              VV0             1 
 decided              VVD             1 
 penetrate            VVI             1 
-committees           NN2             1 
 digital              JJ              1 
 networks             NN2             1 
 goal                 NN1             1 
@@ -331,7 +330,7 @@ them                 PPHO2           1
 daring               VVG             1 
 contradict           VVI             1 
 assumptions          NN2             1 
-clash                VV0             1 
+clash                NN1             1 
 comes_at             VVZ             1 
 moment               NN1             1 
 acute                JJ              1 
@@ -394,7 +393,7 @@ late                 RR              1
 threat               NN1             1 
 out_of               II21            1 
 delusions            NN2             1 
-resetting            VVG             1 
+resetting'           JJ              1 
 relations            NN2             1 
 pursuing             VVG             1 
 anti-trump           JJ              1 
@@ -438,7 +437,8 @@ defend               VVI             1
 further              JJR             1 
 reports              VVZ             1 
 influenced           VVD             1 
-ridiculous           JJ              1 
+ridiculous           FU              1 
+'                    GE              1 
 Elijah_Cummings      NP1             1 
 Maryland             NP1             1 
 investigations-heavy JJ              1 
@@ -456,11 +456,10 @@ robust               JJ              1
 truly                RR              1 
 investigation        NN1             1 
 puts                 VVZ             1 
-nations              NN2             1 
+nation               NN1             1 
 any                  DD              1 
 covered_up           VVD             1 
 influence            NN1             1 
-'s                   GE              1 
 win                  VV0             1 
 Harry_Reid           NP1             1 
 claims               NN2             1 
@@ -468,10 +467,8 @@ read                 VV0             1
 more                 RRR             1 
 temperament          NN1             1 
 played               VVN             1 
-Russias              NP2             1 
 hands                NN2             1 
 put                  VV0             1 
-president-elect      NNB             1 
 collision_course     NN1             1 
 look                 VV0             1 
 my                   APPGE           1 
@@ -493,6 +490,7 @@ personal             JJ              1
 advantage            NN1             1 
 directs              VVZ             1 
 juiciest             JJT             1 
+target               NN1             1 
 could                VM              1 
 imagine              VVI             1 
 groans               VVZ             1 
@@ -504,6 +502,7 @@ agree                VV0             1
 build_up             VV0             1 
 shockingly           RR              1 
 easy                 JJ              1 
+target'              NN1             1 
 manipulate           VVI             1 
 were                 VBDR            1 
 would                VM              1 

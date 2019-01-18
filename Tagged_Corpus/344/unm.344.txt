@@ -19,6 +19,4 @@ opuses                   NN2     Z99
 six-minute               JJ      Z99 
 Soundgarden              NP1     Z99 
 street-corners           NN2     Z99 
-Theyll                   VV0@    Z99 
-wasnt                    VV0     Z99 
 worshiping               VVG     Z99 

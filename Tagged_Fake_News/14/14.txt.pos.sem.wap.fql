@@ -1,14 +1,16 @@
-TOTAL              201
+TOTAL              210
 the                  AT             11 
 and                  CC              8 
+it                   PPH1            6 
 brown                JJ              6 
 paper_bag            NN1             5 
-its                  APPGE           4 
+'s                   GE              4 
+'s                   VBZ             4 
 test                 NN1             4 
 of                   IO              4 
 a                    AT1             3 
 to                   TO              3 
-rallys               NN2             3 
+rally                NN1             3 
 you                  PPY             3 
 not                  XX              3 
 Donald_trump         NP1             2 
@@ -25,7 +27,6 @@ were                 VBDR            2
 lighter              JJR             2 
 than                 CSN             2 
 test                 VV0             2 
-it                   PPH1            2 
 in                   II              2 
 this                 DD1             2 
 within               II              2 
@@ -36,6 +37,7 @@ will                 VM              2
 about                II              2 
 class                NN1             2 
 side                 NN1             2 
+i                    PPIS1           2 
 wow                  UH              1 
 sent                 VVN             1 
 internet             NN1             1 
@@ -51,7 +53,7 @@ come                 VV0             1
 see                  VVI             1 
 him                  PPHO1           1 
 speak                VVI             1 
-called               JJ              1 
+called               VVN             1 
 those                DD2             1 
 unfamiliar           JJ              1 
 paper                NN1             1 
@@ -123,10 +125,9 @@ poor                 JJ              1
 no                   AT              1 
 which                DDQ             1 
 on                   RP              1 
-im                   VV0             1 
+'m                   VBM             1 
 on                   II              1 
-AMERICAS             NP2             1 
-i                    PPIS1           1 
+AMERICA              NP1             1 
 make                 VVI             1 
 her                  APPGE           1 
 great                JJ              1 

@@ -1,4 +1,4 @@
-TOTAL              824
+TOTAL              835
 the                  AT             60 
 of                   IO             20 
 in                   II             15 
@@ -13,35 +13,37 @@ electoral            JJ             11
 college              NN1            10 
 Obama                NP1             9 
 be                   VBI             9 
+it                   PPH1            9 
 all                  DB              8 
 not                  XX              8 
+president            NN1             8 
 will                 VM              8 
-it                   PPH1            8 
 for                  IF              7 
 with                 IW              7 
+'s                   GE              6 
 said                 VVD             6 
+we                   PPIS2           6 
 just                 RR              6 
+that                 DD1             6 
 they                 PPHS2           5 
-were                 VBDR            5 
 have                 VH0             5 
 people               NN              5 
 their                APPGE           5 
-president            NN1             5 
-we                   PPIS2           5 
 states               NN2             5 
-that                 DD1             5 
 but                  CCB             5 
 has                  VHZ             4 
+order                NN1             4 
 votes                NN2             4 
 on                   II              4 
 who                  PNQS            4 
+were                 VBDR            4 
 have                 VHI             4 
 if                   CS              4 
+was                  VBDZ            4 
 there                EX              4 
 are                  VBR             4 
 system               NN1             4 
 vote                 NN1             4 
-order                NN1             3 
 recount              NN1             3 
 special              JJ              3 
 December_19th        NPM1            3 
@@ -60,13 +62,12 @@ workers              NN2             3
 many                 DA2             3 
 into                 II              3 
 Hillary_Clinton      NP1             3 
-was                  VBDZ            3 
 american             JJ              3 
 investigate          VVI             3 
 these                DD2             3 
 to                   II              3 
-presidents           NN2             3 
 did                  VDD             3 
+n't                  XX              3 
 what                 DDQ             3 
 i                    PPIS1           3 
 popular              JJ              3 
@@ -95,7 +96,6 @@ precincts            NN2             2
 take                 VVI             2 
 decision             NN1             2 
 against              II              2 
-nt                   XX              2 
 does                 VDZ             2 
 still                RR              2 
 at                   II              2 
@@ -107,6 +107,7 @@ fine                 JJ              2
 news                 NN1             2 
 he                   PPHS1           2 
 should               VM              2 
+'s                   VBZ             2 
 our                  APPGE           2 
 going_to             VVGK            2 
 FBI                  NP1             2 
@@ -117,7 +118,7 @@ WASHINGTON           NP1             1
 D.C.                 NP1             1 
 AP                   NP1             1 
 following            VVG             1 
-Tuesday_nights       NPD1            1 
+Tuesday_night        NPD1            1 
 signed               VVN             1 
 13805                MC              1 
 which                DDQ             1 
@@ -184,11 +185,10 @@ important            JJ              1
 legal                JJ              1 
 challenges           NN2             1 
 under                II              1 
-order                VV0             1 
 nationwide           RL              1 
 recounted            VVN             1 
 took_part            VVD             1 
-Tuesdays             NPD2            1 
+Tuesday              NPD1            1 
 subjected            VVN             1 
 strict               JJ              1 
 background           NN1             1 
@@ -282,6 +282,7 @@ meet                 VV0             1
 respective           JJ              1 
 actually             RR              1 
 voting               VVG             1 
+'                    GE              1 
 though               CS              1 
 odd                  JJ              1 
 unfair               JJ              1 
@@ -330,7 +331,6 @@ compromise           VV0             1
 everyone             PN1             1 
 an                   AT1             1 
 equal                JJ              1 
-thats                VVZ             1 
 case                 NN1             1 
 know                 VV0             1 
 George_W._Bush       NP1             1 
@@ -341,7 +341,6 @@ recession            NN1             1
 since                CS              1 
 great                JJ              1 
 depression           NN1             1 
-its                  APPGE           1 
 time                 NNT1            1 
 bring                VVI             1 
 21st_century         MD              1 
@@ -355,6 +354,7 @@ his                  APPGE           1
 plans                NN2             1 
 moving               VVG             1 
 forward              RL              1 
+'re                  VBR             1 
 role                 NN1             1 
 director             NN1             1 
 James                NP1             1 
@@ -374,7 +374,6 @@ women                NN2             1
 conveniently         RR              1 
 one_day              MC1             1 
 before               II              1 
-wasnt                VVI             1 
 released             VVN             1 
 earlier              RRR             1 
 how                  RGQ             1 
@@ -384,7 +383,7 @@ set_in               VVN             1
 December             NPM1            1 
 ordered              VVN             1 
 any                  DD              1 
-administrations      NN2             1 
+administration       NN1             1 
 hotline              NN1             1 
 785                  MC              1 
 273-0325             MCMC            1 

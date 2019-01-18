@@ -1,4 +1,4 @@
-TOTAL              621
+TOTAL              626
 and                  Z5                  25 
 to                   Z5                  22 
 the                  Z5                  20 
@@ -7,9 +7,10 @@ of                   Z5                  12
 that                 Z8                  11 
 in                   Z5                  11 
 that                 Z5                  11 
-visa                 Z3                   8 
+visa                 Z3                   9 
 for                  Z5                   8 
 security             G2.1                 7 
+n't                  Z6                   6 
 PCI                  Z99                  6 
 we                   Z8                   5 
 will                 T1.1.3               5 
@@ -18,7 +19,7 @@ on                   Z5                   4
 systems              X4.2                 4 
 they                 Z8                   4 
 do                   Z5                   4 
-nt                   S9                   4 
+was                  A3+                  4 
 is                   A3+                  4 
 or                   Z5                   4 
 network              S5+                  4 
@@ -29,7 +30,7 @@ an                   Z5                   3
 even                 A13.1                3 
 IBM                  Z3                   3 
 but                  Z5                   3 
-was                  A3+                  3 
+was                  Z5                   3 
 have                 A9+                  3 
 would                A7+                  3 
 be                   A3+                  3 
@@ -41,9 +42,9 @@ payment              I1.1                 2
 its                  Z8                   2 
 thought              X2.1                 2 
 were                 A3+                  2 
+'s                   Z5                   2 
 based                T2+                  2 
 states               Q2.1                 2 
-wasnt                Z99                  2 
 with                 Z5                   2 
 his                  Z8                   2 
 much                 N5+                  2 
@@ -60,7 +61,6 @@ virtual              A13.4                2
 called               Q2.2                 2 
 system/370           Z99                  2 
 sna                  Z99                  2 
-was                  Z5                   2 
 people               S2                   2 
 wireshark            Z99                  2 
 project              A1.1.1               2 
@@ -110,7 +110,7 @@ european             Z3                   1
 intrepreters         Z99                  1 
 safe                 A15+                 1 
 using                A1.5.1               1 
-1970s                T1.3                 1 
+1970                 N1                   1 
 technology           Y1                   1 
 mainframe            Y2                   1 
 computers            Y2                   1 
@@ -258,7 +258,7 @@ regardless           A11.1-               1
 market_share         N5                   1 
 blame                Q2.2                 1 
 amount               N5                   1 
-visas                Q1.2                 1 
+'s                   A3+                  1 
 s-1                  Z99                  1 
 ipo                  Z3                   1 
 filing               Q1.2                 1 
@@ -298,7 +298,7 @@ unreadable           Z99                  1
 as_well              N5++                 1 
 vote                 G1.2                 1 
 confindence          Z99                  1 
-worlds               W1                   1 
+world                W1                   1 
 global               W3                   1 
 networks             S5+                  1 
 investment           I1.1                 1 

@@ -112,7 +112,8 @@
 0000004 550  CS      because                  Z5/A2.2 
 0000004 560  PPIS1   I                        Z8mf 
 0000004 570  VV0     think                    X2.1 
-0000004 580  NN2     shes                     Z8f 
+0000004 580  PPHS1   she                      Z8f 
+0000004 581  VBZ     's                       Z5 A3+ 
 0000004 590  VVN     qualified                A1.2+ I3.2+/P1 X9.2+/K5 A1.7+ S1.2.5-/A2.1 Q2.2 Q3 
 0000004 591  ,       ,                        
 0000004 600  CC      and                      Z5 
@@ -256,7 +257,8 @@
 0000013 291  .       .                        
 0000013 292  -----   -----                    
 0000013 293  "       "                        
-0000013 300  NN2     Thats                    Z5 Z8 A13.3 A6.1+ 
+0000013 300  DD1     That                     Z8 Z5 
+0000013 301  VBZ     's                       A3+ Z5 
 0000013 310  DDQ     what                     Z8 Z5 
 0000013 320  PPHS1   he                       Z8m 
 0000013 330  VVD     said                     Q2.1 
@@ -382,8 +384,9 @@
 0000017 201  :       :                        
 0000017 202  "       "                        
 0000017 210  PPY     You                      Z8mf 
-0000017 220  JJ      cant                     Q2.1 Z1mf Z1 
-0000017 230  VV0     pull                     M3[i23.2.1 M2[i23.2.1 A5.1+/A2.1[i23.2.1 N5+/A2.1[i23.2.1 G2.1/M3@[i23.2.1 Q2.2@[i23.2.1 M2 A9+ M1 
+0000017 220  VM      ca                       A7+ 
+0000017 221  XX      n't                      Z6 
+0000017 230  VVI     pull                     M3[i23.2.1 M2[i23.2.1 A5.1+/A2.1[i23.2.1 N5+/A2.1[i23.2.1 G2.1/M3@[i23.2.1 Q2.2@[i23.2.1 M2 A9+ M1 
 0000017 240  RP      up                       M3[i23.2.2 M2[i23.2.2 A5.1+/A2.1[i23.2.2 N5+/A2.1[i23.2.2 G2.1/M3@[i23.2.2 Q2.2@[i23.2.2 
 0000017 250  AT1     a                        Z5 
 0000017 260  JJ      quick                    N3.8+ X9.1+ L1+% 
@@ -605,10 +608,12 @@
 0000025 190  II      in                       Z5 
 0000025 200  MC      2014                     N1 T1.2 T3 T1.3 N3.2 
 0000025 201  "       "                        
-0000025 210  MC1%    I                        Z8 
-0000025 220  NN1     cant                     Q2.1 
-0000025 230  VV0     believe                  X2.1 S9% 
-0000025 240  NN1     Im                       Z99 
+0000025 210  PPIS1   I                        Z8mf 
+0000025 220  VM      ca                       A7+ 
+0000025 221  XX      n't                      Z6 
+0000025 230  VVI     believe                  X2.1 S9% 
+0000025 240  PPIS1   I                        Z8mf 
+0000025 241  VBM     'm                       Z5 A3+ 
 0000025 250  VVG     endorsing                S8+/Q2.2 Q1.2 
 0000025 260  NP1     Hillary                  Z1mf[i61.2.1 Z3c[i61.2.1 
 0000025 270  NP1     Clinton                  Z1mf[i61.2.2 Z3c[i61.2.2 Z1mf 
@@ -634,8 +639,9 @@
 0000025 440  DD1     this                     Z8 M6 Z5 
 0000025 441  ,       ,                        
 0000025 450  PPIS1   I                        Z8mf 
-0000025 460  VV0     wouldnt                  Z99 
-0000025 470  VH0     have                     Z5 A9+ A2.2 S4 
+0000025 460  VM      would                    A7+ 
+0000025 461  XX      n't                      Z6 
+0000025 470  VHI     have                     Z5 A9+ A2.2 S4 
 0000025 480  VVN     believed                 X2.1 S9% 
 0000025 490  PPHO2   them                     Z8mfn 
 0000025 491  .       .                        
@@ -816,7 +822,8 @@
 0000036 311  .       .                        
 0000036 312  -----   -----                    
 0000036 320  RR      So                       Z5 A13.3 
-0000036 330  VV0     Im                       Z99 
+0000036 330  PPIS1   I                        Z8mf 
+0000036 331  VBM     'm                       Z5 A3+ 
 0000036 340  VVGK    going                    T1.1.3[i94.2.1 
 0000036 350  TO      to                       T1.1.3[i94.2.2 Z5 
 0000036 360  VVI     vote                     G1.2 
@@ -938,7 +945,8 @@
 0000039 070  NN1     lawyer                   G2.1/I3.2/S2mf 
 0000039 080  NN1     --                       Z99 
 0000039 081  "       "                        
-0000039 090  VV0     Im                       Z99 
+0000039 090  PPIS1   I                        Z8mf 
+0000039 091  VBM     'm                       A3+ Z5 
 0000039 100  AT1     a                        Z5 
 0000039 110  NN1     Republican               G1.2/S2mf 
 0000039 111  ,       ,                        
@@ -1275,7 +1283,8 @@
 0000061 220  NP1     Hillary                  Z99 
 0000061 221  .       .                        
 0000061 222  -----   -----                    
-0000061 230  VV0     Im                       Z99 
+0000061 230  PPIS1   I                        Z8mf 
+0000061 231  VBM     'm                       A3+ Z5 
 0000061 240  XX      not                      Z6 
 0000061 250  CST     that                     Z8 Z5 
 0000061 260  VVD     fired                    T2+[i166.2.1 A2.2[i166.2.1 I3.1- G3 M2 A2.2 Q2.2 
@@ -1513,7 +1522,8 @@
 0000066 361  ,       ,                        
 0000066 370  II      in                       Z5 
 0000066 380  NP1     John                     Z1mf[i193.2.1 Z3c[i193.2.1 Z1m S9/O1.2 
-0000066 390  NP1     McCains                  Z1mf[i193.2.2 Z3c[i193.2.2 Z3c 
+0000066 390  NP1     McCain                   Z1mf[i193.2.2 Z3c[i193.2.2 
+0000066 391  GE      's                       Z5 
 0000066 400  NN2     words                    Q3 
 0000066 401  ,       ,                        
 0000066 410  VVG     putting                  M2 Q2.1 Q2.2 A1.1.1 
@@ -1798,7 +1808,8 @@
 0000079 200  JJ      Democratic               G1.2 
 0000079 210  JJ      presidential             G1.1/S7.1+ 
 0000079 220  NN1     candidate                G1.2/S2mf I3.1/S2mf P1/S2mf A7+ A1.2+ 
-0000079 230  NN1     Ive                      Z99 
+0000079 230  PPIS1   I                        Z8mf 
+0000079 231  VH0     've                      Z5 A9+ A2.2 
 0000079 240  VVN     voted                    G1.2 
 0000079 250  IF      for                      Z5 
 0000079 260  II      in                       Z5 
@@ -2154,12 +2165,14 @@
 0000088 310  NP1     Hillary                  Z1mf[i265.2.1 Z3c[i265.2.1 
 0000088 320  NP1     Clinton                  Z1mf[i265.2.2 Z3c[i265.2.2 Z1mf 
 0000088 321  ,       ,                        
-0000088 330  VV0     Im                       Z99 
+0000088 330  PPIS1   I                        Z8mf 
+0000088 331  VBM     'm                       Z5 A3+ 
 0000088 340  VVG     choosing                 X7+ 
 0000088 350  NP1     Hillary                  Z99 
 0000088 351  .       .                        
 0000088 352  -----   -----                    
-0000088 360  VVZ     Shes                     Z8f 
+0000088 360  PPHS1   She                      Z8f 
+0000088 361  VBZ     's                       A3+ Z5 
 0000088 370  AT      the                      Z5 
 0000088 380  JJ      lesser                   N3.2- 
 0000088 390  IO      of                       Z5 
@@ -2195,11 +2208,13 @@
 0000091 080  NP1     McCain                   Z1mf[i269.2.2 Z3c[i269.2.2 
 0000091 081  "       "                        
 0000091 090  DDQV    Whatever                 Z8 Z5 
-0000091 100  NP1     Hillary                  Z99 
-0000091 110  NP2     Clintons                 Z1mf 
+0000091 100  NP1     Hillary                  Z1mf[i270.2.1 Z3c[i270.2.1 
+0000091 110  NP1     Clinton                  Z1mf[i270.2.2 Z3c[i270.2.2 Z1mf 
+0000091 111  GE      's                       Z5 
 0000091 120  NN2     faults                   A5.3- A2.2 W3% 
 0000091 121  ,       ,                        
-0000091 130  VVZ     shes                     Z8f 
+0000091 130  PPHS1   she                      Z8f 
+0000091 131  VBZ     's                       A3+ Z5 
 0000091 140  XX      not                      Z6 
 0000091 150  JJ      ignorant                 X9.1- S1.2.4- 
 0000091 160  CC      or                       Z5 
@@ -2240,24 +2255,26 @@
 0000091 440  AT      the                      Z5 
 0000091 450  NNT1    year                     T1.3 P1c 
 0000091 460  IO      of                       Z5 
-0000091 470  NN2     Trumps                   K5.2 S7.1+ 
+0000091 470  NN1     Trump                    Z1mf 
+0000091 471  VBZ     's                       A3+ Z5 
 0000091 480  ZZ1     s                        Z5 
 0000091 490  NN1     campaign                 X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 G3 
 0000091 491  ,       ,                        
-0000091 500  APPGE   its                      Z8 
+0000091 500  PPH1    it                       Z8 
+0000091 501  VBZ     's                       A3+ Z5 
 0000091 510  DAR     more                     N5++ 
 0000091 520  CSN     than                     Z5 
 0000091 530  RR      enough                   N5+ N6+ 
 0000091 531  .       .                        
 0000091 532  "       "                        
 0000092 001  -----   -----                    
-0000092 010  NP1     Sally                    Z1mf[i270.2.1 Z3c[i270.2.1 Z1f 
-0000092 020  NP1     Bradshaw                 Z1mf[i270.2.2 Z3c[i270.2.2 Z1mf 
+0000092 010  NP1     Sally                    Z1mf[i271.2.1 Z3c[i271.2.1 Z1f 
+0000092 020  NP1     Bradshaw                 Z1mf[i271.2.2 Z3c[i271.2.2 Z1mf 
 0000092 021  ,       ,                        
 0000092 030  DA      former                   T2- N4 
 0000092 040  JJ      top                      M6 N5.1+ A11.1+++ S7.1+++ N4 X9.1+++ A5.1+++ 
-0000092 050  NP1     Jeb                      Z1mf[i271.2.1 Z3c[i271.2.1 
-0000092 060  NP1     Bush                     Z1mf[i271.2.2 Z3c[i271.2.2 Z3c Z1mf 
+0000092 050  NP1     Jeb                      Z1mf[i272.2.1 Z3c[i272.2.1 
+0000092 060  NP1     Bush                     Z1mf[i272.2.2 Z3c[i272.2.2 Z3c Z1mf 
 0000092 070  NN1     adviser                  S8+/S2mf 
 0000092 071  ,       ,                        
 0000092 080  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
@@ -2273,8 +2290,8 @@
 0000092 180  VVI     become                   A2.1+ O4.2+ 
 0000092 190  AT1     an                       Z5 
 0000092 200  JJ      independent              S5- 
-0000092 210  II21    because                  A2.2[i272.2.1 
-0000092 220  II22    of                       A2.2[i272.2.2 
+0000092 210  II21    because                  A2.2[i273.2.1 
+0000092 220  II22    of                       A2.2[i273.2.2 
 0000092 230  NN1     Trump                    Z1mf 
 0000092 231  GE      's                       Z5 
 0000092 240  NN1     presence                 M6 A3+ S1.1.3+ S1.2 S9 
@@ -2309,9 +2326,9 @@
 0000092 511  .       .                        
 0000092 512  -----   -----                    
 0000092 513  "       "                        
-0000092 520  RG      As                       A13.4[i273.3.1 A13 
-0000092 530  DA1     much                     A13.4[i273.3.2 N5+ I1.3+ 
-0000092 540  CSA     as                       A13.4[i273.3.3 Z5 
+0000092 520  RG      As                       A13.4[i274.3.1 A13 
+0000092 530  DA1     much                     A13.4[i274.3.2 N5+ I1.3+ 
+0000092 540  CSA     as                       A13.4[i274.3.3 Z5 
 0000092 550  PPIS1   I                        Z8mf 
 0000092 560  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
 0000092 561  XX      n't                      Z6 
@@ -2343,23 +2360,23 @@
 0000092 770  PPIS1   I                        Z8mf 
 0000092 780  VVD     voted                    G1.2 
 0000092 790  IF      for                      Z5 
-0000092 800  NP1     Donald                   Z1mf[i274.2.1 Z3c[i274.2.1 Z1mf 
-0000092 810  NN1     Trump                    Z1mf[i274.2.2 Z3c[i274.2.2 Z1mf 
+0000092 800  NP1     Donald                   Z1mf[i275.2.1 Z3c[i275.2.1 Z1mf 
+0000092 810  NN1     Trump                    Z1mf[i275.2.2 Z3c[i275.2.2 Z1mf 
 0000092 811  .       .                        
 0000092 812  "       "                        
 0000093 001  -----   -----                    
-0000093 010  NP1@    Ana                      Z1mf[i275.2.1 Z3c[i275.2.1 
-0000093 020  NP1     Navarro                  Z1mf[i275.2.2 Z3c[i275.2.2 
+0000093 010  NP1@    Ana                      Z1mf[i276.2.1 Z3c[i276.2.1 
+0000093 020  NP1     Navarro                  Z1mf[i276.2.2 Z3c[i276.2.2 
 0000093 021  ,       ,                        
-0000093 030  NP1     Florida                  Z1mf[i276.2.1 Z3c[i276.2.1 Z2 
-0000093 040  NP1     GOP                      Z1mf[i276.2.2 Z3c[i276.2.2 
+0000093 030  NP1     Florida                  Z1mf[i277.2.1 Z3c[i277.2.1 Z2 
+0000093 040  NP1     GOP                      Z1mf[i277.2.2 Z3c[i277.2.2 
 0000093 050  NN1     consultant               B3/S2mf Q2.1/S8+/S2mf 
 0000093 060  CC      and                      Z5 
 0000093 070  JJ      frequent                 N6+ 
 0000093 080  NP1     CNN                      Z99 
 0000093 090  NN1     guest                    H4/S2mf S1.2.2-/S2mf 
-0000094 010  NP1     Maria                    Z1mf[i277.2.1 Z3c[i277.2.1 Z1f 
-0000094 020  NP1     Comella                  Z1mf[i277.2.2 Z3c[i277.2.2 
+0000094 010  NP1     Maria                    Z1mf[i278.2.1 Z3c[i278.2.1 Z1f 
+0000094 020  NP1     Comella                  Z1mf[i278.2.2 Z3c[i278.2.2 
 0000094 021  ,       ,                        
 0000094 030  DA      former                   T2- N4 
 0000094 040  NN1     spokeswoman              Q2.2/S2.1f 
@@ -2371,16 +2388,16 @@
 0000094 090  JJ      top                      M6 N5.1+ A11.1+++ S7.1+++ N4 X9.1+++ A5.1+++ 
 0000094 100  NN2     backers                  S8+/S2mf 
 0000094 101  ,       ,                        
-0000094 110  NP1     Chris                    Z1mf[i278.2.1 Z3c[i278.2.1 Z1mf 
-0000094 120  NP1     Christie                 Z1mf[i278.2.2 Z3c[i278.2.2 Z1mf 
+0000094 110  NP1     Chris                    Z1mf[i279.2.1 Z3c[i279.2.1 Z1mf 
+0000094 120  NP1     Christie                 Z1mf[i279.2.2 Z3c[i279.2.2 Z1mf 
 0000094 130  CC      and                      Z5 
-0000094 140  NP1     Rudy                     Z1mf[i279.2.1 Z3c[i279.2.1 
-0000094 150  NP1     Giuliani                 Z1mf[i279.2.2 Z3c[i279.2.2 
+0000094 140  NP1     Rudy                     Z1mf[i280.2.1 Z3c[i280.2.1 
+0000094 150  NP1     Giuliani                 Z1mf[i280.2.2 Z3c[i280.2.2 
 0000094 151  "       "                        
-0000094 160  II21    Instead                  A6.1-[i280.2.1 
-0000094 170  II22    of                       A6.1-[i280.2.2 
-0000094 180  VVG     speaking                 Q2.1[i281.2.1 Q2.1 
-0000094 190  RP      out                      Q2.1[i281.2.2 M6 
+0000094 160  II21    Instead                  A6.1-[i281.2.1 
+0000094 170  II22    of                       A6.1-[i281.2.2 
+0000094 180  VVG     speaking                 Q2.1[i282.2.1 Q2.1 
+0000094 190  RP      out                      Q2.1[i282.2.2 M6 
 0000094 200  II      against                  Z5 
 0000094 210  NN2     instances                A4.1 T1.2 
 0000094 220  IO      of                       Z5 
@@ -2393,8 +2410,8 @@
 0000094 280  CSW     whether                  Z5 
 0000094 290  PPH1    it                       Z8 
 0000094 291  VHZ     's                       Z5 A9+ A2.2 
-0000094 300  VBN     been                     E2-[i282.2.1 A3+ Z5 
-0000094 310  II      against                  E2-[i282.2.2 Z5 
+0000094 300  VBN     been                     E2-[i283.2.1 A3+ Z5 
+0000094 310  II      against                  E2-[i283.2.2 Z5 
 0000094 320  NN2     women                    S2.1f 
 0000094 321  ,       ,                        
 0000094 330  NN2     immigrants               M1/M7/S2mf 
@@ -2425,16 +2442,16 @@
 0000094 561  .       .                        
 0000094 562  "       "                        
 0000095 001  -----   -----                    
-0000095 010  NP1     Kurt                     Z1mf[i283.2.1 Z3c[i283.2.1 
-0000095 020  NP1     Bardella                 Z1mf[i283.2.2 Z3c[i283.2.2 
+0000095 010  NP1     Kurt                     Z1mf[i284.2.1 Z3c[i284.2.1 
+0000095 020  NP1     Bardella                 Z1mf[i284.2.2 Z3c[i284.2.2 
 0000095 021  ,       ,                        
 0000095 030  DA      former                   T2- N4 
 0000095 040  JJ      top                      M6 N5.1+ A11.1+++ S7.1+++ N4 X9.1+++ A5.1+++ 
 0000095 050  NN1     aide                     S8+/S2mf 
 0000095 060  II      to                       Z5 
 0000095 070  NNB     Rep.                     I2.2/S2mf K4c 
-0000095 080  NP1     Darrel                   Z1mf[i284.2.1 Z3c[i284.2.1 
-0000095 090  NP1     Issa                     Z1mf[i284.2.2 Z3c[i284.2.2 
+0000095 080  NP1     Darrel                   Z1mf[i285.2.1 Z3c[i285.2.1 
+0000095 090  NP1     Issa                     Z1mf[i285.2.2 Z3c[i285.2.2 
 0000095 091  (       (                        
 0000095 100  NP1     R-Calif.                 Z99 
 0000095 101  )       )                        
@@ -2452,21 +2469,23 @@
 0000095 210  PPIS1   I                        Z8mf 
 0000095 220  VVD     decided                  X6+ 
 0000095 230  CST     that                     Z5 Z8 
-0000095 240  NP1     Hillary                  Z1mf[i285.2.1 Z3c[i285.2.1 
-0000095 250  NP1     Clinton                  Z1mf[i285.2.2 Z3c[i285.2.2 Z1mf 
+0000095 240  NP1     Hillary                  Z1mf[i286.2.1 Z3c[i286.2.1 
+0000095 250  NP1     Clinton                  Z1mf[i286.2.2 Z3c[i286.2.2 Z1mf 
 0000095 260  VBZ     is                       A3+ Z5 
 0000095 270  AT      the                      Z5 
 0000095 280  NN1     candidate                G1.2/S2mf I3.1/S2mf P1/S2mf A7+ A1.2+ 
 0000095 290  PNQS    who                      Z8 
-0000095 300  VV0     Im                       Z99 
+0000095 300  PPIS1   I                        Z8mf 
+0000095 301  VBM     'm                       Z5 A3+ 
 0000095 310  VVG     voting                   G1.2 
 0000095 320  IF      for                      Z5 
 0000095 330  NN1     --                       Z99 
 0000095 340  AT      the                      Z5 
 0000095 350  MD      first                    N4 
 0000095 360  NN1     Democrat                 G1.2/S2mf 
-0000095 370  NN1     Im                       Z99 
-0000095 380  NN1     voting                   G1.2 
+0000095 370  PPIS1   I                        Z8mf 
+0000095 371  VBM     'm                       Z5 A3+ 
+0000095 380  VVG     voting                   G1.2 
 0000095 390  IF      for                      Z5 
 0000095 400  II      in                       Z5 
 0000095 410  APPGE   my                       Z8 
@@ -2479,9 +2498,10 @@
 0000095 480  AT1     a                        Z5 
 0000095 490  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000095 500  RRQ     where                    M6 
-0000095 510  NN2     whats                    Z8 Z5 
-0000095 520  VVG     going                    T2++[i286.2.1 M1[i286.2.1 Q2.1/N5+[i286.2.1 A1.1.1[i286.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
-0000095 530  RP@     on                       T2++[i286.2.2 M1[i286.2.2 Q2.1/N5+[i286.2.2 A1.1.1[i286.2.2 M6 A1.1.1 
+0000095 510  DDQ     what                     Z8 Z5 
+0000095 511  VBZ     's                       Z5 A3+ 
+0000095 520  VVG     going                    T2++[i287.2.1 M1[i287.2.1 Q2.1/N5+[i287.2.1 A1.1.1[i287.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000095 530  RP@     on                       T2++[i287.2.2 M1[i287.2.2 Q2.1/N5+[i287.2.2 A1.1.1[i287.2.2 M6 A1.1.1 
 0000095 540  VBZ     is                       A3+ Z5 
 0000095 550  RR      much                     A13.3 N6+ 
 0000095 560  JJR     bigger                   N3.2++ N5++ A11.1++ S1.2.5++ X5.2++ 
@@ -2506,12 +2526,12 @@
 0000095 721  .       .                        
 0000095 722  "       "                        
 0000096 001  -----   -----                    
-0000096 010  NP1     Mike                     Z1mf[i287.2.1 Z3c[i287.2.1 Z1m 
-0000096 020  NP1     Treiser                  Z1mf[i287.2.2 Z3c[i287.2.2 
+0000096 010  NP1     Mike                     Z1mf[i288.2.1 Z3c[i288.2.1 Z1m 
+0000096 020  NP1     Treiser                  Z1mf[i288.2.2 Z3c[i288.2.2 
 0000096 021  ,       ,                        
 0000096 030  DA      former                   T2- N4 
-0000096 040  NP1     Mitt                     Z1mf[i288.2.1 Z3c[i288.2.1 
-0000096 050  NP1     Romney                   Z1mf[i288.2.2 Z3c[i288.2.2 
+0000096 040  NP1     Mitt                     Z1mf[i289.2.1 Z3c[i289.2.1 
+0000096 050  NP1     Romney                   Z1mf[i289.2.2 Z3c[i289.2.2 
 0000096 060  NN1     aide                     S8+/S2mf 
 0000096 061  "       "                        
 0000096 070  II      In                       Z5 
@@ -2530,23 +2550,24 @@
 0000096 160  DD1     this                     M6 Z5 Z8 
 0000096 170  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000096 171  ,       ,                        
-0000096 180  VV0     Im                       Z99 
+0000096 180  PPIS1   I                        Z8mf 
+0000096 181  VBM     'm                       A3+ Z5 
 0000096 190  IW      with                     Z5 
 0000096 200  PPHO1   her                      Z8f 
 0000096 201  .       .                        
 0000097 001  -----   -----                    
-0000097 010  NP1     Craig                    Z1mf[i289.2.1 Z3c[i289.2.1 Z1mf 
-0000097 020  NP1     Snyder                   Z1mf[i289.2.2 Z3c[i289.2.2 
+0000097 010  NP1     Craig                    Z1mf[i290.2.1 Z3c[i290.2.1 Z1mf 
+0000097 020  NP1     Snyder                   Z1mf[i290.2.2 Z3c[i290.2.2 
 0000097 021  ,       ,                        
 0000097 030  DA      former                   T2- N4 
-0000097 040  NN1     chief                    G3/S2mf[i290.3.1 S7.1+ 
-0000097 050  IO      of                       G3/S2mf[i290.3.2 Z5 
-0000097 060  NN      staff                    G3/S2mf[i290.3.3 I3.1/S2mfc B3/S2mf G3/S2c L2mfn I3.1 
+0000097 040  NN1     chief                    G3/S2mf[i291.3.1 S7.1+ 
+0000097 050  IO      of                       G3/S2mf[i291.3.2 Z5 
+0000097 060  NN      staff                    G3/S2mf[i291.3.3 I3.1/S2mfc B3/S2mf G3/S2c L2mfn I3.1 
 0000097 070  II      to                       Z5 
 0000097 080  NN1     then-Republican          Z99 
 0000097 090  NNB     Sen.                     B3/S2mf 
-0000097 100  NP1     Arlen                    Z1mf[i291.2.1 Z3c[i291.2.1 
-0000097 110  NP1     Specter                  Z1mf[i291.2.2 Z3c[i291.2.2 
+0000097 100  NP1     Arlen                    Z1mf[i292.2.1 Z3c[i292.2.1 
+0000097 110  NP1     Specter                  Z1mf[i292.2.2 Z3c[i292.2.2 
 0000097 111  (       (                        
 0000097 120  NNU@    Pa.                      I2.1/S2mf 
 0000097 121  )       )                        
@@ -2565,12 +2586,12 @@
 0000097 250  JJ      top                      M6 N5.1+ A11.1+++ S7.1+++ N4 X9.1+++ A5.1+++ 
 0000097 260  NN1     Trump                    Z1mf 
 0000097 270  NN1     adviser                  S8+/S2mf 
-0000097 280  NP1     Paul                     Z1mf[i292.2.1 Z3c[i292.2.1 Z1m 
-0000097 290  NP1     Manafort                 Z1mf[i292.2.2 Z3c[i292.2.2 
+0000097 280  NP1     Paul                     Z1mf[i293.2.1 Z3c[i293.2.1 Z1m 
+0000097 290  NP1     Manafort                 Z1mf[i293.2.2 Z3c[i293.2.2 
 0000097 291  .       .                        
 0000098 001  -----   -----                    
-0000098 010  NP1     Lionel                   Z1mf[i293.2.1 Z3c[i293.2.1 Z1m 
-0000098 020  NP1     Sosa                     Z1mf[i293.2.2 Z3c[i293.2.2 
+0000098 010  NP1     Lionel                   Z1mf[i294.2.1 Z3c[i294.2.1 Z1m 
+0000098 020  NP1     Sosa                     Z1mf[i294.2.2 Z3c[i294.2.2 
 0000098 021  ,       ,                        
 0000098 030  AT1     a                        Z5 
 0000098 040  NN1     GOP                      Z99 
@@ -2578,18 +2599,18 @@
 0000098 060  PNQS    who                      Z8 
 0000098 070  VVD     worked                   I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
 0000098 080  IF      for                      Z5 
-0000098 090  NP1     George                   Z1mf[i295.3.1 Z3c[i295.3.1 Z1m Z1mf[i294.2.1 Z3c[i294.2.1 
-0000098 100  NP1     W.                       Z1mf[i295.3.2 Z3c[i295.3.2 Z1mf[i294.2.2 Z3c[i294.2.2 Z1mf[i296.2.1 Z3c[i296.2.1 
-0000098 110  NP1     Bush                     Z3c[i295.3.3 Z1mf[i295.3.3 Z3c Z1mf Z1mf[i296.2.2 Z3c[i296.2.2 
+0000098 090  NP1     George                   Z1mf[i296.3.1 Z3c[i296.3.1 Z1m Z1mf[i295.2.1 Z3c[i295.2.1 
+0000098 100  NP1     W.                       Z1mf[i296.3.2 Z3c[i296.3.2 Z1mf[i295.2.2 Z3c[i295.2.2 Z1mf[i297.2.1 Z3c[i297.2.1 
+0000098 110  NP1     Bush                     Z3c[i296.3.3 Z1mf[i296.3.3 Z3c Z1mf Z1mf[i297.2.2 Z3c[i297.2.2 
 0000098 120  CC      and                      Z5 
-0000098 130  NP1     Ronald                   Z1mf[i298.3.1 Z3c[i298.3.1 Z1m Z1mf[i297.2.1 Z3c[i297.2.1 
-0000098 140  NP1     Reagan                   Z1mf[i298.3.2 Z3c[i298.3.2 Z1mf[i300.3.1 Z3c[i300.3.1 Z1mf Z1mf[i297.2.2 Z3c[i297.2.2 Z1mf[i299.2.1 Z3c[i299.2.1 
-0000099 010  NP1     Cindy                    Z3c[i298.3.3 Z1mf[i298.3.3 Z1mf[i300.3.2 Z3c[i300.3.2 Z1f Z1mf[i299.2.2 Z3c[i299.2.2 Z1mf[i301.2.1 Z3c[i301.2.1 
-0000099 020  NP1     Guerra                   Z3c[i300.3.3 Z1mf[i300.3.3 Z1mf[i301.2.2 Z3c[i301.2.2 
+0000098 130  NP1     Ronald                   Z1mf[i299.3.1 Z3c[i299.3.1 Z1m Z1mf[i298.2.1 Z3c[i298.2.1 
+0000098 140  NP1     Reagan                   Z1mf[i299.3.2 Z3c[i299.3.2 Z1mf[i301.3.1 Z3c[i301.3.1 Z1mf Z1mf[i298.2.2 Z3c[i298.2.2 Z1mf[i300.2.1 Z3c[i300.2.1 
+0000099 010  NP1     Cindy                    Z3c[i299.3.3 Z1mf[i299.3.3 Z1mf[i301.3.2 Z3c[i301.3.2 Z1f Z1mf[i300.2.2 Z3c[i300.2.2 Z1mf[i302.2.1 Z3c[i302.2.1 
+0000099 020  NP1     Guerra                   Z3c[i301.3.3 Z1mf[i301.3.3 Z1mf[i302.2.2 Z3c[i302.2.2 
 0000099 021  ,       ,                        
 0000099 030  DA      former                   T2- N4 
-0000099 040  JJ@     Broward                  Z2c[i302.2.1 
-0000099 050  NN1     County                   Z2c[i302.2.2 M7 
+0000099 040  JJ@     Broward                  Z2c[i303.2.1 
+0000099 050  NN1     County                   Z2c[i303.2.2 M7 
 0000099 051  (       (                        
 0000099 060  NP1     Fla                      Z99 
 0000099 061  .       .                        

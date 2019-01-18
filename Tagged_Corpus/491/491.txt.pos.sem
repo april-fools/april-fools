@@ -159,14 +159,15 @@
 0000004 620  DD1     this                     M6 Z5 Z8 
 0000004 630  NN1     game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
 0000004 640  CSA     as                       Z5 
-0000004 650  VBDR    were                     A3+ Z5 
+0000004 650  PPIS2   we                       Z8 
+0000004 651  VBR     're                      A3+ Z5 
 0000004 660  RG      so                       A13.3 
 0000004 670  JJ      excited                  X5.2+ 
 0000004 671  ,       ,                        
 0000004 680  CST     that                     Z8 Z5 
 0000004 690  PPH1    it                       Z8 
 0000004 700  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000004 701  XX      nt                       S9/Q4.1 Z3c 
+0000004 701  XX      n't                      Z6 
 0000004 710  RR      even                     A13.1 
 0000004 720  VVI     seem                     A8 
 0000004 730  JJ      real                     A3+ A5.2+ A5.4+ A13.3 
@@ -283,8 +284,9 @@
 0000008 140  JJ      exciting                 X5.2+ 
 0000008 150  NN2     projects                 A1.1.1 P1 
 0000008 160  CC      and                      Z5 
-0000008 170  JJ      cant                     Q2.1 Z1mf Z1 
-0000008 180  NN1@    wait                     T1.3 
+0000008 170  VM      ca                       A7+ 
+0000008 171  XX      n't                      Z6 
+0000008 180  VVI     wait                     T1.3 A3+ A11.1+ S1.1.1% 
 0000008 190  IF      for                      Z5 
 0000008 200  APPGE   their                    Z8 
 0000008 210  NN2     fans                     S2/E2+mf O2 

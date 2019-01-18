@@ -1,4 +1,4 @@
-TOTAL              370
+TOTAL              372
 the                  AT             25 
 Felix                NP1            12 
 and                  CC             10 
@@ -10,6 +10,7 @@ cat                  NN1             7
 in                   II              7 
 from                 II              6 
 for                  IF              5 
+Huddersfield         NP1             5 
 her                  APPGE           5 
 with                 IW              4 
 at                   II              4 
@@ -21,12 +22,11 @@ Leeds_station        NP1             3
 who                  PNQS            3 
 be                   VBI             3 
 her                  PPHO1           3 
-Huddersfield         NP1             3 
 fans                 NN2             3 
 station              NN1             3 
 fan                  NN1             3 
 i                    PPIS1           3 
-Huddersfields        NP2             2 
+'s                   GE              2 
 global               JJ              2 
 to                   II              2 
 but                  CCB             2 
@@ -87,7 +87,7 @@ caught               VVN             1
 attention            NN1             1 
 today                RT              1 
 taking               VVG             1 
-clutches             VVZ             1 
+clutches             NN2             1 
 deal                 VVI             1 
 their_own            APPGE           1 
 growing              JJ              1 
@@ -197,7 +197,7 @@ ticket               NN1             1
 barriers             NN2             1 
 move                 NN1             1 
 did                  VDD             1 
-nt                   XX              1 
+n't                  XX              1 
 have_to              VHI             1 
 my                   APPGE           1 
 friends              NN2             1 

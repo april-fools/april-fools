@@ -46,7 +46,8 @@
 0000002 352  -----   -----                    
 0000002 360  XX      Not                      Z6 
 0000002 370  CST     that                     Z5 Z8 
-0000002 380  NN2     theres                   Z5 M6 T1.2 
+0000002 380  EX      there                    Z5 
+0000002 381  VBZ     's                       A3+ Z5 
 0000002 390  PN1     anything                 Z8 
 0000002 400  JJ      wrong                    A5.3- A5.1- G2.2- B2- 
 0000002 410  IW      with                     Z5 
@@ -103,13 +104,13 @@
 0000004 400  RR      really                   A13.3 A5.2+ 
 0000004 410  VVZ     thinks                   X2.1 
 0000004 420  PPHS1   he                       Z8m 
-0000004 421  VBZ     s                        Z5 
+0000004 421  VBZ     's                       Z5 A3+ 
 0000004 430  VVG     fooling                  G2.2- E4.1+ 
 0000004 440  NN      people                   S2mfc 
 0000004 441  ,       ,                        
 0000004 450  CCB     but                      Z5 
 0000004 460  PPHS1   he                       Z8m 
-0000004 461  VBZ     s                        T1.3 I1.1 Z5 
+0000004 461  VBZ     's                       A3+ Z5 
 0000004 470  XX      not                      Z6 
 0000004 471  .       .                        
 0000004 472  -----   -----                    
@@ -129,8 +130,9 @@
 0000004 591  .       .                        
 0000004 592  -----   -----                    
 0000004 600  PPIS1   I                        Z8mf 
-0000004 610  VV0     wouldnt                  Z99 
-0000004 620  VV0     mind                     E6+ E2- S8+ A1.3 
+0000004 610  VM      would                    A7+ 
+0000004 611  XX      n't                      Z6 
+0000004 620  VVI     mind                     E6+ E2- S8+ A1.3 
 0000004 630  APPGE   his                      Z8m 
 0000004 640  NN2     offers                   A9- Q2.2 I1.3- 
 0000004 650  TO      to                       Z5 
@@ -140,7 +142,7 @@
 0000004 690  CS      if                       Z7 
 0000004 700  PPHS1   he                       Z8m 
 0000004 710  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000004 711  XX      nt                       S9/Q4.1 Z3c 
+0000004 711  XX      n't                      Z6 
 0000004 720  RR      always                   N6+++ 
 0000004 730  VHI     have                     A9+ Z5 A2.2 S4 
 0000004 740  AT1     an                       Z5 
@@ -238,7 +240,7 @@
 0000004 420  JJ      gay                      S3.2/B1 O4.2+ E4.1+ 
 0000004 430  CS      because                  Z5/A2.2 
 0000004 440  PPHS1   he                       Z8m 
-0000004 441  VBZ     s                        T1.3 I1.1 Z5 
+0000004 441  VBZ     's                       A3+ Z5 
 0000004 442  NULL    <quote>                  
 0000004 443  -----   -----                    
 0000004 450  RR      totally                  A13.2 N5.1+ 
@@ -302,7 +304,8 @@
 0000006 470  VVN     lifted                   M2 A5.1+/A2.1 E4.1+/A2.1 G2.1 
 0000006 480  II      off                      Z5 E2- 
 0000006 490  AT      the                      Z5 
-0000006 500  NN2     shortstops               K5.1/S2mf 
+0000006 500  NN1     shortstop                K5.1/S2mf 
+0000006 501  GE      's                       Z5 
 0000006 510  NN2     shoulders                B1 
 0000006 511  ,       ,                        
 0000006 520  PNQS    who                      Z8 
@@ -358,10 +361,12 @@
 0000008 200  RP      along                    M6 
 0000008 201  ,       ,                        
 0000008 210  CS@     so                       Z5 
-0000008 220  APPGE   its                      Z8 
+0000008 220  PPH1    it                       Z8 
+0000008 221  VBZ     's                       A3+ Z5 
 0000008 230  XX      not                      Z6 
 0000008 240  II      like                     Z5 
-0000008 250  APPGE   its                      Z8 
+0000008 250  PPH1    it                       Z8 
+0000008 251  VBZ     's                       A3+ Z5 
 0000008 260  AT1     a                        Z5 
 0000008 270  NN1     surprise                 X2.6- 
 0000008 271  .       .                        

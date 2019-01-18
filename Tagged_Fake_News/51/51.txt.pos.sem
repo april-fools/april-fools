@@ -93,7 +93,7 @@
 0000006 120  II      like                     Z5 
 0000006 130  AT      the                      Z5 
 0000006 140  NP1     Shaquille                Z1mf[i5.2.1 Z3c[i5.2.1 
-0000006 150  NP1     ONeil                    Z1mf[i5.2.2 Z3c[i5.2.2 
+0000006 150  NP1     O'Neil                   Z1mf[i5.2.2 Z3c[i5.2.2 
 0000006 160  IO      of                       Z5 
 0000006 170  VBG     being                    A3+ Z5 
 0000006 180  JJ      worthless                I1.3- A1.5.2- A5.1- 
@@ -143,7 +143,7 @@
 0000006 540  VDI     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
 0000006 550  II      like                     Z5 
 0000006 560  NP1     Shaquille                Z1mf[i7.2.1 Z3c[i7.2.1 
-0000006 570  NP1     ONeil                    Z1mf[i7.2.2 Z3c[i7.2.2 
+0000006 570  NP1     O'Neil                   Z1mf[i7.2.2 Z3c[i7.2.2 
 0000006 580  CC      and                      Z5 
 0000006 590  VV0     retire                   I3.1- M1 
 0000006 591  .       .                        
@@ -279,14 +279,15 @@
 0000017 082  -----   -----                    
 0000017 090  PPY     You                      Z8mf 
 0000017 100  NN2     guys                     S2.2m O2 
-0000017 110  VB0     are                      A3+ Z5 
-0000017 111  XX      nt                       S9/Q4.1 Z3c 
+0000017 110  VBR     are                      A3+ Z5 
+0000017 111  XX      n't                      Z6 
 0000017 120  JJ      relevant                 A1.2+ A1.5.2+ 
 0000017 130  RR      anymore                  Z5 
 0000017 131  .       .                        
 0000017 132  -----   -----                    
-0000017 140  DD1     This                     M6 Z5 Z8 
-0000017 150  NN1     isnt                     Z99 
+0000017 140  DD1     This                     Z8 M6 Z5 
+0000017 150  VBZ     is                       A3+ Z5 
+0000017 151  XX      n't                      Z6 
 0000017 160  AT1     a                        Z5 
 0000017 170  NN1     campaign                 X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 G3 
 0000017 180  TO      to                       Z5 
@@ -331,7 +332,8 @@
 0000019 140  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000019 150  VVG     celebrating              E4.1+ S9 
 0000019 160  APPGE   his                      Z8m 
-0000019 170  NN2     fathers                  S4m S9/S2.2m 
+0000019 170  NN1     father                   S4m S9/S2.2m 
+0000019 171  GE      's                       Z5 
 0000019 180  NN2     accomplishments          X9.2+ 
 0000019 190  CC      and                      Z5 
 0000019 200  NN2     advocates                Q2.2/S2mf G2.1/S2mf 

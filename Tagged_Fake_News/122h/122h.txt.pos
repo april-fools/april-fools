@@ -4,8 +4,9 @@
 0000002 020 Media                                       98 NP1
 0000002 030 LIARS                                       93 NN2
 0000002 031 :                                           03 :
-0000002 040 Heres                       ERROR?          07 [NP1/51] NN2/49
-0000002 050 Who                                         93 [PNQS/99] NP1%/1
+0000002 040 Here                      >                 93 RL
+0000002 041 's                        <                 03 [GE/94] VBZ/6 VHZ@/0
+0000002 050 Who                                         93 [PNQS/95] NP1%/5
 0000002 060 Is                                          93 VBZ
 0000002 070 REALLY                                      93 RR
 0000002 080 Responsible                                 93 JJ

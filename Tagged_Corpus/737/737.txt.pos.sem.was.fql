@@ -1,11 +1,11 @@
-TOTAL              998
+TOTAL             1001
 the                  Z5                  56 
 and                  Z5                  45 
 of                   Z5                  37 
 to                   Z5                  16 
 are                  Z5                  15 
 in                   Z5                  13 
-we                   Z8                  11 
+we                   Z8                  12 
 that                 Z5                  10 
 or                   Z5                  10 
 will                 T1.1.3              10 
@@ -18,13 +18,13 @@ are                  A3+                  7
 as                   Z5                   7 
 global               W3                   7 
 international        M7                   7 
+that                 Z8                   6 
 with                 Z5                   6 
 more                 A13.3                6 
 a                    Z5                   5 
 supply               A9-                  5 
 chain                S5+                  5 
 this                 M6                   5 
-that                 Z8                   5 
 companies            I2.1                 5 
 globalization        Z99                  5 
 by                   Z5                   5 
@@ -185,6 +185,7 @@ get                  M1                   1
 there                M6                   1 
 service_providers    I2.2                 1 
 success_factor       X9.2+                1 
+'                    Z5                   1 
 competitiveness      S7.3+                1 
 differentiation      A6.1-                1 
 seven                N1                   1 
@@ -495,10 +496,10 @@ knowledge            X2.2+                1
 geography            P1                   1 
 culture              C1                   1 
 differences          A6.1-                1 
-thats                Z5                   1 
+'s                   A3+                  1 
 another              A6.1-                1 
 issue                X4.1                 1 
-well                 A5.1+                1 
+'ll                  T1.1.3               1 
 address              Q1.2                 1 
 later                T4--                 1 
 column               O2                   1 

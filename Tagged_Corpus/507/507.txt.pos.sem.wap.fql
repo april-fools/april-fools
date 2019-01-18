@@ -1,4 +1,4 @@
-TOTAL              622
+TOTAL              623
 and                  CC             31 
 the                  AT             27 
 to                   TO             18 
@@ -320,7 +320,8 @@ job                  NN1             1
 you                  PPY             1 
 need                 VVI             1 
 five                 MC              1 
-experience           VV0             1 
+'                    GE              1 
+experience           NN1             1 
 working              VVG             1 
 TensorFlow           NP1             1 
 Python               NP1             1 

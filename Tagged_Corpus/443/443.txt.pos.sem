@@ -51,7 +51,8 @@
 0000008 020  JJ      revolutionary            T3--- 
 0000008 030  NN1     technology               Y1 
 0000008 031  ,       ,                        
-0000008 040  NP2     BMWs                     Z3c 
+0000008 040  NP1     BMW                      Z3c 
+0000008 041  GE      's                       Z5 
 0000008 050  JJ      unique                   N5--- 
 0000008 060  NN1     traction                 B3 A1.7+ M2 
 0000008 070  VVZ     controls                 S7.1+ A1.7+ 

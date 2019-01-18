@@ -4,7 +4,6 @@ Botox                    NP1     Z99
 dermatologists           NN2     Z99 
 Dysport                  NP1     Z99 
 invasive                 JJ      Z99 
-isnt                     VV0     Z99 
 liposuction              NN1     Z99 
 Minimally                RR      Z99 
 nonsurgical              JJ      Z99 

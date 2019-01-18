@@ -1,12 +1,12 @@
-TOTAL         205
+TOTAL         206
 NN1            51 
 AT             19 
 JJ             18 
 NN2            17 
 II             15 
 IO              9 
+NP1             8 
 VVN             7 
-NP1             7 
 VVI             7 
 TO              6 
 CC              5 
@@ -21,7 +21,7 @@ APPGE           2
 IF              2 
 VVD             2 
 RGR             1 
-NP2             1 
+GE              1 
 VHZ             1 
 RT              1 
 DD1             1 

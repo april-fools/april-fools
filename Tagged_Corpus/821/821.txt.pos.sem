@@ -109,7 +109,8 @@
 0000010 030  NN1     move                     M1 M2 A2.1+ H4/A2.1 K5.2 
 0000010 031  ,       ,                        
 0000010 040  AT      the                      Z5 
-0000010 050  NN2     worlds                   W1 S5+c A4.1 N5+ 
+0000010 050  NN1     world                    W1 S5+c A4.1 N5+ 
+0000010 051  GE      's                       Z5 
 0000010 060  MC      two                      N1 T3 T1.2 
 0000010 070  JJT     biggest                  N3.2+++ N5+++ A11.1+++ S1.2.5+++ X5.2+++ 
 0000010 080  NN2     economies                I2.1 I1.3- 
@@ -218,7 +219,8 @@
 0000015 050  VVG     fighting                 E3-[i12.2.1 S8-[i12.2.1 S8- X8+ E3- G1.2 
 0000015 060  RP      back                     E3-[i12.2.2 S8-[i12.2.2 M6 N6+ T1.1.1 S1.1.2+ S8-[i13.2.1 
 0000015 070  II      against                  Z5 S8-[i13.2.2 
-0000015 080  NP2     Chinas                   Z2 
+0000015 080  NP1     China                    Z2 
+0000015 081  GE      's                       Z5 
 0000015 090  NN1     trade                    I2.2 I2.1 I3.1 I2.2/N5 
 0000015 100  NN2     tactics                  X4.2 
 0000015 101  .       .                        
@@ -230,7 +232,7 @@
 0000017 050  CST     that                     Z8 Z5 
 0000017 060  PPHS2   they                     Z8mfn 
 0000017 070  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000017 071  XX      nt                       S9/Q4.1 Z3c 
+0000017 071  XX      n't                      Z6 
 0000017 080  VHI     have                     A9+ Z5 A2.2 S4 
 0000017 090  AT1     a                        P1[i14.2.1 Z5 
 0000017 100  NN1     level                    P1[i14.2.2 N3.7 N5 S5+ A5.1 X9.1 A4.1 S7.1 
@@ -274,7 +276,7 @@
 0000017 430  NN2     rules                    G2.1 X4.2 A6.2+ Q3 
 0000017 440  CC      or                       Z5 
 0000017 450  VHZ     has                      Z5 A9+ A2.2 S4 
-0000017 451  XX      nt                       A1.9[i17.2.1 E6-[i17.2.1 
+0000017 451  XX      n't                      A1.9[i17.2.1 E6-[i17.2.1 Z6 
 0000017 460  VVN     bothered                 A1.9[i17.2.2 E6-[i17.2.2 E6- A1.1.1 E3- X5.2+ 
 0000017 470  TO      to                       Z5 
 0000017 480  VVI     follow                   M1 N4 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 X3.4 
@@ -314,7 +316,8 @@
 0000019 280  NP1     China                    Z2 
 0000019 281  ,       ,                        
 0000019 290  AT      the                      Z5 
-0000019 300  NN2     worlds                   W1 S5+c A4.1 N5+ 
+0000019 300  NN1     world                    W1 S5+c A4.1 N5+ 
+0000019 301  GE      's                       Z5 
 0000019 310  MD      second                   N4 
 0000019 320  JJT     largest                  N3.2+++ N5+++ A11.1+++ 
 0000019 330  NN1     economy                  I2.1 I1.3- 
@@ -392,7 +395,8 @@
 0000024 070  NP1     United                   Z2c[i23.2.1 Z2c[i22.2.1 Z3c Z1mf[i21.2.1 Z3c[i21.2.1 
 0000024 080  NP1     States                   Z2c[i23.2.2 Z2c[i22.2.2 Z2 Z1mf[i21.2.2 Z3c[i21.2.2 
 0000024 090  VBZ     is                       A3+ Z5 
-0000024 100  NP2     Chinas                   Z2 
+0000024 100  NP1     China                    Z2 
+0000024 101  GE      's                       Z5 
 0000024 110  JJ      ambitious                X7+ 
 0000024 120  NN1     agenda                   Q1.2/X7+ 
 0000024 130  VVN     called                   Q2.2 S1.1.1 Q1.3 S9% 
@@ -555,8 +559,8 @@
 0000031 010  CCB     But                      Z5 
 0000031 020  NN1     trade                    I2.2 I2.1 I3.1 I2.2/N5 
 0000031 030  NN2     wars                     G3 S7.3 
-0000031 040  VB0     are                      A3+ Z5 
-0000031 041  XX      nt                       S9/Q4.1 Z3c 
+0000031 040  VBR     are                      A3+ Z5 
+0000031 041  XX      n't                      Z6 
 0000031 050  JJ      easy                     A12+ 
 0000031 060  TO      to                       Z5 
 0000031 070  VVI     win                      X9.2+/S7.3 X9.2+/G3 A9+ 
@@ -597,7 +601,8 @@
 0000035 010  CC      And                      Z5 
 0000035 020  DA2     many                     N5+ 
 0000035 030  IO      of                       Z5 
-0000035 040  NP2     Chinas                   Z2 
+0000035 040  NP1     China                    Z2 
+0000035 041  GE      's                       Z5 
 0000035 050  NN2     tariffs                  I1.3 
 0000035 051  ,       ,                        
 0000035 060  II      including                A1.8+ 

@@ -642,7 +642,8 @@
 0000034 090  CC      or                       Z5 
 0000034 100  DAR     more                     N5++ 
 0000034 110  NNT2    years                    T1.3 
-0000034 120  VV0     experience               A2.1+/A3+ X3 
+0000034 111  GE      '                        Z5 
+0000034 120  NN1     experience               X2.2+ X9.1+ I3.2 A2.1+/A3+ X3 
 0000034 130  VVG     working                  I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
 0000034 140  IW      with                     Z5 
 0000034 150  NP1     Perl                     Z99 

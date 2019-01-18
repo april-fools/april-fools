@@ -103,7 +103,7 @@
 0000004 291  ,       ,                        
 0000004 300  EX      there                    Z5 
 0000004 310  VHZ     has                      Z5 A9+ A2.2 S4 
-0000004 311  XX      nt                       S9/Q4.1 Z3c 
+0000004 311  XX      n't                      Z6 
 0000004 320  VBN     been                     A3+ Z5 
 0000004 330  DAR     more                     N5++ 
 0000004 340  CSN     than                     Z5 
@@ -179,8 +179,9 @@
 0000007 440  JJ      faithless                S6- A5.2- S9 
 0000007 450  NN2     electors                 G1.2/X7+/S2mf 
 0000007 451  ,       ,                        
-0000007 460  NN2     Mulinixs                 Z99 
-0000007 470  VV0     vote                     G1.2 
+0000007 460  NP1     Mulinix                  Z99 
+0000007 461  GE      's                       Z5 
+0000007 470  NN1     vote                     G1.2 
 0000007 480  RR      still                    T2++ Z4 E3+ 
 0000007 490  VVN     counted                  N2 A11.1+ 
 0000007 500  CC      and                      Z5 
@@ -483,7 +484,8 @@
 0000017 400  NN2     votes                    G1.2 
 0000017 410  VVN     compared                 A6.1 A5.1 Q3 
 0000017 420  II      to                       Z5 
-0000017 430  NP2     Clintons                 Z1mf 
+0000017 430  NP1     Clinton                  Z1mf 
+0000017 431  GE      's                       Z5 
 0000017 440  MC      227                      N1 T1.2 T3 T1.3 N3.2 
 0000017 441  .       .                        
 0000018 001  -----   -----                    
@@ -497,7 +499,8 @@
 0000019 080  II21    on                       Z5[i37.2.1 Z5 
 0000019 090  II22    to                       Z5[i37.2.2 Z5 
 0000019 100  AT      the                      Z5 
-0000019 110  NN2     nations                  G1.1c S5+c 
+0000019 110  NN1     nation                   G1.1c S5+c 
+0000019 111  GE      's                       Z5 
 0000019 120  NN1     capital                  I1.1 M7/G1.1 Q1.2 
 0000019 130  II      by                       Z5 
 0000019 140  JJ      late                     T4- L1- T1.1 

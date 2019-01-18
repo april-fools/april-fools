@@ -1,9 +1,9 @@
-TOTAL         792
-NN1           170 
-JJ             80 
-NN2            57 
+TOTAL         801
+NN1           171 
+JJ             81 
+NN2            55 
+NP1            54 
 II             52 
-NP1            50 
 AT             43 
 CC             34 
 AT1            34 
@@ -19,6 +19,7 @@ IW             11
 VBZ            11 
 MC             10 
 VVZ            10 
+GE              9 
 APPGE           8 
 TO              8 
 VM              7 
@@ -31,8 +32,6 @@ CST             4
 MD              3 
 VBI             3 
 CSA             3 
-NP2             3 
-VVD             3 
 MCMC            3 
 DAR             3 
 NNU             3 
@@ -43,6 +42,7 @@ RL              2
 VBR             2 
 PPIO2           2 
 XX              2 
+VVD             2 
 VBN             1 
 RGR             1 
 CS              1 

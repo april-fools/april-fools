@@ -12,10 +12,10 @@ Laub (pictured) said the company has samples of the technology now and the first
 
 The XSense sensors can be manufactured as a roll-to-roll film, which is easy to apply to display surfaces.
 
- <quote> “The combined touchscreen sensor and controller IC industry is over $10 billion dollars currently and is still growing rapidly. There is significant demand in the industry for larger, thinner and lighter touch sensors,” </quote>  said Jennifer Colegrove, an analyst at NPD DisplaySearch.  <quote> “ITO-alternative material, such as Atmel’s new touch sensor technology XSense, is penetrating into the touch sensor market to offer designers new thin, lightweight, flexible and durable designs.” </quote> 
+ <quote> “The combined touchscreen sensor and controller IC industry is over $10 billion dollars currently and is still growing rapidly. There is significant demand in the industry for larger, thinner and lighter touch sensors,” </quote>  said Jennifer Colegrove, an analyst at NPD DisplaySearch.  <quote> “ITO-alternative material, such as Atmel's new touch sensor technology XSense, is penetrating into the touch sensor market to offer designers new thin, lightweight, flexible and durable designs.” </quote> 
 
 Atmel already makes controllers that make touchscreens more accurate. Laub said that the XSense products will be cost-effective at large sizes, such as flat-panel televisions. Atmel has an exclusive license on the technology.
 
- <quote> “You’ll be able to do the big touchscreens like in Minority Report,” </quote>  he said, referring to a futuristic Tom Cruise film.
+ <quote> “You'll be able to do the big touchscreens like in Minority Report,” </quote>  he said, referring to a futuristic Tom Cruise film.
 
 Laub said the cost of the new sensors is much lower than current sensor technology. Atmel has 5,000 employees. Fujifilm is one of the competitors in the market.

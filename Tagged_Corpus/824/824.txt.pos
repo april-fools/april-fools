@@ -9,10 +9,11 @@
 0000002 070 ban                                         93 [NN1/99] VV0/1
 0000002 080 on                                          93 [II/99] RP@/1
 0000002 090 women                                       93 NN2
-0000002 100 attending                                   93 [VVG/99] NN1%/1
-0000002 110 mens                        ERROR?          09 [NN2/66] VVZ/34
-0000002 120 sports                                      93 [NN2/94] VVZ%/6
-0000002 130 matches                                     03 [VVZ/55] NN2/45
+0000002 100 attending                                   93 [VVG/100] NN1%/0
+0000002 110 men                       >                 93 NN2
+0000002 111 's                        <                 98 GE
+0000002 120 sports                                      93 [NN2/100] VVZ%/0
+0000002 130 matches                                     03 [VVZ/59] NN2/41
 0000002 131 ,                                           03 ,
 0000002 140 a                                           93 AT1
 0000002 150 senior                                      03 [JJ/99] NN1@/1
@@ -27,10 +28,11 @@
 0000004 030 Minister                                    93 [VV0@/82] NN1/18
 0000004 040 Abdolhamid                                  06 [NP1/82] JJ/12 NN1/6
 0000004 050 Ahmadi                                      06 NP1
-0000004 060 said                                        93 [VVD/100] JJ%/0 VVN@/0
-0000004 070 Irans                                       04 NP2
+0000004 060 said                                        93 [VVD/100] VVN@/0 JJ%/0
+0000004 070 Iran                      >                 93 NP1
+0000004 071 's                        <                 98 GE
 0000004 080 State                                       96 NN1
-0000004 090 Security                                    93 NN1
+0000004 090 Security                                    96 NN1
 0000004 100 Council                                     93 NN1
 0000004 110 has                                         93 VHZ
 0000004 120 approved                                    97 VVN
@@ -115,10 +117,11 @@
 0000008 030 been                                        93 VBN
 0000008 040 banned                                      03 [VVN/100] JJ/0 VVD/0
 0000008 050 from                                        93 II
-0000008 060 attending                                   93 [VVG/97] NN1%/3
-0000008 070 mens                        ERROR?          09 [NN2/64] VVZ/36
-0000008 080 sports                                      93 [NN2/97] VVZ%/3
-0000008 090 matches                                     03 [VVZ/80] NN2/20
+0000008 060 attending                                   93 [VVG/100] NN1%/0
+0000008 070 men                       >                 93 NN2
+0000008 071 's                        <                 98 GE
+0000008 080 sports                                      93 [NN2/100] VVZ%/0
+0000008 090 matches                                     03 [VVZ/82] NN2/18
 0000008 100 since                                       93 [CS/67] II@/30 RR@/2
 0000008 110 the                                         93 AT
 0000008 120 1979                                        17 MC

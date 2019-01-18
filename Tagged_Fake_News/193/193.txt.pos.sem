@@ -219,7 +219,8 @@
 0000013 270  VVG     becoming                 A2.1+ O4.2+ 
 0000013 280  NN1     co-head                  Z99 
 0000013 290  IO      of                       Z5 
-0000013 300  NP2     Goldmans                 Z1 
+0000013 300  NP1     Goldman                  Z1 
+0000013 301  GE      's                       Z5 
 0000013 310  JJR     broader                  A4.2-- N3.7++ N5++ 
 0000013 320  NN2     securities               G2.1 A15+ E6+ I1.1 
 0000013 330  CC      and                      Z5 

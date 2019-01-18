@@ -1,4 +1,4 @@
-TOTAL              212
+TOTAL              215
 the                  Z5                  12 
 of                   Z5                   8 
 a                    Z5                   6 
@@ -6,6 +6,7 @@ was                  A3+                  5
 to                   Z5                   5 
 Karlov               Z99                  4 
 and                  Z5                   4 
+'s                   Z5                   4 
 in                   Z5                   4 
 Kuntzman             Z99                  4 
 that                 Z5                   3 
@@ -19,11 +20,10 @@ Ambassador           G1.1                 2
 Andrei_Karlov        Z1                   2 
 murder               L1-                  2 
 at                   Z5                   2 
-nt                   S9                   2 
+n't                  Z6                   2 
 public               S5+                  2 
 face                 B1                   2 
 Rath                 Z99                  2 
-Hitlers              Z1                   2 
 writer               Q4.1                 1 
 NY_Daily             Z1                   1 
 news                 X2.2+                1 
@@ -51,12 +51,11 @@ instead              A6.1-                1
 noble                G2.2+                1 
 act                  A1.1.1               1 
 as                   Z5                   1 
-Vladimir             Z99                  1 
-Putins               Z99                  1 
+Vladimir_Putin       Z1                   1 
 man                  S2.2                 1 
 Turkey               Z2                   1 
 murderous            G2.1-                1 
-dictators            S7.1+                1 
+dictator             S7.1+                1 
 war                  G3                   1 
 crimes               G2.1-                1 
 around               Z5                   1 
@@ -113,7 +112,7 @@ France               Z2                   1
 like                 Z5                   1 
 atrocity             G2.2-                1 
 in_this_case         Z4                   1 
-Adolf                Z1                   1 
+Adolf_Hitler         Z1                   1 
 genocide             L1-                  1 
 anti-semitism        S9                   1 
 coming               M1                   1 
@@ -121,9 +120,11 @@ global               W3                   1
 aggression           E3-                  1 
 wrote                Q1.2                 1 
 comparing            A6.1                 1 
-Russias              Z2                   1 
+Russia               Z2                   1 
 role                 I3.1                 1 
 Syria                Z2                   1 
+Hitler               Z1                   1 
+'s                   A3+                  1 
 across               Z5                   1 
 multiple             N5+                  1 
 continents           W3                   1 

@@ -54,8 +54,9 @@
 0000004 080  NN2     Items                    O2 Q4 X4.1 Z4 
 0000004 090  TO      to                       Z5 
 0000004 100  VV0     Celebrate                E4.1+ S9 
-0000004 110  NP2     Disneys                  Z3c Z1mf 
-0000004 120  NP1     Tomorrowland             Z99 
+0000004 110  NP1     Disney                   Z3c Z1mf 
+0000004 111  GE      's                       Z5 
+0000004 120  NN1@    Tomorrowland             Z99 
 0000004 130  II      at                       Z5 
 0000004 140  NP1     Disney                   Z3c Z1mf 
 0000004 150  NN2     Parks                    Z3c 
@@ -78,7 +79,7 @@
 0000006 130  NN1     Manager                  S7.1+/S2mf K1/S7.1+/S2mf K5/S7.1+/S2mf 
 0000008 010  JJ      Ready                    O4.1 A1.2+ X7+ T2+ A9+/A12+ X9.1+ 
 0000008 020  TO      to                       Z5 
-0000008 030  VVI     launch                   M4 M5 T2+ 
+0000008 030  VVI     launch'                  Z99 
 0000008 040  RP      up                       Z5 X9.1+ M6 N4 N5++ T2- A1.1.1 N5+/A2.1 
 0000008 050  APPGE   your                     Z8 
 0000008 060  MD      next                     N4 
@@ -89,7 +90,8 @@
 0000008 110  NN1     Resort                   S6+ M7 
 0000008 111  ?       ?                        
 0000008 112  -----   -----                    
-0000008 120  NN2     Heres                    M6 T1.1.2 T1.2 
+0000008 120  RL      Here                     M6 T1.1.2 T1.2 
+0000008 121  VBZ     's                       A3+ Z5 
 0000008 130  AT1     a                        Z5 
 0000008 140  NN1     peek                     X3.4 
 0000008 150  II      at                       Z5 
@@ -143,9 +145,10 @@
 0000012 020  VVN     inspired                 S8+ 
 0000012 030  II      by                       Z5 
 0000012 040  JJ      young                    T3- 
-0000012 050  JJ@     Frank                    Z1 
-0000012 060  NN2     Walkers                  Z1mf 
-0000012 070  VV0     jetpack                  Z99 
+0000012 050  NP1     Frank                    Z1mf[i8.2.1 Z3c[i8.2.1 Z1 
+0000012 060  NP1     Walker                   Z1mf[i8.2.2 Z3c[i8.2.2 Z1mf 
+0000012 061  GE      's                       Z5 
+0000012 070  NN1     jetpack                  Z99 
 0000012 080  NN1     adventure                X8+ X5.2+ A15- 
 0000012 090  II      in                       Z5 
 0000012 100  AT      the                      Z5 
@@ -159,10 +162,10 @@
 0000012 170  NN1     Jetpack                  Z99 
 0000012 180  II      at                       Z5 
 0000012 190  NN1     Award                    A5.1+/A9- I1.3+/A9- 
-0000012 200  NP1     Wieners                  Z2[i8.3.1 Z2[i9.3.1 
-0000012 210  II      in                       Z2[i8.3.2 Z5 Z2[i9.3.2 
-0000012 220  NP1     Disney                   Z2[i8.3.3 Z3c Z1mf Z2[i9.3.3 Z1mf[i10.2.1 Z3c[i10.2.1 
-0000012 230  NP1     California               Z2 Z1mf[i10.2.2 Z3c[i10.2.2 
+0000012 200  NP1     Wieners                  Z2[i9.3.1 Z2[i10.3.1 
+0000012 210  II      in                       Z2[i9.3.2 Z5 Z2[i10.3.2 
+0000012 220  NP1     Disney                   Z2[i9.3.3 Z3c Z1mf Z2[i10.3.3 Z1mf[i11.2.1 Z3c[i11.2.1 
+0000012 230  NP1     California               Z2 Z1mf[i11.2.2 Z3c[i11.2.2 
 0000012 240  NN1     Adventure                X8+ X5.2+ A15- 
 0000012 250  NN1     park                     M7/L3 
 0000012 251  .       .                        
@@ -170,13 +173,13 @@
 0000012 260  DD1     This                     M6 Z5 Z8 
 0000012 270  JJ      double                   N5+ 
 0000012 280  JJ      all-beef                 Z99 
-0000012 290  JJ      hot                      F1[i11.2.1 O4.6+ X9.1+ O4.2+ X5.2+ G2.1- A12- S7.3+ E6- A7+++ 
-0000012 300  NN1     dog                      F1[i11.2.2 L2mfn 
+0000012 290  JJ      hot                      F1[i12.2.1 O4.6+ X9.1+ O4.2+ X5.2+ G2.1- A12- S7.3+ E6- A7+++ 
+0000012 300  NN1     dog                      F1[i12.2.2 L2mfn 
 0000012 310  VBZ     is                       Z5 A3+ 
 0000012 320  VVN     served                   S8+ S7.1- I2.2 A9- F1 A1.1.1 I3.1 K5.1 G2.1 
 0000012 330  II      on                       Z5 
 0000012 340  AT1     a                        Z5 
-0000012 350  NN1     wheatfield               Z99 
+0000012 350  JJ      wheatfield'              Z99 
 0000012 360  NN1     bun                      F1 O4.4 
 0000012 361  (       (                        
 0000012 370  RR      just                     A14 T3--- T1.3- N3.3--- 
@@ -188,7 +191,7 @@
 0000012 412  ,       ,                        
 0000012 420  IW      with                     Z5 
 0000012 430  AT1     an                       Z5 
-0000012 440  NN1     exhaust                  M3/O2 
+0000012 440  NN1     exhaust'                 Z99 
 0000012 450  IO      of                       Z5 
 0000012 460  NN2     wasabi                   Z99 
 0000012 470  NN1     ketchup                  F1 
@@ -217,8 +220,8 @@
 0000016 020  VVI     need                     S6+ 
 0000016 030  PN1     something                Z8 
 0000016 040  TO      to                       Z5 
-0000016 050  VVI     wash                     B4[i12.2.1 B4 
-0000016 060  RP      down                     B4[i12.2.2 
+0000016 050  VVI     wash                     B4[i13.2.1 B4 
+0000016 060  RP      down                     B4[i13.2.2 
 0000016 070  DB      all                      N5.1+ 
 0000016 080  DD1     that                     Z5 Z8 
 0000016 090  JJ      FRANK-furter             Z99 
@@ -238,18 +241,18 @@
 0000016 210  II      on                       Z5 
 0000016 220  DB      all                      N5.1+ 
 0000016 230  APPGE   your                     Z8 
-0000016 240  NN1@    Tomorrowland             Z99 
+0000016 240  JJ@     Tomorrowland'            Z99 
 0000016 250  NN2     adventures               X8+ X5.2+ A15- 
 0000016 251  .       .                        
 0000016 252  -----   -----                    
 0000016 260  CS      If                       Z7 
 0000016 270  PPY     you                      Z8mf 
 0000016 280  VV0     love                     E2+ 
-0000016 290  NP1     George                   Z1mf[i13.2.1 Z3c[i13.2.1 Z1m 
-0000016 300  NP1     Clooney                  Z1mf[i13.2.2 Z3c[i13.2.2 
-0000016 310  RG      as                       A13.4[i14.3.1 A13 
-0000016 320  DA1     much                     A13.4[i14.3.2 N5+ I1.3+ 
-0000016 330  CSA     as                       A13.4[i14.3.3 Z5 
+0000016 290  NP1     George                   Z1mf[i14.2.1 Z3c[i14.2.1 Z1m 
+0000016 300  NP1     Clooney                  Z1mf[i14.2.2 Z3c[i14.2.2 
+0000016 310  RG      as                       A13.4[i15.3.1 A13 
+0000016 320  DA1     much                     A13.4[i15.3.2 N5+ I1.3+ 
+0000016 330  CSA     as                       A13.4[i15.3.3 Z5 
 0000016 340  PPIS1   I                        Z8mf 
 0000016 350  VD0     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
 0000016 351  ,       ,                        
@@ -260,8 +263,8 @@
 0000016 400  NN1     drink                    F2 
 0000016 410  II      in                       Z5 
 0000016 420  AT      the                      Z5 
-0000016 430  NP1     Frank                    Z1mf[i15.2.1 Z3c[i15.2.1 Z1 
-0000016 440  NP1     Walker                   Z1mf[i15.2.2 Z3c[i15.2.2 Z1mf 
+0000016 430  NP1     Frank                    Z1mf[i16.2.1 Z3c[i16.2.1 Z1 
+0000016 440  NP1     Walker                   Z1mf[i16.2.2 Z3c[i16.2.2 Z1mf 
 0000016 450  NN1     souvenir                 O2 
 0000016 460  NN1     sipper                   Z99 
 0000016 461  ,       ,                        
@@ -269,9 +272,10 @@
 0000016 480  TO      to                       Z5 
 0000016 490  VVI     keep                     A9+ N6+ T2++ A1.7+ A2.2 F4 S8+ H4 
 0000016 500  APPGE   your                     Z8 
-0000016 510  JJ      little                   T3-/S2mf[i16.2.1 N3.2- T3- N3.7- N3.3- T1.3- A11.1- 
-0000016 520  NN2     ones                     T3-/S2mf[i16.2.2 Z8 
-0000016 530  VVD     fueled                   A1.1.1 A2.2 
+0000016 510  JJ      little                   T3-/S2mf[i17.2.1 N3.2- T3- N3.7- N3.3- T1.3- A11.1- 
+0000016 520  PN1     one                      T3-/S2mf[i17.2.2 Z8 
+0000016 521  GE      's                       Z5 
+0000016 530  NN1     fueled'                  Z99 
 0000016 540  RP      up                       Z5 X9.1+ M6 N4 N5++ T2- A1.1.1 N5+/A2.1 
 0000016 550  IF      for                      Z5 
 0000016 560  NN1     action                   A1.1.1 G3 
@@ -281,8 +285,8 @@
 0000016 571  NULL    <quote>                  
 0000016 572  -----   -----                    
 0000016 573  "       "                        
-0000016 580  NP1     Frank                    Z1mf[i17.2.1 Z3c[i17.2.1 Z1 
-0000016 590  NP1     Walker                   Z1mf[i17.2.2 Z3c[i17.2.2 Z1mf 
+0000016 580  NP1     Frank                    Z1mf[i18.2.1 Z3c[i18.2.1 Z1 
+0000016 590  NP1     Walker                   Z1mf[i18.2.2 Z3c[i18.2.2 Z1mf 
 0000016 600  NN1     souvenir                 O2 
 0000016 610  NN1     sipper                   Z99 
 0000016 611  "       "                        
@@ -298,8 +302,8 @@
 0000016 690  VVZ     includes                 A1.8+ 
 0000016 700  AT1     a                        Z5 
 0000016 710  JJ      single                   N5--- S5- S3.2- M3 
-0000016 720  JJ      soft                     F2[i18.2.1 O4.5 X3.2- O4.3 O4.1 S1.2.5- A12+ 
-0000016 730  NN1     drink                    F2[i18.2.2 F2 
+0000016 720  JJ      soft                     F2[i19.2.1 O4.5 X3.2- O4.3 O4.1 S1.2.5- A12+ 
+0000016 730  NN1     drink                    F2[i19.2.2 F2 
 0000016 740  VV0     fill                     N5.1+ I3.1 Q1.2@ 
 0000016 750  II      at                       Z5 
 0000016 760  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
@@ -311,8 +315,8 @@
 0000018 020  NN2     designs                  C1 X7+ B5 
 0000018 021  ,       ,                        
 0000018 030  II      by                       Z5 
-0000018 040  NP1     Mark                     Z1mf[i19.2.1 Z3c[i19.2.1 Z1m S9/O1.2 
-0000018 050  NP1     Jennison                 Z1mf[i19.2.2 Z3c[i19.2.2 
+0000018 040  NP1     Mark                     Z1mf[i20.2.1 Z3c[i20.2.1 Z1m S9/O1.2 
+0000018 050  NP1     Jennison                 Z1mf[i20.2.2 Z3c[i20.2.2 
 0000018 051  ,       ,                        
 0000018 060  JJ      Creative                 X2.1/A6.2- 
 0000018 070  NN1     Marketing                I2.2 
@@ -357,8 +361,8 @@
 0000018 390  II      in                       Z5 
 0000018 400  NN2     theaters                 K4/H1 K4 B3/H2 M7 
 0000018 410  II      on                       Z5 
-0000018 420  NPM1    May                      T1.3[i20.2.1 T1.3 
-0000018 430  MD      22nd                     T1.3[i20.2.2 N4 T1.3 
+0000018 420  NPM1    May                      T1.3[i21.2.1 T1.3 
+0000018 430  MD      22nd                     T1.3[i21.2.2 N4 T1.3 
 0000018 431  )       )                        
 0000018 432  ,       ,                        
 0000018 440  PPIS2   we                       Z8 
@@ -374,7 +378,9 @@
 0000018 540  JJ      favorite                 E2+++ 
 0000018 550  NP1     Disney                   Z3c Z1mf 
 0000018 560  NN2     Parks                    Z3c 
-0000018 570  VVZ     resorts                  S6+ 
+0000018 561  GE      '                        Z5 
+0000018 570  NN2     resorts                  S6+ M7 
+0000018 571  GE      '                        Z5 
 0000018 580  NN1     food                     F1 
 0000018 590  CC      and                      Z5 
 0000018 600  CC      or                       Z5 
@@ -395,9 +401,9 @@
 0000018 723  NULL    </quote>                 
 0000018 724  -----   -----                    
 0000020 010  APPGE   Our                      Z8 
-0000020 020  NP1     Walt                     Z1m[i22.2.1 Z3c[i22.2.1 Z1m Z1mf[i21.2.1 Z3c[i21.2.1 
-0000020 030  NP1     Disney                   Z1m[i22.2.2 Z3c[i22.2.2 Z3c Z1mf Z1mf[i21.2.2 Z3c[i21.2.2 Z2c[i23.2.1 
-0000020 040  NN1     World                    W1 S5+c A4.1 N5+ Z2c[i23.2.2 
+0000020 020  NP1     Walt                     Z1m[i23.2.1 Z3c[i23.2.1 Z1m Z1mf[i22.2.1 Z3c[i22.2.1 
+0000020 030  NP1     Disney                   Z1m[i23.2.2 Z3c[i23.2.2 Z3c Z1mf Z1mf[i22.2.2 Z3c[i22.2.2 Z2c[i24.2.1 
+0000020 040  NN1     World                    W1 S5+c A4.1 N5+ Z2c[i24.2.2 
 0000020 050  NN2     guests                   S2mf 
 0000020 060  VM      can                      A7+ 
 0000020 070  VVI     enjoy                    E2+ A9+ E4.1+ 
@@ -411,8 +417,8 @@
 0000020 150  NN1     Frontierland             Z99 
 0000020 160  II      at                       Z5 
 0000020 170  JJ      Magic                    S9 A11.1+ A5.1+ 
-0000020 180  NN1     Kingdom                  Z2[i24.2.1 Z1mf 
-0000020 190  NN1     Park                     Z2[i24.2.2 M7/L3 
+0000020 180  NN1     Kingdom                  Z2[i25.2.1 Z1mf 
+0000020 190  NN1     Park                     Z2[i25.2.2 M7/L3 
 0000020 191  .       .                        
 0000021 001  -----   -----                    
 0000022 010  PPY     You                      Z8mf 
@@ -457,8 +463,8 @@
 0000024 060  NN2     items                    O2 Q4 X4.1 
 0000024 070  VM      will                     T1.1.3 
 0000024 080  PPY     you                      Z8mf 
-0000024 090  VBI     be                       Z5 A3+ 
-0000024 100  VVG     transporting             M2 
+0000024 090  VBI     be                       A3+ Z5 
+0000024 100  JJ      transporting'            Z99 
 0000024 110  APPGE   your                     Z8 
 0000024 120  NP1     Disney                   Z3c Z1mf 
 0000024 130  NN2     Parks                    Z3c 

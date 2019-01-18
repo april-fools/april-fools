@@ -1,14 +1,14 @@
-TOTAL              572
+TOTAL              579
 his                  APPGE          22 
 and                  CC             18 
 of                   IO             18 
 the                  AT             17 
 he                   PPHS1          15 
 a                    AT1            10 
+Mr._Trump            NNB            10 
 has                  VHZ             9 
 in                   II              9 
 for                  IF              8 
-Mr._Trump            NNB             8 
 is                   VBZ             8 
 that                 CST             6 
 who                  PNQS            6 
@@ -19,7 +19,9 @@ with                 IW              5
 about                II              4 
 from                 II              4 
 are                  VBR             4 
+'s                   GE              3 
 to                   II              3 
+here                 RL              3 
 have                 VH0             3 
 2016                 MC              3 
 not                  XX              3 
@@ -29,7 +31,6 @@ president            NN1             2
 across               II              2 
 border               NN1             2 
 clear                JJ              2 
-Mr._Trumps           NNB             2 
 politics             NN1             2 
 yet                  RR              2 
 americans            NN2             2 
@@ -37,14 +38,14 @@ than                 CSN             2
 campaign             NN1             2 
 by                   II              2 
 according_to         II21            2 
-here                 RL              2 
 ready                JJ              2 
 some                 DD              2 
 they                 PPHS2           2 
 an                   AT1             2 
 could                VM              2 
 himself              PPX1            2 
-why                  RRQ             2 
+'s                   VBZ             2 
+n't                  XX              2 
 be                   VBI             2 
 September_26         NPM1            2 
 really               RR              2 
@@ -160,12 +161,12 @@ man                  NN1             1
 far                  RG              1 
 more                 RRR             1 
 consumed             VVN             1 
-nations              NN2             1 
+nation               NN1             1 
 well-being           NN1             1 
-heres                NN2             1 
 how                  RRQ             1 
 selling              VVG             1 
-cant                 NN1             1 
+why                  RRQ             1 
+ca                   VM              1 
 believed             VVN             1 
 Don_Levi             NP1             1 
 September_27         NPM1            1 
@@ -194,6 +195,7 @@ their                APPGE           1
 british              JJ              1 
 liberty              NN1             1 
 apples               NN2             1 
+'why                 JJ              1 
 president'i          JJ              1 
 assume               VV0             1 
 this                 DD1             1 
@@ -273,6 +275,7 @@ notably              RR              1
 tapped               VVD             1 
 $258,000             NNU             1 
 donors               NN2             1 
+'                    GE              1 
 money                NN1             1 
 foundation           NN1             1 
 settle               VVI             1 
@@ -296,8 +299,8 @@ state                NN1             1
 militants            NN2             1 
 Syria                NP1             1 
 but                  CCB             1 
-wont                 NN1             1 
-reveal               VV0             1 
+wo                   VM              1 
+reveal               VVI             1 
 bobbing              VVG             1 
 weaving              VVG             1 
 commit               VVI             1 
@@ -307,7 +310,6 @@ can                  VM              1
 judge                VVI             1 
 any                  DD              1 
 idea                 NN1             1 
-s                    VBZ             1 
 talking              VVG             1 
 without              IW              1 
 outline              NN1             1 

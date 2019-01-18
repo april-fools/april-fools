@@ -75,7 +75,8 @@
 0000002 650  MC      2019                     T1.3[i10.2.2 N1 T1.2 T3 T1.3 N3.2 
 0000002 651  .       .                        
 0000002 652  -----   -----                    
-0000002 660  NN2     KAABOOs                  Z99 
+0000002 660  NP1     KAABOO                   Z99 
+0000002 661  GE      's                       Z5 
 0000002 670  JJ      distinctive              A11.2+ 
 0000002 680  NN1     brand                    A4.1 Q1.1 
 0000002 681  ,       ,                        
@@ -125,6 +126,7 @@
 0000002 050  RR      well                     A5.1+ A13.3 A7+ B2+ Z4 
 0000002 060  IW      with                     Z5 
 0000002 070  NP1     Jones                    Z1mf 
+0000002 071  GE      '                        Z5 
 0000002 080  NN1     vision                   X4.1 X3.4 X7+ S9@ 
 0000002 090  IF      for                      Z5 
 0000002 100  AT      the                      Z5 
@@ -284,7 +286,8 @@
 0000004 730  VVI     comfort                  S8+ 
 0000004 740  NN2     characteristics          O4.1 A4.2+ N2 
 0000004 750  IO      of                       Z5 
-0000004 760  NP2     KAABOOs                  Z99 
+0000004 760  NP1     KAABOO                   Z99 
+0000004 761  GE      's                       Z5 
 0000004 770  JJ      highly-amenitized        Z99 
 0000004 780  NN1     festival                 K1/S1.1.3+ S9 
 0000004 790  NN2     offerings                A9- Q2.2 
@@ -353,7 +356,8 @@
 0000004 310  NN1     Final                    K5.1 
 0000004 320  MC      Four                     N1 T3 T1.2 
 0000004 330  II      in                       Z5 
-0000004 340  NN2     mens                     S2.2m 
+0000004 340  NN2     men                      S2.2m 
+0000004 341  GE      's                       Z5 
 0000004 350  NN1     basketball               K5.2 
 0000004 351  (       (                        
 0000004 360  NPM1    April                    T1.3[i19.2.1 T1.3 
@@ -835,7 +839,8 @@
 0000018 020  NP1     Del                      Z1mf[i48.2.2 Z3c[i48.2.2 Z1m 
 0000018 030  VV0     Mar                      T1.3 
 0000018 031  ,       ,                        
-0000018 040  NP2     KAABOOs                  Z99 
+0000018 040  NP1     KAABOO                   Z99 
+0000018 041  GE      's                       Z5 
 0000018 050  NN1     flagship                 M4fn A11.1+++ 
 0000018 060  NN1     event                    A3+/A11.1+ A6.2- S1.1.1/X7+ K5 
 0000018 061  ,       ,                        
@@ -851,8 +856,9 @@
 0000018 160  VBZ     is                       Z5 A3+ 
 0000018 170  VVN     celebrated               E4.1+ S9 
 0000018 180  CSA     as                       Z5 
-0000018 190  NP1     San                      Z2[i51.2.1 Z3c[i51.2.1 Z2[i50.2.1 Z2/S2mf Z1mf[i49.2.1 Z3c[i49.2.1 
-0000018 200  NP1     Diegos                   Z2[i51.2.2 Z3c[i51.2.2 Z2[i50.2.2 Z1m Z1mf[i49.2.2 Z3c[i49.2.2 
+0000018 190  NP1     San                      Z2[i52.2.1 Z3c[i52.2.1 Z2[i50.2.1 Z2/S2mf Z2[i51.2.1 Z3c[i51.2.1 Z1mf[i49.2.1 Z3c[i49.2.1 
+0000018 200  NP1     Diego                    Z2[i52.2.2 Z3c[i52.2.2 Z2[i50.2.2 Z1m Z2[i51.2.2 Z3c[i51.2.2 Z1mf[i49.2.2 Z3c[i49.2.2 
+0000018 201  GE      's                       Z5 
 0000018 210  JJT     largest                  N3.2+++ N5+++ A11.1+++ 
 0000018 220  JJ      multi-day                Z99 
 0000018 230  JJ      live                     L1+ A3+ Q4.3 K2/K3 K1 O3 G3 
@@ -867,20 +873,21 @@
 0000018 291  ,       ,                        
 0000018 300  MC      2018                     N1 T1.2 T3 T1.3 N3.2 
 0000018 301  ,       ,                        
-0000018 310  NP1     KAABOO                   Z1mf[i52.2.1 Z3c[i52.2.1 
-0000018 320  NP1     Del                      Z1mf[i52.2.2 Z3c[i52.2.2 Z1m 
+0000018 310  NP1     KAABOO                   Z1mf[i53.2.1 Z3c[i53.2.1 
+0000018 320  NP1     Del                      Z1mf[i53.2.2 Z3c[i53.2.2 Z1m 
 0000018 330  NPM1    Mar                      T1.3 
 0000018 340  VBDZ    was                      Z5 A3+ 
 0000018 350  RR      recently                 T3--- 
 0000018 360  VVN     nominated                X7+/Q2.2 
 0000018 370  IF      for                      Z5 
 0000018 380  NN1     Pollstar                 Z99 
-0000018 390  NN2     Magazines                Q4.2 Q4.3 G3 O2 
-0000018 391  NULL    <quote>                  
-0000018 392  -----   -----                    
+0000018 390  NN1     Magazine                 Q4.2 Q4.3 G3 O2 
+0000018 391  GE      's                       Z5 
+0000018 392  NULL    <quote>                  
+0000018 393  -----   -----                    
 0000018 400  MC      2017                     N1 T1.2 T3 T1.3 N3.2 
-0000018 410  NN1     Music                    K2/S1.1.3+c[i53.2.1 K2 
-0000018 420  NN1     Festival                 K2/S1.1.3+c[i53.2.2 K1/S1.1.3+ S9 
+0000018 410  NN1     Music                    K2/S1.1.3+c[i54.2.1 K2 
+0000018 420  NN1     Festival                 K2/S1.1.3+c[i54.2.2 K1/S1.1.3+ S9 
 0000018 430  IO      of                       Z5 
 0000018 440  AT      the                      Z5 
 0000018 450  NNT1    Year                     T1.3 P1c 
@@ -889,8 +896,8 @@
 0000018 460  II      in                       Z5 
 0000018 470  RR      only                     A14 
 0000018 480  APPGE   its                      Z8 
-0000018 490  MD      third                    T1.3[i54.2.1 P1/S2mf[i54.2.1 N4 N5 N1 
-0000018 500  NNT1    year                     T1.3[i54.2.2 P1/S2mf[i54.2.2 T1.3 P1c 
+0000018 490  MD      third                    T1.3[i55.2.1 P1/S2mf[i55.2.1 N4 N5 N1 
+0000018 500  NNT1    year                     T1.3[i55.2.2 P1/S2mf[i55.2.2 T1.3 P1c 
 0000018 501  .       .                        
 0000018 502  -----   -----                    
 0000018 510  IF      For                      Z5 
@@ -910,16 +917,16 @@
 0000018 610  NN1     expansion                N3.2+/A2.1 A4.2-/A2.1 
 0000018 620  NN2     plans                    X7+ C1/H1 
 0000018 630  IF      for                      Z5 
-0000018 640  NP1     KAABOO                   Z1mf[i55.2.1 Z3c[i55.2.1 
-0000018 650  NP1     CAYMAN                   Z1mf[i55.2.2 Z3c[i55.2.2 Z2 Z1mf 
+0000018 640  NP1     KAABOO                   Z1mf[i56.2.1 Z3c[i56.2.1 
+0000018 650  NP1     CAYMAN                   Z1mf[i56.2.2 Z3c[i56.2.2 Z2 Z1mf 
 0000018 651  ,       ,                        
-0000018 660  VVG     taking                   A1.1.1[i56.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
-0000018 670  NN1     place                    A1.1.1[i56.2.2 M7 H1 A1.2 P1 
+0000018 660  VVG     taking                   A1.1.1[i57.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000018 670  NN1     place                    A1.1.1[i57.2.2 M7 H1 A1.2 P1 
 0000018 680  NPM1    February                 T1.3 
 0000018 690  MCMC    15-17                    N1 T1.2 T3 T1.3 N3.2 
 0000018 700  II      in                       Z5 
-0000018 710  NP1@    Grand                    Z1mf[i57.2.1 Z3c[i57.2.1 
-0000018 720  NP1     Cayman                   Z1mf[i57.2.2 Z3c[i57.2.2 Z2 Z1mf 
+0000018 710  NP1@    Grand                    Z1mf[i58.2.1 Z3c[i58.2.1 
+0000018 720  NP1     Cayman                   Z1mf[i58.2.2 Z3c[i58.2.2 Z2 Z1mf 
 0000018 721  .       .                        
 0000018 722  -----   -----                    
 0000018 730  VV0     Visit                    S1.1.1 M1 
@@ -949,15 +956,15 @@
 0000020 151  .       .                        
 0000020 152  -----   -----                    
 0000020 160  II      On                       Z5 
-0000020 170  NPM1    May                      T1.3[i58.2.1 T1.3 
-0000020 180  MC      3                        T1.3[i58.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000020 170  NPM1    May                      T1.3[i59.2.1 T1.3 
+0000020 180  MC      3                        T1.3[i59.2.2 N1 T1.2 T3 T1.3 N3.2 
 0000020 181  -       -                        
 0000020 190  MC      5                        N1 
 0000020 191  ,       ,                        
 0000020 200  MC      2019                     N1 T1.2 T3 T1.3 N3.2 
 0000020 201  ,       ,                        
-0000020 210  NP1     KAABOO                   Z1mf[i59.2.1 Z3c[i59.2.1 
-0000020 220  NP1     Texas                    Z1mf[i59.2.2 Z3c[i59.2.2 Z2 Z3c 
+0000020 210  NP1     KAABOO                   Z1mf[i60.2.1 Z3c[i60.2.1 
+0000020 220  NP1     Texas                    Z1mf[i60.2.2 Z3c[i60.2.2 Z2 Z3c 
 0000020 230  VM      will                     T1.1.3 
 0000020 240  VVI     host                     S1.1.1 
 0000020 250  APPGE   its                      Z8 
@@ -972,8 +979,8 @@
 0000020 340  CST     that                     Z8 Z5 
 0000020 350  VH0     have                     Z5 A9+ A2.2 S4 
 0000020 360  VVN     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
-0000020 370  NP1     KAABOO                   Z1mf[i60.2.1 Z3c[i60.2.1 
-0000020 380  NP1     Del                      Z1mf[i60.2.2 Z3c[i60.2.2 Z1m 
+0000020 370  NP1     KAABOO                   Z1mf[i61.2.1 Z3c[i61.2.1 
+0000020 380  NP1     Del                      Z1mf[i61.2.2 Z3c[i61.2.2 Z1m 
 0000020 390  VV0     Mar                      T1.3 
 0000020 400  AT1     an                       Z5 
 0000020 410  JJ      international            M7 
@@ -991,14 +998,16 @@
 0000020 510  AT      the                      Z5 
 0000020 520  NP1     Dallas                   Z2 Z3 
 0000020 530  NN2     Cowboys                  F4/S2 I3.2- F4/S2.2m I3.2-/S2.2m 
-0000020 540  NN1     home                     Z3c[i61.2.1 H4/H1c M6 M7[i62.2.1 
-0000020 550  NN1     base                     Z3c[i61.2.2 M7 T2+ A1.1.1 O1 K5.1@ B1% M7[i62.2.2 
+0000020 531  GE      '                        Z5 
+0000020 540  NN1     home                     Z3c[i62.2.1 H4/H1c M6 M7[i63.2.1 
+0000020 550  NN1     base                     Z3c[i62.2.2 M7 T2+ A1.1.1 O1 K5.1@ B1% M7[i63.2.2 
 0000020 551  ,       ,                        
-0000020 560  NP1     KAABOO                   Z1mf[i63.2.1 Z3c[i63.2.1 
-0000020 570  NP1     Texas                    Z1mf[i63.2.2 Z3c[i63.2.2 Z2 Z3c 
+0000020 560  NP1     KAABOO                   Z1mf[i64.2.1 Z3c[i64.2.1 
+0000020 570  NP1     Texas                    Z1mf[i64.2.2 Z3c[i64.2.2 Z2 Z3c 
 0000020 580  VVZ     celebrates               E4.1+ S9 
-0000020 590  NP2     KAABOOs                  Z99 
-0000020 600  VVD     elevated                 A11.1+/A2.1 N3.7+/A2.1 
+0000020 590  NP1     KAABOO                   Z99 
+0000020 591  GE      's                       Z5 
+0000020 600  JJ      elevated                 A11.1+ X9.1+ N3.7+ 
 0000020 610  JJ      live                     L1+ A3+ Q4.3 K2/K3 K1 O3 G3 
 0000020 620  NN1     entertainment            K1 
 0000020 630  NN1     lifestyle                S1.1.1 
@@ -1006,8 +1015,8 @@
 0000020 650  II      in                       Z5 
 0000020 660  AT      the                      Z5 
 0000020 670  JJ      Lone                     N5--- 
-0000020 680  NN1     Star                     Z2[i64.2.1 Z3c[i64.2.1 Z3c 
-0000020 690  NN1     State                    Z2[i64.2.2 Z3c[i64.2.2 G1.1c O4.1 
+0000020 680  NN1     Star                     Z2[i65.2.1 Z3c[i65.2.1 Z3c 
+0000020 690  NN1     State                    Z2[i65.2.2 Z3c[i65.2.2 G1.1c O4.1 
 0000020 691  .       .                        
 0000020 692  -----   -----                    
 0000020 700  IF      For                      Z5 

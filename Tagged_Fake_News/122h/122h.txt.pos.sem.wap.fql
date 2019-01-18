@@ -1,8 +1,10 @@
-TOTAL               11
+TOTAL               13
 dear                 JJ              1 
 Media                NP1             1 
 liars                NN2             1 
-Heres_who            NP1             1 
+here                 RL              1 
+'s                   GE              1 
+who                  PNQS            1 
 is                   VBZ             1 
 really               RR              1 
 responsible          JJ              1 

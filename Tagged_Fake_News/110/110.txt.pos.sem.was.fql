@@ -1,4 +1,4 @@
-TOTAL              284
+TOTAL              289
 the                  Z5                  27 
 in                   Z5                  10 
 purple               O4.3                 8 
@@ -6,14 +6,16 @@ and                  Z5                   8
 color                O4.3                 6 
 a                    Z5                   6 
 of                   Z5                   6 
+Soros                Z99                  5 
 on                   Z5                   4 
 wore                 B5                   4 
 for                  Z5                   4 
+'s                   Z5                   4 
 while                Z5                   3 
 Clinton              Z1                   3 
 to                   Z5                   3 
-Soros                Z99                  3 
 her                  Z8                   3 
+it                   Z8                   3 
 Donald_trump         Z1                   2 
 who                  Z8                   2 
 concession           S7.4+                2 
@@ -21,18 +23,17 @@ speech               Q2.1                 2
 known                X2.2+                2 
 as                   Z5                   2 
 revolutions          G1.2                 2 
+Hillary              Z99                  2 
 from                 Z5                   2 
 red                  O4.3                 2 
 blue                 O4.3                 2 
 purple_revolution    G1.2                 2 
-it                   Z8                   2 
 unification          S5+                  2 
 election             G1.2                 2 
 Bill_Clinton         Z1                   2 
 Mrs._Clinton         Z1                   2 
 protests             Q2.2                 2 
 by                   Z5                   2 
-soross               Z99                  2 
 United_States        Z2                   2 
 blasting             A1.1.1               1 
 so-called            A8                   1 
@@ -44,6 +45,7 @@ once_again           Z4                   1
 which                Z8                   1 
 signifies            Q1.1                 1 
 George_Soros         Z1                   1 
+'                    Z5                   1 
 color_revolution     G1.2                 1 
 against              Z5                   1 
 presidency           S7.1+                1 
@@ -75,7 +77,6 @@ middle_east          Z2                   1
 north_Africa         Z2                   1 
 now                  T1.1.2               1 
 he                   Z8                   1 
-s                    Z5                   1 
 trying               X8+                  1 
 do                   A1.1.1               1 
 same                 A6.1+++              1 
@@ -84,7 +85,6 @@ far-left             Z99                  1
 radicals             G1.2                 1 
 U.S.                 Z8                   1 
 if                   Z7                   1 
-Hillarys             Z99                  1 
 recent               T3-                  1 
 penchant             E2+                  1 
 is                   A3+                  1 
@@ -92,7 +92,7 @@ any                  N5.1+                1
 indication           A10+                 1 
 but                  Z5                   1 
 why                  A2.2                 1 
-its                  Z8                   1 
+'s                   A3+                  1 
 resulting            A2.2                 1 
 mixing               A2.1+                1 
 others               A6.1-                1 
@@ -124,10 +124,9 @@ that                 Z8                   1
 propelled            M2                   1 
 into                 Z5                   1 
 White_house          Z3                   1 
-Hillary              Z99                  1 
 entered              M1                   1 
 ballroom             H2                   1 
-moonie               Z99                  1 
+moonie'              Z99                  1 
 church-owned         Z99                  1 
 new                  T3-                  1 
 Yorker_hotel         Z3                   1 

@@ -8,7 +8,6 @@ filibuster               NN1     Z99
 filibustered             VVN@    Z99 
 finalized                VVN@    Z99 
 insertion                NN1     Z99 
-isnt                     NN1     Z99 
 job-killing              JJ      Z99 
 Koch-affiliated          JJ      Z99 
 lawmakers                NN2     Z99 
@@ -18,8 +17,4 @@ Obama                    NP1     Z99
 Obama-era                JJ      Z99 
 rollback                 NN1     Z99 
 rulemaking               JJ@     Z99 
-shouldnt                 NN1     Z99 
-theyre                   NN1     Z99 
-theyve                   NN1     Z99 
 wellness                 NN1     Z99 
-wouldnt                  NN1     Z99 

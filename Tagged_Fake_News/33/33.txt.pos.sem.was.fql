@@ -1,4 +1,4 @@
-TOTAL              261
+TOTAL              263
 to                   Z5                  14 
 the                  Z5                  12 
 and                  Z5                  10 
@@ -8,13 +8,13 @@ a                    Z5                   6
 home                 H4                   5 
 his                  Z8                   5 
 their                Z8                   4 
+that                 Z8                   4 
 after                Z5                   3 
 200                  N1                   3 
 from                 Z5                   3 
 back                 M6                   3 
 of                   Z5                   3 
 north_Carolina       Z2                   3 
-that                 Z8                   3 
 was                  Z5                   3 
 way                  X4.2                 3 
 is                   A3+                  3 
@@ -38,6 +38,7 @@ day                  T1.3                 2
 were                 Z5                   2 
 set                  M2                   2 
 plane                M5                   2 
+n't                  Z6                   2 
 able                 X9.1+                2 
 trump                Z1                   2 
 us                   Z8                   2 
@@ -91,7 +92,7 @@ been                 Z5                   1
 made                 A1.1.1               1 
 logistics            A1.1.1               1 
 unit                 S5+                  1 
-wouldnt              Z99                  1 
+would                A7+                  1 
 be                   A3+                  1 
 take                 A9+                  1 
 on                   Z5                   1 
@@ -113,7 +114,7 @@ sent                 M2                   1
 airline              M5                   1 
 down_to              X6+                  1 
 take_care_of         S8+                  1 
-thats                Z5                   1 
+'s                   A3+                  1 
 all                  N5.1+                1 
 we                   Z8                   1 
 knew.i               Z99                  1 
@@ -123,7 +124,6 @@ who                  Z3                   1
 i                    Z8                   1 
 truly                A5.2+                1 
 did                  Z5                   1 
-nt                   S9                   1 
 know                 X2.2+                1 
 anything             Z8                   1 
 him                  Z8                   1 

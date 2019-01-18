@@ -7,14 +7,12 @@ casinocracy              NN1     Z99
 conflict-related         JJ      Z99 
 costumed                 JJ@     Z99 
 descriptively            RR      Z99 
-detat                    NN1     Z99 
 fahklempt                VV0     Z99 
 fashionistas             NN2     Z99 
 Gaddafi                  NN2     Z99 
 gullibility              NN1     Z99 
 he/she                   PPHS1   Z99 
 Headliners               NN2     Z99 
-Im                       VV0     Z99 
 Inshallah                UH      Z99 
 interfaith               NN1     Z99 
 Iraq-war                 JJ      Z99 
@@ -36,7 +34,6 @@ rumored                  VVN@    Z99
 Sand-breaking            NN1     Z99 
 sanitized                VVD     Z99 
 soon-to-be-classic       NN1     Z99 
-theyve                   NN1     Z99 
 Tigris                   NP1     Z99 
 TX                       NP1     Z99 
 uptick                   NN1     Z99 

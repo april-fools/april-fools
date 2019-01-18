@@ -1,4 +1,4 @@
-TOTAL              242
+TOTAL              243
 the                  AT             13 
 in                   II              7 
 and                  CC              7 
@@ -13,13 +13,13 @@ he                   PPHS1           4
 has                  VHZ             3 
 Goldman_Sachs        NP1             3 
 on                   II              3 
+Goldman              NP1             3 
 administration       NN1             3 
 head                 VVI             2 
 his                  APPGE           2 
 White_house          NP1             2 
 economic             JJ              2 
 if                   CS              2 
-Goldman              NP1             2 
 picked               VVD             2 
 trump                NN1             2 
 executives           NN2             2 
@@ -29,6 +29,7 @@ firm                 NN1             2
 been                 VBN             2 
 to                   II              2 
 with                 IW              2 
+'s                   GE              2 
 will                 VM              2 
 served               VVD             2 
 President-elect      NNB             1 
@@ -87,7 +88,6 @@ move                 NN1             1
 recent               JJ              1 
 months               NNT2            1 
 analysis             NN1             1 
-'s                   GE              1 
 billionaire          NN1             1 
 cabinet              NN1             1 
 could                VM              1 
@@ -127,7 +127,6 @@ bond                 NN1             1
 trading              NN1             1 
 becoming             VVG             1 
 co-head              NN1             1 
-Goldmans             NP2             1 
 broader              JJR             1 
 securities           NN2             1 
 eventually           RR              1 

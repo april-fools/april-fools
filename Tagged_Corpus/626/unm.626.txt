@@ -12,9 +12,6 @@ loosening                NN1     Z99
 Muslim-majority          JJ      Z99 
 Obama                    NP1     Z99 
 protestors               NN2     Z99 
-Putins                   NP2     Z99 
 Rights-abusing           JJ      Z99 
 tweeted                  VVN     Z99 
 underscoring             VVG     Z99 
-Vladimir                 NP1     Z99 
-wasnt                    VV0     Z99 

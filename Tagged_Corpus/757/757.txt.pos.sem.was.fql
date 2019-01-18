@@ -1,13 +1,14 @@
-TOTAL              582
+TOTAL              594
 the                  Z5                  59 
 of                   Z5                  27 
 and                  Z5                  21 
 to                   Z5                  13 
 in                   Z5                  12 
+China                Z2                  11 
 a                    Z5                  10 
 Philippines          Z2                   9 
+'s                   Z5                   9 
 that                 Z5                   8 
-China                Z2                   7 
 international        M7                   7 
 for                  Z5                   6 
 arbitration          G2.1                 6 
@@ -15,7 +16,7 @@ case                 A4.1                 6
 its                  Z8                   6 
 has                  Z5                   5 
 not                  Z6                   5 
-Chinas               Z2                   4 
+people               S2                   4 
 Sea                  W3                   4 
 it                   Z8                   4 
 that                 Z8                   4 
@@ -29,13 +30,13 @@ end                  T2-                  3
 position             M6                   3 
 over                 Z5                   3 
 ministry             G1.1                 3 
+'                    Z5                   3 
 disputes             A6.1-                3 
 North_Korea          Z1                   3 
 should               S6+                  3 
 interviewed          Q2.1                 3 
 Malaysia             Z2                   3 
 an                   Z5                   2 
-peoples              S2                   2 
 south_China          Z2                   2 
 by                   Z5                   2 
 displeasure          E4.2-                2 
@@ -58,7 +59,7 @@ peace                E3+                  2
 stability            A2.1-                2 
 was                  A3+                  2 
 community            S5+                  2 
-people               S2                   2 
+country              G1.1                 2 
 about                Z5                   2 
 flight               M5                   2 
 370                  N1                   2 
@@ -126,10 +127,10 @@ such_as              Z5                   1
 violation            G2.1-                1 
 laws                 G2.1                 1 
 vain                 X9.2-                1 
-Manilas              Z2                   1 
+Manila               Z2                   1 
 wrong                A5.3-                1 
 calculation          N2                   1 
-daily                T1.1.2               1 
+Daily                T1.1.2               1 
 joined               A2.2                 1 
 fun                  E4.1+                1 
 piece                N5.1-                1 
@@ -249,7 +250,6 @@ program              Y2                   1
 suffer               E4.1-                1 
 long-term            T1.3+                1 
 isolation            A1.8-                1 
-countrys             G1.1                 1 
 poverty              I1.1-                1 
 never                T1                   1 
 be                   Z5                   1 
@@ -265,7 +265,7 @@ new                  T3-                  1
 path                 M3                   1 
 finally              N4                   1 
 Wall_Street          Z2                   1 
-journals             Q4.2                 1 
+journal              Q4.2                 1 
 real                 A3+                  1 
 time                 Z3                   1 
 blog                 Z99                  1 
@@ -292,7 +292,6 @@ now                  T1.1.2               1
 have                 A9+                  1 
 negative             Z6                   1 
 view                 X4.1                 1 
-country              G1.1                 1 
 however              Z4                   1 
 around               A13.4                1 
 half                 N5                   1 

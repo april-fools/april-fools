@@ -1,4 +1,4 @@
-TOTAL              829
+TOTAL              838
 the                  AT             80 
 of                   IO             34 
 and                  CC             25 
@@ -9,6 +9,7 @@ is                   VBZ            10
 in                   II             10 
 with                 IW              9 
 that                 CST             9 
+'s                   GE              8 
 bible                NN1             8 
 from                 II              7 
 series               NN              7 
@@ -32,6 +33,7 @@ she                  PPHS1           4
 a.d.                 RA              3 
 story                NN1             3 
 what                 DDQ             3 
+Christ               NP1             3 
 crucifixion          NN1             3 
 period               NN1             3 
 her                  APPGE           3 
@@ -44,6 +46,7 @@ wife                 NN1             3
 tries                VVZ             3 
 only                 RR              3 
 you                  PPY             3 
+city                 NN1             3 
 Mary_Magdalene       NP1             3 
 OUARZAZATE           NP1             2 
 MOROCCO              NP1             2 
@@ -57,13 +60,13 @@ following            VVG             2
 ancient              JJ              2 
 politics             NN1             2 
 just                 RR              2 
+NBC                  NP1             2 
 new                  JJ              2 
 rage                 NN1             2 
 political            JJ              2 
 at                   II              2 
 history              NN1             2 
 channel              NN1             2 
-Christs              NP2             2 
 disciples            NN2             2 
 after                II              2 
 time                 NNT1            2 
@@ -88,16 +91,18 @@ does                 VDZ             2
 danger               NN1             2 
 sets_in              NN2             2 
 but                  CCB             2 
-city                 NN1             2 
+Pilate               NP1             2 
 into                 II              2 
 show                 NN1             2 
 pilate               VV0             2 
 roman                JJ              2 
 has_to               VHZ             2 
+competing            JJ              2 
 factions             NN2             2 
 there                EX              2 
 were                 VBDR            2 
 one                  MC1             2 
+husband              NN1             2 
 her                  PPHO1           2 
 who                  PNQS            2 
 faith                NN1             2 
@@ -127,7 +132,6 @@ complex              JJ              1
 dangerous            JJ              1 
 as_it_is             CSA             1 
 today                RT              1 
-NBCs                 NP2             1 
 continues            VVZ             1 
 fuses                VVZ             1 
 biblical             JJ              1 
@@ -203,6 +207,7 @@ Roma_Downey          NP1             1
 former               DA              1 
 star                 NN1             1 
 CBS                  NP1             1 
+'                    GE              1 
 angel                NN1             1 
 chord                NN1             1 
 debuted              VVD             1 
@@ -210,7 +215,6 @@ debuted              VVD             1
 13_million           MC              1 
 viewers              NN2             1 
 prompting            VVG             1 
-NBC                  NP1             1 
 pick_up              VV0             1 
 plans                NN2             1 
 craft                VVI             1 
@@ -288,7 +292,7 @@ as_well              II31            1
 as                   II33            1 
 sumptuous            JJ              1 
 confines             NN2             1 
-Pilates_palace       NP1             1 
+palace               NN1             1 
 investment           NN1             1 
 future               JJ              1 
 seasons              NNT2            1 
@@ -313,7 +317,6 @@ in_control           II              1
 land                 NN1             1 
 juggle               VVI             1 
 between              II              1 
-competing            JJ              1 
 somehow              RR              1 
 keep                 VV0             1 
 peace                NN1             1 
@@ -323,7 +326,6 @@ stigma               NN1             1
 washing              VVG             1 
 hands                NN2             1 
 death                NN1             1 
-Pilates              NP1             1 
 decision             NN1             1 
 allow                VVI             1 
 execution            NN1             1 
@@ -348,8 +350,6 @@ rioting              NN1             1
 Regan                NP1             1 
 not_only             XX              1 
 contend              VVI             1 
-citys                NN2             1 
-competing            VVG             1 
 his_own              APPGE           1 
 Claudia              NP1             1 
 Joanne_Whaley        NP1             1 
@@ -357,9 +357,7 @@ willow               NN1             1
 sleep                NN1             1 
 troubled             VVN             1 
 visions              NN2             1 
-Christ               NP1             1 
 opposes              VVZ             1 
-husbands             NN2             1 
 increasingly         RR              1 
 desperate            JJ              1 
 efforts              NN2             1 
@@ -389,14 +387,13 @@ priest               NN1             1
 Caiaphas             NP2             1 
 Richard_Coyle        NP1             1 
 pushes               VVZ             1 
-husband              NN1             1 
 amass                VVI             1 
 more                 DAR             1 
 power                NN1             1 
 role                 NN1             1 
 also                 RR              1 
 central              JJ              1 
-nt                   XX              1 
+n't                  XX              1 
 quite                RR              1 
 attain               VVI             1 
 status               NN1             1 
@@ -404,8 +401,7 @@ head                 NN1             1
 nascent              JJ              1 
 church               NN1             1 
 given                VVN             1 
-Dan                  NP1             1 
-browns               NN2             1 
+Dan_Brown            NP1             1 
 Da_Vinci             NP1             1 
 code                 NN1             1 
 clearly              RR              1 

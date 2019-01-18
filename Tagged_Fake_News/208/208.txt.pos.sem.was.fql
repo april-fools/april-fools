@@ -1,9 +1,11 @@
-TOTAL              360
+TOTAL              367
 the                  Z5                  25 
 his                  Z8                   9 
 to                   Z5                   9 
+foundation           T2+                  9 
+'s                   Z5                   8 
 of                   Z5                   8 
-foundation           T2+                  6 
+trump                Z1                   7 
 a                    Z5                   6 
 or                   Z5                   5 
 in                   Z5                   5 
@@ -11,9 +13,7 @@ from                 Z5                   4
 said                 Q2.1                 4 
 investigation        X2.4                 4 
 by                   Z5                   4 
-trump                Z1                   4 
 that                 Z8                   4 
-foundations          T2+                  4 
 it                   Z8                   4 
 tax                  I1.1                 4 
 filing               Q1.2                 4 
@@ -27,7 +27,6 @@ for                  Z5                   3
 after                Z5                   3 
 he                   Z8                   3 
 but                  Z5                   3 
-trumps               K5.2                 3 
 charity              S8+                  3 
 money                I1                   3 
 2015                 N1                   3 
@@ -37,7 +36,6 @@ not                  Z6                   2
 state                G1.1                 2 
 are                  A3+                  2 
 its                  Z8                   2 
-attorney             G2.1                 2 
 trump_foundation     Z3                   2 
 dissolve             A1.1.1               2 
 spokeswoman          Q2.2                 2 
@@ -46,6 +44,7 @@ presidential         G1.1                 2
 an                   Z5                   2 
 any                  N5                   2 
 have                 Z5                   2 
+Schneiderman         Z99                  2 
 during               Z5                   2 
 has                  Z5                   2 
 regulations          G2.1                 2 
@@ -70,7 +69,7 @@ personally           S5-                  1
 benefited            S8+                  1 
 spending             I1.2                 1 
 New_York             Z2                   1 
-generals             G3                   1 
+attorney_general     S7.1+                1 
 Tuesday              T1.3                 1 
 still                T2++                 1 
 under                Z5                   1 
@@ -79,6 +78,7 @@ legally              G2.1+                1
 until                Z5                   1 
 complete             N5.1+                1 
 Amy_Spitalnick       Z1                   1 
+attorney             G2.1                 1 
 General              N5+                  1 
 Eric_Schneiderman    Z1                   1 
 statement            Q2.1                 1 
@@ -102,7 +102,6 @@ inner                M6                   1
 workings             I3.1                 1 
 been                 A3+                  1 
 subject              X4.1                 1 
-Schneidermans        Z99                  1 
 months               T1.3                 1 
 could                A7+                  1 
 remain               T2++                 1 
@@ -178,11 +177,10 @@ not_only             Z5                   1
 prior                N4                   1 
 years                T1.3                 1 
 does                 Z5                   1 
-nt                   S9                   1 
+n't                  Z6                   1 
 provide              A9-                  1 
 details              A4.2+                1 
 violations           G2.1-                1 
-schneiderman         Z99                  1 
 democrat             G1.2                 1 
 launched             M4                   1 
 into                 Z5                   1 
@@ -202,6 +200,7 @@ efficiently          X9.1+                1
 DJT_foundation       Z3                   1 
 unlike               Z5                   1 
 most                 N5+++                1 
+foundations          T2+                  1 
 never                T1                   1 
 paid                 I1.2                 1 
 fees                 I1.3                 1 

@@ -108,7 +108,8 @@
 0000008 260  NN1     part                     N5.1- O2 M7 I3.1 S1.1.3+ K4 
 0000008 270  IO      of                       Z5 
 0000008 280  AT      the                      Z5 
-0000008 290  NN2     Keys                     O2 Q1.2 
+0000008 290  NN1     Key                      O2 X9.2+ Q1.2 
+0000008 291  GE      's                       Z5 
 0000008 300  NN1     strategy                 X7+ 
 0000008 310  TO      to                       Z5 
 0000008 320  VVI     appear                   A8 A10+ A3+ G2.1 K4 Q4 

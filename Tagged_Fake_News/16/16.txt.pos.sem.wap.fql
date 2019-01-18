@@ -1,4 +1,4 @@
-TOTAL              187
+TOTAL              188
 a                    AT1             8 
 of                   IO              8 
 in                   II              6 
@@ -64,7 +64,8 @@ no_one               PN121           1
 really               RR              1 
 goes                 VVZ             1 
 building             NN1             1 
-its                  APPGE           1 
+it                   PPH1            1 
+'s                   VBZ             1 
 mainly               RR              1 
 used                 VVN             1 
 short-term           JJ              1 

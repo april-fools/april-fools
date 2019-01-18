@@ -1,9 +1,10 @@
-TOTAL              278
+TOTAL              287
 the                  AT             24 
 in                   II              7 
+Facebook             NP1             7 
 to                   TO              7 
 their                APPGE           6 
-Facebook             NP1             5 
+'s                   GE              5 
 by                   II              5 
 Zuckerberg           NP1             4 
 election             NN1             4 
@@ -13,14 +14,15 @@ and                  CC              4
 a                    AT1             3 
 to                   II              3 
 platform             NN1             3 
+that                 CST             3 
+we                   PPIS2           3 
 presidential         JJ              3 
 of                   IO              3 
 elections            NN2             3 
 is                   VBZ             3 
 SAN_FRANCISCO        NP1             2 
 at                   II              2 
-that                 CST             2 
-were                 VBDR            2 
+'re                  VBR             2 
 facebook             NN1             2 
 cast                 VVI             2 
 vote                 NN1             2 
@@ -35,10 +37,10 @@ voter                NN1             2
 can                  VM              2 
 users                NN2             2 
 accounts             NN2             2 
+candidate            NN1             2 
 with                 IW              2 
 U.S.                 NP1             2 
 said                 VVD             2 
-Facebooks            NP1             2 
 voting               NN1             2 
 Blair                NP1             2 
 all                  DB              2 
@@ -46,7 +48,7 @@ Ca                   NP1             1
 while                CS              1 
 speaking             VVG             1 
 f8                   FO              1 
-developers           NN2             1 
+developer            NN1             1 
 conference           NN1             1 
 this                 DD1             1 
 week                 NNT1            1 
@@ -69,7 +71,7 @@ electoral            JJ              1
 process              NN1             1 
 doing                VDG             1 
 something            PN1             1 
-thats                VVZ             1 
+'s                   VHZ             1 
 never                RR              1 
 been                 VBN             1 
 done                 VDN             1 
@@ -95,7 +97,6 @@ into                 II              1
 find                 VVI             1 
 profiles             NN2             1 
 each                 DD1             1 
-candidate            NN1             1 
 prominently          RR              1 
 displayed            VVN             1 
 top                  NN1             1 
@@ -104,12 +105,12 @@ feed                 NN1             1
 then                 RT              1 
 liking               VVG             1 
 desired              JJ              1 
-candidates           NN2             1 
-profile              VV0             1 
+profile              NN1             1 
 explained            VVD             1 
 before               II              1 
 adding               VVG             1 
-its                  APPGE           1 
+it                   PPH1            1 
+'s                   VBZ             1 
 that                 RG              1 
 simple               JJ              1 
 Kathryn_Blair        NP1             1 
@@ -128,7 +129,6 @@ projected            VVN             1
 become               VVI             1 
 national_standard    JJ              1 
 2020                 MC              1 
-we                   PPIS2           1 
 aim                  VV0             1 
 completely           RR              1 
 phase_out            VVI             1 
@@ -137,7 +137,7 @@ paper                NN1             1
 ballots              NN2             1 
 2018                 MC              1 
 told                 VVD             1 
-CNNs                 NP2             1 
+CNN                  NP1             1 
 wolf_Blitzer         NN1             1 
 in_a_short_time      II              1 
 very                 RG              1 

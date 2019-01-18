@@ -9,4 +9,6 @@ NJ                       NP1     Z99
 NYSE                     NN1     Z99 
 Panem                    NN1     Z99 
 Panem                    NP1     Z99 
+Panem'                   NP1     Z99 
 post-apocalyptic         JJ      Z99 
+Train'                   VVG     Z99 

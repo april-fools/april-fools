@@ -1,13 +1,14 @@
-TOTAL              250
+TOTAL              254
 the                  AT             17 
 of                   IO              8 
+ifart                NN1             6 
 a                    AT1             6 
 iphone               NN1             5 
 in                   II              5 
-ifart                NN1             4 
 developers           NN2             4 
 scent                NN1             4 
 is                   VBZ             4 
+'s                   GE              3 
 framework            NN1             3 
 which                DDQ             3 
 and                  CC              3 
@@ -20,7 +21,6 @@ by                   II              3
 one                  MC1             2 
 olfactic             JJ              2 
 release              VVI             2 
-usmell               VV0             2 
 app                  NN1             2 
 that                 CST             2 
 this                 DD1             2 
@@ -32,6 +32,7 @@ there                EX              2
 can                  VM              2 
 aroma                NN1             2 
 released             VVN             2 
+usmell               NN1             2 
 was                  VBDZ            2 
 Comm                 NP1             2 
 for                  IF              2 
@@ -47,12 +48,11 @@ major                JJ              1
 technological        JJ              1 
 breakthrough         NN1             1 
 platform             NN1             1 
-ifarts               VVZ             1 
 created              VVD             1 
 an                   AT1             1 
 works                VVZ             1 
 inside               II              1 
-apples               NN2             1 
+apple                NN1             1 
 SDK                  NP1             1 
 enables              VVZ             1 
 them                 PPHO2           1 
@@ -63,6 +63,7 @@ speaker              NN1             1
 when                 CS              1 
 function             NN1             1 
 codename             VV0             1 
+usmell               VV0             1 
 activated            VVN             1 
 signal               NN1             1 
 sent                 VVN             1 
@@ -109,12 +110,12 @@ instant              JJ              1
 colognes             NN2             1 
 are                  VBR             1 
 literally            RR              1 
-1000s                MC2             1 
+1000                 MC              1 
+'s                   VBZ             1 
 combinations         NN2             1 
 using                VVG             1 
 our                  APPGE           1 
 proprietary          JJ              1 
-usmell               NN1             1 
 ifart                VV0             1 
 spent                VVD             1 
 months               NNT2            1 
@@ -155,7 +156,6 @@ wishes               VVZ             1
 acquire              VVI             1 
 chemical_warfare     JJ              1 
 testing              NN1             1 
-ifarts               NN2             1 
 will                 VM              1 
 free                 JJ              1 
 lite                 NN1             1 

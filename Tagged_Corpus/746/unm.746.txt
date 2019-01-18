@@ -9,7 +9,7 @@ assimilated              JJ      Z99
 Baku                     NP1     Z99 
 Bela                     NN1     Z99 
 Bela                     NP1     Z99 
-Belas                    NP1@    Z99 
+Bela                     NP1@    Z99 
 boot-shaped              JJ      Z99 
 Brandeis                 NP1     Z99 
 Branovan                 NP1     Z99 
@@ -17,7 +17,7 @@ Brooklyn                 NP1     Z99
 Brownsville              NP1     Z99 
 Cahan                    NN1     Z99 
 Cahan                    NP1     Z99 
-Cahans                   NP1@    Z99 
+Cahan                    NP1@    Z99 
 communistmy              JJ      Z99 
 Cossacks                 NN2     Z99 
 costumed                 JJ@     Z99 
@@ -60,7 +60,6 @@ old-school               JJ      Z99
 on-demand                JJ      Z99 
 Ostjuden                 NN1     Z99 
 Park51                   FO      Z99 
-Pawnee                   NP1     Z99 
 pinko                    NN1     Z99 
 pogroms                  NN2     Z99 
 policy-preference        JJ      Z99 
@@ -76,7 +75,7 @@ Russian-speaking         JJ      Z99
 Salita                   NN1     Z99 
 Salita                   NP1     Z99 
 same-sex                 NN1     Z99 
-scumbag                  NN1     Z99 
+scumbag'                 NN1     Z99 
 Shayevich                NP1     Z99 
 Shayeviches              NP2     Z99 
 Skokie                   NP1     Z99 

@@ -1,4 +1,4 @@
-TOTAL              400
+TOTAL              404
 the                  AT             30 
 and                  CC             15 
 is                   VBZ            15 
@@ -16,9 +16,11 @@ centre               NN1             5
 at                   II              4 
 also                 RR              4 
 which                DDQ             4 
+there                EX              4 
 football             NN1             4 
 thepoint4            FO              3 
 futsal               NN1             3 
+UK                   NP1             3 
 are                  VBR             3 
 an                   AT1             3 
 halo                 NN1             3 
@@ -32,24 +34,24 @@ sport                NN1             2
 only                 JJ              2 
 bespoke              NN1             2 
 indoor               JJ              2 
-UK                   NP1             2 
 two                  MC              2 
 fitness              NN1             2 
 facility             NN1             2 
 sports               NN2             2 
 facilities           NN2             2 
-there                EX              2 
 leisure              NN1             2 
 membership           NN1             2 
 from                 II              2 
 into                 II              2 
+college              NN1             2 
 years                NNT2            2 
 Combe                NP1             2 
 managed              VVN             2 
 official             JJ              2 
+'s                   GE              2 
 said                 VVD             2 
 we                   PPIS2           2 
-theres               NN2             2 
+'s                   VBZ             2 
 no                   AT              2 
 international        JJ              2 
 equipment            NN1             2 
@@ -106,7 +108,6 @@ club                 NN1             1
 all                  DB              1 
 profits              NN2             1 
 ploughed_back        VVN             1 
-college              NN1             1 
 registered           JJ              1 
 charity              NN1             1 
 Chris                NP1             1 
@@ -158,7 +159,6 @@ events               NN2             1
 conferences          NN2             1 
 oversee              VVI             1 
 he                   PPHS1           1 
-colleges             NN2             1 
 academy              NN1             1 
 ambassador           NN1             1 
 have                 VH0             1 
@@ -180,7 +180,6 @@ overhead             JJ              1
 lighting             NN1             1 
 hoping               VVG             1 
 become               VVI             1 
-UKs                  NP2             1 
 excellence           NN1             1 
 disability           NN1             1 
 30,000               MC              1 

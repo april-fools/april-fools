@@ -1,4 +1,4 @@
-TOTAL         258
+TOTAL         260
 NN1            52 
 II             22 
 NP1            22 
@@ -21,6 +21,7 @@ CST             3
 TO              3 
 IW              3 
 MD              2 
+NPM1            2 
 NNT1            2 
 VBR             2 
 VVG             2 
@@ -33,7 +34,6 @@ VBN             1
 RL              1 
 VDN             1 
 DDQ             1 
-NPM1            1 
 PPX1            1 
 PPIS2           1 
 APPGE           1 
@@ -47,3 +47,4 @@ VBG             1
 DB2             1 
 VBI             1 
 RRR             1 
+GE              1 

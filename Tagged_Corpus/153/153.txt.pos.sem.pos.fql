@@ -1,12 +1,12 @@
-TOTAL         229
+TOTAL         232
 NN1            54 
 II             20 
 AT             17 
-NN2            17 
+NN2            16 
 JJ             11 
 RR             10 
 VVD             9 
-NP1             7 
+NP1             9 
 VVN             6 
 CST             5 
 CC              5 
@@ -19,6 +19,7 @@ II21            3
 AT1             3 
 VVG             3 
 NNT2            3 
+GE              3 
 VV0             3 
 VM              3 
 PPH1            2 
@@ -34,7 +35,6 @@ MC1             1
 RT              1 
 JJT             1 
 VDZ             1 
-VVZ             1 
 RP              1 
 RG              1 
 NPD1            1 

@@ -1,4 +1,4 @@
-TOTAL              365
+TOTAL              367
 the                  Z5                  26 
 of                   Z5                  21 
 a                    Z5                  13 
@@ -12,6 +12,7 @@ synthesising         A1.8+                4
 which                Z8                   4 
 commercialisation    I2.1                 4 
 its                  Z8                   4 
+'s                   Z5                   4 
 researchers          X2.4                 3 
 new                  T3-                  3 
 could                A7+                  3 
@@ -34,6 +35,7 @@ most                 A13.2                2
 electronics          O3                   2 
 including            A1.8+                2 
 advanced             T3-                  2 
+SAIT                 Z99                  2 
 that                 Z5                   2 
 large-area           Z99                  2 
 into                 Z5                   2 
@@ -86,13 +88,11 @@ next-generation      Z99                  1
 working              I3.1                 1 
 with                 Z5                   1 
 sungkyungkwan        Z99                  1 
-universitys          P1                   1 
+university           P1                   1 
 school               P1                   1 
 materials_science    Y1                   1 
 engineering          Y1                   1 
-'s                   Z5                   1 
 institute            P1                   1 
-SAIT                 Z99                  1 
 has                  Z5                   1 
 uncovered            A10+                 1 
 without              Z5                   1 
@@ -121,8 +121,7 @@ growing              N3.2+                1
 large                N3.2+                1 
 area                 M7                   1 
 displace             A2.1+                1 
-tech                 Y1                   1 
-industrys            I4                   1 
+tech_industry        I4                   1 
 reliance             S7.1-                1 
 this                 Z8                   1 
 one                  N1                   1 
@@ -131,7 +130,6 @@ breakthroughs        X9.2+                1
 history              T1.1.1               1 
 leaders              S7.1+                1 
 at                   Z5                   1 
-SAITs                Z99                  1 
 lab                  Y1                   1 
 we                   Z8                   1 
 expect               X2.6+                1 

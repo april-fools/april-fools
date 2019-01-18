@@ -43,7 +43,8 @@
 0000003 040  APPGE   his                      Z8m 
 0000003 050  NN1     job                      I3.1 A1.1.1 A12- 
 0000003 060  IW      with                     Z5 
-0000003 070  NP2     NBCs                     Z99 
+0000003 070  NP1     NBC                      Z99 
+0000003 071  GE      's                       Z5 
 0000003 080  JJ      Nightly                  N6+ 
 0000003 090  NN1     News                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
 0000003 100  MD      last                     T1.1.1[i6.2.1 N4 T1.3[i5.2.1 P1/S2mf[i5.2.1 

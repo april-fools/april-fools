@@ -1,4 +1,4 @@
-TOTAL              160
+TOTAL              162
 and                  CC              7 
 the                  AT              7 
 is                   VBZ             5 
@@ -16,6 +16,7 @@ joining              VVG             2
 greenslade           NN1             2 
 an                   AT1             2 
 on                   II              2 
+'s                   GE              2 
 we                   PPIS2           2 
 has                  VHZ             2 
 her                  APPGE           2 
@@ -41,7 +42,7 @@ development          NN1             1
 executive            NN1             1 
 at                   II              1 
 Simon_Dickson        NP1             1 
-Lorraine_Charker-Phillips NP1             1 
+Lorraine_Charker-Phillip NP1             1 
 label1               FO              1 
 before               II              1 
 going_on             VVG             1 
@@ -51,8 +52,8 @@ hospital             NN1             1
 currently            RR              1 
 producing            VVG             1 
 second               MD              1 
-Greenslades          NP1             1 
-credits              VVZ             1 
+Greenslade           NP1             1 
+credits              NN2             1 
 also                 RR              1 
 include              VV0             1 
 apprentice           NN1             1 

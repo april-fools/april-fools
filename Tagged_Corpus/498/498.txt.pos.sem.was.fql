@@ -3,7 +3,7 @@ the                  Z5                  13
 of                   Z5                   7 
 a                    Z5                   6 
 wearing              B5                   5 
-they                 Z8                   4 
+they                 Z8                   5 
 to                   Z5                   4 
 be                   Z5                   4 
 jersey               B5                   4 
@@ -16,7 +16,6 @@ their                Z8                   3
 and                  Z5                   3 
 with                 Z5                   3 
 special              A4.2+                3 
-Day                  T1.3                 3 
 MLB                  Z99                  2 
 teams                S5+                  2 
 easter               S9                   2 
@@ -66,7 +65,8 @@ road                 M3                   1
 a_couple             N5                   1 
 cases                A4.1                 1 
 take_a_look          X2.4                 1 
-Theres               Z5                   1 
+there                Z5                   1 
+'s                   A3+                  1 
 few                  N5-                  1 
 real                 A3+                  1 
 winners              X9.2+                1 
@@ -88,7 +88,7 @@ feels_like           X7+                  1
 Tampa_bay            Z2                   1 
 could                A7+                  1 
 use                  A1.5.1               1 
-theyre               Z99                  1 
+'re                  Z5                   1 
 co-named             Z99                  1 
 rays                 W2                   1 
 the_sun              Z3                   1 
@@ -122,12 +122,13 @@ five                 N1                   1
 others               A6.1-                1 
 throughout           Z5                   1 
 year                 T1.3                 1 
-mothers              S4                   1 
+mother_'s_day        T1.3                 1 
 memorial             H1                   1 
-fathers              S4                   1 
+day                  T1.3                 1 
+father_'s_day        T1.3                 1 
 fourth_of_July       T1.2                 1 
 as_well              N5++                 1 
-St._Patricks_Day     Z1                   1 
+St._Patrick_'s_day   T1.3                 1 
 during               Z5                   1 
 pre-season           N4                   1 
 schedule             X7+                  1 

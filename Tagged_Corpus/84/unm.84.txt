@@ -5,7 +5,5 @@ Cynosure                 NP1     Z99
 GrimJack                 NP1     Z99 
 inker                    NN1     Z99 
 interdimensional         JJ      Z99 
-Mundens                  NP2     Z99 
 Supes                    NN2@    Z99 
 Turnabout                NN1     Z99 
-youll                    NN1     Z99 

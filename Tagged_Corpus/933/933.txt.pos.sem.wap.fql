@@ -1,19 +1,21 @@
-TOTAL              719
+TOTAL              736
 the                  AT             75 
 of                   IO             32 
 and                  CC             25 
 in                   II             15 
 a                    AT1            13 
+republic             NN1            11 
 student              NN1            10 
-movements            NN2             8 
+movement             NN1            10 
 that                 CST             8 
-movement             NN1             8 
-republic             NN1             8 
+'s                   GE              8 
+'                    GE              8 
 is                   VBZ             7 
+movements            NN2             6 
 its                  APPGE           6 
+Germany              NP1             5 
 there                EX              5 
 new                  JJ              4 
-Germany              NP1             4 
 to                   TO              4 
 it                   PPH1            4 
 was                  VBDZ            4 
@@ -22,10 +24,10 @@ others               NN2             4
 from                 II              4 
 on                   II              4 
 federal              JJ              4 
+today                RT              4 
 an                   AT1             3 
 about                II              3 
 grassroots           NN2             3 
-republics            NN2             3 
 with                 IW              3 
 students             NN2             3 
 rebels               NN2             3 
@@ -40,7 +42,6 @@ no                   AT              3
 they                 PPHS2           3 
 radical              JJ              3 
 these                DD2             3 
-today                RT              3 
 social               JJ              3 
 why                  RRQ             3 
 political            JJ              2 
@@ -53,7 +54,8 @@ how                  RRQ             2
 german               JJ              2 
 anniversary          NN1             2 
 that                 DD1             2 
-68                   MC              2 
+i                    PPIS1           2 
+'68                  MC              2 
 1967-1969            MCMC            2 
 so                   RG              2 
 some                 DD              2 
@@ -72,8 +74,8 @@ did                  VDD             2
 across               II              2 
 tens                 MC2             2 
 fewer                DAR             2 
+most                 RGT             2 
 many                 DA2             2 
-68ers                FO              2 
 had                  VHD             2 
 as                   II              2 
 impact               NN1             2 
@@ -127,13 +129,12 @@ stands               VVZ             1
 took                 VVD             1 
 at_the_time          II              1 
 although             CS              1 
-i                    PPIS1           1 
 disagree             VV0             1 
 fundamentally        RR              1 
 bashing              VVG             1 
 fashion              NN1             1 
 at_the_moment        II              1 
-im                   VV0             1 
+'m                   VBM             1 
 not                  XX              1 
 particularly         RR              1 
 surprised            JJ              1 
@@ -204,7 +205,7 @@ real                 JJ              1
 should               VM              1 
 begin                VVI             1 
 itself               PPX1            1 
-nt                   XX              1 
+n't                  XX              1 
 change               VVI             1 
 much-but             CCB             1 
 processes            NN2             1 
@@ -227,7 +228,6 @@ sectarian            JJ              1
 and-still            NN1             1 
 just                 RR              1 
 handful-of           NN1             1 
-most                 RGT             1 
 critically           RR              1 
 in_my_opinion        II              1 
 scores               NN2             1 
@@ -258,7 +258,7 @@ excesses             NN2             1
 which                DDQ             1 
 indeed               RR              1 
 existed              VVN             1 
-most                 DAT             1 
+'68ers               FU              1 
 bi-products          NN2             1 
 marxist-leninist     JJ              1 
 parties              NN2             1 
@@ -288,13 +288,13 @@ pro-arab             JJ              1
 sympathies           NN2             1 
 completely           RR              1 
 missing              VVG             1 
-post-68              JJ              1 
+post-'68             MC              1 
 campaigns            NN2             1 
 greatest             JJT             1 
 linked_up            VVD             1 
 become               VVI             1 
 powerful             JJ              1 
-womens               NN2             1 
+women                NN2             1 
 environmental        JJ              1 
 anti-nuclear         JJ              1 
 energy               NN1             1 
@@ -312,6 +312,7 @@ stark                JJ              1
 contrast             NN1             1 
 isolated             JJ              1 
 university-based     NN1             1 
+'68ers               FO              1 
 splinter             NN1             1 
 groups               NN2             1 
 NSMs                 NP1             1 
@@ -369,7 +370,6 @@ protest              VVI             1
 atomic_power         JJ              1 
 so                   RR              1 
 marginalized         VVD             1 
-Germanys             NP2             1 
 discourses           NN2             1 
 if                   CS              1 
 went_into            VVD             1 
@@ -393,7 +393,6 @@ yet                  RR              1
 over_75              RG              1 
 minutiae             NN2             1 
 RAF                  NP1             1 
-todays               NN2             1 
 owes                 VVZ             1 
 protests             NN2             1 
 lot-and              CC              1 

@@ -72,7 +72,7 @@
 0000004 380  NN1     email                    Q1.3/Y2 
 0000004 390  NN1     address                  H4 Q2.2 
 0000004 400  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000004 401  XX      nt                       S9/Q4.1 Z3c 
+0000004 401  XX      n't                      Z6 
 0000004 410  VVI     appear                   A8 A10+ A3+ G2.1 K4 Q4 
 0000004 420  TO      to                       Z5 
 0000004 430  VBI     be                       A3+ Z5 

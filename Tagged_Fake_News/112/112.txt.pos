@@ -218,8 +218,9 @@
 0000010 060 her                                         93 [APPGE/99] PPHO1/1
 0000010 070 thoughts                                    93 NN2
 0000010 080 about                                       93 [II/100] RP@/0 RG%/0
-0000010 090 Hillarys                                    04 NP2
-0000010 100 run                                         93 [VV0/90] NN1/10 VVN/0
+0000010 090 Hillary                   >                 93 NP1
+0000010 091 's                        <                 98 GE
+0000010 100 run                                         93 [NN1/64] VVN/33 VV0/2
 0000010 110 for                                         93 [IF/100] CS%/0
 0000010 120 the                                         93 AT
 0000010 130 presidency                                  03 NN1
@@ -351,9 +352,10 @@
 0000016 160 allegations                                 03 NN2
 0000016 170 of                                          93 IO
 0000016 180 Hillary                                     93 NP1
-0000016 190 Clintons                                    04 NP2
-0000016 200 lesbian                                     06 [JJ/49] NN1/51
-0000016 210 past                                        93 [NN1/51] RL/47 JJ/2 II/0
+0000016 190 Clinton                   >                 93 NP1
+0000016 191 's                        <                 98 GE
+0000016 200 lesbian                                     06 [NN1/50] JJ/50
+0000016 210 past                                        93 [RL/47] NN1/51 JJ/2 II/0
 0000016 220 have                                        93 VH0
 0000016 230 not                                         93 XX
 0000016 240 seemed                                      97 VVN

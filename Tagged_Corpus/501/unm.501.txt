@@ -1,6 +1,5 @@
 boson                    NN1     Z99 
-Carrolls                 NP2     Z99 
-CERNs                    NP2     Z99 
+CERN                     NP1     Z99 
 Dumpty                   NN1     Z99 
 Eggeron                  NN1     Z99 
 Eggerons                 NN2     Z99 

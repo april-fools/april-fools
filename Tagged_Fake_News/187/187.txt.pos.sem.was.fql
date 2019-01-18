@@ -1,11 +1,11 @@
-TOTAL             1097
+TOTAL             1107
 the                  Z5                  80 
 a                    Z5                  31 
 to                   Z5                  30 
 and                  Z5                  28 
 of                   Z5                  26 
 intelligence         X9.1+               22 
-trump                Z1                  17 
+trump                Z1                  20 
 on                   Z5                  14 
 in                   Z5                  13 
 he                   Z8                  13 
@@ -13,26 +13,27 @@ said                 Q2.1                11
 for                  Z5                  10 
 with                 Z5                  10 
 an                   Z5                   9 
+'s                   Z5                   9 
 is                   A3+                  9 
 will                 T1.1.3               8 
 that                 Z5                   8 
 that                 Z8                   8 
 not                  Z6                   8 
 CIA                  Z3                   7 
+Russia               Z2                   7 
 his                  Z8                   7 
 russian              Z2                   7 
 they                 Z8                   6 
 about                Z5                   6 
-Russia               Z2                   6 
 election             G1.2                 6 
 is                   Z5                   6 
+committee            S7.1+                6 
 who                  Z8                   6 
 our                  Z8                   6 
 told                 Q2.1                 5 
 guardian             Z3                   5 
 it                   Z8                   5 
 or                   Z5                   5 
-committee            S7.1+                5 
 also                 N5++                 5 
 are                  A3+                  5 
 officer              G3                   5 
@@ -41,11 +42,11 @@ have                 Z5                   4
 retaliation          E3-                  4 
 US                   Z8                   4 
 public               S5+                  4 
+president            G1.1                 4 
 there                Z5                   4 
 house                H1                   4 
 be                   A3+                  3 
 assessment           X2.4                 3 
-trumps               K5.2                 3 
 within               Z5                   3 
 but                  Z5                   3 
 apparatus            O2                   3 
@@ -56,7 +57,6 @@ democratic           G1.2                 3
 additional           N5++                 3 
 electoral            G1.2                 3 
 interference         S1.1.3+++            3 
-president            G1.1                 3 
 national             M7                   3 
 after                Z5                   3 
 into                 Z5                   3 
@@ -74,6 +74,7 @@ fears                E5-                  2
 over                 Z5                   2 
 weekend              T1.3                 2 
 when                 Z5                   2 
+president-elect      G1.1                 2 
 transition           A2.1+                2 
 team                 S5+                  2 
 IC                   Z99                  2 
@@ -83,7 +84,6 @@ congress             Z3                   2
 possible             A7+                  2 
 political            G1.2                 2 
 pressure             N3.5                 2 
-like                 Z5                   2 
 colleagues           I3.2                 2 
 Barack_Obama         Z1                   2 
 disclosures          Q2.2                 2 
@@ -142,7 +142,6 @@ interests            X5.2+                2
 Carle                Z99                  2 
 only                 A14                  2 
 himself              Z8                   2 
-target               X7+                  2 
 overseeing           S7.1+                1 
 vigilant             X5.1+                1 
 reprisals            A1.1.2               1 
@@ -161,7 +160,6 @@ dismiss              A11.1-               1
 not_only             Z5                   1 
 basic                A6.2+                1 
 competence           X9.1                 1 
-president-elects     G1.1                 1 
 attempting           X8+                  1 
 discredit            Q2.2                 1 
 entire               N5.1+                1 
@@ -173,6 +171,7 @@ analysts             Y2                   1
 Ron_Wyden            Z1                   1 
 Oregon               Z2                   1 
 senate               S7.1+                1 
+like                 Z5                   1 
 panel                S5+                  1 
 Wyden                Z99                  1 
 pressing             A1.1.1               1 
@@ -235,7 +234,6 @@ levels               N3.7                 1
 picks                X7+                  1 
 likely               A7+                  1 
 bellwethers          X2.6                 1 
-presidents           G1.1                 1 
 attitudes            X2.1                 1 
 toward               Z5                   1 
 blazing              E3-                  1 
@@ -245,7 +243,9 @@ holding              M2                   1
 match                K5.1                 1 
 interrogator         Z99                  1 
 hurt                 B2-                  1 
-wont                 A6.2+                1 
+wo                   T1.1.3               1 
+n't                  Z6                   1 
+like                 E2+                  1 
 truth                A5.2+                1 
 without              Z5                   1 
 question             Q2.2                 1 
@@ -274,7 +274,6 @@ reported             Q2.2                 1
 believe              X2.1                 1 
 decided              X6+                  1 
 penetrate            M1                   1 
-committees           S7.1+                1 
 digital              Y2                   1 
 networks             S5+                  1 
 goal                 K5.1                 1 
@@ -395,7 +394,7 @@ late                 T4-                  1
 threat               E3-                  1 
 out_of               Z5                   1 
 delusions            A5.2-                1 
-resetting            A2.1+                1 
+resetting'           Z99                  1 
 relations            A2.2                 1 
 pursuing             A1.1.1               1 
 anti-trump           Z99                  1 
@@ -442,6 +441,7 @@ further              N5++                 1
 reports              Q2.2                 1 
 influenced           A2.2                 1 
 ridiculous           S1.2.6-              1 
+'                    Z5                   1 
 Elijah_Cummings      Z1                   1 
 Maryland             Z2                   1 
 investigations-heavy Z99                  1 
@@ -458,21 +458,18 @@ robust               S1.2.5+              1
 truly                A5.2+                1 
 investigation        X2.4                 1 
 puts                 M2                   1 
-nations              G1.1                 1 
+nation               G1.1                 1 
 any                  N5.1+                1 
 covered_up           A10-                 1 
 influence            S7.1+                1 
-'s                   Z5                   1 
 win                  X9.2+                1 
 Harry_Reid           Z1                   1 
 claims               Q2.2                 1 
 read                 Q3                   1 
 temperament          S1.2                 1 
 played               K1                   1 
-Russias              Z2                   1 
 hands                B1                   1 
 put                  M2                   1 
-president-elect      G1.1                 1 
 collision_course     A1.1.2               1 
 look                 Z3                   1 
 my                   Z8                   1 
@@ -492,6 +489,7 @@ personal             S5-                  1
 advantage            A5.1+                1 
 directs              M6                   1 
 juiciest             O1.2                 1 
+target               X7+                  1 
 could                A7+                  1 
 imagine              X2.1                 1 
 groans               X3.2+                1 
@@ -502,6 +500,7 @@ agree                A6.1+                1
 build_up             N5+                  1 
 shockingly           Z99                  1 
 easy                 A12+                 1 
+target'              Z99                  1 
 manipulate           A2.1+                1 
 were                 A3+                  1 
 would                A7+                  1 

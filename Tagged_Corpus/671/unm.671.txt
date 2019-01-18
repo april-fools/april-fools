@@ -13,4 +13,3 @@ synergistic              JJ      Z99
 Uniguest                 JJT     Z99 
 Uniguest                 NP1     Z99 
 Uniguest                 NP1@    Z99 
-Uniguests                NP1     Z99 

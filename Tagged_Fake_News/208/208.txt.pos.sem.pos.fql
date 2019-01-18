@@ -1,14 +1,15 @@
-TOTAL         360
-NN1            73 
-NN2            30 
+TOTAL         367
+NN1            79 
 II             28 
 AT             25 
+NN2            23 
 JJ             19 
-NP1            14 
+NP1            15 
 VVD            12 
 VVI            11 
 APPGE          11 
 VVN             9 
+GE              8 
 CC              8 
 IO              8 
 AT1             8 
@@ -43,7 +44,6 @@ IW              1
 CSW             1 
 NPM1            1 
 VBN             1 
-NP2             1 
 PPHS2           1 
 VBDR            1 
 II21            1 

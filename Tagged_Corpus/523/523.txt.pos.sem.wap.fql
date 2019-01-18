@@ -1,11 +1,11 @@
-TOTAL              367
+TOTAL              369
 the                  AT             19 
 a                    AT1            13 
 to                   II              9 
+George_Galloway      NP1             7 
 in                   II              7 
 he                   PPHS1           7 
 and                  CC              7 
-George_Galloway      NP1             6 
 to                   TO              6 
 brewery              NN1             5 
 was                  VBDZ            5 
@@ -13,14 +13,15 @@ April_4              NPM1            5
 2015                 MC              5 
 twitter              NN1             4 
 after                CS              4 
+Mr_Galloway          NNB             4 
 were                 VBDR            4 
 of                   IO              4 
 has                  VHZ             3 
 with                 IW              3 
 which                DDQ             3 
 Bradford_brewery     NP1             3 
+'s                   GE              3 
 account              NN1             3 
-Mr_Galloway          NNB             3 
 after                II              3 
 election             NN1             3 
 you                  PPY             3 
@@ -69,12 +70,10 @@ on                   II              1
 responded            VVD             1 
 tweet                NN1             1 
 annoy                VVI             1 
-George_Galloways     NP1             1 
 asking               VVG             1 
 whether              CSW             1 
 still                RR              1 
 thing                NN1             1 
-'s                   GE              1 
 questioned           VVD             1 
 why                  RRQ             1 
 only                 JJ              1 
@@ -205,7 +204,6 @@ action               NN1             1
 since                RR              1 
 blocked              VVN             1 
 following            VVG             1 
-Mr_Galloways         NNB             1 
 independent          NN1             1 
 contacted            VVN             1 
 representative       NN1             1 

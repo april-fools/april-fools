@@ -37,7 +37,8 @@
 0000002 270  VVN     released                 A1.7- A9- 
 0000002 280  II      on                       Z5 
 0000002 290  JJ      rival                    S7.3 
-0000002 300  NP2     Sonys                    Z3c 
+0000002 300  NP1     Sony                     Z3c 
+0000002 301  GE      's                       Z5 
 0000002 310  JJ      current                  T1.1.2 
 0000002 320  NN1     generation               T1.3 S5+c 
 0000002 330  NN1@    console                  O3 
@@ -121,7 +122,7 @@
 0000002 951  ,       ,                        
 0000002 960  PPIS1   I                        Z8mf 
 0000002 970  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000002 971  XX      nt                       S9/Q4.1 Z3c 
+0000002 971  XX      n't                      Z6 
 0000002 980  RR      even                     A13.1 
 0000002 990  VVI     care                     E6- E2+ S8+ B3 X7+ 
 0000002 000  II      about                    Z5 
@@ -144,7 +145,7 @@
 0000002 132  -----   -----                    
 0000002 140  PPH1    It                       Z8 
 0000002 150  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000002 151  XX      nt                       S9/Q4.1 Z3c 
+0000002 151  XX      n't                      Z6 
 0000002 160  VVI     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
 0000002 170  DA1     much                     N5+ I1.3+ 
 0000002 180  DAR     more                     N5++ 

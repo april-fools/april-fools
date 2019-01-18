@@ -1,13 +1,13 @@
-TOTAL              676
+TOTAL              680
 the                  AT             25 
 a                    AT1            21 
 and                  CC             19 
 to                   TO             17 
 will                 VM             13 
+it                   PPH1           11 
 is                   VBZ            11 
 for                  IF             10 
 we                   PPIS2          10 
-it                   PPH1           10 
 they                 PPHS2           9 
 service              NN1             9 
 with                 IW              9 
@@ -42,7 +42,6 @@ her                  PPHO1           4
 them                 PPHO2           4 
 are                  VBR             4 
 of                   IO              4 
-its                  APPGE           3 
 $1                   NNU             3 
 decided              VVD             3 
 few                  DA2             3 
@@ -55,6 +54,7 @@ value                NN1             3
 only                 RR              3 
 there                EX              3 
 like                 II              3 
+n't                  XX              3 
 to                   II              3 
 kiosks               NN2             3 
 very                 RG              3 
@@ -62,6 +62,7 @@ really               RR              3
 customer             NN1             3 
 streaming            VVG             2 
 month                NNT1            2 
+its                  APPGE           2 
 stream               VVI             2 
 any                  DD              2 
 since                CS              2 
@@ -85,12 +86,12 @@ box                  NN1             2
 movies               NN2             2 
 directly             RR              2 
 website              NN1             2 
-nt                   XX              2 
 work                 VVI             2 
 so                   RR              2 
 told                 VVD             2 
 but                  CCB             2 
 an                   AT1             2 
+button               NN1             2 
 simply               RR              2 
 about                II              2 
 long                 JJ              2 
@@ -102,6 +103,7 @@ not                  XX              2
 problem              NN1             2 
 another              DD1             2 
 should               VM              2 
+free                 JJ              2 
 kiosk                NN1             2 
 her                  APPGE           2 
 time                 NNT1            2 
@@ -159,7 +161,8 @@ know                 VV0             1
 consumers            NN2             1 
 appreciate           VV0             1 
 especially           RR              1 
-todays               NN2             1 
+today                RT              1 
+'s                   GE              1 
 economic_climate     JJ              1 
 have_to              VH0             1 
 agree                VVI             1 
@@ -218,12 +221,10 @@ visits               VVZ             1
 one                  MC1             1 
 selects              VVZ             1 
 add                  VV0             1 
-cart                 NN1             1 
-button               NN1             1 
+Cart'                NP1             1 
 add                  VVI             1 
 watch                NN1             1 
-now                  RT              1 
-button               VV0             1 
+Now'                 NP1             1 
 after                CS              1 
 swipes               VVZ             1 
 card                 NN1             1 
@@ -273,11 +274,11 @@ hour                 NNT1            1
 or_so                CC              1 
 watch                VVI             1 
 whatever             DDQV            1 
+'s                   VBZ             1 
 going                VVG             1 
 drive-in             NN1             1 
-free                 JJ              1 
-cant                 JJ              1 
-beat_free            NN1             1 
+ca                   VM              1 
+beat                 VVI             1 
 do                   VD0             1 
 want                 VVI             1 
 wait                 VVI             1 

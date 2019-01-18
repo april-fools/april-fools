@@ -1,6 +1,8 @@
-TOTAL           9
-NP1             3 
+TOTAL          10
 NN1             2 
+NP1             2 
+RL              1 
+GE              1 
 AT              1 
 JJ              1 
 RR              1 

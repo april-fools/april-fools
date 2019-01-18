@@ -6,8 +6,8 @@ Downey                   NP1     Z99
 insurgents               NN2     Z99 
 Leah                     NP1     Z99 
 NBC                      NP1     Z99 
-NBCs                     NP2     Z99 
 OUARZAZATE               NP1     Z99 
+Pilate                   NP1     Z99 
 Pilate                   VV0     Z99 
 tenuously                RR      Z99 
 Titans                   NN2     Z99 

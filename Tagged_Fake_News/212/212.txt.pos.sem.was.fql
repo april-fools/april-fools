@@ -1,4 +1,4 @@
-TOTAL              212
+TOTAL              216
 the                  Z5                  15 
 to                   Z5                  10 
 and                  Z5                   7 
@@ -7,11 +7,13 @@ security             G2.1                 6
 as                   Z5                   5 
 homeland             M7                   4 
 of                   Z5                   4 
+White_house          Z3                   4 
+Mr._Trump            Z1                   4 
 Bossert              Z99                  4 
+'s                   Z5                   4 
 has                  Z5                   3 
 for                  Z5                   3 
 team                 S5+                  3 
-White_house          Z3                   3 
 said                 Q2.1                 3 
 in                   Z5                   3 
 he                   Z8                   3 
@@ -32,7 +34,7 @@ administration       S7.1+                2
 served               S8+                  2 
 deputy               S7.1-                2 
 that                 Z8                   2 
-Mr._Trumps           Z1                   2 
+national             Z3                   2 
 its                  Z8                   2 
 Gen.                 X2.2+                2 
 Donald_trump         Z1                   1 
@@ -54,7 +56,6 @@ knowledge            X2.2+                1
 experience           X2.2+                1 
 protecting           S8+                  1 
 senior               S7.1++               1 
-Mr._Trump            Z1                   1 
 has                  A9+                  1 
 handle               O2                   1 
 complexity           A12-                 1 
@@ -71,8 +72,6 @@ before               Z5                   1
 spent                I1.2                 1 
 two                  N1                   1 
 years                T1.3                 1 
-white                Z1                   1 
-houses               H1                   1 
 director             S7.1+                1 
 infrastructure       I2.1                 1 
 protection           S8+                  1 
@@ -95,7 +94,6 @@ recently             T3---                1
 been                 Z5                   1 
 performed            A1.1.1               1 
 by                   Z5                   1 
-national             Z3                   1 
 but                  Z5                   1 
 job                  I3.1                 1 
 is                   Z5                   1 
@@ -107,7 +105,6 @@ status               S7.1                 1
 Lt.                  Z99                  1 
 Michael_Flynn        Z1                   1 
 ret.                 Z99                  1 
-Mr._Trumps_national  Z1                   1 
 i                    Z8                   1 
 am                   Z5                   1 
 looking_forward      X2.6+                1 

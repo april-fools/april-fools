@@ -1,4 +1,4 @@
-TOTAL              651
+TOTAL              661
 the                  AT             42 
 of                   IO             24 
 and                  CC             19 
@@ -7,13 +7,14 @@ in                   II             16
 he                   PPHS1          16 
 was                  VBDZ           10 
 campaign             NN1             9 
+'s                   GE              9 
 to                   TO              9 
 on                   II              9 
 Dr.                  NNB             7 
+Alexander            NP1             7 
 for                  IF              6 
 election             NN1             6 
 his                  APPGE           5 
-Alexander            NP1             5 
 at                   II              4 
 from                 II              4 
 all                  DB              4 
@@ -22,6 +23,8 @@ finance              NN1             4
 system               NN1             4 
 were                 VBDR            3 
 said                 VVD             3 
+Kennedy              NP1             3 
+Dr._Alexander        NNB             3 
 by                   II              3 
 cost                 VV0             3 
 than                 CSN             3 
@@ -31,9 +34,9 @@ you                  PPY             3
 to                   II              3 
 committee            NN1             3 
 that                 CST             3 
+commission           NN1             3 
 political            JJ              3 
 finances             NN2             2 
-Alexanders           NP1             2 
 often                RR              2 
 book                 NN1             2 
 costs                NN2             2 
@@ -43,8 +46,6 @@ mentioned            VVD             2
 some                 DD              2 
 Senator              NNB             2 
 they                 PPHS2           2 
-Kennedy              NP1             2 
-Dr._Alexander        NNB             2 
 including            II              2 
 their                APPGE           2 
 contributions        NN2             2 
@@ -68,7 +69,6 @@ with                 IW              2
 political_science    JJ              2 
 earned               VVD             2 
 Yale                 NP1             2 
-commission           NN1             2 
 after                CS              2 
 President            NNB             2 
 democrat             NN1             2 
@@ -113,6 +113,7 @@ in_that              II              1
 cycle                NN1             1 
 Michigan_state       NP1             1 
 students             NN2             1 
+'                    GE              1 
 selling              VVG             1 
 blood                NN1             1 
 swell                VVI             1 
@@ -147,7 +148,6 @@ example              NN1             1
 this                 DD1             1 
 thinking             NN1             1 
 telethon             NN1             1 
-Kennedys             NP2             1 
 republican           NN1             1 
 opponent             NN1             1 
 Vice_President       NNB             1 
@@ -195,7 +195,6 @@ receive              VVI             1
 occasional           JJ              1 
 updates              NN2             1 
 special_offers       JJ              1 
-'s                   GE              1 
 products             NN2             1 
 services             NN2             1 
 thank_you            VV0             1 
@@ -239,7 +238,8 @@ graduated            VVD             1
 university           NN1             1 
 north_Carolina       ND1             1 
 major                JJ              1 
-masters_degree       NN2             1 
+master               NN1             1 
+degree               NN1             1 
 university_of_Connecticut NN1             1 
 doctorate            NN1             1 
 1958                 MC              1 
@@ -254,11 +254,10 @@ advertisement        NN1             1
 1961-2               MCMC            1 
 executive            JJ              1 
 director             NN1             1 
-presidents           NN2             1 
+president            NN1             1 
 then                 RT              1 
 consulted            VVN             1 
 legislation_based    NN1             1 
-commissions          NN2             1 
 report               NN1             1 
 assassination        NN1             1 
 Lyndon_B._Johnson    NP1             1 
@@ -320,8 +319,8 @@ city                 NN1             1
 campaigns            NN2             1 
 chairman             NN1             1 
 international        JJ              1 
-associations         NN2             1 
-research             VV0             1 
+association          NN1             1 
+research             NN1             1 
 corruption           NN1             1 
 edited               VVD             1 
 books                NN2             1 
@@ -330,7 +329,6 @@ american             JJ              1
 systems              NN2             1 
 other                JJ              1 
 countries            NN2             1 
-Dr._Alexanders       NNB             1 
 wife                 NN1             1 
 Nancy                NP1             1 
 died                 VVD             1 
@@ -381,4 +379,4 @@ message              NN1             1
 scrawled             VVD             1 
 bottom               NN1             1 
 do                   VD0             1 
-nt_bother            XX              1 
+n't_bother           XX              1 

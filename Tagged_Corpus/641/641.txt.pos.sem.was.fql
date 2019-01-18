@@ -1,4 +1,4 @@
-TOTAL              319
+TOTAL              320
 the                  Z5                  17 
 a                    Z5                  12 
 dxc                  Z99                 10 
@@ -40,6 +40,7 @@ FAQ                  Z99                  2
 acronym              Q3                   2 
 reference            Q2.2                 2 
 by                   Z5                   2 
+today                T1.1.2               2 
 employee             I3.1                 2 
 about                Z5                   2 
 a_year_ago           T1.1.1               1 
@@ -138,7 +139,7 @@ multiplier           N5+                  1
 enabling             S8+                  1 
 seize                A9+                  1 
 presented            A9-                  1 
-todays               T1.1.2               1 
+'s                   A3+                  1 
 technologies         Y1                   1 
 outed                S3.2                 1 
 TheLayoff.com        Z99                  1 
@@ -168,7 +169,6 @@ videos               Q4.3                 1
 told                 Q2.1                 1 
 my                   Z8                   1 
 customer             I2.2                 1 
-today                T1.1.2               1 
 am                   A3+                  1 
 now                  T1.1.2               1 
 had_to               S6+                  1 

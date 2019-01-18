@@ -9,8 +9,9 @@
 0000002 060 of                                          93 IO
 0000002 070 Harvard                                     93 NP1
 0000002 080 Medical                                     93 JJ
-0000002 090 Schools                                     93 NN2
-0000002 100 Promethean                                  06 [JJ/82] NN1/14 NP1/4
+0000002 090 School                    >                 93 NN1
+0000002 091 's                        <                 98 GE
+0000002 100 Promethean                                  06 [JJ/83] NN1/15 NP1/2
 0000002 110 Laboratories                                93 NN2
 0000002 111 ,                                           03 ,
 0000002 120 announced                                   93 [VVD/80] VVN/20 JJ%/0
@@ -74,9 +75,10 @@
 0000004 060 took                                        03 VVD
 0000004 070 place                                       96 NN1
 0000004 080 at                                          93 II
-0000004 090 Harvards                                    04 NP2
-0000004 100 Concord                                     93 [NP1/94] NN1@/6
-0000004 110 Field                                       93 [NP1/80] NN1/19 VV0@/1
+0000004 090 Harvard                   >                 93 NP1
+0000004 091 's                        <                 03 [GE/97] VBZ/3 VHZ@/0
+0000004 100 Concord                                     93 [NP1/90] NN1@/10
+0000004 110 Field                                       93 [NP1/78] NN1/22 VV0@/1
 0000004 120 Station                                     93 NN1
 0000004 130 facility                                    03 NN1
 0000004 140 using                                       03 VVG
@@ -178,8 +180,9 @@
 0000008 040 Shelley                                     96 NP1
 0000008 050 and                                         93 CC
 0000008 060 Mass                                        93 [JJ/78] NP1/14 NN1/7
-0000008 070 General                                     93 [JJ/56] NN1/44
-0000008 080 Hospitals                                   93 NN2
+0000008 070 General                                     93 [JJ/59] NN1/41
+0000008 080 Hospital                  >                 96 NN1
+0000008 081 's                        <                 98 GE
 0000008 090 Laboratory                                  93 NN1
 0000008 100 for                                         93 [IF/100] CS%/0
 0000008 110 Tissue                                      93 NN1
@@ -233,8 +236,9 @@
 0000008 540 body                                        93 NN1
 0000008 541 .                                           03 .
 0000008 542 ----------------------------------------------------
-0000008 550 TEOFs                                       07 [NN2/66] NP2/30 VVZ/4
-0000008 560 stem                                        93 [VV0/85] NN1/15
+0000008 550 TEOF                      >                 06 [NP1/96] NN1/4 VV0/0
+0000008 551 's                        <                 98 GE
+0000008 560 stem                                        93 [NN1/99] VV0/1
 0000008 570 cell                                        93 NN1
 0000008 580 biologists                                  93 NN2
 0000008 581 ,                                           03 ,
@@ -304,8 +308,9 @@
 0000014 010 Announcement                                93 NN1
 0000014 020 Today                                       93 RT
 0000016 010 Harvard                                     93 NP1
-0000016 020 Universitys                                 04 NN2
-0000016 030 Promethean                                  06 [JJ/82] NN1/14 NP1/4
+0000016 020 University                >                 96 NN1
+0000016 021 's                        <                 98 GE
+0000016 030 Promethean                                  06 [JJ/83] NN1/15 NP1/2
 0000016 040 Laboratories                                93 NN2
 0000016 050 has                                         93 VHZ
 0000016 060 scheduled                                   97 VVN

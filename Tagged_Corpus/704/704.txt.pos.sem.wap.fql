@@ -1,4 +1,4 @@
-TOTAL              513
+TOTAL              520
 the                  AT             40 
 and                  CC             13 
 polo                 NN1            11 
@@ -18,6 +18,7 @@ boys                 NN2             5
 he                   PPHS1           5 
 his                  APPGE           5 
 PHILADELPHIA         NP1             4 
+it                   PPH1            4 
 to                   II              4 
 speed                NN1             4 
 brother              NN1             4 
@@ -25,11 +26,13 @@ at                   II              4
 championship         NN1             3 
 as                   II              3 
 Kareem_Rosser        NP1             3 
+'re                  VBR             3 
 Brandon_Rease        NP1             3 
 won                  VVD             3 
 on                   II              3 
 their                APPGE           3 
 not                  XX              3 
+they                 PPHS2           3 
 by                   II              3 
 who                  PNQS            3 
 Hiner                NP1             3 
@@ -37,13 +40,11 @@ academy              NN1             3
 also                 RR              3 
 horses               NN2             3 
 for                  IF              3 
-it                   PPH1            2 
 from                 II              2 
 have                 VH0             2 
 win                  VVI             2 
 national             JJ              2 
 known                VVN             2 
-were                 VBDR            2 
 west_Philly          ND1             2 
 coach                NN1             2 
 Lezlie_Hiner         NP1             2 
@@ -51,11 +52,8 @@ under                II              2
 about                II              2 
 which                DDQ             2 
 excelled             VVN             2 
-its                  APPGE           2 
+'s                   VBZ             2 
 are                  VBR             2 
-like                 II              2 
-that                 DD1             2 
-theyre               NN1             2 
 was                  VBDZ            2 
 valley               NN1             2 
 forge                NN1             2 
@@ -97,8 +95,9 @@ first                MD              1
 all-black            JJ              1 
 based                VVN             1 
 remote               JJ              1 
-citys                NN2             1 
-fairmount_park       VV0             1 
+city                 NN1             1 
+'s                   GE              1 
+fairmount_park       NN1             1 
 cowtown/work         NN1             1 
 ride                 NN1             1 
 18-year-old          JJ              1 
@@ -108,6 +107,7 @@ squad                NN1             1
 prefers              VVZ             1 
 another              DD1             1 
 title                NN1             1 
+we                   PPIS2           1 
 Rosser               NP1             1 
 younger              JJR             1 
 daymar               NN1             1 
@@ -140,10 +140,13 @@ these                DD2             1
 kids                 NN2             1 
 playing              VVG             1 
 families             NN2             1 
+like                 JJ              1 
+that                 CST             1 
 moving_into          VVG             1 
 family               NN1             1 
 tradition            NN1             1 
 Rossers              NP2             1 
+'                    GE              1 
 interest             NN1             1 
 sparked              VVN             1 
 older                JJR             1 
@@ -186,6 +189,7 @@ described            VVD             1
 himself              PPX1            1 
 frequent             JJ              1 
 truant               JJ              1 
+that                 DD1             1 
 option               NN1             1 
 structured           JJ              1 
 environment          NN1             1 
@@ -216,6 +220,7 @@ more                 RGR             1
 pastoral             JJ              1 
 home                 NN1             1 
 states               NN2             1 
+like                 II              1 
 Kentucky             NP1             1 
 or                   CC              1 
 Virginia             NP1             1 
@@ -248,6 +253,7 @@ downturn             NN1             1
 any                  DD              1 
 worries              NN2             1 
 finances             NN2             1 
+were                 VBDR            1 
 forgotten            VVN             1 
 point                NN1             1 
 were_up              VBDR            1 
@@ -261,7 +267,6 @@ philadelphians       NN2             1
 24-17                MCMC            1 
 Daymar               NP1             1 
 knew                 VVD             1 
-they                 PPHS2           1 
 could                VM              1 
 the_match            AT              1 
 less                 RRR             1 

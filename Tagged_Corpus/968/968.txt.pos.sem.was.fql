@@ -1,4 +1,4 @@
-TOTAL              532
+TOTAL              537
 the                  Z5                  39 
 in                   Z5                  15 
 of                   Z5                  14 
@@ -7,6 +7,7 @@ to                   Z5                  12
 real                 A3+                 11 
 at                   Z5                  11 
 and                  Z5                   8 
+'s                   Z5                   8 
 with                 Z5                   6 
 Madrid               Z2                   6 
 they                 Z8                   5 
@@ -43,7 +44,6 @@ english              Z1                   2
 stage                T1.2                 2 
 be                   A3+                  2 
 positive             A5.1+                2 
-'s                   Z5                   2 
 last                 N4                   2 
 16                   N1                   2 
 2006                 N1                   2 
@@ -64,6 +64,7 @@ solitary             S5-                  2
 strike               I3.1-                2 
 united               Z3                   2 
 simply               A13.6                2 
+who                  Z8                   2 
 before               N4                   2 
 1962                 N1                   2 
 big                  N3.2+                1 
@@ -133,7 +134,7 @@ had                  A9+                  1
 other                A6.1-                1 
 ideas                X4.1                 1 
 minutes              T1.3                 1 
-frenchmans           Z2                   1 
+frenchman            Z2                   1 
 magnificent          A5.1+                1 
 solo                 S5-                  1 
 slaloming            Z99                  1 
@@ -179,7 +180,7 @@ outclassed           Z99                  1
 still                T2++                 1 
 packed               A1.1.1               1 
 full                 N5.1+                1 
-worlds               W1                   1 
+world                W1                   1 
 brightest            O4.3                 1 
 talent               X9.1+                1 
 executing            L1-                  1 
@@ -230,7 +231,7 @@ celebrating          E4.1+                1
 destruction          A1.1.2               1 
 Manchester_united    Z1                   1 
 4-3                  N1                   1 
-George_Bests         Z1                   1 
+George_Best          Z1                   1 
 old_Trafford         Z2                   1 
 given                A9-                  1 
 slender              A13.4                1 
@@ -249,7 +250,7 @@ showed               A10+                 1
 grit                 O1.1                 1 
 endemic              B2                   1 
 club                 S5+                  1 
-whod                 Z99                  1 
+'d                   Z5                   1 
 had_to               S6+                  1 
 rebuild              H1                   1 
 following            M1                   1 
@@ -265,10 +266,8 @@ Foulkes              Z99                  1
 secured              A9+                  1 
 draw                 A1.4                 1 
 night                T1.3                 1 
-Sir_Matt             Z1                   1 
-Busbys               Z99                  1 
+Sir_Matt_Busby       Z1                   1 
 men                  S2.2                 1 
-who                  Z8                   1 
 lift                 M2                   1 
 trophy               O2                   1 
 Wembley              Z2                   1 
@@ -288,7 +287,7 @@ last-16              N1                   1
 only                 A14                  1 
 once                 N6-                  1 
 dined                F1                   1 
-Europes              Z2                   1 
+Europe               Z2                   1 
 top                  M6                   1 
 table                H5                   1 
 class                P1                   1 
@@ -302,8 +301,7 @@ double               F2                   1
 defeat               X9.2+                1 
 Prague               Z2                   1 
 thanks               S1.2.4+              1 
-Rudolf               Z1                   1 
-Kuceras              Z99                  1 
+Rudolf_Kucera        Z1                   1 
 rendered             A2.2                 1 
 meaningless          A11.1-               1 
 within               Z5                   1 

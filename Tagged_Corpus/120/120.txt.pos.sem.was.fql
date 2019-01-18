@@ -1,4 +1,4 @@
-TOTAL              306
+TOTAL              311
 the                  Z5                  14 
 he                   Z8                  13 
 a                    Z5                   8 
@@ -7,6 +7,7 @@ and                  Z5                   6
 that                 Z5                   6 
 with                 Z5                   6 
 is                   A3+                  5 
+'s                   A3+                  5 
 i                    Z8                   5 
 Jeter                Z99                  5 
 his                  Z8                   4 
@@ -15,18 +16,22 @@ not                  Z6                   4
 my                   Z8                   4 
 gay                  S3.2                 3 
 people               S2                   3 
+it                   Z8                   3 
 in                   Z5                   2 
 has                  Z5                   2 
 of                   Z5                   2 
 many                 N5+                  2 
 have                 Z5                   2 
 long                 T1.3+                2 
+there                Z5                   2 
 rumors               Q2.2                 2 
 an                   Z5                   2 
 thinks               X2.1                 2 
+'s                   Z5                   2 
 fooling              G2.2-                2 
 but                  Z5                   2 
-s                    T1.3                 2 
+would                A7+                  2 
+n't                  Z6                   2 
 added                N5+                  2 
 simply               A13.6                2 
 because              Z5                   2 
@@ -41,7 +46,6 @@ stated               Q2.1                 2
 one                  N1                   2 
 fan                  E2+                  2 
 all                  N5.1+                2 
-its                  Z8                   2 
 lying                M1                   1 
 through              M6                   1 
 masquerade           A5.2-                1 
@@ -57,7 +61,6 @@ closet               H5                   1
 admitted             Q2.2                 1 
 what                 Z8                   1 
 suspected            X2.1                 1 
-theres               Z5                   1 
 anything             Z8                   1 
 wrong                A5.3-                1 
 circled              M1                   1 
@@ -81,20 +84,17 @@ anonymous            A10-                 1
 teammate             Z99                  1 
 exclaiming           Q2.2                 1 
 really               A13.3                1 
-s                    Z5                   1 
 every_time           N6+                  1 
 take                 A9+                  1 
 shower               B4                   1 
 turn_around          M1                   1 
 there                M6                   1 
-wouldnt              Z99                  1 
 mind                 E6+                  1 
 offers               A9-                  1 
 wash                 B4                   1 
 back                 B1                   1 
 if                   Z7                   1 
 did                  Z5                   1 
-nt                   S9                   1 
 always               N6+++                1 
 have                 A9+                  1 
 erection             B1                   1 
@@ -104,7 +104,6 @@ played_down          A11.1-               1
 quickly              N3.8+                1 
 lisping              Q2.2                 1 
 no_way               Z6                   1 
-would                A7+                  1 
 never                T1                   1 
 do                   A1.1.1               1 
 further              N5++                 1 
@@ -112,7 +111,6 @@ likes                E2+                  1
 tend                 A6.2+                1 
 think                X2.1                 1 
 takes_up             A9+                  1 
-it                   Z8                   1 
 ass                  S1.2.6-              1 
 logic                X2.1                 1 
 nonsense             A5.2-                1 
@@ -136,7 +134,6 @@ satisfied            E4.2+                1
 fact                 A5.2+                1 
 was                  Z5                   1 
 no_longer            T2-                  1 
-there                Z5                   1 
 were                 A3+                  1 
 only                 A14                  1 
 so_many              N5                   1 
@@ -150,7 +147,7 @@ weight               N3.5                 1
 been                 Z5                   1 
 lifted               M2                   1 
 off                  Z5                   1 
-shortstops           K5.1                 1 
+shortstop            K5.1                 1 
 shoulders            B1                   1 
 now                  T1.1.2               1 
 focus                X5.1+                1 

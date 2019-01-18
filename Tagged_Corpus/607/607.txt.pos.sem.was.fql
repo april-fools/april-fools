@@ -1,4 +1,4 @@
-TOTAL              285
+TOTAL              291
 the                  Z5                  19 
 of                   Z5                  12 
 a                    Z5                   9 
@@ -6,37 +6,39 @@ and                  Z5                   8
 pain                 B2-                  8 
 in                   Z5                   7 
 to                   Z5                   6 
+medical              B3                   5 
 infusion             F2                   4 
-medical              B3                   4 
 he                   Z8                   3 
 new                  T3-                  3 
 control              S7.1+                3 
 ambit                N5                   3 
+pump                 O2                   3 
 this                 M6                   3 
 that                 Z5                   3 
-pumps                O2                   3 
+Wilhelm              Z99                  3 
+Sorenson             Z99                  3 
 Iraq                 Z2                   2 
 was                  Z5                   2 
 after                Z5                   2 
 field                F4                   2 
-pump                 O2                   2 
 him                  Z8                   2 
 technique            X4.2                 2 
 from                 Z5                   2 
 immediate            N3.8+                2 
+'s                   Z5                   2 
 phantom              A5.4-                2 
 years                T1.3                 2 
 their                Z8                   2 
 being                Z5                   2 
 or                   Z5                   2 
 two                  N1                   2 
-Wilhelm              Z99                  2 
 said                 Q2.1                 2 
+'s                   A3+                  2 
+pumps                O2                   2 
 are                  A3+                  2 
 about                Z5                   2 
 my                   Z8                   2 
 care                 S8+                  2 
-Sorenson             Z99                  2 
 two_and_a_half_years T1.3                 1 
 ago                  T1.1.1               1 
 Sgt.                 P1                   1 
@@ -89,7 +91,6 @@ wounds               B2-                  1
 extremities          M7                   1 
 in_addition_to       N5++                 1 
 cessation            T2-                  1 
-Wilhelms             Z99                  1 
 pain-control         Z99                  1 
 brought              M2                   1 
 long-term            T1.3+                1 
@@ -118,7 +119,6 @@ feel                 X2.1                 1
 no                   Z6                   1 
 pains                B2-                  1 
 sensations           X3                   1 
-Sorenson_Medicals    Z1                   1 
 generation           T1.3                 1 
 **25;7;toolong       Z99                  1 
 size                 N3.2                 1 
@@ -157,7 +157,8 @@ quality              A5.1                 1
 takes                A9+                  1 
 development          A2.1+                1 
 products             O2                   1 
-Weve                 Z99                  1 
+we                   Z8                   1 
+'ve                  Z5                   1 
 noted                Q2.1                 1 
 before               N4                   1 
 war                  G3                   1 
@@ -166,7 +167,7 @@ giving_rise_to       A2.2                 1
 advances             I1.1                 1 
 trauma               E4.1-                1 
 prosthetics          Z99                  1 
-its                  Z8                   1 
+it                   Z8                   1 
 comforting           E3+                  1 
 note                 Q2.1                 1 
 other                A6.1-                1 
@@ -174,7 +175,7 @@ important            A11.1+               1
 interventions        S1.1.3+              1 
 such_as              Z5                   1 
 are                  Z5                   1 
-nt                   S9                   1 
+n't                  Z6                   1 
 overlooked           M6                   1 
 more                 A13.3                1 
 flashback            X2.2+                1 

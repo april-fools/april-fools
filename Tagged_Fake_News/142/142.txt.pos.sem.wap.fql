@@ -1,4 +1,4 @@
-TOTAL              362
+TOTAL              367
 the                  AT             24 
 and                  CC             18 
 a                    AT1            11 
@@ -7,7 +7,8 @@ of                   IO              8
 to                   TO              8 
 for                  IF              6 
 on                   II              5 
-is                   VBZ             4 
+is                   VBZ             5 
+we                   PPIS2           4 
 not                  XX              4 
 be                   VBI             4 
 Hillary_Clinton      NP1             4 
@@ -36,14 +37,15 @@ service              NN1             2
 other                JJ              2 
 Donald_trump         NP1             2 
 about                II              2 
-we                   PPIS2           2 
 will                 VM              2 
 endorsement          NN1             2 
 instead              RR              2 
 vote                 VVI             2 
+Mrs._Clinton         NNB             2 
 surface              NN1             2 
 change               NN1             2 
 seems                VVZ             2 
+n't                  XX              2 
 best                 JJT             2 
 case                 NN1             2 
 2016                 MC              2 
@@ -51,8 +53,8 @@ war                  NN1             2
 public               JJ              2 
 these                DD2             2 
 any                  DD              1 
-wed                  VV0             1 
-compare              VV0             1 
+'d                   VM              1 
+compare              VVI             1 
 two                  MC              1 
 presidential         JJ              1 
 candidates           NN2             1 
@@ -100,12 +102,11 @@ it                   PPH1            1
 merely               RR              1 
 affirmed             VVD             1 
 Clinton_supporters   NP1             1 
-were                 VBDR            1 
+'re                  VBR             1 
 aiming               VVG             1 
 persuade             VVI             1 
 those                DD2             1 
 hesitating           VVG             1 
-Mrs._Clinton         NNB             1 
 because              CS              1 
 reluctant            JJ              1 
 democrat             NN1             1 
@@ -122,17 +123,16 @@ system               NN1             1
 broken               JJ              1 
 running_down         VVG             1 
 guy                  NN1             1 
-wont                 NN1             1 
-suffice              VV0             1 
+wo                   VM              1 
+suffice              VVI             1 
 make                 VVI             1 
 argument             NN1             1 
 can                  VM              1 
 she                  PPHS1           1 
-isnt                 VV0             1 
 challenges           NN2             1 
 country              NN1             1 
 faces                NN2             1 
-Mrs._Clintons        NNB             1 
+'s                   GE              1 
 capacity             NN1             1 
 rise                 VVI             1 
 them                 PPHO2           1 

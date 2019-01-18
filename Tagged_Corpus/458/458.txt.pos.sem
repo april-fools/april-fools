@@ -118,6 +118,7 @@
 0000004 550  RR      literally                A13.2 Q3 
 0000004 560  APPGE   our                      Z8 
 0000004 570  NN2     students                 P1/S2mf 
+0000004 571  GE      '                        Z5 
 0000004 580  NN2     bodies                   B1 O2 S5+ 
 0000004 581  .       .                        
 0000004 582  -----   -----                    
@@ -131,6 +132,7 @@
 0000004 660  IO      of                       Z5 
 0000004 670  APPGE   our                      Z8 
 0000004 680  NN2     students                 P1/S2mf 
+0000004 681  GE      '                        Z5 
 0000004 690  NN1     commitment               S6+ A1.7+/G2.1 
 0000004 700  II      to                       Z5 
 0000004 710  NN1     individuality            S5- 
@@ -231,7 +233,8 @@
 0000008 380  NN1     tattoo                   C1/B1 G3 
 0000008 381  .       .                        
 0000008 382  -----   -----                    
-0000008 390  NN1     Ive                      Z99 
+0000008 390  PPIS1   I                        Z8mf 
+0000008 391  VH0     've                      Z5 A9+ A2.2 
 0000008 400  VVN     seen                     X3.4 X2.1 S1.1.1 X2.5+ A7+ 
 0000008 410  NN2     dogs                     L2mfn 
 0000008 420  IW      with                     Z5 
@@ -276,7 +279,8 @@
 0000012 040  NN1     tattoo                   C1/B1 G3 
 0000012 041  .       .                        
 0000012 042  -----   -----                    
-0000012 050  NN1     Ive                      Z99 
+0000012 050  PPIS1   I                        Z8mf 
+0000012 051  VH0     've                      Z5 A9+ A2.2 
 0000012 060  VVN     seen                     X3.4 X2.1 S1.1.1 X2.5+ A7+ 
 0000012 070  NN2     dogs                     L2mfn 
 0000012 080  IW      with                     Z5 
@@ -312,7 +316,8 @@
 0000014 201  .       .                        
 0000014 202  NULL    <quote>                  
 0000014 203  -----   -----                    
-0000014 210  VBDR    Were                     Z5 A3+ 
+0000014 210  PPIS2   We                       Z8 
+0000014 211  VBR     're                      Z5 A3+ 
 0000014 220  VVG     recruiting               I3.1/A9+ 
 0000014 230  AT1     a                        Z5 
 0000014 240  JJ      certain                  A4.2+ A7+ 
@@ -343,8 +348,9 @@
 0000014 440  RR      So                       Z5 A13.3 
 0000014 450  VVN     committed                A1.1.1 S6+ A1.7+/G2.1 
 0000014 460  CST     that                     Z8 Z5 
-0000014 470  VV0     theyll                   Z99 
-0000014 480  VV0     stamp                    Q1.2 A1.1.1 A10+ A2.2 
+0000014 470  PPHS2   they                     Z8mfn 
+0000014 471  VM      'll                      T1.1.3 
+0000014 480  VVI     stamp                    Q1.2 A1.1.1 A10+ A2.2 
 0000014 490  PPHO2   them                     Z8mfn 
 0000014 500  II      in                       Z5 
 0000014 510  JJ      permanent                T2+++ 
@@ -392,8 +398,9 @@
 0000018 140  NN1     tattoo                   C1/B1 G3 
 0000018 141  ?       ?                        
 0000018 142  -----   -----                    
-0000018 150  VV0     Isnt                     Z99 
-0000018 160  CST     that                     Z5 Z8 
+0000018 150  VBZ     Is                       A3+ Z5 
+0000018 151  XX      n't                      Z6 
+0000018 160  DD1     that                     Z5 Z8 
 0000018 170  RR      just                     A14 T3--- T1.3- N3.3--- 
 0000018 180  RG      as                       A13 
 0000018 190  JJ      creative                 X2.1/A6.2- 
@@ -412,7 +419,8 @@
 0000018 271  .       .                        
 0000020 001  NULL    <quote>                  
 0000020 002  -----   -----                    
-0000020 010  APPGE   Its                      Z8 
+0000020 010  PPH1    It                       Z8 
+0000020 011  VBZ     's                       A3+ Z5 
 0000020 020  AT1     a                        Z5 
 0000020 030  JJ      no-win                   S7.1- 
 0000020 040  NN1     situation                A3+ O4.1 M6 I3.1@ 
@@ -433,7 +441,7 @@
 0000020 120  RR      Either                   Z5 
 0000020 130  PPIS1   I                        Z8mf 
 0000020 140  VD0     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
-0000020 141  XX      nt                       S9/Q4.1 Z3c 
+0000020 141  XX      n't                      Z6 
 0000020 150  NN1     graduate                 P1/S2mf 
 0000020 160  CC      or                       Z5 
 0000020 170  PPIS1   I                        Z8mf 
@@ -475,7 +483,7 @@
 0000024 010  DA2     Many                     N5+ 
 0000024 020  NN      people                   S2mfc 
 0000024 030  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000024 031  XX      nt                       S9/Q4.1 Z3c 
+0000024 031  XX      n't                      Z6 
 0000024 040  VVI     know                     X2.2+ S3.2/B1% 
 0000024 050  DD1     this                     Z8 M6 Z5 
 0000024 051  ,       ,                        
@@ -510,12 +518,14 @@
 0000024 320  NN2     Tats                     O4.2- 
 0000024 330  XX      not                      Z6 
 0000024 340  NN2     SATs                     P1 
+0000024 341  GE      '                        Z5 
 0000024 350  NN1     campaign                 X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 G3 
 0000024 351  .       .                        
 0000024 352  NULL    </quote>                 
 0000024 353  -----   -----                    
 0000026 010  AT      The                      Z5 
-0000026 020  NN2     campaigns                X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 G3 
+0000026 020  NN1     campaign                 X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 G3 
+0000026 021  GE      's                       Z5 
 0000026 030  NN2     proponents               X5.2+/S2mf 
 0000026 040  VVD     argued                   Q2.1 Q2.1/A6.1- Q2.1/E3- Q2.1/A2.2 
 0000026 050  CST     that                     Z5 Z8 
@@ -605,7 +615,8 @@
 0000028 570  VVI     help                     S8+ 
 0000028 580  VV0     solidify                 O1.1 A7+ 
 0000028 590  AT      the                      Z5 
-0000028 600  NN2     schools                  P1/H1c S5+c L2%c 
+0000028 600  NN1     school                   P1/H1c S5+c L2%c 
+0000028 601  GE      's                       Z5 
 0000028 610  JJ      unique                   N5--- 
 0000028 620  NN1     personality              S1.2 S2mf 
 0000028 630  CC      and                      Z5 

@@ -1,4 +1,4 @@
-TOTAL              435
+TOTAL              437
 the                  Z5                  41 
 of                   Z5                  19 
 in                   Z5                  13 
@@ -14,12 +14,12 @@ ice_age              T1.3                 5
 warming              O4.6+                5 
 it                   Z8                   5 
 temperature          O4.6                 5 
+that                 Z8                   5 
 end                  M6                   4 
 global               W3                   4 
 has                  Z5                   4 
 but                  Z5                   4 
 at                   Z5                   4 
-that                 Z8                   4 
 carbon_dioxide       O1.3                 3 
 climate              W4                   3 
 record               Q1.2                 3 
@@ -51,6 +51,7 @@ world                W1                   2
 records              Q1.2                 2 
 is                   A3+                  2 
 first                N4                   2 
+'s                   A3+                  2 
 says                 Q2.1                 2 
 out_of               Z5                   2 
 the_ocean            Z2                   2 
@@ -136,11 +137,9 @@ life                 L1+                  1
 effort               X8+                  1 
 get                  A9+                  1 
 most                 N5+++                1 
-thats                Z5                   1 
 out_there            M6                   1 
 together             S5+                  1 
 shakun               Z99                  1 
-'s                   A3+                  1 
 hard                 O4.5                 1 
 empirical            X2.4                 1 
 proof                A5.2+                1 
@@ -175,7 +174,8 @@ shows                A10+                 1
 was                  Z5                   1 
 probably             A7+                  1 
 triggered            A2.2                 1 
-earths               W3                   1 
+earth                W3                   1 
+'s                   Z5                   1 
 orbit                M7                   1 
 subsequent           N4                   1 
 shifts               A2.1+                1 

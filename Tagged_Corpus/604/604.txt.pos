@@ -469,8 +469,9 @@
 0000029 390 transaction                                 93 NN1
 0000029 400 since                                       93 [CS/71] II@/29 RR@/0
 0000029 410 Bertelsmann                                 93 NP1
-0000029 420 acquired                                    93 [VVD/84] JJ@/14 VVN/2
-0000029 430 Times                                       93 NNT2
+0000029 420 acquired                                    93 [VVD/87] JJ@/12 VVN/1
+0000029 430 Time                      >                 93 NNT1
+0000029 431 's                        <                 98 GE
 0000029 440 50%                                         18 NNU
 0000029 450 stake                                       96 NN1
 0000029 460 in                                          93 [II/100] RP@/0
@@ -546,8 +547,9 @@
 0000030 521 (                                           03 (
 0000030 530 e.g.                                        93 REX
 0000030 531 ,                                           03 ,
-0000030 540 Sandow                                      06 [VV0/42] NP1/40 NN1/19
-0000030 550 Medias                                      04 NN2
+0000030 540 Sandow                                      06 [VV0/52] NP1/36 NN1/12
+0000030 550 Media                     >                 93 NN
+0000030 551 's                        <                 98 GE
 0000030 560 acquisition                                 03 NN1
 0000030 570 of                                          93 IO
 0000030 580 Western                                     93 [JJ/88] NP1/12
@@ -555,9 +557,10 @@
 0000030 600 and                                         93 CC
 0000030 610 Design                                      93 [NN1/94] VV0@/6
 0000030 620 and                                         93 CC
-0000030 630 Indigo                                      93 [JJ/88] NN1/12
-0000030 640 Acquisitions                                93 NN2
-0000030 650 purchase                                    03 [NN1/66] VV0/34
+0000030 630 Indigo                                      93 [JJ/89] NN1/11
+0000030 640 Acquisition               >                 93 NN1
+0000030 641 's                        <                 98 GE
+0000030 650 purchase                                    03 [NN1/100] VV0/0
 0000030 660 of                                          93 IO
 0000030 670 Garden                                      93 NN1
 0000030 671 &;                          ERROR?          01 NULL
@@ -605,8 +608,9 @@
 0000031 340 as                                          96 II22
 0000031 350 Hellman                                     06 [NP1/75] NN1/25
 0000031 360 and                                         93 CC
-0000031 370 Friedmans                                   07 [NP2/46] NN2/54
-0000031 380 purchase                                    03 [NN1/76] VV0/24
+0000031 370 Friedman                  >                 06 [NP1/89] NN1/11
+0000031 371 's                        <                 98 GE
+0000031 380 purchase                                    03 [NN1/100] VV0/0
 0000031 390 of                                          93 IO
 0000031 400 Getty                                       93 NP1
 0000031 410 Images                                      93 NN2
@@ -614,8 +618,9 @@
 0000031 430 $2.4                                        18 NNU
 0000031 440 billion                                     93 NNO
 0000031 450 and                                         93 CC
-0000031 460 Reed                                        93 [NP1/98] NN1@/2
-0000031 470 Elseviers                                   55 [NP1/85] NN2/15
+0000031 460 Reed                                        93 [NP1/99] NN1@/1
+0000031 470 Elsevier                  >                 55 [NP1/95] NN1/5 JJR/0
+0000031 471 's                        <                 98 GE
 0000031 480 $4.1                                        18 NNU
 0000031 490 billion                                     93 NNO
 0000031 500 purchase                                    03 [NN1/100] VV0/0
@@ -655,8 +660,9 @@
 0000032 250 were                                        93 VBDR
 0000032 260 completed                                   93 [VVN/99] JJ@/1 VVD/0
 0000032 261 ,                                           03 ,
-0000032 270 including                                   93 [II/84] VVG@/16
-0000032 280 EBSCOs                                      07 [NP2/47] NN2/53
+0000032 270 including                                   93 [II/93] VVG@/7
+0000032 280 EBSCO                     >                 06 [NP1/93] NN1/7
+0000032 281 's                        <                 98 GE
 0000032 290 acquisition                                 03 NN1
 0000032 300 of                                          93 IO
 0000032 310 Salem                                       93 NP1
@@ -706,7 +712,8 @@
 0000033 240 to                                          97 TO
 0000033 250 compare                                     97 VVI
 0000033 260 with                                        93 IW
-0000033 270 VSSs                                        62 NP1
+0000033 270 VSS                       >                 62 NP1
+0000033 271 's                        <                 98 GE
 0000033 280 acquisition                                 03 NN1
 0000033 290 of                                          93 IO
 0000033 300 Clarion                                     93 NN1
@@ -805,7 +812,8 @@
 0000034 570 in                                          97 II
 0000034 580 Q109                                        10 FO
 0000034 590 include                                     93 VV0
-0000034 600 JEGIs                                       06 [NN1/60] NP1/40
+0000034 600 JEGI                      >                 06 [NP1/65] NN2/20 NN1/14 JJ/1
+0000034 601 's                        <                 98 GE
 0000034 610 sale                                        03 NN1
 0000034 620 of                                          93 IO
 0000034 630 mSnap                                       06 [NN1/98] VV0/2
@@ -813,8 +821,9 @@
 0000034 650 SmartReply                                  06 [NP1/90] RR/9 JJ@/1
 0000034 651 ,                                           03 ,
 0000034 660 and                                         93 CC
-0000034 670 Haggin                                      06 [NN1/56] NP1/44
-0000034 680 Marketings                                  04 NN2
+0000034 670 Haggin                                      06 [NP1/53] NN1/47
+0000034 680 Marketing                 >                 93 [NN1/100] VVG@/0
+0000034 681 's                        <                 98 GE
 0000034 690 acquisition                                 03 NN1
 0000034 700 of                                          93 IO
 0000034 710 SolutionSet                                 06 [NN1/51] NP1/49 VV0/0
@@ -879,7 +888,8 @@
 0000035 480 such                                        96 II21
 0000035 490 as                                          96 II22
 0000035 500 Platinum                                    93 NN1
-0000035 510 Equitys                                     04 NN2
+0000035 510 Equity                    >                 93 NN1
+0000035 511 's                        <                 98 GE
 0000035 520 acquisition                                 03 NN1
 0000035 530 of                                          93 IO
 0000035 540 the                                         93 AT
@@ -953,7 +963,8 @@
 0000036 501 ,                                           03 ,
 0000036 510 such                                        96 II21
 0000036 520 as                                          96 II22
-0000036 530 IACs                                        07 [NP2/56] NN2/44
+0000036 530 IAC                       >                 06 [NP1/94] NN1/6 JJ/0
+0000036 531 's                        <                 98 GE
 0000036 540 sale                                        03 NN1
 0000036 550 of                                          93 IO
 0000036 560 Match.com                                   08 NP1

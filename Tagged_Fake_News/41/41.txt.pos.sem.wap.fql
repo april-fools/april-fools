@@ -9,11 +9,11 @@ for                  IF              4
 to                   II              4 
 his                  APPGE           4 
 by                   II              3 
+Donald_trump         NP1             3 
 in                   II              3 
 and                  CC              3 
 announced            VVD             2 
 race                 NN1             2 
-Donald_trump         NP1             2 
 this                 DD1             2 
 point                NN1             2 
 as                   CSA             2 
@@ -39,8 +39,7 @@ large                JJ              1
 margin               NN1             1 
 had                  VHD             1 
 served               VVN             1 
-Donald               NP1             1 
-trumps               VVZ             1 
+'s                   GE              1 
 strictest            JJT             1 
 often                RR              1 
 contentious          JJ              1 

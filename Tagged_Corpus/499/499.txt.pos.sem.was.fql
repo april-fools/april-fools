@@ -1,4 +1,4 @@
-TOTAL             1169
+TOTAL             1174
 the                  Z5                  69 
 to                   Z5                  49 
 a                    Z5                  40 
@@ -15,9 +15,9 @@ with                 Z5                  14
 object               O2                  14 
 an                   Z5                  13 
 code                 G2.1                11 
+it                   Z8                  11 
 this                 Z8                  10 
 memory               X2                  10 
-it                   Z8                  10 
 can                  A7+                  9 
 from                 Z5                   8 
 that                 Z8                   8 
@@ -25,13 +25,13 @@ address              H4                   8
 x                    Z5                   8 
 if                   Z7                   8 
 language             Q3                   7 
+what                 Z8                   7 
 that                 Z5                   7 
 smart                O4.2+                7 
 which                Z8                   6 
 have                 A9+                  5 
 committee            S7.1+                5 
 more                 A13.3                5 
-what                 Z8                   5 
 write                Q1.2                 5 
 objects              O2                   5 
 delete               Q1.2                 5 
@@ -61,6 +61,7 @@ bad                  A5.1-                3
 std                  Z99                  3 
 autoptr              Z99                  3 
 now                  T1.1.2               3 
+they                 Z8                   3 
 removing             M2                   3 
 them                 Z8                   3 
 x*                   Z99                  3 
@@ -78,6 +79,7 @@ only                 A14                  3
 undefined            A7-                  3 
 behaviour            S1.1.1               3 
 application          Q1.2                 3 
+n't                  Z6                   3 
 need                 S6+                  3 
 nullity              Z99                  3 
 on                   Z5                   3 
@@ -100,7 +102,7 @@ remove               M2                   2
 raw                  F1                   2 
 great                A5.1+                2 
 making               A1.1.1               2 
-lets                 S7.4+                2 
+let_'s               Z5                   2 
 all                  N5.1+                2 
 about                Z5                   2 
 why                  A2.2                 2 
@@ -117,7 +119,7 @@ p                    Z5                   2
 gives                A9-                  2 
 at                   Z5                   2 
 function             A1.5.1               2 
-whats                Z8                   2 
+'s                   A3+                  2 
 concept              X4.1                 2 
 good                 A5.1+                2 
 were                 A3+                  2 
@@ -132,11 +134,9 @@ smaller              N3.2--               2
 copy                 A5.4-                2 
 dynamic              X5.2+                2 
 allocation           N5                   2 
-they                 Z8                   2 
 when                 Z5                   2 
 dereference          Z99                  2 
 very                 A13.3                2 
-nt                   S9                   2 
 do                   Z5                   2 
 null                 N1                   2 
 crash                A1.1.2               2 
@@ -189,7 +189,7 @@ deprecate            Z99                  1
 one                  Z8                   1 
 specific             A4.2+                1 
 kind_of              Z4                   1 
-theyre               Z99                  1 
+'re                  Z5                   1 
 taking               A9+                  1 
 further              N5++                 1 
 step                 M1                   1 
@@ -299,7 +299,7 @@ came                 A1.1.1               1
 0x00000008           N1                   1 
 makes                A1.1.1               1 
 statement            Q2.1                 1 
-cant                 Q2.1                 1 
+ca                   A7+                  1 
 prevent              S8-                  1 
 finally              N4                   1 
 benefit              S8+                  1 
@@ -332,7 +332,7 @@ cluttering           O4.1                 1
 making_it            X9.2+                1 
 less                 A13.6                1 
 alternatives         A6.1-                1 
-its                  Z8                   1 
+'s                   Z5                   1 
 while                T1.3                 1 
 common               A6.2+                1 
 practice             A1.1.1               1 

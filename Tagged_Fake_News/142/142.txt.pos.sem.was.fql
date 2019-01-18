@@ -1,4 +1,4 @@
-TOTAL              362
+TOTAL              367
 the                  Z5                  24 
 and                  Z5                  18 
 a                    Z5                  11 
@@ -7,12 +7,13 @@ in                   Z5                  10
 of                   Z5                   8 
 for                  Z5                   6 
 on                   Z5                   5 
+we                   Z8                   4 
+is                   A3+                  4 
 not                  Z6                   4 
 that                 Z8                   4 
 be                   A3+                  4 
 Hillary_Clinton      Z1                   4 
 or                   Z5                   4 
-is                   A3+                  3 
 an                   Z5                   3 
 you                  Z8                   3 
 who                  Z8                   3 
@@ -32,16 +33,17 @@ service              S8+                  2
 other                A6.1-                2 
 Donald_trump         Z1                   2 
 about                Z5                   2 
-we                   Z8                   2 
 will                 T1.1.3               2 
 this                 M6                   2 
 endorsement          S8+                  2 
 instead              A6.1-                2 
 vote                 G1.2                 2 
+Mrs._Clinton         Z1                   2 
 are                  A3+                  2 
 surface              M6                   2 
 change               A2.1+                2 
 seems                A8                   2 
+n't                  Z6                   2 
 that                 Z5                   2 
 best                 A5.1+++              2 
 case                 A4.1                 2 
@@ -50,7 +52,7 @@ war                  G3                   2
 public               S5+                  2 
 these                Z5                   2 
 any                  N5.1+                1 
-wed                  S4                   1 
+'d                   A7+                  1 
 compare              A6.1                 1 
 two                  N1                   1 
 presidential         G1.1                 1 
@@ -101,13 +103,12 @@ it                   Z8                   1
 merely               A13.6                1 
 affirmed             Q2.2                 1 
 Clinton_supporters   Z3                   1 
-were                 Z5                   1 
+'re                  Z5                   1 
 aiming               X7+                  1 
 persuade             Q2.2                 1 
 those                Z8                   1 
 are                  Z5                   1 
 hesitating           A7-                  1 
-Mrs._Clinton         Z1                   1 
 because              Z5                   1 
 reluctant            X5.2-                1 
 democrat             G1.2                 1 
@@ -124,17 +125,16 @@ system               X4.2                 1
 broken               A1.1.2               1 
 running_down         O4.2-                1 
 guy                  S2.2                 1 
-wont                 A6.2+                1 
+wo                   T1.1.3               1 
 suffice              N5                   1 
 make                 A1.1.1               1 
 argument             Q2.1                 1 
 can                  A7+                  1 
 she                  Z8                   1 
-isnt                 Z99                  1 
 challenges           A12-                 1 
 country              G1.1                 1 
 faces                B1                   1 
-Mrs._Clintons        Z1                   1 
+'s                   Z5                   1 
 capacity             N3.2                 1 
 rise                 M1                   1 
 them                 Z8                   1 

@@ -224,7 +224,8 @@
 0000008 090 utmost                                      93 [JJ/97] NN1@/3
 0000008 100 confidence                                  93 NN1
 0000008 110 in                                          93 [II/100] RP@/0
-0000008 120 Seagals                                     07 NP1
+0000008 120 Seagal                    >                 06 [NP1/100] JJ/0
+0000008 121 's                        <                 98 GE
 0000008 130 ability                                     93 NN1
 0000008 140 to                                          97 TO
 0000008 150 rule                                        97 VVI

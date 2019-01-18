@@ -340,9 +340,11 @@
 0000010 160  NP1     Internet                 Y2 
 0000010 170  NN2     websites                 Y2 
 0000010 180  CC      and                      Z5 
-0000010 190  NN1     theyre                   Z99 
-0000010 200  VV0@    correct                  A5.3+/A2.1 
+0000010 190  PPHS2   they                     Z8mfn 
+0000010 191  VBR     're                      A3+ Z5 
+0000010 200  JJ      correct                  A5.3+ 
 0000010 210  PPHS2   they                     Z8mfn 
-0000010 220  VV0     havent                   Z99 
-0000010 221  !       !                        
+0000010 220  VH0     have                     A9+ Z5 A2.2 S4 
+0000010 221  XX      n't                      Z6 
+0000010 222  !       !                        
 0000013 001  NULL    **8;7;text               

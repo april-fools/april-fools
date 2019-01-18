@@ -1,4 +1,4 @@
-TOTAL              848
+TOTAL              854
 the                  Z5                  46 
 graphene             Z99                 43 
 of                   Z5                  33 
@@ -7,20 +7,21 @@ and                  Z5                  19
 a                    Z5                  14 
 in                   Z5                  14 
 is                   A3+                 12 
-Samsung              Z3                   7 
+Samsung              Z3                   9 
 has                  Z5                   7 
+that                 Z8                   7 
 for                  Z5                   7 
 flexible             O4.5                 7 
 growth               N3.2+                7 
-that                 Z8                   6 
 is                   Z5                   6 
 as                   Z5                   6 
+we                   Z8                   6 
 it                   Z8                   6 
 with                 Z5                   5 
 electronic           O3                   5 
 electronics          O3                   5 
-we                   Z8                   5 
 devices              O2                   5 
+what                 Z8                   5 
 single-crystal       Z99                  5 
 germanium            Z99                  5 
 transfer             M6                   5 
@@ -38,10 +39,10 @@ more                 A13.3                4
 one                  N1                   4 
 which                Z8                   4 
 next                 N4                   4 
-what                 Z8                   4 
 at                   Z5                   4 
 new                  T3-                  4 
 wafer-scale          Z99                  4 
+they                 Z8                   3 
 made                 A1.1.1               3 
 carbon               O1.1                 3 
 technology           Y1                   3 
@@ -95,13 +96,14 @@ you                  Z8                   2
 atom                 O1                   2 
 thick                N3.7+                2 
 exactly              A4.2+                2 
+'s                   A3+                  2 
 almost               A13.4                2 
 far                  N3.3+                2 
 expensive            I1.3+                2 
 been                 Z5                   2 
 used_to              T1.1.1               2 
 and_other            S2                   2 
-Samsungs             Z3                   2 
+'s                   Z5                   2 
 monolayer            Z99                  2 
 larger               N3.2++               2 
 sheets               B5                   2 
@@ -109,7 +111,6 @@ required             X7+                  2
 production_environment A1.1.1               2 
 being                Z5                   2 
 seeds                L3                   2 
-they                 Z8                   2 
 them                 Z8                   2 
 into                 Z5                   2 
 journal              Q4.2                 2 
@@ -130,7 +131,7 @@ announced            Q2.2                 1
 some                 N5                   1 
 great                A5.1+                1 
 news                 X2.2+                1 
-theyve               Z99                  1 
+'ve                  Z5                   1 
 magical              S9                   1 
 substance            O1                   1 
 destined             A7+++                1 
@@ -241,7 +242,6 @@ atoms                O1                   1
 measures             N3.1                 1 
 in                   M6                   1 
 0.33nm               Z99                  1 
-thats                Z5                   1 
 one_million          N1                   1 
 thinner              N3.7--               1 
 human                S2                   1 
@@ -353,7 +353,6 @@ energy               X5.2+                1
 touchscreens         Z99                  1 
 are                  A3+                  1 
 possible             A7+                  1 
-whats                Z8                   1 
 companies            I2.1                 1 
 Nokia                Z3                   1 
 invested             I1.1                 1 
@@ -396,7 +395,7 @@ scale                M1                   1
 techniques           X4.2                 1 
 will                 T1.1.3               1 
 allow                S7.4+                1 
-well                 A5.1+                1 
+'ll                  T1.1.3               1 
 anxiously            E6-                  1 
 awaiting             X2.6+                1 
 steps                M1                   1 

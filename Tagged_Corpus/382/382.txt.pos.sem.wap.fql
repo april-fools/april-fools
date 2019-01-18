@@ -1,4 +1,4 @@
-TOTAL              267
+TOTAL              268
 the                  AT             23 
 and                  CC             15 
 of                   IO              8 
@@ -23,6 +23,7 @@ or                   CC              2
 would                VM              2 
 portion              NN1             2 
 bang                 NN1             2 
+one                  PN1             2 
 bug                  VVI             2 
 local                JJ              2 
 with                 IW              2 
@@ -83,13 +84,13 @@ FBI                  NP1             1
 CIA                  NP1             1 
 NSA                  NP1             1 
 do                   VD0             1 
-nt                   XX              1 
+n't                  XX              1 
 know                 VVI             1 
 content              NN1             1 
 programming          NN1             1 
 now                  RT              1 
-lets                 VVZ             1 
-look                 NN1             1 
+let_'s               VM21            1 
+look                 VVI             1 
 see                  VVI             1 
 if                   CSW             1 
 worldwide            JJ              1 
@@ -110,7 +111,6 @@ food                 NN1             1
 shelter              NN1             1 
 artificial_intelligence JJ              1 
 will                 VV0             1 
-one                  PN1             1 
 decide               VVI             1 
 whether              CSW             1 
 out                  RP              1 
@@ -137,7 +137,7 @@ hotline              NN1             1
 call                 VV0             1 
 center               NN1             1 
 at                   II              1 
-ones                 NN2             1 
+'s                   GE              1 
 finger               NN1             1 
 tips                 VVZ             1 
 rescue               NN1             1 

@@ -266,8 +266,9 @@
 0000018 040 outlets                                     03 NN2
 0000018 050 covered                                     93 [VVD/84] VVN/16 JJ@/0
 0000018 060 The                                         93 AT
-0000018 070 Catholic                                    93 [JJ/78] NN1/22
-0000018 080 Churchs                                     04 NN2
+0000018 070 Catholic                                    93 [JJ/79] NN1/21
+0000018 080 Church                    >                 93 NN1
+0000018 081 's                        <                 98 GE
 0000018 090 effort                                      03 NN1
 0000018 100 to                                          97 TO
 0000018 110 get                                         97 VVI

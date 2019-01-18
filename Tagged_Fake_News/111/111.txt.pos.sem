@@ -128,8 +128,9 @@
 0000007 001  -----   -----                    
 0000009 010  NN1     Screenshot               Z99 
 0000009 020  IO      of                       Z5 
-0000009 030  NN2     editors                  Q4/I3.2/S2mf Y2 
-0000009 040  VV0     note                     Q2.1 Q1.2 
+0000009 030  NN1     editor                   Q4/I3.2/S2mf Y2 
+0000009 031  GE      's                       Z5 
+0000009 040  NN1     note                     Q1.2 K2 
 0000009 050  VVG     admitting                Q2.2 B3 A1.8+ S7.4+/M1 
 0000009 060  CST     that                     Z5 Z8 
 0000009 070  NP1     Washington               Z2 Z1mf 
@@ -318,7 +319,8 @@
 0000020 050  RP      back                     E3-[i16.2.2 S8-[i16.2.2 M6 N6+ T1.1.1 S1.1.2+ 
 0000020 051  ,       ,                        
 0000020 060  CCB     but                      Z5 
-0000020 070  APPGE   its                      Z8 
+0000020 070  PPH1    it                       Z8 
+0000020 071  VBZ     's                       A3+ Z5 
 0000020 080  JJ      important                A11.1+ 
 0000020 090  CST     that                     Z5 Z8 
 0000020 100  JJ      regular                  A6.2+ N6+ O4.1 I3.1 T2++ A13.3 

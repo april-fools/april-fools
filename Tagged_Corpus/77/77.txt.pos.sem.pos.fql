@@ -1,5 +1,5 @@
-TOTAL         264
-NP1            33 
+TOTAL         267
+NP1            34 
 NN1            32 
 II             24 
 VVZ            13 
@@ -7,15 +7,15 @@ AT             12
 JJ             12 
 VVG            11 
 VVI            10 
-NN2             9 
 TO              9 
 RR              8 
+NN2             8 
 CC              8 
 APPGE           7 
 VV0             7 
+VBZ             5 
 IO              4 
 PN1             4 
-VBZ             4 
 IW              4 
 VVN             3 
 DD1             3 
@@ -27,6 +27,7 @@ CST             2
 CS              2 
 RL              2 
 XX              2 
+GE              2 
 IF              2 
 AT1             2 
 RT              2 
@@ -44,7 +45,7 @@ RR21            1
 RG              1 
 PPH1            1 
 II21            1 
-NP2             1 
+PNQS            1 
 PPHS1           1 
 RGR             1 
 CSN             1 

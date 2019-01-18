@@ -536,11 +536,13 @@
 0000028 060 first                                       93 MD
 0000028 070 in                                          93 [II/100] RP@/0
 0000028 080 Kim                                         93 NP1
-0000028 090 Crawford                                    06 [NP1/97] NN1@/3
-0000028 100 Wines                                       93 NN2
-0000028 110 Lets                                        93 VVZ
-0000028 120 Start                                       93 [VV0/68] NN1/32
-0000028 130 Something                                   93 PN1
+0000028 090 Crawford                                    06 [NP1/98] NN1@/2
+0000028 100 Wine                      >                 93 NN1
+0000028 101 's                        <                 03 [VBZ/72] VHZ@/19 GE/10
+0000028 110 Let                       >                 98 VM21
+0000028 111 's                        <                 98 VM22
+0000028 120 Start                                       93 [NN1/100] VV0/0
+0000028 130 Something'                                  08 [NP1/49] NN1@/27 JJ@/20 VV0@/4
 0000028 140 initiative                                  93 NN1
 0000028 150 and                                         93 CC
 0000028 160 there                                       93 [EX/98] RL/2

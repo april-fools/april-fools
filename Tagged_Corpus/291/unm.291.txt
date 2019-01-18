@@ -13,7 +13,6 @@ Feld                     NN1     Z99
 Felicis                  NN1     Z99 
 hand-select              JJ      Z99 
 incubating               VVG     Z99 
-Ive                      VV0     Z99 
 K12                      FO      Z99 
 Korte                    NN1     Z99 
 Mapes                    NN2     Z99 
@@ -24,6 +23,5 @@ Seed--can                JJ      Z99
 Senkut                   NN1     Z99 
 SoftTechVC               NP1     Z99 
 TechStars                NN2     Z99 
-theyre                   NN1     Z99 
 two--TechStars           NN2     Z99 
 York-based               JJ      Z99 

@@ -1,11 +1,11 @@
-TOTAL         360
-NN1            59 
+TOTAL         363
+NN1            60 
 AT             28 
 II             25 
 JJ             25 
-NN2            21 
+NN2            20 
 VVI            19 
-NP1            13 
+NP1            14 
 TO             12 
 RR             10 
 IO             10 
@@ -13,7 +13,7 @@ AT1             9
 VM              9 
 CST             9 
 VVG             8 
-VVZ             7 
+VVZ             6 
 VVN             6 
 VVD             6 
 CC              5 
@@ -24,6 +24,7 @@ CSA             4
 RG              4 
 VBZ             3 
 DDQ             3 
+GE              3 
 VBR             3 
 NNB             3 
 VV0             3 
@@ -40,7 +41,6 @@ XX              2
 MC              2 
 VH0             2 
 PPIO2           2 
-NNT2            1 
 VBG             1 
 CCB             1 
 EX              1 
@@ -55,3 +55,4 @@ IW              1
 RL              1 
 DA1             1 
 PPHS2           1 
+VM21            1 

@@ -1,4 +1,4 @@
-TOTAL         323
+TOTAL         325
 NN1            44 
 II             27 
 JJ             25 
@@ -8,9 +8,9 @@ VVN            11
 VVI            10 
 AT1            10 
 IO              9 
-NN2             9 
 DD1             8 
 PPIS2           8 
+NN2             8 
 VVD             7 
 TO              7 
 RR              7 
@@ -29,6 +29,7 @@ VM              3
 MD              3 
 RG              3 
 VBZ             3 
+GE              2 
 VHZ             2 
 PNQS            2 
 CST             2 
@@ -44,6 +45,7 @@ VHD             1
 VBDR            1 
 PPHS2           1 
 RP              1 
+MC222           1 
 NN              1 
 JJR             1 
 CSN             1 

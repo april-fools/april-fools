@@ -1,14 +1,15 @@
-TOTAL              380
+TOTAL              387
 of                   Z5                  17 
 the                  Z5                  16 
 to                   Z5                  13 
 and                  Z5                  12 
+Libya                Z2                   8 
 in                   Z5                   7 
-Libya                Z2                   7 
 military             G3                   5 
 intervention         S1.1.3+              5 
 that                 Z5                   5 
 a                    Z5                   5 
+'s                   Z5                   5 
 liberal              A1.7-                5 
 has                  Z5                   4 
 is                   A3+                  4 
@@ -22,7 +23,7 @@ for                  Z5                   3
 these                Z5                   3 
 like                 Z5                   3 
 Syria                Z2                   3 
-Qaddafis             Z99                  3 
+Qaddafi              Z99                  3 
 democracy            G1.2                 3 
 air_support          M5                   2 
 but                  Z5                   2 
@@ -31,9 +32,11 @@ far                  A13.3                2
 political            G1.2                 2 
 both                 N5                   2 
 interventions        S1.1.3+              2 
+coercion             S7.1+                2 
 order                S7.1+                2 
 rule                 G2.1                 2 
 state                G1.1                 2 
+government           G1.1                 2 
 by                   Z5                   2 
 or                   Z5                   2 
 violent              E3-                  2 
@@ -47,6 +50,7 @@ one                  Z8                   2
 was                  A3+                  2 
 if                   Z7                   2 
 they                 Z8                   2 
+you                  Z8                   2 
 any                  N5.1+                2 
 Mali                 Z2                   2 
 their                Z8                   2 
@@ -78,7 +82,6 @@ similar              A6.1+                1
 goals                K5.1                 1 
 advocates            Q2.2                 1 
 underestimate        N5-                  1 
-coercions            S7.1+                1 
 contribution         A9-                  1 
 autocratic           S7.1+                1 
 countries            M7                   1 
@@ -88,13 +91,11 @@ weaknessthe          Z99                  1
 absence              S1.1.3-              1 
 strong               S1.2.5+              1 
 norms                A6.2+                1 
-government           G1.1                 1 
 institutions         S5+                  1 
 nationalism          G1.2                 1 
 helping              S8+                  1 
 remove               M2                   1 
 levers               O2                   1 
-coercion             S7.1+                1 
 places               M7                   1 
 we                   Z8                   1 
 risk                 A15-                 1 
@@ -172,10 +173,9 @@ attract              O4.2+                1
 arms                 B1                   1 
 kill                 L1-                  1 
 youor                Z99                  1 
-youre                Z99                  1 
+'re                  A3+                  1 
 lucky                A1.4+                1 
 ship                 M2                   1 
-you                  Z8                   1 
 off                  M6                   1 
 the_Hague            Z2                   1 
 second               N4                   1 
@@ -204,7 +204,7 @@ be                   A3+                  1
 long                 N3.7+                1 
 bloody               Z4                   1 
 meanwhile            T1.1.2               1 
-Libyas_revolution    G1.2                 1 
+'s_revolution        G1.2                 1 
 destabilized         A2.1+                1 
 pushed               M2                   1 
 hundreds             N5+                  1 
@@ -223,7 +223,6 @@ insurgency           G3                   1
 malian               Z2                   1 
 officers             G3                   1 
 citing               Q2.2                 1 
-governments          G1.1                 1 
 insufficient         N5-                  1 
 vigor                Z99                  1 
 against              Z5                   1 

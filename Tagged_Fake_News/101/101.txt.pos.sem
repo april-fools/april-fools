@@ -224,7 +224,8 @@
 0000008 090  JJ      utmost                   N5.1+++ 
 0000008 100  NN1     confidence               E6+ A10- 
 0000008 110  II      in                       Z5 
-0000008 120  NP1     Seagals                  Z99 
+0000008 120  NP1     Seagal                   Z99 
+0000008 121  GE      's                       Z5 
 0000008 130  NN1     ability                  X9.1+ 
 0000008 140  TO      to                       Z5 
 0000008 150  VVI     rule                     S7.1+ Q1.2 X6+ 

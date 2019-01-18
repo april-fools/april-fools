@@ -215,13 +215,15 @@
 0000020 300  NN1     grid                     O2 O3 Q1.2 
 0000020 301  .       .                        
 0000020 302  -----   -----                    
-0000020 310  NP1@    Nico                     Z99 
-0000020 320  NP2     Rosbergs                 Z99 
+0000020 310  NP1@    Nico                     Z1mf[i9.2.1 Z3c[i9.2.1 
+0000020 320  NP1     Rosberg                  Z1mf[i9.2.2 Z3c[i9.2.2 
+0000020 321  GE      's                       Z5 
 0000020 330  NP1     Williams                 Z1mf 
 0000020 340  CC      and                      Z5 
-0000020 350  NP1     Jarno                    Z1mf[i10.3.1 Z3c[i10.3.1 Z1mf[i9.2.1 Z3c[i9.2.1 
-0000020 360  NP1     Trullis                  Z1mf[i10.3.2 Z3c[i10.3.2 Z1mf[i9.2.2 Z3c[i9.2.2 Z1mf[i11.2.1 Z3c[i11.2.1 
-0000020 370  NP1     Toyota                   Z3c[i10.3.3 Z1mf[i10.3.3 Z3c/M3 Z1mf[i11.2.2 Z3c[i11.2.2 
+0000020 350  NP1     Jarno                    Z1mf[i10.2.1 Z3c[i10.2.1 
+0000020 360  NP1     Trulli                   Z1mf[i10.2.2 Z3c[i10.2.2 
+0000020 361  GE      's                       Z5 
+0000020 370  NP1     Toyota                   Z3c/M3 
 0000020 380  VBDR    were                     A3+ Z5 
 0000020 390  AT      the                      Z5 
 0000020 400  NN2     cars                     M3fn 
@@ -272,8 +274,8 @@
 0000024 380  VBDZ    was                      A3+ Z5 
 0000024 390  JJ      unassailable             A1.1.2- 
 0000024 391  ,       ,                        
-0000024 400  II21    other                    A1.8-[i12.2.1 Z5[i13.2.1 
-0000024 410  II22    than                     A1.8-[i12.2.2 Z5[i13.2.2 
+0000024 400  II21    other                    A1.8-[i11.2.1 Z5[i12.2.1 
+0000024 410  II22    than                     A1.8-[i11.2.2 Z5[i12.2.2 
 0000024 420  IF      for                      Z5 
 0000024 430  AT      the                      Z5 
 0000024 440  JJ      random                   A1.4 
@@ -321,8 +323,8 @@
 0000028 270  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
 0000028 280  XX      not                      Z6 
 0000028 290  RR      normally                 A6.2+ 
-0000028 300  VVI     come                     M1[i14.2.1 A1.5.2+[i14.2.1 O4.2+[i14.2.1 S1.1.3+[i14.2.1 T2+[i14.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
-0000028 310  II      in                       M1[i14.2.2 A1.5.2+[i14.2.2 O4.2+[i14.2.2 S1.1.3+[i14.2.2 T2+[i14.2.2 Z5 
+0000028 300  VVI     come                     M1[i13.2.1 A1.5.2+[i13.2.1 O4.2+[i13.2.1 S1.1.3+[i13.2.1 T2+[i13.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000028 310  II      in                       M1[i13.2.2 A1.5.2+[i13.2.2 O4.2+[i13.2.2 S1.1.3+[i13.2.2 T2+[i13.2.2 Z5 
 0000028 320  NN2     spots                    O4.4 O2 B2- N5- Q4.3 M7 
 0000028 330  CC      and                      Z5 
 0000028 340  VVZ     spits                    B1 W4 X3.2 
@@ -357,8 +359,8 @@
 0000032 141  .       .                        
 0000032 142  -----   -----                    
 0000032 150  DD      Some                     N5 Z5 
-0000032 160  VVD     plumped                  X7+[i15.2.1 O4.4/A2.1+ X7+ 
-0000032 170  IF      for                      X7+[i15.2.2 Z5 
+0000032 160  VVD     plumped                  X7+[i14.2.1 O4.4/A2.1+ X7+ 
+0000032 170  IF      for                      X7+[i14.2.2 Z5 
 0000032 180  AT      the                      Z5 
 0000032 190  MD      first                    N4 
 0000032 191  ,       ,                        
@@ -377,8 +379,8 @@
 0000032 311  .       .                        
 0000032 312  -----   -----                    
 0000032 320  RR      Even                     A13.1 
-0000032 330  NP1     Michael                  Z1mf[i16.2.1 Z3c[i16.2.1 Z1m 
-0000032 340  NP1     Schumacher               Z1mf[i16.2.2 Z3c[i16.2.2 Z1mf 
+0000032 330  NP1     Michael                  Z1mf[i15.2.1 Z3c[i15.2.1 Z1m 
+0000032 340  NP1     Schumacher               Z1mf[i15.2.2 Z3c[i15.2.2 Z1mf 
 0000032 341  ,       ,                        
 0000032 350  AT      the                      Z5 
 0000032 360  JJ      seven-time               Z99 
@@ -393,17 +395,17 @@
 0000032 440  TO      to                       Z5 
 0000032 450  VVI     put                      M2 Q2.1 Q2.2 A1.1.1 
 0000032 460  APPGE   his                      Z8m 
-0000032 470  NN1     hand                     A9-[i17.2.1 Q1.2[i17.2.1 B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf 
-0000032 480  RP      out                      A9-[i17.2.2 Q1.2[i17.2.2 M6 
+0000032 470  NN1     hand                     A9-[i16.2.1 Q1.2[i16.2.1 B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf 
+0000032 480  RP      out                      A9-[i16.2.2 Q1.2[i16.2.2 M6 
 0000032 490  CC      and                      Z5 
 0000032 500  VVI     test                     P1 B3 X2.4 A12- 
 0000032 510  AT      the                      Z5 
 0000032 520  NN1     shower                   B4 W4 S5+/O4.2-c S1.1.1% 
 0000032 521  .       .                        
 0000033 001  -----   -----                    
-0000036 010  DB      All                      T1.3+[i18.3.1 N6+[i18.3.1 N5.1+ 
-0000036 020  AT      the                      T1.3+[i18.3.2 N6+[i18.3.2 Z5 
-0000036 030  NNT1@   while                    T1.3+[i18.3.3 N6+[i18.3.3 T1.3 
+0000036 010  DB      All                      T1.3+[i17.3.1 N6+[i17.3.1 N5.1+ 
+0000036 020  AT      the                      T1.3+[i17.3.2 N6+[i17.3.2 Z5 
+0000036 030  NNT1@   while                    T1.3+[i17.3.3 N6+[i17.3.3 T1.3 
 0000036 031  ,       ,                        
 0000036 040  NN1     Button                   B5 O2 
 0000036 050  VBDZ    was                      A3+ Z5 
@@ -425,8 +427,8 @@
 0000036 190  VVI     arrive                   M1 T2- 
 0000036 191  ?       ?                        
 0000036 192  -----   -----                    
-0000036 200  CS21    Even                     Z7[i19.2.1 
-0000036 210  CS22    if                       Z7[i19.2.2 Z7 
+0000036 200  CS21    Even                     Z7[i18.2.1 
+0000036 210  CS22    if                       Z7[i18.2.2 Z7 
 0000036 220  PPH1    it                       Z8 
 0000036 230  VDD     did                      A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
 0000036 240  XX      not                      Z6 
@@ -446,19 +448,19 @@
 0000040 020  AT1     a                        Z5 
 0000040 030  NN1     deluge                   W4 N5+ 
 0000040 031  :       :                        
-0000040 040  NP1     BMW                      Z1mf[i20.2.1 Z3c[i20.2.1 Z3c 
-0000040 050  NP1     Sauber                   Z1mf[i20.2.2 Z3c[i20.2.2 
+0000040 040  NP1     BMW                      Z1mf[i19.2.1 Z3c[i19.2.1 Z3c 
+0000040 050  NP1     Sauber                   Z1mf[i19.2.2 Z3c[i19.2.2 
 0000040 060  NN1     driver                   M3/S2mf O2 
-0000040 070  NP1     Nick                     Z1mf[i21.2.1 Z3c[i21.2.1 Z1m 
-0000040 080  NP1     Heidfeld                 Z1mf[i21.2.2 Z3c[i21.2.2 
+0000040 070  NP1     Nick                     Z1mf[i20.2.1 Z3c[i20.2.1 Z1m 
+0000040 080  NP1     Heidfeld                 Z1mf[i20.2.2 Z3c[i20.2.2 
 0000040 090  VVZ     gets                     M1 A9+ Z5 X9.2+ A2.1+ A2.2 M2 X2.5+ E4.1- 
-0000040 100  II21    out                      Z5[i22.2.1 Z5 Z5[i23.2.1 A9-[i23.2.1 
-0000040 110  II22    of                       Z5[i22.2.2 Z5[i23.2.2 A9-[i23.2.2 
+0000040 100  II21    out                      Z5[i21.2.1 Z5 Z5[i22.2.1 A9-[i22.2.1 
+0000040 110  II22    of                       Z5[i21.2.2 Z5[i22.2.2 A9-[i22.2.2 
 0000040 120  APPGE   his                      Z8m 
 0000040 130  NN1     car                      M3fn 
 0000040 140  CS      while                    Z5 
-0000040 150  NP1     Lewis                    Z1mf[i24.2.1 Z3c[i24.2.1 Z1m 
-0000040 160  NP1     Hamilton                 Z1mf[i24.2.2 Z3c[i24.2.2 Z1mf Z2 Z3c 
+0000040 150  NP1     Lewis                    Z1mf[i23.2.1 Z3c[i23.2.1 Z1m 
+0000040 160  NP1     Hamilton                 Z1mf[i23.2.2 Z3c[i23.2.2 Z1mf Z2 Z3c 
 0000040 170  VVZ     sits                     M8 C1 P1 G1.1 G2.1 M6 A9+ 
 0000040 180  II      in                       Z5 
 0000040 190  AT      the                      Z5 
@@ -475,9 +477,9 @@
 0000042 060  NN1     spray                    A1.1.1 O2 N5 B3 
 0000042 070  VBDZ    was                      Z5 A3+ 
 0000042 080  VVG     rising                   M1 N5+/A2.1 N3.2+/A2.1 S7.1+/A2.1 N3.7+/A2.1 
-0000042 090  II      off                      G2.2-[i25.3.1 Z5 E2- 
-0000042 100  AT      the                      G2.2-[i25.3.2 Z5 
-0000042 110  NN1     track                    G2.2-[i25.3.3 M3 O2 K3 A4.1 X4.1 K5.1/M7 
+0000042 090  II      off                      G2.2-[i24.3.1 Z5 E2- 
+0000042 100  AT      the                      G2.2-[i24.3.2 Z5 
+0000042 110  NN1     track                    G2.2-[i24.3.3 M3 O2 K3 A4.1 X4.1 K5.1/M7 
 0000042 111  .       .                        
 0000042 112  -----   -----                    
 0000042 120  PN1     One                      Z8 
@@ -487,15 +489,15 @@
 0000042 160  NN1     thunder                  W4 X3.2+ 
 0000042 170  CC      and                      Z5 
 0000042 180  AT      the                      Z5 
-0000042 190  NN1     TV                       Q4.3[i26.2.1 Q4.3 S2.1/S2.2m 
-0000042 200  NN2     screens                  Q4.3[i26.2.2 Y2 Q4.3 H5 A10- 
+0000042 190  NN1     TV                       Q4.3[i25.2.1 Q4.3 S2.1/S2.2m 
+0000042 200  NN2     screens                  Q4.3[i25.2.2 Y2 Q4.3 H5 A10- 
 0000042 210  RR      briefly                  T1.3- 
 0000042 220  VVD     flickered                M1 N5- 
 0000042 230  RP      off                      M6 K1 A1.1.1 A1.9 
 0000042 240  II      in                       Z5 
 0000042 250  AT      the                      Z5 
-0000042 260  NN      media                    Q4/H2[i27.2.1 Q4c 
-0000042 270  NN1     room                     Q4/H2[i27.2.2 H2 N3.6 
+0000042 260  NN      media                    Q4/H2[i26.2.1 Q4c 
+0000042 270  NN1     room                     Q4/H2[i26.2.2 H2 N3.6 
 0000042 271  .       .                        
 0000042 272  -----   -----                    
 0000042 280  NN1     Button                   B5 O2 
@@ -520,16 +522,18 @@
 0000042 420  AT      The                      Z5 
 0000042 430  NN1     safety                   A15+ 
 0000042 440  NN1     car                      M3fn 
-0000042 450  VVD     came                     M1[i28.2.1 A10-[i28.2.1 A10+[i28.2.1 A1.1.1[i28.2.1 T2-[i28.2.1 S3.2/B1@[i28.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
-0000042 460  RP      out                      M1[i28.2.2 A10-[i28.2.2 A10+[i28.2.2 A1.1.1[i28.2.2 T2-[i28.2.2 S3.2/B1@[i28.2.2 M6 
+0000042 450  VVD     came                     M1[i27.2.1 A10-[i27.2.1 A10+[i27.2.1 A1.1.1[i27.2.1 T2-[i27.2.1 S3.2/B1@[i27.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000042 460  RP      out                      M1[i27.2.2 A10-[i27.2.2 A10+[i27.2.2 A1.1.1[i27.2.2 T2-[i27.2.2 S3.2/B1@[i27.2.2 M6 
 0000042 461  .       .                        
 0000043 001  -----   -----                    
-0000046 010  APPGE   Its                      Z8 
+0000046 010  PPH1    It                       Z8 
+0000046 011  VBZ     's                       A3+ Z5 
 0000046 020  JJ      undriveable              Z99 
 0000046 021  ,       ,                        
+0000046 022  GE      '                        Z5 
 0000046 030  VVD     crackled                 X3.2 
-0000046 040  NP1     Sebastien                Z1mf[i29.2.1 Z3c[i29.2.1 
-0000046 050  NP1     Bourdais                 Z1mf[i29.2.2 Z3c[i29.2.2 
+0000046 040  NP1     Sebastien                Z1mf[i28.2.1 Z3c[i28.2.1 
+0000046 050  NP1     Bourdais                 Z1mf[i28.2.2 Z3c[i28.2.2 
 0000046 060  II      from                     Z5 
 0000046 070  APPGE   his                      Z8m 
 0000046 080  NN1     Toro                     Z99 
@@ -537,13 +541,15 @@
 0000046 100  NN1     cockpit                  M5 
 0000046 101  .       .                        
 0000046 102  -----   -----                    
-0000046 110  NP1@    Giancarlo                Z99 
-0000046 120  NP2     Fisichellas              Z99 
+0000046 110  NP1@    Giancarlo                Z1mf[i29.2.1 Z3c[i29.2.1 
+0000046 120  NP1     Fisichella               Z1mf[i29.2.2 Z3c[i29.2.2 
+0000046 121  GE      's                       Z5 
 0000046 130  NN1     Force                    E3- S7.1+ G2.1c N3 S5+c 
 0000046 140  NP1     India                    Z2 
 0000046 150  CC      and                      Z5 
-0000046 160  NP1     Sebastian                Z1m 
-0000046 170  VVZ@    Vettels                  Z99 
+0000046 160  NP1     Sebastian                Z1mf[i30.2.1 Z3c[i30.2.1 Z1m 
+0000046 170  NP1     Vettel                   Z1mf[i30.2.2 Z3c[i30.2.2 
+0000046 171  GE      's                       Z5 
 0000046 180  JJ      Red                      O4.3 G1.2 
 0000046 190  NP1     Bull                     Z1 
 0000046 200  VVD     spun                     M1 B4 M3 M2 C1 
@@ -593,8 +599,8 @@
 0000046 560  II      in                       Z5 
 0000046 570  NN1     safety                   A15+ 
 0000046 571  ,       ,                        
-0000046 580  CS21    even                     Z7[i30.2.1 
-0000046 590  CS22    if                       Z7[i30.2.2 Z7 
+0000046 580  CS21    even                     Z7[i31.2.1 
+0000046 590  CS22    if                       Z7[i31.2.2 Z7 
 0000046 600  AT      the                      Z5 
 0000046 610  NN1     rain                     W4 
 0000046 620  VVD     relented                 T2- 
@@ -605,10 +611,11 @@
 0000046 670  RR      enough                   N5+ N6+ 
 0000046 671  .       .                        
 0000047 001  -----   -----                    
-0000050 010  NP1     Rubens                   Z1mf[i31.2.1 Z3c[i31.2.1 Z1mf Z3 
-0000050 020  NP1     Barrichello              Z1mf[i31.2.2 Z3c[i31.2.2 
+0000050 010  NP1     Rubens                   Z1mf[i32.2.1 Z3c[i32.2.1 Z1mf Z3 
+0000050 020  NP1     Barrichello              Z1mf[i32.2.2 Z3c[i32.2.2 
 0000050 021  ,       ,                        
-0000050 030  NN2     Buttons                  B5 O2 
+0000050 030  NN1     Button                   B5 O2 
+0000050 031  GE      's                       Z5 
 0000050 040  NN1     team-mate                S5+/S2mf 
 0000050 041  ,       ,                        
 0000050 050  VBDZ    was                      Z5 A3+ 
@@ -628,8 +635,8 @@
 0000050 190  NN1     machine                  O2 Y2 
 0000050 191  .       .                        
 0000050 192  -----   -----                    
-0000050 200  NP1     Mark                     Z1mf[i32.2.1 Z3c[i32.2.1 Z1m S9/O1.2 
-0000050 210  NP1     Webber                   Z1mf[i32.2.2 Z3c[i32.2.2 
+0000050 200  NP1     Mark                     Z1mf[i33.2.1 Z3c[i33.2.1 Z1m S9/O1.2 
+0000050 210  NP1     Webber                   Z1mf[i33.2.2 Z3c[i33.2.2 
 0000050 211  ,       ,                        
 0000050 220  AT      the                      Z5 
 0000050 230  JJ      Red                      O4.3 G1.2 
@@ -640,17 +647,18 @@
 0000050 280  NN1     member                   S5+/S2mf B1 
 0000050 290  IO      of                       Z5 
 0000050 300  AT      the                      Z5 
-0000050 310  NN121   Grand                    K5.1/M3[i33.2.1 N1 I1 
-0000050 320  NN122   Prix                     K5.1/M3[i33.2.2 Z3 
+0000050 310  NN121   Grand                    K5.1/M3[i34.2.1 N1 I1 
+0000050 320  NN122   Prix                     K5.1/M3[i34.2.2 Z3 
 0000050 330  NN2     Drivers                  M3/S2mf O2 
+0000050 331  GE      '                        Z5 
 0000050 340  NN1     Association              S5+c A6.1+/X2.1 
 0000050 341  ,       ,                        
-0000050 350  VVD     looked                   Z99/A8[i34.2.1 A8 X3.4 X2.4 X7+ 
-0000050 360  JJ@     stonyfaced               Z99/A8[i34.2.2 
+0000050 350  VVD     looked                   Z99/A8[i35.2.1 A8 X3.4 X2.4 X7+ 
+0000050 360  JJ@     stonyfaced               Z99/A8[i35.2.2 
 0000050 370  CSA     as                       Z5 
 0000050 380  PPHS1   he                       Z8m 
-0000050 390  VVD     wandered                 M1[i35.2.1 M1 X5.1- 
-0000050 400  RP@     about                    M1[i35.2.2 Z5 M6 
+0000050 390  VVD     wandered                 M1[i36.2.1 M1 X5.1- 
+0000050 400  RP@     about                    M1[i36.2.2 Z5 M6 
 0000050 410  II      under                    Z5 
 0000050 420  AT1     an                       Z5 
 0000050 430  NN1     umbrella                 B5 S5+ 
@@ -674,6 +682,7 @@
 0000054 030  VBDZ    was                      A3+ Z5 
 0000054 040  JJ      unanimous                A6.1+ 
 0000054 041  ,       ,                        
+0000054 042  "@      '                        
 0000054 050  PPHS1   he                       Z8m 
 0000054 060  VVD     reported                 Q2.2 S7.1- 
 0000054 070  RT      afterwards               N4 
@@ -684,9 +693,10 @@
 0000054 100  RG      too                      N5.2+ A13.3 
 0000054 110  JJ      dangerous                A15- 
 0000054 120  TO      to                       Z5 
-0000054 130  VVI     go                       T2++[i36.2.1 M1[i36.2.1 Q2.1/N5+[i36.2.1 A1.1.1[i36.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
-0000054 140  RP@     on                       T2++[i36.2.2 M1[i36.2.2 Q2.1/N5+[i36.2.2 A1.1.1[i36.2.2 M6 A1.1.1 
+0000054 130  VVI     go                       T2++[i37.2.1 M1[i37.2.1 Q2.1/N5+[i37.2.1 A1.1.1[i37.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000054 140  RP@     on                       T2++[i37.2.2 M1[i37.2.2 Q2.1/N5+[i37.2.2 A1.1.1[i37.2.2 M6 A1.1.1 
 0000054 141  .       .                        
+0000054 142  "@      '                        
 0000055 001  -----   -----                    
 0000058 010  MC1     One                      N1 T3 T1.2 
 0000058 020  NN1     fan                      E2+/S2mf O2 O4.4 
@@ -721,12 +731,12 @@
 0000058 240  NP1     Ferrari                  Z3c 
 0000058 250  NN1     hospitality              S1.2.1+ 
 0000058 260  NN1     area                     M7 A4.1 N3.6 
-0000058 270  NP1     Kimi                     Z1mf[i37.2.1 Z3c[i37.2.1 
-0000058 280  NP1     Raikkonen                Z1mf[i37.2.2 Z3c[i37.2.2 
+0000058 270  NP1     Kimi                     Z1mf[i38.2.1 Z3c[i38.2.1 
+0000058 280  NP1     Raikkonen                Z1mf[i38.2.2 Z3c[i38.2.2 
 0000058 290  VVD     grabbed                  A9+ 
 0000058 300  AT1     an                       Z5 
-0000058 310  NN1     ice                      F1[i38.2.1 O1.1 
-0000058 320  NN1     cream                    F1[i38.2.2 F1 B3 O1.2 O4.3 A5.1+++ 
+0000058 310  NN1     ice                      F1[i39.2.1 O1.1 
+0000058 320  NN1     cream                    F1[i39.2.2 F1 B3 O1.2 O4.3 A5.1+++ 
 0000058 321  .       .                        
 0000058 322  -----   -----                    
 0000058 330  AT1     A                        Z5 
@@ -749,8 +759,8 @@
 0000058 480  VVD     meant                    Q1.1 X7+ 
 0000058 490  APPGE   his                      Z8m 
 0000058 500  NN1     participation            S1.1.3+ 
-0000058 510  VBDZ    was                      T2-[i39.2.1 M1[i39.2.1 M6[i39.2.1 A3+ Z5 
-0000058 520  RP      over                     T2-[i39.2.2 M1[i39.2.2 M6[i39.2.2 T2- M6 
+0000058 510  VBDZ    was                      T2-[i40.2.1 M1[i40.2.1 M6[i40.2.1 A3+ Z5 
+0000058 520  RP      over                     T2-[i40.2.2 M1[i40.2.2 M6[i40.2.2 T2- M6 
 0000058 521  .       .                        
 0000059 001  -----   -----                    
 0000062 010  MC      Two                      N1 T3 T1.2 
@@ -762,8 +772,8 @@
 0000062 060  VVZ     celebrates               E4.1+ S9 
 0000062 070  APPGE   his                      Z8m 
 0000062 080  MD      second                   N4 
-0000062 090  NN121   Grand                    K5.1/M3[i40.2.1 N1 I1 
-0000062 100  NN122   Prix                     K5.1/M3[i40.2.2 Z3 
+0000062 090  NN121   Grand                    K5.1/M3[i41.2.1 N1 I1 
+0000062 100  NN122   Prix                     K5.1/M3[i41.2.2 Z3 
 0000062 110  NN1@    win                      X9.2+/S7.3 X9.2+/G3 A9+ 
 0000062 120  IO      of                       Z5 
 0000062 130  AT      the                      Z5 
@@ -773,8 +783,8 @@
 0000064 030  CC      and                      Z5 
 0000064 040  APPGE   his                      Z8m 
 0000064 050  NN1     team-mate                S5+/S2mf 
-0000064 060  NP1     Felipe                   Z1mf[i41.2.1 Z3c[i41.2.1 
-0000064 070  NP1     Massa                    Z1mf[i41.2.2 Z3c[i41.2.2 
+0000064 060  NP1     Felipe                   Z1mf[i42.2.1 Z3c[i42.2.1 
+0000064 070  NP1     Massa                    Z1mf[i42.2.2 Z3c[i42.2.2 
 0000064 080  VH0     have                     Z5 A9+ A2.2 S4 
 0000064 090  XX      not                      Z6 
 0000064 100  VVN     scored                   K5 A5.1 N3.1 X9.2+ A1.1.1 
@@ -813,15 +823,16 @@
 0000068 180  VVN     announced                Q2.2 
 0000068 190  CST     that                     Z5 Z8 
 0000068 200  AT      the                      Z5 
-0000068 210  NNT2    afternoons               T1.3 
+0000068 210  NNT1    afternoon                T1.3 
+0000068 211  GE      's                       Z5 
 0000068 220  NN1     entertainment            K1 
-0000068 230  VBDZ    was                      T2-[i42.2.1 M1[i42.2.1 M6[i42.2.1 A3+ Z5 
-0000068 240  RP      over                     T2-[i42.2.2 M1[i42.2.2 M6[i42.2.2 T2- M6 
+0000068 230  VBDZ    was                      T2-[i43.2.1 M1[i43.2.1 M6[i43.2.1 A3+ Z5 
+0000068 240  RP      over                     T2-[i43.2.2 M1[i43.2.2 M6[i43.2.2 T2- M6 
 0000068 241  .       .                        
 0000069 001  -----   -----                    
 0000072 010  AT      The                      Z5 
-0000072 020  NN1     podium                   O2/P1c[i43.2.1 O2 
-0000072 030  NN1     classification           O2/P1c[i43.2.2 A4.1 
+0000072 020  NN1     podium                   O2/P1c[i44.2.1 O2 
+0000072 030  NN1     classification           O2/P1c[i44.2.2 A4.1 
 0000072 040  VBDZ    was                      A3+ Z5 
 0000072 050  JJ      untangled                Z99 
 0000072 060  CSA     as                       Z5 
@@ -829,15 +840,15 @@
 0000072 071  :       :                        
 0000072 080  NN1     Button                   B5 O2 
 0000072 081  ,       ,                        
-0000072 090  NP1     Nick                     Z1mf[i44.2.1 Z3c[i44.2.1 Z1m 
-0000072 100  NP1     Heidfeld                 Z1mf[i44.2.2 Z3c[i44.2.2 
+0000072 090  NP1     Nick                     Z1mf[i45.2.1 Z3c[i45.2.1 Z1m 
+0000072 100  NP1     Heidfeld                 Z1mf[i45.2.2 Z3c[i45.2.2 
 0000072 101  ,       ,                        
 0000072 110  IO      of                       Z5 
 0000072 120  NP1     BMW                      Z3c 
 0000072 121  ,       ,                        
 0000072 130  CC      and                      Z5 
-0000072 140  NP1     Timo                     Z1mf[i45.2.1 Z3c[i45.2.1 
-0000072 150  NP1     Glock                    Z1mf[i45.2.2 Z3c[i45.2.2 
+0000072 140  NP1     Timo                     Z1mf[i46.2.1 Z3c[i46.2.1 
+0000072 150  NP1     Glock                    Z1mf[i46.2.2 Z3c[i46.2.2 
 0000072 151  ,       ,                        
 0000072 160  IO      of                       Z5 
 0000072 170  NP1     Toyota                   Z3c/M3 
@@ -855,8 +866,8 @@
 0000072 261  ,       ,                        
 0000072 270  DB      all                      N5.1+ 
 0000072 280  AT      the                      Z5 
-0000072 290  NN1     top                      A5.1+++[i46.2.1 M6 N4 N5.1+ O2 B5 K6 N5.1- 
-0000072 300  MC      eight                    A5.1+++[i46.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000072 290  NN1     top                      A5.1+++[i47.2.1 M6 N4 N5.1+ O2 B5 K6 N5.1- 
+0000072 300  MC      eight                    A5.1+++[i47.2.2 N1 T1.2 T3 T1.3 N3.2 
 0000072 310  VVD     received                 A9+ S5+ 
 0000072 320  DB      half                     N5 
 0000072 330  NN2     points                   Q2.1 X4.1 A5.1 A1.5.2 M7 T1.2 O4.4 O3 K5 
@@ -869,8 +880,9 @@
 0000072 380  VVZ@    heads                    S7.1+ K5.1 M1 N5 A2.1+ A11.1+ Q1.2 T1.1.3 
 0000072 390  AT      the                      Z5 
 0000072 400  NN2     drivers                  M3/S2mf O2 
-0000072 410  NN2     standings                A1.1.1[i47.2.1 S8+[i47.2.1 M8[i47.2.1 S7.1 
-0000072 420  II      by                       A1.1.1[i47.2.2 S8+[i47.2.2 M8[i47.2.2 Z5 
+0000072 401  GE      '                        Z5 
+0000072 410  NN2     standings                A1.1.1[i48.2.1 S8+[i48.2.1 M8[i48.2.1 S7.1 
+0000072 420  II      by                       A1.1.1[i48.2.2 S8+[i48.2.2 M8[i48.2.2 Z5 
 0000072 430  MC      five                     N1 T3 T1.2 
 0000072 440  NN2     points                   Q2.1 X4.1 A5.1 A1.5.2 M7 T1.2 O4.4 O3 K5 
 0000072 450  II      over                     Z5 
@@ -889,8 +901,9 @@
 0000076 100  II      on                       Z5 
 0000076 110  FO      F1                       Z3 
 0000076 120  NN1     supremo                  S7.1+ 
-0000076 130  NP1     Bernie                   Z99 
-0000076 140  NP2     Ecclestones              Z99 
+0000076 130  NP1     Bernie                   Z1mf[i49.2.1 Z3c[i49.2.1 
+0000076 140  NP1     Ecclestone               Z1mf[i49.2.2 Z3c[i49.2.2 
+0000076 141  GE      's                       Z5 
 0000076 150  NN1     decision                 X6+ 
 0000076 160  TO      to                       Z5 
 0000076 170  VVI     push                     M2 M1 S7.1+ X8+ I2.2 F3 I3.1- 
@@ -915,26 +928,28 @@
 0000080 010  PPH1    It                       Z8 
 0000080 020  VBDZ    was                      A3+ Z5 
 0000080 030  JJ      dark                     W2- O4.3 E4.1- X2.2- O4.2- 
-0000080 040  II21    because                  A2.2[i48.2.1 
-0000080 050  II22    of                       A2.2[i48.2.2 
+0000080 040  II21    because                  A2.2[i50.2.1 
+0000080 050  II22    of                       A2.2[i50.2.2 
 0000080 060  AT      the                      Z5 
 0000080 070  NN2     thunderstorms            W4 
 0000080 071  ,       ,                        
 0000080 080  XX      not                      Z6 
-0000080 090  II21    because                  A2.2[i49.2.1 
-0000080 100  II22    of                       A2.2[i49.2.2 
+0000080 090  II21    because                  A2.2[i51.2.1 
+0000080 100  II22    of                       A2.2[i51.2.2 
 0000080 110  AT      the                      Z5 
 0000080 120  NN1     timing                   A1.2 T1.3 
 0000080 121  ,       ,                        
+0000080 122  GE      '                        Z5 
 0000080 130  VVD     said                     Q2.1 
-0000080 140  NP2     Renaults                 Z3c 
+0000080 140  NP1     Renault                  Z3c 
+0000080 141  GE      's                       Z5 
 0000080 150  DA      former                   T2- N4 
 0000080 160  JJ      double                   N5+ 
 0000080 170  NN1     world                    W1 S5+c A4.1 N5+ 
 0000080 180  NN1     champion                 X9.2+/S7.3/S2mf S8+/S2mf 
 0000080 181  ,       ,                        
-0000080 190  NP1     Fernando                 Z1mf[i50.2.1 Z3c[i50.2.1 
-0000080 200  NP1     Alonso                   Z1mf[i50.2.2 Z3c[i50.2.2 
+0000080 190  NP1     Fernando                 Z1mf[i52.2.1 Z3c[i52.2.1 
+0000080 200  NP1     Alonso                   Z1mf[i52.2.2 Z3c[i52.2.2 
 0000080 201  .       .                        
 0000080 202  -----   -----                    
 0000080 210  PPH1    It                       Z8 
@@ -974,10 +989,11 @@
 0000080 480  VM      would                    A7+ 
 0000080 490  VVI     regret                   E4.1- 
 0000080 491  .       .                        
+0000080 492  "@      '                        
 0000081 001  -----   -----                    
 0000088 010  IF      For                      Z5 
-0000088 020  NP1     Lewis                    Z1mf[i51.2.1 Z3c[i51.2.1 Z1m 
-0000088 030  NP1     Hamilton                 Z1mf[i51.2.2 Z3c[i51.2.2 Z1mf Z2 Z3c 
+0000088 020  NP1     Lewis                    Z1mf[i53.2.1 Z3c[i53.2.1 Z1m 
+0000088 030  NP1     Hamilton                 Z1mf[i53.2.2 Z3c[i53.2.2 Z1mf Z2 Z3c 
 0000088 040  PPH1    it                       Z8 
 0000088 050  VVZ     seems                    A8 
 0000088 060  CST     that                     Z8 Z5 
@@ -1007,8 +1023,8 @@
 0000088 250  PPHO1   him                      Z8m 
 0000088 260  VBG     being                    Z5 A3+ 
 0000088 270  VVN     thrown                   M2 A2.2 Q2.2 A1.1.1 X2.5- 
-0000088 280  II21    out                      Z5[i52.2.1 Z5 Z5[i53.2.1 A9-[i53.2.1 
-0000088 290  II22    of                       Z5[i52.2.2 Z5[i53.2.2 A9-[i53.2.2 
+0000088 280  II21    out                      Z5[i54.2.1 Z5 Z5[i55.2.1 A9-[i55.2.1 
+0000088 290  II22    of                       Z5[i54.2.2 Z5[i55.2.2 A9-[i55.2.2 
 0000088 300  AT      the                      Z5 
 0000088 310  NN1     opening                  A1.1.1 T2+ O2 I3.1 
 0000088 320  NN1     race                     K5.1 S7.3+ S5+c 
@@ -1085,13 +1101,15 @@
 0000102 080  RG      too                      N5.2+ A13.3 
 0000102 090  JJ      dangerous                A15- 
 0000102 091  ,       ,                        
+0000102 092  GE      '                        Z5 
 0000102 100  VVD     said                     Q2.1 
 0000102 110  NP1     Hamilton                 Z1mf Z2 Z3c 
 0000102 111  ,       ,                        
 0000102 120  PNQS    who                      Z8 
 0000102 130  VVD     scored                   K5 A5.1 N3.1 X9.2+ A1.1.1 
 0000102 140  APPGE   his                      Z8m 
-0000102 150  NN2     teams                    S5+ K5.1/S5+ 
+0000102 150  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000102 151  GE      's                       Z5 
 0000102 160  MD      first                    N4 
 0000102 170  NN1     point                    Q2.1 X4.1 A5.1 A1.5.2 M7 T1.2 O4.4 O3 K5 
 0000102 171  .       .                        
@@ -1141,8 +1159,8 @@
 0000106 070  NNT2    days                     T1.3 
 0000106 071  .       .                        
 0000106 072  -----   -----                    
-0000106 080  PPY     You                      Z4[i54.2.1 Z8mf 
-0000106 090  VV0     know                     Z4[i54.2.2 X2.2+ S3.2/B1% 
+0000106 080  PPY     You                      Z4[i56.2.1 Z8mf 
+0000106 090  VV0     know                     Z4[i56.2.2 X2.2+ S3.2/B1% 
 0000106 100  RRQ     why                      A2.2 
 0000106 101  .       .                        
 0000106 102  -----   -----                    
@@ -1150,11 +1168,11 @@
 0000106 120  PPIS1   I                        Z8mf 
 0000106 130  VDD     did                      A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
 0000106 140  VBDZ    was                      A3+ Z5 
-0000106 150  VVI     give                     X8+[i55.5.1 A9- A1.1.1 
-0000106 160  PPH1    it                       X8+[i55.5.2 Z8 
-0000106 170  APPGE   my                       X8+[i55.5.3 Z8 
-0000106 180  JJT     best                     X8+[i55.5.4 A5.1+++ G2.2+++ O4.2+++ 
-0000106 190  NN1     shot                     X8+[i55.5.5 G3 G3/S2mf K5.1 Y1 C1 Q4.3 X8+ B3@ F2@ 
+0000106 150  VVI     give                     X8+[i57.5.1 A9- A1.1.1 
+0000106 160  PPH1    it                       X8+[i57.5.2 Z8 
+0000106 170  APPGE   my                       X8+[i57.5.3 Z8 
+0000106 180  JJT     best                     X8+[i57.5.4 A5.1+++ G2.2+++ O4.2+++ 
+0000106 190  NN1     shot                     X8+[i57.5.5 G3 G3/S2mf K5.1 Y1 C1 Q4.3 X8+ B3@ F2@ 
 0000106 200  RT      today                    T1.1.2 
 0000106 210  CC      and                      Z5 
 0000106 220  AT      the                      Z5 
@@ -1163,6 +1181,7 @@
 0000106 250  XX      not                      Z6 
 0000106 260  JJ      terrible                 A5.1- 
 0000106 261  .       .                        
+0000106 262  "@      '                        
 0000107 001  -----   -----                    
 0000110 010  IF      For                      Z5 
 0000110 020  NN1     Button                   B5 O2 
@@ -1170,8 +1189,8 @@
 0000110 030  AT      the                      Z5 
 0000110 040  NN1     focus                    X5.1+ X3.4 A4.2+ A11.1+ 
 0000110 050  RT      now                      T1.1.2 Z4 
-0000110 060  VVZ     turns                    M1[i56.2.1 S1.1.1[i56.2.1 T2+[i56.2.1 A2.1+[i56.2.1 M2 M1 O4.4 A1.1.1 A2.1+ O4.2- 
-0000110 070  II      to                       M1[i56.2.2 S1.1.1[i56.2.2 T2+[i56.2.2 A2.1+[i56.2.2 Z5 
+0000110 060  VVZ     turns                    M1[i58.2.1 S1.1.1[i58.2.1 T2+[i58.2.1 A2.1+[i58.2.1 M2 M1 O4.4 A1.1.1 A2.1+ O4.2- 
+0000110 070  II      to                       M1[i58.2.2 S1.1.1[i58.2.2 T2+[i58.2.2 A2.1+[i58.2.2 Z5 
 0000110 080  NP1     Paris                    Z2 Z1f 
 0000110 090  RT      tomorrow                 T1.1.3 
 0000110 100  NNT1    week                     T1.3 
@@ -1180,7 +1199,8 @@
 0000110 130  NN1     legality                 G2.1+ 
 0000110 140  IO      of                       Z5 
 0000110 150  APPGE   his                      Z8m 
-0000110 160  NN2     cars                     M3fn 
+0000110 160  NN1     car                      M3fn 
+0000110 161  GE      's                       Z5 
 0000110 170  NN1     diffuser                 Z99 
 0000110 180  VM      will                     T1.1.3 
 0000110 190  VBI     be                       Z5 A3+ 
@@ -1189,10 +1209,10 @@
 0000110 202  -----   -----                    
 0000110 210  CS      If                       Z7 
 0000110 220  AT      the                      Z5 
-0000110 230  NP1     FIA                      Z3c[i57.2.1 Z2[i57.2.1 
-0000110 240  NN1     court                    G2.1c[i58.3.1 G2.1 H3 M7/K5.2 Z3c[i57.2.2 Z2[i57.2.2 
-0000110 250  IO      of                       G2.1c[i58.3.2 Z5 
-0000110 260  NN1     appeal                   G2.1c[i58.3.3 Q2.1 O4.2+ G2.1 
+0000110 230  NP1     FIA                      Z3c[i59.2.1 Z2[i59.2.1 
+0000110 240  NN1     court                    G2.1c[i60.3.1 G2.1 H3 M7/K5.2 Z3c[i59.2.2 Z2[i59.2.2 
+0000110 250  IO      of                       G2.1c[i60.3.2 Z5 
+0000110 260  NN1     appeal                   G2.1c[i60.3.3 Q2.1 O4.2+ G2.1 
 0000110 270  VV0     decide                   X6+ 
 0000110 280  EX      there                    Z5 
 0000110 290  VBZ     is                       A3+ Z5 

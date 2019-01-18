@@ -12,6 +12,7 @@ Etnernet                 NN1     Z99
 ExpressCard              NN1@    Z99 
 HDCP                     NP1     Z99 
 HDMI                     JJ      Z99 
+PC'                      NP1     Z99 
 potentialities           NN2     Z99 
 USB                      NN1     Z99 
 VGA                      NN1     Z99 

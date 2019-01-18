@@ -1,4 +1,4 @@
-TOTAL              772
+TOTAL              774
 the                  AT             62 
 a                    AT1            25 
 and                  CC             25 
@@ -24,10 +24,10 @@ was                  VBDZ            6
 released             VVN             6 
 on                   II              6 
 group                NN1             6 
+it                   PPH1            6 
 an                   AT1             6 
 2007                 MC              5 
 staff                NN              5 
-it                   PPH1            5 
 from                 II              5 
 incident             NN1             5 
 this                 DD1             5 
@@ -242,7 +242,7 @@ continued            VVD             1
 circle               VVI             1 
 overhead             RL              1 
 well                 RR              1 
-its                  APPGE           1 
+'s                   VBZ             1 
 fault                NN1             1 
 bringing             VVG             1 
 kids                 NN2             1 
@@ -250,6 +250,7 @@ battle               NN1             1
 attacked             VVN             1 
 **25;33;toolong      FU              1 
 David_Schlesinger    NP1             1 
+'                    GE              1 
 editor-in-chief      NN1             1 
 deaths               NN2             1 
 Chmagh               NP1             1 

@@ -1,4 +1,4 @@
-TOTAL              281
+TOTAL              287
 the                  AT             12 
 he                   PPHS1          11 
 and                  CC              8 
@@ -7,6 +7,7 @@ english              NN1             7
 his                  APPGE           6 
 to                   TO              6 
 has                  VHZ             6 
+'s                   GE              5 
 in                   II              5 
 of                   IO              5 
 was                  VBDZ            5 
@@ -14,7 +15,7 @@ as                   CSA             4
 more                 DAR             4 
 years                NNT2            4 
 said                 VVD             4 
-countrys             NN2             3 
+country              NN1             3 
 prime_minister       JJ              3 
 on                   II              3 
 after                II              3 
@@ -24,7 +25,7 @@ for                  IF              3
 last_week            MD              3 
 been                 VBN             3 
 to                   II              3 
-new                  JJ              2 
+New_Zealand          NP1             2 
 finance              NN1             2 
 minister             NN1             2 
 will                 VM              2 
@@ -40,8 +41,8 @@ election             NN1             2
 with                 IW              2 
 children             NN2             2 
 then                 RT              2 
+i                    PPIS1           2 
 Bill_english         NP1             1 
-Zealands             NP2             1 
 former               DA              1 
 farmer               NN1             1 
 as                   II              1 
@@ -51,6 +52,7 @@ colleagues           NN2             1
 chose                VVD             1 
 him                  PPHO1           1 
 their                APPGE           1 
+new                  JJ              1 
 emerged              VVD             1 
 victorious           JJ              1 
 meeting              NN1             1 
@@ -111,12 +113,11 @@ taking               VVG             1
 big                  JJ              1 
 defeat               NN1             1 
 2002                 MC              1 
-s                    VBZ             1 
+'s                   VBZ             1 
 gained               VVN             1 
 wisdom               NN1             1 
 experience           NN1             1 
 since                II              1 
-i                    PPIS1           1 
 39                   MC              1 
 old                  JJ              1 
 six                  MC              1 
@@ -125,15 +126,14 @@ so                   RR              1
 if                   CS              1 
 nothing              PN1             1 
 else                 RR              1 
-Ive                  NP1             1 
-got                  VVD             1 
+'ve                  VH0             1 
+got                  VVN             1 
 opportunity          NN1             1 
 focus                VVI             1 
 much                 DA1             1 
 on_the_job           II              1 
 now                  RT              1 
 under                II              1 
-New_Zealand          NP1             1 
 enjoying             VVG             1 
 relatively           RR              1 
 robust               JJ              1 
@@ -151,7 +151,8 @@ managed              VVN             1
 return               VVI             1 
 small                JJ              1 
 surpluses            NN2             1 
-governments_books    NN2             1 
+government           NN1             1 
+books                NN2             1 
 over                 II              1 
 past                 JJ              1 
 couple               NN1             1 
@@ -159,7 +160,7 @@ deliver              VVI             1
 tax                  NN1             1 
 cuts                 NN2             1 
 spread               VVI             1 
-growing              VVG             1 
+growing              JJ              1 
 wealth               NN1             1 
 where                RRQ             1 
 it                   PPH1            1 

@@ -55,7 +55,8 @@
 0000006 120  NP1     Dickson                  Z1mf[i9.2.2 Z3c[i9.2.2 
 0000006 130  CC      and                      Z5 
 0000006 140  NP1     Lorraine                 Z1mf[i10.2.1 Z3c[i10.2.1 Z1f Z2 
-0000006 150  NP1     Charker-Phillips         Z1mf[i10.2.2 Z3c[i10.2.2 
+0000006 150  NP1     Charker-Phillip          Z1mf[i10.2.2 Z3c[i10.2.2 
+0000006 151  GE      's                       Z5 
 0000006 160  FO      Label1                   Z99 
 0000006 161  ,       ,                        
 0000006 170  II      before                   Z5 
@@ -78,8 +79,9 @@
 0000006 320  NN      series                   N4c Q4.3c 
 0000006 321  .       .                        
 0000006 322  -----   -----                    
-0000006 330  NP1@    Greenslades              Z99 
-0000006 340  VVZ     credits                  I1.1 X2.1 
+0000006 330  NP1@    Greenslade               Z99 
+0000006 331  GE      's                       Z5 
+0000006 340  NN2     credits                  I1.1 A5.1+ X2.1 P1 Q4.3 
 0000006 350  RR      also                     N5++ 
 0000006 360  VV0     include                  A1.8+ 
 0000006 370  AT      The                      Z5 

@@ -11,11 +11,12 @@
 0000002 090  NN2     words                    Q3 
 0000002 100  JJ      radical                  N5+/A2.1 A11.1+ 
 0000002 110  JJ      Islamic                  S9 
-0000002 120  NN1     terrorism                G2.1- 
+0000002 120  NN1     terrorism'               Z99 
 0000002 121  ,       ,                        
 0000002 130  CS@     so                       Z5 
-0000002 140  APPGE   its                      Z8 
-0000002 150  NN1%    no                       S8- 
+0000002 140  PPH1    it                       Z8 
+0000002 141  VBZ     's                       A3+ Z5 
+0000002 150  AT      no                       Z6 
 0000002 160  NN1     surprise                 X2.6- 
 0000002 170  CST     that                     Z8 Z5 
 0000002 180  PPHS2   they                     Z8mfn 
@@ -29,10 +30,11 @@
 0000002 260  NN2     Christians               S9/S2mf 
 0000002 270  II      by                       Z5 
 0000002 280  NP1     ISIS                     Z3c 
-0000002 290  NN1     genocide                 L1-/S5+ 
+0000002 290  NN1     genocide'                Z99 
 0000002 291  ,       ,                        
 0000002 300  CCB     but                      Z5 
-0000002 310  VVZ     thats                    Z5 Z8 A13.3 A6.1+ 
+0000002 310  DD1     that                     Z8 Z5 
+0000002 311  VBZ     's                       A3+ Z5 
 0000002 320  RR      exactly                  A4.2+ A5.3+ 
 0000002 330  DDQ     what                     Z8 Z5 
 0000002 340  PPH1    it                       Z8 
@@ -174,6 +176,7 @@
 0000012 260  NN2     Christians               S9/S2mf 
 0000012 270  II      on                       Z5 
 0000012 280  NP1     ISIS                     Z3c 
+0000012 281  GE      '                        Z5 
 0000012 290  NN2     atrocities               G2.2- 
 0000012 291  .       .                        
 0000012 292  -----   -----                    
@@ -310,7 +313,8 @@
 0000016 400  TO      to                       Z5 
 0000016 410  VVI     force                    S7.1+ A1.1.1 E3- 
 0000016 420  AT      the                      Z5 
-0000016 430  NN2     administrations          S7.1+c A9- 
+0000016 430  NN1     administration           S7.1+c A9- 
+0000016 431  GE      's                       Z5 
 0000016 440  NN1     hand                     B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf 
 0000016 450  II      on                       Z5 
 0000016 460  AT      the                      Z5 
@@ -377,7 +381,8 @@
 0000020 270  XX      not                      Z6 
 0000020 280  VVI     agree                    A6.1+ Q2.2 
 0000020 290  IW      with                     Z5 
-0000020 300  NP2     Obamas                   Z99 
+0000020 300  NP1     Obama                    Z99 
+0000020 301  GE      's                       Z5 
 0000020 310  NN2     notions                  X4.1 
 0000020 311  .       .                        
 0000021 001  -----   -----                    

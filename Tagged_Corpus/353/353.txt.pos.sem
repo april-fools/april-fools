@@ -54,8 +54,9 @@
 0000004 210  NN1     number                   N5 N1 Q1.3 K2 Q4.2 
 0000004 220  IO      of                       Z5 
 0000004 230  AT      the                      Z5 
-0000004 240  NN2     worlds                   W1 S5+c A4.1 N5+ 
-0000004 250  VVG     leading                  S7.1+ A2.2 M2 A1.1.1 
+0000004 240  NN1     world                    W1 S5+c A4.1 N5+ 
+0000004 241  GE      's                       Z5 
+0000004 250  JJ      leading                  S7.1+ A11.1+ A2.2 M2 A1.1.1 
 0000004 260  NN2     scientists               Y1/S2mf 
 0000004 270  VBR     are                      A3+ Z5 
 0000004 280  RR      still                    T2++ Z4 E3+ 
@@ -249,9 +250,10 @@
 0000012 131  .       .                        
 0000012 132  -----   -----                    
 0000012 140  RR      So                       Z5 A13.3 
-0000012 150  VVZ     lets                     S7.4+ I2.2/H1 T2- 
-0000012 160  NN1     look                     X3.4[i11.2.1 X2.4[i11.2.1 X2.1[i11.2.1 A8 X3.4 X2.4 O4.1 
-0000012 170  II      at                       X3.4[i11.2.2 X2.4[i11.2.2 X2.1[i11.2.2 Z5 
+0000012 150  VM21    let                      Z5[i11.2.1 
+0000012 151  VM22    's                       Z5[i11.2.2 
+0000012 160  VVI     look                     X3.4[i12.2.1 X2.4[i12.2.1 X2.1[i12.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000012 170  II      at                       X3.4[i12.2.2 X2.4[i12.2.2 X2.1[i12.2.2 Z5 
 0000012 180  DD1     this                     M6 Z5 Z8 
 0000012 190  JJ      new                      T3- 
 0000012 200  NN1     evidence                 A5.2+ X2.2 G2.1 
@@ -268,7 +270,8 @@
 0000013 030  NN2     births                   B1 T2+ 
 0000013 040  IW      with                     Z5 
 0000013 050  NN2     storks                   L2mfn 
-0000015 010  APPGE   Its                      Z8 
+0000015 010  PPH1    It                       Z8 
+0000015 011  VHZ     's                       Z5 A9+ A2.2 
 0000015 020  RR      long                     T1.3+ 
 0000015 030  VBN     been                     Z5 A3+ 
 0000015 040  VVN     known                    X2.2+ S3.2/B1% 
@@ -290,11 +293,11 @@
 0000015 180  JJ      true                     A5.2+ A5.4+ 
 0000015 190  RR      longitudinally           M6 
 0000015 191  (       (                        
-0000015 200  II      over                     T1.3+[i12.2.1 Z5 
-0000015 210  NNT1    time                     T1.3+[i12.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000015 200  II      over                     T1.3+[i13.2.1 Z5 
+0000015 210  NNT1    time                     T1.3+[i13.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000015 211  )       )                        
-0000015 220  II31    as                       N5++[i13.2.1 Z5 
-0000015 230  II32    well                     N5++[i13.2.2 
+0000015 220  II31    as                       N5++[i14.2.1 Z5 
+0000015 230  II32    well                     N5++[i14.2.2 
 0000015 240  II33    as                       Z5 
 0000015 250  RR      latitudinally            Z99 
 0000015 251  (       (                        
@@ -396,9 +399,9 @@
 0000021 020  JJ      new                      T3- 
 0000021 030  NN1     evidence                 A5.2+ X2.2 G2.1 
 0000021 040  VH0     have                     A9+ Z5 A2.2 S4 
-0000021 050  NP1     Hfer                     P1/Q1.2[i14.3.1 Q1.2/S2mf[i14.3.1 
-0000021 060  RA21    et                       P1/Q1.2[i14.3.2 Q1.2/S2mf[i14.3.2 
-0000021 070  RA22    al                       P1/Q1.2[i14.3.3 Q1.2/S2mf[i14.3.3 
+0000021 050  NP1     Hfer                     P1/Q1.2[i15.3.1 Q1.2/S2mf[i15.3.1 
+0000021 060  RA21    et                       P1/Q1.2[i15.3.2 Q1.2/S2mf[i15.3.2 
+0000021 070  RA22    al                       P1/Q1.2[i15.3.3 Q1.2/S2mf[i15.3.3 
 0000021 080  VVN     generated                A2.2 O3 
 0000021 081  ?       ?                        
 0000021 082  -----   -----                    
@@ -411,8 +414,9 @@
 0000021 150  II      in                       Z5 
 0000021 160  APPGE   its                      Z8 
 0000021 170  NN1     simplicity               A12+ O4.1 
-0000021 180  CST     that                     Z5 Z8 
-0000021 190  APPGE   its                      Z8 
+0000021 180  CST     that                     Z8 Z5 
+0000021 190  PPH1    it                       Z8 
+0000021 191  VBZ     's                       A3+ Z5 
 0000021 200  AT1     a                        Z5 
 0000021 210  NN1     wonder                   X2.6- A5.1+ 
 0000021 220  AT      no                       Z6 
@@ -431,8 +435,8 @@
 0000021 330  IO      of                       Z5 
 0000021 340  NN1     air-conditioning         O4.6 
 0000021 350  CC      and                      Z5 
-0000021 360  JJ      central                  O4.6+/H2[i15.2.1 A11.1+ M6 
-0000021 370  NN1     heating                  O4.6+/H2[i15.2.2 O4.6+ 
+0000021 360  JJ      central                  O4.6+/H2[i16.2.1 A11.1+ M6 
+0000021 370  NN1     heating                  O4.6+/H2[i16.2.2 O4.6+ 
 0000021 371  ,       ,                        
 0000021 380  VVG     resulting                A2.2 
 0000021 390  II      in                       Z5 
@@ -613,8 +617,8 @@
 0000031 240  VVZ     shows                    A10+ S1.1.1 
 0000031 250  CST     that                     Z5 Z8 
 0000031 260  NP1     ThoS                     Z5 
-0000031 270  VHZ     has                      S6+[i16.2.1 A9+ Z5 A2.2 S4 
-0000031 280  TO      to                       S6+[i16.2.2 Z5 
+0000031 270  VHZ     has                      S6+[i17.2.1 A9+ Z5 A2.2 S4 
+0000031 280  TO      to                       S6+[i17.2.2 Z5 
 0000031 290  VBI     be                       Z5 A3+ 
 0000031 300  VVN     restricted               A1.7+ 
 0000031 310  TO      to                       Z5 
@@ -638,10 +642,10 @@
 0000033 100  TO      to                       Z5 
 0000033 110  VBI     be                       Z5 A3+ 
 0000033 120  VVN     delivered                M2 Q2.1 X9.2+ B3 S9% 
-0000033 130  II      in                       M6[i17.3.1 S8-[i17.3.1 Z5 
-0000033 140  AT      the                      M6[i17.3.2 S8-[i17.3.2 Z5 
+0000033 130  II      in                       M6[i18.3.1 S8-[i18.3.1 Z5 
+0000033 140  AT      the                      M6[i18.3.2 S8-[i18.3.2 Z5 
 0000033 150  JJ      traditional              S1.1.1 A6.2+ T3++ 
-0000033 160  NN1     way                      M6[i17.3.3 S8-[i17.3.3 X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000033 160  NN1     way                      M6[i18.3.3 S8-[i18.3.3 X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
 0000033 161  ,       ,                        
 0000033 170  II      by                       Z5 
 0000033 180  NN1     stork                    L2mfn 
@@ -655,8 +659,8 @@
 0000034 001  -----   -----                    
 0000034 010  NN1     Conclusion               X6+ T2- 
 0000036 010  PPH1    It                       Z8 
-0000036 020  VVZ     looks                    A6.1+[i18.2.1 A8 X3.4 X2.4 X7+ Z4 
-0000036 030  II      like                     A6.1+[i18.2.2 Z5 
+0000036 020  VVZ     looks                    A6.1+[i19.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000036 030  II      like                     A6.1+[i19.2.2 Z5 
 0000036 040  JJ      obstetrical              Z99 
 0000036 050  NN1     science                  Y1 
 0000036 060  VBZ     is                       Z5 A3+ 
@@ -702,8 +706,8 @@
 0000038 170  NP1     Stork                    Z3 
 0000038 171  ,       ,                        
 0000038 180  VVD     randomized               Z99 
-0000038 190  JJ      clinical                 Y1/X2.4[i19.2.1 B3 S1.2.1- 
-0000038 200  NN2     trials                   Y1/X2.4[i19.2.2 G2.1 X2.4 E6- A12- K5.1 
+0000038 190  JJ      clinical                 Y1/X2.4[i20.2.1 B3 S1.2.1- 
+0000038 200  NN2     trials                   Y1/X2.4[i20.2.2 G2.1 X2.4 E6- A12- K5.1 
 0000038 210  VM      will                     T1.1.3 
 0000038 220  VBI     be                       Z5 A3+ 
 0000038 230  VVN     required                 X7+ S6+ 
@@ -748,8 +752,8 @@
 0000040 320  JJ      artificial               A5.4- 
 0000040 330  NN2     beaks                    L2 G2.1/S2mf P1/S2mf% 
 0000040 340  VM      would                    A7+ 
-0000040 350  VHI     have                     S6+[i20.2.1 A9+ Z5 A2.2 S4 
-0000040 360  TO      to                       S6+[i20.2.2 Z5 
+0000040 350  VHI     have                     S6+[i21.2.1 A9+ Z5 A2.2 S4 
+0000040 360  TO      to                       S6+[i21.2.2 Z5 
 0000040 370  VBI     be                       Z5 A3+ 
 0000040 380  VVN     fitted                   N3.2/A5.1+ N3.2 A1.2+ M2 B2- 
 0000040 390  II      to                       Z5 
@@ -775,8 +779,8 @@
 0000040 530  VVZ     exists                   A3+ 
 0000040 540  TO      to                       Z5 
 0000040 550  VVI     conduct                  A1.1.1 S1.1.1 K2 O4.1 
-0000040 560  DA      such                     A13.3[i21.2.1 Z5 Z8 
-0000040 570  AT1     a                        A13.3[i21.2.2 Z5 
+0000040 560  DA      such                     A13.3[i22.2.1 Z5 Z8 
+0000040 570  AT1     a                        A13.3[i22.2.2 Z5 
 0000040 580  NN1     trial                    G2.1 X2.4 E6- A12- K5.1 
 0000040 581  .       .                        
 0000040 582  -----   -----                    
@@ -802,8 +806,8 @@
 0000044 030  NN2     agencies                 I2.2/S5+c G1.1c 
 0000044 040  VM      will                     T1.1.3 
 0000044 050  RR      never                    T1/Z6 
-0000044 060  VVI     step                     M1[i22.2.1 S1.1.1[i22.2.1 M1 S1.1.3+ 
-0000044 070  RL      forward                  M1[i22.2.2 S1.1.1[i22.2.2 M6 T1.1.3 
+0000044 060  VVI     step                     M1[i23.2.1 S1.1.1[i23.2.1 M1 S1.1.3+ 
+0000044 070  RL      forward                  M1[i23.2.2 S1.1.1[i23.2.2 M6 T1.1.3 
 0000044 080  IW      with                     Z5 
 0000044 090  AT      the                      Z5 
 0000044 100  NNO2    millions                 N1 N5+ I1 
@@ -811,8 +815,8 @@
 0000044 120  NNU2    dollars                  I1 
 0000044 130  JJ      required                 X7+ S6+ 
 0000044 140  IF      for                      Z5 
-0000044 150  DA      such                     A13.3[i23.2.1 Z5 Z8 
-0000044 160  AT1     a                        A13.3[i23.2.2 Z5 
+0000044 150  DA      such                     A13.3[i24.2.1 Z5 Z8 
+0000044 160  AT1     a                        A13.3[i24.2.2 Z5 
 0000044 170  NN1     trial                    G2.1 X2.4 E6- A12- K5.1 
 0000044 180  CSA     as                       Z5 
 0000044 190  RR      long                     T1.3+ 
@@ -844,9 +848,9 @@
 0000046 050  JJ      new                      T3- 
 0000046 060  JJ      epidemiological          Z99 
 0000046 070  NN1     evidence                 A5.2+ X2.2 G2.1 
-0000046 080  II31    in                       S8+[i24.3.1 Z5 
-0000046 090  II32    favor                    S8+[i24.3.2 
-0000046 100  II33    of                       S8+[i24.3.3 
+0000046 080  II31    in                       S8+[i25.3.1 Z5 
+0000046 090  II32    favor                    S8+[i25.3.2 
+0000046 100  II33    of                       S8+[i25.3.3 
 0000046 110  AT      the                      Z5 
 0000046 120  NN1     Theory                   X4.1 
 0000046 130  IO      of                       Z5 
@@ -870,8 +874,8 @@
 0000046 290  RR      However                  Z4 
 0000046 291  ,       ,                        
 0000046 300  CS      until                    Z5 
-0000046 310  JJ      clinical                 Y1/X2.4[i25.2.1 B3 S1.2.1- 
-0000046 320  NN2     trials                   Y1/X2.4[i25.2.2 G2.1 X2.4 E6- A12- K5.1 
+0000046 310  JJ      clinical                 Y1/X2.4[i26.2.1 B3 S1.2.1- 
+0000046 320  NN2     trials                   Y1/X2.4[i26.2.2 G2.1 X2.4 E6- A12- K5.1 
 0000046 330  VH0     have                     Z5 A9+ A2.2 S4 
 0000046 340  VBN     been                     Z5 A3+ 
 0000046 350  VVN     performed                A1.1.1 K4 X9.2+ 

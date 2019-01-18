@@ -1,4 +1,4 @@
-TOTAL              356
+TOTAL              357
 the                  Z5                  17 
 to                   Z5                  14 
 trump                Z1                  10 
@@ -49,7 +49,6 @@ out                  M6                   2
 people               S2                   2 
 see                  X3.4                 2 
 ***                  Z99                  2 
-its                  Z8                   2 
 Hillary_Clinton      Z1                   2 
 Bernie_supporter     Z3                   2 
 named                Q2.2                 2 
@@ -135,6 +134,8 @@ crapped              B1                   1
 on                   M6                   1 
 rest                 E3+                  1 
 world                W1                   1 
+it                   Z8                   1 
+'s                   A3+                  1 
 good                 A5.1+                1 
 even                 A13.1                1 
 hardcore             S5+                  1 
@@ -186,6 +187,7 @@ Hillary              Z99                  1
 best                 A5.1+++              1 
 produce              A2.2                 1 
 working_class        S5+                  1 
+its                  Z8                   1 
 disband              T2-                  1 
 party.               K1                   1 
 things               O2                   1 

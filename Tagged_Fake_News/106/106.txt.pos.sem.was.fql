@@ -1,4 +1,4 @@
-TOTAL              436
+TOTAL              444
 the                  Z5                  26 
 to                   Z5                  13 
 of                   Z5                  12 
@@ -8,10 +8,12 @@ and                  Z5                   8
 their                Z8                   7 
 at                   Z5                   7 
 for                  Z5                   6 
+'s                   Z5                   6 
 are                  Z5                   5 
 but                  Z5                   5 
 they                 Z8                   5 
 is                   A3+                  5 
+i                    Z8                   5 
 inauguration         T2+                  4 
 on                   Z5                   4 
 who                  Z8                   4 
@@ -19,24 +21,25 @@ liberals             G1.2                 4
 have                 Z5                   4 
 family               S4                   4 
 people               S2                   4 
-i                    Z8                   4 
+Evancho              Z99                  4 
+it                   Z8                   4 
 perform              A1.1.1               4 
 transgender          Z99                  4 
 hate                 E2-                  4 
 we                   Z8                   4 
 has                  Z5                   3 
 liberals             A1.7-                3 
+Jackie_Evancho       Z1                   3 
 american             Z2                   3 
 with                 Z5                   3 
 because_of           A2.2                 3 
 girl                 S2.1                 3 
-it                   Z8                   3 
 so                   Z5                   3 
 also                 N5++                 3 
 President-elect      G1.1                 2 
+Donald_trump         Z1                   2 
 not                  Z6                   2 
 many                 N5+                  2 
-Jackie_Evancho       Z1                   2 
 teenage              T3-                  2 
 singer               K2                   2 
 got                  A9+                  2 
@@ -44,6 +47,7 @@ talent               X9.1+                2
 sing                 K2                   2 
 national             Z3                   2 
 anthem               K2                   2 
+2011                 N1                   2 
 o                    Z5                   2 
 holy                 S9                   2 
 night                T1.3                 2 
@@ -55,9 +59,9 @@ part                 N5.1-                2
 be                   A3+                  2 
 even                 A13.1                2 
 asked                Q2.2                 2 
-Evancho              Z99                  2 
 has                  A9+                  2 
 are                  A3+                  2 
+n't                  Z6                   2 
 about                Z5                   2 
 a_lot                N5+                  2 
 get                  A9+                  2 
@@ -70,7 +74,6 @@ as                   Z5                   2
 young                T3-                  2 
 finding              A10+                 1 
 performer            K4                   1 
-Donald_trump         Z1                   1 
 been                 A3+                  1 
 easy                 A12+                 1 
 because              Z5                   1 
@@ -81,7 +84,7 @@ high                 N3.7+                1
 horses               L2                   1 
 opera                K2                   1 
 start                T2+                  1 
-Americas             Z2                   1 
+America              Z2                   1 
 agreed               A6.1+                1 
 attacked             E3-                  1 
 proud                E4.2+                1 
@@ -93,7 +96,6 @@ quadrupled           N3.2+                1
 thanks               S1.2.4+              1 
 via                  Z5                   1 
 Breitbart            Z99                  1 
-Evanchos_2011        Z2                   1 
 dream                X4.1                 1 
 me                   Z8                   1 
 album                K2                   1 
@@ -128,17 +130,15 @@ by                   Z5                   1
 swearing-in          Z99                  1 
 ceremony             S1.1.1               1 
 stated               Q2.1                 1 
-im                   Z99                  1 
+'m                   A3+                  1 
 so                   A13.3                1 
 excited              X5.2+                1 
-its                  Z8                   1 
 going_to             T1.1.3               1 
 awesome              O4.2+                1 
 at_least             A13.7                1 
 someone              Z8                   1 
 some                 N5                   1 
 of_course            Z4                   1 
-nt                   S9                   1 
 hold_back            S8-                  1 
 disdain              S7.2-                1 
 against              Z5                   1 
@@ -146,7 +146,6 @@ this                 Z8                   1
 particularly         A13.3                1 
 ironic               Q2.2                 1 
 details              A4.2+                1 
-Evanchos             Z99                  1 
 my                   Z8                   1 
 kind_of              Z4                   1 
 big                  N3.2+                1 
@@ -189,7 +188,6 @@ agrees               A6.1+                1
 political            G1.2                 1 
 views                X2.1                 1 
 16                   N1                   1 
-Jackie_Evanchos      Z1                   1 
 list                 Q1.2                 1 
 accomplishments      X9.2+                1 
 already              T1.1.1               1 
@@ -206,12 +204,9 @@ U.S._Billboard       Z1                   1
 ranked               A5.1                 1 
 1                    N1                   1 
 classical            T3+                  1 
-2011                 N1                   1 
 one                  N1                   1 
 few                  N5-                  1 
 scheduled            X7+                  1 
-Donald               Z1                   1 
-trumps               K5.2                 1 
 clearly              A7+                  1 
 ton                  N3.5                 1 
 radio_city           Z3                   1 
@@ -236,5 +231,5 @@ will                 T1.1.3               1
 direct               M6                   1 
 hatred               E2-                  1 
 anyone               Z8                   1 
-cant                 Q2.1                 1 
+ca                   A7+                  1 
 way                  X4.2                 1 

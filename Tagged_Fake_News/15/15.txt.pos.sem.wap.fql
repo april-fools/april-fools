@@ -1,5 +1,5 @@
-TOTAL              221
-i                    PPIS1          10 
+TOTAL              224
+i                    PPIS1          11 
 and                  CC              9 
 the                  AT              8 
 a                    AT1             7 
@@ -25,6 +25,7 @@ but                  CCB             2
 asked                VVD             2 
 him                  PPHO1           2 
 did                  VDD             2 
+take                 VVI             2 
 told                 VVD             2 
 my                   APPGE           2 
 not                  XX              2 
@@ -81,11 +82,9 @@ put                  VVI             1
 food                 NN1             1 
 wan                  VV0             1 
 na                   TO              1 
-take                 VVI             1 
 hit                  NN1             1 
 no                   RR              1 
-Ill                  NP1             1 
-take                 VV0             1 
+'ll                  VM              1 
 some                 DD              1 
 money                NN1             1 
 called               VVD             1 
@@ -105,11 +104,12 @@ statement            NN1             1
 saying               VVG             1 
 disrespect           VVI             1 
 woman                NN1             1 
-shes                 VVZ             1 
+she                  PPHS1           1 
+'s                   VBZ             1 
 god                  NN1             1 
 damn                 JJ              1 
 liar                 NN1             1 
-nt                   XX              1 
+n't                  XX              1 
 do                   VDI             1 
 drugs                NN2             1 
 business             NN1             1 
@@ -125,7 +125,8 @@ keep                 VV0             1
 taking               VVG             1 
 real                 JJ              1 
 american             JJ              1 
-peoples              NN2             1 
+people               NN              1 
+'s                   GE              1 
 jobs                 NN2             1 
 stop                 VVI             1 
 watch                NN1             1 

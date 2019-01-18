@@ -1,4 +1,4 @@
-TOTAL              212
+TOTAL              215
 the                  AT             12 
 of                   IO              8 
 was                  VBDZ            7 
@@ -6,6 +6,7 @@ a                    AT1             6
 that                 CST             5 
 Karlov               NP1             4 
 and                  CC              4 
+'s                   GE              4 
 in                   II              4 
 Kuntzman             NP1             3 
 on                   II              3 
@@ -16,12 +17,11 @@ assassination        NN1             2
 Andrei_Karlov        NP1             2 
 murder               NN1             2 
 at                   II              2 
-nt                   XX              2 
+n't                  XX              2 
 public               JJ              2 
 face                 NN1             2 
 to                   TO              2 
 Rath                 NP1             2 
-Hitlers              NP2             2 
 writer               NN1             1 
 NY_Daily             NP1             1 
 news                 NN1             1 
@@ -50,13 +50,12 @@ instead              RR              1
 noble                JJ              1 
 act                  NN1             1 
 as                   CSA             1 
-Vladimir             NP1             1 
-Putins               NP2             1 
+Vladimir_Putin       NP1             1 
 man                  NN1             1 
 Turkey               NP1             1 
 that                 DD1             1 
 murderous            JJ              1 
-dictators            NN2             1 
+dictator             NN1             1 
 war                  NN1             1 
 crimes               NN2             1 
 around               II              1 
@@ -115,17 +114,19 @@ France               NP1             1
 like                 II              1 
 atrocity             NN1             1 
 in_this_case         II              1 
-Adolf                NP1             1 
-genocide             VV0             1 
+Adolf_Hitler         NP1             1 
+genocide             NN1             1 
 anti-semitism        NN1             1 
 coming               VVG             1 
 global               JJ              1 
 aggression           NN1             1 
 wrote                VVD             1 
 comparing            VVG             1 
-Russias              NP2             1 
+Russia               NP1             1 
 role                 NN1             1 
 Syria                NP1             1 
+Hitler               NP1             1 
+'s                   VBZ             1 
 across               II              1 
 multiple             JJ              1 
 continents           NN2             1 

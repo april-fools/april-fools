@@ -8,4 +8,3 @@ screenwriter             NN1     Z99
 screenwriters            NN2     Z99 
 SEND2PRESS               FO      Z99 
 sex-starved              JJ      Z99 
-Sidestepping             NP1     Z99 

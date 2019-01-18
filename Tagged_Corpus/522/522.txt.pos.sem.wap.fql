@@ -1,15 +1,17 @@
-TOTAL              288
+TOTAL              293
 the                  AT             18 
 and                  CC             12 
+Microsoft            NP1             8 
 of                   IO              8 
-Microsoft            NP1             7 
+is                   VBZ             7 
 a                    AT1             7 
-is                   VBZ             6 
-blockchain           NN1             6 
+blockchain           NN1             7 
 to                   TO              5 
 to                   II              5 
 said                 VVD             5 
 consortium           NN1             4 
+that                 CST             4 
+r3                   FO              3 
 banks                NN2             3 
 technologies         NN2             3 
 from                 II              3 
@@ -17,8 +19,6 @@ bitcoin              NN1             3
 transactions         NN2             3 
 will                 VM              3 
 with                 IW              3 
-that                 CST             3 
-r3                   FO              2 
 underlying           JJ              2 
 currency             NN1             2 
 way                  NN1             2 
@@ -34,8 +34,8 @@ news                 NN1             2
 something            PN1             2 
 it                   PPH1            2 
 Johnson              NP1             2 
+'s                   GE              2 
 its                  APPGE           2 
-blockchain           VV0             2 
 service              NN1             2 
 at                   II              2 
 technology           NN1             2 
@@ -102,7 +102,7 @@ cuts                 VVZ             1
 clearing             JJ              1 
 houses               NN2             1 
 out_of               II21            1 
-thats                VVZ             1 
+'s                   VBZ             1 
 appealing            VVG             1 
 because              CS              1 
 promises             VVZ             1 
@@ -115,7 +115,6 @@ partnership          NN1             1
 could                VM              1 
 be                   VBI             1 
 boon                 NN1             1 
-Microsofts           NP2             1 
 partners             NN2             1 
 cloud                NN1             1 
 platform             NN1             1 
@@ -125,6 +124,7 @@ also                 RR              1
 have                 VH0             1 
 access               NN1             1 
 45                   MC              1 
+blockchain           VV0             1 
 as                   II              1 
 companies            NN2             1 
 work                 VV0             1 
@@ -134,7 +134,6 @@ offer                VVI             1
 dedicated            JJ              1 
 technical            JJ              1 
 support              NN1             1 
-r3s                  FO              1 
 labs                 NN2             1 
 announced            VVD             1 
 envision             VV0             1 
@@ -151,7 +150,8 @@ ceo                  NN1             1
 Dan_Schulman         NP1             1 
 not                  XX              1 
 necessarily          RR              1 
-were                 VBDR            1 
+we                   PPIS2           1 
+'re                  VBR             1 
 betting              VVG             1 
 on                   RP              1 
 even_though          CS21            1 
@@ -172,7 +172,7 @@ key                  NN1             1
 he                   PPHS1           1 
 tie                  VVI             1 
 into                 II              1 
-isnt                 VV0             1 
+n't                  XX              1 
 as                   RG              1 
 volatile             JJ              1 
 as                   CSA             1 

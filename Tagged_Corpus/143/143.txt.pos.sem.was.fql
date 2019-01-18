@@ -1,21 +1,21 @@
-TOTAL              433
+TOTAL              439
 the                  Z5                  23 
 a                    Z5                  15 
 and                  Z5                  14 
 to                   Z5                  13 
 in                   Z5                  11 
 apple                L3                   9 
+you                  Z8                   8 
 McIntosh             Z99                  7 
 is                   A3+                  7 
+we                   Z8                   6 
 of                   Z5                   6 
 skin                 B1                   6 
-we                   Z8                   5 
 with                 Z5                   5 
-youre                Z99                  4 
 it                   Z8                   4 
-you                  Z8                   4 
 if                   Z7                   4 
 that                 Z5                   3 
+'re                  A3+                  3 
 an                   Z5                   3 
 cultivar             Z99                  3 
 red                  O4.3                 3 
@@ -62,7 +62,7 @@ delicious            X3.1+                2
 instead              A6.1-                2 
 variety              A6.3+                2 
 slightly             A13.6                2 
-Weve                 Z99                  1 
+'ve                  Z5                   1 
 few                  N5-                  1 
 different            A6.1-                1 
 types                A4.1                 1 
@@ -106,7 +106,8 @@ extremely            A13.3                1
 common               A6.2+                1 
 find                 A10+                 1 
 packed               A1.1.1               1 
-childrens            S2                   1 
+children             S2                   1 
+'s                   Z5                   1 
 lunches              F1                   1 
 owing_to             A2.2                 1 
 medium               N3.2                 1 
@@ -230,6 +231,7 @@ crunchy              O4.5                 1
 snacks               F1                   1 
 have                 A9+                  1 
 banana               F1                   1 
+'re                  Z5                   1 
 looking_for          X2.4                 1 
 bake                 F1                   1 
 want                 X7+                  1 

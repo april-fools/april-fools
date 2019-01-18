@@ -13,7 +13,8 @@
 0000002 110  AT      the                      Z5 
 0000002 120  NN1     world                    W1 S5+c A4.1 N5+ 
 0000002 121  ,       ,                        
-0000002 130  NP2     Londons                  Z2 
+0000002 130  NP1     London                   Z2 
+0000002 131  GE      's                       Z5 
 0000002 140  NN1     Gherkin                  F1 L3 
 0000002 150  NN1     Tower                    Z2 Z3c 
 0000002 151  ,       ,                        

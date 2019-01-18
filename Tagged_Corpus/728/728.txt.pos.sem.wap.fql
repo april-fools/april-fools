@@ -1,4 +1,4 @@
-TOTAL              535
+TOTAL              547
 the                  AT             40 
 and                  CC             15 
 a                    AT1            14 
@@ -9,18 +9,18 @@ to                   TO              7
 with                 IW              7 
 for                  IF              7 
 movie                NN1             6 
+'s                   GE              6 
 sniper               NN1             6 
 from                 II              5 
 is                   VBZ             5 
 will                 VM              5 
+jewell               NN1             5 
 as                   II              5 
 film                 NN1             4 
 this                 DD1             4 
-after                II              4 
 awards               NN2             4 
 box_office           NN1             4 
 american             JJ              4 
-jewell               NN1             4 
 Hill                 NP1             4 
 be                   VBI             4 
 an                   AT1             3 
@@ -28,9 +28,13 @@ that                 CST             3
 Wall_Street          NP1             3 
 actors               NN2             3 
 on                   II              3 
+they                 PPHS2           3 
 as                   CSA             3 
+Eastwood             NP1             3 
 he                   PPHS1           3 
 at                   II              3 
+after                II              3 
+it                   PPH1            3 
 into                 II              3 
 who                  PNQS            3 
 get                  VVI             3 
@@ -45,7 +49,6 @@ wolf                 NN1             2
 Jonah_Hill           NP1             2 
 made                 VVD             2 
 such_a               DA              2 
-scorseses            NN2             2 
 them                 PPHO2           2 
 two                  MC              2 
 success              NN1             2 
@@ -56,7 +59,6 @@ saving               VVG             2
 olympic              JJ              2 
 people               NN              2 
 bomb                 NN1             2 
-it                   PPH1            2 
 hell                 NN1             2 
 being                VBG             2 
 terrorism            NN1             2 
@@ -72,7 +74,6 @@ to                   II              2
 but                  CCB             2 
 career               NN1             2 
 actor                NN1             2 
-Eastwood             NP1             2 
 season               VV0             2 
 eastwood             NN1             2 
 exclusive            JJ              1 
@@ -85,6 +86,7 @@ stars                NN2             1
 Leonardo_DiCaprio    NP1             1 
 charismatic          JJ              1 
 duo                  NN1             1 
+scorsese             NN              1 
 every                AT1             1 
 world-class          JJ              1 
 director             NN1             1 
@@ -97,7 +99,6 @@ so                   RG              1
 much                 DA1             1 
 working_together     VVG             1 
 that                 DD1             1 
-they                 PPHS2           1 
 came_on              VVD             1 
 board                RL22            1 
 producers            NN2             1 
@@ -106,14 +107,14 @@ in_order_to          II              1
 work_together        VVI             1 
 again                RT              1 
 now                  RT              1 
-theyre               NN1             1 
+'re                  VBR             1 
 trying               VVG             1 
 find                 VVI             1 
 someone              PN1             1 
 direct               VVI             1 
-Eastwoods            NP2             1 
+after                CS              1 
 goldmine             NN1             1 
-years                NNT2            1 
+year                 NNT1            1 
 seems                VVZ             1 
 like                 II              1 
 just                 RR              1 
@@ -150,7 +151,6 @@ planted              VVD             1
 compound             NN1             1 
 dicaprio             NN1             1 
 play                 VVI             1 
-jewells              NN2             1 
 friend               NN1             1 
 lawyer               NN1             1 
 helped               VVD             1 
@@ -182,7 +182,9 @@ acclaim              NN1             1
 coming_in            VVG             1 
 no                   AT              1 
 small                JJ              1 
-return               VV0             1 
+'                    GE              1 
+scorsese             JJ              1 
+return               NN1             1 
 classic              JJ              1 
 form                 NN1             1 
 New_York_times       NP1             1 
@@ -190,7 +192,8 @@ said                 VVD             1
 manic                JJ              1 
 tubby                JJ              1 
 Joe_Pesci            NP1             1 
-Mr._DiCaprios_Robert NNB             1 
+Mr._DiCaprio         NNB             1 
+Robert_De_Niro       NP1             1 
 role                 NN1             1 
 lackey               NN1             1 
 famously             RR              1 
@@ -203,11 +206,12 @@ cut                  VVN             1
 serious              JJ              1 
 depraved             VVN             1 
 stockbrokers         NN2             1 
-couldnt              NN1             1 
+could                VM              1 
+n't                  XX              1 
 further              JJR             1 
 heroic               JJ              1 
 figures              NN2             1 
-theyll               NN1             1 
+'ll                  VM              1 
 next                 MD              1 
 obvious              JJ              1 
 unafraid             VVD             1 
@@ -260,7 +264,7 @@ if                   CS              1
 deal                 NN1             1 
 can                  VM              1 
 worked_out           VVN             1 
-its                  APPGE           1 
+'s                   VBZ             1 
 likely               JJ              1 
 gig                  NN1             1 
 aside_from           II21            1 

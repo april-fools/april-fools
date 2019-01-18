@@ -1,4 +1,4 @@
-TOTAL              269
+TOTAL              275
 the                  AT             11 
 be                   VBI            10 
 would                VM             10 
@@ -8,10 +8,12 @@ and                  CC              6
 to                   II              6 
 a                    AT1             6 
 armed_forces         JJ              4 
+government           NN1             4 
 for                  IF              4 
 councils             NN2             4 
 is                   VBZ             3 
 under                II              3 
+'s                   GE              3 
 localism             NN1             3 
 by                   II              3 
 in                   II              3 
@@ -26,16 +28,15 @@ handed               VVN             2
 local_authorities    JJ              2 
 next                 MD              2 
 phase                NN1             2 
-governments          NN2             2 
 drive                NN1             2 
 on                   II              2 
 their                APPGE           2 
 plans                NN2             2 
 each                 DD1             2 
 military             JJ              2 
-government           NN1             2 
 able                 JK              2 
 allowed              VVN             2 
+'                    GE              2 
 areas                NN2             2 
 Michael              NP1             1 
 take                 VV0             1 
@@ -94,7 +95,7 @@ only                 RR              1
 sums                 NN2             1 
 less                 RRR             1 
 than                 CSN             1 
-prime_ministers      JJ              1 
+prime_minister       JJ              1 
 salary               NN1             1 
 housing              VVG             1 
 minister             NN1             1 
@@ -110,7 +111,8 @@ hectare              NNU1            1
 paid                 VVN             1 
 managed              VVD             1 
 conquer              VVI             1 
-anothers             NN2             1 
+another              DD1             1 
+'s                   VBZ             1 
 territory            NN1             1 
 localised            JJ              1 
 comprise             VVI             1 
@@ -133,7 +135,7 @@ county_councils      NN1             1
 form                 VVI             1 
 air                  NN1             1 
 power                NN1             1 
-consortia            NN2             1 
+consortia'           NN1             1 
 in_two               II              1 
 tier                 NN1             1 
 nuclear_weapons      JJ              1 
@@ -154,7 +156,7 @@ this                 DD1             1
 real                 JJ              1 
 i                    PPIS1           1 
 do                   VD0             1 
-nt                   XX              1 
+n't                  XX              1 
 want                 VVI             1 
 it                   PPH1            1 
 stop                 VVI             1 

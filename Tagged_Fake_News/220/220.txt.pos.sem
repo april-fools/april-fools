@@ -924,8 +924,9 @@
 0000074 120  NN2     Americans                Z2/S2mf 
 0000074 130  VV0     think                    X2.1 
 0000074 140  RR      so                       Z5 A13.3 
-0000075 010  NN2     Trumps                   K5.2 S7.1+ 
-0000075 020  VV0     vow                      Q2.2 
+0000075 010  NN1     Trump                    Z1mf 
+0000075 011  GE      's                       Z5 
+0000075 020  NN1     vow                      Q2.2 X6+ S9 
 0000075 030  TO      to                       Z5 
 0000075 040  VVI     undo                     A1.7- A1.1.1 
 0000075 050  NP1     Obama                    Z99 

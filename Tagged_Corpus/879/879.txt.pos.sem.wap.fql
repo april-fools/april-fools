@@ -1,4 +1,4 @@
-TOTAL              519
+TOTAL              527
 the                  AT             45 
 of                   IO             13 
 cigarettes           NN2            13 
@@ -6,9 +6,10 @@ a                    AT1            11
 in                   II             11 
 to                   TO             10 
 said                 VVD            10 
+'s                   GE              9 
+trade                NN1             8 
 on                   II              8 
 U.S.                 NP1             8 
-trade                NN1             7 
 and                  CC              7 
 for                  IF              6 
 it                   PPH1            5 
@@ -23,18 +24,18 @@ was                  VBDZ            4
 Indonesia            NP1             4 
 menthol              NN1             4 
 by                   II              4 
+tobacco              NN1             4 
 clove                NN1             4 
 would                VM              4 
+world                NN1             3 
 from                 II              3 
 smoking              NN1             3 
 office               NN1             3 
 public_health        JJ              3 
-tobacco              NN1             3 
 or                   CC              3 
 wto                  NN1             3 
 has                  VHZ             3 
 fda                  NN1             3 
-world                NN1             2 
 organization         NN1             2 
 Wednesday            NPD1            2 
 sale                 NN1             2 
@@ -46,7 +47,7 @@ be                   VBI             2
 sold                 VVN             2 
 this                 DD1             2 
 Harmon               NP1             2 
-representatives      NN2             2 
+representative       NN1             2 
 flavors              NN2             2 
 legislation          NN1             2 
 products             NN2             2 
@@ -101,7 +102,6 @@ landmark             NN1             1
 combat               VVI             1 
 crisis               NN1             1 
 caused               VVN             1 
-worlds               NN2             1 
 top                  JJ              1 
 producer             NN1             1 
 source               NN1             1 
@@ -115,8 +115,7 @@ April_2010           NPM1            1
 passed               VVD             1 
 during               II              1 
 President            NNB             1 
-Barack               NP1             1 
-obamas               NN2             1 
+Barack_Obama         NP1             1 
 first_year           MD              1 
 banning              VVG             1 
 production           NN1             1 
@@ -137,14 +136,13 @@ kids                 NN2             1
 wrongly              RR              1 
 concluded            VVN             1 
 best                 RRT             1 
-Americas             NP2             1 
+America              NP1             1 
 flavored             JJ              1 
 serve                VV0             1 
 starter              NN1             1 
 youth                NN1             1 
 violates             VVZ             1 
-nations              NN2             1 
-trade                VV0             1 
+nation               NN1             1 
 obligations          NN2             1 
 a                    ZZ1             1 
 California           NP1             1 
@@ -166,13 +164,12 @@ vowed                VVD             1
 remain               VVI             1 
 i                    PPIS1           1 
 believe              VV0             1 
-WTOs                 NP2             1 
+WTO                  NP1             1 
 interpretation       NN1             1 
 merits               NN2             1 
 interference         NN1             1 
 our                  APPGE           1 
 public               NN1             1 
-tobaccos             NN2             1 
 devastating          JJ              1 
 effects              NN2             1 
 representative       JJ              1 
@@ -224,7 +221,7 @@ had                  VHN             1
 enough               DD              1 
 determine            VVI             1 
 implement            VVI             1 
-committees           NN2             1 
+committee            NN1             1 
 recommendation       NN1             1 
 act                  VVI             1 
 that                 DD1             1 

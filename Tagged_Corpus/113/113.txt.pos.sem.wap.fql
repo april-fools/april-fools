@@ -1,14 +1,14 @@
-TOTAL              207
-apple                NN1             6 
+TOTAL              209
+apple                NN1             8 
 to                   TO              6 
 and                  CC              6 
+'s                   GE              5 
 Mac                  NP1             5 
 users                NN2             5 
 that                 CST             5 
 the                  AT              5 
 a                    AT1             4 
 operating_system     NN1             4 
-'s                   GE              3 
 jobs                 NN2             3 
 has                  VHZ             3 
 Windows_Vista        NP1             3 
@@ -24,7 +24,6 @@ windows              NN2             2
 added                VVD             2 
 running              VVG             2 
 it                   PPH1            2 
-apples               NN2             2 
 we                   PPIS2           2 
 to                   II              2 
 would                VM              2 

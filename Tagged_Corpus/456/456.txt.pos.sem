@@ -19,7 +19,8 @@
 0000002 170  II      by                       Z5 
 0000002 180  VVG     offering                 A9- Q2.2 
 0000002 190  AT      the                      Z5 
-0000002 200  NN2     worlds                   W1 S5+c A4.1 N5+ 
+0000002 200  NN1     world                    W1 S5+c A4.1 N5+ 
+0000002 201  GE      's                       Z5 
 0000002 210  MD      first                    N4 
 0000002 220  NN1     cruise                   M4 G3% 
 0000002 230  NN1     experience               X2.2+ X9.1+ I3.2 A2.1+/A3+ X3 
@@ -126,8 +127,9 @@
 0000008 120  NN1     space                    N3.6 W1 T1.3 Q1.2 
 0000008 130  NN2     views                    X2.1 X3.4 
 0000008 140  II      through                  Z5 
-0000008 150  FO      Two70s                   Z99 
-0000008 160  NN1     multi-deck               Z99 
+0000008 150  FO      Two70                    Z99 
+0000008 151  VBZ     's                       A3+ Z5 
+0000008 160  JJ      multi-deck               Z99 
 0000008 161  ,       ,                        
 0000008 170  JJ      floor-to-ceiling         Z99 
 0000008 180  NN1     glass                    O1.1 O2 
@@ -247,8 +249,9 @@
 0000014 130  NN1     fleet                    M4c M3c 
 0000014 140  CC      and                      Z5 
 0000014 150  PPIS2   we                       Z8 
-0000014 160  JJ      cant                     Q2.1 Z1mf Z1 
-0000014 170  NN1@    wait                     T1.3 
+0000014 160  VM      ca                       A7+ 
+0000014 161  XX      n't                      Z6 
+0000014 170  VVI     wait                     T1.3 A3+ A11.1+ S1.1.1% 
 0000014 180  IF      for                      Z5 
 0000014 190  NN1     take-off                 X9.2+ M5 M2 
 0000014 191  .       .                        
@@ -329,7 +332,8 @@
 0000020 111  :       :                        
 0000020 112  NULL    <quote>                  
 0000020 113  -----   -----                    
-0000020 120  APPGE   Its                      Z8 
+0000020 120  PPH1    It                       Z8 
+0000020 121  VHZ     's                       Z5 A9+ A2.2 
 0000020 130  VBN     been                     A3+ Z5 
 0000020 140  AT1     a                        Z5 
 0000020 150  JJ      busy                     A1.1.1/N5+ 
@@ -384,7 +388,8 @@
 0000021 001  NULL    </quote>                 
 0000022 001  NULL    <quote>                  
 0000022 002  -----   -----                    
-0000022 010  VBDR    Were                     A3+ Z5 
+0000022 010  PPIS2   We                       Z8 
+0000022 011  VBR     're                      A3+ Z5 
 0000022 020  JJ      delighted                E4.1+ 
 0000022 030  TO      to                       Z5 
 0000022 040  VVI     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 

@@ -1,4 +1,4 @@
-TOTAL              394
+TOTAL              397
 the                  Z5                  26 
 a                    Z5                  13 
 of                   Z5                  13 
@@ -19,6 +19,7 @@ aquarium             L2                   3
 i                    Z8                   3 
 who                  Z8                   3 
 Kung                 Z99                  3 
+'s                   Z5                   3 
 or                   Z5                   3 
 no                   Z6                   3 
 city                 M7                   2 
@@ -135,8 +136,8 @@ assured              A7+                  1
 him                  Z8                   1 
 able                 X9.1+                1 
 deliver              M2                   1 
-parks                M7                   1 
-star                 Q1.2                 1 
+park                 M7                   1 
+star                 W1                   1 
 in_time              N3.8                 1 
 March_2017           T1.3                 1 
 grand                O4.2+                1 
@@ -145,19 +146,19 @@ of_course            Z4                   1
 Loch_Ness            Z2                   1 
 join                 A2.2                 1 
 ranks                S7.1+                1 
-worlds               W1                   1 
+world                W1                   1 
 most                 A13.2                1 
 sought-after         Z99                  1 
 attractions          O4.2+                1 
 such_as              Z5                   1 
-Kona                 Z99                  1 
-Hawaiis              Z2                   1 
+Kona_Hawaii          Z1                   1 
 famous               X2.2+                1 
 scenic               O4.2+                1 
 urinal               H5                   1 
 ruins                A1.1.2               1 
 Chernobyl            Z2                   1 
-its                  Z8                   1 
+it                   Z8                   1 
+'s                   A3+                  1 
 extremely            A13.3                1 
 important            A11.1+               1 
 consider             X2.1                 1 

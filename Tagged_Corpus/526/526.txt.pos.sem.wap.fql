@@ -1,14 +1,15 @@
-TOTAL              564
+TOTAL              568
 the                  AT             45 
 and                  CC             20 
 of                   IO             17 
+China                NP1            15 
 is                   VBZ            14 
 chinese              JJ             12 
-China                NP1            12 
 to                   TO             11 
 in                   II             10 
 a                    AT1            10 
 to                   II              9 
+'s                   GE              8 
 that                 CST             8 
 it                   PPH1            8 
 United_States        NP1             6 
@@ -18,12 +19,12 @@ for                  IF              5
 U.S.                 NP1             5 
 Beijing              NP1             4 
 Washington           NP1             4 
+world                NN1             4 
 from                 II              4 
 policy               NN1             4 
 at                   II              4 
 as                   CSA             4 
 many                 DA2             4 
-world                NN1             3 
 has                  VHZ             3 
 views                VVZ             3 
 as                   II              3 
@@ -36,7 +37,6 @@ international        JJ              3
 studies              NN2             3 
 Wang                 NP1             3 
 foreign              JJ              3 
-'s                   GE              3 
 u.s.-china           JJ              2 
 be                   VBI             2 
 most                 RGT             2 
@@ -49,7 +49,6 @@ domestic             JJ              2
 continue             VV0             2 
 according_to         II21            2 
 economic             JJ              2 
-Chinas               NP2             2 
 country              NN1             2 
 this                 DD1             2 
 Peking_university    NP1             2 
@@ -72,8 +71,7 @@ both                 RR              1
 consider             VV0             1 
 relationship         NN1             1 
 important            JJ              1 
-each                 DD1             1 
-others               NN2             1 
+each_other           PPX221          1 
 long_term            JJ              1 
 intentions           NN2             1 
 grown                VVN             1 
@@ -115,7 +113,6 @@ disrupt              VVI             1
 growth               NN1             1 
 point                NN1             1 
 becoming             VVG             1 
-worlds               NN2             1 
 powerful             JJ              1 
 Wang_Jisi            NP1             1 
 co-author            NN1             1 
@@ -257,7 +254,6 @@ notion               NN1             1
 among                II              1 
 national             JJ              1 
 leaders              NN2             1 
-chinas               NN2             1 
 development          NN1             1 
 provides             VVZ             1 
 alternative          NN1             1 

@@ -1,4 +1,4 @@
-TOTAL              389
+TOTAL              392
 the                  Z5                  20 
 in                   Z5                  12 
 to                   Z5                  11 
@@ -20,10 +20,12 @@ case                 A4.1                 3
 who                  Z8                   3 
 but                  Z5                   3 
 she                  Z8                   3 
+judge                G2.1                 3 
 our                  Z8                   3 
 that                 Z8                   3 
 no                   Z6                   3 
 house                H1                   3 
+there                Z5                   3 
 FBI                  Z99                  2 
 local                M7                   2 
 police               G2.1                 2 
@@ -34,6 +36,7 @@ dead                 L1-                  2
 were                 Z5                   2 
 him                  Z8                   2 
 for                  Z5                   2 
+'s                   Z5                   2 
 family               S4                   2 
 very                 A13.3                2 
 investigation        X2.4                 2 
@@ -44,7 +47,6 @@ name                 Q2.2                 2
 Richard_Allen_Claybrook Z1                   2 
 died                 L1-                  2 
 son                  S4                   2 
-judge                G2.1                 2 
 he                   Z8                   2 
 retired              I3.1-                2 
 Harrisonburg         Z99                  2 
@@ -59,10 +61,10 @@ not                  Z6                   2
 have                 Z5                   2 
 republicans          G1.2                 2 
 call                 Q2.2                 2 
+'s                   A3+                  2 
 proof                A5.2+                2 
 elections            G1.2                 2 
 cast                 K4                   2 
-there                Z5                   2 
 evidence             A5.2+                2 
 RICHMOND             Z2                   1 
 investigating        X2.4                 1 
@@ -84,7 +86,7 @@ note                 Q1.2                 1
 congratulating       Q2.2                 1 
 registering          Q1.2                 1 
 Rockingham_county    Z2                   1 
-commonwealths        S5+                  1 
+commonwealth         S5+                  1 
 attorney             G2.1                 1 
 Marsha_Garst         Z1                   1 
 Thursday             T1.3                 1 
@@ -121,7 +123,6 @@ age                  T3                   1
 well-known           X2.2+                1 
 happened_to          A1.4                 1 
 recall               X2.2+                1 
-judges               G2.1                 1 
 father               S4                   1 
 Fairfax_county       Z2                   1 
 elementary_school    P1                   1 
@@ -151,7 +152,7 @@ view                 X4.1                 1
 graphic              C1                   1 
 amid                 Z5                   1 
 fight                S8-                  1 
-misleading           A5.2-                1 
+misleading'          Z99                  1 
 mailings             Q1.2                 1 
 begin                T2+                  1 
 battleground         G3                   1 
@@ -167,8 +168,7 @@ campus               M7                   1
 James_Madison        Z1                   1 
 university           P1                   1 
 according_to         Z5                   1 
-registrars           B3                   1 
-office               I2.1                 1 
+registrar_'s_office  G1.1                 1 
 identified           X2.2+                1 
 charges              I1.3                 1 
 filed                Q1.2                 1 
@@ -189,11 +189,11 @@ democratic           G1.2                 1
 colleagues           I3.2                 1 
 suggest              Q2.2                 1 
 does                 Z5                   1 
-nt                   S9                   1 
+n't                  Z6                   1 
 exist                A3+                  1 
 Virginia             Z2                   1 
 or                   Z5                   1 
-its                  Z8                   1 
+it                   Z8                   1 
 myth                 S9                   1 
 speaker              Q2.1                 1 
 William_J._Howell    Z1                   1 
@@ -215,7 +215,6 @@ first_of_all         N4                   1
 caught               A9+                  1 
 Toscano              Z99                  1 
 nobody               Z8                   1 
-Theres               Z5                   1 
 still                T2++                 1 
 going                M1                   1 
 on                   M6                   1 

@@ -1,4 +1,4 @@
-TOTAL              151
+TOTAL              152
 the                  AT              9 
 with                 IW              6 
 at                   II              6 
@@ -17,7 +17,6 @@ ever                 RR              2
 scouting             VVG             2 
 girls                NN2             2 
 top                  NN1             2 
-of                   IO              2 
 UK                   NP1             2 
 number_one           NN1             2 
 which                DDQ             2 
@@ -32,6 +31,7 @@ topper               NN1             1
 have                 VH0             1 
 knocked              VVN             1 
 off                  II              1 
+of                   IO              1 
 singles              VVZ             1 
 single               JJ              1 
 shot                 VVD             1 
@@ -39,8 +39,9 @@ straight             RR              1
 to                   II              1 
 this                 DD1             1 
 ai                   FU              1 
-nt                   XX              1 
-love_song            NN1             1 
+n't                  XX              1 
+love                 NN1             1 
+Song'                NP1             1 
 lifted               VVN             1 
 forthcoming          JJ              1 
 everybody            PN1             1 
@@ -48,11 +49,11 @@ wants                VVZ             1
 to                   TO              1 
 be                   VBI             1 
 on                   II              1 
-tv                   NN1             1 
+TV'                  NP1             1 
 had_to               VHD             1 
 settle               VVI             1 
 number_two           NN1             1 
-telephone            NN1             1 
+Telephone'           NP1             1 
 plan                 VV0             1 
 b                    ZZ1             1 
 scored               VVD             1 
@@ -60,7 +61,7 @@ highest              JJT             1
 release              NN1             1 
 single               NN1             1 
 she                  PPHS1           1 
-said                 VVD             1 
+said'                VV0             1 
 went_straight        VVD             1 
 in                   RP              1 
 number               NN1             1 
@@ -74,20 +75,21 @@ Boyzone              NP1             1
 remain               VV0             1 
 consecutive          JJ              1 
 week                 NNT1            1 
-brother              NN1             1 
+Brother'             NP1             1 
 ahead_of             II21            1 
 Lady_Gagas           NNB             1 
-fame                 NN1             1 
+Fame'                NP1             1 
 free                 JJ              1 
 bad                  JJ              1 
 companys             NN2             1 
 very                 RG              1 
+of'                  II              1 
 entry                NN1             1 
 10                   MC              1 
 Madonnas             NP2             1 
 sticky               JJ              1 
 sweet                JJ              1 
-Tour                 NP1             1 
+tour'                JJ              1 
 live                 JJ              1 
 17                   MC              1 
 and                  CC              1 

@@ -1,4 +1,4 @@
-TOTAL              411
+TOTAL              418
 the                  AT             25 
 of                   IO             10 
 ISIS                 NP1             9 
@@ -8,8 +8,9 @@ in                   II              8
 and                  CC              8 
 is                   VBZ             7 
 his                  APPGE           7 
-its                  APPGE           7 
+it                   PPH1            7 
 evidence             NN1             6 
+'s                   VBZ             6 
 to                   TO              5 
 Erdogan              NP1             5 
 they                 PPHS2           5 
@@ -18,10 +19,11 @@ said                 VVD             4
 we                   PPIS2           4 
 Turkey               NP1             3 
 supporting           VVG             3 
-s                    VBZ             3 
+'s                   VHZ             3 
 for                  IF              3 
 our                  APPGE           3 
 or                   CC              3 
+Obama                NP1             3 
 terrorist            JJ              3 
 provide              VVI             3 
 have                 VH0             3 
@@ -65,7 +67,6 @@ on                   II              2
 proof                NN1             2 
 be                   VBI             2 
 would                VM              2 
-Obama                NP1             2 
 Recep_Tayyip_Erdogan NP1             1 
 once_again           RR21            1 
 making               VVG             1 
@@ -107,7 +108,7 @@ upon                 II              1
 arming               VVG             1 
 training             NN1             1 
 financing            VVG             1 
-obamas               NN2             1 
+'s                   GE              1 
 allies               NN2             1 
 an                   AT1             1 
 acknowledgment       NN1             1 
@@ -172,7 +173,7 @@ not                  XX              1
 keeping              VVG             1 
 promises             NN2             1 
 whether              CSW             1 
-nt                   XX              1 
+n't                  XX              1 
 will                 VM              1 
 continue             VVI             1 
 along                RP              1 
@@ -205,6 +206,7 @@ alleging             VVG             1
 west                 ND1             1 
 stands_by            VVZ             1 
 right_now            RR              1 
+its                  APPGE           1 
 weapons              NN2             1 
 western-made         JJ              1 
 at_the_time          II              1 
@@ -217,7 +219,6 @@ time                 NNT1            1
 around               RP              1 
 if                   CS              1 
 show                 VV0             1 
-it                   PPH1            1 
 certainly            RR              1 
 none                 PN              1 
 surprised            JJ              1 

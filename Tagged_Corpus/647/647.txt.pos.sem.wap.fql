@@ -1,13 +1,13 @@
-TOTAL              170
+TOTAL              172
 the                  AT             15 
 and                  CC              7 
 to                   TO              6 
 in                   II              6 
 a                    AT1             4 
 country              NN1             4 
+JAPAN                NP1             3 
 it                   PPH1            3 
 of                   IO              3 
-JAPAN                NP1             2 
 quake                NN1             2 
 magnitude            NN1             2 
 9.0                  MC              2 
@@ -34,6 +34,7 @@ to                   II              2
 red_cross            JJ              2 
 aid                  VVI             2 
 efforts              NN2             2 
+'s                   GE              2 
 disaster             NN1             2 
 AFP/Getty            NP1             1 
 images               NN2             1 
@@ -48,7 +49,6 @@ said                 VVD             1
 Monday               NPD1            1 
 aftermath            NN1             1 
 sparked              VVD             1 
-Japans               NP2             1 
 biggest              JJT             1 
 humanitarian         JJ              1 
 crisis               NN1             1 
@@ -61,7 +61,7 @@ $300m                NNU             1
 damages              NN2             1 
 ranking              VVG             1 
 among                II              1 
-worlds               NN2             1 
+world                NN1             1 
 costliest            JJT             1 
 natural              JJ              1 
 disasters            NN2             1 

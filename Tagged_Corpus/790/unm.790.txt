@@ -2,15 +2,12 @@ Adil                     NP1     Z99
 al-Fadhil                NP1     Z99 
 al-Mashhadani            JJ      Z99 
 al-Mashhadani            NN1     Z99 
-Al-Mashhadanis           JJ      Z99 
 Capt                     NN1     Z99 
 Fadhil                   NN1@    Z99 
 Fadhil                   NP1     Z99 
 Fadhil                   NP1@    Z99 
 Fadhil                   VV0     Z99 
-Fadhils                  NN2     Z99 
 Fallujah                 NP1     Z99 
-havent                   VV0     Z99 
 IA                       NP1     Z99 
 Lt.                      NNB     Z99 
 mahallas                 NN2     Z99 

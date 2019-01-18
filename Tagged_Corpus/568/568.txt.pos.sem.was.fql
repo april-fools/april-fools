@@ -1,4 +1,4 @@
-TOTAL              921
+TOTAL              925
 and                  Z5                  50 
 the                  Z5                  49 
 a                    Z5                  23 
@@ -15,6 +15,7 @@ with                 Z5                   8
 on                   Z5                   7 
 what                 Z8                   7 
 they                 Z8                   6 
+n't                  Z6                   6 
 his                  Z8                   6 
 for                  Z5                   6 
 programme            X7+                  5 
@@ -30,9 +31,10 @@ gove                 Z99                  4
 as                   Z5                   4 
 political            G1.2                 4 
 new                  T3-                  4 
-n't                  Z6                   4 
 is                   Z5                   4 
 now                  T1.1.2               4 
+Farage               Z99                  4 
+'s                   Z5                   4 
 who                  Z8                   4 
 black                O4.3                 4 
 all                  N5.1+                4 
@@ -53,9 +55,9 @@ party                K1                   3
 by                   Z5                   3 
 female               S2.1                 3 
 did                  Z5                   3 
+women                S2.1                 3 
 people               S2                   3 
 had                  Z5                   3 
-Farage               Z99                  3 
 ukip                 Z99                  3 
 leader               S7.1+                3 
 about                Z5                   3 
@@ -91,13 +93,10 @@ seem                 A8                   2
 heard                X3.2                 2 
 these_days           T1.1.2               2 
 young                T3-                  2 
-women                S2.1                 2 
 sturgeon             L2                   2 
 most                 A13.2                2 
 as                   A13                  2 
 man                  S2.2                 2 
-'s                   Z5                   2 
-authenticity         A5.4+                2 
 just                 A14                  2 
 once                 N6-                  2 
 clever               X9.1+                2 
@@ -291,13 +290,13 @@ instead_of           A6.1-                1
 mistress             S7.1+                1 
 ran_off              M1                   1 
 regretting           E4.1-                1 
-cant                 Q2.1                 1 
+ca                   A7+                  1 
 approved             S7.4+                1 
-Farages              Z99                  1 
 disgraceful          G2.2-                1 
 remarks              Q2.2                 1 
 HIV                  B2-                  1 
 foreigners           Z2                   1 
+'                    Z5                   1 
 come                 M1                   1 
 health               B2                   1 
 tourists             M1                   1 
@@ -337,7 +336,6 @@ invisibility         Z99                  1
 talent               X9.1+                1 
 persistent           T2++                 1 
 block                O2                   1 
-womens               S2.1                 1 
 advancement          A5.1+                1 
 chap                 S2.2                 1 
 winner               X9.2+                1 
@@ -362,8 +360,10 @@ mannerisms           S1.2                 1
 straight-talking_style Z99                  1 
 special              A4.2+                1 
 cult                 S9                   1 
+authenticity'        Z99                  1 
 works                I3.1                 1 
 book                 Q4.1                 1 
+authenticity         A5.4+                1 
 con                  G2.2-                1 
 cultural             C1                   1 
 critic               Q2.2                 1 
@@ -380,7 +380,7 @@ thinking             X2.1                 1
 been                 A3+                  1 
 that_little_bit      A13.6                1 
 someone              Z8                   1 
-authentic            A5.4+                1 
+authentic'           Z99                  1 
 enough               N5+                  1 
 convince             A7+                  1 
 many                 N5+                  1 
@@ -459,7 +459,6 @@ complained           Q2.2                 1
 tone                 E1                   1 
 attitude             X2.1                 1 
 do                   Z5                   1 
-nt                   S9                   1 
 almost               A13.4                1 
 primitive            T3+                  1 
 hatred               E2-                  1 

@@ -1,4 +1,4 @@
-TOTAL              948
+TOTAL              960
 the                  AT             76 
 that                 CST            25 
 in                   II             23 
@@ -7,8 +7,9 @@ and                  CC             20
 a                    AT1            17 
 to                   TO             14 
 of                   IO             13 
-it                   PPH1           12 
+it                   PPH1           13 
 said                 VVD            11 
+'s                   GE             10 
 by                   II             10 
 has                  VHZ            10 
 rendition            NN1            10 
@@ -17,30 +18,30 @@ british              JJ              9
 to                   II              8 
 with                 IW              8 
 about                II              7 
+CIA                  NP1             7 
 programme            NN1             7 
+mi6                  FO              7 
 legal                JJ              7 
 not                  XX              7 
-mi6                  FO              6 
+government           NN1             7 
+Mr_Blair             NNB             6 
 were                 VBDR            6 
 be                   VBI             6 
 this                 DD1             6 
 for                  IF              6 
+Mr_Belhadj           NNB             6 
 he                   PPHS1           6 
 knew                 VVD             5 
 secret               JJ              5 
-Mr_Blair             NNB             5 
+source               NN1             5 
 on                   II              5 
 at                   II              5 
 no                   AT              5 
 that                 DD1             5 
 had                  VHD             5 
 been                 VBN             5 
-Mr_Belhadj           NNB             5 
 is                   VBZ             5 
-government           NN1             5 
 security             NN1             4 
-source               NN1             4 
-CIA                  NP1             4 
 politicians          NN2             4 
 they                 PPHS2           4 
 what                 DDQ             4 
@@ -48,9 +49,7 @@ but                  CCB             4
 claims               NN2             4 
 case                 NN1             4 
 Mr_Straw             NNB             4 
-its                  APPGE           4 
 report               NN1             4 
-CIAs                 NP2             3 
 telegraph            NN1             3 
 now                  RT              3 
 over                 II              3 
@@ -63,6 +62,7 @@ from                 II              3
 senior               JJ              3 
 investigation        NN1             3 
 never                RR              3 
+its                  APPGE           3 
 role                 NN1             3 
 are                  VBR             3 
 courts               NN2             3 
@@ -78,7 +78,6 @@ briefed              VVN             2
 administration       NN1             2 
 opinions             NN2             2 
 such_as              II21            2 
-interest             NN1             2 
 everything           PN1             2 
 americans            NN2             2 
 could                VM              2 
@@ -100,7 +99,6 @@ police               NN2             2
 have                 VH0             2 
 interviewed          VVN             2 
 as                   II              2 
-sources              NN2             2 
 made                 VVN             2 
 political            JJ              2 
 decision             NN1             2 
@@ -110,7 +108,6 @@ approval             NN1             2
 services             NN2             2 
 alone                RR              2 
 sis                  NN1             2 
-clear                JJ              2 
 would                VM              2 
 just                 RR              2 
 or                   CC              2 
@@ -120,12 +117,11 @@ declassify           VVI             2
 into                 II              2 
 experts              NN2             2 
 an                   AT1             2 
-truth                NN1             2 
 i                    PPIS1           2 
+claim                NN1             2 
 hear                 VVI             2 
 seriously            RR              2 
 Obama                NP1             2 
-governments          NN2             2 
 UK                   NP1             2 
 my                   APPGE           2 
 to_do_with           TO              2 
@@ -156,12 +152,13 @@ positions            NN2             1
 took                 VVD             1 
 very                 RG              1 
 active               JJ              1 
+interest             NN1             1 
 indeed               RR              1 
 wanted               VVD             1 
 know                 VVI             1 
 passed               VVN             1 
 saying               VVG             1 
-'legal               JJ              1 
+'legal'              VV0             1 
 our                  APPGE           1 
 aware                JJ              1 
 going_on             VVG             1 
@@ -171,7 +168,7 @@ m16                  FO              1
 'stop                NN1             1 
 do                   VD0             1 
 get                  VVI             1 
-involved             VVN             1 
+involved'            NN1             1 
 time                 NNT1            1 
 did                  VDD             1 
 direct               JJ              1 
@@ -228,6 +225,7 @@ served               VVD             1
 at_the_time          II              1 
 part                 NN1             1 
 known                VVN             1 
+sources              NN2             1 
 indicated            VVN             1 
 also                 RR              1 
 echo                 VV0             1 
@@ -237,7 +235,6 @@ Sir_Richard_Dearlove NNB             1
 1999_to_2004         MC              1 
 speech               NN1             1 
 2012                 MC              1 
-mi6s                 FO              1 
 cooperation          NN1             1 
 absolutely           RR              1 
 Dearlove             NP1             1 
@@ -260,6 +257,8 @@ understanding        NN1             1
 intelligence_service NN1             1 
 acting               VVG             1 
 'national            JJ              1 
+interest'            NN1             1 
+clear                JJ              1 
 rogue                NN1             1 
 organisation         NN1             1 
 do                   VDI             1 
@@ -326,6 +325,7 @@ determined           VVN             1
 pursue               VVI             1 
 through              II              1 
 apology              NN1             1 
+truth                NN1             1 
 happened_to          VVD             1 
 figures              NN2             1 
 when                 CS              1 
@@ -336,10 +336,9 @@ gaddafi              NN1             1
 facing               VVG             1 
 hands                NN2             1 
 of_my_own            IO              1 
-countrys             NN2             1 
+country              NN1             1 
 phone                NN1             1 
 referring            VVG             1 
-Mr_Blairs            NNB             1 
 meeting              NN1             1 
 leader               NN1             1 
 March_2004           NPM1            1 
@@ -349,14 +348,12 @@ played               VVD             1
 vital                JJ              1 
 war                  NN1             1 
 terror               NN1             1 
-Mr_Belhadjs          NNB             1 
 thrown_out           VVN             1 
 last_December        MD              1 
 high_court           JJ              1 
 judge                NN1             1 
 acknowledged         VVD             1 
 well-founded         JJ              1 
-claim                NN1             1 
 declined             VVD             1 
 citing               VVG             1 
 arguments            NN2             1 
@@ -372,7 +369,6 @@ other                JJ              1
 countries            NN2             1 
 however              RR              1 
 undermines           VVZ             1 
-claim                VV0             1 
 all                  DB              1 
 information          NN1             1 
 relating             VVG             1 
@@ -410,9 +406,11 @@ for_fear_of          II31            1
 upsetting            VVG             1 
 actually             RR              1 
 pretext              NN1             1 
+'s                   VBZ             1 
 going_to             VVGK            1 
 make_it              VVI             1 
-attempt              VV0             1 
+clear                VVI             1 
+attempt              NN1             1 
 cover_up             VVI             1 
 abuse                NN1             1 
 suffered             VVD             1 
@@ -428,8 +426,10 @@ comment              NN1             1
 told                 VVD             1 
 house_of_Commons     NN1             1 
 simply               RR              1 
+truth'               NN1             1 
 involved             JJ              1 
 branding             VVG             1 
 them                 PPHO2           1 
 conspiracy           NN1             1 
 theories             NN2             1 
+'                    GE              1 

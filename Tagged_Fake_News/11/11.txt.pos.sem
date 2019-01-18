@@ -11,6 +11,7 @@
 0000002 080  NP1     Clinton                  Z1mf 
 0000002 090  VVD     Threatened               E3-/Q2.2 A15- X2.6+/O4.2- A7+ 
 0000002 100  NP1     Sanders                  Z99 
+0000002 101  GE      '                        Z5 
 0000002 110  NN1     Wife                     S4f 
 0000003 010  NP1     Putin                    Z99 
 0000003 011  :       :                        
@@ -21,6 +22,7 @@
 0000003 060  NP1     Clinton                  Z1mf 
 0000003 070  VVD     Threatened               E3-/Q2.2 A15- X2.6+/O4.2- A7+ 
 0000003 080  NP1     Sanders                  Z99 
+0000003 081  GE      '                        Z5 
 0000003 090  NN1     Wife                     S4f 
 0000004 010  VVN     Posted                   Q1.2 M2 I3.1 
 0000004 020  II      on                       Z5 
@@ -301,7 +303,8 @@
 0000020 290  VH0     have                     A9+ Z5 A2.2 S4 
 0000020 300  NN2     copies                   A5.4- Q4.1 Q4.2 Q1.2 
 0000020 310  IO      of                       Z5 
-0000020 320  NP2     Hillarys                 Z99 
+0000020 320  NP1     Hillary                  Z99 
+0000020 321  GE      's                       Z5 
 0000020 330  NN2     emails                   Q1.3/Y2 
 0000020 331  .       .                        
 0000020 332  -----   -----                    
@@ -439,21 +442,24 @@
 0000026 140  CS      if                       Z7 
 0000026 150  PPHS2   they                     Z8mfn 
 0000026 160  VV0     release                  A1.7- A9- 
-0000026 170  NP1     Hillary                  Z99 
-0000026 180  NP2     Clintons                 Z1mf 
-0000026 190  VVG     missing                  A5.3- X3.4- A11.2- X2.5- X9.2- E4.1- T4- S1.1.3- 
+0000026 170  NP1     Hillary                  Z1mf[i23.2.1 Z3c[i23.2.1 
+0000026 180  NP1     Clinton                  Z1mf[i23.2.2 Z3c[i23.2.2 Z1mf 
+0000026 181  GE      's                       Z5 
+0000026 190  JJ      missing                  A3- A10- A9- 
 0000026 200  NN2     emails                   Q1.3/Y2 
 0000026 201  .       .                        
 0000027 001  -----   -----                    
 0000028 010  NP1     Russia                   Z2 
 0000028 011  ,       ,                        
 0000028 020  CS      if                       Z7 
-0000028 030  NN1     youre                    Z99 
-0000028 040  NN1     listening                X3.2 
+0000028 030  PPY     you                      Z8mf 
+0000028 031  VBR     're                      Z5 A3+ 
+0000028 040  VVG     listening                X3.2 
 0000028 041  ,       ,                        
 0000028 050  PPIS1   I                        Z8mf 
 0000028 060  VV0     hope                     X2.6+ E4.1+ X9.2+ A5.1+ 
-0000028 070  VV0     youre                    Z99 
+0000028 070  PPY     you                      Z8mf 
+0000028 071  VBR     're                      A3+ Z5 
 0000028 080  JK      able                     X9.1+ 
 0000028 090  TO      to                       Z5 
 0000028 100  VVI     find                     A10+ X2.1 X6+ 
@@ -483,7 +489,8 @@
 0000030 110  NN1     press                    Q4.2c O2 A1.1.1 Q4.1/I2.1c X8+ S7.1+ E6- 
 0000030 111  .       .                        
 0000030 112  -----   -----                    
-0000030 120  VVZ     Lets                     S7.4+ I2.2/H1 T2- 
+0000030 120  VM21    Let                      Z5[i24.2.1 
+0000030 121  VM22    's                       Z5[i24.2.2 
 0000030 130  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
 0000030 140  CSW@    if                       Z7 
 0000030 150  DD1     that                     Z8 Z5 
@@ -497,8 +504,9 @@
 0000030 201  .       .                        
 0000031 001  -----   -----                    
 0000032 010  NNB     President                G1.1/S7.1+/S2mf 
-0000032 020  NP1     Vladimir                 Z99 
-0000032 030  NP2     Putins                   Z99 
+0000032 020  NP1     Vladimir                 Z1mf[i25.2.1 Z3c[i25.2.1 
+0000032 030  NP1     Putin                    Z1mf[i25.2.2 Z3c[i25.2.2 
+0000032 031  GE      's                       Z5 
 0000032 040  NN1     spokesman                Q2.2/S2.2m 
 0000032 041  ,       ,                        
 0000032 050  CS      while                    Z5 
@@ -518,7 +526,8 @@
 0000032 180  VVI     interfere                S1.1.3+++ 
 0000032 190  II      in                       Z5 
 0000032 200  DD1     another                  A6.1- N5++ 
-0000032 210  NN2     countrys                 G1.1c W3 F4/M7 K2 
+0000032 210  NN1     country                  G1.1c W3 F4/M7 K2 
+0000032 211  GE      's                       Z5 
 0000032 220  NN1     election                 G1.2/X7+ 
 0000032 221  .       .                        
 0000033 001  -----   -----                    
@@ -552,8 +561,8 @@
 0000034 270  JJ      electoral                G1.2/X7+ 
 0000034 280  NN1     process                  A1.1.1 X4.2 
 0000034 281  ,       ,                        
-0000034 290  NP1     Dmitry                   Z1mf[i23.2.1 Z3c[i23.2.1 
-0000034 300  NP1     Peskov                   Z1mf[i23.2.2 Z3c[i23.2.2 
+0000034 290  NP1     Dmitry                   Z1mf[i26.2.1 Z3c[i26.2.1 
+0000034 300  NP1     Peskov                   Z1mf[i26.2.2 Z3c[i26.2.2 
 0000034 310  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
 0000034 320  NN2     journalists              Q4.2/I3.2/S2mf 
 0000034 330  NPD1    Wednesday                T1.3 
@@ -608,9 +617,9 @@
 0000038 010  PPHS1   He                       Z8m 
 0000038 020  VVD     said                     Q2.1 
 0000038 030  NN1     speculation              X2.6+ I2.1 
-0000038 040  II      in                       Z4[i24.3.1 Z5 
-0000038 050  DD1     this                     Z4[i24.3.2 M6 Z5 Z8 
-0000038 060  NN1     case                     Z4[i24.3.3 A4.1 O2 G2.1 B3 X4.1 Q3 
+0000038 040  II      in                       Z4[i27.3.1 Z5 
+0000038 050  DD1     this                     Z4[i27.3.2 M6 Z5 Z8 
+0000038 060  NN1     case                     Z4[i27.3.3 A4.1 O2 G2.1 B3 X4.1 Q3 
 0000038 070  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
 0000038 080  XX      not                      Z6 
 0000038 090  VVI     show                     A10+ S1.1.1 

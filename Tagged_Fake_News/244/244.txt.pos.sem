@@ -3,11 +3,13 @@
 0000002 010  CSA     As                       Z5 
 0000002 020  NN1     debate                   Q2.2 
 0000002 030  II      about                    Z5 
-0000002 040  NP1     Obamacares               Z99 
-0000002 050  NN1     future                   T1.1.3 
-0000002 060  VVZ     moves                    M2 M1 A2.1+ E1 H4/A2.1 
+0000002 040  NP1     Obamacare                Z99 
+0000002 041  GE      's                       Z5 
+0000002 050  JJ      future                   T1.1.3 
+0000002 060  NN2     moves                    M1 M2 A2.1+ H4/A2.1 K5.2 
 0000002 070  II      from                     Z5 
-0000002 080  NN2     peoples                  S2mf 
+0000002 080  NN      people                   S2mfc 
+0000002 081  GE      's                       Z5 
 0000002 090  NN1     general                  G3/S7.1+/S2mf B3/H1 
 0000002 091  ,       ,                        
 0000002 100  RR      mostly                   A13.2 
@@ -307,7 +309,8 @@
 0000008 160  NN2     conditions               O4.1 S6+ B2- B2+ Z7 
 0000008 161  .       .                        
 0000008 162  -----   -----                    
-0000008 170  NN2     Kaisers                  Z99 
+0000008 170  NN1     Kaiser                   Z99 
+0000008 171  GE      's                       Z5 
 0000008 180  JJ      monthly                  N6+ 
 0000008 190  NN1     health                   B2 X9.2 
 0000008 200  NN1     tracking                 X2.4 
@@ -536,9 +539,10 @@
 0000012 340  VVN     affected                 A2.1+ A5.4-/A8 
 0000012 341  .       .                        
 0000012 342  -----   -----                    
-0000012 350  APPGE   Its                      Z8 
+0000012 350  PPH1    It                       Z8 
+0000012 351  VBZ     's                       Z5 A3+ 
 0000012 360  RT      sometimes                N6 
-0000012 370  VVD     said                     Q2.1 
+0000012 370  VVN     said                     Q2.1 
 0000012 380  CST     that                     Z5 Z8 
 0000012 390  DD1     this                     Z8 M6 Z5 
 0000012 400  VHZ     has                      Z5 A9+ A2.2 S4 

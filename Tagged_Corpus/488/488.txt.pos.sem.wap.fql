@@ -1,8 +1,9 @@
-TOTAL              153
+TOTAL              156
 of                   IO              8 
 our                  APPGE           7 
 the                  AT              6 
 a                    AT1             4 
+we                   PPIS2           3 
 headphones           NN2             3 
 concrete             NN1             3 
 is                   VBZ             3 
@@ -16,12 +17,12 @@ dynamic              NN1             2
 use                  NN1             2 
 premium              JJ              2 
 to                   II              2 
-weve                 NN1             2 
+'ve                  VH0             2 
 on                   II              2 
 today                RT              2 
 at                   II              2 
 road                 NN1             2 
-were                 VBDR            1 
+'re                  VBR             1 
 excited              VVN             1 
 to                   TO              1 
 announce             VVI             1 
@@ -42,13 +43,13 @@ grain                NN1             1
 leathers             NN2             1 
 brass                NN1             1 
 earphones            NN2             1 
-stayed               VVD             1 
+stayed               VVN             1 
 cutting_edge         NN1             1 
 when                 CS              1 
 making               VVG             1 
 sound                NN1             1 
 tools                NN2             1 
-upped                VVD             1 
+upped                VVN             1 
 ante                 FW              1 
 in_keeping_with      II31            1 
 commitment           NN1             1 

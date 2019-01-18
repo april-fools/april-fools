@@ -14,7 +14,7 @@ Ja                       FW      Z99
 long-vanished            JJ      Z99 
 Neanderthal              JJ      Z99 
 no-travel                JJ      Z99 
-OLeary                   NN1     Z99 
+O'Leary                  NP1     Z99 
 ordinarius               NN1     Z99 
 propitious               JJ      Z99 
 Radiocarbon              NN1     Z99 
@@ -25,7 +25,6 @@ tree-community           NN1     Z99
 tree-dwellers            NN2     Z99 
 Voorst                   NN1     Z99 
 Voorst                   NP1     Z99 
+Voorst                   NP1@    Z99 
 Voorst                   VV0     Z99 
-Voorsts                  NP1     Z99 
-Voorsts                  VVZ     Z99 
 Wood'                    NP1     Z99 

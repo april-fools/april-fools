@@ -1,20 +1,22 @@
-TOTAL              719
+TOTAL              736
 the                  Z5                  75 
 of                   Z5                  32 
 and                  Z5                  25 
 in                   Z5                  15 
 a                    Z5                  13 
+republic             G1.2                11 
 student              P1                  10 
-movements            M1                   8 
-movement             M1                   8 
-republic             G1.2                 8 
+movement             M1                  10 
+'s                   Z5                   8 
+'                    Z5                   8 
 is                   A3+                  7 
 that                 Z8                   7 
 to                   Z5                   7 
+movements            M1                   6 
 its                  Z8                   6 
+Germany              Z2                   5 
 there                Z5                   5 
 new                  T3-                  4 
-Germany              Z2                   4 
 it                   Z8                   4 
 was                  A3+                  4 
 while                Z5                   4 
@@ -22,10 +24,10 @@ others               A6.1-                4
 from                 Z5                   4 
 on                   Z5                   4 
 federal              S5+                  4 
+today                T1.1.2               4 
 an                   Z5                   3 
 about                Z5                   3 
 grassroots           S5+                  3 
-republics            G1.2                 3 
 with                 Z5                   3 
 that                 Z5                   3 
 students             P1                   3 
@@ -42,7 +44,6 @@ no                   Z6                   3
 they                 Z8                   3 
 radical              N5+                  3 
 these                Z5                   3 
-today                T1.1.2               3 
 social               S1.1.1               3 
 why                  A2.2                 3 
 political            G1.2                 2 
@@ -55,7 +56,8 @@ postwar              T1.3                 2
 how                  Z5                   2 
 german               Z2                   2 
 anniversary          T1.2                 2 
-68                   N1                   2 
+i                    Z8                   2 
+'68                  N1                   2 
 1967-1969            N1                   2 
 so                   A13.3                2 
 some                 N5                   2 
@@ -72,8 +74,9 @@ debate               Q2.2                 2
 across               Z5                   2 
 tens                 N1                   2 
 fewer                N5--                 2 
+most                 A13.2                2 
 many                 N5+                  2 
-68ers                Z99                  2 
+'68ers               Z99                  2 
 had                  A9+                  2 
 impact               A2.2                 2 
 me                   Z8                   2 
@@ -124,13 +127,12 @@ stands               M6                   1
 took                 A9+                  1 
 at_the_time          T1.1.1               1 
 although             Z5                   1 
-i                    Z8                   1 
 disagree             A6.1-                1 
 fundamentally        A11.1+               1 
 bashing              E3-                  1 
 fashion              B5                   1 
 at_the_moment        T1.1.2               1 
-im                   Z99                  1 
+'m                   A3+                  1 
 not                  Z6                   1 
 particularly         A13.3                1 
 surprised            X2.6-                1 
@@ -199,7 +201,7 @@ should               S6+                  1
 begin                T2+                  1 
 itself               Z8                   1 
 did                  Z5                   1 
-nt                   S9                   1 
+n't                  Z6                   1 
 change               A2.1+                1 
 much-but             Z99                  1 
 processes            A1.1.1               1 
@@ -223,7 +225,6 @@ sectarian            S9                   1
 and-still            Z99                  1 
 just                 A14                  1 
 handful-of           Z99                  1 
-most                 A13.2                1 
 critically           Q2.2                 1 
 in_my_opinion        Z4                   1 
 scores               K5                   1 
@@ -254,7 +255,6 @@ excesses             N5.2+                1
 which                Z8                   1 
 indeed               A13.3                1 
 existed              A3+                  1 
-most                 N5+++                1 
 bi-products          Z99                  1 
 marxist-leninist     G1.2                 1 
 parties              S1.1.3+              1 
@@ -284,13 +284,13 @@ pro-arab             Z99                  1
 sympathies           X2.5+                1 
 completely           A13.2                1 
 missing              A5.3-                1 
-post-68              Z99                  1 
+post-'68             N1                   1 
 campaigns            X7+                  1 
 greatest             A5.1+++              1 
 linked_up            S5+                  1 
 become               A2.1+                1 
 powerful             S7.1+                1 
-womens               S2.1                 1 
+women                S2.1                 1 
 environmental        W5                   1 
 anti-nuclear         Z99                  1 
 energy               X5.2+                1 
@@ -366,7 +366,6 @@ protest              Q2.2                 1
 atomic_power         O3                   1 
 so                   Z5                   1 
 marginalized         Z99                  1 
-Germanys             Z2                   1 
 discourses           Q2.1                 1 
 if                   Z7                   1 
 went_into            M1                   1 
@@ -390,7 +389,6 @@ yet                  T1.1.2               1
 over_75              T3                   1 
 minutiae             A4.2+                1 
 RAF                  Z3                   1 
-todays               T1.1.2               1 
 owes                 I1.2                 1 
 protests             Q2.2                 1 
 lot-and              Z99                  1 

@@ -4,3 +4,4 @@ Glyn                     NP1     Z99
 hi-viz                   REX     Z99 
 killjoys                 NN2     Z99 
 penpushers               NN2     Z99 
+vulnerable'              NN1     Z99 

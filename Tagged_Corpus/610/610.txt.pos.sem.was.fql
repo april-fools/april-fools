@@ -1,10 +1,10 @@
-TOTAL              792
+TOTAL              801
 the                  Z5                  41 
 and                  Z5                  33 
 a                    Z5                  24 
+kaaboo               Z99                 18 
 of                   Z5                  16 
 in                   Z5                  15 
-kaaboo               Z99                 14 
 to                   Z5                  14 
 at                   Z5                  13 
 for                  Z5                  13 
@@ -18,6 +18,7 @@ its                  Z8                   7
 event                A3+                  7 
 cowboys              F4                   7 
 stadium              K5.1                 7 
+'s                   Z5                   7 
 has                  Z5                   7 
 will                 T1.1.3               6 
 brand                A4.1                 6 
@@ -30,7 +31,6 @@ guests               S2                   5
 events               A3+                  4 
 2019                 N1                   4 
 this                 M6                   4 
-kaaboos              Z99                  4 
 which                Z8                   4 
 art                  C1                   4 
 lifestyle            S1.1.1               4 
@@ -54,6 +54,7 @@ KAABOO_Del           Z1                   3
 more                 N5++                 3 
 visit                S1.1.1               3 
 Arlington            Z2                   2 
+San_Diego            Z2                   2 
 recently             T3---                2 
 announced            Q2.2                 2 
 destination          M6                   2 
@@ -70,6 +71,7 @@ libations            Z99                  2
 curated              Z99                  2 
 host                 S2                   2 
 amenities            H1                   2 
+'                    Z5                   2 
 world                W1                   2 
 both                 N5                   2 
 cutting_edge         T1.1.2               2 
@@ -110,7 +112,6 @@ entering             M1                   1
 into                 Z5                   1 
 fourth_year          T1.3                 1 
 successful           X9.2+                1 
-San_Diego            Z2                   1 
 continues            T2++                 1 
 time                 T1                   1 
 coming_to            A4.1                 1 
@@ -211,7 +212,7 @@ February_2011        T1.3                 1
 ncaa                 Z99                  1 
 final                K5.1                 1 
 four                 N1                   1 
-mens                 S2.2                 1 
+men                  S2.2                 1 
 basketball           K5.2                 1 
 April_2014           T1.3                 1 
 college              P1                   1 
@@ -349,7 +350,6 @@ located              M6                   1
 Del                  Z1                   1 
 racetrack            K5.1                 1 
 celebrated           E4.1+                1 
-San_Diegos           Z2                   1 
 largest              N3.2+++              1 
 September            T1.3                 1 
 14-16                N1                   1 
@@ -357,7 +357,7 @@ September            T1.3                 1
 was                  Z5                   1 
 nominated            X7+                  1 
 pollstar             Z99                  1 
-magazines            Q4.2                 1 
+magazine             Q4.2                 1 
 2017                 N1                   1 
 only                 A14                  1 
 third_year           T1.3                 1 

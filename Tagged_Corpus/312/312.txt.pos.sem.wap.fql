@@ -1,7 +1,7 @@
-TOTAL              248
+TOTAL              252
 the                  AT             14 
+it                   PPH1            7 
 to                   TO              7 
-it                   PPH1            6 
 is                   VBZ             6 
 a                    AT1             5 
 micro                NN1             5 
@@ -9,11 +9,11 @@ for                  IF              5
 of                   IO              5 
 zimmer               NN1             4 
 and                  CC              4 
+she                  PPHS1           4 
 from                 II              3 
 who                  PNQS            3 
 with                 IW              3 
 also                 RR              3 
-she                  PPHS1           3 
 wheels               NN2             2 
 something            PN1             2 
 but                  CCB             2 
@@ -29,11 +29,12 @@ pace                 NN1             2
 speed                NN1             2 
 as_well              II31            2 
 as                   II33            2 
-its                  APPGE           2 
 her                  APPGE           2 
 said                 VVD             2 
 can                  VM              2 
 get                  VVI             2 
+you                  PPY             2 
+'s                   VBZ             2 
 made                 VVN             1 
 modified             JJ              1 
 skateboard           NN1             1 
@@ -88,7 +89,8 @@ struggling           VVG             1
 keep                 VVI             1 
 claim                VV0             1 
 that                 CST             1 
-zimmers              VVZ             1 
+Zimmer               NP1             1 
+'s                   GE              1 
 top                  JJ              1 
 10mph                NNU             1 
 may                  VM              1 
@@ -108,6 +110,7 @@ hops                 NN2             1
 mild                 JJ              1 
 stunts               NN2             1 
 according_to         II21            1 
+its                  APPGE           1 
 makers               NN2             1 
 retired              JJ              1 
 legal_secretary      JJ              1 
@@ -149,19 +152,17 @@ on                   II              1
 grandmother          NN1             1 
 four                 MC              1 
 added                VVD             1 
-you                  PPY             1 
 special              JJ              1 
 rubber_bands         JJ              1 
 slow_down            VVI             1 
 until                CS              1 
-youre                NN1             1 
+'re                  VBR             1 
 ready                JJ              1 
 pick_up              VVI             1 
 gets                 VVZ             1 
 a_lot                AT1             1 
 attention            NN1             1 
-when                 RRQ             1 
-shes                 VVZ             1 
+when                 CS              1 
 out_and_about        RP              1 
 great                JJ              1 
 conversation         NN1             1 

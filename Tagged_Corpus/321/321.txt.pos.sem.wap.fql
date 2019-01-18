@@ -1,12 +1,12 @@
-TOTAL              323
+TOTAL              325
 the                  AT             23 
 of                   IO              9 
 in                   II              9 
 a                    AT1             8 
 we                   PPIS2           8 
 to                   TO              7 
-Wrexham              NP1             6 
 and                  CC              6 
+Wrexham              NP1             5 
 was                  VBDZ            5 
 to                   II              5 
 are                  VBR             5 
@@ -16,13 +16,14 @@ as                   II              3
 capital              NN1             3 
 Cardiff              NP1             3 
 said                 VVD             3 
-city                 NN1             3 
 been                 VBN             3 
 Wales                NP1             3 
 is                   VBZ             3 
 this_morning         DD1             2 
+Wrexham_council      NP1             2 
 an                   AT1             2 
 spokesman            NN1             2 
+city                 NN1             2 
 status               NN1             2 
 on                   II              2 
 legal                JJ              2 
@@ -54,7 +55,7 @@ time                 NNT1            2
 such_a               DA              2 
 embargoed            VVD             1 
 news                 NN1             1 
-councils             NN2             1 
+'s                   GE              1 
 audacious            JJ              1 
 move                 NN1             1 
 declare              VVI             1 
@@ -114,7 +115,8 @@ decision             NN1             1
 rules                NN2             1 
 date                 VV0             1 
 back                 RP              1 
-early_1800s          JJ              1 
+early_1800           JJ              1 
+'s                   MC222           1 
 regarding            II              1 
 moving_around        VVG             1 
 mayoral              JJ              1 
@@ -123,6 +125,7 @@ very_much            RG              1
 ceremonial           NN1             1 
 modern               JJ              1 
 era                  NN1             1 
+city'                NN1             1 
 country              NN1             1 
 still                RR              1 
 important            JJ              1 
@@ -147,6 +150,7 @@ under                II              1
 ancient              JJ              1 
 council              NN1             1 
 marches              NN2             1 
+'                    GE              1 
 legally              RR              1 
 solid                JJ              1 
 ground               NN1             1 
@@ -177,7 +181,6 @@ Paul_Rank            NP1             1
 consulting           JJ              1 
 company              NN1             1 
 employed             VVN             1 
-Wrexham_council      NP1             1 
 excited              JJ              1 
 several              DA2             1 
 hundred              NNO             1 

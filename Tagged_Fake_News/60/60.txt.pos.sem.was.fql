@@ -1,4 +1,4 @@
-TOTAL              292
+TOTAL              302
 the                  Z5                  25 
 to                   Z5                  11 
 a                    Z5                   7 
@@ -7,13 +7,14 @@ debate               Q2.2                 6
 in                   Z5                   4 
 for                  Z5                   4 
 of                   Z5                   4 
+Obama                Z99                  4 
 presidential         G1.1                 4 
 and                  Z5                   4 
 with                 Z5                   3 
 gop                  Z99                  3 
 former               T2-                  3 
 Jon_Stewart          Z1                   3 
-Obama                Z99                  3 
+they                 Z8                   3 
 republican           G1.2                 3 
 debates              Q2.2                 3 
 be                   Z5                   3 
@@ -30,11 +31,12 @@ December_15th        T1.3                 2
 Las_Vegas            Z2                   2 
 is                   Z5                   2 
 on                   Z5                   2 
-they                 Z8                   2 
 reality              A3+                  2 
 said                 Q2.1                 2 
 from                 Z5                   2 
-this                 M6                   2 
+n't                  Z6                   2 
+'s                   Z5                   2 
+it                   Z8                   2 
 questions            Q2.2                 2 
 cop                  G2.1                 2 
 White_house          Z3                   2 
@@ -64,11 +66,13 @@ receiving            A9+                  1
 wide                 N3.7+                1 
 applause             E2+                  1 
 audience             K1                   1 
-isnt                 Z99                  1 
+this                 Z8                   1 
+is                   A3+                  1 
 an                   Z5                   1 
 audition             K4                   1 
-babysitters_club     S8+                  1 
-its                  Z8                   1 
+babysitter           S8+                  1 
+club                 S5+                  1 
+'s                   A3+                  1 
 oval                 Z2                   1 
 office               I2.1                 1 
 in_the_past          T1.1.1               1 
@@ -84,12 +88,13 @@ fortitude            S1.2.5+              1
 required             X7+                  1 
 run                  M1                   1 
 country              G1.1                 1 
-shouldnt             Z99                  1 
+should               S6+                  1 
 centered             M6                   1 
 around               Z5                   1 
 catering             S8+                  1 
 candidates           G1.2                 1 
-comfort              S8+                  1 
+'                    Z5                   1 
+comfort              O4.2+                1 
 level                N3.7                 1 
 political            G1.2                 1 
 analyst              Y2                   1 
@@ -108,7 +113,7 @@ control              S7.1+                1
 future               T1.1.3               1 
 Cunningham           Z1                   1 
 continued            T2++                 1 
-Itll                 Z99                  1 
+'ll                  T1.1.3               1 
 be                   A3+                  1 
 interesting          X5.2+                1 
 see                  X3.4                 1 
@@ -122,7 +127,7 @@ that                 Z8                   1
 knows                X2.2+                1 
 the_ins_and_outs     A4.2+                1 
 job                  I3.1                 1 
-theyre               Z99                  1 
+'re                  Z5                   1 
 vying                S7.3+                1 
 meanwhile            T1.1.2               1 
 vice                 Z5                   1 
@@ -151,13 +156,14 @@ many                 N5+                  1
 speculate            X2.6+                1 
 play                 K1                   1 
 good                 A5.1+                1 
-Obamas               Z99                  1 
 bad                  A5.1-                1 
 visited              S1.1.1               1 
+this                 M6                   1 
 week                 T1.3                 1 
 brainstorm           X2.4                 1 
 possible             A7+                  1 
-Im                   Z99                  1 
+i                    Z8                   1 
+'m                   Z5                   1 
 meeting              S1.1.3+              1 
 was                  A3+                  1 
 very                 A13.3                1 

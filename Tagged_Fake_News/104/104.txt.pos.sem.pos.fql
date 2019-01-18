@@ -1,10 +1,10 @@
-TOTAL         306
-NN1            35 
+TOTAL         307
+NN1            36 
 AT             25 
 JJ             25 
 II             20 
 NP1            16 
-NN2            15 
+NN2            14 
 VVI            10 
 VBZ             9 
 RR              9 
@@ -43,6 +43,7 @@ VBG             1
 NPD1            1 
 NN              1 
 VVG             1 
+GE              1 
 NNT1            1 
 PPY             1 
 VDZ             1 

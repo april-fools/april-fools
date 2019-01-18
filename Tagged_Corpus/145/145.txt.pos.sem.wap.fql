@@ -1,4 +1,4 @@
-TOTAL              198
+TOTAL              200
 the                  AT             12 
 of                   IO              6 
 square               NN1             5 
@@ -27,6 +27,7 @@ date                 NN1             2
 it                   PPH1            2 
 said                 VVD             2 
 interactive          JJ              2 
+'s                   GE              2 
 wii                  JJ              2 
 game                 NN1             2 
 has                  VHZ             2 
@@ -77,8 +78,8 @@ today                RT              1
 kindgdom             NN1             1 
 latest               JJT             1 
 title                NN1             1 
-enixs                VVZ             1 
-most                 DAT             1 
+Enix                 NP1             1 
+most                 RGT             1 
 popular              JJ              1 
 franchises           NN2             1 
 will                 VM              1 
@@ -113,7 +114,7 @@ an                   AT1             1
 announcement         NN1             1 
 week                 NNT1            1 
 click                VV0             1 
-GoNintendos          NP1             1 
+GoNintendo           NP1             1 
 concerning           II              1 
 following            JJ              1 
 mock-up              NN1             1 

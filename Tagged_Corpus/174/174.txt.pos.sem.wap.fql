@@ -1,23 +1,25 @@
-TOTAL              340
+TOTAL              348
 the                  AT             20 
 will                 VM              9 
+android              NN1             8 
 and                  CC              8 
 a                    AT1             7 
 to                   TO              7 
 with                 IW              7 
-android              NN1             7 
 in                   II              6 
 be                   VBI             6 
 car                  NN1             6 
 your                 APPGE           6 
 of                   IO              5 
 but                  CCB             5 
-you                  PPY             4 
+you                  PPY             5 
+they                 PPHS2           4 
+'ll                  VM              4 
+'s                   GE              4 
 from                 II              3 
 Ford                 NP1             3 
 GM                   NP1             3 
 cars                 NN2             3 
-launch               VV0             3 
 this                 DD1             3 
 control              NN1             3 
 is                   VBZ             3 
@@ -29,8 +31,8 @@ working              VVG             2
 google               NN1             2 
 or                   CC              2 
 green                NN1             2 
-theyll               VV0             2 
-vehicles             NN2             2 
+launch               VVI             2 
+vehicle              NN1             2 
 gps                  NN2             2 
 are                  VBR             2 
 just                 RR              2 
@@ -66,7 +68,6 @@ about                II              1
 exact                JJ              1 
 models               NN2             1 
 specifications       NN2             1 
-they                 PPHS2           1 
 did                  VDD             1 
 include              VVI             1 
 some                 DD              1 
@@ -76,7 +77,6 @@ first                MD              1
 iteration            NN1             1 
 in_two               II              1 
 ways                 NN2             1 
-theyll               NN1             1 
 hybrid               JJ              1 
 capable              JJ              1 
 200+                 FO              1 
@@ -87,11 +87,11 @@ robot                NN1             1
 hopefully            RR              1 
 phandroid            JJ              1 
 blue                 JJ              1 
-vehicle              NN1             1 
 as_well              RR21            1 
 so                   RR              1 
 what                 DDQ             1 
 make                 VVI             1 
+vehicles             NN2             1 
 nature               NN1             1 
 android-car          NN1             1 
 entire               JJ              1 
@@ -130,7 +130,7 @@ accessory            JJ              1
 win                  NN1             1 
 get                  VV0             1 
 work                 VVI             1 
-clearwires           NN2             1 
+Clearwire            NP1             1 
 4g                   NNU             1 
 network              NN1             1 
 provide              VVI             1 
@@ -143,6 +143,7 @@ anywhere             RL              1
 nation               NN1             1 
 by                   II              1 
 time                 NNT1            1 
+launch               NN1             1 
 early                RR              1 
 2010                 MC              1 
 those                DD2             1 
@@ -154,8 +155,7 @@ credible             JJ              1
 source               NN1             1 
 proprietary          JJ              1 
 interface            VVI             1 
-androids             NN2             1 
-googles              VVZ             1 
+Google               NP1             1 
 overall              JJ              1 
 mapping              NN1             1 
 knowledge            NN1             1 
@@ -182,8 +182,7 @@ how                  RGQ             1
 awesome              JJ              1 
 that                 DD1             1 
 of_course            RR21            1 
-youll                VV0             1 
-need                 VV0             1 
+need                 VVI             1 
 remain               VVI             1 
 alert                JJ              1 
 basically            RR              1 

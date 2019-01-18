@@ -4,9 +4,8 @@ dissenters               NN2     Z99
 illiberal                JJ      Z99 
 long-lived               JJ      Z99 
 neighboring              VVG     Z99 
-Qaddafis                 NP2     Z99 
+Qaddafi                  NP1     Z99 
 stunting                 NN1@    Z99 
 vigor                    NN1     Z99 
 weaknessthe              NN1     Z99 
 youor                    NN1     Z99 
-youre                    NN1     Z99 

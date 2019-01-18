@@ -1,4 +1,4 @@
-TOTAL         356
+TOTAL         357
 NN1            70 
 AT             33 
 NP1            25 
@@ -20,17 +20,18 @@ VM              5
 CSA             4 
 MC              4 
 VVG             4 
-APPGE           3 
+VBZ             3 
 VVZ             3 
 PPHS1           3 
 NNB             2 
 DD1             2 
-VBZ             2 
 VH0             2 
+APPGE           2 
 DA              2 
 VBI             2 
+PPH1            2 
 PPIS1           2 
-NP2             2 
+GE              2 
 PPIS2           2 
 II21            2 
 IW              2 
@@ -40,7 +41,6 @@ NNT1            1
 VHI             1 
 IF              1 
 DD              1 
-PPH1            1 
 VHD             1 
 FU              1 
 PPHO1           1 

@@ -42,9 +42,11 @@
 0000012 030  RR      once                     N6- T1.1.1 
 0000012 040  VVN     suggested                Q2.2 Q1.1 
 0000012 041  ,       ,                        
-0000012 050  APPGE   its                      Z8 
+0000012 050  PPH1    it                       Z8 
+0000012 051  VBZ     's                       A3+ Z5 
 0000012 060  CS      because                  Z5/A2.2 
-0000012 070  NN2     shes                     Z8f 
+0000012 070  PPHS1   she                      Z8f 
+0000012 071  VBZ     's                       A3+ Z5 
 0000012 080  XX      not                      Z6 
 0000012 090  AT1     a                        Z5 
 0000012 100  NN1     train                    M3fn N4 B5@ 
@@ -288,7 +290,7 @@
 0000028 132  -----   -----                    
 0000028 140  PPH1    It                       Z8 
 0000028 150  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000028 151  XX      nt                       S9/Q4.1 Z3c 
+0000028 151  XX      n't                      Z6 
 0000028 160  VVI     care                     E6- E2+ S8+ B3 X7+ 
 0000028 170  RGQ@    how                      Z5 A13.3 
 0000028 180  DA2     many                     N5+ 
@@ -300,8 +302,9 @@
 0000028 240  RT      today                    T1.1.2 
 0000028 250  CC      and                      Z5 
 0000028 260  VVI     swear                    Q2.2/S1.2.4- Q2.2 
-0000028 270  NN1     theyd                    Z99 
-0000028 280  VV0     feel                     X2.1 E1 X3 
+0000028 270  PPHS2   they                     Z8mfn 
+0000028 271  VM      'd                       A7+ 
+0000028 280  VVI     feel                     X2.1 E1 X3 
 0000028 290  AT      the                      Z5 
 0000028 300  DA      same                     A6.1+++ 
 0000028 310  CS      if                       Z7 
@@ -348,7 +351,8 @@
 0000030 010  CS      If                       Z7 
 0000030 020  DD1     that                     Z5 Z8 
 0000030 030  NN1     answer                   Q2.2 X4.1 X9.2+ 
-0000030 040  VV0     isnt                     Z99 
+0000030 040  VBZ     is                       A3+ Z5 
+0000030 041  XX      n't                      Z6 
 0000030 050  RG      as                       A13 
 0000030 060  JJ@     nuanced                  O4.1 A6.1- 
 0000030 070  CSA     as                       Z5 
@@ -356,7 +360,8 @@
 0000030 090  JJ      average                  A6.2+ A5.1 N2 
 0000030 100  NN1     thinkpiece               Z99 
 0000030 101  ,       ,                        
-0000030 110  VVZ     thats                    Z5 Z8 A13.3 A6.1+ 
+0000030 110  DD1     that                     Z8 Z5 
+0000030 111  VBZ     's                       A3+ Z5 
 0000030 120  CS      because                  Z5/A2.2 
 0000030 130  PPIS2   we                       Z8 
 0000030 131  ,       ,                        
@@ -397,7 +402,8 @@
 0000030 421  .       .                        
 0000030 422  -----   -----                    
 0000030 430  PPHS1   She                      Z8f 
-0000030 440  NN1     wouldnt                  Z99 
+0000030 440  VM      would                    A7+ 
+0000030 441  XX      n't                      Z6 
 0000030 450  VBI     be                       A3+ Z5 
 0000030 460  RG      so                       A13.3 
 0000030 470  JJ      suspicious               X2.1/A5.1- G2.1- 
@@ -526,7 +532,8 @@
 0000036 200  TO      to                       Z5 
 0000036 210  VVI     destroy                  A1.1.2 
 0000036 220  APPGE   his                      Z8m 
-0000036 230  NN2     administrations          S7.1+c A9- 
+0000036 230  NN1     administration           S7.1+c A9- 
+0000036 231  GE      's                       Z5 
 0000036 240  NN2     emails                   Q1.3/Y2 
 0000036 241  ,       ,                        
 0000036 250  PPH1    it                       Z8 
@@ -571,7 +578,7 @@
 0000038 311  :       :                        
 0000040 010  PPIS1   I                        Z8mf 
 0000040 020  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000040 021  XX      nt                       S9/Q4.1 Z3c 
+0000040 021  XX      n't                      Z6 
 0000040 030  VHI     have                     A9+ Z5 A2.2 S4 
 0000040 040  AT1     a                        Z5 
 0000040 050  NN1     Blackberry               F1 L3 
@@ -725,7 +732,7 @@
 0000044 110  NN1     server                   F1/S2mf Y2 
 0000044 120  CC      and                      Z5 
 0000044 130  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000044 131  XX      nt                       S9/Q4.1 Z3c 
+0000044 131  XX      n't                      Z6 
 0000044 140  VVI     use                      A1.5.1 S7.1+ 
 0000044 150  PPH1    it                       Z8 
 0000044 160  TO      to                       Z5 
@@ -961,8 +968,9 @@
 0000051 001  -----   -----                    
 0000052 010  CC      And                      Z5 
 0000052 020  PPH1    it                       Z8 
-0000052 030  VV0     isnt                     Z99 
-0000052 040  JJ@     just                     S1.2 G2.2+ 
+0000052 030  VBZ     is                       A3+ Z5 
+0000052 031  XX      n't                      Z6 
+0000052 040  RR      just                     A14 T3--- T1.3- N3.3--- 
 0000052 050  NN2     Republicans              G1.2 G1.2/S2mf 
 0000052 051  .       .                        
 0000052 052  -----   -----                    
@@ -983,7 +991,8 @@
 0000054 030  AT      the                      Z5 
 0000054 040  MC2     mid-90s                  T1.3 N1 T3 
 0000054 041  ,       ,                        
-0000054 050  NP2     Clintons                 Z1mf 
+0000054 050  NP1     Clinton                  Z1mf 
+0000054 051  GE      's                       Z5 
 0000054 060  JJ      persistent               T2++ 
 0000054 070  NN1     unwillingness            X7- X5.2- 
 0000054 080  TO      to                       Z5 
@@ -1030,7 +1039,8 @@
 0000054 431  ,       ,                        
 0000054 440  TO      to                       Z5 
 0000054 450  VVI     prove                    A5.2+ X2.4 
-0000054 460  NN1     theyre                   Z99 
+0000054 460  PPHS2   they                     Z8mfn 
+0000054 461  VBR     're                      A3+ Z5 
 0000054 470  XX      not                      Z6 
 0000054 480  RR      really                   A13.3 A5.2+ 
 0000054 490  JJ      liberal                  A1.7- G1.2 N5+ 
@@ -1075,8 +1085,9 @@
 0000056 200  VBDZ    was                      A3+ Z5 
 0000056 210  RR      slightly                 A13.6 
 0000056 220  II      to                       Z5 
-0000056 230  NP2     Obamas                   Z99 
-0000056 240  VVD     left                     M1 M2 A1.1.1 A1.9 A9- T2- 
+0000056 230  NP1     Obama                    Z99 
+0000056 231  VBZ     's                       Z5 A3+ 
+0000056 240  VVN     left                     M1 M2 A1.1.1 A1.9 A9- N5.2+ T2- 
 0000056 250  II      on                       Z5 
 0000056 260  JJ      domestic                 H4 S4 E3+/L2 M6 
 0000056 270  NN2     issues                   X4.1 Q4.2 S4 A9- 
@@ -1142,7 +1153,7 @@
 0000058 380  CS      because                  Z5/A2.2 
 0000058 390  PPIS1   I                        Z8mf 
 0000058 400  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000058 401  XX      nt                       S9/Q4.1 Z3c 
+0000058 401  XX      n't                      Z6 
 0000058 410  VVI     know                     X2.2+ S3.2/B1% 
 0000058 420  DDQ     what                     Z8 Z5 
 0000058 430  PPHS2   they                     Z8mfn 
@@ -1154,7 +1165,7 @@
 0000058 470  CS      if                       Z7 
 0000058 480  PPHS1   he                       Z8m 
 0000058 490  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000058 491  XX      nt                       S9/Q4.1 Z3c 
+0000058 491  XX      n't                      Z6 
 0000058 500  VVI     know                     X2.2+ S3.2/B1% 
 0000058 501  ,       ,                        
 0000058 510  PPHS1   she                      Z8f 
@@ -1188,8 +1199,9 @@
 0000060 172  -----   -----                    
 0000060 180  CS      If                       Z7 
 0000060 190  PPY     you                      Z8mf 
-0000060 200  JJ      cant                     Q2.1 Z1mf Z1 
-0000060 210  NN1     figure                   X2.5+[i61.2.1 N2[i61.2.1 N5 N1 B1 S2mf C1 O4.4 O2 
+0000060 200  VM      ca                       A7+ 
+0000060 201  XX      n't                      Z6 
+0000060 210  VVI     figure                   X2.5+[i61.2.1 N2[i61.2.1 X2.1 X2.5+ 
 0000060 220  RP      out                      X2.5+[i61.2.2 N2[i61.2.2 M6 
 0000060 230  DDQ     which                    Z5 Z8 
 0000060 231  ,       ,                        
@@ -1227,9 +1239,10 @@
 0000062 220  RT      now                      T1.1.2 Z4 
 0000062 230  VV0     say                      Q2.1 Z4% 
 0000062 240  PPHS2   they                     Z8mfn 
-0000062 250  VV0     couldnt                  Z99 
+0000062 250  VM      could                    A7+ 
+0000062 251  XX      n't                      Z6 
 0000062 260  RR      possibly                 A7+ 
-0000062 270  VV0     vote                     G1.2 
+0000062 270  VVI     vote                     G1.2 
 0000062 280  IF      for                      Z5 
 0000062 290  NP1     Clinton                  Z1mf 
 0000062 291  ,       ,                        
@@ -1274,7 +1287,8 @@
 0000064 300  NNT1    time                     T1.1.2[i65.4.4 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000064 301  .       .                        
 0000065 001  -----   -----                    
-0000066 010  APPGE   Its                      Z8 
+0000066 010  PPH1    It                       Z8 
+0000066 011  VBZ     's                       A3+ Z5 
 0000066 020  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000066 030  TO      to                       Z5 
 0000066 040  VVI     stop                     T2- S8- M8 H4 A1.1.1@ 
@@ -1341,8 +1355,9 @@
 0000066 570  VVZ     wants                    X7+ S6+ A7+ S3.2 A9- 
 0000066 580  TO      to                       Z5 
 0000066 590  VVI     admit                    Q2.2 B3 A1.8+ S7.4+/M1 
-0000066 600  APPGE   its                      Z8 
-0000066 610  II      about                    Z5 
+0000066 600  PPH1    it                       Z8 
+0000066 601  VBZ     's                       A3+ Z5 
+0000066 610  RP@     about                    Z5 M6 
 0000066 611  .       .                        
 0000067 001  -----   -----                    
 0000068 010  VV0     Consider                 X2.1 X2.4 X6 
@@ -1410,7 +1425,8 @@
 0000068 530  PPGE@   his                      Z8m 
 0000068 540  RR      recently                 T3--- 
 0000068 550  JJ      deceased                 L1-/S2mfc L1- 
-0000068 560  NN2     brothers                 S4m S2.2m S9/S2.2m 
+0000068 560  NN1     brother                  S4m S2.2m S9/S2.2m 
+0000068 561  GE      's                       Z5 
 0000068 570  NN1     family                   S4c A4.1c 
 0000068 580  II      by                       Z5 
 0000068 590  VVG     cutting                  T2-[i70.2.1 A1.1.1[i70.2.1 Q1.3[i70.2.1 S5-[i70.2.1 A10-[i70.2.1 A1.1.1 N5-/A2.1 T2- Q4.3 K5.1 B1 
@@ -1422,7 +1438,8 @@
 0000068 650  VVN     needed                   S6+ 
 0000068 660  II      by                       Z5 
 0000068 670  APPGE   his                      Z8m 
-0000068 680  NN2     nephews                  S4m 
+0000068 680  NN1     nephew                   S4m 
+0000068 681  GE      's                       Z5 
 0000068 690  JJ      newborn                  T3--- 
 0000068 700  NN1     son                      S4m 
 0000068 701  ,       ,                        

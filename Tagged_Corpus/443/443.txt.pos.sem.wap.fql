@@ -1,8 +1,8 @@
-TOTAL              213
+TOTAL              214
 the                  AT             13 
 baby                 NN1             7 
 and                  CC              7 
-BMW                  NP1             5 
+BMW                  NP1             6 
 boots                NN2             5 
 to                   TO              4 
 of                   IO              4 
@@ -14,6 +14,7 @@ technology           NN1             3
 a                    AT1             3 
 never                RR              2 
 again                RT              2 
+'s                   GE              2 
 created              VVN             2 
 children             NN2             2 
 their                APPGE           2 
@@ -34,7 +35,6 @@ watch                VVI             1
 toddler              NN1             1 
 fall_over            VV0             1 
 thanks               NN2             1 
-'s                   GE              1 
 latest               JJT             1 
 invention            NN1             1 
 car                  NN1             1 
@@ -52,7 +52,6 @@ inread               NN1             1
 invented             VVN             1 
 by                   II              1 
 Teads                NP2             1 
-BMWs                 NP2             1 
 unique               JJ              1 
 traction             NN1             1 
 controls             VVZ             1 

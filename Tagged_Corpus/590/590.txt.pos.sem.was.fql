@@ -1,4 +1,4 @@
-TOTAL              396
+TOTAL              407
 the                  Z5                  21 
 to                   Z5                  13 
 said                 Q2.1                10 
@@ -8,9 +8,12 @@ of                   Z5                   8
 award                A5.1+                8 
 for                  Z5                   7 
 officer              G3                   7 
+'s                   Z5                   6 
 Peerce               Z99                  6 
+Bailey               Z2                   6 
 her                  Z8                   5 
 was                  A3+                  5 
+it                   Z8                   5 
 west                 M6                   4 
 mother               S4                   4 
 from                 Z5                   4 
@@ -22,11 +25,11 @@ received             A9+                  3
 during               Z5                   3 
 were                 A3+                  3 
 given                A9-                  3 
+department           H2                   3 
 2007                 N1                   3 
 held                 M2                   3 
-Bailey               Z2                   3 
 he                   Z8                   3 
-it                   Z8                   3 
+i                    Z8                   3 
 with                 Z5                   3 
 citations            S7.2+                3 
 police_department    G2.1                 2 
@@ -34,18 +37,17 @@ officers             G3                   2
 their                Z8                   2 
 efforts              X8+                  2 
 life                 L1+                  2 
-departments          H2                   2 
+dispatcher           M2                   2 
 who                  Z8                   2 
 is                   A3+                  2 
+head                 B1                   2 
 medical              B3                   2 
 center               M6                   2 
 family               S4                   2 
 that                 Z5                   2 
-Baileys              Z2                   2 
 while                Z5                   2 
 know                 X2.2+                2 
 made_a_difference    A2.1+                2 
-i                    Z8                   2 
 able                 X9.1+                2 
 stressful            E6-                  2 
 situation            A3+                  2 
@@ -54,7 +56,7 @@ awards               A5.1+                2
 great                A5.1+                2 
 this                 M6                   2 
 as                   Z5                   2 
-its                  Z8                   2 
+'s                   A3+                  2 
 issuing              A9-                  2 
 also                 N5++                 2 
 do                   A1.1.1               2 
@@ -67,7 +69,6 @@ bowling              K5.1                 1
 green                O4.3                 1 
 medals               O2                   1 
 save                 I1.1                 1 
-dispatchers          M2                   1 
 daughter             S4                   1 
 December             T1.3                 1 
 automobile           M3                   1 
@@ -93,11 +94,9 @@ Lakoi_Bailey         Z1                   1
 18                   N1                   1 
 bowling_green        K5.1                 1 
 whose                Z8                   1 
-dispatcher           M2                   1 
 city                 M7                   1 
 police               G2.1                 1 
 advertisement        I2.2                 1 
-Baileys_head         Z2                   1 
 until                Z5                   1 
 help                 S8+                  1 
 arrived              M1                   1 
@@ -116,7 +115,6 @@ letter               Q1.2                 1
 Angela               Z1                   1 
 prude                S3.2                 1 
 body                 B1                   1 
-head                 B1                   1 
 prevent              S8-                  1 
 moving               M2                   1 
 a_lot                N5+                  1 
@@ -126,6 +124,7 @@ if                   Z7                   1
 in_this_case         Z4                   1 
 see                  X3.4                 1 
 Responders           Z99                  1 
+'                    Z5                   1 
 allowed              S7.4+                1 
 go                   M1                   1 
 home                 H4                   1 
@@ -160,7 +159,6 @@ be                   Z5                   1
 considered           X2.1                 1 
 because_of           A2.2                 1 
 caliber              Z99                  1 
-department           H2                   1 
 Davis                Z1                   1 
 overwhelming         X9.2+                1 
 receive              A9+                  1 
@@ -202,7 +200,7 @@ where                M6                   1
 have_to              S6+                  1 
 better               A5.1++               1 
 next_year            T1.1.3               1 
-im                   Z99                  1 
+'m                   Z5                   1 
 challenging          A6.1-                1 
 someone              Z8                   1 
 write                Q1.2                 1 

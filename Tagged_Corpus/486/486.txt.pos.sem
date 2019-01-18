@@ -1,18 +1,21 @@
 0000001 001  NULL    **6;0;START              
 0000001 002  -----   -----                    
 0000002 010  VV0     Love                     E2+ 
-0000002 020  NN2@    Naras                    Z99 
+0000002 020  NP1     Nara                     Z99 
+0000002 021  GE      's                       Z5 
 0000002 030  JJ      legendary                X2.2+++ S9/Q2.1 
 0000002 040  NN      deer                     L2mfnc 
 0000002 041  ?       ?                        
 0000002 042  -----   -----                    
-0000002 050  VV0     Youll                    Z99 
-0000002 060  VV0     love                     E2+ 
+0000002 050  PPY     You                      Z8mf 
+0000002 051  VM      'll                      T1.1.3 
+0000002 060  VVI     love                     E2+ 
 0000002 070  PPHO2   them                     Z8mfn 
 0000002 080  RR      even                     A13.1 
 0000002 090  RRR     more                     A13.3 N6++ 
 0000002 100  CS      when                     Z5 
-0000002 110  NN1     theyre                   Z99 
+0000002 110  PPHS2   they                     Z8mfn 
+0000002 111  VBR     're                      A3+ Z5 
 0000002 120  II      in                       Z5 
 0000002 130  APPGE   your                     Z8 
 0000002 140  NN1     house                    H1 P1/S5+c G1.1c 
@@ -55,7 +58,8 @@
 0000004 320  NN1     food                     F1 
 0000004 330  II21    out                      Z5[i1.2.1 Z5 Z5[i2.2.1 A9-[i2.2.1 
 0000004 340  II22    of                       Z5[i1.2.2 Z5[i2.2.2 A9-[i2.2.2 
-0000004 350  NN2     peoples                  S2mf 
+0000004 350  NN      people                   S2mfc 
+0000004 351  GE      's                       Z5 
 0000004 360  NN2     hands                    B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf 
 0000004 361  ,       ,                        
 0000004 370  CC      and                      Z5 
@@ -65,7 +69,8 @@
 0000004 410  JJ      local                    M7 
 0000004 420  NN2     elections                G1.2/X7+ 
 0000004 421  ,       ,                        
-0000004 430  NN1     theyre                   Z99 
+0000004 430  PPHS2   they                     Z8mfn 
+0000004 431  VBR     're                      A3+ Z5 
 0000004 440  AT1     a                        Z5 
 0000004 450  JJ      huge                     N3.2+++ 
 0000004 460  NN1     tourist                  M7/A11.1+[i3.2.1 M1/S2mf 
@@ -117,7 +122,7 @@
 0000008 020  RR22    least                    A13.7[i7.2.2 A13.7 
 0000008 030  PPHS2   they                     Z8mfn 
 0000008 040  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000008 041  XX      nt                       S9/Q4.1 Z3c 
+0000008 041  XX      n't                      Z6 
 0000008 050  VVI     mess                     X9.2-[i8.2.1 A1.1.2[i8.2.1 A1.1.1/A12- F1/G3 
 0000008 060  RP      up                       X9.2-[i8.2.2 A1.1.2[i8.2.2 
 0000008 070  AT      the                      Z5 
@@ -140,7 +145,8 @@
 0000012 040  AT      the                      Z5 
 0000012 050  NN      deer                     L2mfnc 
 0000012 060  VV0     outnumber                N5++ 
-0000012 070  NN2@    Naras                    Z99 
+0000012 070  NP1     Nara                     Z99 
+0000012 071  GE      's                       Z5 
 0000012 080  JJ      human                    S2 S1.2.1+ 
 0000012 090  NN1     population               S2/N5c 
 0000012 100  II      by                       Z5 
@@ -164,7 +170,8 @@
 0000012 270  NNT2    years                    T1.3 
 0000012 280  NN2     thanks                   S1.2.4+ 
 0000012 290  II      to                       Z5 
-0000012 300  NP2     Japans                   Z2 
+0000012 300  NP1     Japan                    Z2 
+0000012 301  GE      's                       Z5 
 0000012 310  JJ      shrinking                N3.2-/A2.1 E2-@ 
 0000012 320  NN1     population               S2/N5c 
 0000012 321  ,       ,                        
@@ -196,8 +203,9 @@
 0000016 060  RR      even                     A13.1 
 0000016 070  AT      the                      Z5 
 0000016 080  NN2     buses                    M3fn 
-0000016 090  NN1     cant                     Q2.1 
-0000016 100  VV0     get                      Q1.3[i14.2.1 M1[i14.2.1 M2[i14.2.1 Q2.1[i14.2.1 S8+[i14.2.1 X9.2+[i14.2.1 A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000016 090  VM      ca                       A7+ 
+0000016 091  XX      n't                      Z6 
+0000016 100  VVI     get                      Q1.3[i14.2.1 M1[i14.2.1 M2[i14.2.1 Q2.1[i14.2.1 S8+[i14.2.1 X9.2+[i14.2.1 A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
 0000016 110  RP@     through                  Q1.3[i14.2.2 M1[i14.2.2 M2[i14.2.2 Q2.1[i14.2.2 S8+[i14.2.2 X9.2+[i14.2.2 M6 
 0000016 111  .       .                        
 0000017 001  -----   -----                    
@@ -211,7 +219,8 @@
 0000018 070  NN1     organization             S5+c S7.1+ 
 0000018 071  NULL    <quote>                  
 0000018 072  -----   -----                    
-0000018 080  VVZ     Lets                     S7.4+ I2.2/H1 T2- 
+0000018 080  VM21    Let                      Z5[i15.2.1 
+0000018 081  VM22    's                       Z5[i15.2.2 
 0000018 090  VV0     Make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
 0000018 100  AT      The                      Z5 
 0000018 110  NN      Deer                     L2mfnc 
@@ -242,13 +251,13 @@
 0000018 330  PPHS2   they                     Z8mfn 
 0000018 340  VV0     want                     X7+ S6+ A7+ S3.2 A9- 
 0000018 350  CC      and                      Z5 
-0000018 360  VV0     take                     M2[i15.2.1 I1.1/I3.1[i15.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000018 360  VV0     take                     M2[i16.2.1 I1.1/I3.1[i16.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
 0000018 370  PPHO2   them                     Z8mfn 
-0000018 380  RL      home                     M2[i15.2.2 I1.1/I3.1[i15.2.2 H4 M6 
+0000018 380  RL      home                     M2[i16.2.2 I1.1/I3.1[i16.2.2 H4 M6 
 0000018 381  .       .                        
 0000019 001  -----   -----                    
-0000020 010  PN121   No                       Z8/Z6[i16.2.1 
-0000020 020  PN122   one                      Z8/Z6[i16.2.2 Z8 
+0000020 010  PN121   No                       Z8/Z6[i17.2.1 
+0000020 020  PN122   one                      Z8/Z6[i17.2.2 Z8 
 0000020 030  VVD     said                     Q2.1 
 0000020 040  VVG     picking                  X7+ A1.1.1 F4 
 0000020 050  DDQ     which                    Z5 Z8 
@@ -267,8 +276,8 @@
 0000022 040  VVN     set                      M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3 
 0000022 050  TO      to                       Z5 
 0000022 060  VVI     start                    T2+ E5- E3- 
-0000022 070  MD      next                     T1.1.3[i17.2.1 N4 
-0000022 080  NNT1    month                    T1.1.3[i17.2.2 T1.3 
+0000022 070  MD      next                     T1.1.3[i18.2.1 N4 
+0000022 080  NNT1    month                    T1.1.3[i18.2.2 T1.3 
 0000022 090  CC      and                      Z5 
 0000022 100  VM      would                    A7+ 
 0000022 110  VVI     allow                    S7.4+ S8+ X2.1 
@@ -291,12 +300,13 @@
 0000022 260  DA2     many                     N5+ 
 0000022 270  NN      deer                     L2mfnc 
 0000022 280  CSA     as                       Z5 
-0000022 290  NN1     theyd                    Z99 
-0000022 300  II      like                     Z5 
+0000022 290  PPHS2   they                     Z8mfn 
+0000022 291  VM      'd                       A7+ 
+0000022 300  VVI     like                     E2+ 
 0000022 310  CC      and                      Z5 
-0000022 320  VV0     take                     M2[i18.2.1 I1.1/I3.1[i18.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000022 320  VVI     take                     M2[i19.2.1 I1.1/I3.1[i19.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
 0000022 330  PPHO2   them                     Z8mfn 
-0000022 340  RL      home                     M2[i18.2.2 I1.1/I3.1[i18.2.2 H4 M6 
+0000022 340  RL      home                     M2[i19.2.2 I1.1/I3.1[i19.2.2 H4 M6 
 0000022 350  IW      with                     Z5 
 0000022 360  PPHO2   them                     Z8mfn 
 0000022 361  .       .                        
@@ -354,8 +364,8 @@
 0000026 020  NN1     organization             S5+c S7.1+ 
 0000026 030  VBZ     is                       Z5 A3+ 
 0000026 040  RR      currently                T1.1.2 
-0000026 050  VVG     looking                  X2.4[i19.2.1 A8 X3.4 X2.4 X7+ Z4 
-0000026 060  IF      for                      X2.4[i19.2.2 Z5 
+0000026 050  VVG     looking                  X2.4[i20.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000026 060  IF      for                      X2.4[i20.2.2 Z5 
 0000026 070  NN1     volunteer                I3.1/I1.1-/S2mf I3.1/X7+/S2mf G3/S2mf 
 0000026 080  NN      staff                    I3.1/S2mfc B3/S2mf G3/S2c L2mfn I3.1 
 0000026 090  CST     that                     Z8 Z5 
@@ -443,8 +453,8 @@
 0000030 030  JJ      new                      T3- 
 0000030 040  NN1     friend                   S3.1/S2mf 
 0000030 050  TO      to                       Z5 
-0000030 060  VVI     bring                    A10+[i20.2.1 M2 A2.2 
-0000030 070  RL      home                     A10+[i20.2.2 H4 M6 
+0000030 060  VVI     bring                    A10+[i21.2.1 M2 A2.2 
+0000030 070  RL      home                     A10+[i21.2.2 H4 M6 
 0000030 071  .       .                        
 0000031 001  -----   -----                    
 0000032 010  FO      RocketNews24             Z99 
@@ -479,8 +489,8 @@
 0000034 280  CCB     but                      Z5 
 0000034 290  PPHS2   they                     Z8mfn 
 0000034 300  VBR     are                      Z5 A3+ 
-0000034 310  VVG     looking                  X2.4[i21.2.1 A8 X3.4 X2.4 X7+ Z4 
-0000034 320  II      into                     X2.4[i21.2.2 Z5 
+0000034 310  VVG     looking                  X2.4[i22.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000034 320  II      into                     X2.4[i22.2.2 Z5 
 0000034 330  RR      possibly                 A7+ 
 0000034 340  VVG     negotiating              Q2.2 
 0000034 350  AT1     a                        Z5 
@@ -489,13 +499,13 @@
 0000034 380  IW      with                     Z5 
 0000034 390  AT      the                      Z5 
 0000034 400  JJ      nearby                   N3.3- 
-0000034 410  NP1     Osaka                    Z2c[i22.3.1 Z2 
-0000034 420  JJ      International            Z2c[i22.3.2 M7 
-0000034 430  NN1     Airport                  Z2c[i22.3.3 M5/M7 
+0000034 410  NP1     Osaka                    Z2c[i23.3.1 Z2 
+0000034 420  JJ      International            Z2c[i23.3.2 M7 
+0000034 430  NN1     Airport                  Z2c[i23.3.3 M5/M7 
 0000034 440  IF      for                      Z5 
 0000034 450  PN1     anyone                   Z8mfc 
-0000034 460  VVG     bringing                 M2/N6+[i23.2.1 T2+/N6+[i23.2.1 M2[i23.2.1 M2 A2.2 
-0000034 470  RP      back                     M2/N6+[i23.2.2 T2+/N6+[i23.2.2 M2[i23.2.2 M6 N6+ T1.1.1 S1.1.2+ 
+0000034 460  VVG     bringing                 M2/N6+[i24.2.1 T2+/N6+[i24.2.1 M2[i24.2.1 M2 A2.2 
+0000034 470  RP      back                     M2/N6+[i24.2.2 T2+/N6+[i24.2.2 M2[i24.2.2 M6 N6+ T1.1.1 S1.1.2+ 
 0000034 480  MC      three                    N1 T1.2 T3 
 0000034 490  CC      or                       Z5 
 0000034 500  DAR     more                     N5++ 
@@ -513,8 +523,8 @@
 0000036 070  NP1     Nara                     Z99 
 0000036 080  NN      deer                     L2mfnc 
 0000036 090  VBR     are                      A3+ Z5 
-0000036 100  JJ      used                     T1.1.1[i24.2.1 A6.2+[i24.2.1 
-0000036 110  II      to                       T1.1.1[i24.2.2 A6.2+[i24.2.2 Z5 
+0000036 100  JJ      used                     T1.1.1[i25.2.1 A6.2+[i25.2.1 
+0000036 110  II      to                       T1.1.1[i25.2.2 A6.2+[i25.2.2 Z5 
 0000036 120  AT1     a                        Z5 
 0000036 130  NN1     life                     L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1 
 0000036 140  IO      of                       Z5 
@@ -525,8 +535,8 @@
 0000036 180  PPHS2   they                     Z8mfn 
 0000036 190  VV0     advise                   Q2.2/S8+ Q2.1/X2.2+ 
 0000036 200  PN1     anyone                   Z8mfc 
-0000036 210  VVG     looking                  X7+[i25.2.1 A8 X3.4 X2.4 X7+ Z4 
-0000036 220  TO      to                       X7+[i25.2.2 Z5 
+0000036 210  VVG     looking                  X7+[i26.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000036 220  TO      to                       X7+[i26.2.2 Z5 
 0000036 230  VVI     fly                      M5 M1 N3.8+ E3- 
 0000036 240  APPGE   their                    Z8 
 0000036 250  JJ      adopted-deer             Z99 
@@ -534,13 +544,14 @@
 0000036 270  II      to                       Z5 
 0000036 280  NN1     book                     Q4.1 Q1.2 K5.1/I1 
 0000036 290  AT      the                      Z5 
-0000036 300  NN2     deers                    L2 
+0000036 300  NN      deer                     L2mfnc 
+0000036 301  GE      's                       Z5 
 0000036 310  NN2     seats                    H5 B5 S1.1.3+ S7.1+ M7 
 0000036 320  II      in                       Z5 
-0000036 330  RR21    at                       A13.7[i26.2.1 
-0000036 340  RR22    least                    A13.7[i26.2.2 A13.7 
-0000036 350  NN1     business                 I2.1/P1c[i27.2.1 I2.1 A1.1.1 A5.1+++ 
-0000036 360  NN1     class                    I2.1/P1c[i27.2.2 P1c A4.1 S5+c O4.2+ 
+0000036 330  RR21    at                       A13.7[i27.2.1 
+0000036 340  RR22    least                    A13.7[i27.2.2 A13.7 
+0000036 350  NN1     business                 I2.1/P1c[i28.2.1 I2.1 A1.1.1 A5.1+++ 
+0000036 360  NN1     class                    I2.1/P1c[i28.2.2 P1c A4.1 S5+c O4.2+ 
 0000036 361  .       .                        
 0000037 001  -----   -----                    
 0000038 010  DAT     Most                     N5+++ 

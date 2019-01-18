@@ -54,7 +54,7 @@
 0000004 040 to                                          93 [TO/88] II/12
 0000004 050 Continue                                    93 VV0
 0000004 060 Political                                   93 JJ
-0000004 070 Revolution                                  93 NN1
+0000004 070 Revolution'                                 08 [NN1@/66] NP1/27 JJ@/7 VV0@/1
 0000004 080 in                                          93 [II/100] RP@/0
 0000004 090 New                                         96 NP1
 0000004 100 York                                        96 NP1
@@ -133,17 +133,20 @@
 0000008 250 opponent                                    93 NN1
 0000008 251 .                                           03 .
 0000008 252 ----------------------------------------------------
-0000009 010 Heres                       ERROR?          07 [NN2/72] NP1@/28
+0000009 010 Here                      >                 93 RL
+0000009 011 's                        <                 96 VBZ
 0000009 020 the                                         93 AT
 0000009 030 video                                       03 [NN1/100] VV0@/0
 0000009 040 of                                          93 IO
-0000009 050 Bernies                                     07 NP1
-0000009 060 address                                     93 [NN1/94] VV0@/6
+0000009 050 Bernie                    >                 93 NP1
+0000009 051 's                        <                 98 GE
+0000009 060 address                                     93 [NN1/100] VV0@/0
 0000009 070 from                                        93 II
 0000009 080 last                                        96 MD
 0000009 090 week                                        96 NNT1
 0000009 100 and                                         93 CC
-0000009 110 theres                      ERROR?          07 NN2
+0000009 110 there                     >                 93 [EX/97] RL/3
+0000009 111 's                        <                 96 VBZ
 0000009 120 also                                        93 RR
 0000009 130 no                                          93 [AT/99] UH/1 RR%/0 NN1%/0
 0000009 140 concession                                  03 NN1
@@ -176,11 +179,13 @@
 0000011 110 calls                                       93 [NN2/95] VVZ/5
 0000011 120 to                                          97 TO
 0000011 130 end                                         97 VVI
-0000011 140 Bernies                                     07 NP1
-0000011 150 campaign                                    03 [NN1/99] VV0@/1
+0000011 140 Bernie                    >                 93 NP1
+0000011 141 's                        <                 98 GE
+0000011 150 campaign                                    03 [NN1/100] VV0@/0
 0000011 151 .                                           03 .
 0000011 152 ----------------------------------------------------
-0000011 160 Vermonts                                    04 NP2
+0000011 160 Vermont                   >                 93 NP1
+0000011 161 's                        <                 98 GE
 0000011 170 Senator                                     93 NN1
 0000011 180 is                                          93 VBZ
 0000011 190 taking                                      93 [VVG/100] JJ%/0 NN1%/0
@@ -190,8 +195,9 @@
 0000011 230 to                                          93 [II/100] TO/0
 0000011 240 Philadelphia                                93 NP1
 0000011 250 and                                         93 CC
-0000011 260 hell                                        93 NN1
-0000011 270 continue                                    03 VV0
+0000011 260 he                        >                 93 PPHS1
+0000011 261 'll                       <                 03 VM
+0000011 270 continue                                    97 VVI
 0000011 280 to                                          97 TO
 0000011 290 run                                         97 VVI
 0000011 300 for                                         93 [IF/100] CS%/0
@@ -253,8 +259,9 @@
 0000017 260 its                                         93 APPGE
 0000017 270 findings                                    93 NN2
 0000017 280 of                                          93 IO
-0000017 290 Clintons                                    04 NP2
-0000017 300 email                                       93 [NN1/74] VV0@/26
+0000017 290 Clinton                   >                 93 NP1
+0000017 291 's                        <                 98 GE
+0000017 300 email                                       93 [NN1/100] VV0@/0
 0000017 310 investigation                               93 NN1
 0000017 320 before                                      93 [II/77] CS/23 RT@/0
 0000017 330 the                                         93 AT
@@ -267,9 +274,10 @@
 0000017 380 the                                         93 AT
 0000017 390 other                                       93 [JJ/99] NN1@/1
 0000017 400 day                                         93 NNT1
-0000017 410 that                                        93 [CST/87] DD1/12 RG%/0
-0000017 420 Clintons                                    04 NP2
-0000017 430 email                                       93 [NN1/74] VV0@/26
+0000017 410 that                                        93 [CST/99] DD1/1 RG%/0
+0000017 420 Clinton                   >                 93 NP1
+0000017 421 's                        <                 98 GE
+0000017 430 email                                       93 [NN1/100] VV0@/0
 0000017 440 investigation                               93 NN1
 0000017 450 is                                          93 VBZ
 0000017 460 a                                           93 AT1
@@ -287,12 +295,13 @@
 0000019 010 Judge                                       93 [NN1/54] NP1@/29 VV0/18
 0000019 020 links                                       93 [VVZ/83] NN2/17
 0000019 030 Clinton                                     93 NP1
-0000019 040 aides                                       93 NN2
+0000019 040 aide                      >                 93 NN1
+0000019 041 's                        <                 98 GE
 0000019 050 immunity                                    93 NN1
 0000019 060 to                                          93 [II/100] TO/0
-0000019 070 criminal                                    03 [JJ/86] NN1/14
-0000019 080 investigation                               93 NN1
-0000020 010 A                                           93 [AT1@/94] ZZ1/6
+0000019 070 criminal                                    03 [NN1/51] JJ/49
+0000019 080 investigation'                              08 [VV0/59] NN1/37 JJ/4
+0000020 010 A                                           93 [AT1@/97] ZZ1/3
 0000020 020 former                                      93 DA
 0000020 030 information                                 93 NN1
 0000020 040 technology                                  03 NN1
@@ -363,7 +372,8 @@
 0000022 390 the                                         93 AT
 0000022 400 FBI                                         93 NP1
 0000022 410 about                                       93 [II/100] RP@/0 RG%/0
-0000022 420 Clintons                                    04 NP2
+0000022 420 Clinton                   >                 93 NP1
+0000022 421 's                        <                 98 GE
 0000022 430 private                                     93 [JJ/97] NN1@/3
 0000022 440 server                                      93 NN1
 0000022 450 set-up                                      93 [NN1/100] VV0%/0
@@ -404,8 +414,9 @@
 0000026 070 high                                        93 [JJ/59] RR@/41 NN1%/0
 0000026 080 because                                     93 CS
 0000026 090 the                                         93 AT
-0000026 100 governments                                 03 NN2
-0000026 110 criminal                                    03 [JJ/87] NN1/13
+0000026 100 government                >                 93 NN1
+0000026 101 's                        <                 98 GE
+0000026 110 criminal                                    03 [JJ/86] NN1/14
 0000026 120 investigation                               93 NN1
 0000026 130 through                                     93 [II/99] RP@/1 JJ%/0
 0000026 140 which                                       93 DDQ
@@ -447,9 +458,10 @@
 0000027 120 criminal                                    03 [JJ/89] NN1/11
 0000027 130 investigation                               93 NN1
 0000027 131 ,                                           03 ,
-0000027 140 theres                      ERROR?          07 NN2
-0000027 150 no                                          93 [AT/98] RR%/2 NN1%/0 UH/0
-0000027 160 reason                                      03 [NN1/98] VV0@/2
+0000027 140 there                     >                 96 EX
+0000027 141 's                        <                 96 VBZ
+0000027 150 no                                          96 AT
+0000027 160 reason                                      03 [NN1/100] VV0@/0
 0000027 170 to                                          97 TO
 0000027 180 concede                                     97 VVI
 0000027 190 or                                          93 CC
@@ -476,8 +488,9 @@
 0000027 370 high                                        93 [JJ/59] RR@/41 NN1%/0
 0000027 380 because                                     93 CS
 0000027 390 the                                         93 AT
-0000027 400 governments                                 03 NN2
-0000027 410 criminal                                    03 [JJ/87] NN1/13
+0000027 400 government                >                 93 NN1
+0000027 401 's                        <                 98 GE
+0000027 410 criminal                                    03 [JJ/86] NN1/14
 0000027 420 investigation                               93 NN1
 0000027 430 through                                     93 [II/99] RP@/1 JJ%/0
 0000027 440 which                                       93 DDQ
@@ -492,7 +505,8 @@
 0000027 530 confidential                                93 JJ
 0000027 531 .                                           03 .
 0000028 001 ----------------------------------------------------
-0000029 010 Clintons                                    04 NP2
+0000029 010 Clinton                   >                 93 NP1
+0000029 011 's                        <                 98 GE
 0000029 020 security                                    93 NN1
 0000029 030 review                                      03 [NN1/100] VV0/0
 0000029 040 days                                        93 NNT2
@@ -512,8 +526,9 @@
 0000029 161 .                                           03 .
 0000030 001 ----------------------------------------------------
 0000031 010 But                                         96 CCB
-0000031 020 theres                      ERROR?          07 NN2
-0000031 030 no                                          93 [AT/99] NN1%/0 RR%/0 UH/0
+0000031 020 there                     >                 96 EX
+0000031 021 's                        <                 96 VBZ
+0000031 030 no                                          96 AT
 0000031 040 chance                                      03 [NN1/100] VV0%/0
 0000031 050 of                                          93 IO
 0000031 060 Clinton                                     93 NP1
@@ -538,7 +553,8 @@
 0000033 110 the                                         93 AT
 0000033 120 world                                       93 NN1
 0000033 130 next                                        93 MD
-0000033 140 years                                       93 NNT2
+0000033 140 year                      >                 93 NNT1
+0000033 141 's                        <                 98 GE
 0000033 150 winner                                      93 NN1
 0000033 160 of                                          93 IO
 0000033 170 the                                         93 AT
@@ -571,8 +587,9 @@
 0000035 010 Emails                                      04 [NN2/93] VVZ@/7
 0000035 020 from                                        93 II
 0000035 030 Hillary                                     93 NP1
-0000035 040 Clintons                                    04 NP2
-0000035 050 home                                        93 [NN1/59] RL/39 VV0%/2
+0000035 040 Clinton                   >                 93 NP1
+0000035 041 's                        <                 98 GE
+0000035 050 home                                        96 [NN1@/97] RL/3
 0000035 060 server                                      93 NN1
 0000035 070 contained                                   93 [VVD/62] VVN/27 JJ@/11
 0000035 080 information                                 93 NN1
@@ -616,15 +633,17 @@
 0000037 051 ,                                           03 ,
 0000037 060 the                                         93 AT
 0000037 070 intelligence                                03 NN1
-0000037 080 communitys                                  04 NN2
+0000037 080 community                 >                 93 NN1
+0000037 081 's                        <                 98 GE
 0000037 090 internal                                    93 JJ
 0000037 100 watchdog                                    93 NN1
 0000037 110 says                                        93 VVZ
 0000037 120 some                                        93 DD
 0000037 130 of                                          93 IO
-0000037 140 Clintons                                    04 NP2
-0000037 150 emails                                      04 [NN2/83] VVZ@/17
-0000037 160 contained                                   93 [VVD/47] VVN/30 JJ@/23
+0000037 140 Clinton                   >                 93 NP1
+0000037 141 's                        <                 98 GE
+0000037 150 emails                                      04 [NN2/100] VVZ@/0
+0000037 160 contained                                   93 [VVD/56] VVN/35 JJ@/9
 0000037 170 information                                 93 NN1
 0000037 180 classified                                  03 [VVN/49] JJ/38 VVD@/13
 0000037 190 Top                                         93 [JJ/86] NN1/13 VV0@/1
@@ -663,7 +682,8 @@
 0000039 130 two                                         93 MC
 0000039 140 emails                                      04 [NN2/96] VVZ@/4
 0000039 150 from                                        93 II
-0000039 160 Clintons                                    04 NP2
+0000039 160 Clinton                   >                 93 NP1
+0000039 161 's                        <                 98 GE
 0000039 170 server                                      93 NN1
 0000039 180 that                                        93 [CST/99] DD1/1 RG%/0
 0000039 190 have                                        93 VH0
@@ -757,7 +777,8 @@
 0000042 240 I                                           93 [PPIS1/100] ZZ1@/0 MC1@/0
 0000042 250 explain                                     03 VV0
 0000042 260 why                                         93 RRQ
-0000042 270 Clintons                                    04 NP2
+0000042 270 Clinton                   >                 93 NP1
+0000042 271 's                        <                 98 GE
 0000042 280 Special                                     93 JJ
 0000042 290 Access                                      93 [NN1/100] VV0@/0
 0000042 300 Program                                     93 [NN1/99] VV0@/1
@@ -790,7 +811,8 @@
 0000044 110 presidency                                  03 NN1
 0000044 120 better                                      93 [RRR/85] JJR/15 NN1%/0 VV0%/0
 0000044 130 than                                        93 CSN
-0000044 140 Clintons                                    04 NP2
+0000044 140 Clinton                   >                 93 NP1
+0000044 141 's                        <                 98 GE
 0000044 150 treatment                                   03 NN1
 0000044 160 of                                          93 IO
 0000044 170 donors                                      93 NN2
@@ -1004,8 +1026,9 @@
 0000054 140 Mills                                       93 [NP1/99] NN2@/1
 0000054 150 had                                         93 [VHD/100] VHN@/0
 0000054 160 added                                       97 VVN
-0000054 170 Fernandos                                   04 NP2
-0000054 180 name                                        93 [NN1/61] VV0@/39
+0000054 170 Fernando                  >                 93 NP1
+0000054 171 's                        <                 98 GE
+0000054 180 name                                        93 [NN1/100] VV0@/0
 0000054 190 to                                          93 [II/100] TO/0
 0000054 200 the                                         93 AT
 0000054 210 list                                        03 [NN1/100] VV0@/0
@@ -1032,7 +1055,8 @@
 0000054 371 .                                           03 .
 0000054 372 ----------------------------------------------------
 0000054 380 The                                         93 AT
-0000054 390 boards                                      93 [NN2/100] VVZ@/0
+0000054 390 board                     >                 93 [NN1/100] VV0@/0
+0000054 391 's                        <                 98 GE
 0000054 400 membership                                  93 NN1
 0000054 410 preceded                                    03 [VVD/91] VVN/9
 0000054 420 me                                          93 PPIO1
@@ -1083,8 +1107,8 @@
 0000055 120 strategy                                    03 NN1
 0000055 121 ,                                           03 ,
 0000055 130 but                                         93 CCB
-0000055 140 he                        >                 56 PPHS1
-0000055 141 s                         <                 56 VBZ
+0000055 140 he                        >                 93 PPHS1
+0000055 141 's                        <                 96 VBZ
 0000055 150 also                                        93 RR
 0000055 160 a                                           93 AT1
 0000055 170 Democratic                                  93 JJ
@@ -1096,8 +1120,8 @@
 0000057 020 believe                                     93 VV0
 0000057 030 the                                         93 AT
 0000057 040 system                                      93 NN1
-0000057 050 did                       >                 56 VDD
-0000057 051 nt                        <                 56 XX
+0000057 050 did                       >                 93 VDD
+0000057 051 n't                       <                 03 XX
 0000057 060 favor                       ERROR?          97 VVI
 0000057 070 Clinton                                     93 NP1
 0000057 071 ?                                           03 ?
@@ -1114,7 +1138,8 @@
 0000059 100 super                                       93 [JJ/99] NN1@/1
 0000059 110 delegates                                   03 NN2
 0000059 111 ,                                           03 ,
-0000059 120 Clintons                                    04 NP2
+0000059 120 Clinton                   >                 93 NP1
+0000059 121 's                        <                 98 GE
 0000059 130 candidacy                                   93 NN1
 0000059 140 is                                          93 VBZ
 0000059 150 unique                                      93 JJ
@@ -1205,7 +1230,8 @@
 0000061 090 ignored                                     97 VVN
 0000061 100 the                                         93 AT
 0000061 110 fact                                        93 NN1
-0000061 120 Bernies                                     07 NP1
+0000061 120 Bernie                    >                 93 NP1
+0000061 121 's                        <                 98 GE
 0000061 130 challenger                                  93 NN1
 0000061 140 risks                                       03 [VVZ@/56] NN2/44
 0000061 150 serious                                     93 JJ
@@ -1227,9 +1253,10 @@
 0000061 290 if                                          93 [CS/98] CSW@/2
 0000061 300 he                                          93 PPHS1
 0000061 310 were                                        93 VBDR
-0000061 320 in                                          93 [II/100] RP@/0
-0000061 330 Clintons                                    04 NP2
-0000061 340 position                                    03 [NN1/88] VV0@/12
+0000061 320 in                                          93 [II/99] RP@/1
+0000061 330 Clinton                   >                 93 NP1
+0000061 331 's                        <                 98 GE
+0000061 340 position                                    03 [NN1/100] VV0@/0
 0000061 341 .                                           03 .
 0000061 342 ----------------------------------------------------
 0000061 350 Therefore                                   93 RR
@@ -1262,8 +1289,9 @@
 0000063 020 Bernie                                      93 NP1
 0000063 030 Sanders                                     93 NP1
 0000063 031 ,                                           03 ,
-0000063 040 theres                      ERROR?          07 NN2
-0000063 050 no                                          93 [AT/99] NN1%/0 RR%/0 UH/0
+0000063 040 there                     >                 96 EX
+0000063 041 's                        <                 96 VBZ
+0000063 050 no                                          96 AT
 0000063 060 risk                                        03 [NN1/100] VV0/0
 0000063 070 of                                          93 IO
 0000063 080 scandal                                     03 NN1
@@ -1283,10 +1311,11 @@
 0000063 200 stop                                        97 VVI
 0000063 201 ,                                           03 ,
 0000063 210 especially                                  03 RR
-0000063 220 since                                       93 [II@/52] RR@/41 CS/8
-0000063 230 Clintons                                    04 NP2
-0000063 240 emails                                      04 [NN2/98] VVZ@/2
-0000063 250 will                                        93 [VM/100] NN1@/0 VV0%/0
+0000063 220 since                                       93 [CS/84] II@/15 RR@/1
+0000063 230 Clinton                   >                 93 NP1
+0000063 231 's                        <                 98 GE
+0000063 240 emails                                      04 [NN2/100] VVZ@/0
+0000063 250 will                                        93 [VM/100] VV0%/0 NN1@/0
 0000063 260 dominate                                    97 VVI
 0000063 270 the                                         93 AT
 0000063 280 media                                       93 NN

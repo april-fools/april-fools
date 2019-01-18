@@ -1,7 +1,7 @@
 Badakhshan               NP1     Z99 
 geospatial               JJ      Z99 
 negligently              RR      Z99 
-neighboring              VVG     Z99 
+neighboring              JJ@     Z99 
 Obama                    NN1     Z99 
 Obama                    NP1     Z99 
 SIGAR                    NP1     Z99 

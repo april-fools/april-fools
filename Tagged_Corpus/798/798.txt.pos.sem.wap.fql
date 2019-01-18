@@ -1,4 +1,4 @@
-TOTAL              561
+TOTAL              567
 the                  AT             26 
 of                   IO             14 
 in                   II             13 
@@ -6,10 +6,11 @@ HIV                  NP1            12
 a                    AT1            12 
 and                  CC             11 
 was                  VBDZ           10 
-to                   TO             10 
+to                   TO              9 
 people               NN              8 
 he                   PPHS1           8 
 who                  PNQS            8 
+i                    PPIS1           8 
 for                  IF              7 
 that                 CST             7 
 has                  VHZ             6 
@@ -18,7 +19,6 @@ treatment            NN1             6
 on                   II              6 
 said                 VVD             6 
 with                 IW              6 
-i                    PPIS1           6 
 were                 VBDR            5 
 country              NN1             5 
 british              JJ              4 
@@ -36,6 +36,7 @@ christian            JJ              3
 foreign              JJ              3 
 nationals            NN2             3 
 during               II              3 
+'s                   GE              3 
 diagnoses            NN2             3 
 as                   CSA             3 
 but                  CCB             3 
@@ -51,6 +52,8 @@ thing                NN1             2
 look_after           VVI             2 
 leader               NN1             2 
 leaders              NN2             2 
+'                    GE              2 
+debate               NN1             2 
 60_per_cent          MC              2 
 new                  JJ              2 
 patients             NN2             2 
@@ -91,8 +94,7 @@ aids                 NN2             1
 campaigners          NN2             1 
 incorrect            JJ              1 
 assertion            NN1             1 
-Thursdays            NPD2            1 
-debate               VV0             1 
+Thursday             NPD1            1 
 sky                  NN1             1 
 news                 NN1             1 
 campaigning          VVG             1 
@@ -101,7 +103,7 @@ yesterday            RT              1
 whether              CSW             1 
 withholding          JJ              1 
 because_of           II21            1 
-persons              NN2             1 
+person               NN1             1 
 in_line_with         II31            1 
 values               NN2             1 
 had                  VHD             1 
@@ -161,7 +163,6 @@ said                 VVN             1
 needs                VVZ             1 
 'quality'            JJ              1 
 segment              NN1             1 
-debate               NN1             1 
 horrible             JJ              1 
 things               NN2             1 
 happening            VVG             1 
@@ -210,7 +211,7 @@ attack               NN1             1
 carefully            RR              1 
 planned              VVN             1 
 fire_up              VVI             1 
-partys               NN2             1 
+party                NN1             1 
 core                 NN1             1 
 vote                 NN1             1 
 under                II              1 
@@ -245,12 +246,11 @@ away_from            II21            1
 killed               VVN             1 
 thought              VVD             1 
 if                   CS              1 
-Im                   NP1             1 
+'m                   VBM             1 
 going_to             VVGK            1 
 stay                 VVI             1 
 alive                JJ              1 
-ive                  NN1             1 
-got                  VVD             1 
+'ve_got_to           VH0             1 
 leave                VVI             1 
 my                   APPGE           1 
 had_no_idea          VHD             1 
@@ -266,7 +266,8 @@ allowed              VVN             1
 enter                VVI             1 
 Britain_last         NP1             1 
 to_be_frank          TO              1 
-thats                VVZ             1 
+that                 DD1             1 
+'s                   VBZ             1 
 start                NN1             1 
 skill                NN1             1 
 according_to         II21            1 

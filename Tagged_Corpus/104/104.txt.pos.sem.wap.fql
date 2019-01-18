@@ -1,4 +1,4 @@
-TOTAL              426
+TOTAL              427
 the                  AT             20 
 of                   IO             16 
 to                   TO             10 
@@ -45,6 +45,7 @@ year                 NNT1            2
 there                EX              2 
 their                APPGE           2 
 should               VM              2 
+it                   PPH1            2 
 my                   APPGE           2 
 them                 PPHO2           2 
 is                   VBZ             2 
@@ -145,7 +146,6 @@ every_day            AT1             1
 get                  VV0             1 
 hundreds             NNO2            1 
 emails               NN2             1 
-it                   PPH1            1 
 takes                VVZ             1 
 hours                NNT2            1 
 secretary            NN1             1 
@@ -171,7 +171,7 @@ you                  PPY             1
 make_it              VVI             1 
 stop                 VVI             1 
 ringing              NN1             1 
-its                  APPGE           1 
+'s                   VBZ             1 
 so                   RG              1 
 annoying             JJ              1 
 renewed              JJ              1 

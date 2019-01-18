@@ -7,8 +7,9 @@
 0000002 050  JJ      great                    A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3 
 0000002 060  NN1     news                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
 0000002 061  ,       ,                        
-0000002 070  NN1     theyve                   Z99 
-0000002 080  VVD     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000002 070  PPHS2   they                     Z8mfn 
+0000002 071  VH0     've                      Z5 A9+ A2.2 
+0000002 080  VVN     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
 0000002 090  AT1     a                        Z5 
 0000002 100  NN1     breakthrough             X9.2+ 
 0000002 110  II      in                       Z5 
@@ -413,7 +414,8 @@
 0000018 160  II      at                       Z5 
 0000018 170  FO      0.33nm                   Z99 
 0000018 171  ,       ,                        
-0000018 180  VVZ     thats                    Z5 Z8 A13.3 A6.1+ 
+0000018 180  DD1     that                     Z8 Z5 
+0000018 181  VBZ     's                       A3+ Z5 
 0000018 190  RR      almost                   A13.4 
 0000018 200  MC1     one                      N1[i18.2.1 T1.3[i18.2.1 I1[i18.2.1 N1 T3 T1.2 
 0000018 210  NNO     million                  N1[i18.2.2 T1.3[i18.2.2 I1[i18.2.2 N1 I1 
@@ -507,7 +509,8 @@
 0000022 020  DDQ     what                     Z8 Z5 
 0000022 030  RR      exactly                  A4.2+ A5.3+ 
 0000022 040  VBZ     is                       A3+ Z5 
-0000022 050  NP1     Samsungs                 Z3c 
+0000022 050  NP1     Samsung                  Z3c 
+0000022 051  GE      's                       Z5 
 0000022 060  NN1     breakthrough             X9.2+ 
 0000022 070  IW      with                     Z5 
 0000022 080  NN1     graphene                 Z99 
@@ -604,6 +607,7 @@
 0000026 600  JJ      individual               N5- 
 0000026 610  NN2     seeds                    L3 T2+ K5.1/S2 
 0000026 611  ,       ,                        
+0000026 612  "@      '                        
 0000026 620  CSA     as                       Z5 
 0000026 630  PPHS2   they                     Z8mfn 
 0000026 640  VV0     call                     Q2.2 S1.1.1 Q1.3 S9% 
@@ -901,7 +905,8 @@
 0000034 420  JJ      possible                 A7+ 
 0000034 421  .       .                        
 0000035 001  -----   -----                    
-0000036 010  NN2     Whats                    Z8 Z5 
+0000036 010  DDQ     What                     Z8 Z5 
+0000036 011  VBZ     's                       A3+ Z5 
 0000036 020  MD      next                     N4 
 0000036 021  ?       ?                        
 0000037 001  -----   -----                    
@@ -968,7 +973,8 @@
 0000038 540  NN1     scale                    N3.2 N4 A4.1 K2 L2 O2 I1.1/I3.1 O1.1 N3.1 
 0000038 541  .       .                        
 0000039 001  -----   -----                    
-0000040 010  NP1     Samsungs                 Z3c 
+0000040 010  NP1@    Samsung                  Z3c 
+0000040 011  GE      's                       Z5 
 0000040 020  NN1     breakthrough             X9.2+ 
 0000040 030  II      in                       Z5 
 0000040 040  NN1     graphene                 Z99 
@@ -1021,8 +1027,9 @@
 0000040 470  VVN     produced                 A2.2 A1.1.1 A10+ K4 K3 Q4.3 F4 
 0000040 471  .       .                        
 0000040 472  -----   -----                    
-0000040 480  RR      Well                     A5.1+ A13.3 A7+ B2+ Z4 
-0000040 490  VB0     be                       Z5 
+0000040 480  PPIS2   We                       Z8 
+0000040 481  VM      'll                      T1.1.3 
+0000040 490  VBI     be                       Z5 A3+ 
 0000040 500  RR      anxiously                E6- 
 0000040 510  VVG     awaiting                 X2.6+ 
 0000040 520  AT      the                      Z5 

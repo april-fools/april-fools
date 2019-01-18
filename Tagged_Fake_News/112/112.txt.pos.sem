@@ -218,8 +218,9 @@
 0000010 060  APPGE   her                      Z8f 
 0000010 070  NN2     thoughts                 X4.1 
 0000010 080  II      about                    Z5 
-0000010 090  NP2     Hillarys                 Z99 
-0000010 100  VV0     run                      M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4 
+0000010 090  NP1     Hillary                  Z99 
+0000010 091  GE      's                       Z5 
+0000010 100  NN1     run                      M1/N3.8+ M1 B5 X8+ T1.3 X7/N5+ N5 K4 K5.1% 
 0000010 110  IF      for                      Z5 
 0000010 120  AT      the                      Z5 
 0000010 130  NN1     presidency               S7.1+ G1.1 
@@ -350,10 +351,11 @@
 0000016 150  JJ      previous                 N4 
 0000016 160  NN2     allegations              Q2.2/A5.2- 
 0000016 170  IO      of                       Z5 
-0000016 180  NP1     Hillary                  Z99 
-0000016 190  NP2     Clintons                 Z1mf 
-0000016 200  JJ      lesbian                  S3.2/B1 
-0000016 210  NN1     past                     T1.1.1 
+0000016 180  NP1     Hillary                  Z1mf[i46.2.1 Z3c[i46.2.1 
+0000016 190  NP1     Clinton                  Z1mf[i46.2.2 Z3c[i46.2.2 Z1mf 
+0000016 191  GE      's                       Z5 
+0000016 200  NN1     lesbian                  S3.2/S2.1f 
+0000016 210  RL      past                     M6 
 0000016 220  VH0     have                     Z5 A9+ A2.2 S4 
 0000016 230  XX      not                      Z6 
 0000016 240  VVN     seemed                   A8 

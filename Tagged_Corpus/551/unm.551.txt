@@ -18,4 +18,6 @@ passport-holding         JJ      Z99
 Rafat                    VV0     Z99 
 Senegalese-born          NN1     Z99 
 Skift                    NN1     Z99 
+slump'                   NN1     Z99 
+translation'             NN1     Z99 
 two-mum                  NN1     Z99 

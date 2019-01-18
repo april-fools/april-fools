@@ -1,11 +1,11 @@
-TOTAL              335
+TOTAL              339
 the                  AT             37 
 and                  CC             14 
 of                   IO             13 
+team                 NN1            12 
 to                   TO             12 
-team                 NN1            10 
+car                  NN1            11 
 hp                   NN1            10 
-car                  NN1            10 
 for                  IF              7 
 luczo                NN1             5 
 dragon               NN1             5 
@@ -20,17 +20,16 @@ using                VVG             3
 technology           NN1             3 
 every                AT1             3 
 a                    AT1             3 
+'s                   GE              3 
 will                 VM              3 
 be                   VBI             3 
 in                   II              3 
 able                 JK              3 
 on                   II              3 
 at                   II              2 
-cars                 NN2             2 
 from                 II              2 
 telemetry            NN1             2 
 engine               NN1             2 
-teams                NN2             2 
 during               II              2 
 aspect               NN1             2 
 reliability          NN1             2 
@@ -51,6 +50,7 @@ printers             NN2             1
 are                  VBR             1 
 used_to              VVN             1 
 design               VVI             1 
+cars                 NN2             1 
 manage               VVI             1 
 everything           PN1             1 
 to                   II              1 
@@ -154,7 +154,8 @@ it                   PPH1            1
 critical             JJ              1 
 analyze              VVI             1 
 information          NN1             1 
-theyre               NN1             1 
+they                 PPHS2           1 
+'re                  VBR             1 
 receiving            VVG             1 
 sensors              NN2             1 
 immediately          RR              1 

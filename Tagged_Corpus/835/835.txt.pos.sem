@@ -4,6 +4,7 @@
 0000002 020  NN2     devices                  O2 X4.2 Q1.1 
 0000002 030  VVG     measuring                N3.1 
 0000002 040  NN2     players                  K6/S2mf K5.2/S2mf K2/S2mf S1.1.3+/S2mf K4/S2mf K3 
+0000002 041  GE      '                        Z5 
 0000002 050  JJ      joint                    S5+ 
 0000002 060  NN1     stress                   E6- A1.7+ Q3 A1.1.2 
 0000002 061  ,       ,                        
@@ -34,7 +35,8 @@
 0000004 081  .       .                        
 0000005 001  -----   -----                    
 0000008 010  AT      The                      Z5 
-0000008 020  NN2     sports                   K5.1 
+0000008 020  NN1     sport                    K5.1 
+0000008 021  VBZ     's                       Z5 A3+ 
 0000008 030  VVG     playing                  K1 K5.1 K5.2 K2 K3 A1.1.1 K6 
 0000008 040  NN2     rules                    G2.1 X4.2 A6.2+ Q3 
 0000008 050  NN1     committee                S7.1+/S5+c 
@@ -175,6 +177,7 @@
 0000014 170  CC      or                       Z5 
 0000014 180  AT      the                      Z5 
 0000014 190  NN2     players                  K6/S2mf K5.2/S2mf K2/S2mf S1.1.3+/S2mf K4/S2mf K3 
+0000014 191  GE      '                        Z5 
 0000014 200  NN1     association              S5+c A6.1+/X2.1 
 0000014 201  .       .                        
 0000014 202  -----   -----                    
@@ -227,22 +230,26 @@
 0000016 250  AT      The                      Z5 
 0000016 260  NN1     committee                S7.1+/S5+c 
 0000016 270  VVZ     includes                 A1.8+ 
-0000016 280  NP2     Atlantas                 Z2 
+0000016 280  NP1     Atlanta                  Z2 
+0000016 281  GE      's                       Z5 
 0000016 290  NP1     John                     Z1mf[i12.2.1 Z3c[i12.2.1 Z1m S9/O1.2 
 0000016 300  NP1     Schuerholz               Z1mf[i12.2.2 Z3c[i12.2.2 
 0000016 301  ,       ,                        
-0000016 310  NP2     Clevelands               Z2 Z3c Z1mf 
+0000016 310  NP1     Cleveland                Z2 Z3c Z1mf 
+0000016 311  GE      's                       Z5 
 0000016 320  NP1     Chris                    Z1mf[i13.2.1 Z3c[i13.2.1 Z1mf 
 0000016 330  NP1     Antonetti                Z1mf[i13.2.2 Z3c[i13.2.2 
 0000016 331  ,       ,                        
-0000016 340  NP1     St                       Z1mf[i15.3.1 Z3c[i15.3.1 Z1mf[i14.2.1 Z3c[i14.2.1 Z2[i16.2.1 Z3c[i16.2.1 Z1mf[i16.2.1 Z2[i17.2.1 Z3c[i17.2.1 Z2[i18.2.1 Z3c[i18.2.1 
-0000016 350  NP1     Louis                    Z1mf[i15.3.2 Z3c[i15.3.2 Z1mf[i20.3.1 Z3c[i20.3.1 Z1m Z1mf[i14.2.2 Z3c[i14.2.2 Z2[i16.2.2 Z3c[i16.2.2 Z1mf[i16.2.2 Z2[i17.2.2 Z3c[i17.2.2 Z2[i18.2.2 Z3c[i18.2.2 Z1mf[i19.2.1 Z3c[i19.2.1 
-0000016 360  NP1     John                     Z3c[i15.3.3 Z1mf[i15.3.3 Z1mf[i20.3.2 Z3c[i20.3.2 Z1m S9/O1.2 Z1mf[i19.2.2 Z3c[i19.2.2 Z1mf[i21.2.1 Z3c[i21.2.1 
-0000016 370  NP1     Mozeliak                 Z3c[i20.3.3 Z1mf[i20.3.3 Z1mf[i21.2.2 Z3c[i21.2.2 
+0000016 340  NP1     St                       Z2[i17.2.1 Z3c[i17.2.1 Z2[i16.2.1 Z3c[i16.2.1 Z2[i15.2.1 Z3c[i15.2.1 Z1mf[i15.2.1 Z1mf[i14.2.1 Z3c[i14.2.1 
+0000016 350  NP1     Louis                    Z2[i17.2.2 Z3c[i17.2.2 Z2[i16.2.2 Z3c[i16.2.2 Z1m Z2[i15.2.2 Z3c[i15.2.2 Z1mf[i15.2.2 Z1mf[i14.2.2 Z3c[i14.2.2 
+0000016 351  GE      '                        Z5 
+0000016 360  NP1     John                     Z1mf[i18.2.1 Z3c[i18.2.1 Z1m S9/O1.2 
+0000016 370  NP1     Mozeliak                 Z1mf[i18.2.2 Z3c[i18.2.2 
 0000016 371  ,       ,                        
-0000016 380  NP2     Minnesotas               Z2 
-0000016 390  NP1     Terry                    Z1mf[i22.2.1 Z3c[i22.2.1 Z1mf 
-0000016 400  NP1     Ryan                     Z1mf[i22.2.2 Z3c[i22.2.2 Z1mf 
+0000016 380  NP1     Minnesota                Z2 
+0000016 381  GE      's                       Z5 
+0000016 390  NP1     Terry                    Z1mf[i19.2.1 Z3c[i19.2.1 Z1mf 
+0000016 400  NP1     Ryan                     Z1mf[i19.2.2 Z3c[i19.2.2 Z1mf 
 0000016 410  CC      and                      Z5 
 0000016 420  NN2     others                   A6.1-/Z8 
 0000016 421  .       .                        
@@ -328,9 +335,9 @@
 0000022 010  NN2     Players                  K6/S2mf K5.2/S2mf K2/S2mf S1.1.3+/S2mf K4/S2mf K3 
 0000022 020  VM      can                      A7+ 
 0000022 030  VVI     decide                   X6+ 
-0000022 040  CSW31   whether                  Z7[i23.3.1 Z5 
-0000022 050  CSW32   or                       Z7[i23.3.2 
-0000022 060  CSW33   not                      Z7[i23.3.3 
+0000022 040  CSW31   whether                  Z7[i20.3.1 Z5 
+0000022 050  CSW32   or                       Z7[i20.3.2 
+0000022 060  CSW33   not                      Z7[i20.3.3 
 0000022 070  TO      to                       Z5 
 0000022 080  VVI     use                      A1.5.1 S7.1+ 
 0000022 090  AT      the                      Z5 
@@ -367,11 +374,11 @@
 0000024 200  JJ      high                     N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9 
 0000024 210  NN1     intensity                N5 
 0000024 220  NN2     players                  K6/S2mf K5.2/S2mf K2/S2mf S1.1.3+/S2mf K4/S2mf K3 
-0000024 230  II21    such                     Z5[i24.2.1 
-0000024 240  II22    as                       Z5[i24.2.2 Z5 
+0000024 230  II21    such                     Z5[i21.2.1 
+0000024 240  II22    as                       Z5[i21.2.2 Z5 
 0000024 250  AT      the                      Z5 
-0000024 260  NN1     starting                 K5.1/M7[i25.2.1 T2+ E5- E3- 
-0000024 270  NN1     pitcher                  K5.1/M7[i25.2.2 O2 K5.1/S2mf 
+0000024 260  NN1     starting                 K5.1/M7[i22.2.1 T2+ E5- E3- 
+0000024 270  NN1     pitcher                  K5.1/M7[i22.2.2 O2 K5.1/S2mf 
 0000024 280  NN2     rotations                M1 M2 A6.3+ 
 0000024 290  CC      and                      Z5 
 0000024 300  NN2     catchers                 A1.7+/S2mf 
@@ -379,8 +386,8 @@
 0000024 302  NULL    </quote>                 
 0000024 303  -----   -----                    
 0000024 310  VVD     said                     Q2.1 
-0000024 320  NP1     Steven                   Z2[i27.2.1 Z3c[i27.2.1 Z1mf[i27.2.1 Z1m Z1mf[i26.2.1 Z3c[i26.2.1 
-0000024 330  NP1     Small                    Z2[i27.2.2 Z3c[i27.2.2 Z1mf[i27.2.2 Z1mf[i26.2.2 Z3c[i26.2.2 
+0000024 320  NP1     Steven                   Z2[i24.2.1 Z3c[i24.2.1 Z1mf[i24.2.1 Z1m Z1mf[i23.2.1 Z3c[i23.2.1 
+0000024 330  NP1     Small                    Z2[i24.2.2 Z3c[i24.2.2 Z1mf[i24.2.2 Z1mf[i23.2.2 Z3c[i23.2.2 
 0000024 331  ,       ,                        
 0000024 340  NN1     director                 S7.1+/S2mf K4/S2mf 
 0000024 350  IO      of                       Z5 
@@ -399,7 +406,8 @@
 0000026 070  JJ      concerned                E6- A1.8+ A2.2 S1.1.3+ 
 0000026 080  II      about                    Z5 
 0000026 090  APPGE   its                      Z8 
-0000026 100  NN2     members                  S5+/S2mf B1 
+0000026 100  NN1     member                   S5+/S2mf B1 
+0000026 101  GE      's                       Z5 
 0000026 110  NN2     rights                   S7.4+ G2.2+ M6 G1.2 
 0000026 111  ,       ,                        
 0000026 120  JJ      negotiated               Q2.2 
@@ -427,17 +435,18 @@
 0000028 010  AT      The                      Z5 
 0000028 020  MD      next                     N4 
 0000028 030  NN1     thing                    O2 X4.1 A7- S2mf L2mf 
-0000028 040  PPY     you                      Z4[i28.2.1 Z8mf 
-0000028 050  VV0     know                     Z4[i28.2.2 X2.2+ S3.2/B1% 
+0000028 040  PPY     you                      Z4[i25.2.1 Z8mf 
+0000028 050  VV0     know                     Z4[i25.2.2 X2.2+ S3.2/B1% 
 0000028 051  ,       ,                        
 0000028 060  AT      the                      Z5 
-0000028 070  NN2     pitchers                 O2 K5.1/S2mf 
-0000028 080  VVG     going                    T1.1.3[i29.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
-0000028 090  TO      to                       T1.1.3[i29.2.2 Z5 
+0000028 070  NN1     pitcher                  O2 K5.1/S2mf 
+0000028 071  VBZ     's                       Z5 A3+ 
+0000028 080  VVGK    going                    T1.1.3[i26.2.1 
+0000028 090  TO      to                       T1.1.3[i26.2.2 Z5 
 0000028 100  VHI     have                     A9+ Z5 A2.2 S4 
 0000028 110  AT1     a                        Z5 
-0000028 120  NN1     phone                    Q1.3[i30.2.1 Q1.3 
-0000028 130  II      in                       Q1.3[i30.2.2 Z5 
+0000028 120  NN1     phone                    Q1.3[i27.2.1 Q1.3 
+0000028 130  II      in                       Q1.3[i27.2.2 Z5 
 0000028 140  APPGE   his                      Z8m 
 0000028 150  NN1     pocket                   B5 O2 I1.1 M7/N3.2- 
 0000028 160  VVG     taking                   A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
@@ -445,23 +454,23 @@
 0000028 171  ,       ,                        
 0000028 172  NULL    </quote>                 
 0000028 173  -----   -----                    
-0000028 180  NP1     New                      Z2[i32.2.1 Z1mf[i31.2.1 Z3c[i31.2.1 
-0000028 190  NP1     York                     Z2[i32.2.2 Z2 Z1mf Z1mf[i31.2.2 Z3c[i31.2.2 
+0000028 180  NP1     New                      Z2[i29.2.1 Z1mf[i28.2.1 Z3c[i28.2.1 
+0000028 190  NP1     York                     Z2[i29.2.2 Z2 Z1mf Z1mf[i28.2.2 Z3c[i28.2.2 
 0000028 200  NN2     Yankees                  Z2 Z2/S2mf I1/A1.4% 
 0000028 210  VV0     outfielder               Z99 
-0000028 220  NP1     Brett                    Z1mf[i33.2.1 Z3c[i33.2.1 Z1mf 
-0000028 230  NP1     Gardner                  Z1mf[i33.2.2 Z3c[i33.2.2 Z1mf 
+0000028 220  NP1     Brett                    Z1mf[i30.2.1 Z3c[i30.2.1 Z1mf 
+0000028 230  NP1     Gardner                  Z1mf[i30.2.2 Z3c[i30.2.2 Z1mf 
 0000028 240  VVD     said                     Q2.1 
 0000028 241  .       .                        
 0000029 001  -----   -----                    
-0000030 010  NP1     New                      Z2[i35.2.1 Z1mf[i34.2.1 Z3c[i34.2.1 
-0000030 020  NP1     York                     Z2[i35.2.2 Z2 Z1mf Z1mf[i34.2.2 Z3c[i34.2.2 
+0000030 010  NP1     New                      Z2[i32.2.1 Z1mf[i31.2.1 Z3c[i31.2.1 
+0000030 020  NP1     York                     Z2[i32.2.2 Z2 Z1mf Z1mf[i31.2.2 Z3c[i31.2.2 
 0000030 030  NN2     Mets                     S3.1 M6 A1.1.1 A6.1+ 
 0000030 040  JJ      medical                  B3 
 0000030 050  NN1     director                 S7.1+/S2mf K4/S2mf 
-0000030 060  NNB     Dr                       Z1mf[i37.2.1 B3/S2mf P1/S2mf Z1mf[i36.2.1 
-0000030 070  NP1     David                    Z1mf[i37.2.2 Z1m Z1mf[i36.2.2 Z1mf[i38.2.1 Z3c[i38.2.1 
-0000030 080  NP1     Altchek                  Z99 Z1mf[i38.2.2 Z3c[i38.2.2 
+0000030 060  NNB     Dr                       Z1mf[i34.2.1 B3/S2mf P1/S2mf Z1mf[i33.2.1 
+0000030 070  NP1     David                    Z1mf[i34.2.2 Z1m Z1mf[i33.2.2 Z1mf[i35.2.1 Z3c[i35.2.1 
+0000030 080  NP1     Altchek                  Z99 Z1mf[i35.2.2 Z3c[i35.2.2 
 0000030 081  ,       ,                        
 0000030 090  AT1     an                       Z5 
 0000030 100  NN1     adviser                  S8+/S2mf 
@@ -473,13 +482,13 @@
 0000030 150  NN1     device                   O2 X4.2 Q1.1 
 0000030 160  VM      can                      A7+ 
 0000030 170  VBI     be                       Z5 A3+ 
-0000030 180  VVN     used                     T1.1.1[i39.2.1 A6.2+[i39.2.1 A1.5.1 S7.1+ 
-0000030 190  TO      to                       T1.1.1[i39.2.2 A6.2+[i39.2.2 Z5 
+0000030 180  VVN     used                     T1.1.1[i36.2.1 A6.2+[i36.2.1 A1.5.1 S7.1+ 
+0000030 190  TO      to                       T1.1.1[i36.2.2 A6.2+[i36.2.2 Z5 
 0000030 200  VVI     help                     S8+ 
 0000030 210  NN2     pitchers                 O2 K5.1/S2mf 
 0000030 220  VVI     avoid                    A1.9 M1 
-0000030 230  NP1     Tommy                    Z1mf[i40.2.1 Z3c[i40.2.1 Z1m 
-0000030 240  NP1     John                     Z1mf[i40.2.2 Z3c[i40.2.2 Z1m S9/O1.2 
+0000030 230  NP1     Tommy                    Z1mf[i37.2.1 Z3c[i37.2.1 Z1m 
+0000030 240  NP1     John                     Z1mf[i37.2.2 Z3c[i37.2.2 Z1m S9/O1.2 
 0000030 250  NN1     surgery                  B3 B3/H1 B3/H2 S8+/T1.3 
 0000030 260  CC      and                      Z5 
 0000030 270  VV0     rehabilitate             B3 S8+ 
@@ -501,7 +510,8 @@
 0000032 010  VV0     Zack                     Z99 
 0000032 020  NP1     Wheeler                  Z1mf 
 0000032 021  ,       ,                        
-0000032 030  APPGE   its                      Z8 
+0000032 030  PPH1    it                       Z8 
+0000032 031  VBZ     's                       A3+ Z5 
 0000032 040  RG      very                     A13.3 
 0000032 050  JJ      hard                     O4.5 A12- S1.2.5+ O4.1 
 0000032 060  TO      to                       Z5 
@@ -515,25 +525,26 @@
 0000032 113  -----   -----                    
 0000032 120  NP1@    Altchek                  Z99 
 0000032 130  VVD     said                     Q2.1 
-0000032 140  MD      last                     T1.1.1[i41.2.1 N4 
-0000032 150  NNT1    month                    T1.1.1[i41.2.2 T1.3 
+0000032 140  MD      last                     T1.1.1[i38.2.1 N4 
+0000032 150  NNT1    month                    T1.1.1[i38.2.2 T1.3 
 0000032 160  IO      of                       Z5 
 0000032 170  AT      the                      Z5 
 0000032 180  NN2     Mets                     S3.1 M6 A1.1.1 A6.1+ 
 0000032 190  NN1     pitcher                  O2 K5.1/S2mf 
 0000032 200  PNQS    who                      Z8 
 0000032 210  VHD     had                      A9+ Z5 A2.2 S4 
-0000032 220  NP1     Tommy                    Z1mf[i42.2.1 Z3c[i42.2.1 Z1m 
-0000032 230  NP1     John                     Z1mf[i42.2.2 Z3c[i42.2.2 Z1m S9/O1.2 
+0000032 220  NP1     Tommy                    Z1mf[i39.2.1 Z3c[i39.2.1 Z1m 
+0000032 230  NP1     John                     Z1mf[i39.2.2 Z3c[i39.2.2 Z1m S9/O1.2 
 0000032 240  NN1     surgery                  B3 B3/H1 B3/H2 S8+/T1.3 
-0000032 250  MD      last                     T1.1.1[i44.2.1 N4 T1.3[i43.2.1 P1/S2mf[i43.2.1 
-0000032 260  NNT1    year                     T1.1.1[i44.2.2 T1.3 P1c T1.3[i43.2.2 P1/S2mf[i43.2.2 
+0000032 250  MD      last                     T1.1.1[i41.2.1 N4 T1.3[i40.2.1 P1/S2mf[i40.2.1 
+0000032 260  NNT1    year                     T1.1.1[i41.2.2 T1.3 P1c T1.3[i40.2.2 P1/S2mf[i40.2.2 
 0000032 261  .       .                        
 0000032 262  NULL    <quote>                  
 0000032 263  -----   -----                    
-0000032 270  CS21    Even                     Z5[i45.2.1 
-0000032 280  CS22    though                   Z5[i45.2.2 Z5 
-0000032 290  APPGE   its                      Z8 
+0000032 270  CS21    Even                     Z5[i42.2.1 
+0000032 280  CS22    though                   Z5[i42.2.2 Z5 
+0000032 290  PPH1    it                       Z8 
+0000032 291  VBZ     's                       A3+ Z5 
 0000032 300  APPGE   his                      Z8m 
 0000032 310  MD      first                    N4 
 0000032 320  NN1     couple                   N5+ S4c 
@@ -552,7 +563,7 @@
 0000032 430  CC      and                      Z5 
 0000032 440  PPIS2   we                       Z8 
 0000032 450  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000032 451  XX      nt                       S9/Q4.1 Z3c 
+0000032 451  XX      n't                      Z6 
 0000032 460  VVI     want                     X7+ S6+ A7+ S3.2 A9- 
 0000032 470  PPHO1   him                      Z8m 
 0000032 480  TO      to                       Z5 

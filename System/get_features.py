@@ -39,14 +39,14 @@ print("Loaded F***ing Profanity List")
 
 quote_regex = r' <\/?quote> '
 
-superlatives = r'DAT|JJT|RGT|RRT'
-degree_adverbs = r'RG(QV?|R|T)?'
-comparative_adverbs = r'RGR|RRR'
-proper_nouns = r'NP[12]'
-dates = r'NP(D[12]|M[12])'
-numbers = r'M[CDF]\w*'
-fp_pronouns = r'PPI\w+'
-negations = r'XX'
+superlatives = r'(DAT|JJT|RGT|RRT)(\d\d)?'
+degree_adverbs = r'(RG(QV?|R|T)?)(\d\d)?'
+comparative_adverbs = r'(RGR|RRR)(\d\d)?'
+proper_nouns = r'(NP[12])(\d\d)?'
+dates = r'(NP(D[12]|M[12]))(\d\d)?'
+numbers = r'(M[CDF]\w*)(\d\d)?'
+fp_pronouns = r'(PPI\w+)(\d\d)?'
+negations = r'(XX)(\d\d)?'
 
 all_emotion = r'E[\w\.\+-]+'
 emotion_general = r'E1[\+-]'
@@ -57,14 +57,14 @@ sense_words = r'X3[\.\d\+-]*'
 movement_words = r'M[1-6]'
 relationships = r'S3.*'
 
-spatial_words = r'RL|ND1|NNL[12]|M[78]'
+spatial_words = r'RL(\d\d)?|ND1(\d\d)?|NNL[12](\d\d)?|M[78]'
 
 # Imagination subject to change
-inf_conjunctions = r'CC'
-ima_conjunctions = r'CCB|CS'
+inf_conjunctions = r'CC(\d\d)?'
+ima_conjunctions = r'(CCB|CS)(\d\d)?'
 conjunctions = r'C\w+'
-inf_verb = r'VVN'
-ima_verb = r'VV[^N]\w?|VM'
+inf_verb = r'VVN(\d\d)?'
+ima_verb = r'(VV[^N]\w?|VM)(\d\d)?'
 verbs = r'V\w+'
 prepositions = r'I\w+'
 articles = r'A\w+'
@@ -86,12 +86,16 @@ def get_features(article):
 
     # CLAWS features
     features['superlatives'] = get_tag_group(article.body_pos_fql, superlatives)
-    features['degree_adverbs'] = get_tag_proportion(article.body_pos_fql, degree_adverbs, adverbs)             # Proportion?
-    features['comparative_adverbs'] = get_tag_proportion(article.body_pos_fql, comparative_adverbs, adverbs)   # Proportion?
-    features['proper_nouns'] = get_tag_proportion(article.body_pos_fql, proper_nouns, nouns)
+    # features['degree_adverbs'] = get_tag_proportion(article.body_pos_fql, degree_adverbs, adverbs)
+    features['degree_adverbs'] = get_tag_group(article.body_pos_fql, degree_adverbs)
+    # features['comparative_adverbs'] = get_tag_proportion(article.body_pos_fql, comparative_adverbs, adverbs)
+    features['comparative_adverbs'] = get_tag_group(article.body_pos_fql, comparative_adverbs)
+    # features['proper_nouns'] = get_tag_proportion(article.body_pos_fql, proper_nouns, nouns)
+    features['proper_nouns'] = get_tag_group(article.body_pos_fql, proper_nouns)
     features['dates'] = get_tag_group(article.body_pos_fql, dates)
     features['numbers'] = get_tag_group(article.body_pos_fql, numbers)
-    features['fp_pronouns'] = get_tag_proportion(article.body_pos_fql, fp_pronouns, pronouns)
+    # features['fp_pronouns'] = get_tag_proportion(article.body_pos_fql, fp_pronouns, pronouns)
+    features['fp_pronouns'] = get_tag_group(article.body_pos_fql, fp_pronouns)
     features['negations'] = get_tag_group(article.body_pos_fql, negations)
 
     # USAS features
@@ -114,12 +118,16 @@ def get_features(article):
     features['spatial_words'] = get_tag_group(dict(article.body_pos_fql, **article.body_sem_fql), spatial_words)
 
     # Imagination features
-    features['ima_conjunctions'] = get_tag_proportion(article.body_pos_fql, ima_conjunctions, conjunctions)
-    features['inf_verb'] = get_tag_proportion(article.body_pos_fql, inf_verb, verbs)
-    features['ima_verb'] = get_tag_proportion(article.body_pos_fql, ima_verb, verbs)
+    # features['ima_conjunctions'] = get_tag_proportion(article.body_pos_fql, ima_conjunctions, conjunctions)
+    features['ima_conjunctions'] = get_tag_group(article.body_pos_fql, ima_conjunctions)
+    # features['inf_verb'] = get_tag_proportion(article.body_pos_fql, inf_verb, verbs)
+    features['inf_verb'] = get_tag_group(article.body_pos_fql, inf_verb)
+    # features['ima_verb'] = get_tag_proportion(article.body_pos_fql, ima_verb, verbs)
+    features['ima_verb'] = get_tag_group(article.body_pos_fql, ima_verb)
     features['preposition'] = get_tag_group(article.body_pos_fql, prepositions)
     features['articles'] = get_tag_group(article.body_pos_fql, articles)
-    features['ima_determiners'] = get_tag_proportion(article.body_pos_fql, ima_determiners, determiners)
+    # features['ima_determiners'] = get_tag_proportion(article.body_pos_fql, ima_determiners, determiners)
+    features['ima_determiners'] = get_tag_group(article.body_pos_fql, ima_determiners)
     features['adjectives'] = get_tag_group(article.body_pos_fql, adjectives)
 
     # features['quote_proportion'] = get_quote_proportion(article.body)

@@ -1,31 +1,32 @@
-TOTAL              468
+TOTAL              472
 the                  Z5                  29 
 and                  Z5                  19 
 to                   Z5                  12 
+we                   Z8                  11 
 common               A6.2+               11 
 our                  Z8                  11 
-we                   Z8                  10 
 good                 A5.1+               10 
 of                   Z5                   8 
 do                   Z5                   8 
 is                   A3+                  6 
+it                   Z8                   6 
 how                  Z5                   6 
 but                  Z5                   5 
-it                   Z8                   5 
 a                    Z5                   5 
 in                   Z5                   5 
 with                 Z5                   5 
 that                 Z8                   4 
-its                  Z8                   4 
-nt                   S9                   4 
+n't                  Z6                   4 
 that                 Z5                   4 
 an                   Z5                   3 
 have                 Z5                   3 
 can                  A7+                  3 
 should               S6+                  3 
 find                 A10+                 3 
+'s                   Z5                   3 
 for                  Z5                   3 
 what                 Z8                   3 
+its                  Z8                   3 
 us                   Z8                   3 
 politics             G1.2                 3 
 political            G1.2                 3 
@@ -47,7 +48,6 @@ today                T1.1.2               2
 their                Z8                   2 
 has                  A9+                  2 
 most                 A13.2                2 
-neighbors            H3                   2 
 all                  N5.1+                2 
 say                  Q2.1                 2 
 people               S2                   2 
@@ -61,6 +61,7 @@ also                 N5++                 2
 those                Z5                   2 
 communal             S1.1.2+              2 
 will                 T1.1.3               2 
+nation               G1.1                 2 
 there                Z5                   1 
 ancient              T3++                 1 
 idea                 X4.1                 1 
@@ -121,9 +122,11 @@ Christ               Z1                   1
 as                   Z5                   1 
 caring               E6-                  1 
 his                  Z8                   1 
+neighbors            H3                   1 
 of_course            Z4                   1 
 traditions           S1.1.1               1 
 indeed               A13.3                1 
+neighbor             H3                   1 
 keeper               L2                   1 
 every                N5.1+                1 
 often                N6+                  1 
@@ -154,7 +157,7 @@ inclination          X7+                  1
 right                Z4                   1 
 left                 M6                   1 
 deeper               N3.7++               1 
-weve                 Z99                  1 
+'ve                  Z5                   1 
 lost_touch           S1.1.1-              1 
 compass              O2                   1 
 Washington_D.C.      Z1                   1 
@@ -232,7 +235,6 @@ movements            M1                   1
 really               A13.3                1 
 change               A2.1+                1 
 in_the_long_run      T1.1.3               1 
-nation               G1.1                 1 
 soon                 T1.1.3               1 
 be                   Z5                   1 
 deciding             X6+                  1 
@@ -247,7 +249,6 @@ path                 M3                   1
 fiscal               I1                   1 
 sustainability       T2++                 1 
 reflects             A10+                 1 
-nations              G1.1                 1 
 soul                 S9                   1 
 only                 A14                  1 
 inspiring            S8+                  1 

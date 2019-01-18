@@ -1,4 +1,4 @@
-TOTAL              152
+TOTAL              154
 the                  AT              8 
 you                  PPY             7 
 never                RR              7 
@@ -60,7 +60,8 @@ an                   AT1             1
 electric             JJ              1 
 performance          NN1             1 
 at                   II              1 
-Macys                NP1             1 
+Macy                 NP1             1 
+'s                   GE              1 
 thanksgiving         NN1             1 
 day                  NNT1            1 
 parade               NN1             1 
@@ -87,7 +88,8 @@ their                APPGE           1
 ally                 NN1             1 
 i                    PPIS1           1 
 want                 VV0             1 
-were                 VBDR            1 
+we                   PPIS2           1 
+'re                  VBR             1 
 give_up              VVI             1 
 let_down             VVI             1 
 run_around           VVI             1 

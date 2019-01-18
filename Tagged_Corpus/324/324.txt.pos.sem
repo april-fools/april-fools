@@ -18,7 +18,7 @@
 0000002 160  VVG     introducing              S1.1.1 T2+ 
 0000002 170  AT1     a                        Z5 
 0000002 180  JJ      new                      T3- 
-0000002 190  JJ      green                    O4.3 W5 L3 X9.1- 
+0000002 190  JJ      green'                   Z99 
 0000002 200  NN1     tax                      I1.1/G1.1 
 0000002 210  II      on                       Z5 
 0000002 220  JJ      chilled                  O4.6- 
@@ -38,7 +38,8 @@
 0000004 101  (       (                        
 0000004 110  NN1     Champagne                Z2 
 0000004 111  )       )                        
-0000004 120  CST     that                     Z8 Z5 
+0000004 112  GE      '                        Z5 
+0000004 120  DD1     that                     Z8 Z5 
 0000004 130  VM      would                    A7+ 
 0000004 140  VVI     add                      N5+/A2.1 N2 A1.8+ 
 0000004 150  AT1     a                        Z5 
@@ -324,6 +325,7 @@
 0000031 220  NN1     playground               K6/H3 M7/K1 
 0000031 230  IF      for                      Z5 
 0000031 240  NN2     footballers              K5.2/S2mf 
+0000031 241  GE      '                        Z5 
 0000031 250  NN2     wives                    S4f 
 0000031 251  ,       ,                        
 0000031 260  VV0     use                      A1.5.1 S7.1+ 
@@ -381,7 +383,7 @@
 0000033 180  CST     that                     Z5 Z8 
 0000033 190  AT      the                      Z5 
 0000033 200  JJ      pasty                    F1 
-0000033 210  NN1     tax                      I1.1/G1.1 
+0000033 210  NN1     tax'                     Z99 
 0000033 220  VBDZ    was                      A3+ Z5 
 0000033 230  AT1     an                       Z5 
 0000033 240  JJ      upper-class              S7.1+ 
@@ -410,18 +412,19 @@
 0000033 450  II22    of                       N4[i28.2.2 N4[i29.2.2 A5.1++[i29.2.2 
 0000033 460  AT      the                      Z5 
 0000033 470  JJ      bubbly                   O4.1 X5.2+ 
-0000033 480  NN1     tax                      I1.1/G1.1 
+0000033 480  NN1     tax'                     Z99 
 0000033 490  VBZ     is                       A3+ Z5 
 0000033 500  JJ      unlikely                 A7- 
 0000033 510  TO      to                       Z5 
 0000033 520  VVI     convince                 A7+/Q2.2 
 0000033 530  NN2     voters                   G1.2/S2mf 
 0000033 540  CST     that                     Z8 Z5 
-0000033 550  VBDR    were                     A3+ Z5 
+0000033 550  PPIS2   we                       Z8 
+0000033 551  VBR     're                      A3+ Z5 
 0000033 560  DB      all                      N5.1+ 
 0000033 570  II      in                       Z5 
-0000033 580  DD1     this                     Z8 M6 Z5 
-0000033 590  RL      together                 S5+ T1.1.2 M6 
+0000033 580  DD1     this                     M6 Z5 Z8 
+0000033 590  NN1     together'                Z99 
 0000033 591  .       .                        
 0000034 001  -----   -----                    
 0000035 010  RR      Meanwhile                T1.1.2 
@@ -507,7 +510,7 @@
 0000039 150  NN2     Chavs                    Z99 
 0000039 151  ,       ,                        
 0000039 160  XX      Not                      Z6 
-0000039 170  NN1     Champagne                Z2 
+0000039 170  NP1     Champagne'               Z99 
 0000039 171  ,       ,                        
 0000039 180  VVG     purporting               A5.4- 
 0000039 190  TO      to                       Z5 
@@ -533,7 +536,8 @@
 0000039 370  CSN     than                     Z5 
 0000039 380  MC      800                      N1 T1.2 T3 T1.3 N3.2 
 0000039 390  NN2     likes                    A6.1+ E2+ 
-0000039 391  .       .                        
+0000039 391  GE      '                        Z5 
+0000039 392  .       .                        
 0000040 001  -----   -----                    
 0000041 010  DD1     Another                  A6.1- N5++ 
 0000041 011  ,       ,                        
@@ -542,7 +546,8 @@
 0000041 031  ,       ,                        
 0000041 040  NP1     Dave                     Z1m 
 0000041 041  !       !                        
-0000041 042  ,       ,                        
+0000041 042  GE      '                        Z5 
+0000041 043  ,       ,                        
 0000041 050  VVG     claiming                 Q2.2 A9+ 
 0000041 060  TO      to                       Z5 
 0000041 070  VVI     represent                Q1.1 A6.2+ S1.1.3 A5.4- K4 
@@ -578,12 +583,14 @@
 0000043 170  AT      The                      Z5 
 0000043 180  NN1     Champagne                Z2 
 0000043 190  NN2     Socialists               G1.2 G1.2/S2mf 
-0000043 191  ,       ,                        
+0000043 191  GE      '                        Z5 
+0000043 192  ,       ,                        
 0000043 200  DB      all                      N5.1+ 
 0000043 210  NN2     memories                 X2 X2.2+ S7.2+ Y2 
 0000043 220  IO      of                       Z5 
-0000043 230  NP1     Alistair                 Z1m 
-0000043 240  NN2     Darlings                 Z1mf 
+0000043 230  NP1     Alistair                 Z1mf[i35.2.1 Z3c[i35.2.1 Z1m 
+0000043 240  NN1     Darling                  Z1mf[i35.2.2 Z3c[i35.2.2 Z1mf 
+0000043 241  GE      's                       Z5 
 0000043 250  RR      politically              G1.2 
 0000043 260  JJ      damaging                 A1.1.2 
 0000043 270  NN1     cider                    F2 
@@ -596,8 +603,8 @@
 0000044 001  -----   -----                    
 0000044 010  VV0     Pastygate                Z99 
 0000044 011  :       :                        
-0000044 020  NP1     David                    Z1mf[i35.2.1 Z3c[i35.2.1 Z1m 
-0000044 030  NP1     Cameron                  Z1mf[i35.2.2 Z3c[i35.2.2 Z1mf 
+0000044 020  NP1     David                    Z1mf[i36.2.1 Z3c[i36.2.1 Z1m 
+0000044 030  NP1     Cameron                  Z1mf[i36.2.2 Z3c[i36.2.2 Z1mf 
 0000044 040  VVD     became                   A2.1+ O4.2+ 
 0000044 050  VVN     embroiled                S1.1.3+ 
 0000044 060  II      in                       Z5 
@@ -621,8 +628,8 @@
 0000044 240  NN2     snacks                   F1 
 0000046 010  NP1     Pastygate                Z99 
 0000046 011  :       :                        
-0000046 020  NP1     David                    Z1mf[i36.2.1 Z3c[i36.2.1 Z1m 
-0000046 030  NP1     Cameron                  Z1mf[i36.2.2 Z3c[i36.2.2 Z1mf 
+0000046 020  NP1     David                    Z1mf[i37.2.1 Z3c[i37.2.1 Z1m 
+0000046 030  NP1     Cameron                  Z1mf[i37.2.2 Z3c[i37.2.2 Z1mf 
 0000046 040  VVD     became                   A2.1+ O4.2+ 
 0000046 050  VVN     embroiled                S1.1.3+ 
 0000046 060  II      in                       Z5 
@@ -647,7 +654,8 @@
 0000048 010  AT      The                      Z5 
 0000048 020  NN1     Champagne                Z2 
 0000048 030  NN2     Socialists               G1.2 G1.2/S2mf 
-0000048 040  VVN     chosen                   X7+ 
+0000048 031  GE      '                        Z5 
+0000048 040  JJ@     chosen                   X7+ 
 0000048 050  NN1     spokesman                Q2.2/S2.2m 
 0000048 060  VBDZ    was                      A3+ Z5 
 0000048 061  ,       ,                        
@@ -693,18 +701,20 @@
 0000048 390  JJ      brut-al                  Z99 
 0000048 400  NN1     tax                      I1.1/G1.1 
 0000048 401  ,       ,                        
-0000048 410  VVZ     thats                    Z5 Z8 A13.3 A6.1+ 
+0000048 410  DD1     that                     Z8 Z5 
+0000048 411  VBZ     's                       A3+ Z5 
 0000048 420  APPGE   their                    Z8 
 0000048 430  NN1     look-out                 X3.4/S2mf 
 0000048 431  .       .                        
 0000048 432  -----   -----                    
-0000048 440  II      On                       Z4[i37.4.1 Z5 
-0000048 450  AT      the                      Z4[i37.4.2 Z5 
-0000048 460  JJ      other                    Z4[i37.4.3 A6.1- 
-0000048 470  NN1     hand                     Z4[i37.4.4 B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf 
+0000048 440  II      On                       Z4[i38.4.1 Z5 
+0000048 450  AT      the                      Z4[i38.4.2 Z5 
+0000048 460  JJ      other                    Z4[i38.4.3 A6.1- 
+0000048 470  NN1     hand                     Z4[i38.4.4 B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf 
 0000048 471  ,       ,                        
 0000048 480  RRQ     why                      A2.2 
-0000048 490  VVI     shouldnt                 Z99 
+0000048 490  VM      should                   S6+ A7+ 
+0000048 491  XX      n't                      Z6 
 0000048 500  AT      the                      Z5 
 0000048 510  JJ@     working                  I3.1 A1.1.1 X9.2+ 
 0000048 520  NN1     man                      S2.2m 
@@ -715,17 +725,18 @@
 0000048 570  JJ      bubbly                   O4.1 X5.2+ 
 0000048 571  ?       ?                        
 0000048 572  -----   -----                    
-0000048 580  II      After                    Z4[i38.2.1 Z5 
-0000048 590  DB      all                      Z4[i38.2.2 N5.1+ 
+0000048 580  II      After                    Z4[i39.2.1 Z5 
+0000048 590  DB      all                      Z4[i39.2.2 N5.1+ 
 0000048 591  ,       ,                        
 0000048 600  PPHS1   he                       Z8m 
-0000048 601  VBZ     s                        Z5 
+0000048 601  VHZ     's                       Z5 A9+ A2.2 
 0000048 610  VVN     earned                   A9+/I1 S1.1.4+ 
 0000048 620  PPH1    it                       Z8 
 0000048 621  .       .                        
 0000048 622  -----   -----                    
 0000048 630  UH      Cheers                   Z4 
 0000048 631  .       .                        
+0000048 632  "@      '                        
 0000049 001  -----   -----                    
 0000050 010  CC      And                      Z5 
 0000050 020  AT      the                      Z5 
@@ -733,11 +744,11 @@
 0000050 040  VVN     elected                  G1.2/X7+ 
 0000050 050  NN1     MP                       G1.1/S2mf G3/G2.1/S2mf@ 
 0000050 060  IF      for                      Z5 
-0000050 070  NP1     Bradford                 Z2[i39.2.1 Z2 Z1mf 
-0000050 080  NN1     Park                     Z2[i39.2.2 M7/L3 
+0000050 070  NP1     Bradford                 Z2[i40.2.1 Z2 Z1mf 
+0000050 080  NN1     Park                     Z2[i40.2.2 M7/L3 
 0000050 081  ,       ,                        
-0000050 090  NP1     George                   Z1mf[i40.2.1 Z3c[i40.2.1 Z1m 
-0000050 100  NP1     Gallowgate               Z1mf[i40.2.2 Z3c[i40.2.2 
+0000050 090  NP1     George                   Z1mf[i41.2.1 Z3c[i41.2.1 Z1m 
+0000050 100  NP1     Gallowgate               Z1mf[i41.2.2 Z3c[i41.2.2 
 0000050 101  ,       ,                        
 0000050 110  IO      of                       Z5 
 0000050 120  AT      the                      Z5 
@@ -788,6 +799,7 @@
 0000050 490  JJ      tipsy                    F2++ 
 0000050 500  NN2     tycoons                  X9.2+/I2.1/S2.2m 
 0000050 501  .       .                        
+0000050 502  "@      '                        
 0000051 001  -----   -----                    
 0000052 010  CCB     But                      Z5 
 0000052 020  AT      the                      Z5 
@@ -817,20 +829,21 @@
 0000052 220  CC      and                      Z5 
 0000052 230  NP1     George                   Z1m 
 0000052 240  II      over                     Z5 
-0000052 250  AT1     a                        N5[i41.2.1 S4[i41.2.1 Z5 
-0000052 260  NN1     couple                   N5[i41.2.2 S4[i41.2.2 N5+ S4c 
+0000052 250  AT1     a                        N5[i42.2.1 S4[i42.2.1 Z5 
+0000052 260  NN1     couple                   N5[i42.2.2 S4[i42.2.2 N5+ S4c 
 0000052 270  IO      of                       Z5 
 0000052 280  NN2     bottles                  O2 E5+ 
 0000052 290  IO      of                       Z5 
-0000052 300  NP1     Dom                      Z1mf[i42.2.1 Z3c[i42.2.1 
-0000052 310  NP1     Perignon                 Z1mf[i42.2.2 Z3c[i42.2.2 Z2[i43.2.1 Z1mf[i43.2.1 
-0000052 320  MC      66                       N1 T1.2 T3 T1.3 N3.2 Z2[i43.2.2 Z1mf[i43.2.2 
+0000052 300  NP1     Dom                      Z1mf[i43.2.1 Z3c[i43.2.1 
+0000052 310  NP1     Perignon                 Z1mf[i43.2.2 Z3c[i43.2.2 Z2[i44.2.1 Z1mf[i44.2.1 
+0000052 320  MC      '66                      N1 T1.2 T3 T1.3 N3.2 Z2[i44.2.2 Z1mf[i44.2.2 
 0000052 330  TO      to                       Z5 
 0000052 340  VVI     try                      X8+ X2.4 Q2.2 G2.1 A12- 
 0000052 350  TO      to                       Z5 
 0000052 360  VVI     show                     A10+ S1.1.1 
-0000052 370  DD1     that                     Z5 Z8 
-0000052 380  NN1     theyre                   Z99 
+0000052 370  CST     that                     Z8 Z5 
+0000052 380  PPHS2   they                     Z8mfn 
+0000052 381  VBR     're                      A3+ Z5 
 0000052 390  RR      just                     A14 T3--- T1.3- N3.3--- 
 0000052 400  JJ      regular                  A6.2+ N6+ O4.1 I3.1 T2++ A13.3 
 0000052 410  NN2     guys                     S2.2m O2 
@@ -841,8 +854,8 @@
 0000054 030  VVD     said                     Q2.1 
 0000054 040  PPH1    it                       Z8 
 0000054 050  VBDZ    was                      Z5 A3+ 
-0000054 060  VVGK    going                    T1.1.3[i44.2.1 
-0000054 070  TO      to                       T1.1.3[i44.2.2 Z5 
+0000054 060  VVGK    going                    T1.1.3[i45.2.1 
+0000054 070  TO      to                       T1.1.3[i45.2.2 Z5 
 0000054 080  VBI     be                       A3+ Z5 
 0000054 090  NN1     policy                   X7+ Q1.2 
 0000054 091  .       .                        
@@ -854,7 +867,8 @@
 0000054 140  RR      seriously                A13.3 Z4 E4.1- 
 0000054 141  .       .                        
 0000054 142  -----   -----                    
-0000054 150  NN1     Theyre                   Z99 
+0000054 150  PPHS2   They                     Z8mfn 
+0000054 151  VBR     're                      A3+ Z5 
 0000054 160  RR      just                     A14 T3--- T1.3- N3.3--- 
 0000054 170  IF      for                      Z5 
 0000054 180  NN2     larks                    L2mfn E4.1+ A1.1.1 
@@ -862,7 +876,8 @@
 0000054 190  RR      really                   A13.3 A5.2+ 
 0000054 191  .       .                        
 0000055 001  -----   -----                    
-0000056 010  NN2     Theres                   Z5 M6 T1.2 
+0000056 010  EX      There                    Z5 
+0000056 011  VBZ     's                       A3+ Z5 
 0000056 020  AT      no                       Z6 
 0000056 030  NN1     doubt                    A7- 
 0000056 040  CST     that                     Z5 Z8 
@@ -876,17 +891,18 @@
 0000056 120  IF      for                      Z5 
 0000056 130  PPIO2   us                       Z8 
 0000056 140  CCB     but                      Z5 
-0000056 150  VBDR    were                     Z5 A3+ 
-0000056 160  VVGK    going                    T1.1.3[i45.2.1 
-0000056 170  TO      to                       T1.1.3[i45.2.2 Z5 
+0000056 150  PPIS2   we                       Z8 
+0000056 151  VBR     're                      Z5 A3+ 
+0000056 160  VVGK    going                    T1.1.3[i46.2.1 
+0000056 170  TO      to                       T1.1.3[i46.2.2 Z5 
 0000056 180  VVI     draw                     C1 M2 A9+ X5.1+ I1.2 O4.2+ X2.1 K5.1 
 0000056 190  AT1     a                        Z5 
 0000056 200  NN1     line                     O4.4 A4.1 Q1.3 X4.2 Q3 Q1.2 Q2.1/K4 S4 S7.1 A1.7+ A6.1- I3.1 M4@c G3@ K5.1@ 
 0000056 210  II      under                    Z5 
 0000056 220  PPH1    it                       Z8 
 0000056 230  CC      and                      Z5 
-0000056 240  VV0     move                     M1[i46.2.1 M2[i46.2.1 A2.1+[i46.2.1 M2 M1 A2.1+ E1 H4/A2.1 
-0000056 250  RP@     on                       M1[i46.2.2 M2[i46.2.2 A2.1+[i46.2.2 M6 A1.1.1 
+0000056 240  VV0     move                     M1[i47.2.1 M2[i47.2.1 A2.1+[i47.2.1 M2 M1 A2.1+ E1 H4/A2.1 
+0000056 250  RP@     on                       M1[i47.2.2 M2[i47.2.2 A2.1+[i47.2.2 M6 A1.1.1 
 0000056 251  .       .                        
 0000057 001  -----   -----                    
 0000058 010  VV0     Read                     Q3 Q1.2 X3.2+ X2.5+ P1 A10+ 
@@ -901,7 +917,7 @@
 0000059 030  FO      @MailOnline              Z99 
 0000059 040  II      on                       Z5 
 0000059 050  NN1     Twitter                  Z99 
-0000059 060  NN1     DailyMail                Z2[i47.3.1 
-0000059 070  II      on                       Z2[i47.3.2 Z5 
-0000059 080  NP1     Facebook                 Z2[i47.3.3 Z3c/Y2 
+0000059 060  NN1     DailyMail                Z2[i48.3.1 
+0000059 070  II      on                       Z2[i48.3.2 Z5 
+0000059 080  NP1     Facebook                 Z2[i48.3.3 Z3c/Y2 
 0000062 001  NULL    **8;152;text             

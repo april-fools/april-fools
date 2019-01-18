@@ -4,11 +4,8 @@ erosion-carved           JJ      Z99
 Floreana                 NP1     Z99 
 Galapagos                NP1     Z99 
 grayish                  JJ      Z99 
-havent                   VV0     Z99 
 HiRISE                   NP1     Z99 
-Im                       VV0     Z99 
 Isabela                  NP1     Z99 
-Ive                      NN1     Z99 
 JPL                      NP1     Z99 
 Meteorite                NN1     Z99 
 meteorites               NN2     Z99 
@@ -19,7 +16,4 @@ scooping                 NN1@    Z99
 sedimentary              JJ      Z99 
 spatter                  NN1     Z99 
 spatters                 NN2     Z99 
-theyre                   NN1     Z99 
-Theyve                   NN1     Z99 
 thumbprints              NN2     Z99 
-wouldnt                  VV0     Z99 

@@ -30,7 +30,8 @@
 0000002 260 across                                      93 [II/99] RL@/1
 0000002 270 the                                         93 AT
 0000002 280 country                                     93 NN1
-0000002 290 Sanders                                     93 NP1
+0000002 290 Sanders                   >                 58 NP1
+0000002 291 '                         <                 97 GE
 0000002 300 core                                        03 NN1
 0000002 310 infrastructure                              93 NN1
 0000002 320 of                                          93 IO
@@ -186,10 +187,11 @@
 0000006 120 evidence                                    03 NN1
 0000006 130 of                                          93 IO
 0000006 140 his                                         93 [APPGE/100] PPGE@/0
-0000006 150 campaigns                                   03 NN2
-0000006 160 actions                                     03 [NN2/75] VVZ@/25
-0000006 170 point                                       93 [VV0@/60] NN1/40
-0000006 180 to                                          93 [TO/44] II/56
+0000006 150 campaign                  >                 03 [NN1/100] VV0@/0
+0000006 151 's                        <                 98 GE
+0000006 160 actions                                     03 [NN2/100] VVZ@/0
+0000006 170 point                                       93 [VV0@/80] NN1/20
+0000006 180 to                                          93 [TO/50] II/50
 0000006 181 ,                                           03 ,
 0000006 190 it                                          93 PPH1
 0000006 200 could                                       93 VM
@@ -198,7 +200,8 @@
 0000006 230 Democratic                                  93 JJ
 0000006 240 frontrunner                                 55 NN1
 0000006 250 Hillary                                     93 NP1
-0000006 260 Clintons                                    04 NP2
+0000006 260 Clinton                   >                 93 NP1
+0000006 261 's                        <                 98 GE
 0000006 270 ability                                     93 NN1
 0000006 280 to                                          97 TO
 0000006 290 win                                         97 VVI
@@ -507,8 +510,9 @@
 0000010 660 explains                                    03 VVZ
 0000010 670 the                                         93 AT
 0000010 680 Sanders                                     93 NP1
-0000010 690 campaigns                                   03 NN2
-0000010 700 actions                                     03 [NN2/67] VVZ@/33
+0000010 690 campaign                  >                 03 [NN1/100] VV0@/0
+0000010 691 's                        <                 98 GE
+0000010 700 actions                                     03 [NN2/100] VVZ@/0
 0000010 710 toward                                      93 II
 0000010 720 inclusion                                   03 NN1
 0000010 730 on                                          93 [II/99] RP@/1

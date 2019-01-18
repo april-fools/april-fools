@@ -1,4 +1,4 @@
-TOTAL              168
+TOTAL              169
 the                  AT              6 
 that                 CST             5 
 to                   TO              5 
@@ -22,14 +22,15 @@ this                 DD1             2
 forces               NN2             2 
 are                  VBR             2 
 you                  PPY             2 
+it                   PPH1            2 
 while                CS              1 
 everyone             PN1             1 
 was                  VBDZ            1 
 busy                 JJ              1 
 reading              NN1             1 
-Donald               NP1             1 
-trumps               NN2             1 
-twitter              VV0             1 
+Donald_trump         NP1             1 
+'s                   GE              1 
+twitter              NN1             1 
 President            NNB             1 
 did                  VDD             1 
 something            PN1             1 
@@ -105,10 +106,9 @@ middle_east          JJ              1
 decades              NNT2            1 
 look                 VV0             1 
 where                RRQ             1 
-it                   PPH1            1 
 has_gotten           VHZ             1 
 us                   PPIO2           1 
-its                  APPGE           1 
+'s                   VBZ             1 
 time                 NNT1            1 
 stop                 VVI             1 
 hopefully            RR              1 

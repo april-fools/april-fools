@@ -83,33 +83,36 @@
 0000004 170  NN1     audience                 K1/S2mfc S2mfc S1.1.3+ 
 0000004 171  .       .                        
 0000004 172  -----   -----                    
-0000004 180  DD1     This                     M6 Z5 Z8 
-0000004 190  NN1     isnt                     Z99 
+0000004 180  DD1     This                     Z8 M6 Z5 
+0000004 190  VBZ     is                       A3+ Z5 
+0000004 191  XX      n't                      Z6 
 0000004 200  AT1     an                       Z5 
 0000004 210  NN1     audition                 K4 
 0000004 220  IF      for                      Z5 
 0000004 230  AT      the                      Z5 
-0000004 240  NN2     babysitters              S8+/S5+c[i12.2.1 S8+/S4/S2mf 
-0000004 250  NN1     club                     S8+/S5+c[i12.2.2 S5+c O2 
+0000004 240  NN1     babysitter               S8+/S4/S2mf 
+0000004 241  GE      's                       Z5 
+0000004 250  NN1     club                     S5+c O2 
 0000004 251  ,       ,                        
-0000004 260  APPGE   its                      Z8 
+0000004 260  PPH1    it                       Z8 
+0000004 261  VBZ     's                       A3+ Z5 
 0000004 270  AT      the                      Z5 
 0000004 280  JJ      Oval                     Z2 
 0000004 290  NN1     Office                   I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+ 
 0000004 291  .       .                        
 0000004 292  -----   -----                    
-0000004 300  II      In                       T1.1.1[i13.3.1 Z5 
-0000004 310  AT      the                      T1.1.1[i13.3.2 Z5 
-0000004 320  NN1     past                     T1.1.1[i13.3.3 T1.1.1 
+0000004 300  II      In                       T1.1.1[i12.3.1 Z5 
+0000004 310  AT      the                      T1.1.1[i12.3.2 Z5 
+0000004 320  NN1     past                     T1.1.1[i12.3.3 T1.1.1 
 0000004 321  ,       ,                        
 0000004 330  NNB     President                G1.1/S7.1+/S2mf 
 0000004 340  NP1     Obama                    Z99 
 0000004 350  VHZ     has                      Z5 A9+ A2.2 S4 
 0000004 360  RR      publicly                 A10+ 
 0000004 370  VVN     questioned               Q2.2 
-0000004 380  CSW31   whether                  Z7[i14.3.1 Z5 
-0000004 390  CSW32   or                       Z7[i14.3.2 
-0000004 400  CSW33   not                      Z7[i14.3.3 
+0000004 380  CSW31   whether                  Z7[i13.3.1 Z5 
+0000004 390  CSW32   or                       Z7[i13.3.2 
+0000004 400  CSW33   not                      Z7[i13.3.3 
 0000004 410  AT      the                      Z5 
 0000004 420  JJ      current                  T1.1.2 
 0000004 430  NN1     Republican               G1.2/S2mf 
@@ -130,7 +133,8 @@
 0000005 001  -----   -----                    
 0000007 010  JJ      Presidential             G1.1/S7.1+ 
 0000007 020  NN2     debates                  Q2.2 
-0000007 030  NN1     shouldnt                 Z99 
+0000007 030  VM      should                   S6+ A7+ 
+0000007 031  XX      n't                      Z6 
 0000007 040  VBI     be                       Z5 A3+ 
 0000007 050  VVN@    centered                 M6 
 0000007 060  II      around                   Z5 
@@ -138,15 +142,16 @@
 0000007 080  II      to                       Z5 
 0000007 090  AT      the                      Z5 
 0000007 100  NN2     candidates               G1.2/S2mf I3.1/S2mf P1/S2mf A7+ A1.2+ 
-0000007 110  VV0     comfort                  S8+ 
+0000007 101  GE      '                        Z5 
+0000007 110  NN1     comfort                  O4.2+ E6+ 
 0000007 120  NN1     level                    N3.7 N5 S5+ A5.1 X9.1 A4.1 S7.1 
 0000007 121  ,       ,                        
 0000007 130  VVD     said                     Q2.1 
 0000007 140  NP1     CNN                      Z99 
 0000007 150  JJ      political                G1.2 
 0000007 160  NN1     analyst                  Y2/S2mf I2.1/S2mf Y1/S2mf B3/S2mf 
-0000007 170  NP1     Melissa                  Z1mf[i15.2.1 Z3c[i15.2.1 Z1f 
-0000007 180  NP1     Cunningham               Z1mf[i15.2.2 Z3c[i15.2.2 Z1 
+0000007 170  NP1     Melissa                  Z1mf[i14.2.1 Z3c[i14.2.1 Z1f 
+0000007 180  NP1     Cunningham               Z1mf[i14.2.2 Z3c[i14.2.2 Z1 
 0000007 181  ,       ,                        
 0000007 190  VVG     referring                Q2.2 Q1.2 
 0000007 200  II      to                       Z5 
@@ -174,7 +179,8 @@
 0000007 400  NP1     Cunningham               Z1 
 0000007 410  VVD     continued                T2++ 
 0000007 411  ,       ,                        
-0000007 420  NP1     Itll                     Z99 
+0000007 420  PPH1    It                       Z8 
+0000007 421  VM      'll                      T1.1.3 
 0000007 430  VBI     be                       A3+ Z5 
 0000007 440  JJ      interesting              X5.2+ 
 0000007 450  TO      to                       Z5 
@@ -192,14 +198,15 @@
 0000007 560  PN1     one                      Z8 
 0000007 570  CST     that                     Z8 Z5 
 0000007 580  VVZ     knows                    X2.2+ S3.2/B1% 
-0000007 590  AT      the                      A4.2+[i16.4.1 Z5 
-0000007 600  NN2     ins                      A4.2+[i16.4.2 A4.2+[i17.3.1 
-0000007 610  CC      and                      A4.2+[i16.4.3 Z5 A4.2+[i17.3.2 
-0000007 620  NN2     outs                     A4.2+[i16.4.4 K5.1 A4.2+[i17.3.3 
+0000007 590  AT      the                      A4.2+[i15.4.1 Z5 
+0000007 600  NN2     ins                      A4.2+[i15.4.2 A4.2+[i16.3.1 
+0000007 610  CC      and                      A4.2+[i15.4.3 Z5 A4.2+[i16.3.2 
+0000007 620  NN2     outs                     A4.2+[i15.4.4 K5.1 A4.2+[i16.3.3 
 0000007 630  IO      of                       Z5 
 0000007 640  AT      the                      Z5 
 0000007 650  NN1     job                      I3.1 A1.1.1 A12- 
-0000007 660  NN1     theyre                   Z99 
+0000007 660  PPHS2   they                     Z8mfn 
+0000007 661  VBR     're                      Z5 A3+ 
 0000007 670  VVG     vying                    S7.3+ 
 0000007 680  IF      for                      Z5 
 0000007 681  .       .                        
@@ -213,9 +220,9 @@
 0000009 060  CC      and                      Z5 
 0000009 070  NN1     reality                  A3+ A5.2+ 
 0000009 080  NN1     TV                       Q4.3 S2.1/S2.2m 
-0000009 090  NN1     star                     Z2[i18.2.1 Z3c[i18.2.1 Z1mf[i18.2.1 W1 O4.4 A5.1+++ A11.1+/S2mf A5.1 
-0000009 100  NP1     Sarah                    Z2[i18.2.2 Z3c[i18.2.2 Z1mf[i18.2.2 Z1f Z1mf[i19.2.1 Z3c[i19.2.1 
-0000009 110  NP1     Palin                    Z1mf Z1mf[i19.2.2 Z3c[i19.2.2 
+0000009 090  NN1     star                     Z2[i17.2.1 Z3c[i17.2.1 Z1mf[i17.2.1 W1 O4.4 A5.1+++ A11.1+/S2mf A5.1 
+0000009 100  NP1     Sarah                    Z2[i17.2.2 Z3c[i17.2.2 Z1mf[i17.2.2 Z1f Z1mf[i18.2.1 Z3c[i18.2.1 
+0000009 110  NP1     Palin                    Z1mf Z1mf[i18.2.2 Z3c[i18.2.2 
 0000009 120  VVD     railed                   Q2.2 
 0000009 130  II      against                  Z5 
 0000009 140  AT      the                      Z5 
@@ -250,8 +257,8 @@
 0000011 020  JJ@     Daily                    T1.1.2 N6+ 
 0000011 030  NN1     Show                     A8 K4 S1.1.1 I2.2/S1.1.1 
 0000011 040  NN1     host                     S2mf B1@ Y2@ S9% 
-0000011 050  NP1     Jon                      Z1mf[i20.2.1 Z3c[i20.2.1 Z1m 
-0000011 060  NP1     Stewart                  Z1mf[i20.2.2 Z3c[i20.2.2 Z1mf 
+0000011 050  NP1     Jon                      Z1mf[i19.2.1 Z3c[i19.2.1 Z1m 
+0000011 060  NP1     Stewart                  Z1mf[i19.2.2 Z3c[i19.2.2 Z1mf 
 0000011 061  ,       ,                        
 0000011 070  PNQS    who                      Z8 
 0000011 080  DA2     many                     N5+ 
@@ -262,7 +269,8 @@
 0000011 130  NN1     cop                      G2.1/S2mf A5.1+@ 
 0000011 140  II      to                       Z5 
 0000011 150  NNB     President                G1.1/S7.1+/S2mf 
-0000011 160  NP1     Obamas                   Z99 
+0000011 160  NP1     Obama                    Z99 
+0000011 161  GE      's                       Z5 
 0000011 170  JJ      bad                      A5.1- G2.2- O4.2- B2- 
 0000011 180  NN1     cop                      G2.1/S2mf A5.1+@ 
 0000011 190  II      during                   Z5 
@@ -271,8 +279,8 @@
 0000011 211  ,       ,                        
 0000011 220  VVD     visited                  S1.1.1 M1 
 0000011 230  AT      the                      Z5 
-0000011 240  NP1     White                    Z3c[i21.2.1 Z2[i21.2.1 Z1mf 
-0000011 250  NN1     House                    Z3c[i21.2.2 Z2[i21.2.2 H1 P1/S5+c G1.1c 
+0000011 240  NP1     White                    Z3c[i20.2.1 Z2[i20.2.1 Z1mf 
+0000011 250  NN1     House                    Z3c[i20.2.2 Z2[i20.2.2 H1 P1/S5+c G1.1c 
 0000011 260  DD1     this                     M6 Z5 Z8 
 0000011 270  NNT1    week                     T1.3 
 0000011 280  TO      to                       Z5 
@@ -285,24 +293,25 @@
 0000011 350  NN1     president                G1.1/S7.1+/S2mf 
 0000011 351  .       .                        
 0000011 352  -----   -----                    
-0000011 360  NP1@    Im                       Z99 
-0000011 370  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000011 360  PPIS1   I                        Z8mf 
+0000011 361  VBM     'm                       Z5 A3+ 
+0000011 370  VVN     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
 0000011 380  AT      the                      Z5 
 0000011 390  NN1     meeting                  S1.1.3+ S3.1 K5.1 S9 A1.1.1 X9.2+ A6.1+ 
 0000011 400  VBDZ    was                      A3+ Z5 
 0000011 410  RG      very                     A13.3 
 0000011 420  JJ      constructive             S8+ 
 0000011 421  ,       ,                        
-0000011 430  NP1     White                    Z3c[i22.2.1 Z2[i22.2.1 Z1mf 
-0000011 440  NN1     House                    Z3c[i22.2.2 Z2[i22.2.2 H1 P1/S5+c G1.1c 
+0000011 430  NP1     White                    Z3c[i21.2.1 Z2[i21.2.1 Z1mf 
+0000011 440  NN1     House                    Z3c[i21.2.2 Z2[i21.2.2 H1 P1/S5+c G1.1c 
 0000011 450  NN1     Press                    Q4.2c O2 A1.1.1 Q4.1/I2.1c X8+ S7.1+ E6- 
 0000011 460  NN1     Secretary                I3.2/S2mf S7.1+/S2mf 
 0000011 470  NP1     Josh                     Z1m 
 0000011 480  NN1@    Earnest                  A5.2+ 
 0000011 490  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
 0000011 500  NN2     reporters                Q4.2/S2mf 
-0000011 510  NPD1    Tuesday                  T1.3[i23.2.1 T1.3 
-0000011 520  NNT1    afternoon                T1.3[i23.2.2 T1.3 
+0000011 510  NPD1    Tuesday                  T1.3[i22.2.1 T1.3 
+0000011 520  NNT1    afternoon                T1.3[i22.2.2 T1.3 
 0000011 521  .       .                        
 0000012 001  -----   -----                    
 0000013 010  NP1     Fox                      Z1mf 
@@ -318,8 +327,8 @@
 0000013 110  JJ      presidential             G1.1/S7.1+ 
 0000013 120  NN2     debates                  Q2.2 
 0000013 130  II      on                       Z5 
-0000013 140  NPM1    November                 T1.3[i24.2.1 T1.3 
-0000013 150  MD      10th                     T1.3[i24.2.2 N4 T1.3 
+0000013 140  NPM1    November                 T1.3[i23.2.1 T1.3 
+0000013 150  MD      10th                     T1.3[i23.2.2 N4 T1.3 
 0000013 160  II      in                       Z5 
 0000013 170  NP1     Milwaukee                Z2 
 0000013 171  .       .                        
@@ -335,23 +344,23 @@
 0000013 240  NNB     President                G1.1/S7.1+/S2mf 
 0000013 250  NP1     Obama                    Z99 
 0000013 260  CC      and                      Z5 
-0000013 270  NP1     Jon                      Z1mf[i25.2.1 Z3c[i25.2.1 Z1m 
-0000013 280  NP1     Stewart                  Z1mf[i25.2.2 Z3c[i25.2.2 Z1mf 
+0000013 270  NP1     Jon                      Z1mf[i24.2.1 Z3c[i24.2.1 Z1m 
+0000013 280  NP1     Stewart                  Z1mf[i24.2.2 Z3c[i24.2.2 Z1mf 
 0000013 281  ,       ,                        
 0000013 290  VBZ     is                       Z5 A3+ 
 0000013 300  VVN     scheduled                X7+/T1 
 0000013 310  II      to                       Z5 
 0000013 320  NN1     air                      O1.3 A8 W1 Q4.3 M1 
-0000013 330  NPM1    December                 T1.3[i26.2.1 T1.3 
-0000013 340  MD      15th                     T1.3[i26.2.2 N4 T1.3 
+0000013 330  NPM1    December                 T1.3[i25.2.1 T1.3 
+0000013 340  MD      15th                     T1.3[i25.2.2 N4 T1.3 
 0000013 350  II      at                       Z5 
 0000013 360  MC      6                        N1 T1.2 T3 T1.3 N3.2 
 0000013 370  RA      p.m                      G1.1/S2mf B3 
 0000013 371  .       .                        
 0000013 372  -----   -----                    
-0000013 380  NP1     PST                      Z2[i28.3.1 Z2[i27.3.1 
-0000013 390  II      on                       Z2[i28.3.2 Z5 Z2[i27.3.2 
-0000013 400  NP1     CNN                      Z2[i28.3.3 Z2[i27.3.3 
+0000013 380  NP1     PST                      Z2[i27.3.1 Z2[i26.3.1 
+0000013 390  II      on                       Z2[i27.3.2 Z5 Z2[i26.3.2 
+0000013 400  NP1     CNN                      Z2[i27.3.3 Z2[i26.3.3 
 0000013 401  .       .                        
 0000013 402  -----   -----                    
 0000013 410  AT      The                      Z5 
@@ -363,7 +372,7 @@
 0000013 470  AT      The                      Z5 
 0000013 480  JJ      Venetian                 Z2 
 0000013 490  II      in                       Z5 
-0000013 500  NP1     Las                      Z2[i30.2.1 Z3c[i30.2.1 Z2 Z1mf[i29.2.1 Z3c[i29.2.1 
-0000013 510  NP1     Vegas                    Z2[i30.2.2 Z3c[i30.2.2 Z2 Z1mf[i29.2.2 Z3c[i29.2.2 
+0000013 500  NP1     Las                      Z2[i29.2.1 Z3c[i29.2.1 Z2 Z1mf[i28.2.1 Z3c[i28.2.1 
+0000013 510  NP1     Vegas                    Z2[i29.2.2 Z3c[i29.2.2 Z2 Z1mf[i28.2.2 Z3c[i28.2.2 
 0000013 511  .       .                        
 0000015 001  NULL    **8;7;text               

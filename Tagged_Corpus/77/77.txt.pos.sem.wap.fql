@@ -1,4 +1,4 @@
-TOTAL              264
+TOTAL              267
 the                  AT             11 
 to                   II             10 
 to                   TO              9 
@@ -14,14 +14,16 @@ Christopher          NP1             4
 her                  APPGE           4 
 stars                NN2             3 
 hollow               VV0             3 
+Rory                 NP1             3 
 at                   II              3 
 be                   VBI             3 
 as                   CSA             3 
 this                 DD1             2 
+tv_addict            NN1             2 
 was                  VBDZ            2 
 that                 CST             2 
 while                CS              2 
-Rory                 NP1             2 
+'s                   GE              2 
 for                  IF              2 
 a                    AT1             2 
 marrying             VVG             2 
@@ -35,7 +37,6 @@ just                 RR              1
 returned             VVN             1 
 set                  NN1             1 
 supernatural         JJ              1 
-tv_addict            NN1             1 
 no                   AT              1 
 mood                 NN1             1 
 going_through        VVG             1 
@@ -57,10 +58,9 @@ friends              NN2             1
 your                 APPGE           1 
 eyes                 NN2             1 
 do                   VD0             1 
-nt                   XX              1 
+n't                  XX              1 
 deceive              VVI             1 
 you                  PPY             1 
-tv_addicts           NN1             1 
 possession           NN1             1 
 season               NNT1            1 
 possibly             RR              1 
@@ -120,7 +120,6 @@ life                 NN1             1
 forever              RT              1 
 reaches              VVZ             1 
 climax               NN1             1 
-Rorys                NP2             1 
 graduation           NN1             1 
 entire               JJ              1 
 town                 NN1             1 
@@ -135,7 +134,8 @@ star_Christiane      NN1             1
 Amanpour             NP1             1 
 looks_over           VVZ             1 
 Chris                NP1             1 
-whos                 NN2             1 
+who                  PNQS            1 
+'s                   VBZ             1 
 beaming              VVG             1 
 pride                NN1             1 
 she                  PPHS1           1 

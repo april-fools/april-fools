@@ -40,7 +40,8 @@
 0000002 350  II      in                       A1.8+[i4.2.2 Z5 
 0000002 360  AT      the                      Z5 
 0000002 370  JJ      early                    T1.3[i5.2.1 T3[i5.2.1 T4+ T1.1.1 
-0000002 380  MC2     1900s                    T1.3[i5.2.2 T3[i5.2.2 T1.3 N1 T3 
+0000002 380  MC221%  1900                     T1.3[i5.2.2 T3[i5.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000002 381  MC222%  's                       T1.3 N1 T3 
 0000002 390  II      in                       Z5 
 0000002 400  JJ      Southern                 M6 
 0000002 410  NP1     California               Z2 
@@ -201,8 +202,9 @@
 0000024 020  II      in                       Z5 
 0000024 030  MC      1917                     N1 T1.2 T3 T1.3 N3.2 
 0000024 031  ,       ,                        
-0000024 040  NP1     Im                       Z99 
-0000024 050  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000024 040  PPIS1   I                        Z8mf 
+0000024 041  VBM     'm                       Z5 A3+ 
+0000024 050  VVN     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
 0000024 060  AT      the                      Z5 
 0000024 070  NN1     hotel                    H4/H1 
 0000024 080  VBDZ    was                      A3+ Z5 
@@ -210,12 +212,14 @@
 0000024 100  AT      THE                      Z5 
 0000024 110  NN1     destination              M6 
 0000024 120  IF      for                      Z5 
-0000024 130  NP2     Californias              Z2 
+0000024 130  NP1     California               Z2 
+0000024 131  GE      's                       Z5 
 0000024 140  JJ      upper                    S5+c[i18.2.1 M6 A11.1++ 
 0000024 150  NN1     class                    S5+c[i18.2.2 P1c A4.1 S5+c O4.2+ 
 0000024 151  ,       ,                        
 0000024 160  II      including                A1.8+ 
-0000024 170  NP2     Hollywoods               Z2 
+0000024 170  NP1     Hollywood                Z2 
+0000024 171  GE      's                       Z5 
 0000024 180  NN1     elite                    A5.1+++/S5+c S7.1+/S5+c 
 0000024 190  VVG     looking                  X7+[i19.2.1 A8 X3.4 X2.4 X7+ Z4 
 0000024 200  TO      to                       X7+[i19.2.2 Z5 
@@ -362,9 +366,10 @@
 0000036 110  NN1     statue                   C1 
 0000036 111  .       .                        
 0000036 112  -----   -----                    
-0000036 120  NP1@    Ive                      Z99 
-0000036 130  VVD     explored                 M1 X2.4 
-0000036 140  II      about                    Z5 
+0000036 120  PPIS1   I                        Z8mf 
+0000036 121  VH0     've                      Z5 A9+ A2.2 
+0000036 130  VVN     explored                 M1 X2.4 
+0000036 140  RG      about                    A13.4 
 0000036 150  AT1     a                        Z5 
 0000036 160  NNO     zillion                  N1 
 0000036 170  JJ@     abandoned                M1 T2- A9- E1% 
@@ -419,8 +424,9 @@
 0000038 010  MC      007                      N1 T1.2 T3 T1.3 N3.2 
 0000040 010  II      Despite                  Z5 
 0000040 020  AT      the                      Z5 
-0000040 030  NN2     caretakers               B4/S2mf S8+/S2mf B3/S2mf 
-0000040 040  VV0     efforst                  Z99 
+0000040 030  NN1     caretaker                B4/S2mf S8+/S2mf B3/S2mf 
+0000040 031  GE      's                       Z5 
+0000040 040  NN1     efforst                  Z99 
 0000040 041  ,       ,                        
 0000040 050  EX      there                    Z5 
 0000040 060  VBR     are                      A3+ Z5 
@@ -467,7 +473,8 @@
 0000044 130  II22    to                       Z5[i27.2.2 Z5 
 0000044 140  NP1     Wikipedia                Z3c/Y2 
 0000044 141  ,       ,                        
-0000044 150  APPGE   its                      Z8 
+0000044 150  PPH1    it                       Z8 
+0000044 151  VBZ     's                       A3+ Z5 
 0000044 160  AT1     an                       Z5 
 0000044 170  JJ      old                      T3+ Z4 
 0000044 180  NN1     word                     Q3 Q2.1 S9@ 
@@ -517,13 +524,15 @@
 0000048 292  -----   -----                    
 0000048 300  VVG     Driving                  M3 A1.1.1 X5.2+ M2 S7.1+ 
 0000048 310  II      through                  Z5 
-0000048 320  NP2     Californias              Z2 
+0000048 320  NP1     California               Z2 
+0000048 321  GE      's                       Z5 
 0000048 330  JJT     newest                   T3--- 
 0000048 340  NN2     suburbs                  H4/M7 
 0000048 341  ,       ,                        
-0000048 350  VV0     youd                     Z99 
+0000048 350  PPY     you                      Z8mf 
+0000048 351  VM      'd                       A7+ 
 0000048 360  RR      never                    T1/Z6 
-0000048 370  VV0     know                     X2.2+ S3.2/B1% 
+0000048 370  VVI     know                     X2.2+ S3.2/B1% 
 0000048 380  NN2     stables                  L2/H1 
 0000048 390  CC      or                       Z5 
 0000048 400  AT1     a                        Z5 
@@ -567,7 +576,7 @@
 0000056 060  NN2     cracks                   A1.1.2 X3.2 N3.3--- E4.1+ F3 
 0000056 061  ,       ,                        
 0000056 070  VHZ     has                      Z5 A9+ A2.2 S4 
-0000056 071  XX      nt                       S9/Q4.1 Z3c 
+0000056 071  XX      n't                      Z6 
 0000056 080  VBN     been                     Z5 A3+ 
 0000056 090  VVN     filled                   N5.1+ I3.1 Q1.2@ 
 0000056 100  IW      with                     Z5 
@@ -592,9 +601,10 @@
 0000060 070  NN2     lights                   W2 O3/W2 M3 X4.1 
 0000060 071  .       .                        
 0000060 072  -----   -----                    
-0000060 080  MC1@    I                        Z8 
-0000060 090  NN1     cant                     Q2.1 
-0000060 100  VV0     imagine                  X2.1 A5.2- 
+0000060 080  PPIS1   I                        Z8mf 
+0000060 090  VM      ca                       A7+ 
+0000060 091  XX      n't                      Z6 
+0000060 100  VVI     imagine                  X2.1 A5.2- 
 0000060 110  RGQ@    how                      Z5 A13.3 
 0000060 120  JJ      beautiful                O4.2+ 
 0000060 130  APPGE   their                    Z8 
@@ -663,7 +673,8 @@
 0000076 030  RP      up                       Q1.2[i32.2.2 X3.4[i32.2.2 E2+[i32.2.2 A5.1+/A2.1[i32.2.2 
 0000076 040  II      toward                   Z5 
 0000076 050  AT      the                      Z5 
-0000076 060  NN2     hotels                   H4/H1 
+0000076 060  NN1     hotel                    H4/H1 
+0000076 061  GE      's                       Z5 
 0000076 070  NN2     balconies                H2 
 0000076 071  :       :                        
 0000078 010  MC      020                      N1 T1.2 T3 T1.3 N3.2 
@@ -693,10 +704,11 @@
 0000080 210  AT      the                      Z5 
 0000080 220  NN1     overgrowth               L3 
 0000080 221  ,       ,                        
-0000080 230  VV0     youd                     Z99 
+0000080 230  PPY     you                      Z8mf 
+0000080 231  VM      'd                       A7+ 
 0000080 240  RR      never                    T1/Z6 
 0000080 250  RR      even                     A13.1 
-0000080 260  VV0     know                     X2.2+ S3.2/B1% 
+0000080 260  VVI     know                     X2.2+ S3.2/B1% 
 0000080 270  PPH1    it                       Z8 
 0000080 280  VBDZ    was                      A3+ Z5 
 0000080 290  RL      there                    M6 T1.2 
@@ -1073,7 +1085,8 @@
 0000112 111  .       .                        
 0000112 112  -----   -----                    
 0000112 120  AT      The                      Z5 
-0000112 130  NN2     newspapers               Q4.2 
+0000112 130  NN1     newspaper                Q4.2 
+0000112 131  GE      's                       Z5 
 0000112 140  NN1     date                     T1.2 S3.2 S3.2/S2mf 
 0000112 150  VBZ     is                       A3+ Z5 
 0000112 160  DD1     that                     Z8 Z5 
@@ -1169,7 +1182,8 @@
 0000136 140  JJ      available                A3+ A9+ A1.2+/G1.2 S4 
 0000136 150  II      in                       Z5 
 0000136 160  AT      the                      Z5 
-0000136 170  NN2     hotels                   H4/H1 
+0000136 170  NN1     hotel                    H4/H1 
+0000136 171  GE      's                       Z5 
 0000136 180  NN1     gift                     A9- X9.1+ 
 0000136 190  NN1     shop                     I2.2/H1c I4/H1c I2.2 I3.1 
 0000136 191  :       :                        
@@ -1215,7 +1229,8 @@
 0000149 001  -----   -----                    
 0000150 010  MC      040                      N1 T1.2 T3 T1.3 N3.2 
 0000152 010  CC      And                      Z5 
-0000152 020  VVZ     thats                    Z5 Z8 A13.3 A6.1+ 
+0000152 020  DD1     that                     Z8 Z5 
+0000152 021  VBZ     's                       A3+ Z5 
 0000152 030  DB      all                      N5.1+ 
 0000152 040  PPIS1   I                        Z8mf 
 0000152 050  VM      can                      A7+ 
@@ -1223,7 +1238,8 @@
 0000152 070  RT      now                      T1.1.2 Z4 
 0000152 071  !       !                        
 0000152 072  -----   -----                    
-0000152 080  VV0     Im                       Z99 
+0000152 080  PPIS1   I                        Z8mf 
+0000152 081  VBM     'm                       Z5 A3+ 
 0000152 090  VVG     hoping                   X2.6+ E4.1+ X9.2+ A5.1+ 
 0000152 100  PPH1    it                       Z8 
 0000152 110  VVZ     gets                     A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
@@ -1238,7 +1254,8 @@
 0000152 180  II      by                       Z5 
 0000152 190  DD      any                      N5.1+ N5 
 0000152 200  NN1     chance                   A1.4 A7+ 
-0000152 210  NN1     youve                    Z99 
+0000152 210  PPY     you                      Z8mf 
+0000152 211  VH0     've                      Z5 A9+ A2.2 
 0000152 220  RR      ever                     T1.1 N6+++ A13 
 0000152 230  VBN     been                     A3+ Z5 
 0000152 240  RL      here                     M6 T1.1.2 T1.2 
@@ -1268,8 +1285,9 @@
 0000154 130  PPX1    yourself                 Z8 
 0000154 140  RT      someday                  T1.1.3 
 0000154 141  ,       ,                        
-0000154 150  NN1     Id                       X2 
-0000154 160  VV0     avoid                    A1.9 M1 
+0000154 150  PPIS1   I                        Z8mf 
+0000154 151  VM      'd                       A7+ 
+0000154 160  VVI     avoid                    A1.9 M1 
 0000154 170  AT      the                      Z5 
 0000154 180  NN2     elevators                H2 B3 
 0000154 190  CS      if                       Z7 
@@ -1278,7 +1296,8 @@
 0000154 220  PPY     you                      Z8mf 
 0000154 221  .       .                        
 0000154 222  -----   -----                    
-0000154 230  NN1     Theyre                   Z99 
+0000154 230  PPHS2   They                     Z8mfn 
+0000154 231  VBR     're                      A3+ Z5 
 0000154 240  RG      very                     A13.3 
 0000154 250  JJ      unreliable               A5.1- A5.3- 
 0000154 251  .       .                        

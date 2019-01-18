@@ -12,7 +12,7 @@ EB5                      FO      Z99
 email-filtering          JJ      Z99 
 FBI                      NP1     Z99 
 FEC                      NP1     Z99 
-firmwhich                VV0     Z99 
+firmwhich                NN1     Z99 
 go-to                    NN1     Z99 
 GOP                      NN1     Z99 
 Gov                      NN1     Z99 
@@ -20,13 +20,11 @@ Grassley                 NP1     Z99
 Grassleywas              NP2     Z99 
 Hartson                  NP1     Z99 
 Hillary                  NP1     Z99 
-Hillarys                 NP2     Z99 
 home-brew                NN1     Z99 
 Howley                   NP1     Z99 
 illicitly                RR      Z99 
 Intelius                 NP1     Z99 
 Islamist                 JJ      Z99 
-isnt                     VV0     Z99 
 Khan-connected           JJ      Z99 
 lambasted                VVD     Z99 
 laundering               NN1     Z99 
@@ -50,12 +48,11 @@ Raymond                  NP1     Z99
 realitythat              NN1     Z99 
 rubberstamped            VVN     Z99 
 Schoffstall              NP1     Z99 
-Schoffstalls             NP1@    Z99 
+Schoffstall              NP1@    Z99 
 SPAMTRAQ                 JJ@     Z99 
 taxesis                  NN1     Z99 
 Then-Hogan               NP1     Z99 
 Topaz                    NN1     Z99 
-Topazs                   NN2     Z99 
 verifiable               JJ      Z99 
 whyas                    NN2     Z99 
 York-based               JJ      Z99 

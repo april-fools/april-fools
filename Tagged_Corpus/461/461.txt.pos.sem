@@ -37,7 +37,8 @@
 0000002 310  NN2     changes                  A2.1+ I1 B1 
 0000002 320  II      to                       Z5 
 0000002 330  AT      the                      Z5 
-0000002 340  NN2     Earths                   W3 W1 O1.1 O3 N5++ 
+0000002 340  NN1     Earth                    W3 W1 O1.1 O3 N5++ 
+0000002 341  GE      's                       Z5 
 0000002 350  NN1     orbit                    M7/W1 S7.1+ 
 0000002 351  .       .                        
 0000003 001  -----   -----                    
@@ -50,8 +51,9 @@
 0000004 070  VHZ     has                      Z5 A9+ A2.2 S4 
 0000004 080  VVN     extended                 N3.3 T1.3 A1.7- N3.2+/A2.1 N5+/A2.1 T1.3+/A2.1 A9- 
 0000004 090  AT      the                      Z5 
-0000004 100  NN2     Earths                   W3 W1 O1.1 O3 N5++ 
-0000004 110  VV0@    orbit                    M1/W1 
+0000004 100  NN1     Earth                    W3 W1 O1.1 O3 N5++ 
+0000004 101  GE      's                       Z5 
+0000004 110  NN1     orbit                    M7/W1 S7.1+ 
 0000004 120  II      from                     Z5 
 0000004 130  MC      365.25                   N1 T1.2 T3 T1.3 N3.2 
 0000004 140  II      to                       Z5 
@@ -366,8 +368,9 @@
 0000018 160  JJ      future                   T1.1.3 
 0000018 170  NN2     changes                  A2.1+ I1 B1 
 0000018 180  II      in                       Z5 
-0000018 190  AT      the                      Z5 
-0000018 200  NN2     suns                     W1 W2 W4 
+0000018 190  AT      the                      Z3c[i16.2.1 Z5 
+0000018 200  NN1     sun                      Z3c[i16.2.2 W1 W2 W4 
+0000018 201  GE      's                       Z5 
 0000018 210  NN1     activity                 A1.1.1 
 0000018 220  CC      and                      Z5 
 0000018 230  VM      will                     T1.1.3 
@@ -381,11 +384,12 @@
 0000018 310  VBI     be                       Z5 A3+ 
 0000018 320  VVN     added                    N5+/A2.1 N2 A1.8+ 
 0000018 330  II      to                       Z5 
-0000018 340  DD1     each                     N6+[i16.2.1 N5.1+ 
-0000018 350  NNT1    day                      N6+[i16.2.2 T1.3 
+0000018 340  DD1     each                     N6+[i17.2.1 N5.1+ 
+0000018 350  NNT1    day                      N6+[i17.2.2 T1.3 
 0000018 360  VM      should                   S6+ A7+ 
-0000018 370  AT      the                      Z5 
-0000018 380  NN2     suns                     W1 W2 W4 
+0000018 370  AT      the                      Z3c[i18.2.1 Z5 
+0000018 380  NN1     sun                      Z3c[i18.2.2 W1 W2 W4 
+0000018 381  GE      's                       Z5 
 0000018 390  NN1     rate                     N3.8 N5 I1.3 
 0000018 400  IO      of                       Z5 
 0000018 410  NN1     hydrogen-burn            Z99 
@@ -396,7 +400,8 @@
 0000018 451  .       .                        
 0000019 001  -----   -----                    
 0000020 010  AT      The                      Z5 
-0000020 020  NN2     Earths                   W3 W1 O1.1 O3 N5++ 
+0000020 020  NN1     Earth                    W3 W1 O1.1 O3 N5++ 
+0000020 021  GE      's                       Z5 
 0000020 030  NN1     sister                   S4f S9/S2.1f B3/S2.1f S2.1f A2.2 
 0000020 040  NN2     planets                  W1 
 0000020 050  VH0     have                     Z5 A9+ A2.2 S4 
@@ -407,9 +412,10 @@
 0000020 100  AT      the                      Z5 
 0000020 110  NN1     change                   A2.1+ I1 B1 
 0000020 120  II      in                       Z5 
-0000020 130  AT      the                      Z5 
-0000020 140  NN2     suns                     W1 W2 W4 
-0000020 150  VVD     reduced                  N5-/A2.1 N3.2-/A2.1 A12-/A2.1 A2.2 F1 
+0000020 130  AT      the                      Z3c[i19.2.1 Z5 
+0000020 140  NN1     sun                      Z3c[i19.2.2 W1 W2 W4 
+0000020 141  VBZ     's                       Z5 A3+ 
+0000020 150  VVN     reduced                  N5-/A2.1 N3.2-/A2.1 A12-/A2.1 A2.2 F1 
 0000020 160  JJ      gravitational            N3 
 0000020 170  NN1     influence                S7.1+ A2.2 
 0000020 171  .       .                        
@@ -427,20 +433,21 @@
 0000020 260  APPGE   our                      Z8 
 0000020 270  NN1     solar-system             Z99 
 0000020 280  CC      and                      Z5 
-0000020 290  MC      2.8                      N1[i17.2.1 T1.3[i17.2.1 I1[i17.2.1 N1 T1.2 T3 T1.3 N3.2 
-0000020 300  NNO     billion                  N1[i17.2.2 T1.3[i17.2.2 I1[i17.2.2 N1 I1 
+0000020 290  MC      2.8                      N1[i20.2.1 T1.3[i20.2.1 I1[i20.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000020 300  NNO     billion                  N1[i20.2.2 T1.3[i20.2.2 I1[i20.2.2 N1 I1 
 0000020 310  NNU2    miles                    N3.3 N3.3+ N3.7 N5+ A13.2 
 0000020 320  II      from                     Z5 
-0000020 330  AT      the                      Z3c[i18.2.1 Z5 
-0000020 340  NN1     sun                      Z3c[i18.2.2 W1 W2 W4 
+0000020 330  AT      the                      Z3c[i21.2.1 Z5 
+0000020 340  NN1     sun                      Z3c[i21.2.2 W1 W2 W4 
 0000020 341  ,       ,                        
 0000020 350  VM      will                     T1.1.3 
 0000020 360  VBI     be                       Z5 A3+ 
 0000020 370  RR      drastically              A13.2 
 0000020 380  VVN     affected                 A2.1+ A5.4-/A8 
 0000020 390  II      by                       Z5 
-0000020 400  AT      the                      Z5 
-0000020 410  NN2     suns                     W1 W2 W4 
+0000020 400  AT      the                      Z3c[i22.2.1 Z5 
+0000020 410  NN1     sun                      Z3c[i22.2.2 W1 W2 W4 
+0000020 411  VBZ     's                       A3+ Z5 
 0000020 420  JJR     weaker                   S1.2.5-- O4.1 S7.1-- A5.1-- 
 0000020 430  JJ      gravitational            N3 
 0000020 440  NN1     influence                S7.1+ A2.2 
@@ -453,16 +460,16 @@
 0000020 490  NN1     planet                   W1 
 0000020 500  VM      will                     T1.1.3 
 0000020 510  RT      now                      T1.1.2 Z4 
-0000020 520  VVI     drift                    M1[i19.2.1 X5.1-[i19.2.1 M1 A1.4 
-0000020 530  RP      off                      M1[i19.2.2 X5.1-[i19.2.2 M6 K1 A1.1.1 A1.9 
+0000020 520  VVI     drift                    M1[i23.2.1 X5.1-[i23.2.1 M1 A1.4 
+0000020 530  RP      off                      M1[i23.2.2 X5.1-[i23.2.2 M6 K1 A1.1.1 A1.9 
 0000020 540  II      into                     Z5 
 0000020 550  NN1     space                    N3.6 W1 T1.3 Q1.2 
 0000020 560  CC      and                      Z5 
 0000020 570  VM      will                     T1.1.3 
 0000020 580  XX      not                      Z6 
 0000020 590  VVI     orbit                    M1/W1 
-0000020 600  AT      the                      Z3c[i20.2.1 Z5 
-0000020 610  NN1     sun                      Z3c[i20.2.2 W1 W2 W4 
+0000020 600  AT      the                      Z3c[i24.2.1 Z5 
+0000020 610  NN1     sun                      Z3c[i24.2.2 W1 W2 W4 
 0000020 620  II      within                   Z5 
 0000020 630  AT      the                      Z5 
 0000020 640  MD      next                     N4 
@@ -507,9 +514,9 @@
 0000026 040  DD      some                     N5 Z5 
 0000026 050  IO      of                       Z5 
 0000026 060  AT      the                      Z5 
-0000026 070  JJ      weird                    A6.2-[i21.3.1 A6.2- 
-0000026 080  CC      and                      A6.2-[i21.3.2 Z5 
-0000026 090  JJ      wonderful                A6.2-[i21.3.3 A5.1+ 
+0000026 070  JJ      weird                    A6.2-[i25.3.1 A6.2- 
+0000026 080  CC      and                      A6.2-[i25.3.2 Z5 
+0000026 090  JJ      wonderful                A6.2-[i25.3.3 A5.1+ 
 0000026 100  NN2     ways                     X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
 0000026 110  APPGE   our                      Z8 
 0000026 120  NN1     research                 X2.4 
@@ -526,7 +533,7 @@
 0000028 020  II      about                    Z5 
 0000028 030  AT      the                      Z5 
 0000028 040  JJ      3D-printed               Z99 
-0000028 050  NN1     sneezometer              Z99 
+0000028 050  NN1     sneezometer'             Z99 
 0000028 060  CST     that                     Z8 Z5 
 0000028 070  VM      can                      A7+ 
 0000028 080  VVI     help                     S8+ 
@@ -546,8 +553,8 @@
 0000029 060  CC      and                      Z5 
 0000029 070  NN2     meals                    F1 
 0000029 080  VM      can                      A7+ 
-0000029 090  VVI     lead                     A2.2[i22.2.1 M6[i22.2.1 S7.1+ A2.2 M2 A1.1.1 
-0000029 100  II      to                       A2.2[i22.2.2 M6[i22.2.2 Z5 
+0000029 090  VVI     lead                     A2.2[i26.2.1 M6[i26.2.1 S7.1+ A2.2 M2 A1.1.1 
+0000029 100  II      to                       A2.2[i26.2.2 M6[i26.2.2 Z5 
 0000029 110  NN1     weight                   N3.5 A11.1 O2/K5.1 
 0000029 120  NN1     loss                     I1.2 A9- S8- L1- 
 0000030 010  VV0     Learn                    X2.3+ P1 
@@ -561,7 +568,8 @@
 0000030 090  VV0     recall                   X2.2+ I3.1-/G1.2 I2.2/T2- K5.2 A6.1+ 
 0000031 010  VV0     Explore                  M1 X2.4 
 0000031 020  RRQ     how                      Z5 A13.3 
-0000031 030  VBDR    were                     Z5 A3+ 
+0000031 030  PPIS2   we                       Z8 
+0000031 031  VBR     're                      Z5 A3+ 
 0000031 040  VVG     working                  I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
 0000031 050  IW      with                     Z5 
 0000031 060  AT      the                      Z5 
@@ -570,8 +578,8 @@
 0000031 090  NN1     Agency                   I2.2/S5+c G1.1c 
 0000031 100  TO      to                       Z5 
 0000031 110  VVI     tackle                   A1.1.1 K5.1 Q2.2 
-0000031 120  NN1     health                   B2-[i23.2.1 B2 X9.2 
-0000031 130  NN2     problems                 B2-[i23.2.2 A12- X4.1 N2 B2- 
+0000031 120  NN1     health                   B2-[i27.2.1 B2 X9.2 
+0000031 130  NN2     problems                 B2-[i27.2.2 A12- X4.1 N2 B2- 
 0000031 140  VVN     shared                   S1.1.2+ 
 0000031 150  II      by                       Z5 
 0000031 160  NN2     astronauts               Y1/W1/S2mf 
@@ -588,8 +596,8 @@
 0000032 080  AT      the                      Z5 
 0000032 090  NN1     fight                    S8- X8+ E3- K5.1 
 0000032 100  II      against                  Z5 
-0000032 110  JJ      Muscular                 B2-[i24.2.1 B1 S1.2.6+ 
-0000032 120  NN1     Dystrophy                B2-[i24.2.2 B2- 
+0000032 110  JJ      Muscular                 B2-[i28.2.1 B1 S1.2.6+ 
+0000032 120  NN1     Dystrophy                B2-[i28.2.2 B2- 
 0000033 010  VV0     See                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
 0000033 020  RRQ     how                      Z5 A13.3 
 0000033 030  APPGE   our                      Z8 
@@ -603,12 +611,12 @@
 0000033 110  VVI     develop                  A2.1+ T2+ A5.1+/A2.1 N3.2+/A2.1 H1 A9+ C1 
 0000033 120  JJ      new                      T3- 
 0000033 130  NN2     technologies             Y1 
-0000033 140  II21    such                     Z5[i25.2.1 
-0000033 150  II22    as                       Z5[i25.2.2 Z5 
+0000033 140  II21    such                     Z5[i29.2.1 
+0000033 150  II22    as                       Z5[i29.2.2 Z5 
 0000033 160  JJ      smart                    O4.2+ X9.1+ S1.2.6+ 
-0000033 170  NN1     wallpaper                H5 
-0000034 010  VV0     Find                     X2.3+[i26.2.1 A10+ X2.1 X6+ 
-0000034 020  RP      out                      X2.3+[i26.2.2 M6 
+0000033 170  NN1     wallpaper'               Z99 
+0000034 010  VV0     Find                     X2.3+[i30.2.1 A10+ X2.1 X6+ 
+0000034 020  RP      out                      X2.3+[i30.2.2 M6 
 0000034 030  II      about                    Z5 
 0000034 040  AT      the                      Z5 
 0000034 050  NN1     test                     P1 B3 X2.4 K5.1@ 
@@ -650,9 +658,10 @@
 0000039 010  VV0     Learn                    X2.3+ P1 
 0000039 020  RRR     more                     A13.3 N6++ 
 0000039 030  II      about                    Z5 
-0000039 040  NP2     Surreys                  Z2 Z1mf 
-0000039 050  NN1     research                 X2.4[i27.2.1 X2.4 
-0000039 060  NN1     environment              X2.4[i27.2.2 W5 W3 E1 Y2 O4.1 
+0000039 040  NP1     Surrey                   Z2 Z1mf 
+0000039 041  GE      's                       Z5 
+0000039 050  NN1     research                 X2.4[i31.2.1 X2.4 
+0000039 060  NN1     environment              X2.4[i31.2.2 W5 W3 E1 Y2 O4.1 
 0000039 070  CC      and                      Z5 
 0000039 080  NN2     fields                   F4 W3 M7 K5.1/M7 G3@ A4.1 
 0000039 090  IO      of                       Z5 

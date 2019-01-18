@@ -1,4 +1,4 @@
-TOTAL              296
+TOTAL              303
 the                  Z5                  13 
 a                    Z5                   9 
 you                  Z8                   8 
@@ -9,6 +9,8 @@ line                 O4.4                 5
 and                  Z5                   5 
 but                  Z5                   4 
 be                   Z5                   4 
+is                   A3+                  4 
+n't                  Z6                   4 
 waiting              T1.3                 4 
 no                   Z6                   4 
 your                 Z8                   4 
@@ -19,13 +21,15 @@ beta                 Q3                   3
 new                  T3-                  3 
 wristband            Z99                  3 
 when                 Z5                   3 
+there                Z5                   3 
 at                   Z5                   3 
 passholders          G1.1                 2 
 test                 P1                   2 
 line                 A1.1.1               2 
 free                 S6-                  2 
-isnt                 Z99                  2 
 of                   Z5                   2 
+it                   Z8                   2 
+'s                   A3+                  2 
 guests               S2                   2 
 line_free            O4.4                 2 
 be                   A3+                  2 
@@ -33,17 +37,15 @@ enter                M1                   2
 in_line              A6.1+                2 
 that                 Z8                   2 
 want                 X7+                  2 
-there                Z5                   2 
 just                 A14                  2 
 walk                 M1                   2 
 work                 I3.1                 2 
 food                 F1                   2 
 locations            M7                   2 
 in                   Z5                   2 
-is                   A3+                  2 
 off                  Z5                   2 
 even                 A13.1                2 
-wont                 A6.2+                2 
+wo                   T1.1.3               2 
 selected             X7+                  2 
 invited              Q2.2                 2 
 participate          S1.1.3+              2 
@@ -66,7 +68,6 @@ inviting             Q2.2                 1
 service              S8+                  1 
 version              A4.1                 1 
 FASTPASS             Z99                  1 
-its                  Z8                   1 
 an                   Z5                   1 
 entirely             A13.2                1 
 system               X4.2                 1 
@@ -84,7 +85,7 @@ Dumbo                Z3                   1
 or_anything          Z4                   1 
 else                 A6.1-                1 
 without              Z5                   1 
-this                 M6                   1 
+this                 Z8                   1 
 separate             A6.1-                1 
 or                   Z5                   1 
 single               N5---                1 
@@ -95,7 +96,6 @@ at_all               A13.7                1
 on                   Z5                   1 
 as_well              N5++                 1 
 churro               Z99                  1 
-theres               Z5                   1 
 popcorn              F1                   1 
 dinner               F1                   1 
 blue                 O4.3                 1 
@@ -112,7 +112,8 @@ show                 A10+                 1
 step                 M1                   1 
 in_front_of          N4                   1 
 other                A6.1-                1 
-Alices               Z1                   1 
+Alice                Z1                   1 
+'s                   Z5                   1 
 autograph            Q1.2                 1 
 while                Z5                   1 
 curses               A1.2.4-              1 
@@ -130,7 +131,6 @@ leaves               M1                   1
 becomes              A2.1+                1 
 generally            A6.2+                1 
 available            A3+                  1 
-it                   Z8                   1 
 entry                M7                   1 
 retail               I2.2                 1 
 parades              K1                   1 

@@ -1,18 +1,21 @@
-TOTAL              315
+TOTAL              322
 the                  AT             28 
 of                   IO             18 
 housewives           NN2            16 
 real                 JJ             10 
 and                  CC             10 
+it                   PPH1            7 
 be                   VBI             7 
 a                    AT1             6 
 this                 DD1             5 
 will                 VM              5 
-it                   PPH1            5 
 all-stars            NN2             4 
 to                   II              4 
 new                  JJ              4 
 edition              NN1             3 
+is                   VBZ             3 
+'s                   VBZ             3 
+network              NN1             3 
 bravo                NN1             3 
 who                  PNQS            3 
 to                   TO              3 
@@ -21,16 +24,15 @@ group                NN1             3
 has                  VHZ             2 
 experience           VV0             2 
 in                   II              2 
-is                   VBZ             2 
-its                  APPGE           2 
-networks             NN2             2 
+'s                   GE              2 
 from                 II              2 
+i                    PPIS1           2 
+n't                  XX              2 
 all                  DB              2 
 most                 RGT             2 
 what                 DDQ             2 
 so                   RR              2 
 an                   AT1             2 
-network              NN1             2 
 as                   II              2 
 for                  IF              2 
 their                APPGE           2 
@@ -62,8 +64,7 @@ Andy_Cohen           NP1             1
 executive            NN1             1 
 producing            VVG             1 
 show                 NN1             1 
-i                    MC1             1 
-couldnt              NN1             1 
+could                VM              1 
 more                 RGR             1 
 excited              JJ              1 
 finally              RR              1 
@@ -86,7 +87,6 @@ season               NNT1            1
 leading              VVG             1 
 up_to                II21            1 
 moment               NN1             1 
-i                    PPIS1           1 
 launched             VVD             1 
 my                   APPGE           1 
 production_company   NN1             1 
@@ -95,8 +95,8 @@ primary              JJ              1
 intent               NN1             1 
 bringing             VVG             1 
 revolutionary        JJ              1 
-heres                NN2             1 
-going_to             VVG             1 
+here                 RL              1 
+going_to             VVGK            1 
 epic                 JJ              1 
 exactly              RR              1 
 like                 II              1 
@@ -111,7 +111,7 @@ progression          NN1             1
 franchise            VV0             1 
 modern               JJ              1 
 world                NN1             1 
-todays               NN2             1 
+today                RT              1 
 communication        NN1             1 
 technology           NN1             1 
 jet-set              JJ              1 
@@ -128,6 +128,7 @@ when                 CS              1
 comes_to             VVZ             1 
 building             VVG             1 
 social               JJ              1 
+networks             NN2             1 
 makes_sense          VVZ             1 
 go                   VVI             1 
 beyond               II              1 
@@ -155,7 +156,6 @@ globe                NN1             1
 as                   CSA             1 
 housewievs-all-stars NN2             1 
 boy                  NN1             1 
-isnt                 NN1             1 
 exaggerating         VVG             1 
 when                 RRQ             1 
 they                 PPHS2           1 

@@ -23,7 +23,6 @@ nullity                  NN1     Z99
 p-a                      NN1     Z99 
 RVO                      NN1     Z99 
 std                      NNU     Z99 
-theyre                   NN1     Z99 
 X*                       FO      Z99 
 X**                      FO      Z99 
 X***                     FO      Z99 

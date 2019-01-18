@@ -1,20 +1,21 @@
-TOTAL              393
+TOTAL              396
 the                  AT             23 
 of                   IO             14 
 and                  CC             13 
 in                   II              9 
 fish                 NN              9 
 a                    AT1             7 
-anglers              NN2             7 
 on                   II              6 
 snakehead            NN1             6 
 can                  VM              5 
 is                   VBZ             5 
 to                   TO              5 
+anglers              NN2             5 
 they                 PPHS2           5 
 Maryland             NP1             4 
 to                   II              4 
 we                   PPIS2           4 
+'s                   GE              4 
 from                 II              3 
 will                 VM              3 
 for                  IF              3 
@@ -22,6 +23,7 @@ do                   VD0             3
 said                 VVD             3 
 this                 DD1             3 
 that                 CST             3 
+angler               NN1             3 
 population           NN1             3 
 are                  VBR             3 
 have                 VH0             2 
@@ -46,7 +48,7 @@ caught               VVN             2
 bodies               NN2             2 
 water                NN1             2 
 also                 RR              2 
-log                  VV0             2 
+log                  NN1             2 
 these                DD2             2 
 when                 CS              2 
 any                  DD              2 
@@ -107,7 +109,6 @@ first                MD              1
 time                 NNT1            1 
 seen                 VVN             1 
 when                 RRQ             1 
-angler               NN1             1 
 caught               VVD             1 
 18-inch              NNU1            1 
 specimen             NN1             1 
@@ -153,12 +154,11 @@ found                VVN             1
 at_least             RR21            1 
 seven                MC              1 
 states               NN2             1 
-nt                   XX              1 
+n't                  XX              1 
 expect               VVI             1 
 eradicate            VVI             1 
 Joe                  NP1             1 
 love                 NN1             1 
-'s                   GE              1 
 tidal                JJ              1 
 program              NN1             1 
 manager              NN1             1 
@@ -224,7 +224,7 @@ picture              NN1             1
 themselves           PPX2            1 
 with                 IW              1 
 dead                 JJ              1 
-DNRs                 NP1             1 
+DNR                  NP1             1 
 webpage              NN1             1 
 winners              NN2             1 
 drawn                VVN             1 

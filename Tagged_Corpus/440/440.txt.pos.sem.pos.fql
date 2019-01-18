@@ -1,6 +1,6 @@
 TOTAL         147
 NN1            31 
-JJ             18 
+JJ             19 
 II             15 
 AT             14 
 NP1             9 
@@ -13,7 +13,6 @@ IF              3
 VVG             3 
 NN2             2 
 DA              2 
-RT              2 
 VV0             2 
 VBZ             1 
 APPGE           1 
@@ -27,6 +26,7 @@ VBN             1
 VVD             1 
 VBDR            1 
 CC              1 
+RT              1 
 CST             1 
 VM              1 
 VHZ             1 

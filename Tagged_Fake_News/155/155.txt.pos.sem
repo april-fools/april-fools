@@ -27,7 +27,7 @@
 0000004 040  VHZ     has                      Z5 A9+ A2.2 S4 
 0000004 050  VVN     said                     Q2.1 
 0000004 060  PPHS1   he                       Z8m 
-0000004 061  VBZ     s                        Z5 
+0000004 061  VBZ     's                       Z5 A3+ 
 0000004 070  VVG     reserving                A9+ 
 0000004 080  APPGE   my                       Z8 
 0000004 090  NN1     ticket                   Q1.2 G2.1/Q1.2 G1.2 
@@ -42,22 +42,24 @@
 0000004 171  .       .                        
 0000005 001  -----   -----                    
 0000006 010  AT      The                      Z5 
-0000006 020  NN2     Views                    X2.1 X3.4 
+0000006 020  NN1     View                     X4.1 X3.4 A4.1 X7+ 
+0000006 021  GE      's                       Z5 
 0000006 030  NP1     Whoopi                   Z1mf[i6.2.1 Z3c[i6.2.1 Z1f 
 0000006 040  NP1     Goldberg                 Z1mf[i6.2.2 Z3c[i6.2.2 Z1mf 
 0000006 050  VVD     said                     Q2.1 
 0000006 051  ,       ,                        
 0000006 060  PPIS1   I                        Z8mf 
 0000006 070  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000006 071  XX      nt                       S9/Q4.1 Z3c 
+0000006 071  XX      n't                      Z6 
 0000006 080  VVI     think                    X2.1 
-0000006 090  NN2     thats                    Z5 Z8 A13.3 A6.1+ 
+0000006 090  DD1     that                     Z8 Z5 
+0000006 091  VBZ     's                       A3+ Z5 
 0000006 100  NP1     America                  Z2 
 0000006 101  .       .                        
 0000006 102  -----   -----                    
 0000006 110  PPIS1   I                        Z8mf 
 0000006 120  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000006 121  XX      nt                       S9/Q4.1 Z3c 
+0000006 121  XX      n't                      Z6 
 0000006 130  VVI     want                     X7+ S6+ A7+ S3.2 A9- 
 0000006 140  PPH1    it                       Z8 
 0000006 150  TO      to                       Z5 
@@ -66,7 +68,8 @@
 0000006 171  .       .                        
 0000007 001  -----   -----                    
 0000008 010  RR      Maybe                    A7 
-0000008 020  APPGE   its                      Z8 
+0000008 020  PPH1    it                       Z8 
+0000008 021  VBZ     's                       A3+ Z5 
 0000008 030  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000008 040  IF      for                      Z5 
 0000008 050  PPIO1   me                       Z8mf 

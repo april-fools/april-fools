@@ -1,21 +1,22 @@
-TOTAL              446
+TOTAL              453
 the                  Z5                  40 
 of                   Z5                  26 
 a                    Z5                  10 
 and                  Z5                   9 
-it                   Z8                   6 
+it                   Z8                   7 
 to                   Z5                   6 
 by                   Z5                   6 
 at                   Z5                   5 
 for                  Z5                   5 
 CERN                 Z99                  5 
 in                   Z5                   4 
-that                 Z5                   4 
 dark                 W2-                  3 
 have                 Z5                   3 
 particle             O2                   3 
 incident             A3+                  3 
+that                 Z5                   3 
 when                 Z5                   3 
+'s                   Z5                   3 
 been                 Z5                   3 
 but                  Z5                   3 
 an                   Z5                   3 
@@ -26,16 +27,17 @@ physicist            Y1                   2
 years                T1.3                 2 
 events               A3+                  2 
 world                W1                   2 
+was                  A3+                  2 
 until                Z5                   2 
 common               A6.2+                2 
 employees            I3.1                 2 
 was                  Z5                   2 
 some                 N5                   2 
-were                 Z5                   2 
 study                P1                   2 
 NSF                  Z3                   2 
 experiment           Y1                   2 
 Dr.                  B3                   2 
+Shoggoth             Z99                  2 
 director             S7.1+                2 
 general              N5+                  2 
 Rolf-Dieter_Heuer    Z1                   2 
@@ -43,12 +45,14 @@ are                  A3+                  2
 just                 A14                  2 
 science              Y1                   2 
 you                  Z8                   2 
+that                 Z8                   2 
 result               A2.2                 2 
 our                  Z8                   2 
 their                Z8                   2 
 ever                 T1.1                 2 
 power                S7.1+                2 
 will                 T1.1.3               2 
+we                   Z8                   2 
 risk                 A15-                 1 
 over-simplifying     Z99                  1 
 situation            A3+                  1 
@@ -61,7 +65,6 @@ accelerator          M3                   1
 laboratories         Y1                   1 
 around               Z5                   1 
 however              Z4                   1 
-was                  A3+                  1 
 not                  Z6                   1 
 meta-analysis        Z99                  1 
 2001                 N1                   1 
@@ -88,10 +91,11 @@ pattern              X4.2                 1
 uncovered            A10+                 1 
 in_addition          N5++                 1 
 concerns             E6-                  1 
+were                 Z5                   1 
 voiced               Q2.1                 1 
 became               A2.1+                1 
 apparent             A8                   1 
-users                A1.5.1               1 
+user                 A1.5.1               1 
 manual               Q4.1                 1 
 large                N3.2+                1 
 Hadron_Collider      Z1                   1 
@@ -110,7 +114,6 @@ comprehensive        A1.8+                1
 sparked              O4.6+                1 
 Damian               Z99                  1 
 Unblinking           Z99                  1 
-Shoggoth             Z99                  1 
 PhD.                 P1                   1 
 occult               S9                   1 
 cosmology            Y1                   1 
@@ -124,7 +127,6 @@ hearts               B1                   1
 three                N1                   1 
 virgin               S3.2                 1 
 while                Z5                   1 
-Shoggoths            Z99                  1 
 successfully         X9.2+                1 
 demonstrated         A10+                 1 
 effective            X9.2+                1 
@@ -156,7 +158,7 @@ beam                 W2                   1
 active               X5.2+                1 
 tend                 A6.2+                1 
 assume               X2.1                 1 
-its                  Z8                   1 
+'s                   A3+                  1 
 unknown              X2.2-                1 
 mechanism            O2                   1 
 metal                O1.1                 1 
@@ -212,7 +214,7 @@ violent              E3-                  1
 violations           G2.1-                1 
 natural              A6.2+                1 
 order                S7.1+                1 
-wasnt                Z99                  1 
+n't                  Z6                   1 
 capable              X9.1+                1 
 giga-electronvolt    Z99                  1 
 came_into            A9+                  1 
@@ -233,7 +235,6 @@ causing              A2.2                 1
 as_much_devastation_as_it_can A1.1.2+++            1 
 findings             A10+                 1 
 show                 A10+                 1 
-that                 Z8                   1 
 is                   Z5                   1 
 finally              N4                   1 
 brought              M2                   1 
@@ -247,6 +248,7 @@ age                  T3                   1
 torment              E3-                  1 
 said                 Q2.1                 1 
 Heuer                Z99                  1 
+'re                  Z5                   1 
 living               H4                   1 
 dawning              T2+                  1 
 new_age              S9                   1 
@@ -257,7 +259,7 @@ darkness             W2-                  1
 any                  N5.1+                1 
 luck                 A1.4                 1 
 2013                 N1                   1 
-well                 A5.1+                1 
+'ll                  T1.1.3               1 
 confirmed            A7+                  1 
 or                   Z5                   1 
 discomfirmed         Z99                  1 
@@ -275,7 +277,7 @@ fundamental          A11.1+               1
 research             X2.4                 1 
 i_suppose            Z4                   1 
 time                 T1                   1 
-whats                Z8                   1 
+what                 Z8                   1 
 let                  S7.4+                1 
 tell                 Q2.2                 1 
 joy                  E4.1+                1 

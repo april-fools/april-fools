@@ -1,4 +1,4 @@
-TOTAL              314
+TOTAL              320
 a                    AT1            16 
 the                  AT             11 
 to                   TO             10 
@@ -14,7 +14,10 @@ to                   II              4
 for                  IF              4 
 but                  CCB             4 
 about                II              4 
+'s                   GE              3 
 today                RT              3 
+that                 CST             3 
+Google               NP1             3 
 brand                NN1             3 
 new                  JJ              3 
 professional         JJ              3 
@@ -26,14 +29,13 @@ days                 NNT2            3
 problogger           VV0             2 
 tips                 VVZ             2 
 site                 NN1             2 
-that                 CST             2 
-Google               NP1             2 
 this                 DD1             2 
 acquisition          NN1             2 
 part                 NN1             2 
 their                APPGE           2 
 blogging             JJ              2 
 suite                NN1             2 
+world                NN1             2 
 blogging             NN1             2 
 said                 VVD             2 
 google               NN1             2 
@@ -42,8 +44,9 @@ tools                NN2             2
 take                 VVI             2 
 next                 MD              2 
 better               JJR             2 
-fool                 NN1             2 
 even                 RR              2 
+i                    PPIS1           2 
+'d                   VM              2 
 allow                VVI             2 
 where                RRQ             2 
 his                  APPGE           2 
@@ -60,7 +63,7 @@ Australia            NP1             1
 April                NPM1            1 
 1                    MC1             1 
 2010                 MC              1 
-webs                 NN2             1 
+web                  NN1             1 
 #1                   NNU             1 
 announced            VVD             1 
 it                   PPH1            1 
@@ -68,7 +71,7 @@ been                 VBN             1
 acquired             VVN             1 
 Googles              NP1             1 
 extension            NN1             1 
-blogger              NN1             1 
+blogger'             JJ              1 
 precursor            NN1             1 
 applications         NN2             1 
 Blogging             NP1             1 
@@ -82,15 +85,13 @@ use                  NN1             1
 entrepreneurs        NN2             1 
 businesses           NN2             1 
 around               II              1 
-world                NN1             1 
 once                 RR              1 
 seen                 VVN             1 
 as                   II              1 
 fools                NN2             1 
-game                 NN1             1 
+game'                VV0             1 
 now                  RT              1 
 grown_up             JJ21            1 
-googles              VVZ             1 
 put                  VVI             1 
 amazing              JJ              1 
 array                NN1             1 
@@ -114,19 +115,19 @@ some                 DD              1
 have                 VH0             1 
 called               VVN             1 
 me                   PPIO1           1 
+fool'                NN1             1 
 considering          CS              1 
 selling              VVG             1 
 said                 JJ              1 
 founder              NN1             1 
 ProBlogger_Darren_Rowse NP1             1 
-id                   NN1             1 
+fool                 NN1             1 
 developed            VVN             1 
 one                  MC1             1 
-worlds               NN2             1 
 most                 RGT             1 
 innovative           JJ              1 
 companies            NN2             1 
-im                   VV0             1 
+'m                   VBM             1 
 excited              JJ              1 
 see                  VVI             1 
 going_forward        VVG             1 
@@ -151,7 +152,7 @@ begin                VVI             1
 series               NN              1 
 entitled             VVN             1 
 better               RRR             1 
-blog                 VV0             1 
+blog'                VV0             1 
 follow_up            NN121           1 
 successful           JJ              1 
 31                   MC              1 
@@ -163,7 +164,6 @@ having               VHG             1
 Tweeting             NP1             1 
 or                   CC              1 
 book                 NN1             1 
-thatd                NN1             1 
 sadder               JJR             1 
 was                  VBDZ            1 
 founded              VVN             1 

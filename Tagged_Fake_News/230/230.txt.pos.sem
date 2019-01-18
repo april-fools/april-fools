@@ -111,7 +111,8 @@
 0000006 400  AT      no                       Z6 
 0000006 410  JJ      different                A6.1- 
 0000006 420  II      from                     Z5 
-0000006 430  NN2     whats                    Z8 Z5 
+0000006 430  DDQ     what                     Z8 Z5 
+0000006 431  VBZ     's                       A3+ Z5 
 0000006 440  JJ      typical                  A4.2+ A6.2+ 
 0000006 450  IO      of                       Z5 
 0000006 460  AT1     a                        Z5 
@@ -178,8 +179,9 @@
 0000010 080  RG21    far                      N3.3+ A13.3 X9.2+ 
 0000010 090  RG22    from                     Z5 
 0000010 100  JJ      moderate                 N5 A5.1 
-0000011 010  NP1     Donald                   Z1mf 
-0000011 020  VVZ     Trumps                   K5.2 
+0000011 010  NP1     Donald                   Z1mf[i11.2.1 Z3c[i11.2.1 Z1mf 
+0000011 020  NN1     Trump                    Z1mf[i11.2.2 Z3c[i11.2.2 Z1mf 
+0000011 021  GE      's                       Z5 
 0000011 030  NN2     personnel                I3.1/S5+ I3.1/H2 
 0000011 040  NN2%    picks                    O2 
 0000011 050  VH0     have                     Z5 A9+ A2.2 S4 
@@ -203,14 +205,16 @@
 0000011 220  NNB     president-elect          G1.1/S7.1+/S2mf 
 0000012 010  NP1@    Read                     Q1.2 Q3 X3.2+ X2.5+ P1 A10+ 
 0000012 020  RRR     more                     A13.3 N6++ 
-0000013 010  VVZ     Thats                    Z5 Z8 A13.3 A6.1+ 
+0000013 010  DD1     That                     Z8 Z5 
+0000013 011  VBZ     's                       A3+ Z5 
 0000013 020  RRQ     why                      A2.2 
 0000013 030  NP1     Clark                    Z1mf 
 0000013 040  VBZ     is                       Z5 A3+ 
 0000013 050  VVN     alarmed                  E5- E6- 
 0000013 060  II      by                       Z5 
-0000013 070  NP1     Donald                   Z1mf 
-0000013 080  VVZ     Trumps                   K5.2 
+0000013 070  NP1     Donald                   Z1mf[i12.2.1 Z3c[i12.2.1 Z1mf 
+0000013 080  NN1     Trump                    Z1mf[i12.2.2 Z3c[i12.2.2 Z1mf 
+0000013 081  GE      's                       Z5 
 0000013 090  NN1     nomination               X7+ I3.1 S1.1.4+ 
 0000013 100  IO      of                       Z5 
 0000013 110  JJ      Betsy                    Z99 
@@ -271,18 +275,19 @@
 0000017 150  II      in                       Z5 
 0000017 160  NP1     Michigan                 Z2 
 0000017 161  ,       ,                        
-0000017 170  II31    as                       N5++[i11.2.1 Z5 
-0000017 180  II32    well                     N5++[i11.2.2 
+0000017 170  II31    as                       N5++[i13.2.1 Z5 
+0000017 180  II32    well                     N5++[i13.2.2 
 0000017 190  II33    as                       Z5 
 0000017 200  JJ      other                    A6.1- 
 0000017 210  JJ      sensitive                X2.5+/E1 E6- O4.1 B1 A4.2+ 
 0000017 220  JJ      political                G1.2 
 0000017 230  NN2     issues                   X4.1 Q4.2 S4 A9- 
-0000017 240  II21    such                     Z5[i12.2.1 
-0000017 250  II22    as                       Z5[i12.2.2 Z5 
+0000017 240  II21    such                     Z5[i14.2.1 
+0000017 250  II22    as                       Z5[i14.2.2 Z5 
 0000017 260  AT      the                      Z5 
 0000017 270  NP1     Michigan                 Z2 
-0000017 280  NN2     legislatures             G1.1c 
+0000017 280  NN1     legislature              G1.1c 
+0000017 281  GE      's                       Z5 
 0000017 290  MC      2012                     N1 T1.2 T3 T1.3 N3.2 
 0000017 300  NN1     decision                 X6+ 
 0000017 310  TO      to                       Z5 
@@ -295,15 +300,16 @@
 0000017 360  NN2     DeVoses                  Z99 
 0000017 370  VH0     have                     Z5 A9+ A2.2 S4 
 0000017 380  VVN     contributed              A9- A2.2 S1.1.3+ 
-0000017 390  RR21    at                       A13.7[i13.2.1 
-0000017 400  RR22    least                    A13.7[i13.2.2 A13.7 
+0000017 390  RR21    at                       A13.7[i15.2.1 
+0000017 400  RR22    least                    A13.7[i15.2.2 A13.7 
 0000017 410  NNU     $7m                      N3.3 N3.7 
 0000017 420  TO      to                       Z5 
 0000017 430  VVI     state                    Q2.1 
 0000017 440  NN2     lawmakers                Z99 
 0000017 450  CC      and                      Z5 
-0000017 460  NP2     Michigans                Z2 
-0000017 470  VV0     GOP                      Z99 
+0000017 460  NP1     Michigan                 Z2 
+0000017 461  GE      's                       Z5 
+0000017 470  NN1     GOP                      Z99 
 0000017 480  NN1     party                    K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c 
 0000017 490  II      including                A1.8+ 
 0000017 500  NN1     support                  S8+ O2 I1.1 B5% 
@@ -327,11 +333,13 @@
 0000019 030  NN2     advocates                Q2.2/S2mf G2.1/S2mf 
 0000019 040  PNQS    who                      Z8 
 0000019 050  VV0     oppose                   S8-/E2- A6.1- 
-0000019 060  NN1     DeVoss                   Z99 
+0000019 060  NP1     DeVos                    Z99 
+0000019 061  GE      's                       Z5 
 0000019 070  NN1     nomination               X7+ I3.1 S1.1.4+ 
 0000019 080  NN1     point                    Q2.1 X4.1 A5.1 A1.5.2 M7 T1.2 O4.4 O3 K5 
 0000019 090  II      to                       Z5 
-0000019 100  NP2     Michigans                Z2 
+0000019 100  NP1     Michigan                 Z2 
+0000019 101  GE      's                       Z5 
 0000019 110  NN1     education                P1 X2.3+ 
 0000019 120  NN1     record                   Q1.2 K3 T1.1.1 A5.1+++ 
 0000019 130  RR      particularly             A13.3 A14 
@@ -348,9 +356,9 @@
 0000019 221  .       .                        
 0000020 001  -----   -----                    
 0000021 010  CS      Since                    Z5 
-0000021 020  AT1     a                        T1.1.1[i14.3.1 Z5 
-0000021 030  NNT1    quarter-century          T1.1.1[i14.3.2 
-0000021 040  RA      ago                      T1.1.1[i14.3.3 T1.1.1 
+0000021 020  AT1     a                        T1.1.1[i16.3.1 Z5 
+0000021 030  NNT1    quarter-century          T1.1.1[i16.3.2 
+0000021 040  RA      ago                      T1.1.1[i16.3.3 T1.1.1 
 0000021 041  ,       ,                        
 0000021 050  NN1     charter                  Q1.2 
 0000021 060  NN2     advocates                Q2.2/S2mf G2.1/S2mf 
@@ -375,8 +383,8 @@
 0000021 250  AT      the                      Z5 
 0000021 260  NN1     state                    G1.1c O4.1 
 0000021 261  ,       ,                        
-0000021 270  II31    as                       N5++[i15.2.1 Z5 
-0000021 280  II32    well                     N5++[i15.2.2 
+0000021 270  II31    as                       N5++[i17.2.1 Z5 
+0000021 280  II32    well                     N5++[i17.2.2 
 0000021 290  II33    as                       Z5 
 0000021 300  AT1     an                       Z5 
 0000021 310  NN1     expansion                N3.2+/A2.1 A4.2-/A2.1 
@@ -385,12 +393,13 @@
 0000021 340  NN1     choice                   X7+ A6.3+ 
 0000021 341  .       .                        
 0000021 342  -----   -----                    
-0000021 350  II      Along                    M6[i16.3.1 T1.1.2[i16.3.1 Z5 
-0000021 360  AT      the                      M6[i16.3.2 T1.1.2[i16.3.2 Z5 
-0000021 370  NN1     way                      M6[i16.3.3 T1.1.2[i16.3.3 X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000021 350  II      Along                    M6[i18.3.1 T1.1.2[i18.3.1 Z5 
+0000021 360  AT      the                      M6[i18.3.2 T1.1.2[i18.3.2 Z5 
+0000021 370  NN1     way                      M6[i18.3.3 T1.1.2[i18.3.3 X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
 0000021 371  ,       ,                        
-0000021 380  AT      the                      Z2[i17.2.1 Z5 
-0000021 390  NN2     states                   Z2[i17.2.2 G1.1c O4.1 
+0000021 380  AT      the                      Z5 
+0000021 390  NN1     state                    G1.1c O4.1 
+0000021 391  GE      's                       Z5 
 0000021 400  JJ      academic                 P1 A1.6 
 0000021 410  NN1     performance              K4 X9.2 A1.1.1 A12- 
 0000021 420  VHZ     has                      Z5 A9+ A2.2 S4 
@@ -423,8 +432,9 @@
 0000023 150  NN2     charters                 Q1.2 
 0000023 151  ,       ,                        
 0000023 160  AT      the                      Z5 
-0000023 170  NN2     citys                    M7c M7/I2.1c 
-0000023 180  VVD     disconnected             A2.2- T2- O3 Q1.3 
+0000023 170  NN1     city                     M7c M7/I2.1c 
+0000023 171  GE      's                       Z5 
+0000023 180  JJ@     disconnected             A2.2- 
 0000023 190  NN1     array                    O2 A6.3+ N2 Y2 
 0000023 200  IO      of                       Z5 
 0000023 210  NN2     schools                  P1/H1c S5+c L2%c 
@@ -433,8 +443,8 @@
 0000023 240  II      into                     Z5 
 0000023 250  AT1     a                        Z5 
 0000023 260  JJ      frenetic                 X5.2+ 
-0000023 270  NN121   status                   A3/T1.3[i18.2.1 S7.1 A4.1 A11.1 Z3c[i19.2.1 T1.1.2[i19.2.1 
-0000023 280  NN122   quo                      A3/T1.3[i18.2.2 Z3c[i19.2.2 T1.1.2[i19.2.2 
+0000023 270  NN121   status                   A3/T1.3[i19.2.1 S7.1 A4.1 A11.1 Z3c[i20.2.1 T1.1.2[i20.2.1 
+0000023 280  NN122   quo                      A3/T1.3[i19.2.2 Z3c[i20.2.2 T1.1.2[i20.2.2 
 0000023 281  .       .                        
 0000023 282  -----   -----                    
 0000023 290  RR      Just                     A14 T3--- T1.3- N3.3--- 
@@ -445,9 +455,9 @@
 0000023 330  NN1     district                 M7 
 0000023 340  VHZ     has                      Z5 A9+ A2.2 S4 
 0000023 350  VVN     teetered                 M1 A7- 
-0000023 360  II      on                       B2-[i20.3.1 E6-[i20.3.1 Z5 
-0000023 370  AT      the                      B2-[i20.3.2 E6-[i20.3.2 Z5 
-0000023 380  NN1     edge                     B2-[i20.3.3 E6-[i20.3.3 O2 M7 T1.2 S7.1+@ 
+0000023 360  II      on                       B2-[i21.3.1 E6-[i21.3.1 Z5 
+0000023 370  AT      the                      B2-[i21.3.2 E6-[i21.3.2 Z5 
+0000023 380  NN1     edge                     B2-[i21.3.3 E6-[i21.3.3 O2 M7 T1.2 S7.1+@ 
 0000023 390  IO      of                       Z5 
 0000023 400  NN1     bankruptcy               I1.2+ A5.1- 
 0000023 401  ,       ,                        
@@ -490,11 +500,13 @@
 0000023 760  NN2     students                 P1/S2mf 
 0000023 761  .       .                        
 0000024 001  -----   -----                    
-0000025 010  NN2     Whats                    Z8 Z5 
+0000025 010  DDQ     What                     Z8 Z5 
+0000025 011  VBZ     's                       A3+ Z5 
 0000025 020  RRR     more                     A13.3 N6++ 
 0000025 021  ,       ,                        
-0000025 030  AT      the                      Z2[i21.2.1 Z5 
-0000025 040  NN2     states                   Z2[i21.2.2 G1.1c O4.1 
+0000025 030  AT      the                      Z5 
+0000025 040  NN1     state                    G1.1c O4.1 
+0000025 041  GE      's                       Z5 
 0000025 050  NN2     policies                 X7+ Q1.2 
 0000025 060  CC      and                      Z5 
 0000025 070  NN1     regulation               G2.1 A1.7+/G1.1 
@@ -510,7 +522,8 @@
 0000025 160  VV0     refer                    Q2.2 Q1.2 
 0000025 170  II      to                       Z5 
 0000025 180  AT      the                      Z5 
-0000025 190  NN2     citys                    M7c M7/I2.1c 
+0000025 190  NN1     city                     M7c M7/I2.1c 
+0000025 191  GE      's                       Z5 
 0000025 200  JJ      educational              P1 
 0000025 210  NN1     landscape                W3 C1 M6 
 0000025 220  II      as                       Z5 
@@ -527,7 +540,8 @@
 0000025 300  DD1     this                     M6 Z5 Z8 
 0000025 310  NNT1    year                     T1.3 P1c 
 0000025 320  VVD     noted                    Q2.1 Q1.2 
-0000025 330  NP2     Michigans                Z2 
+0000025 330  NP1     Michigan                 Z2 
+0000025 331  GE      's                       Z5 
 0000025 340  NN1     charter                  Q1.2 
 0000025 350  NN1     school                   P1/H1c S5+c L2%c 
 0000025 360  NN1     law                      G2.1 S6+ Y1 
@@ -615,7 +629,8 @@
 0000030 010  II      Since                    Z5 
 0000030 020  MC      1990                     N1 T1.2 T3 T1.3 N3.2 
 0000030 021  ,       ,                        
-0000030 030  NP2     Detroits                 Z2 
+0000030 030  NP1     Detroit                  Z2 
+0000030 031  GE      's                       Z5 
 0000030 040  NN1     population               S2/N5c 
 0000030 050  VHZ     has                      Z5 A9+ A2.2 S4 
 0000030 060  VVN     dropped                  M2 M1 N5-/A2.1 O1.2/M1 B2- T2- A9- A1.8- X9.2-/K5 X3.2 
@@ -625,7 +640,8 @@
 0000030 090  CS      while                    Z5 
 0000030 100  APPGE   its                      Z8 
 0000030 110  NN1     school                   P1/H1c S5+c L2%c 
-0000030 120  NN2     districts                M7 
+0000030 120  NN1     district                 M7 
+0000030 121  GE      's                       Z5 
 0000030 130  NN1     attendance               S1.1.3+ 
 0000030 140  VHZ     has                      Z5 A9+ A2.2 S4 
 0000030 150  VVN     plummeted                M1/N3.8+ N5-/A2.1 
@@ -658,11 +674,13 @@
 0000032 090  VV0@    charter                  I2.2 I3.2% 
 0000032 100  NN2     advocates                Q2.2/S2mf G2.1/S2mf 
 0000032 110  VV0     criticize                Q2.2/E2- 
-0000032 120  AT      the                      Z2[i36.2.1 Z5 
-0000032 130  NN2     states                   Z2[i36.2.2 G1.1c O4.1 
+0000032 120  AT      the                      Z5 
+0000032 130  NN1     state                    G1.1c O4.1 
+0000032 131  GE      's                       Z5 
 0000032 140  NN1     approach                 X4.2 M1 E1 S1.1.1 
 0000032 150  CC      and                      Z5 
-0000032 160  NP1     DeVoss                   Z99 
+0000032 160  NP1     DeVos                    Z99 
+0000032 161  GE      's                       Z5 
 0000032 170  NN1     devotion                 E2+ S6+ S9 
 0000032 180  II      to                       Z5 
 0000032 190  VVG     maintaining              A9+ T2++ S8+ A1.1.1 Q2.2 
@@ -670,14 +688,14 @@
 0000032 201  .       .                        
 0000033 001  -----   -----                    
 0000034 010  PPH1    It                       Z8 
-0000034 020  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000034 021  XX      nt                       S9/Q4.1 Z3c 
-0000034 030  VVI     matter                   A11.1+ 
+0000034 020  VDZ     does                     A11.1-[i36.3.1 Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000034 021  XX      n't                      A11.1-[i36.3.2 Z6 
+0000034 030  VVI     matter                   A11.1-[i36.3.3 A11.1+ 
 0000034 040  DD1     that                     Z5 Z8 
 0000034 050  NN1     charter                  Q1.2 
 0000034 060  NN2     schools                  P1/H1c S5+c L2%c 
-0000034 070  VB0     are                      Z5 
-0000034 071  XX      nt                       S9/Q4.1 Z3c 
+0000034 070  VBR     are                      Z5 A3+ 
+0000034 071  XX      n't                      Z6 
 0000034 080  VVG     giving                   A9- A1.1.1 
 0000034 090  DD      any                      N5.1+ N5 
 0000034 100  IO      of                       Z5 
@@ -760,14 +778,16 @@
 0000036 120  NN1     home                     H4/H1c M6 
 0000036 130  NN1     state                    G1.1c O4.1 
 0000036 131  ,       ,                        
-0000036 140  NP2     Michigans                Z2 
+0000036 140  NP1     Michigan                 Z2 
+0000036 141  GE      's                       Z5 
 0000036 150  NN1     governor                 S7.1+/S2mf G1.1/S2mf O2% 
 0000036 160  CC      and                      Z5 
 0000036 170  NN1     attorney                 S7.1+/S2mf[i42.2.1 G2.1/S2mf 
 0000036 180  JJ      general                  S7.1+/S2mf[i42.2.2 N5+ A4.2- 
 0000036 190  JJ%     echoed                   X3.2 
-0000036 200  NN2     Trumps                   K5.2 S7.1+ 
-0000036 210  VVZ     remarks                  Q2.2 
+0000036 200  NN1     Trump                    Z1mf 
+0000036 201  GE      's                       Z5 
+0000036 210  NN2     remarks                  Q2.2 
 0000036 220  II      about                    Z5 
 0000036 230  APPGE   her                      Z8f 
 0000036 240  NN2     qualifications           P1 X9.1 S6+ A1.7+ 
@@ -832,7 +852,8 @@
 0000040 120  VVD     said                     Q2.1 
 0000040 121  .       .                        
 0000040 122  -----   -----                    
-0000040 130  NN2     Shes                     Z8f 
+0000040 130  PPHS1   She                      Z8f 
+0000040 131  VBZ     's                       Z5 A3+ 
 0000040 140  VVGK    going                    T1.1.3[i46.2.1 
 0000040 150  TO      to                       T1.1.3[i46.2.2 Z5 
 0000040 160  VVI     put                      M2 Q2.1 Q2.2 A1.1.1 
@@ -934,8 +955,9 @@
 0000044 040  NN1     school                   P1/H1c S5+c L2%c 
 0000044 050  NN2     advocates                Q2.2/S2mf G2.1/S2mf 
 0000044 060  II      including                A1.8+ 
-0000044 070  NP1     DeVoss                   Z3c[i50.2.1 
-0000044 080  NN1     group                    Z3c[i50.2.2 S5+c A4.1c B3% 
+0000044 070  NP1     DeVos                    Z99 
+0000044 071  GE      's                       Z5 
+0000044 080  NN1     group                    S5+c A4.1c B3% 
 0000044 081  ,       ,                        
 0000044 090  AT      the                      Z5 
 0000044 100  JJ      Great                    A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3 
@@ -960,8 +982,8 @@
 0000044 290  NN1     governance               G1.1 
 0000044 300  IO      of                       Z5 
 0000044 310  NP1     Detroit                  Z2 
-0000044 320  JJ      public                   P1/H1c[i51.2.1 S5+ A10+ 
-0000044 330  NN2     schools                  P1/H1c[i51.2.2 P1/H1c S5+c L2%c 
+0000044 320  JJ      public                   P1/H1c[i50.2.1 S5+ A10+ 
+0000044 330  NN2     schools                  P1/H1c[i50.2.2 P1/H1c S5+c L2%c 
 0000044 331  .       .                        
 0000044 332  -----   -----                    
 0000044 340  NN2     Schools                  P1/H1c S5+c L2%c 
@@ -1023,8 +1045,8 @@
 0000050 050  NP1     Amway                    Z3c 
 0000050 051  ,       ,                        
 0000050 060  AT1     a                        Z5 
-0000050 070  NN1     marketing                I2.2/I2.1c[i52.2.1 I2.2 
-0000050 080  NN1     company                  I2.2/I2.1c[i52.2.2 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000050 070  NN1     marketing                I2.2/I2.1c[i51.2.1 I2.2 
+0000050 080  NN1     company                  I2.2/I2.1c[i51.2.2 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
 0000050 090  CST     that                     Z8 Z5 
 0000050 100  RR      previously               N4 
 0000050 110  VVN     settled                  M8 X9.2+ I1.2 H4 E4.2+ X6+ 
@@ -1095,8 +1117,9 @@
 0000052 220  VVN     stated                   Q2.1 
 0000052 230  CST     that                     Z8 Z5 
 0000052 240  PPHS1   she                      Z8f 
-0000052 250  VV0     wouldnt                  Z99 
-0000052 260  VV0     donate                   A9- 
+0000052 250  VM      would                    A7+ 
+0000052 251  XX      n't                      Z6 
+0000052 260  VVI     donate                   A9- 
 0000052 270  II      to                       Z5 
 0000052 280  APPGE   their                    Z8 
 0000052 290  NN1     campaign                 X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 G3 
@@ -1104,7 +1127,7 @@
 0000052 310  CS      if                       Z7 
 0000052 320  PPHS2   they                     Z8mfn 
 0000052 330  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000052 331  XX      nt                       S9/Q4.1 Z3c 
+0000052 331  XX      n't                      Z6 
 0000052 340  VVI     flip                     A1.1.1 M2 
 0000052 350  APPGE   their                    Z8 
 0000052 360  NN2     votes                    G1.2 
@@ -1113,7 +1136,8 @@
 0000052 390  NN1     issue                    X4.1 Q4.2 S4 A9- 
 0000052 391  .       .                        
 0000053 001  -----   -----                    
-0000054 010  NN2     Trumps                   K5.2 S7.1+ 
+0000054 010  NN1     Trump                    Z1mf K5.2 
+0000054 011  GE      's                       Z5 
 0000054 020  NN1     transition               A2.1+ 
 0000054 030  NN1     team                     S5+c K5.1/S5+c S5+ 
 0000054 040  VVD     declined                 N5-/A2.1 Q2.2 
@@ -1140,26 +1164,28 @@
 0000056 040  REX     namely                   Z5 
 0000056 041  ,       ,                        
 0000056 050  NN2     teachers                 P1/I3.2/S2mf 
+0000056 051  GE      '                        Z5 
 0000056 060  NN2     unions                   I3.1/S5+ S5+ S4 
 0000056 070  PNQS    who                      Z8 
 0000056 080  VV0@    point                    A10+ M6 H1 
 0000056 090  II      to                       Z5 
 0000056 100  NP1     DeVos                    Z99 
+0000056 101  GE      '                        Z5 
 0000056 110  JJ      political                G1.2 
 0000056 120  NN1     influence                S7.1+ A2.2 
 0000056 130  RR      usually                  A6.2+ 
 0000056 140  VBR     are                      Z5 A3+ 
 0000056 150  VVN     involved                 A1.8+ 
-0000056 160  RG      very                     A13.3[i53.2.1 A13.3 
-0000056 170  DA1     much                     A13.3[i53.2.2 N5+ I1.3+ 
+0000056 160  RG      very                     A13.3[i52.2.1 A13.3 
+0000056 170  DA1     much                     A13.3[i52.2.2 N5+ I1.3+ 
 0000056 180  II      in                       Z5 
 0000056 190  AT      the                      Z5 
 0000056 200  DA      same                     A6.1+++ 
 0000056 210  NN1     influence                S7.1+ A2.2 
-0000056 220  II      on                       A6.1-[i54.4.1 Z5 
-0000056 230  AT      the                      A6.1-[i54.4.2 Z5 
-0000056 240  JJ      other                    A6.1-[i54.4.3 A6.1- 
-0000056 250  NN1     side                     A6.1-[i54.4.4 A4.1 M6 N5.1- S7.3+/S5+c B1 S5+c S4c F1 S1.2 
+0000056 220  II      on                       A6.1-[i53.4.1 Z5 
+0000056 230  AT      the                      A6.1-[i53.4.2 Z5 
+0000056 240  JJ      other                    A6.1-[i53.4.3 A6.1- 
+0000056 250  NN1     side                     A6.1-[i53.4.4 A4.1 M6 N5.1- S7.3+/S5+c B1 S5+c S4c F1 S1.2 
 0000058 010  DDQ     What                     Z8 Z5 
 0000058 020  AT      the                      Z5 
 0000058 021  (       &lsqb;                   
@@ -1173,8 +1199,8 @@
 0000058 090  JJ      political                G1.2 
 0000058 100  NN1     influence                S7.1+ A2.2 
 0000058 110  VBDZ    was                      Z5 A3+ 
-0000058 120  VVGK    going                    T1.1.3[i55.2.1 
-0000058 130  TO      to                       T1.1.3[i55.2.2 Z5 
+0000058 120  VVGK    going                    T1.1.3[i54.2.1 
+0000058 130  TO      to                       T1.1.3[i54.2.2 Z5 
 0000058 140  VVI     win                      X9.2+/S7.3 X9.2+/G3 A9+ 
 0000058 150  RP      out                      M6 
 0000058 151  ,       ,                        
@@ -1184,6 +1210,7 @@
 0000058 172  -----   -----                    
 0000058 180  AT      The                      Z5 
 0000058 190  NN2     teachers                 P1/I3.2/S2mf 
+0000058 191  GE      '                        Z5 
 0000058 200  NN1     union                    I3.1/S5+c S5+c S4 Z3c 
 0000058 210  VBDZ    was                      A3+ Z5 
 0000058 220  RG      very                     A13.3 
@@ -1232,8 +1259,8 @@
 0000062 070  JJ      open                     A10+ S1.2.1+ X6- X5.2+ A7+ 
 0000062 071  ,       ,                        
 0000062 080  CC      and                      Z5 
-0000062 090  II21    up                       Z5[i56.2.1 Z5 Z5[i57.2.1 X6+[i57.2.1 
-0000062 100  II22    to                       Z5[i56.2.2 Z5 Z5[i57.2.2 X6+[i57.2.2 
+0000062 090  II21    up                       Z5[i55.2.1 Z5 Z5[i56.2.1 X6+[i56.2.1 
+0000062 100  II22    to                       Z5[i55.2.2 Z5 Z5[i56.2.2 X6+[i56.2.2 
 0000062 110  NN2     standards                A5.1 G2.2 Q1.1 O2@ 
 0000062 111  ,       ,                        
 0000062 120  CC      and                      Z5 
@@ -1245,17 +1272,18 @@
 0000062 171  ,       ,                        
 0000062 180  RT      then                     N4 Z5 T1.2 
 0000062 190  PPIS2   we                       Z8 
-0000062 200  VV0     wouldnt                  Z99 
-0000062 210  VH0     have                     Z5 A9+ A2.2 S4 
-0000062 220  VHN     had                      S6+[i58.2.1 A9+ Z5 A2.2 S4 
-0000062 230  TO      to                       S6+[i58.2.2 Z5 
+0000062 200  VM      would                    A7+ 
+0000062 201  XX      n't                      Z6 
+0000062 210  VHI     have                     Z5 A9+ A2.2 S4 
+0000062 220  VHN@    had                      S6+[i57.2.1 A9+ Z5 A2.2 S4 
+0000062 230  TO      to                       S6+[i57.2.2 Z5 
 0000062 240  VVI     go                       M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
 0000062 250  II      to                       Z5 
 0000062 260  MC      four                     N1 T3 T1.2 
 0000062 270  JJ      different                A6.1- 
 0000062 280  NN2     schools                  P1/H1c S5+c L2%c 
-0000062 290  RR      all                      N5.1+[i59.2.1 A13.2 
-0000062 300  II      over                     N5.1+[i59.2.2 Z5 
+0000062 290  RR      all                      N5.1+[i58.2.1 A13.2 
+0000062 300  II      over                     N5.1+[i58.2.2 Z5 
 0000062 310  AT      the                      Z5 
 0000062 320  NN1     city                     M7c M7/I2.1c 
 0000062 321  ,       ,                        
@@ -1271,8 +1299,8 @@
 0000064 060  JJR     older                    T3++ 
 0000064 070  NN2     kids                     S2mf/T3- S4mf L2 
 0000064 080  II      to                       Z5 
-0000064 090  JJ      private                  P1/H1c[i60.2.1 A10- S5- G1.1- 
-0000064 100  NN1     school                   P1/H1c[i60.2.2 P1/H1c S5+c L2%c 
+0000064 090  JJ      private                  P1/H1c[i59.2.1 A10- S5- G1.1- 
+0000064 100  NN1     school                   P1/H1c[i59.2.2 P1/H1c S5+c L2%c 
 0000064 101  .       .                        
 0000064 102  -----   -----                    
 0000064 110  CCB     But                      Z5 
@@ -1298,8 +1326,8 @@
 0000064 300  VV0     live                     H4 L1+ A3 
 0000064 310  II      below                    Z5 
 0000064 320  AT      the                      Z5 
-0000064 330  NN1     poverty                  I1.1-[i61.2.1 I1.1- N5- 
-0000064 340  NN1     line                     I1.1-[i61.2.2 O4.4 A4.1 Q1.3 X4.2 Q3 Q1.2 Q2.1/K4 S4 S7.1 A1.7+ A6.1- I3.1 M4@c G3@ K5.1@ 
+0000064 330  NN1     poverty                  I1.1-[i60.2.1 I1.1- N5- 
+0000064 340  NN1     line                     I1.1-[i60.2.2 O4.4 A4.1 Q1.3 X4.2 Q3 Q1.2 Q2.1/K4 S4 S7.1 A1.7+ A6.1- I3.1 M4@c G3@ K5.1@ 
 0000064 341  .       .                        
 0000065 001  -----   -----                    
 0000066 010  DDQ     What                     Z8 Z5 
@@ -1307,10 +1335,10 @@
 0000066 030  AT      the                      Z5 
 0000066 040  NN2     parents                  S4mf A9+ 
 0000066 050  PNQS    who                      Z8 
-0000066 060  VB0     are                      A3+ Z5 
-0000066 061  XX      nt                       S9/Q4.1 Z3c 
-0000066 070  II      in                       Z5[i62.2.1 Z5 
-0000066 080  DD1     that                     Z5[i62.2.2 Z5 Z8 
+0000066 060  VBR     are                      A3+ Z5 
+0000066 061  XX      n't                      Z6 
+0000066 070  II      in                       Z5[i61.2.1 Z5 
+0000066 080  DD1     that                     Z5[i61.2.2 Z5 Z8 
 0000066 090  NN1     position                 M6 M7 S7.1 I3.1 N4 S1.1.1 A1.1.1 K5.1% 
 0000066 091  ?       ?                        
 0000068 001  NULL    **8;7;text               

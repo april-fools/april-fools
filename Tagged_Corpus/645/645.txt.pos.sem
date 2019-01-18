@@ -5,12 +5,14 @@
 0000002 030  IO      of                       Z5 
 0000002 040  AT1     a                        Z5 
 0000002 050  JJ      sleeping                 B1 S1.1.3- 
-0000002 060  NN2     persons                  S2mfc 
+0000002 060  NN1     person                   S2mfc 
+0000002 061  GE      's                       Z5 
 0000002 070  NN1     brain                    B1 X2 X9.1+ X9.1+/S2mf 
 0000002 080  VM      can                      A7+ 
 0000002 090  VVI     help                     S8+ 
 0000002 100  VVI     predict                  Q2.2/T1.1.3 X2.6+ 
-0000002 110  NN2     whats                    Z8 Z5 
+0000002 110  DDQ     what                     Z8 Z5 
+0000002 111  VBZ     's                       Z5 A3+ 
 0000002 120  VVN     seen                     X3.4 X2.1 S1.1.1 X2.5+ A7+ 
 0000002 130  II      in                       Z5 
 0000002 140  AT      the                      Z5 
@@ -272,7 +274,8 @@
 0000010 100  CST     that                     Z8 Z5 
 0000010 110  VM      could                    A7+ 
 0000010 120  VVI     read                     Q3 Q1.2 X3.2+ X2.5+ P1 A10+ 
-0000010 130  NN2     anybodys                 Z8 
+0000010 130  PN1     anybody                  Z8mfc 
+0000010 131  GE      's                       Z5 
 0000010 140  NN2     dreams                   X4.1 X7+ A5.2- 
 0000010 141  .       .                        
 0000010 142  -----   -----                    

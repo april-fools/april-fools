@@ -1,5 +1,4 @@
 10-point                 JJ      Z99 
-Bahai                    JJ      Z99 
 country-by-country       JJ      Z99 
 cross-national           JJ      Z99 
 East-North               ND1     Z99 

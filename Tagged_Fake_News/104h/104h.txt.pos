@@ -3,7 +3,8 @@
 0000002 010 BREAKING                                    93 [VVG/83] NN1@/17
 0000002 011 :                                           03 :
 0000002 020 Hillary                                     93 NP1
-0000002 030 Clintons                                    04 NP2
+0000002 030 Clinton                   >                 93 NP1
+0000002 031 's                        <                 98 GE
 0000002 040 Nomination                                  93 NN1
 0000002 050 is                                          93 VBZ
 0000002 060 a                                           93 AT1

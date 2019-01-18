@@ -1,10 +1,12 @@
-TOTAL              126
+TOTAL              130
 the                  Z5                  14 
 to                   Z5                   7 
-trains               M3                   6 
 of                   Z5                   5 
 QR                   Z99                  5 
+trains               M3                   4 
 on                   Z5                   4 
+train                M3                   4 
+'s                   Z5                   4 
 a                    Z5                   3 
 timetable            X7+                  3 
 code                 G2.1                 3 
@@ -37,7 +39,6 @@ showing              A10+                 1
 front                M6                   1 
 Barry_Island         Z2                   1 
 Merthyr_Tydfil       Z2                   1 
-train                M3                   1 
 this                 M6                   1 
 particular           A4.2+                1 
 for                  Z5                   1 
@@ -56,7 +57,7 @@ out                  M6                   1
 they                 Z8                   1 
 said                 Q2.1                 1 
 that                 Z5                   1 
-companys             I2.1                 1 
+company              I2.1                 1 
 rolling              N3.8-                1 
 stock                A9+                  1 
 was                  Z5                   1 
@@ -74,5 +75,4 @@ taken_to             E2+                  1
 betting              I1                   1 
 whether_or_not       Z7                   1 
 next                 N4                   1 
-trains               P1                   1 
 correct              A5.3+                1 

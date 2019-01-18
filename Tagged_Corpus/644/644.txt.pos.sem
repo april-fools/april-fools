@@ -66,7 +66,8 @@
 0000002 570  JJ      branded                  A4.1 
 0000002 580  NN2     opportunities            A1.4 
 0000002 590  IF      for                      Z5 
-0000002 600  VVZ     Converges                A6.1+/A2.1 M1 
+0000002 600  VV0     Converge                 A6.1+/A2.1 M1 
+0000002 601  VBZ     's                       A3+ Z5 
 0000002 610  JJ      comedic                  Z99 
 0000002 620  NN1     clientele                I2.2/S2c 
 0000002 621  .       .                        
@@ -131,11 +132,13 @@
 0000002 051  )       )                        
 0000002 052  .       .                        
 0000003 001  -----   -----                    
-0000006 010  NP1     Storyvilles              Z1mf[i18.3.1 Z3c[i18.3.1 Z1mf[i17.2.1 Z3c[i17.2.1 Z2[i19.2.1 Z3c[i19.2.1 Z1mf[i19.2.1 
-0000006 020  NP1     Betsy                    Z1mf[i18.3.2 Z3c[i18.3.2 Z1mf[i17.2.2 Z3c[i17.2.2 Z2[i19.2.2 Z3c[i19.2.2 Z1mf[i19.2.2 Z1mf[i20.2.1 Z3c[i20.2.1 
-0000006 030  NP1     Schechter                Z3c[i18.3.3 Z1mf[i18.3.3 Z1mf[i20.2.2 Z3c[i20.2.2 
+0000006 010  NP1     Storyville               Z99 
+0000006 011  GE      's                       Z5 
+0000006 020  JJ      Betsy                    Z99 
+0000006 030  NN1     Schechter                Z99 
 0000006 040  CC      and                      Z5 
-0000006 050  VVZ     Converges                A6.1+/A2.1 M1 
+0000006 050  VV0     Converge                 A6.1+/A2.1 M1 
+0000006 051  VBZ     's                       A3+ Z5 
 0000006 060  NP1     Smoove                   Z99 
 0000006 061  ,       ,                        
 0000006 070  NP1     Dorfman                  Z99 
@@ -156,16 +159,16 @@
 0000008 010  CS      Since                    Z5 
 0000008 020  APPGE   its                      Z8 
 0000008 030  NN1     launch                   M4fn M5 T2+ 
-0000008 040  MD      last                     T1.1.1[i22.2.1 N4 T1.3[i21.2.1 P1/S2mf[i21.2.1 
-0000008 050  NNT1    year                     T1.1.1[i22.2.2 T1.3 P1c T1.3[i21.2.2 P1/S2mf[i21.2.2 
+0000008 040  MD      last                     T1.1.1[i18.2.1 N4 T1.3[i17.2.1 P1/S2mf[i17.2.1 
+0000008 050  NNT1    year                     T1.1.1[i18.2.2 T1.3 P1c T1.3[i17.2.2 P1/S2mf[i17.2.2 
 0000008 060  VV0     Converge                 A6.1+/A2.1 M1 
 0000008 070  VHZ     has                      Z5 A9+ A2.2 S4 
 0000008 080  VVN     produced                 A2.2 A1.1.1 A10+ K4 K3 Q4.3 F4 
 0000008 090  MC      Four                     N1 T3 T1.2 
 0000008 100  NN2     Courses                  M6 X7+ P1 B3 F1 M7/K5.1 T1.3 
 0000008 110  IW      With                     Z5 
-0000008 120  NP1     JB                       Z1mf[i23.2.1 Z3c[i23.2.1 
-0000008 130  NP1     Smoove                   Z1mf[i23.2.2 Z3c[i23.2.2 
+0000008 120  NP1     JB                       Z1mf[i19.2.1 Z3c[i19.2.1 
+0000008 130  NP1     Smoove                   Z1mf[i19.2.2 Z3c[i19.2.2 
 0000008 140  CC      and                      Z5 
 0000008 150  VVD     utilized                 A1.5.1 
 0000008 160  APPGE   their                    Z8 

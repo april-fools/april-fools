@@ -30,10 +30,12 @@
 0000004 250  II      at                       Z5 
 0000004 260  APPGE   his                      Z8m 
 0000004 270  NN1     campaign                 X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 G3 
-0000004 280  NN2     rallys                   S1.1.1 K5.1 
+0000004 280  NN1     rally                    S1.1.1 K5.1 
+0000004 281  GE      's                       Z5 
 0000004 290  CC      and                      Z5 
-0000004 300  APPGE   its                      Z8 
-0000004 310  JJ%     called                   Q2.2 
+0000004 300  PPH1    it                       Z8 
+0000004 301  VBZ     's                       Z5 A3+ 
+0000004 310  VVN     called                   Q2.2 S1.1.1 Q1.3 S9% 
 0000004 320  AT      the                      Z5 
 0000004 330  JJ@     Brown                    Z1mf 
 0000004 340  NN1     Paper                    O2[i2.2.1 Q4.2c O1.1 Q1.2 P1/Q1.2 H5 
@@ -48,7 +50,8 @@
 0000006 070  NN1     paper                    Q4.2c O1.1 Q1.2 P1/Q1.2 H5 
 0000006 080  NN1     test                     P1 B3 X2.4 K5.1@ 
 0000006 081  ,       ,                        
-0000006 090  APPGE   its                      Z8 
+0000006 090  PPH1    it                       Z8 
+0000006 091  VBZ     's                       A3+ Z5 
 0000006 100  RRQ     where                    M6 
 0000006 110  AT      the                      Z5 
 0000006 120  NN1     skin                     B1 O2 
@@ -167,7 +170,8 @@
 0000012 110  DB      all                      N5.1+ 
 0000012 120  JJ      future                   T1.1.3 
 0000012 130  NN1     campaign                 X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 G3 
-0000012 140  NN2     rallys                   S1.1.1 K5.1 
+0000012 140  NN1     rally                    S1.1.1 K5.1 
+0000012 141  GE      's                       Z5 
 0000012 150  CC      and                      Z5 
 0000012 160  CS      if                       Z7 
 0000012 170  PPY     you                      Z8mf 
@@ -189,8 +193,9 @@
 0000012 330  IO      of                       Z5 
 0000012 340  APPGE   his                      Z8m 
 0000012 350  NN1     Pep                      X5.2+ I1.1 
-0000012 360  NN2     Rallys                   S1.1.1 K5.1 S1.2.5+/A2.1 
-0000012 361  .       .                        
+0000012 360  NN1     Rally                    S1.1.1 K5.1 
+0000012 361  GE      's                       Z5 
+0000012 362  .       .                        
 0000013 001  -----   -----                    
 0000014 010  NN1     Trump                    Z1mf K5.2 
 0000014 020  VVN     released                 A1.7- A9- 
@@ -198,14 +203,16 @@
 0000014 040  NN1     statement                Q2.1 I1/Q1.2 
 0000014 050  VVG     saying                   Q2.1 Z4% 
 0000014 051  :       :                        
-0000016 010  APPGE   ITS                      Z8 
+0000016 010  PPH1@   IT                       Z8 
+0000016 011  VBZ     'S                       A3+ Z5 
 0000016 020  XX      NOT                      Z6 
 0000016 030  II      ABOUT                    Z5 
 0000016 040  JJ      BLACK                    O4.3 G2.2- A5.1- E4.1- S5+ 
 0000016 050  CC      OR                       Z5 
 0000016 060  JJ      WHITE                    Z1mf 
 0000016 061  ,       ,                        
-0000016 070  APPGE   ITS                      Z8 
+0000016 070  PPH1@   IT                       Z8 
+0000016 071  VBZ     'S                       A3+ Z5 
 0000016 080  II      ABOUT                    Z5 
 0000016 090  JJ      RICH                     I1.1+ O4.1 N5+ X5.2+ E4.1+ 
 0000016 100  CC      AND                      Z5 
@@ -223,9 +230,11 @@
 0000016 200  RP@     ON                       M6 A1.1.1 
 0000016 201  ?       ?                        
 0000016 202  -----   -----                    
-0000016 210  VV0     IM                       Z99 
+0000016 210  PPIS1   I                        Z8mf 
+0000016 211  VBM     'M                       A3+ Z5 
 0000016 220  II      ON                       Z5 
-0000016 230  NP2     AMERICAS                 Z2 
+0000016 230  NP1     AMERICA                  Z2 
+0000016 231  GE      'S                       Z5 
 0000016 240  NN1     SIDE                     A4.1 M6 N5.1- S7.3+/S5+c B1 S5+c S4c F1 S1.2 
 0000016 250  CC      AND                      Z5 
 0000016 260  PPIS1   I                        Z8mf 

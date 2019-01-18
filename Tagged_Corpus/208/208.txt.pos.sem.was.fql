@@ -1,4 +1,4 @@
-TOTAL              371
+TOTAL              376
 the                  Z5                  30 
 in                   Z5                  10 
 of                   Z5                  10 
@@ -9,10 +9,12 @@ a                    Z5                   6
 will                 T1.1.3               6 
 at                   Z5                   5 
 is                   Z5                   5 
+show                 A8                   5 
 as                   Z5                   5 
+'s                   Z5                   5 
 physicist            Y1                   4 
 he                   Z8                   4 
-show                 A8                   4 
+Cox                  K5.1                 4 
 his                  Z8                   4 
 particle             O2                   3 
 has                  Z5                   3 
@@ -20,6 +22,7 @@ which                Z8                   3
 for                  Z5                   3 
 Weatherfield         Z99                  3 
 Knox                 Z1                   3 
+CERN                 Z99                  3 
 physics              Y1                   3 
 set                  M2                   2 
 soap_opera           Q4.3                 2 
@@ -36,10 +39,10 @@ indeed               A13.3                2
 can                  A7+                  2 
 being                A3+                  2 
 prime-time           Z99                  2 
-Cox                  K5.1                 2 
 an                   Z5                   2 
 known                X2.2+                2 
 Corrie               W3                   2 
+street               M3                   2 
 rovers               Z3                   2 
 return               M1                   2 
 who                  Z8                   2 
@@ -47,10 +50,8 @@ be                   A3+                  2
 or                   Z5                   2 
 character            S2                   2 
 Weatherfield_polytechnic Z3                   2 
-coxs                 K5.1                 2 
 physicsworld.com     N3.3                 2 
 that                 Z5                   2 
-CERN                 Z99                  2 
 after                Z5                   2 
 one                  N1                   2 
 career               I3.1                 2 
@@ -123,7 +124,6 @@ a_number_of          N5+                  1
 dysfunctional        A5.1-                1 
 families             S4                   1 
 living               H4                   1 
-street               M3                   1 
 pub                  F2                   1 
 its                  Z8                   1 
 main                 A11.1+               1 
@@ -166,7 +166,6 @@ meat_and_potato_pie  F1                   1
 onto                 Z5                   1 
 electrical           O3                   1 
 connection           A2.2                 1 
-CERNs                Z99                  1 
 large                N3.2+                1 
 hadron               Z99                  1 
 collider             Z99                  1 
@@ -198,12 +197,10 @@ scenes               K4                   1
 involve              A1.8+                1 
 him                  Z8                   1 
 lecturing            Q2.2                 1 
-shows                A8                   1 
 stars                W1                   1 
 as_well              N5++                 1 
 encouraging          S8+                  1 
-streets              M3                   1 
-rebel                G1.2                 1 
+rebel                G3                   1 
 teenager             T3-                  1 
 Rosie_Webster        Z1                   1 
 pursue               A1.1.1               1 

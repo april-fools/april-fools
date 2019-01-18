@@ -1,4 +1,4 @@
-TOTAL              621
+TOTAL              626
 and                  CC             25 
 the                  AT             20 
 a                    AT1            16 
@@ -6,23 +6,23 @@ that                 CST            14
 to                   TO             12 
 of                   IO             12 
 in                   II             11 
+visa                 NN1            10 
 to                   II             10 
-visa                 NN1             9 
 for                  IF              8 
 that                 DD1             8 
+was                  VBDZ            7 
 security             NN1             7 
+n't                  XX              6 
 PCI                  NP1             6 
 is                   VBZ             5 
 be                   VBI             5 
 we                   PPIS2           5 
 will                 VM              5 
-was                  VBDZ            5 
 as                   CSA             4 
 on                   II              4 
 systems              NN2             4 
 they                 PPHS2           4 
 do                   VD0             4 
-nt                   XX              4 
 or                   CC              4 
 are                  VBR             4 
 network              NN1             4 
@@ -41,9 +41,9 @@ payment              NN1             2
 its                  APPGE           2 
 thought              VVD             2 
 were                 VBDR            2 
+'s                   VBZ             2 
 based                VVN             2 
 states               VVZ             2 
-wasnt                VV0             2 
 with                 IW              2 
 his                  APPGE           2 
 much                 DA1             2 
@@ -104,7 +104,7 @@ european             JJ              1
 intrepreters         NN2             1 
 safe                 JJ              1 
 using                VVG             1 
-1970s                MC2             1 
+1970                 MC              1 
 technology           NN1             1 
 mainframe            NN1             1 
 computers            NN2             1 
@@ -185,7 +185,7 @@ redirect             VV0             1
 reel-to-reel         JJ              1 
 tape                 NN1             1 
 library              NN1             1 
-encrypted            JJ              1 
+encrypted            VVN             1 
 lost                 VVN             1 
 during               II              1 
 transport            NN1             1 
@@ -257,7 +257,6 @@ how                  RGQ             1
 market_share         NN1             1 
 blame                VV0             1 
 amount               NN1             1 
-visas                NN2             1 
 s-1                  FO              1 
 ipo                  NN1             1 
 filing               NN1             1 
@@ -297,7 +296,8 @@ unreadable           JJ              1
 as_well              RG              1 
 vote                 NN1             1 
 confindence          NN1             1 
-worlds               NN2             1 
+world                NN1             1 
+'s                   GE              1 
 global               JJ              1 
 networks             NN2             1 
 investment           NN1             1 

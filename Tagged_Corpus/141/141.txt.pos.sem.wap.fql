@@ -1,4 +1,4 @@
-TOTAL              450
+TOTAL              451
 the                  AT             26 
 of                   IO             16 
 and                  CC             14 
@@ -82,8 +82,8 @@ banks                NN2             1
 informal             JJ              1 
 investors            NN2             1 
 joint                JJ              1 
-ArcticStartup        NP1             1 
-thats                VVZ             1 
+ArcticStartup(that   NP1             1 
+'s                   VBZ             1 
 next                 MD              1 
 TechCrunch_Europe    NP1             1 
 TechCrunch_France    NP1             1 
@@ -188,7 +188,8 @@ tweet                NN1             1
 simply               RR              1 
 include              VVI             1 
 link                 NN1             1 
-startup_companys     NN1             1 
+startup_company      NN1             1 
+'s                   GE              1 
 site                 NN1             1 
 if                   CS              1 
 account              NN1             1 

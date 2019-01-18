@@ -1,4 +1,4 @@
-TOTAL               11
+TOTAL               12
 revealed             VVD             1 
 Harry_Reid           NP1             1 
 made_mistake         VVD             1 
@@ -8,5 +8,6 @@ right                NN1             1
 before               II              1 
 leaving              VVG             1 
 congress             NN1             1 
-its                  APPGE           1 
+it                   PPH1            1 
+'s                   VBZ             1 
 devastating          JJ              1 

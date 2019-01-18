@@ -1,4 +1,4 @@
-TOTAL              200
+TOTAL              203
 the                  Z5                  14 
 in                   Z5                   7 
 and                  Z5                   7 
@@ -8,6 +8,7 @@ Pakistan             Z2                   4
 to                   Z5                   4 
 he                   Z8                   4 
 as                   Z5                   3 
+'s                   Z5                   3 
 a                    Z5                   3 
 report               Q2.2                 3 
 i                    Z8                   3 
@@ -24,6 +25,7 @@ with                 Z5                   2
 captain              G3                   2 
 team                 S5+                  2 
 had                  Z5                   2 
+Afridi               Z99                  2 
 for                  Z5                   2 
 of                   Z5                   2 
 they                 Z8                   2 
@@ -33,7 +35,7 @@ on                   Z5                   2
 my                   Z8                   2 
 Younis               Z99                  1 
 resigned             A9-                  1 
-sides                A4.1                 1 
+side                 A4.1                 1 
 disappointing        E4.2-                1 
 performances         K4                   1 
 India                Z2                   1 
@@ -42,13 +44,12 @@ is                   A3+                  1
 latest               T3---                1 
 role                 I3.1                 1 
 country              G1.1                 1 
-Shahid_Afridis       Z1                   1 
+Shahid_Afridi        Z1                   1 
 resignation          A9-                  1 
 t20                  Z99                  1 
 manager              S7.1+                1 
 Intikhab_Alam        Z1                   1 
 called               Q2.2                 1 
-Afridi               Z99                  1 
 absolutely           A13.2                1 
 clueless             X9.1-                1 
 in_terms_of          Z5                   1 
@@ -107,7 +108,6 @@ was                  A3+                  1
 also                 N5++                 1 
 disparaging          Q2.2                 1 
 as_to                Z5                   1 
-Afridis              Z99                  1 
 captaincy            Z99                  1 
 am                   Z5                   1 
 resigning            A9-                  1 

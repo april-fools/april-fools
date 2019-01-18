@@ -1,4 +1,4 @@
-TOTAL              323
+TOTAL              325
 the                  Z5                  24 
 to                   Z5                  17 
 dark                 W2-                 10 
@@ -16,6 +16,7 @@ it                   Z8                   4
 and                  Z5                   4 
 Nintendo             Z3                   3 
 switch               O3                   3 
+Miyazaki             Z99                  3 
 Zelda                Z99                  3 
 he                   Z8                   3 
 make                 A1.1.1               3 
@@ -24,7 +25,6 @@ items                O2                   3
 stream               W3                   2 
 which                Z8                   2 
 from                 Z5                   2 
-Miyazaki             Z99                  2 
 stated               Q2.1                 2 
 by                   Z5                   2 
 legend               S9                   2 
@@ -129,6 +129,7 @@ brought_up           M2                   1
 interest             X5.2+                1 
 designed             C1                   1 
 import               I2.2                 1 
+'                    Z5                   1 
 save                 I1.1                 1 
 files                O2                   1 
 plethora             N5+                  1 
@@ -162,7 +163,7 @@ in_great_detail      A4.2++               1
 Bloodborne           Z99                  1 
 fits_into            A1.8+                1 
 universe             W1                   1 
-Miyazakis            Z99                  1 
+'s                   Z5                   1 
 hope                 X2.6+                1 
 addition             N5++                 1 
 as_well              N5++                 1 

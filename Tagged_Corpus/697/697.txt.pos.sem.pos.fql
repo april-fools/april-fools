@@ -1,9 +1,9 @@
-TOTAL         147
+TOTAL         148
 NP1            44 
-NN1            21 
+NN1            22 
 II             14 
-NN2            10 
 JJ             10 
+NN2             9 
 CC              8 
 AT              7 
 VVD             5 
@@ -14,6 +14,7 @@ AT1             2
 IW              2 
 VVZ             2 
 VHZ             1 
+GE              1 
 JJT             1 
 APPGE           1 
 NPM1            1 

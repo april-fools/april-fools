@@ -1,4 +1,4 @@
-TOTAL              122
+TOTAL              123
 the                  Z5                  11 
 kid                  S2                   4 
 rock                 Z1                   4 
@@ -9,7 +9,7 @@ Hillary_Clinton      Z1                   2
 event                A3+                  2 
 he                   Z8                   2 
 vote                 G1.2                 2 
-Donald_trump         Z1                   2 
+Donald_Trump'        Z1                   2 
 and                  Z5                   2 
 after                Z5                   2 
 crowd                S5+                  2 
@@ -31,7 +31,7 @@ shouted              Q2.2                 1
 Hillary              Z99                  1 
 for                  Z5                   1 
 prison               G2.1                 1 
-2016                 N1                   1 
+2016'                Z99                  1 
 from                 Z5                   1 
 behind               Z5                   1 
 DNC                  Z99                  1 
@@ -54,7 +54,7 @@ american             Z2                   1
 hero                 Q4.1                 1 
 who                  Z8                   1 
 wrote                Q1.2                 1 
-Bawitdaba            Z99                  1 
+Bawitdaba'           Z99                  1 
 reportedly           A8                   1 
 looked_at            X3.4                 1 
 fire                 O4.6+                1 
@@ -66,7 +66,8 @@ glad                 E4.2+                1
 nu                   Z3                   1 
 metal                O1.1                 1 
 dead                 L1-                  1 
-all_summer_long      T1.3+                1 
+all_summer           T1.3+                1 
+Long'                Z99                  1 
 singer               K2                   1 
 able                 X9.1+                1 
 get                  M1                   1 

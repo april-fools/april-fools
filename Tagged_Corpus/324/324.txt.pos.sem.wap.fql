@@ -1,15 +1,14 @@
-TOTAL              736
+TOTAL              749
 the                  AT             37 
 a                    AT1            30 
 of                   IO             22 
 to                   TO             17 
-champagne            NN1            16 
+champagne            NN1            15 
 in                   II             11 
 and                  CC             11 
 for                  IF             10 
 is                   VBZ             9 
 this                 DD1             9 
-tax                  NN1             8 
 to                   II              7 
 on                   II              7 
 an                   AT1             7 
@@ -17,14 +16,18 @@ as                   II              7
 was                  VBDZ            7 
 government           NN1             6 
 by                   II              6 
+tax                  NN1             6 
+'                    GE              6 
 it                   PPH1            6 
+they                 PPHS2           6 
 that                 CST             5 
 but                  CCB             5 
 has                  VHZ             5 
-green                JJ              4 
 measure              NN1             4 
-they                 PPHS2           4 
+'re                  VBR             4 
 he                   PPHS1           4 
+green                JJ              3 
+that                 DD1             3 
 all                  DB              3 
 man                  NN1             3 
 Downing_Street       NP1             3 
@@ -35,8 +38,10 @@ present              VVI             3
 environmental        JJ              3 
 about                II              3 
 David_Cameron        NP1             3 
+'s                   GE              3 
 be                   VBI             3 
 pasty                JJ              3 
+we                   PPIS2           3 
 their                APPGE           3 
 have                 VH0             3 
 been                 VBN             3 
@@ -54,11 +59,10 @@ waits                VVZ             2
 deliver              VVI             2 
 boxes                NN2             2 
 11                   MC              2 
-that                 DD1             2 
 at                   II              2 
-'s                   GE              2 
 can                  VM              2 
 says                 VVZ             2 
+n't                  XX              2 
 as                   CSA             2 
 who                  PNQS            2 
 George               NP1             2 
@@ -68,8 +72,8 @@ over                 II              2
 evening              NNT1            2 
 move                 NN1             2 
 attack               NN1             2 
+tax'                 NN1             2 
 bubbly               JJ              2 
-were                 VBDR            2 
 why                  RRQ             2 
 not                  XX              2 
 what                 DDQ             2 
@@ -88,8 +92,8 @@ love                 NN1             2
 hot                  JJ              2 
 snacks               NN2             2 
 mp                   NN1             2 
+'s                   VBZ             2 
 its                  APPGE           2 
-theyre               NN1             2 
 just                 RR              2 
 going_to             VVGK            2 
 us                   PPIO2           2 
@@ -102,6 +106,7 @@ vat                  NN1             1
 pasties              NN2             1 
 introducing          VVG             1 
 new                  JJ              1 
+green'               JJ              1 
 leaked               VVD             1 
 today                RT              1 
 proposes             VVZ             1 
@@ -145,7 +150,6 @@ jerry                NN1             1
 u-turn               NN1             1 
 now                  RT              1 
 do                   VD0             1 
-n't                  XX              1 
 queue                VVI             1 
 fuel                 NN1             1 
 mother               NN1             1 
@@ -234,7 +238,7 @@ ahead_of             II21            1
 unlikely             JJ              1 
 convince             VVI             1 
 voters               NN2             1 
-together             RL              1 
+together'            NN1             1 
 meanwhile            RR              1 
 wine                 NN1             1 
 merchants            NN2             1 
@@ -271,6 +275,7 @@ pages                NN2             1
 set_up               VVN             1 
 oppose               VVI             1 
 chavs                NN2             1 
+Champagne'           NP1             1 
 purporting           VVG             1 
 have                 VHI             1 
 created              VVN             1 
@@ -307,8 +312,7 @@ which                DDQ             1
 gleefully            RR              1 
 named                VVD             1 
 memories             NN2             1 
-Alistair             NP1             1 
-darlings             NN2             1 
+Alistair_darling     NP1             1 
 politically          RR              1 
 damaging             JJ              1 
 cider                NN1             1 
@@ -317,7 +321,7 @@ conveniently         RR              1
 forgotten            VVN             1 
 pastygate            VV0             1 
 Pastygate            NP1             1 
-chosen               VVN             1 
+chosen               JJ              1 
 spokesman            NN1             1 
 perhaps              RR              1 
 inevitably           RR              1 
@@ -336,14 +340,13 @@ vote                 VV0             1
 them                 PPHO2           1 
 with                 IW              1 
 brut-al              JJ              1 
-thats                VVZ             1 
 look-out             NN1             1 
 on_the_other_hand    II              1 
-shouldnt             VVI             1 
+should               VM              1 
 working              JJ              1 
 glass                NN1             1 
 after_all            II              1 
-s                    VBZ             1 
+'s                   VHZ             1 
 earned               VVN             1 
 cheers               UH              1 
 newly                RR              1 
@@ -380,12 +383,11 @@ PM                   NP1             1
 a_couple             AT1             1 
 bottles              NN2             1 
 Dom_Perignon         NP1             1 
-66                   MC              1 
+'66                  MC              1 
 try                  VVI             1 
 show                 VVI             1 
 regular              JJ              1 
 guys                 NN2             1 
-we                   PPIS2           1 
 never                RR              1 
 policy               NN1             1 
 nobody               PN1             1 
@@ -394,7 +396,7 @@ papers               NN2             1
 seriously            RR              1 
 larks                NN2             1 
 really               RR              1 
-theres               NN2             1 
+there                EX              1 
 no                   AT              1 
 doubt                NN1             1 
 March                NP1             1 

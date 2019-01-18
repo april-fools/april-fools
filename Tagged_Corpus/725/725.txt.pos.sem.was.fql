@@ -1,4 +1,4 @@
-TOTAL              193
+TOTAL              197
 to                   Z5                   9 
 in                   Z5                   8 
 the                  Z5                   8 
@@ -8,6 +8,7 @@ of                   Z5                   3
 trade                I2.2                 3 
 United_States        Z2                   3 
 and                  Z5                   3 
+'s                   Z5                   3 
 for                  Z5                   3 
 between              Z5                   2 
 if                   Z7                   2 
@@ -16,10 +17,11 @@ that                 Z8                   2
 more                 A13.3                2 
 with                 Z5                   2 
 tariffs              I1.3                 2 
-its                  Z8                   2 
+it                   Z8                   2 
 war                  G3                   2 
 not                  Z6                   2 
 country              G1.1                 2 
+government           G1.1                 2 
 from                 Z5                   2 
 until                Z5                   1 
 Thursday_afternoon   T1.3                 1 
@@ -38,7 +40,7 @@ spirals              O4.4                 1
 into                 Z5                   1 
 bigger               N3.2++               1 
 conflict             A6.1-                1 
-worlds               W1                   1 
+world                W1                   1 
 two                  N1                   1 
 biggest              N3.2+++              1 
 economies            I2.1                 1 
@@ -47,11 +49,12 @@ become               A2.1+                1
 likely               A7+                  1 
 Thursday_evening     T1.3                 1 
 President            G1.1                 1 
-Trumps               Z1                   1 
+Trump                Z1                   1 
 threat               E3-                  1 
 add                  N5+                  1 
 $100_billion         I1.2                 1 
 more                 N5++                 1 
+'s                   A3+                  1 
 worth                I1.3                 1 
 keeping              A9+                  1 
 in_mind              X2.1                 1 
@@ -71,11 +74,10 @@ exports              I2.2                 1
 far                  N3.3+                1 
 goods                O2                   1 
 than                 Z5                   1 
-it                   Z8                   1 
 imports              I2.2                 1 
 simply               A13.6                1 
 does                 Z5                   1 
-nt                   S9                   1 
+n't                  Z6                   1 
 have                 A9+                  1 
 as                   A13                  1 
 much                 N5+                  1 
@@ -86,9 +88,9 @@ american             Z2                   1
 especially           A14                  1 
 given                A9-                  1 
 chinese              Z2                   1 
-governments          G1.1                 1 
 desire               X7+                  1 
 cushion              S8+                  1 
+its                  Z8                   1 
 citizens             G1.1                 1 
 higher               N3.7++               1 
 prices               I1.3                 1 
@@ -102,7 +104,6 @@ willing              X7+                  1
 use                  A1.5.1               1 
 wide                 N3.7+                1 
 range                N3.3                 1 
-government           G1.1                 1 
 powers               S7.1+                1 
 achieve              A9+                  1 
 commercial           I2.1                 1 

@@ -25,6 +25,7 @@
 0000002 190  IO      of                       Z5 
 0000002 200  NP1     Panem                    Z99 
 0000002 201  ,       ,                        
+0000002 202  GE      '                        Z5 
 0000002 210  AT1     a                        Z5 
 0000002 220  NN1     Hunger                   F1-/B1 X7+ 
 0000002 230  NN2     Games                    K5.1 K5.2 A1.1.1 
@@ -39,7 +40,7 @@
 0000002 290  AT      The                      Z5 
 0000002 300  NN1     World                    W1 S5+c A4.1 N5+ 
 0000002 310  IO      of                       Z5 
-0000002 320  NN1     Panem                    Z99 
+0000002 320  NP1     Panem'                   Z99 
 0000002 330  VM      will                     T1.1.3 
 0000002 340  VBI     be                       A3+ Z5 
 0000002 350  AT1     a                        Z5 
@@ -121,7 +122,8 @@
 0000004 361  ,       ,                        
 0000004 370  RR      already                  T1.1.1 
 0000004 380  AT      the                      Z5 
-0000004 390  NN2     worlds                   W1 S5+c A4.1 N5+ 
+0000004 390  NN1     world                    W1 S5+c A4.1 N5+ 
+0000004 391  GE      's                       Z5 
 0000004 400  JJT     largest                  N3.2+++ N5+++ A11.1+++ 
 0000004 410  NN1     theme                    K1/M7c[i6.2.1 X4.1 K2 Q1.2 Q3 
 0000004 420  NN1     park                     K1/M7c[i6.2.2 M7/L3 
@@ -303,16 +305,18 @@
 0000010 100  NN1     District                 Z2[i18.2.1 Z1mf[i18.2.1 Z3c 
 0000010 110  MC      12                       Z2[i18.2.2 Z1mf[i18.2.2 N1 T1.2 T3 T1.3 N3.2 
 0000010 120  NN1     Mine                     I4/H1c G3 N5+ 
-0000010 130  NN1     Train                    M3fn N4 B5@ 
+0000010 130  VVG     Train'                   Z99 
 0000010 140  NN1     rollercoaster            K1 A2.1+ 
 0000010 141  ,       ,                        
 0000010 150  NP1     Capitol                  Z1mf[i19.2.1 Z3c[i19.2.1 Z2 
 0000010 160  NP1@    Tours                    Z1mf[i19.2.2 Z3c[i19.2.2 Z2 
 0000010 161  ,       ,                        
+0000010 162  GE      '                        Z5 
 0000010 170  CC      and                      Z5 
 0000010 180  AT      The                      Z5 
 0000010 190  NN1     Hunger                   F1-/B1 X7+ 
 0000010 200  NN2     Games                    K5.1 K5.2 A1.1.1 
+0000010 201  GE      '                        Z5 
 0000010 210  PPX2    themselves               Z8 
 0000010 211  .       .                        
 0000010 212  -----   -----                    
@@ -514,6 +518,7 @@
 0000020 080  AT      The                      Z5 
 0000020 090  NN1     Hunger                   F1-/B1 X7+ 
 0000020 100  NN2     Games                    K5.1 K5.2 A1.1.1 
+0000020 101  GE      '                        Z5 
 0000020 110  AT      the                      Z5 
 0000020 120  NN1     experience               X2.2+ X9.1+ I3.2 A2.1+/A3+ X3 
 0000020 130  IO      of                       N6+[i31.3.1 T1.2[i31.3.1 Z5 
@@ -573,7 +578,7 @@
 0000022 102  -----   -----                    
 0000022 110  PPIS1   I                        Z8mf 
 0000022 120  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000022 121  XX      nt                       S9/Q4.1 Z3c 
+0000022 121  XX      n't                      Z6 
 0000022 130  VVI     know                     X2.2+ S3.2/B1% 
 0000022 140  CSW     whether                  Z5 
 0000022 150  TO      to                       Z5 
@@ -599,7 +604,7 @@
 0000022 320  RRQV    however                  Z4 
 0000022 330  PPH1    it                       Z8 
 0000022 340  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000022 341  XX      nt                       S9/Q4.1 Z3c 
+0000022 341  XX      n't                      Z6 
 0000022 350  VVI     feel                     X2.1 E1 X3 
 0000022 360  JJ      right                    A5.3+ A4.2+ A1.2+ G2.2+ M6 N3.2+ A13.3 A13.2 
 0000022 370  TO      to                       Z5 

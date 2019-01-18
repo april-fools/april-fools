@@ -11,7 +11,8 @@
 0000002 060  NN2     results                  A2.2 X9.2 N2 A5.1 K5 Q1.1/A2.2 
 0000002 070  IO      of                       Z5 
 0000002 080  NPD1    Tuesday                  T1.3[i1.2.1 T1.3 
-0000002 090  NNT2    nights                   T1.3[i1.2.2 T1.3 
+0000002 090  NNT1    night                    T1.3[i1.2.2 T1.3 
+0000002 091  GE      's                       Z5 
 0000002 100  NN1     election                 G1.2/X7+ 
 0000002 101  ,       ,                        
 0000002 110  NNB     President                G1.1/S7.1+/S2mf 
@@ -255,8 +256,9 @@
 0000005 001  -----   -----                    
 0000006 010  II      Under                    Z5 
 0000006 020  AT      the                      Z5 
-0000006 030  NN2     Presidents               G1.1/S7.1+/S2mf 
-0000006 040  VV0@    order                    S7.1+/Q2.2 I2.2/Q2.2 
+0000006 030  NN1     President                G1.1/S7.1+/S2mf 
+0000006 031  GE      's                       Z5 
+0000006 040  NN1     order                    S7.1+/Q2.2 I2.2/Q2.2 A4.1 N4 G2.1+ G2.1 Q1.2/I1.1 O4.2+ 
 0000006 041  ,       ,                        
 0000006 050  AT      the                      Z5 
 0000006 060  NN2     votes                    G1.2 
@@ -277,7 +279,8 @@
 0000006 200  VVD     took                     S1.1.3+[i13.2.1 A9+ T1.3 C1 A1.1.1 M2 A2.1+ X2.4 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
 0000006 210  NN1     part                     S1.1.3+[i13.2.2 N5.1- O2 M7 I3.1 S1.1.3+ K4 
 0000006 220  II      in                       Z5 
-0000006 230  NPD2    Tuesdays                 T1.3 
+0000006 230  NPD1    Tuesday                  T1.3 
+0000006 231  GE      's                       Z5 
 0000006 240  NN1     election                 G1.2/X7+ 
 0000006 250  VM      will                     T1.1.3 
 0000006 260  VBI     be                       Z5 A3+ 
@@ -354,7 +357,8 @@
 0000008 070  JJ      happy                    E4.1+ E4.2+ 
 0000008 080  IW      with                     Z5 
 0000008 090  AT      the                      Z5 
-0000008 100  NN2     presidents               G1.1/S7.1+/S2mf 
+0000008 100  NN1     president                G1.1/S7.1+/S2mf 
+0000008 101  GE      's                       Z5 
 0000008 110  NN1     decision                 X6+ 
 0000008 111  .       .                        
 0000009 001  -----   -----                    
@@ -382,7 +386,7 @@
 0000010 190  JJ      American                 Z2 
 0000010 200  NN      people                   S2mfc 
 0000010 210  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000010 211  XX      nt                       S9/Q4.1 Z3c 
+0000010 211  XX      n't                      Z6 
 0000010 220  VVI     allow                    S7.4+ S8+ X2.1 
 0000010 230  DD1     that                     Z8 Z5 
 0000010 240  TO      to                       Z5 
@@ -392,7 +396,7 @@
 0000010 260  NNB     President                G1.1/S7.1+/S2mf 
 0000010 270  NP1     Obama                    Z99 
 0000010 280  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000010 281  XX      nt                       S9/Q4.1 Z3c 
+0000010 281  XX      n't                      Z6 
 0000010 290  VVI     care                     E6- E2+ S8+ B3 X7+ 
 0000010 300  II      about                    Z5 
 0000010 310  DDQ     what                     Z8 Z5 
@@ -610,6 +614,7 @@
 0000018 740  VBR     are                      A3+ Z5 
 0000018 750  APPGE   their                    Z8 
 0000018 760  NN2     states                   G1.1c O4.1 
+0000018 761  GE      '                        Z5 
 0000018 770  NN2     electors                 G1.2/X7+/S2mf 
 0000018 771  ,       ,                        
 0000018 780  XX      not                      Z6 
@@ -713,7 +718,8 @@
 0000020 100  VVZ     agrees                   A6.1+ Q2.2 
 0000020 110  IW      with                     Z5 
 0000020 120  AT      the                      Z5 
-0000020 130  NN2     Presidents               G1.1/S7.1+/S2mf 
+0000020 130  NN1     President                G1.1/S7.1+/S2mf 
+0000020 131  GE      's                       Z5 
 0000020 140  NN1     Executive                S7.1+ I2.1/S2mf G1.1c S7.1+/S5+c 
 0000020 150  NN1     Order                    S7.1+/Q2.2 I2.2/Q2.2 A4.1 N4 G2.1+ G2.1 Q1.2/I1.1 O4.2+ 
 0000020 160  CC      and                      Z5 
@@ -778,7 +784,8 @@
 0000022 350  NN1     vote                     G1.2 
 0000022 351  ,       ,                        
 0000022 360  CC      and                      Z5 
-0000022 370  VVZ     thats                    Z5 Z8 A13.3 A6.1+ 
+0000022 370  DD1     that                     Z8 Z5 
+0000022 371  VBZ     's                       A3+ Z5 
 0000022 380  RR      just                     A14 T3--- T1.3- N3.3--- 
 0000022 390  XX      not                      Z6 
 0000022 400  AT      the                      Z5 
@@ -825,7 +832,8 @@
 0000022 740  NN1     depression               E4.1- B2-/X1 I2.1/N5- O4.4 W4 
 0000022 741  .       .                        
 0000022 742  -----   -----                    
-0000022 750  APPGE   Its                      Z8 
+0000022 750  PPH1    It                       Z8 
+0000022 751  VBZ     's                       A3+ Z5 
 0000022 760  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000022 770  TO      to                       Z5 
 0000022 780  VVI     bring                    M2 A2.2 
@@ -868,7 +876,8 @@
 0000024 120  RL      forward                  M6 T1.1.3 
 0000024 121  .       .                        
 0000025 001  -----   -----                    
-0000026 010  VBDR    Were                     Z5 A3+ 
+0000026 010  PPIS2   We                       Z8 
+0000026 011  VBR     're                      Z5 A3+ 
 0000026 020  VVGK    going                    T1.1.3[i39.2.1 
 0000026 030  TO      to                       T1.1.3[i39.2.2 Z5 
 0000026 040  VVI     investigate              X2.4 
@@ -927,7 +936,8 @@
 0000026 521  ?       ?                        
 0000026 522  -----   -----                    
 0000026 530  RRQ     Why                      A2.2 
-0000026 540  VVI     wasnt                    Z99 
+0000026 540  VBDZ    was                      A3+ Z5 
+0000026 541  XX      n't                      Z6 
 0000026 550  DD1     this                     M6 Z5 Z8 
 0000026 560  NN1     news                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
 0000026 570  VVN     released                 A1.7- A9- 
@@ -991,7 +1001,8 @@
 0000028 170  VVI     call                     Q2.2 S1.1.1 Q1.3 S9% 
 0000028 180  AT      the                      Z5 
 0000028 190  NP1     Obama                    Z99 
-0000028 200  NN2     administrations          S7.1+c A9- 
+0000028 200  NN1     administration           S7.1+c A9- 
+0000028 201  GE      's                       Z5 
 0000028 210  JJ      special                  A4.2+ A6.2- 
 0000028 220  NN1     election                 G1.2/X7+ 
 0000028 230  NN1     hotline                  Q1.3 

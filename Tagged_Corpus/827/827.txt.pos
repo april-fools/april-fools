@@ -12,7 +12,8 @@
 0000002 100 Institute                                   93 NN1
 0000002 110 for                                         93 [IF/100] CS%/0
 0000002 120 Fiscal                                      93 JJ
-0000002 130 Studies                                     93 NN2
+0000002 130 Studies                   >                 58 NN2
+0000002 131 '                         <                 97 GE
 0000002 140 calculations                                03 NN2
 0000002 150 that                                        93 [CST/100] DD1/0 RG%/0
 0000002 160 families                                    93 NN2
@@ -454,7 +455,8 @@
 0000016 770 biggest                                     03 JJT
 0000016 780 difference                                  03 NN1
 0000016 790 to                                          93 [II/100] TO/0
-0000016 800 peoples                                     93 NN2
+0000016 800 people                    >                 93 NN
+0000016 801 's                        <                 98 GE
 0000016 810 household                                   93 NN1
 0000016 820 incomes                                     93 NN2
 0000016 821 .                                           03 .

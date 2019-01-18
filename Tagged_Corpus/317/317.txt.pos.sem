@@ -19,7 +19,7 @@
 0000002 110  DDQ     What                     Z5 Z8 
 0000002 120  NN1     woman                    S2.1f 
 0000002 130  VHZ     has                      Z5 A9+ A2.2 S4 
-0000002 131  XX      nt                       S9/Q4.1 Z3c 
+0000002 131  XX      n't                      Z6 
 0000002 140  VVN     spent                    I1.2 A1.5.1 T1.3 
 0000002 150  JJ      countless                N5+ 
 0000002 160  NNT2    hours                    T1.3 

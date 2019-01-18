@@ -7,7 +7,8 @@
 0000002 050  IW      with                     Z5 
 0000002 060  AT      the                      Z5 
 0000002 070  NN1     announcement             Q2.2 
-0000002 080  NP2     Huddersfields            Z2 
+0000002 080  NP1     Huddersfield             Z2 
+0000002 081  GE      's                       Z5 
 0000002 090  RGT     most                     A13.2 
 0000002 100  JJ      famous                   X2.2+ 
 0000002 110  NN1@    feline                   L2 O4.2 
@@ -67,8 +68,9 @@
 0000006 170  VVG     taking                   A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
 0000006 180  PPHO1   her                      Z8f 
 0000006 190  II      from                     Z5 
-0000006 200  NP2     Huddersfields            Z2 
-0000006 210  VVZ     clutches                 A1.7+ 
+0000006 200  NP1     Huddersfield             Z2 
+0000006 201  GE      's                       Z5 
+0000006 210  NN2     clutches                 A1.7+ O2/M3 N5/L2 
 0000006 220  TO      to                       Z5 
 0000006 230  VVI     deal                     A1.1.1 I2.2 I2.1 A9- K5.2 F3/I2.2 
 0000006 240  IW      with                     Z5 
@@ -440,7 +442,7 @@
 0000036 070  VV0     wish                     X7+ 
 0000036 080  PPIS1   I                        Z8mf 
 0000036 090  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000036 091  XX      nt                       S9/Q4.1 Z3c 
+0000036 091  XX      n't                      Z6 
 0000036 100  VHI     have                     S6+[i39.2.1 A9+ Z5 A2.2 S4 
 0000036 110  TO      to                       S6+[i39.2.2 Z5 
 0000036 120  VVI     leave                    M1 M2 A1.1.1 A1.9 A9- T2- 

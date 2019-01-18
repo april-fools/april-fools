@@ -40,8 +40,9 @@
 0000002 360  NN1     house                    H1 P1/S5+c G1.1c 
 0000002 370  CST     that                     Z8 Z5 
 0000002 380  PPIS1   I                        Z8mf 
-0000002 390  VV0     couldnt                  Z99 
-0000002 400  NN1     help                     S8+ 
+0000002 390  VM      could                    A7+ 
+0000002 391  XX      n't                      Z6 
+0000002 400  VVI     help                     S8+ 
 0000002 410  CCB     but                      Z5 
 0000002 420  VV0     want                     X7+ S6+ A7+ S3.2 A9- 
 0000002 430  TO      to                       Z5 
@@ -128,7 +129,8 @@
 0000004 352  NULL    </quote>                 
 0000004 353  -----   -----                    
 0000004 360  AT      The                      Z5 
-0000004 370  NN2     games                    K5.1 K5.2 A1.1.1 
+0000004 370  NN1     game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
+0000004 371  GE      's                       Z5 
 0000004 380  NN2     songs                    K2 
 0000004 390  VM      will                     T1.1.3 
 0000004 400  RR      also                     N5++ 
@@ -148,8 +150,9 @@
 0000006 010  VD0     Do                       Z4[i6.3.1 Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
 0000006 020  PPY     you                      Z4[i6.3.2 Z8mf 
 0000006 030  VVI     think                    Z4[i6.3.3 X2.1 
-0000006 040  RR      well                     A5.1+ A13.3 A7+ B2+ Z4 
-0000006 050  VV0     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000006 040  PPIS2   we                       Z8 
+0000006 041  VM      'll                      T1.1.3 
+0000006 050  VVI     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
 0000006 060  AT1     a                        Z5 
 0000006 070  NN1     tambourine               K2 
 0000006 071  ?       ?                        
@@ -189,7 +192,8 @@
 0000010 100  JJ22    New                      T3---[i8.2.2 T3- 
 0000010 110  NN1     Game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
 0000010 120  VVG     Commemorating            Z99 
-0000010 130  NN2     Shows                    A8 K4 S1.1.1 I2.2/S1.1.1 
+0000010 130  NN1     Show                     A8 K4 S1.1.1 I2.2/S1.1.1 
+0000010 131  GE      's                       Z5 
 0000010 140  MD      Fortieth                 Z99 
 0000010 150  NN1     Anniversary              T1.2 
 0000012 010  FW      LOS                      Z2[i11.2.1 Z5 Z2[i9.2.1 Z2[i10.2.1 
@@ -258,8 +262,9 @@
 0000012 490  AT1     a                        Z5 
 0000012 500  NN1     part                     N5.1- O2 M7 I3.1 S1.1.3+ K4 
 0000012 510  IO      of                       Z5 
-0000012 520  NP1     Viacoms                  Z1mf[i15.2.1 Z3c[i15.2.1 
-0000012 530  NP1     MTV                      Z1mf[i15.2.2 Z3c[i15.2.2 
+0000012 520  NP1     Viacom                   Z99 
+0000012 521  GE      's                       Z5 
+0000012 530  NP1     MTV                      Z3c 
 0000012 540  NN2     Networks                 S5+ Q4.3 Y2 
 0000012 541  (       (                        
 0000012 550  NN1     NYSE                     Z99 
@@ -325,26 +330,27 @@
 0000014 222  NULL    </quote>                 
 0000014 223  -----   -----                    
 0000014 230  VVD     said                     Q2.1 
-0000014 240  NP1     David                    Z1mf[i16.2.1 Z3c[i16.2.1 Z1m 
-0000014 250  NP1     Cassidy                  Z1mf[i16.2.2 Z3c[i16.2.2 
+0000014 240  NP1     David                    Z1mf[i15.2.1 Z3c[i15.2.1 Z1m 
+0000014 250  NP1     Cassidy                  Z1mf[i15.2.2 Z3c[i15.2.2 
 0000014 251  ,       ,                        
 0000014 260  RRT     best                     A5.1+++ A13.2 G2.2+++ O4.2+++ 
 0000014 270  VVN     known                    X2.2+ S3.2/B1% 
 0000014 280  II      as                       Z5 
 0000014 290  AT      the                      Z5 
-0000014 300  NN2     shows                    A8 K4 S1.1.1 I2.2/S1.1.1 
+0000014 300  NN1     show                     A8 K4 S1.1.1 I2.2/S1.1.1 
+0000014 301  GE      's                       Z5 
 0000014 310  NN1     teen                     T3 
 0000014 320  NN1     heartthrob               Z99 
 0000014 321  ,       ,                        
-0000014 330  NP1     Keith                    Z1mf[i17.2.1 Z3c[i17.2.1 Z1mf 
-0000014 340  NN      Partridge                Z1mf[i17.2.2 Z3c[i17.2.2 Z1mf 
+0000014 330  NP1     Keith                    Z1mf[i16.2.1 Z3c[i16.2.1 Z1mf 
+0000014 340  NN      Partridge                Z1mf[i16.2.2 Z3c[i16.2.2 Z1mf 
 0000014 341  .       .                        
 0000014 342  NULL    <quote>                  
 0000014 343  -----   -----                    
 0000014 350  PPIS2   We                       Z8 
 0000014 360  VBDR    were                     A3+ Z5 
-0000014 370  NN1     role                     S7.2+/S2mf[i18.2.1 I3.1 K4 S1.1.1 A1.1.1 
-0000014 380  NN2     models                   S7.2+/S2mf[i18.2.2 O2/A5.4- A4.1 X4.2 A5.1+++ C1/S2mf B5/I3.2/S2mf 
+0000014 370  NN1     role                     S7.2+/S2mf[i17.2.1 I3.1 K4 S1.1.1 A1.1.1 
+0000014 380  NN2     models                   S7.2+/S2mf[i17.2.2 O2/A5.4- A4.1 X4.2 A5.1+++ C1/S2mf B5/I3.2/S2mf 
 0000014 390  II      to                       Z5 
 0000014 400  AT      the                      Z5 
 0000014 410  NN2     kids                     S2mf/T3- S4mf L2 
@@ -353,7 +359,8 @@
 0000014 440  MC2     70s                      T1.3 N1 T3 
 0000014 441  ,       ,                        
 0000014 450  CC      and                      Z5 
-0000014 460  VBDR    were                     Z5 A3+ 
+0000014 460  PPIS2   we                       Z8 
+0000014 461  VBR     're                      Z5 A3+ 
 0000014 470  VVG     hoping                   X2.6+ E4.1+ X9.2+ A5.1+ 
 0000014 480  TO      to                       Z5 
 0000014 490  VHI     have                     A9+ Z5 A2.2 S4 
@@ -374,8 +381,8 @@
 0000014 620  NN1     Band                     K2c A4.1 S5+c O2 
 0000014 630  NN2     players                  K6/S2mf K5.2/S2mf K2/S2mf S1.1.3+/S2mf K4/S2mf K3 
 0000014 640  TO      to                       Z5 
-0000014 650  VVI     sing                     K2[i19.2.1 K2 
-0000014 660  RP      along                    K2[i19.2.2 M6 
+0000014 650  VVI     sing                     K2[i18.2.1 K2 
+0000014 660  RP      along                    K2[i18.2.2 M6 
 0000014 670  II      to                       Z5 
 0000014 680  AT      the                      Z5 
 0000014 690  NN      Partridge                Z1mf 
@@ -395,29 +402,29 @@
 0000016 020  NN1     in-game                  Z99 
 0000016 030  VM      will                     T1.1.3 
 0000016 040  VBI     be                       A3+ Z5 
-0000016 050  AT      the                      A6.1+[i20.3.1 Z5 
-0000016 060  NN2     likenesses               A6.1+[i20.3.2 A6.1+ 
-0000016 070  IO      of                       A6.1+[i20.3.3 Z5 
+0000016 050  AT      the                      A6.1+[i19.3.1 Z5 
+0000016 060  NN2     likenesses               A6.1+[i19.3.2 A6.1+ 
+0000016 070  IO      of                       A6.1+[i19.3.3 Z5 
 0000016 080  JJ@     cast                     K4/S5+c O2 B3 A4.1 B2- K4 M2 G1.2 S9 A9- A1.1.1 
 0000016 090  NN2     members                  S5+/S2mf B1 
-0000016 100  NP1     Shirley                  Z1mf[i21.2.1 Z3c[i21.2.1 Z1f 
-0000016 110  NP1     Jones                    Z1mf[i21.2.2 Z3c[i21.2.2 Z1mf 
+0000016 100  NP1     Shirley                  Z1mf[i20.2.1 Z3c[i20.2.1 Z1f 
+0000016 110  NP1     Jones                    Z1mf[i20.2.2 Z3c[i20.2.2 Z1mf 
 0000016 111  ,       ,                        
-0000016 120  NP1     David                    Z1mf[i22.2.1 Z3c[i22.2.1 Z1m 
-0000016 130  NP1     Cassidy                  Z1mf[i22.2.2 Z3c[i22.2.2 
+0000016 120  NP1     David                    Z1mf[i21.2.1 Z3c[i21.2.1 Z1m 
+0000016 130  NP1     Cassidy                  Z1mf[i21.2.2 Z3c[i21.2.2 
 0000016 131  ,       ,                        
-0000016 140  NP1     Susan                    Z1mf[i23.2.1 Z3c[i23.2.1 Z1f 
-0000016 150  NP1     Dey                      Z1mf[i23.2.2 Z3c[i23.2.2 
+0000016 140  NP1     Susan                    Z1mf[i22.2.1 Z3c[i22.2.1 Z1f 
+0000016 150  NP1     Dey                      Z1mf[i22.2.2 Z3c[i22.2.2 
 0000016 151  ,       ,                        
-0000016 160  NP1     Danny                    Z1mf[i24.2.1 Z3c[i24.2.1 Z1m 
-0000016 170  NP1     Bonaduce                 Z1mf[i24.2.2 Z3c[i24.2.2 
+0000016 160  NP1     Danny                    Z1mf[i23.2.1 Z3c[i23.2.1 Z1m 
+0000016 170  NP1     Bonaduce                 Z1mf[i23.2.2 Z3c[i23.2.2 
 0000016 171  ,       ,                        
-0000016 180  NP1     Brian                    Z1mf[i25.2.1 Z3c[i25.2.1 Z1m 
-0000016 190  NP1     Forster                  Z1mf[i25.2.2 Z3c[i25.2.2 Z1mf 
+0000016 180  NP1     Brian                    Z1mf[i24.2.1 Z3c[i24.2.1 Z1m 
+0000016 190  NP1     Forster                  Z1mf[i24.2.2 Z3c[i24.2.2 Z1mf 
 0000016 191  ,       ,                        
 0000016 200  CC      and                      Z5 
-0000016 210  NP1     Suzanne                  Z1mf[i26.2.1 Z3c[i26.2.1 Z1f Z3% 
-0000016 220  NP1     Crough                   Z1mf[i26.2.2 Z3c[i26.2.2 
+0000016 210  NP1     Suzanne                  Z1mf[i25.2.1 Z3c[i25.2.1 Z1f Z3% 
+0000016 220  NP1     Crough                   Z1mf[i25.2.2 Z3c[i25.2.2 
 0000016 221  ,       ,                        
 0000016 230  IW      with                     Z5 
 0000016 240  JJ      occasional               N6- 
@@ -426,8 +433,9 @@
 0000016 270  AT      the                      Z5 
 0000016 280  NN1     game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
 0000016 290  II      by                       Z5 
-0000016 300  NP1     Dave                     Z1m 
-0000016 310  NP2     Madddens                 Z99 
+0000016 300  NP1     Dave                     Z1mf[i26.2.1 Z3c[i26.2.1 Z1m 
+0000016 310  NP1     Maddden                  Z1mf[i26.2.2 Z3c[i26.2.2 
+0000016 311  GE      's                       Z5 
 0000016 320  NN1     character                S2mf K4/S2mf S1.2 S2mf/A6.2- Q1.2 A4.1 O4.2+ 
 0000016 321  ,       ,                        
 0000016 330  NP1     Reuben                   Z1mf[i27.2.1 Z3c[i27.2.1 
@@ -453,7 +461,8 @@
 0000016 500  NN1     anniversary              T1.2 
 0000016 510  IO      of                       Z5 
 0000016 520  AT      the                      Z5 
-0000016 530  NN2     shows                    A8 K4 S1.1.1 I2.2/S1.1.1 
+0000016 530  NN1     show                     A8 K4 S1.1.1 I2.2/S1.1.1 
+0000016 531  GE      's                       Z5 
 0000016 540  MD      first                    N4 
 0000016 550  NNT1    season                   T1.3 
 0000016 551  ,       ,                        
@@ -526,7 +535,8 @@
 0000016 141  .       .                        
 0000018 001  NULL    <quote>                  
 0000018 002  -----   -----                    
-0000018 010  APPGE   Its                      Z8 
+0000018 010  PPH1    It                       Z8 
+0000018 011  VBZ     's                       A3+ Z5 
 0000018 020  AT1     a                        Z5 
 0000018 030  JJ      complete                 N5.1+ T2- N3.2+ 
 0000018 040  NN1     honor                    Z99 
@@ -582,7 +592,8 @@
 0000018 470  NN1     Family                   S4c A4.1c 
 0000018 480  RP      back                     M6 N6+ T1.1.1 S1.1.2+ 
 0000018 490  II      in                       Z5 
-0000018 500  NN2     peoples                  S2mf 
+0000018 500  NN      people                   S2mfc 
+0000018 501  GE      's                       Z5 
 0000018 510  NN2     homes                    H4/H1c M6 
 0000018 520  IF      for                      Z5 
 0000018 530  PN1     everyone                 Z8/N5.1+c 
@@ -605,8 +616,9 @@
 0000018 670  VVZ     makes                    A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
 0000018 680  PPIO1   me                       Z8mf 
 0000018 690  NN1%    feel                     E1 O4.5 X3 
-0000018 700  NN1%    like                     A6.1+ 
-0000018 710  VBDR    were                     M6[i34.2.1 A3+ Z5 
+0000018 700  CS%     like                     Z5 
+0000018 710  PPIS2   we                       Z8 
+0000018 711  VBR     're                      M6[i34.2.1 A3+ Z5 
 0000018 720  RP      back                     M6[i34.2.2 M6 N6+ T1.1.1 S1.1.2+ 
 0000018 730  RL      together                 S5+ T1.1.2 M6 
 0000018 740  VVG     playing                  K1 K5.1 K5.2 K2 K3 A1.1.1 K6 
@@ -640,8 +652,9 @@
 0000020 150  NN2     albums                   K2 Q4.1 
 0000020 160  II      during                   Z5 
 0000020 170  AT      the                      Z5 
-0000020 180  NN2     shows                    A8 K4 S1.1.1 I2.2/S1.1.1 
-0000020 190  VV0     run                      M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4 
+0000020 180  NN1     show                     A8 K4 S1.1.1 I2.2/S1.1.1 
+0000020 181  GE      's                       Z5 
+0000020 190  NN1     run                      M1/N3.8+ M1 B5 X8+ T1.3 X7/N5+ N5 K4 K5.1% 
 0000020 191  ,       ,                        
 0000020 200  II      including                A1.8+ 
 0000020 210  NN2     hits                     X9.2+ E3- 
@@ -696,12 +709,14 @@
 0000020 550  NNT2    months                   T1.3 
 0000020 560  II      after                    Z5 
 0000020 570  AT      the                      Z5 
-0000020 580  NN2     sitcoms                  Q4.3 
+0000020 580  NN1     sitcom                   Q4.3 
+0000020 581  GE      's                       Z5 
 0000020 590  NN1     premiere                 N4 
 0000020 591  .       .                        
 0000020 592  -----   -----                    
 0000020 600  AT      The                      Z5 
-0000020 610  NN2     shows                    A8 K4 S1.1.1 I2.2/S1.1.1 
+0000020 610  NN1     show                     A8 K4 S1.1.1 I2.2/S1.1.1 
+0000020 611  GE      's                       Z5 
 0000020 620  MD      first                    N4 
 0000020 630  NN1     album                    K2 Q4.1 
 0000020 631  ,       ,                        

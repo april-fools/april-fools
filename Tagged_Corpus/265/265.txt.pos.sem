@@ -281,8 +281,9 @@
 0000021 150  CS      though                   Z5 
 0000021 160  PPIS1   I                        Z8mf 
 0000021 170  RR      personally               S5- 
-0000021 180  JJ      cant                     Q2.1 Z1mf Z1 
-0000021 190  NN1@    wait                     T1.3 
+0000021 180  VM      ca                       A7+ 
+0000021 181  XX      n't                      Z6 
+0000021 190  VVI     wait                     T1.3 A3+ A11.1+ S1.1.1% 
 0000021 200  TO      to                       Z5 
 0000021 210  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
 0000021 220  VV0     Puscifer                 Z99 

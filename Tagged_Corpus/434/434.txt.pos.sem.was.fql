@@ -1,4 +1,4 @@
-TOTAL              268
+TOTAL              271
 the                  Z5                  15 
 and                  Z5                   8 
 to                   Z5                   8 
@@ -6,10 +6,12 @@ will                 T1.1.3               7
 Pepsi                Z3                   7 
 at                   Z5                   5 
 of                   Z5                   5 
+Disney               Z3                   5 
 theme_parks          K1                   4 
 we                   Z8                   4 
-Disney               Z3                   4 
 all                  N5.1+                4 
+Disneyland           Z2                   3 
+'s                   Z5                   3 
 be                   Z5                   3 
 with                 Z5                   3 
 here                 M6                   3 
@@ -17,7 +19,6 @@ from                 Z5                   3
 you                  Z8                   3 
 is                   A3+                  2 
 a                    Z5                   2 
-Disneyland           Z2                   2 
 it                   Z8                   2 
 today                T1.1.2               2 
 have                 Z5                   2 
@@ -33,6 +34,7 @@ world                W1                   2
 coke                 Z3                   2 
 flavors              X3.1                 2 
 mountain             W3                   2 
+dew                  O1.2                 2 
 refreshment          B2+                  2 
 corner               O4.4                 2 
 game                 K5.1                 2 
@@ -49,7 +51,6 @@ has                  Z5                   1
 been                 A3+                  1 
 present              T1.1.2               1 
 since                Z5                   1 
-Disneylands          Z2                   1 
 opening              A1.1.1               1 
 day                  T1.3                 1 
 July_17              T1.3                 1 
@@ -106,11 +107,9 @@ cool                 O4.6-                1
 Walt_Disney          Z1                   1 
 changing             A2.1+                1 
 around               Z5                   1 
-dews                 O1.2                 1 
 have                 A9+                  1 
 opportunity          A1.4                 1 
 try                  X8+                  1 
-dew                  O1.2                 1 
 including            A1.8+                1 
 code                 A10-                 1 
 red                  O4.3                 1 
@@ -137,7 +136,6 @@ patio                H3                   1
 listen               X3.2                 1 
 tinkling             Z99                  1 
 ivories              O1.1                 1 
-Disneys              Z3                   1 
 ragtime              Z99                  1 
 piano                K2                   1 
 player               K6                   1 

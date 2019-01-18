@@ -1,9 +1,9 @@
-TOTAL              220
+TOTAL              221
 the                  AT             17 
 of                   IO              8 
+hp                   NN1             5 
 and                  CC              5 
 for                  IF              5 
-hp                   NN1             4 
 dv3000               FO              4 
 entertainment        NN1             4 
 notebook             NN1             4 
@@ -116,7 +116,7 @@ leisure              NN1             1
 purposes             NN2             1 
 as                   II              1 
 result               NN1             1 
-hps                  NN2             1 
+'s                   GE              1 
 extensive            JJ              1 
 research             NN1             1 
 three                MC              1 

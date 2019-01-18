@@ -1,4 +1,4 @@
-TOTAL              380
+TOTAL              387
 the                  AT             28 
 of                   IO             13 
 will                 VM              7 
@@ -14,6 +14,7 @@ on                   II              4
 at                   II              4 
 he                   PPHS1           4 
 in                   II              4 
+'                    GE              3 
 that                 CST             3 
 who                  PNQS            3 
 as                   CSA             3 
@@ -41,6 +42,7 @@ not                  XX              2
 was                  VBDZ            2 
 players              NN2             2 
 God                  NP1             2 
+i                    PPIS1           2 
 Cape_Town            NP1             1 
 an                   AT1             1 
 altogether           RR              1 
@@ -115,7 +117,7 @@ has                  VHZ             1
 enlisted             VVN             1 
 rugby                NN1             1 
 bosses               NN2             1 
-blessing             VVG             1 
+blessing             NN1             1 
 help                 NN1             1 
 koevoet              NN1             1 
 commander            NN1             1 
@@ -157,7 +159,8 @@ bare-knuckle         JJ              1
 boxing               NN1             1 
 bouts                NN2             1 
 there                EX              1 
-survival_factor      NN1             1 
+survival'            JJ              1 
+factor               NN1             1 
 but                  CCB             1 
 nothing_like         PN1             1 
 as                   RG              1 
@@ -189,10 +192,11 @@ subjected            VVN             1
 repeated             JJ              1 
 recordings           NN2             1 
 save                 VV0             1 
-queen                NN1             1 
+Queen'               NP1             1 
 or                   CC              1 
 defend               VV0             1 
-New_Zealand          NP1             1 
+new                  JJ              1 
+Zealand'             NP1             1 
 more                 RGR             1 
 positively           RR              1 
 motivated            VVN             1 
@@ -202,7 +206,8 @@ re-runs              NN2             1
 events               NN2             1 
 like                 II              1 
 Ras                  NP2             1 
-dumisanis            NN1             1 
+Dumisani             NP1             1 
+'s                   GE              1 
 rendition            NN1             1 
 of_our_own           IO              1 
 national_anthem      JJ              1 
@@ -243,10 +248,9 @@ these                DD2             1
 ebullient            JJ              1 
 mood                 NN1             1 
 quipped              VVD             1 
-Ive                  NP1             1 
-told                 VVD             1 
-Rudolf               NP1             1 
-i                    PPIS1           1 
+'ve                  VH0             1 
+told                 VVN             1 
+rudolf               VV0             1 
 plan                 VV0             1 
 spot                 VVI             1 
 big                  JJ              1 

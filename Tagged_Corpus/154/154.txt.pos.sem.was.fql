@@ -1,19 +1,22 @@
-TOTAL              485
+TOTAL              495
 the                  Z5                  28 
 a                    Z5                  17 
 to                   Z5                  15 
 of                   Z5                  14 
 by                   Z5                   9 
+'s                   Z5                   9 
 was                  Z5                   8 
 and                  Z5                   7 
+Monroe               Z1                   6 
 in                   Z5                   5 
+imperial             Z3                   5 
 on                   Z5                   5 
 his                  Z8                   5 
+it                   Z8                   5 
 have                 Z5                   4 
 Chanel               Z3                   4 
 perfume              B4                   4 
 had                  Z5                   4 
-Monroe               Z1                   4 
 her                  Z8                   4 
 who                  Z8                   4 
 with                 Z5                   4 
@@ -27,11 +30,8 @@ found                A10+                 3
 during               Z5                   3 
 items                O2                   3 
 left_behind          M2                   3 
-imperial             Z3                   3 
 two                  N1                   3 
-it                   Z8                   3 
 difficult            A12-                 3 
-its                  Z8                   3 
 asked                Q2.2                 2 
 she                  Z8                   2 
 wore                 B5                   2 
@@ -39,18 +39,18 @@ late                 T4-                  2
 said                 Q2.1                 2 
 owned                A9+                  2 
 famous               X2.2+                2 
-Tokyos               Z2                   2 
+Tokyo                Z2                   2 
 other                A6.1-                2 
 when                 Z5                   2 
 chest                B1                   2 
 old                  T3+                  2 
 that                 Z5                   2 
 1                    N1                   2 
-Imperials            Z3                   2 
 at                   Z5                   2 
 1954                 N1                   2 
 suite                H2                   2 
 which                Z8                   2 
+housekeeper          B4                   2 
 be                   Z5                   2 
 Namikoshi            Z99                  2 
 told                 Q2.1                 2 
@@ -75,7 +75,7 @@ why                  A2.2                 1
 of_course            Z4                   1 
 last_week            T1.1.1               1 
 been                 Z5                   1 
-Hollywoods           Z2                   1 
+Hollywood            Z2                   1 
 blonde_bombshell     O4.2+                1 
 repair_work          A5.1+                1 
 basement             H2                   1 
@@ -143,7 +143,6 @@ paper                Q4.2                 1
 report               Q2.2                 1 
 slip                 A5.3-                1 
 bearing              M2                   1 
-housekeepers         B4                   1 
 name                 Q2.2                 1 
 number               N5                   1 
 date                 T1.2                 1 
@@ -180,7 +179,6 @@ at_the_time          T1.1.1               1
 encounter            S3.1                 1 
 starlet              Z99                  1 
 admitted             Q2.2                 1 
-Monroes              Z99                  1 
 complete             N5.1+                1 
 lack                 A9-                  1 
 attire               B5                   1 
@@ -198,6 +196,7 @@ pressure             N3.5                 1
 soon                 T1.1.3               1 
 fell                 M1                   1 
 asleep               B1                   1 
+'s                   A3+                  1 
 entirely             A13.2                1 
 likely               A7+                  1 
 this                 Z8                   1 
@@ -212,7 +211,6 @@ as                   Z5                   1
 wiped                B4                   1 
 clear                A7+                  1 
 fingerprints         Q1.1                 1 
-housekeeper          B4                   1 
 added                N5+                  1 
 no                   Z6                   1 
 correspondence       Q1.2                 1 
@@ -228,10 +226,10 @@ for                  Z5                   1
 instructions         Q2.2                 1 
 where                M6                   1 
 send                 M2                   1 
-monroes              Z1                   1 
 uninhibited          E5+                  1 
 endorsement          S8+                  1 
 contributed          A9-                  1 
+its                  Z8                   1 
 wide                 N3.7+                1 
 popularity           E2+                  1 
 Japan_times          Z1                   1 

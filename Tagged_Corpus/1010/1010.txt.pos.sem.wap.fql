@@ -1,17 +1,17 @@
-TOTAL             1373
+TOTAL             1383
 the                  AT             78 
 and                  CC             43 
 drives               NN2            33 
 a                    AT1            32 
-Scorpio              NP1            29 
+Scorpio              NP1            28 
 hard                 JJ             27 
 drive                NN1            27 
 of                   IO             25 
 notebook             NN1            21 
-black                JJ             17 
 than                 CSN            16 
 blue                 JJ             16 
 that                 CST            16 
+black                JJ             16 
 to                   TO             15 
 for                  IF             15 
 your                 APPGE          13 
@@ -19,18 +19,19 @@ performance          NN1            13
 are                  VBR            12 
 is                   VBZ            11 
 power                NN1            11 
+western              JJ             11 
+we                   PPIS2          11 
+you                  PPY            10 
 with                 IW             10 
-western              JJ             10 
 in                   II             10 
 at                   II             10 
-we                   PPIS2           9 
 both                 DB2             9 
-you                  PPY             8 
 on                   II              8 
 but                  CCB             8 
 5400rpm              NNU             8 
 7200rpm              NNU             8 
 320gb                FO              8 
+laptop               NN1             7 
 consumption          NN1             7 
 battery              NN1             7 
 digital_Scorpio      JJ              7 
@@ -49,21 +50,21 @@ Toshiba              NP1             6
 data                 NN              5 
 drive                VV0             5 
 speed                NN1             5 
-laptop               NN1             5 
 faster               JJR             5 
 more                 DAR             5 
 500gb                FO              5 
 load                 NN1             5 
+that                 DD1             5 
+Scorpio_Black        NP1             5 
 in_terms_of          II31            4 
+'s                   VBZ             4 
 time                 NNT1            4 
 drives               VVZ             4 
 or                   CC              4 
 be                   VBI             4 
 temperature          NN1             4 
-that                 DD1             4 
 mk3252gsx            FO              4 
 were                 VBDR            4 
-Scorpio_Black        NP1             4 
 desktop              NN1             4 
 noise                NN1             4 
 an                   AT1             4 
@@ -88,7 +89,6 @@ head                 NN1             3
 technology           NN1             3 
 whisperdrive         VV0             3 
 about                II              3 
-have                 VH0             3 
 capacities           NN2             3 
 benchmark            NN1             3 
 by                   II              3 
@@ -98,6 +98,7 @@ full                 JJ              3
 however              RR              3 
 significantly        RR              3 
 lower                JJR             3 
+digital              JJ              3 
 comparison           NN1             3 
 average              JJ              3 
 operational          JJ              3 
@@ -110,7 +111,6 @@ our                  APPGE           3
 inside               II              2 
 how                  RGQ             2 
 computer             NN1             2 
-laptops              NN2             2 
 help                 VVI             2 
 make                 VVI             2 
 reviewing            VVG             2 
@@ -118,7 +118,9 @@ notebooks            NN2             2
 every                AT1             2 
 files                NN2             2 
 if                   CS              2 
-youre                NN1             2 
+'re                  VBR             2 
+was                  VBDZ            2 
+there                EX              2 
 want                 VV0             2 
 new                  JJ              2 
 what                 DDQ             2 
@@ -143,7 +145,8 @@ same                 DA              2
 as                   CSA             2 
 quieter              JJR             2 
 platter              NN1             2 
-well                 RR              2 
+'ll                  VM              2 
+have                 VH0             2 
 when                 CS              2 
 generally            RR              2 
 two                  MC              2 
@@ -166,7 +169,6 @@ read                 VVN             2
 SSD                  NP1             2 
 write                VV0             2 
 above                RL              2 
-digital              JJ              2 
 a_little             RR21            2 
 Seagate_Barracuda    NP1             2 
 7200.10              MC              2 
@@ -192,6 +194,7 @@ realize              VV0             1
 not_only             XX              1 
 store                VVI             1 
 impacts              NN2             1 
+'s                   GE              1 
 affects              VVZ             1 
 should               VM              1 
 replace              VVI             1 
@@ -220,9 +223,7 @@ means                VVZ             1
 happy                JJ              1 
 current              JJ              1 
 wish                 VV0             1 
-was                  VBDZ            1 
 a_little_bit         RR31            1 
-theres               NN2             1 
 good_chance          JJ              1 
 replacing            VVG             1 
 will                 VM              1 
@@ -271,7 +272,7 @@ securepark           VV0             1
 protect              VVI             1 
 mechanics            NN2             1 
 surfaces             NN2             1 
-talk                 VV0             1 
+talk                 VVI             1 
 depth                NN1             1 
 later_on             RRR             1 
 point                NN1             1 
@@ -284,7 +285,6 @@ candidates           NN2             1
 next                 MD              1 
 comes_to             VVZ             1 
 selecting            VVG             1 
-there                EX              1 
 things               NN2             1 
 have_to              VH0             1 
 decide               VVI             1 
@@ -332,6 +332,7 @@ approximately        RR              1
 80mb/sec             NNU             1 
 versus               II              1 
 200mb/sec            NNU             1 
+have                 VHI             1 
 review               NN1             1 
 very                 RG              1 
 soon                 RR              1 
@@ -395,7 +396,6 @@ tested               VVD             1
 30dba                FO              1 
 34dba                FO              1 
 feature              NN1             1 
-Western_Digitals     NP1             1 
 uses                 VVZ             1 
 advanced             JJ              1 
 seeking              NN1             1 
@@ -465,7 +465,6 @@ in_practice          II              1
 watts                NNU2            1 
 more_or_less         RRR             1 
 matter               NN1             1 
-thats                VVZ             1 
 conclusion           NN1             1 
 find                 VVI             1 
 get                  VVI             1 
@@ -501,7 +500,7 @@ cooler               JJR             1
 at_the_same_time     II              1 
 said                 VVD             1 
 unpleasant           JJ              1 
-wasnt                NN1             1 
+n't                  XX              1 
 end                  NN1             1 
 of_the_day           IO              1 
 fantastic            JJ              1 

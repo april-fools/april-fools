@@ -8,11 +8,11 @@ But since the global financial crisis there has been a gradual disillusionment w
 
 It is not only the populism fuelled by those who feel that the system has done little for them that explains this shift. Financiers and regulators have also moved away from embracing globalisation. Much hand-wringing has accompanied this retreat. But the reality of the way globalisation led to the crisis suggests the anxiety is overdone, given the excesses that the crisis spawned — especially if less developed financial markets can improve the way they allocate capital.
 
-Related article ‘Shadow banks’ step into the spotlight A range of finance institutions are challenging banks’ dominance of the lending market
+Related article ‘Shadow banks' step into the spotlight A range of finance institutions are challenging banks' dominance of the lending market
 
 The challenge will be to preserve the best possibilities of globalisation while curbing its worst excesses.
 
-Leading up to the crisis, money flowed in perverse ways. It went from higher growth emerging markets to slower growth developed markets. Much of these flows went into US Treasuries to bolster reserves on the part of emerging markets in the aftermath of their financial crisis in 1997-98. Those flows to the US and to the dollar, the only currency to have the privilege of being the world’s reserve currency, meant that profligate Americans could pay for ever-grander properties with money that was cheaper than it would otherwise be, even as emerging market borrowers had to pay more than if their money had stayed at home.
+Leading up to the crisis, money flowed in perverse ways. It went from higher growth emerging markets to slower growth developed markets. Much of these flows went into US Treasuries to bolster reserves on the part of emerging markets in the aftermath of their financial crisis in 1997-98. Those flows to the US and to the dollar, the only currency to have the privilege of being the world's reserve currency, meant that profligate Americans could pay for ever-grander properties with money that was cheaper than it would otherwise be, even as emerging market borrowers had to pay more than if their money had stayed at home.
 
 Since dollars were the one currency everyone wanted, and in which international banking business was conducted, European banks and non-banks borrowed those dollars in wholesale markets rather than relying on deposits to fund their own activities. This gave rise to what the Bank for International Settlements referred to as  <quote> “the transatlantic banking glut” </quote> .
 
@@ -30,9 +30,9 @@ At the same time, regulators in other jurisdictions — concerned with the speed
 
 There is no more dramatic illustration of the extent to which the US has turned its back on the world than to look at the swap lines the Federal Reserve maintains with its overseas counterparts to make dollars available in case of stress. The Fed maintains just five such lines, with Japan, the eurozone, the UK, Switzerland and Canada, according to Eswar Prasad of Cornell University and the Brookings Institution, a think-tank. Emerging market central bankers who have sought such lines have been routinely turned down.
 
-Even as the US steps back, China is taking a greater role on the global financial stage, despite slowing its timetable for dismantling capital controls. In contrast to the five swap lines from the Fed, the People’s Bank of China maintains 37.
+Even as the US steps back, China is taking a greater role on the global financial stage, despite slowing its timetable for dismantling capital controls. In contrast to the five swap lines from the Fed, the People's Bank of China maintains 37.
 
-Related article China curbs ‘Wild West’ loan sector The state is driving crude fraud from the online market but grey areas remain
+Related article China curbs ‘Wild West' loan sector The state is driving crude fraud from the online market but grey areas remain
 
 The rest of the world is trying to sidestep unpredictable US regulators, central bankers and politicians.  <quote> “Eighty-five per cent of trade never touches US borders,” </quote>  notes a spokesman for Citigroup, adding that in response to the growth in intra-Asian trade, the bank has opened more than 30 desks around the world to serve Asian multinationals.
 

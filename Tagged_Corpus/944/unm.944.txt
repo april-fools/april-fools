@@ -2,7 +2,6 @@ $82                      NNU     Z99
 addressable              JJ      Z99 
 Agilyx                   NN1     Z99 
 Agilyx                   NP1     Z99 
-Agilyxs                  VVZ     Z99 
 already-aggregated       NN1     Z99 
 bromine                  NN1     Z99 
 Chrysalix                VV0     Z99 
@@ -23,6 +22,6 @@ S4                       FO      Z99
 shredder                 NN1     Z99 
 SynCrude                 NP1     Z99 
 syngas                   NN2     Z99 
-TechAmericas             NN2@    Z99 
+TechAmerica              NP1     Z99 
 Terrabon                 NP1     Z99 
 thermochemical           JJ      Z99 

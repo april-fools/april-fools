@@ -1,23 +1,24 @@
-TOTAL              709
+TOTAL              716
 the                  Z5                  49 
 of                   Z5                  35 
 in                   Z5                  30 
 a                    Z5                  23 
 to                   Z5                  19 
+Melco                Z99                 13 
+international        M7                  13 
 for                  Z5                  13 
 said                 Q2.1                13 
-Melco                Z99                 12 
 and                  Z5                  12 
-international        M7                  11 
+casino               K5.2                11 
 2016                 N1                   9 
-casino               K5.2                 9 
 it                   Z8                   8 
 billion              N1                   7 
+'s                   Z5                   7 
 ltd                  I2.1                 6 
 million              N1                   6 
 company              I2.1                 6 
 profit               I1.1                 5 
-gaming               I1                   5 
+Melco_crown          Z1                   5 
 reported             Q2.2                 5 
 on                   Z5                   5 
 as                   Z5                   5 
@@ -25,10 +26,11 @@ Mr_Ho                Z1                   5
 summit               W3                   5 
 ascent               M1                   5 
 Tigre_de_Cristal     Z1                   5 
-Melco_crown          Z1                   4 
 by                   Z5                   4 
+gaming               I1                   4 
 net                  N5                   4 
 that                 Z8                   4 
+Macau                Z2                   4 
 is                   Z5                   4 
 has                  Z5                   4 
 new                  T3-                  4 
@@ -43,7 +45,6 @@ year                 T1.3                 3
 approximately        A13.4                3 
 will                 T1.1.3               3 
 firm                 I2.1                 3 
-Macau                Z2                   3 
 Japan                Z2                   3 
 russian              Z2                   3 
 licence              G1.1                 3 
@@ -53,7 +54,6 @@ period               T1.3                 2
 filing               Q1.2                 2 
 strong               S1.2.5+              2 
 growth               N3.2+                2 
-market               I2.2                 2 
 signs                Q1.1                 2 
 recovery             B2+                  2 
 was                  A3+                  2 
@@ -63,7 +63,6 @@ operator             Q1.3                 2
 crown                Z3                   2 
 resorts              S6+                  2 
 interest             X5.2+                2 
-Melco_Internationals Z1                   2 
 that                 Z5                   2 
 had                  Z5                   2 
 been                 Z5                   2 
@@ -77,6 +76,7 @@ dividend             I1.1                 2
 2017                 N1                   2 
 we                   Z8                   2 
 see                  X3.4                 2 
+group                S5+                  2 
 markets              I2.2                 2 
 south_Korea          Z2                   2 
 Cyprus               Z2                   2 
@@ -89,8 +89,7 @@ resort               S6+                  2
 first                N4                   2 
 full                 N5.1+                2 
 operations           A1.1.1               2 
-casinos              K5.2                 2 
-rolling              M1                   2 
+rolling              N3.8-                2 
 chip                 F1                   2 
 vip                  A11.1+               2 
 second               N4                   2 
@@ -112,7 +111,7 @@ prior-year           Z99                  1
 Hong_Kong            Z2                   1 
 stock_exchange       I2.1                 1 
 came                 M1                   1 
-Macaus               Z2                   1 
+gaming_market        I1                   1 
 started              T2+                  1 
 show                 A10+                 1 
 due_to               A2.2                 1 
@@ -123,7 +122,6 @@ having               Z5                   1
 taken_control        S7.1+                1 
 entertainment        K1                   1 
 became               A2.1+                1 
-crowns               S7.1+                1 
 single               N5---                1 
 largest              N3.2+++              1 
 shareholder          I1.1                 1 
@@ -195,7 +193,6 @@ during               Z5                   1
 third                N4                   1 
 quarter              N1                   1 
 Lawrence_Ho          Z1                   1 
-group                S5+                  1 
 chairman             S7.1+                1 
 chief_executive      S7.1+                1 
 prepared             X7+                  1 
@@ -236,7 +233,6 @@ feeling              X2.1                 1
 confident            E6+                  1 
 regarding            Z5                   1 
 his                  Z8                   1 
-groups               S5+                  1 
 intended             X7+                  1 
 bid                  I2.2                 1 
 holdings             A9+                  1 
@@ -296,6 +292,7 @@ both                 N5                   1
 competitive          S7.3+                1 
 be                   A3+                  1 
 boon                 S8+                  1 
+market               I2.2                 1 
 not                  Z6                   1 
 unlike               A6.1-                1 
 what                 Z8                   1 

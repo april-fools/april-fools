@@ -1,9 +1,7 @@
 anti-Jewish              JJ      Z99 
 antisemitism             NN1     Z99 
-Boris                    NP1     Z99 
 Brexit                   NN1     Z99 
 Brexit                   NP1     Z99 
-Brexit                   VV0     Z99 
 centuries-old            JJ      Z99 
 conflation               NN1     Z99 
 despondency              NN1     Z99 
@@ -13,12 +11,10 @@ fidgeting                VVG     Z99
 Fillon                   NP1@    Z99 
 impotence                NN1     Z99 
 Islamophobia             NP1     Z99 
-isnt                     NN1     Z99 
-isnt                     VV0     Z99 
 Jew-spotting             JJ      Z99 
 jingoism                 NN1     Z99 
 jumpy                    JJ      Z99 
-Macrons                  NP1     Z99 
+Macron                   NP1     Z99 
 mutate                   VVI     Z99 
 neo-Nazis                NN2     Z99 
 normalisation            NN1     Z99 

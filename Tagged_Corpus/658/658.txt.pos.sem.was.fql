@@ -1,4 +1,4 @@
-TOTAL              533
+TOTAL              535
 the                  Z5                  45 
 a                    Z5                  19 
 to                   Z5                  17 
@@ -17,6 +17,7 @@ on                   Z5                   5
 have                 A9+                  5 
 said                 Q2.1                 5 
 might                A7+                  4 
+labour               G1.2                 4 
 majority             N5+++                4 
 not                  Z6                   4 
 leader               S7.1+                4 
@@ -27,7 +28,6 @@ Northern_Ireland     Z2                   4
 data                 X2.2                 4 
 is                   A3+                  3 
 likely               A7+                  3 
-labour               G1.2                 3 
 conservative         G1.2                 3 
 which                Z8                   3 
 but                  Z5                   3 
@@ -58,6 +58,7 @@ seats                H5                   2
 tories               G1.2                 2 
 its                  Z8                   2 
 each                 N5.1+                2 
+'                    Z5                   2 
 policies             X7+                  2 
 other                A6.1-                2 
 these                Z5                   2 
@@ -152,7 +153,7 @@ mps                  G1.1                 1
 Ukip_four            Z2                   1 
 social               S1.1.1               1 
 labour_party         Z3                   1 
-labours              A1.1.1               1 
+'s                   Z5                   1 
 sister               S4                   1 
 welsh                Z2                   1 
 nationalists         M7                   1 
@@ -249,7 +250,6 @@ as                   Z5                   1
 buttons              B5                   1 
 below                M6                   1 
 explore              M1                   1 
-'                    Z5                   1 
 fortunes             I1.1+++              1 
 changed              A2.1+                1 
 graphics             C1                   1 

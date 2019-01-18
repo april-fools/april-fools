@@ -3,7 +3,6 @@
 Alaskan                  JJ      Z99 
 Caucus                   NN1     Z99 
 caucuses                 NN2     Z99 
-Im                       VV0     Z99 
-Ive                      NP1     Z99 
+Giver'                   NN1@    Z99 
 McCain                   NP1     Z99 
 mongoose                 NN1     Z99 

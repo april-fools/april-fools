@@ -1,4 +1,4 @@
-TOTAL              719
+TOTAL              717
 the                  AT             31 
 and                  CC             24 
 he                   PPHS1          19 
@@ -90,6 +90,7 @@ too                  RG              2
 Mr._Garabedian       NNB             2 
 single               JJ              2 
 our                  APPGE           2 
+April_fool_'s_day    NPM1            2 
 below                RL              2 
 Los_Angeles          NP1             1 
 --                   JJ              1 
@@ -353,7 +354,6 @@ cool                 RR              1
 enough               RR              1 
 appreciate           VVI             1 
 annual               JJ              1 
-April_fool_'s_day    NPM1            1 
 gag                  NN1             1 
 year                 NNT1            1 
 100%                 NNU             1 
@@ -366,9 +366,6 @@ playing_along        VVG             1
 folks                NN2             1 
 oh                   UH              1 
 past                 JJ              1 
-April                NPM1            1 
-fools                NN2             1 
-Day                  NP1             1 
 stories              NN2             1 
 click                VV0             1 
 links                NN2             1 

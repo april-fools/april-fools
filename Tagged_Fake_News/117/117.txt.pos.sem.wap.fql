@@ -1,4 +1,4 @@
-TOTAL              204
+TOTAL              206
 the                  AT             12 
 to                   TO              6 
 of                   IO              5 
@@ -27,6 +27,7 @@ trump                NN1             2
 can                  VM              2 
 they                 PPHS2           2 
 he                   PPHS1           2 
+'s                   VBZ             2 
 all                  DB              2 
 their                APPGE           2 
 to                   II              2 
@@ -45,7 +46,7 @@ know                 VV0             1
 you                  PPY             1 
 thinking             VVG             1 
 we                   PPIS2           1 
-nt                   XX              1 
+n't                  XX              1 
 want                 VVI             1 
 Donald               NP1             1 
 bed                  NN1             1 
@@ -76,7 +77,7 @@ while                VV0             1
 securing             VVG             1 
 for                  IF              1 
 himself              PPX1            1 
-thats                VVZ             1 
+that                 DD1             1 
 unlike               JJ              1 
 normal               JJ              1 
 politicians          NN2             1 
@@ -116,7 +117,7 @@ empire               NN1             1
 vast                 JJ              1 
 fortune              NN1             1 
 since                CS              1 
-its                  APPGE           1 
+it                   PPH1            1 
 mutual               JJ              1 
 how                  RRQ             1 
 could                VM              1 

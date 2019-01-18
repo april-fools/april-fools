@@ -1,4 +1,4 @@
-TOTAL              328
+TOTAL              330
 the                  AT             28 
 of                   IO             14 
 documents            NN2             7 
@@ -7,6 +7,7 @@ and                  CC              7
 that                 CST             7 
 program              NN1             6 
 a                    AT1             6 
+NASA                 NP1             5 
 Apollo               NP1             5 
 government           NN1             5 
 this                 DD1             4 
@@ -15,7 +16,6 @@ wikileaks            NN2             4
 could                VM              4 
 has                  VHZ             4 
 to                   II              4 
-NASA                 NP1             4 
 for                  IF              4 
 by                   II              3 
 in                   II              3 
@@ -33,6 +33,7 @@ reveal               VVI             2
 damaging             JJ              2 
 information          NN1             2 
 about                II              2 
+'s                   GE              2 
 who                  PNQS            2 
 announced            VVN             2 
 evidence             NN1             2 
@@ -53,12 +54,11 @@ chinese              JJ              2
 new                  JJ              1 
 scheduled            VVN             1 
 founder              NN1             1 
-NASAs                NP2             1 
 believe              VV0             1 
 experts              NN2             1 
 lived                VVN             1 
 at                   II              1 
-Ecuadors             NP2             1 
+Ecuador              NP1             1 
 London               NP1             1 
 embassy              NN1             1 
 since                II              1 

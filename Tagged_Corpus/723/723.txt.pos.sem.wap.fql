@@ -1,25 +1,26 @@
-TOTAL              376
+TOTAL              381
 the                  AT             18 
 and                  CC             11 
 sex                  NN1             9 
 that                 CST             9 
+author               NN1             8 
 is                   VBZ             8 
 on_the_side          II              7 
 a                    AT1             7 
 of                   IO              6 
-author               NN1             6 
 her                  APPGE           6 
 by                   II              5 
+it                   PPH1            5 
 be                   VBI             5 
 women                NN2             5 
+she                  PPHS1           5 
 with                 IW              5 
 to                   II              4 
-it                   PPH1            4 
-she                  PPHS1           4 
 in                   II              4 
 he                   PPHS1           4 
 on                   II              4 
 CHICAGO              NP1             3 
+'s                   GE              3 
 not                  XX              3 
 men                  NN2             3 
 for                  IF              3 
@@ -38,9 +39,11 @@ autumn               NNT1            2
 girl                 NN1             2 
 press                NN1             2 
 though               CS              2 
+n't                  XX              2 
 romantic             JJ              2 
 comedy               NN1             2 
-authors              NN2             2 
+'s                   VBZ             2 
+no                   AT              2 
 an                   AT1             2 
 doctor               NN1             2 
 so                   RG              2 
@@ -55,8 +58,7 @@ several              DA2             2
 il                   FW              1 
 send2press           FO              1 
 NEWSWIRE             NP1             1 
-Sidestepping         NP1             1 
-Hollywoods           NP2             1 
+Sidestepping_Hollywood NP1             1 
 closed-door          JJ              1 
 policy               NN1             1 
 writing              VVG             1 
@@ -80,9 +82,8 @@ yet                  RR              1
 produced             JJ              1 
 film                 NN1             1 
 does                 VDZ             1 
-nt                   XX              1 
 mean                 VVI             1 
-cant                 NN1             1 
+ca                   VM              1 
 read                 VVN             1 
 enjoyed              VVN             1 
 broad                JJ              1 
@@ -100,8 +101,6 @@ motivated            VVN             1
 as                   CSA             1 
 maybe                RR              1 
 more_so              RGR             1 
-its                  APPGE           1 
-no                   NN1             1 
 secret               NN1             1 
 inspiration          NN1             1 
 tale                 NN1             1 
@@ -118,13 +117,11 @@ who                  PNQS            1
 shall                VM              1 
 remain               VVI             1 
 nameless             JJ              1 
-shes                 NN2             1 
 ashamed              JJ              1 
 to                   TO              1 
 admit                VVI             1 
 at_that_time         II              1 
 held                 VVD             1 
-no                   AT              1 
 interest             NN1             1 
 meaningless          JJ              1 
 despite              II              1 
@@ -197,7 +194,7 @@ Barnes               NP1             1
 Noble                NP1             1 
 store                NN1             1 
 worldwide            RL              1 
-wish                 VV0             1 
+wish                 NN1             1 
 publication          NN1             1 
 generate             VVI             1 
 market               NN1             1 

@@ -102,6 +102,7 @@
 0000004 640  II      on                       Z5 
 0000004 650  AT      the                      Z3c[i8.2.1 Z5 
 0000004 660  NN2     birds                    Z3c[i8.2.2 L2mfn S2.1f 
+0000004 661  GE      '                        Z5 
 0000004 670  JJ      upper                    M6 A11.1++ 
 0000004 680  NN1     chest                    B1 O2 
 0000004 681  ,       ,                        
@@ -143,7 +144,7 @@
 0000006 180  VVZ     believes                 X2.1 S9% 
 0000006 190  CST     that                     Z8 Z5 
 0000006 200  PPHS1   he                       Z8m 
-0000006 201  VBZ     s                        Z5 
+0000006 201  VBZ     's                       Z5 A3+ 
 0000006 210  VVN     found                    A10+ X2.1 X6+.1 
 0000006 220  AT1     a                        Z5 
 0000006 230  JJ      new                      T3- 
@@ -199,7 +200,8 @@
 0000010 020  NN2     birdwatchers             Z99 
 0000010 021  !       !                        
 0000010 022  -----   -----                    
-0000010 030  NN1     Theyll                   Z99 
+0000010 030  PPHS2   They                     Z8mfn 
+0000010 031  VM      'll                      T1.1.3 
 0000010 040  VBI     be                       Z5 A3+ 
 0000010 050  VVG     swarming                 M1 N5+ 
 0000010 060  RR      all                      N5.1+[i17.2.1 A13.2 
@@ -222,8 +224,9 @@
 0000012 040  II      to                       Z5 
 0000012 050  NNB     Dr.                      B3/S2mf P1/S2mf 
 0000012 060  NP1     Derekson                 Z99 
-0000012 070  CST     that                     Z5 Z8 
-0000012 080  APPGE   its                      Z8 
+0000012 070  CST     that                     Z8 Z5 
+0000012 080  PPH1    it                       Z8 
+0000012 081  VBZ     's                       A3+ Z5 
 0000012 090  RG      very                     A13.3 
 0000012 100  JJ      unlikely                 A7- 
 0000012 110  CST     that                     Z5 Z8 

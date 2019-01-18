@@ -10,7 +10,8 @@
 0000002 070  NN1     Side                     M6[i1.3.1 T1.1.2[i1.3.1 S5+[i1.3.1 A4.1 M6 N5.1- S7.3+/S5+c B1 S5+c S4c F1 S1.2 
 0000002 080  II      by                       M6[i1.3.2 T1.1.2[i1.3.2 S5+[i1.3.2 Z5 
 0000002 090  NN1     Side                     M6[i1.3.3 T1.1.2[i1.3.3 S5+[i1.3.3 A4.1 M6 N5.1- S7.3+/S5+c B1 S5+c S4c F1 S1.2 
-0000003 010  NN2     Facebooks                Z3c/Y2 
+0000003 010  NP1     Facebook                 Z3c/Y2 
+0000003 011  GE      's                       Z5 
 0000003 020  NN1     role                     I3.1 K4 S1.1.1 A1.1.1 
 0000003 030  II      in                       Z5 
 0000003 040  VVG     providing                A9- 
@@ -64,7 +65,7 @@
 0000003 470  NN2     posts                    Q1.2 O2 I3.1 M6 
 0000003 480  CST     that                     Z8 Z5 
 0000003 490  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000003 491  XX      nt                       S9/Q4.1 Z3c 
+0000003 491  XX      n't                      Z6 
 0000003 500  VVI     appear                   A8 A10+ A3+ G2.1 K4 Q4 
 0000003 510  II      in                       Z5 
 0000003 520  APPGE   their                    Z8 
@@ -139,7 +140,8 @@
 0000005 580  NN1     majority                 N5+++c 
 0000005 590  IO      of                       Z5 
 0000005 600  DD1     each                     N5.1+ 
-0000005 610  NN2     sources                  T2+ Q1.1 X2.2 W3/M4 
+0000005 610  NN1     source                   T2+ Q1.1 X2.2 W3/M4 
+0000005 611  GE      's                       Z5 
 0000005 620  NN2     articles                 Q4.2 O2 Q3 G2.1/P1@ 
 0000005 630  VVD     aligned                  M2 S5+ A6.1+/A2.1 
 0000005 640  RG      very                     A13.3 

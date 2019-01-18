@@ -631,9 +631,10 @@
 0000016 400  TO      to                       Z5 
 0000016 410  VVI     replace                  A2.1+ M2 
 0000016 420  AT      the                      Z5 
-0000016 430  NP2     NTIAs                    Z99 
-0000016 431  NULL    <quote>                  
-0000016 432  -----   -----                    
+0000016 430  NP1     NTIA                     Z99 
+0000016 431  GE      's                       Z5 
+0000016 432  NULL    <quote>                  
+0000016 433  -----   -----                    
 0000016 440  JJ      procedural               X4.2 
 0000016 450  NN1     role                     I3.1 K4 S1.1.1 A1.1.1 
 0000016 460  IO      of                       Z5 
@@ -917,7 +918,8 @@
 0000030 800  II      to                       Z5 
 0000030 810  AT      the                      Z5 
 0000030 820  NN1     ICG                      Z99 
-0000030 830  NN2     proposals                Q2.2 X7+ S3.2/Q2.2 
+0000030 830  NN1     proposal                 Q2.2 X7+ S3.2/Q2.2 
+0000030 831  VBZ     's                       Z5 A3+ 
 0000030 840  VBG     being                    A3+ Z5 
 0000030 850  RR      largely                  A13.2 
 0000030 860  VV0     complete                 T2- Q1.2 
@@ -1059,7 +1061,8 @@
 0000034 590  CST     that                     Z8 Z5 
 0000034 600  VV0     make                     A5.2-[i19.2.1 B4[i19.2.1 N5[i19.2.1 S3.1[i19.2.1 A1.1.1[i19.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
 0000034 610  RP      up                       A5.2-[i19.2.2 B4[i19.2.2 N5[i19.2.2 S3.1[i19.2.2 A1.1.1[i19.2.2 
-0000034 620  VVZ     ICANNs                   Z99 
+0000034 620  NP1     ICANN                    Z99 
+0000034 621  GE      's                       Z5 
 0000034 630  JJ      Generic                  A4.2- 
 0000034 640  NN2     Names                    Q2.2 
 0000034 650  VVG     Supporting               S8+ A1.1.1 K5.1 I1.1 A10+ 
@@ -1165,7 +1168,8 @@
 0000036 360  NNT2    months                   T1.1.1[i21.5.5 T1.3 
 0000036 361  ,       ,                        
 0000036 370  AT      the                      Z5 
-0000036 380  NN2     CCWG-Accountabilitys     Z99 
+0000036 380  NN1     CCWG-Accountability      Z99 
+0000036 381  GE      's                       Z5 
 0000036 390  MC      28                       N1 T1.2 T3 T1.3 N3.2 
 0000036 400  NN2     members                  S5+/S2mf B1 
 0000036 410  CC      and                      Z5 
@@ -1441,7 +1445,8 @@
 0000044 020  JJ      notable                  A11.2+ A11.1+ 
 0000044 030  VBDZ    was                      A3+ Z5 
 0000044 040  AT      the                      Z5 
-0000044 050  NN2     boards                   S7.1+/S5+c O2 O1.1 H4 P1 K5.1 
+0000044 050  NN1     board                    S7.1+/S5+c O2 O1.1 H4 P1 K5.1 
+0000044 051  GE      's                       Z5 
 0000044 060  NN1     opposition               S8-/E2- S7.3+ A6.1- 
 0000044 070  II      to                       Z5 
 0000044 080  AT      the                      Z5 
@@ -1556,8 +1561,9 @@
 0000046 180  PPHO2   them                     Z8mfn 
 0000046 190  VBDZ    was                      A3+ Z5 
 0000046 200  AT      the                      Z5 
-0000046 210  NN2     boards                   S7.1+/S5+c O2 O1.1 H4 P1 K5.1 
-0000046 220  VV0@    concern                  E6- A1.8+ S1.1.3+ 
+0000046 210  NN1     board                    S7.1+/S5+c O2 O1.1 H4 P1 K5.1 
+0000046 211  GE      's                       Z5 
+0000046 220  NN1     concern                  E6- I2.1 
 0000046 230  CST     that                     Z5 Z8 
 0000046 240  AT      the                      Z5 
 0000046 241  NULL    <quote>                  
@@ -1628,7 +1634,8 @@
 0000046 790  DA1     much                     N5.2+[i36.2.2 N5+ I1.3+ 
 0000046 800  NN1     power                    S7.1+ O3 S1.2.5+ N2@ 
 0000046 810  II      over                     Z5 
-0000046 820  NN2     ICANNs                   Z99 
+0000046 820  NP1     ICANN                    Z99 
+0000046 821  GE      's                       Z5 
 0000046 830  NN2     operations               A1.1.1 B3 G3 
 0000046 831  .       .                        
 0000047 001  -----   -----                    
@@ -1637,7 +1644,8 @@
 0000048 030  NN1     face                     B1 W3 O2 A8 S1.2.3+ 
 0000048 040  IO      of                       Z5 
 0000048 050  AT      the                      Z5 
-0000048 060  NN2     boards                   S7.1+/S5+c O2 O1.1 H4 P1 K5.1 
+0000048 060  NN1     board                    S7.1+/S5+c O2 O1.1 H4 P1 K5.1 
+0000048 061  GE      's                       Z5 
 0000048 070  NN1     opposition               S8-/E2- S7.3+ A6.1- 
 0000048 071  ,       ,                        
 0000048 080  AT      the                      Z5 
@@ -1867,7 +1875,8 @@
 0000050 190  CSA     As                       Z5 
 0000050 200  VVN     noted                    Q2.1 Q1.2 
 0000050 210  II      by                       Z5 
-0000050 220  NN2     ICANNs                   Z99 
+0000050 220  NP1     ICANN                    Z99 
+0000050 221  GE      's                       Z5 
 0000050 230  JJ      Intellectual             X2 X2.1 
 0000050 240  NN1     Property                 A9+ H1/H3 O4.1 
 0000050 250  NN1     Constituency             G1.2/M7 
@@ -1955,8 +1964,9 @@
 0000052 640  MC      15                       N1 T1.2 T3 T1.3 N3.2 
 0000052 641  )       &rsqb;                   
 0000054 010  AT      The                      Z5 
-0000054 020  NN2     boards                   S7.1+/S5+c O2 O1.1 H4 P1 K5.1 
-0000054 030  VV0     comment                  Q2.1 
+0000054 020  NN1     board                    S7.1+/S5+c O2 O1.1 H4 P1 K5.1 
+0000054 021  GE      's                       Z5 
+0000054 030  NN1     comment                  Q2.1 
 0000054 040  VVN     led                      S7.1+ A2.2 M2 A1.1.1 
 0000054 050  II      to                       Z5 
 0000054 060  NN2     changes                  A2.1+ I1 B1 
@@ -2341,7 +2351,8 @@
 0000064 100  VBI     be                       A3+ Z5 
 0000064 110  JJ      familiar                 A6.2+ S1.2.1+ 
 0000064 120  IW      with                     Z5 
-0000064 130  NP2     ICANNs                   Z99 
+0000064 130  NP1     ICANN                    Z99 
+0000064 131  GE      's                       Z5 
 0000064 140  NN1     structure                O4.1 H1 S7.1 O2 A4.1 X4.2 B1 
 0000064 150  CC      and                      Z5 
 0000064 160  NN2     processes                A1.1.1 X4.2 
@@ -2427,15 +2438,17 @@
 0000066 140  VVZ     establishes              T2+ X6+ 
 0000066 150  JJ      necessary                S6+ A11.1+ 
 0000066 160  NN2     limits                   N5.1 A1.7+ M7 
-0000066 170  II      to                       Z5 
-0000066 180  NP2     ICANNs                   Z99 
+0000066 170  TO      to                       Z5 
+0000066 180  VVI     ICANN                    Z99 
+0000066 181  VBZ     's                       A3+ Z5 
 0000066 190  NN1     area                     M7 A4.1 N3.6 
 0000066 200  IO      of                       Z5 
 0000066 210  NN1     responsibility           S6+ S7.1+ X6+ 
 0000066 211  .       .                        
 0000067 001  -----   -----                    
 0000068 010  JJ      Limiting                 A1.7+ 
-0000068 020  NN2     ICANNs                   Z99 
+0000068 020  NN1     ICANN                    Z99 
+0000068 021  GE      's                       Z5 
 0000068 030  NN1     mission                  X7+ G3 S9 S9/H1 
 0000068 031  .       .                        
 0000068 032  -----   -----                    
@@ -2528,7 +2541,8 @@
 0000068 840  JJ      CCWG-Accountability      Z99 
 0000068 850  NN1     proposal                 Q2.2 X7+ S3.2/Q2.2 
 0000068 851  ,       ,                        
-0000068 860  VVZ     ICANNs                   Z99 
+0000068 860  NP1     ICANN                    Z99 
+0000068 861  GE      's                       Z5 
 0000068 870  NN1     mission                  X7+ G3 S9 S9/H1 
 0000068 880  VM      would                    A7+ 
 0000068 890  VBI     be                       A3+ Z5 
@@ -2658,7 +2672,8 @@
 0000070 110  NN2     mechanisms               O2 
 0000070 120  CC      and                      Z5 
 0000070 130  VVG     clarifying               A7+/Q2.2 
-0000070 140  NN2     ICANNs                   Z99 
+0000070 140  NP1     ICANN                    Z99 
+0000070 141  GE      's                       Z5 
 0000070 150  NN1     mission                  X7+ G3 S9 S9/H1 
 0000070 151  ,       ,                        
 0000070 160  VBDR    were                     Z5 A3+ 
@@ -2735,7 +2750,8 @@
 0000072 080  NN2     mechanisms               O2 
 0000072 090  CC      and                      Z5 
 0000072 100  VVG     clarifying               A7+/Q2.2 
-0000072 110  NN2     ICANNs                   Z99 
+0000072 110  NP1     ICANN                    Z99 
+0000072 111  GE      's                       Z5 
 0000072 120  NN1     mission                  X7+ G3 S9 S9/H1 
 0000072 121  ,       ,                        
 0000072 130  VBDR    were                     Z5 A3+ 
@@ -2830,7 +2846,8 @@
 0000072 920  II      by                       Z5 
 0000072 930  MC      five                     N1 T3 T1.2 
 0000072 940  IO      of                       Z5 
-0000072 950  NP2     ICANNs                   Z99 
+0000072 950  NP1     ICANN                    Z99 
+0000072 951  GE      's                       Z5 
 0000072 960  FU      SO/ACs                   Z99 
 0000072 961  :       :                        
 0000072 970  AT      the                      Z5 
@@ -4027,7 +4044,8 @@
 0000082 650  VM      can                      A7+ 
 0000082 660  VVI     trigger                  A2.2 
 0000082 670  AT      the                      Z5 
-0000082 680  NN2     boards                   S7.1+/S5+c O2 O1.1 H4 P1 K5.1 
+0000082 680  NN1     board                    S7.1+/S5+c O2 O1.1 H4 P1 K5.1 
+0000082 681  GE      's                       Z5 
 0000082 690  NN1     obligation               S6+ 
 0000082 700  TO      to                       Z5 
 0000082 710  VVI     find                     A10+ X2.1 X6+ 
@@ -4290,7 +4308,8 @@
 0000082 920  ZZ1     r                        Z5 
 0000082 921  )       &rsqb;                   
 0000082 930  VVG     eplacing                 Z99 
-0000082 940  NN2     NTIAs                    Z99 
+0000082 940  NP1     NTIA                     Z99 
+0000082 941  GE      's                       Z5 
 0000082 950  NN1     role                     I3.1 K4 S1.1.1 A1.1.1 
 0000082 960  IW      with                     Z5 
 0000082 970  DD1     another                  A6.1- N5++ 
@@ -4340,7 +4359,8 @@
 0000082 360  TO      to                       Z5 
 0000082 370  VVI     sit                      M8 C1 P1 G1.1 G2.1 M6 A9+ 
 0000082 380  II      on                       Z5 
-0000082 390  NP2     ICANNs                   Z99 
+0000082 390  NP1     ICANN                    Z99 
+0000082 391  GE      's                       Z5 
 0000082 400  NN1     Board                    S7.1+/S5+c O2 O1.1 H4 P1 K5.1 
 0000082 401  ,       ,                        
 0000082 410  JJ      limiting                 A1.7+ 
@@ -4360,7 +4380,8 @@
 0000082 531  ,       ,                        
 0000082 540  CC      and                      Z5 
 0000082 550  VVG     amending                 A2.1+ 
-0000082 560  NN2     ICANNs                   Z99 
+0000082 560  NP1     ICANN                    Z99 
+0000082 561  GE      's                       Z5 
 0000082 570  NN2     bylaws                   G2.1 
 0000082 580  TO      to                       Z5 
 0000082 590  RR      only                     A14 
@@ -4921,7 +4942,8 @@
 0000086 910  II      in                       Z5 
 0000086 920  AT      the                      Z5 
 0000086 930  NN2     bylaws                   G2.1 
-0000086 940  VVG     drafting                 Q1.2 G3 M2 
+0000086 931  GE      '                        Z5 
+0000086 940  NN1     drafting                 Q1.2 G3 M2 
 0000086 950  CC      or                       Z5 
 0000086 960  VVG     implementing             A1.1.1 A9-/O2 
 0000086 970  NNU     language.                Q3 Y2 
@@ -4980,7 +5002,8 @@
 0000086 400  PPHS2   they                     Z8mfn 
 0000086 410  VM      will                     T1.1.3 
 0000086 420  VVI     affect                   A2.1+ A5.4-/A8 
-0000086 430  NN2     ICANNs                   Z99 
+0000086 430  NP1     ICANN                    Z99 
+0000086 431  GE      's                       Z5 
 0000086 440  JJ      day-to-day               T1.1.2 A6.2+ 
 0000086 450  NN2     operations               A1.1.1 B3 G3 
 0000086 460  CC      or                       Z5 
@@ -5066,8 +5089,9 @@
 0000086 180  VM      should                   S6+ A7+ 
 0000086 190  VVI     share                    S1.1.2+ 
 0000086 200  AT      the                      Z5 
-0000086 210  NP1     IPCs                     Z3c 
-0000086 220  VVZ     concerns                 E6- A1.8+ S1.1.3+ 
+0000086 210  NP1     IPC                      Z3c 
+0000086 211  GE      's                       Z5 
+0000086 220  NN2     concerns                 E6- I2.1 
 0000086 230  II      about                    Z5 
 0000086 240  NN1     implementation           A1.1.1 O2 S6+ 
 0000086 241  .       .                        
@@ -5336,7 +5360,8 @@
 0000092 670  VVN     compounded               N5+/A2.1 
 0000092 680  II      by                       Z5 
 0000092 690  AT      the                      Z5 
-0000092 700  NN2     GACs                     Z99 
+0000092 700  NN1     GAC                      Z99 
+0000092 701  VBZ     's                       Z5 A3+ 
 0000092 710  VBG     being                    A3+ Z5 
 0000092 720  AT1     a                        Z5 
 0000092 730  JJ      decisional               Z99 
@@ -5469,7 +5494,8 @@
 0000094 920  NN1     doubt                    A7- 
 0000094 930  II      on                       Z5 
 0000094 940  AT      the                      Z5 
-0000094 950  NN2     communitys               S5+c 
+0000094 950  NN1     community                S5+c 
+0000094 951  GE      's                       Z5 
 0000094 960  NN1     ability                  X9.1+ 
 0000094 970  CC      or                       Z5 
 0000094 980  NN1     willingness              X7+ X5.2+ 
@@ -5815,7 +5841,8 @@
 0000102 080  NN1     resumption               T2+/N6+ 
 0000102 090  IO      of                       Z5 
 0000102 100  AT      the                      Z5 
-0000102 110  NP2     NTIAs                    Z99 
+0000102 110  NP1     NTIA                     Z99 
+0000102 111  GE      's                       Z5 
 0000102 120  JJ      historical               T1.1.1 T3+ 
 0000102 130  NN1     relationship             S3.1 S3.2 A2.2 S4 
 0000102 140  IW      with                     Z5 
@@ -5838,7 +5865,8 @@
 0000102 280  JJ      proposed                 Q2.2/X7+ X4.1 G1.2 Q2.2/S4 
 0000102 290  NN2     changes                  A2.1+ I1 B1 
 0000102 300  II      in                       Z5 
-0000102 310  NP2     ICANNs                   Z99 
+0000102 310  NP1     ICANN                    Z99 
+0000102 311  GE      's                       Z5 
 0000102 320  NN1     structure                O4.1 H1 S7.1 O2 A4.1 X4.2 B1 
 0000102 330  CC      and                      Z5 
 0000102 340  NN1     governance               G1.1 
@@ -5933,8 +5961,9 @@
 0000102 180  NN1     stakeholder              I1.1/S2mf 
 0000102 190  NN2     groups                   S5+ A4.1 B3% 
 0000102 200  II      in                       Z5 
-0000102 210  NN2     ICANNs                   Z99 
-0000102 220  VV0     multistakeholder         Z99 
+0000102 210  NP1     ICANN                    Z99 
+0000102 211  GE      's                       Z5 
+0000102 220  NN1     multistakeholder         Z99 
 0000102 230  NN1     model                    O2/A5.4- A4.1 X4.2 A5.1+++ C1/S2mf B5/I3.2/S2mf 
 0000102 231  .       .                        
 0000102 232  -----   -----                    
@@ -6369,7 +6398,8 @@
 0000106 050  NN2     rights                   G1.2[i155.2.2 G2.1[i155.2.2 S7.4+ G2.2+ M6 G1.2 
 0000106 060  TO      to                       Z5 
 0000106 070  VVI     protect                  S8+/A15+ A10- 
-0000106 080  NN2     ICANNs                   Z99 
+0000106 080  NP1     ICANN                    Z99 
+0000106 081  GE      's                       Z5 
 0000106 090  JJ      narrow                   N3.7- A1.7+ N5- A13.6 
 0000106 100  NN1     scope                    A1.7- A4.1 
 0000106 110  CC      and                      Z5 
@@ -6390,7 +6420,8 @@
 0000106 240  JJ      strict                   S1.2.5+ A1.7+ 
 0000106 250  NN2     limits                   N5.1 A1.7+ M7 
 0000106 260  II      on                       Z5 
-0000106 270  NP2     ICANNs                   Z99 
+0000106 270  NP1     ICANN                    Z99 
+0000106 271  GE      's                       Z5 
 0000106 280  NN1     mission                  X7+ G3 S9 S9/H1 
 0000106 290  CC      and                      Z5 
 0000106 300  NN1     scope                    A1.7- A4.1 
@@ -6438,8 +6469,9 @@
 0000106 700  CC      and                      Z5 
 0000106 710  RR      directly                 M6 N3.8+ S1.1.1 
 0000106 720  VVN     related                  A2.2 S3.1 X2.5+ Q2.1 
-0000106 730  II      to                       Z5 
-0000106 740  NP2     ICANNs                   Z99 
+0000106 730  TO      to                       Z5 
+0000106 740  VVI     ICANN                    Z99 
+0000106 741  VBZ     's                       A3+ Z5 
 0000106 750  NN1     core                     O2 F1 A11.1+ Y2% 
 0000106 760  NN1     purpose                  X7+ A2.2 A1.5.1 
 0000106 770  CC      and                      Z5 
@@ -6452,8 +6484,9 @@
 0000106 822  -----   -----                    
 0000106 830  JJ      Clear                    A7+ A10+ O4.3 O4.1 N5.1+ W4 
 0000106 840  NN2     linkages                 A2.2 G1.1 O2 B1 
-0000106 850  II      to                       Z5 
-0000106 860  NP2     ICANNs                   Z99 
+0000106 850  TO      to                       Z5 
+0000106 860  VVI     ICANN                    Z99 
+0000106 861  VBZ     's                       A3+ Z5 
 0000106 870  NN1     mission                  X7+ G3 S9 S9/H1 
 0000106 880  CC      and                      Z5 
 0000106 890  NN1     operation                A1.1.1 B3 G3 
@@ -6556,8 +6589,9 @@
 0000106 700  TO      to                       Z5 
 0000106 710  VBI     be                       Z5 A3+ 
 0000106 720  VVN     added                    N5+/A2.1 N2 A1.8+ 
-0000106 730  II      to                       Z5 
-0000106 740  NP2     ICANNs                   Z99 
+0000106 730  TO      to                       Z5 
+0000106 740  VVI     ICANN                    Z99 
+0000106 741  VBZ     's                       A3+ Z5 
 0000106 750  NN1     commitment               S6+ A1.7+/G2.1 
 0000106 751  ,       ,                        
 0000106 760  DD1     this                     Z8 M6 Z5 
@@ -6588,7 +6622,8 @@
 0000110 020  DB      half                     N5 
 0000110 030  IO      of                       Z5 
 0000110 040  AT      the                      Z5 
-0000110 050  NN2     worlds                   W1 S5+c A4.1 N5+ 
+0000110 050  NN1     world                    W1 S5+c A4.1 N5+ 
+0000110 051  GE      's                       Z5 
 0000110 060  NN1     population               S2/N5c 
 0000110 061  ,       ,                        
 0000110 070  VVG@    including                A1.8+ 

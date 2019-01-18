@@ -1,4 +1,4 @@
-TOTAL              423
+TOTAL              426
 the                  Z5                  21 
 of                   Z5                  14 
 to                   Z5                  13 
@@ -13,6 +13,7 @@ vowel                Q3                   5
 on                   Z5                   4 
 they                 Z8                   4 
 very                 A13.3                4 
+it                   Z8                   4 
 an                   Z5                   4 
 and                  Z5                   4 
 consonant            A6.1+                4 
@@ -22,25 +23,26 @@ finnish              Z2                   3
 vowels               Q3                   3 
 have                 Z5                   3 
 known                X2.2+                3 
+what                 Z8                   3 
 by                   Z5                   3 
-its                  Z8                   3 
 about                Z5                   3 
 Kwatnaksa            Z99                  3 
 language             Q3                   3 
 research             X2.4                 3 
 team                 S5+                  3 
 is                   A3+                  3 
-it                   Z8                   3 
 this                 M6                   3 
 us                   Z8                   2 
 that                 Z8                   2 
 ever                 T1.1                 2 
-nt                   S9                   2 
+n't                  Z6                   2 
 hear                 X3.2                 2 
+'s                   Z5                   2 
 has                  Z5                   2 
 discovered           A10+                 2 
 who                  Z8                   2 
 for                  Z5                   2 
+its                  Z8                   2 
 produced             A2.2                 2 
 name                 Q2.2                 2 
 had                  Z5                   2 
@@ -50,7 +52,6 @@ believed             X2.1                 2
 when                 Z5                   2 
 with                 Z5                   2 
 all                  N5.1+                2 
-what                 Z8                   2 
 be                   A3+                  2 
 we                   Z8                   2 
 one                  N1                   2 
@@ -59,6 +60,7 @@ at                   Z5                   2
 TOCOVAC              Z99                  2 
 not                  Z6                   2 
 received             A9+                  2 
+UN                   Z3                   2 
 offer                A9-                  2 
 Geoff_Pullum         Z1                   1 
 gave                 A9-                  1 
@@ -80,7 +82,6 @@ distinction          A6.1-                1
 does                 Z5                   1 
 come                 M1                   1 
 close_to             A13.4                1 
-whats                Z8                   1 
 going_on             T2++                 1 
 remote               N3.3+                1 
 part                 N5.1-                1 
@@ -103,6 +104,7 @@ like                 Z5                   1
 english              Z1                   1 
 say                  Q2.1                 1 
 nothing              Z6                   1 
+'s                   A3+                  1 
 tremendous           N3.2+                1 
 importance           A11.1+               1 
 is                   Z5                   1 
@@ -205,7 +207,6 @@ until-now            Z99                  1
 perceived            X4.1                 1 
 original             T3-                  1 
 spelling             Q3                   1 
-UN                   Z3                   1 
 disaster             A5.1---              1 
 relief               E4.1+                1 
 agency               I2.2                 1 
@@ -241,7 +242,6 @@ likely               A7+                  1
 be                   Z5                   1 
 kindly               S1.2                 1 
 clue                 X4.1                 1 
-uns                  Z3                   1 
 was                  Z5                   1 
 addressed            Q1.2                 1 
 TCVC_Lngg_Rsrch      Z1                   1 

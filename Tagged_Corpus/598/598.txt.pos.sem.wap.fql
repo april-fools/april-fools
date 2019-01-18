@@ -1,4 +1,4 @@
-TOTAL             1501
+TOTAL             1506
 the                  AT            138 
 and                  CC             71 
 of                   IO             68 
@@ -9,7 +9,7 @@ is                   VBZ            22
 for                  IF             22 
 middle_east          JJ             21 
 a                    AT1            21 
-region               NN1            14 
+region               NN1            17 
 with                 IW             14 
 this                 DD1            13 
 christian            JJ             12 
@@ -22,6 +22,7 @@ as                   II              8
 status               NN1             8 
 their                APPGE           7 
 groups               NN2             7 
+overall              JJ              7 
 but                  CCB             7 
 on                   II              7 
 United_States        NP1             7 
@@ -31,7 +32,6 @@ communities          NN2             6
 are                  VBR             6 
 by                   II              6 
 from                 II              6 
-overall              JJ              6 
 an                   AT1             6 
 important            JJ              6 
 pluralism            NN1             6 
@@ -43,6 +43,7 @@ such_as              II21            5
 Iraq                 NP1             5 
 or                   CC              5 
 economic             JJ              5 
+'s                   GE              5 
 efforts              NN2             5 
 broader              JJR             5 
 world                NN1             4 
@@ -66,7 +67,6 @@ Syria                NP1             3
 migration            NN1             3 
 start                NN1             3 
 than                 CSN             3 
-regions              NN2             3 
 wave                 NN1             3 
 extremism            NN1             3 
 will                 VM              3 
@@ -110,6 +110,7 @@ lack                 NN1             2
 decades              NNT2            2 
 they                 PPHS2           2 
 within               II              2 
+today                RT              2 
 Egypt                NP1             2 
 considerably         RR              2 
 forced               JJ              2 
@@ -150,6 +151,7 @@ greater              JJR             2
 national             JJ              2 
 strategy             NN1             2 
 Obama                NP1             2 
+administration       NN1             2 
 not                  XX              2 
 as                   CSA             2 
 it                   PPH1            2 
@@ -245,8 +247,6 @@ area                 NN1             1
 controlled           VVN             1 
 Kurdistan            NP1             1 
 government           NN1             1 
-todays               NN2             1 
-overall              RR              1 
 estimated            VVN             1 
 range                VVI             1 
 7.5_million          MC              1 
@@ -293,7 +293,6 @@ victims              NN2             1
 ongoing              JJ              1 
 decline              NN1             1 
 such_that            CS21            1 
-today                RT              1 
 fear                 VV0             1 
 turn_into            VVI             1 
 museums              NN2             1 
@@ -386,7 +385,6 @@ undermine            VVI             1
 2013                 MC              1 
 leader               NN1             1 
 released             VVN             1 
-administration       NN1             1 
 example              NN1             1 
 such                 DA              1 
 Ahmed_Saad/Reuters   NP1             1 
@@ -413,7 +411,6 @@ had                  VHD             1
 consequences         NN2             1 
 there                RL              1 
 flawed               JJ              1 
-administrations      NN2             1 
 decision             NN1             1 
 position             VVI             1 
 under                II              1 

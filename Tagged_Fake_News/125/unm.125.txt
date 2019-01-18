@@ -15,14 +15,13 @@ feature-film             JJ      Z99
 flashmob                 NN1     Z99 
 Flashmob                 VV0@    Z99 
 go-to                    NN1     Z99 
-HBOs                     NP2     Z99 
+HBO                      NP1     Z99 
 Hillary                  NP1     Z99 
 hiphop                   NN1     Z99 
 hiphop                   VV0     Z99 
 honor                    VVI     Z99 
 indentists               NN2     Z99 
 Instagram                NP1     Z99 
-Kaepernicks              VVZ     Z99 
 Landers                  NN2     Z99 
 Lidofsky                 NP1     Z99 
 O'Connor/The             FU      Z99 
@@ -34,7 +33,6 @@ quarterback              NN1     Z99
 rehearsalsand            NN1     Z99 
 Rowlson-Hall             NP1     Z99 
 Timberlake               NP1     Z99 
-Timberlakes              NP2     Z99 
 Topshop                  NP1     Z99 
 troupes                  NN2     Z99 
 Video3:26                FO      Z99 
@@ -42,6 +40,4 @@ videotaped               VVD     Z99
 Vimeo                    NP1     Z99 
 votersand                NN1     Z99 
 wellis                   VVZ     Z99 
-whod                     NN1     Z99 
-wouldnt                  NN1     Z99 
 York-based               JJ      Z99 

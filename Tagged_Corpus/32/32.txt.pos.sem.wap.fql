@@ -1,18 +1,21 @@
-TOTAL              229
+TOTAL              232
 the                  AT              9 
 ad                   NN1             7 
 pixel                NN1             7 
-AdWords              NP2             5 
 to                   TO              5 
 been                 VBN             4 
 a                    AT1             4 
+AdWords              NP2             4 
 in                   II              4 
+Google               NP1             3 
 image                NN1             3 
 x                    ZZ1             3 
 for                  IF              3 
 advertisers          NN2             3 
+it                   PPH1            3 
 ads                  NN2             3 
 on                   II              3 
+we                   PPIS2           3 
 all                  DB              3 
 new                  JJ              2 
 2560                 MC              2 
@@ -22,21 +25,19 @@ than                 CSN             2
 us                   PPIO2           2 
 can                  VM              2 
 images               NN2             2 
-it                   PPH1            2 
 happy                JJ              2 
 our                  APPGE           2 
 of                   IO              2 
-Google               NP1             2 
 has                  VHZ             2 
 sites                NN2             2 
 1                    MC1             2 
 be                   VBI             2 
 keyword              NN1             2 
 with                 IW              2 
-we                   PPIS2           2 
 site                 NN1             2 
 yesterday            RT              1 
-googles              VVZ             1 
+'s                   GE              1 
+adwords              NN2             1 
 team                 NN1             1 
 announced            VVD             1 
 they                 PPHS2           1 
@@ -65,7 +66,7 @@ showcase             NN1             1
 photo                NN1             1 
 quality              NN1             1 
 5-megapixel          NN1             1 
-its                  APPGE           1 
+'s                   VBZ             1 
 a_little_bit         RR31            1 
 your                 APPGE           1 
 standard             JJ              1 
@@ -97,7 +98,7 @@ purchased            VVN             1
 blocks               NN2             1 
 ten                  MC              1 
 by                   II              1 
-weve                 VV0             1 
+'ve                  VH0             1 
 actually             RR              1 
 working              VVG             1 
 very                 RG              1 

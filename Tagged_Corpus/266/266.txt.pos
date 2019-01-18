@@ -16,7 +16,8 @@
 0000002 140 Australia                                   93 NP1
 0000002 150 over                                        93 [II/97] RP/3 NN1%/0 JJ%/0
 0000002 160 the                                         93 AT
-0000002 170 latters                     ERROR?          55 [NN2/100] VVZ/0
+0000002 170 latter                    >                 93 DA
+0000002 171 's                        <                 03 [GE/97] VBZ/3 VHZ@/0
 0000002 180 introduction                                03 NN1
 0000002 190 of                                          93 IO
 0000002 200 internet                                    06 NN1
@@ -202,7 +203,8 @@
 0000012 290 to                                          97 TO
 0000012 300 apply                                       97 VVI
 0000012 310 for                                         93 [IF/100] CS%/0
-0000012 320 Visas                                       93 NN2
+0000012 320 Visa                      >                 93 [NN1/100] VV0@/0
+0000012 321 's                        <                 03 [VBZ/90] VHZ@/9 GE/1
 0000012 330 to                                          97 TO
 0000012 340 enter                                       97 VVI
 0000012 350 the                                         93 AT
@@ -264,10 +266,11 @@
 0000016 050 unavailable                                 93 JJ
 0000016 060 for                                         93 [IF/100] CS%/0
 0000016 070 comment                                     93 [NN1/99] VV0/1
-0000016 080 as                                          93 [CSA/73] II@/27 RG@/0
-0000016 090 theyd                                       06 [NN1/100] VV0/0
-0000016 100 been                                        93 VBN
-0000016 110 unable                                      97 JK
+0000016 080 as                                          96 CSA
+0000016 090 they                      >                 93 PPHS2
+0000016 091 'd                        <                 97 [VHD/100] VM%/0
+0000016 100 been                                        97 VBN
+0000016 110 unable                                      96 JK
 0000016 120 to                                          97 TO
 0000016 130 view                                        97 VVI
 0000016 140 the                                         93 AT
@@ -281,7 +284,8 @@
 0000016 220 across                                      93 [II/100] RL@/0
 0000016 230 the                                         93 AT
 0000016 240 Australian                                  98 JJ
-0000016 250 Governments                                 93 NN2
+0000016 250 Government                >                 93 NN1
+0000016 251 's                        <                 03 [GE/97] VBZ/3 VHZ@/0
 0000016 260 computer                                    93 NN1
 0000016 270 network                                     03 [NN1/100] VV0%/0
 0000016 271 .                                           03 .

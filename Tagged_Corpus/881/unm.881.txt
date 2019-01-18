@@ -17,8 +17,6 @@ Kartchner                NP1     Z99
 magisterial              JJ      Z99 
 non-deployed             JJ      Z99 
 Pavel                    NP1     Z99 
-Schanzs                  VVZ@    Z99 
-shouldnt                 VV0     Z99 
 silos                    NN2     Z99 
 silos.                   NNU     Z99 
 SLBM                     NP1     Z99 

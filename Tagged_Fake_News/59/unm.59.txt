@@ -6,4 +6,3 @@ Latino                   NP1     Z99
 Obama                    NP1     Z99 
 Obama                    NP1@    Z99 
 unethically              RR      Z99 
-wasnt                    VVI     Z99 

@@ -17,8 +17,8 @@ B-                       JJ      Z99
 badass                   NN1     Z99 
 blind-spot               JJ      Z99 
 Buick                    NN1     Z99 
+Buick                    NP1     Z99 
 Buick                    VV0     Z99 
-Buicks                   NP1     Z99 
 bumper-to-bumper         JJ      Z99 
 C+                       FO      Z99 
 C-ACC                    NP1     Z99 
@@ -81,11 +81,9 @@ SUV                      NP1     Z99
 SUVs                     NN2     Z99 
 systemone                NN1     Z99 
 thathandle               VVI     Z99 
-theyre                   NN1     Z99 
 TJA                      NN1     Z99 
 top-shelf                JJ      Z99 
 vehicle-to-vehicle       JJ      Z99 
 Verano                   NN1     Z99 
-weve                     VV0     Z99 
 Wi-Fi                    NP1     Z99 
 XC90                     FO      Z99 

@@ -1,20 +1,20 @@
-TOTAL              540
+TOTAL              543
 the                  AT             33 
 in                   II             28 
 and                  CC             26 
+UQ                   NP1            16 
 of                   IO             15 
-UQ                   NP1            15 
 world                NN1            11 
 research             NN1            11 
+university           NN1            10 
 universities         NN2             9 
-university           NN1             9 
 rankings             NN2             9 
 engineering          NN1             8 
+'s                   GE              7 
 for                  IF              6 
 was                  VBDZ            6 
 with                 IW              6 
 a                    AT1             5 
-'s                   GE              5 
 australian           JJ              5 
 has                  VHZ             4 
 that                 CST             4 
@@ -103,7 +103,7 @@ per                  II              1
 paper                NN1             1 
 result               NN1             1 
 correlates           VVZ             1 
-UQs_43rd             NP1             1 
+43rd                 MD              1 
 overall              JJ              1 
 top_200              NN1             1 
 placing              VVG             1 
@@ -130,7 +130,6 @@ materials            NN2             1
 chemistry            NN1             1 
 he                   PPHS1           1 
 delighted            JJ              1 
-universitys          NN2             1 
 performance          NN1             1 
 latest               JJT             1 
 consistent           JJ              1 

@@ -5,17 +5,16 @@ Choicepoint              NN1     Z99
 Clarion                  NN1     Z99 
 Copley                   NP1     Z99 
 divestitures             NN2     Z99 
-EBSCOs                   NP2     Z99 
+EBSCO                    NP1     Z99 
 Elsevier                 NP1     Z99 
-Friedmans                NP2     Z99 
+Friedman                 NP1     Z99 
 Getty                    NP1     Z99 
 GSI                      JJ      Z99 
-Haggin                   NN1     Z99 
+Haggin                   NP1     Z99 
 Hellman                  NP1     Z99 
-IACs                     NP2     Z99 
+IAC                      NP1     Z99 
 Investcorp               NP1     Z99 
 JEGI                     NP1     Z99 
-JEGIs                    NN1     Z99 
 JMI                      JJ      Z99 
 Match.com                NP1     Z99 
 Meetic                   NN1     Z99 
@@ -35,4 +34,3 @@ SolutionSet              NN1     Z99
 UBM                      NP1     Z99 
 Undertone                NN1     Z99 
 VSS                      NP1     Z99 
-VSSs                     NP1     Z99 

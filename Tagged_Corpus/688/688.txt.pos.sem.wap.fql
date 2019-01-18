@@ -1,4 +1,4 @@
-TOTAL              247
+TOTAL              248
 the                  AT             17 
 was                  VBDZ           14 
 i                    PPIS1          13 
@@ -12,13 +12,13 @@ just                 RR              4
 this                 DD1             3 
 ever                 RR              3 
 born                 VVN             3 
+Britain              NP1             3 
 four_times           MC              3 
 size                 NN1             3 
 weighs               VVZ             3 
 when                 CS              3 
 been                 VBN             2 
 Rambo                NP1             2 
-Britain              NP1             2 
 is                   VBZ             2 
 an                   AT1             2 
 average              JJ              2 
@@ -64,7 +64,7 @@ pound                NN1             1
 less                 RRR             1 
 Bruno                NP1             1 
 hailed               VVN             1 
-britains             NN2             1 
+'s                   GE              1 
 arrived              VVD             1 
 21lbs                NNU2            1 
 four_years_ago       MC              1 

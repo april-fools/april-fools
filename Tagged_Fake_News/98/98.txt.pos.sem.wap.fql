@@ -1,7 +1,7 @@
-TOTAL              216
+TOTAL              222
 the                  AT             15 
 and                  CC             11 
-Obama                NP1             5 
+Obama                NP1             6 
 white                JJ              5 
 working_class        JJ              4 
 voters               NN2             4 
@@ -17,11 +17,14 @@ democrats            NN2             2
 lost                 VVD             2 
 are                  VBR             2 
 just                 RR              2 
+'s                   GE              2 
 americans            NN2             2 
 country              NN1             2 
 message              NN1             2 
 of                   IO              2 
 during               II              2 
+we                   PPIS2           2 
+'re                  VBR             2 
 not                  XX              2 
 my                   APPGE           2 
 he                   PPHS1           2 
@@ -56,8 +59,8 @@ have                 VHI             1
 lost                 VVN             1 
 vote                 NN1             1 
 generations          NN2             1 
-its                  APPGE           1 
-Obamas               NP2             1 
+it                   PPH1            1 
+'s                   VBZ             1 
 fault                NN1             1 
 this                 DD1             1 
 week                 NNT1            1 
@@ -66,7 +69,7 @@ out                  RP              1
 again                RT              1 
 railing              NN1             1 
 against              II              1 
-partys               NN2             1 
+party                NN1             1 
 woes                 NN2             1 
 ipatriot             NN1             1 
 reported             VVD             1 
@@ -84,13 +87,11 @@ particularly         RR              1
 holiday              NN1             1 
 season               NNT1            1 
 if                   CS              1 
-were                 VBDR            1 
 actually_out         RR              1 
 there                RL              1 
 changing             VVG             1 
 narrative            NN1             1 
 like                 CS              1 
-we                   PPIS2           1 
 campaigns            NN2             1 
 then                 RT              1 
 folks                NN2             1 
@@ -98,8 +99,8 @@ a_lot                AT1             1
 these                DD2             1 
 communities          NN2             1 
 what                 DDQ             1 
-theyre               NN1             1 
-hearing              NN1             1 
+they                 PPHS2           1 
+hearing              VVG             1 
 wants                VVZ             1 
 to                   TO              1 
 take_away            VVI             1 
@@ -116,9 +117,10 @@ ah                   UH              1
 yes                  UH              1 
 problem              NN1             1 
 you                  PPY             1 
-couldnt              VV0             1 
+could                VM              1 
+n't                  XX              1 
 mindlessly           RR              1 
-brainwash            VV0             1 
+brainwash            VVI             1 
 barack               NN1             1 
 that                 CST             1 
 your                 APPGE           1 

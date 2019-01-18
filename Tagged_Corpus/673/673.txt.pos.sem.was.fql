@@ -1,13 +1,13 @@
-TOTAL              139
+TOTAL              141
 the                  Z5                  10 
 in                   Z5                   5 
 her                  Z8                   4 
 to                   Z5                   4 
 a                    Z5                   4 
+she                  Z8                   4 
 hospital             B3                   3 
 box                  O2                   3 
 jellyfish            Z99                  3 
-she                  Z8                   3 
 and                  Z5                   3 
 at                   Z5                   2 
 for                  Z5                   2 
@@ -19,6 +19,7 @@ was                  A3+                  2
 of                   Z5                   2 
 before               Z5                   2 
 a.m.                 T1.3                 2 
+'s                   Z5                   2 
 MANILA               Z2                   1 
 Philippines          Z2                   1 
 Anne_Curtis          Z1                   1 
@@ -31,8 +32,7 @@ recover              B2+                  1
 from                 Z5                   1 
 early                T4+                  1 
 Thursday_morning     T1.3                 1 
-one                  N1                   1 
-oclock               T1                   1 
+one_o'clock          T1.2                 1 
 Batangas             Z99                  1 
 while                Z5                   1 
 shooting             G3                   1 
@@ -42,9 +42,9 @@ show                 A8                   1
 Dyesebel             Z99                  1 
 obviously            Z4                   1 
 did                  Z5                   1 
-nt                   S9                   1 
+n't                  Z6                   1 
 recognize            X2.2+                1 
-colleague            I3.2                 1 
+colleague'           Z99                  1 
 even_if              Z7                   1 
 half-fish            Z99                  1 
 form                 A4.1                 1 
@@ -77,9 +77,9 @@ on                   Z5                   1
 an                   Z5                   1 
 ambulance            B3                   1 
 4                    N1                   1 
-St._Lukes_global     Z1                   1 
+St._Luke             Z2                   1 
+global_city          Z2                   1 
 where                M6                   1 
-shes                 Z8                   1 
 recovering           B2+                  1 
 according_to         Z5                   1 
 Kuya_Kim_Atienza     Z1                   1 

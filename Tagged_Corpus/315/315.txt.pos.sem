@@ -58,6 +58,7 @@
 0000007 001  -----   -----                    
 0000008 010  AT      The                      Z5 
 0000008 020  NN2     processes                A1.1.1 X4.2 
+0000008 021  GE      '                        Z5 
 0000008 030  NN1     co-developer             Z99 
 0000008 031  ,       ,                        
 0000008 040  NN1     brewer                   F2/I3.2/S2mf 
@@ -71,8 +72,8 @@
 0000008 110  VV0     show                     A10+ S1.1.1 
 0000008 120  AT      the                      Z5 
 0000008 130  NN2     benefits                 S8+ I1.1/G1.1 
-0000008 140  VB0     are                      Z5 
-0000008 141  XX      nt                       S9/Q4.1 Z3c 
+0000008 140  VBR     are                      Z5 A3+ 
+0000008 141  XX      n't                      Z6 
 0000008 150  VVN     confined                 A1.7+ 
 0000008 160  II      to                       Z5 
 0000008 170  NN1     fermentation             Z99 
@@ -367,7 +368,8 @@
 0000030 283  -----   -----                    
 0000032 010  NN1     Nail                     O2 B1 
 0000032 020  NN1     Brewing                  F2 N5+/A2.1 A1.1.1 
-0000032 030  NP2     Australias               Z2 
+0000032 030  NP1     Australia                Z2 
+0000032 031  GE      's                       Z5 
 0000032 040  NN1     brewer                   F2/I3.2/S2mf 
 0000032 050  NP1     John                     Z1mf[i20.2.1 Z3c[i20.2.1 Z1m S9/O1.2 
 0000032 060  NP1     Stallwood                Z1mf[i20.2.2 Z3c[i20.2.2 

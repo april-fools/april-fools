@@ -2,7 +2,7 @@
 19-year-old              JJ      Z99 
 Chiafalo                 NP1     Z99 
 Eagle--a                 NN1     Z99 
-Mulinixs                 NN2     Z99 
+Mulinix                  NP1     Z99 
 NBC                      NP1     Z99 
 p.m--though              CS      Z99 
 Sioux                    JJ      Z99 

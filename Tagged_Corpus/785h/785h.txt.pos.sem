@@ -2,7 +2,8 @@
 0000001 002  -----   -----                    
 0000002 010  RRQ     Why                      A2.2 
 0000002 020  VBZ     is                       A3+ Z5 
-0000002 030  NP1     Samsungs                 Z3c 
+0000002 030  NP1     Samsung                  Z3c 
+0000002 031  GE      's                       Z5 
 0000002 040  NN1     breakthrough             X9.2+ 
 0000002 050  II      in                       Z5 
 0000002 060  NN1     graphene                 Z99 

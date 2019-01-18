@@ -9,12 +9,12 @@ that                 CST           115
 it                   PPH1          114 
 in                   II            112 
 they                 PPHS2          78 
-are                  VBR            67 
+are                  VBR            68 
 not                  XX             66 
 to                   II             61 
 for                  IF             55 
 but                  CCB            53 
-n't                  XX             49 
+n't                  XX             50 
 was                  VBDZ           44 
 by                   II             42 
 smug_style           JJ             39 
@@ -1618,8 +1618,6 @@ late-breaking        JJ              1
 sexism               NN1             1 
 younger              JJR             1 
 women                NN2             1 
-are                  VB0             1 
-nt                   XX              1 
 excited              VVN             1 
 electing             VVG             1 
 solely               RR              1 

@@ -11,6 +11,5 @@ Neurosurgeon             NN1     Z99
 Neurosurgeon             NP1     Z99 
 Promethean               JJ      Z99 
 TEOF                     NP1     Z99 
-TEOFs                    NN2     Z99 
 ultra-cold               JJ      Z99 
 www.semanto.me           NNU     Z99 

@@ -48,7 +48,7 @@
 0000004 040  APPGE   your                     Z8 
 0000004 050  NN2     eyes                     B1 X3.4 
 0000004 060  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000004 061  XX      nt                       S9/Q4.1 Z3c 
+0000004 061  XX      n't                      Z6 
 0000004 070  VVI     deceive                  A5.2- 
 0000004 080  PPY     you                      Z8mf 
 0000004 081  .       .                        
@@ -56,7 +56,8 @@
 0000004 090  II      In                       Z5 
 0000004 100  DD1     this                     M6 Z5 Z8 
 0000004 110  NN1     TV                       Q4.3/X5.2++mfn[i4.2.1 Q4.3 S2.1/S2.2m 
-0000004 120  NN2     addicts                  Q4.3/X5.2++mfn[i4.2.2 X5.2++/S2mf F3/S2mf 
+0000004 120  NN1     addict                   Q4.3/X5.2++mfn[i4.2.2 X5.2++/S2mf F3/S2mf 
+0000004 121  GE      's                       Z5 
 0000004 130  NN1     possession               A9+ S9% 
 0000004 140  VBZ     is                       A3+ Z5 
 0000004 150  AT      the                      Z5 
@@ -201,7 +202,8 @@
 0000008 040  AT1     a                        Z5 
 0000008 050  NN1     climax                   X5.2+ S3.2 
 0000008 060  II      at                       Z5 
-0000008 070  NP2     Rorys                    Z1m 
+0000008 070  NP1     Rory                     Z1m 
+0000008 071  GE      's                       Z5 
 0000008 080  NN1     graduation               P1 N3.1 
 0000008 081  ,       ,                        
 0000008 090  CSA     as                       Z5 
@@ -233,7 +235,8 @@
 0000008 320  RP      over                     X3.4[i18.2.2 T2- M6 
 0000008 330  II      at                       Z5 X3.4[i19.2.2 X2.4[i19.2.2 X2.1[i19.2.2 
 0000008 340  NP1     Chris                    Z1mf 
-0000008 350  NN2     whos                     Z3 Z8 
+0000008 350  PNQS    who                      Z8 
+0000008 351  VBZ     's                       Z5 A3+ 
 0000008 360  VVG     beaming                  E4.1+ W2 Q4.3 
 0000008 370  IW      with                     Z5 
 0000008 380  NN1     pride                    E4.2+/S1.2 S7.2+ S1.2.3+ O4.2+ 

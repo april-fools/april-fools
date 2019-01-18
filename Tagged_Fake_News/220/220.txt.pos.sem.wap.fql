@@ -1,4 +1,4 @@
-TOTAL             1008
+TOTAL             1009
 the                  AT             57 
 Obama                NP1            37 
 of                   IO             30 
@@ -6,10 +6,10 @@ a                    AT1            27
 in                   II             20 
 and                  CC             18 
 with                 IW             14 
+'s                   GE             13 
 on                   II             13 
 he                   PPHS1          13 
 at                   II             13 
-'s                   GE             12 
 president            NN1            12 
 his                  APPGE          10 
 to                   TO              9 
@@ -46,6 +46,7 @@ Obamas               NP2             4
 after                II              4 
 walks                VVZ             4 
 economy              NN1             4 
+trump                NN1             4 
 affordable           JJ              3 
 care                 NN1             3 
 act                  NN1             3 
@@ -67,7 +68,6 @@ shakes_hands         VVZ             3
 or                   CC              3 
 a_lot                AT1             3 
 think                VV0             3 
-trump                NN1             3 
 favorable            JJ              3 
 did                  VDD             3 
 race_relations       NN1             3 
@@ -384,8 +384,7 @@ way                  NN1             1
 choose               VVI             1 
 half                 DB              1 
 so                   RR              1 
-trumps               NN2             1 
-vow                  VV0             1 
+vow                  NN1             1 
 rules                NN2             1 
 so                   RG              1 
 fast                 JJ              1 

@@ -48,7 +48,8 @@
 0000004 230 engine                                      93 NN1
 0000004 240 of                                          93 IO
 0000004 250 the                                         93 AT
-0000004 260 teams                                       03 NN2
+0000004 260 team                      >                 03 [NN1/100] VV0@/0
+0000004 261 's                        <                 98 GE
 0000004 270 car                                         93 NN1
 0000004 280 during                                      93 II
 0000004 290 the                                         93 AT
@@ -198,8 +199,9 @@
 0000006 700 understand                                  97 VVI
 0000006 710 how                                         93 [RRQ/99] RGQ@/1
 0000006 720 the                                         93 AT
-0000006 730 cars                                        93 NN2
-0000006 740 setup                                       93 [NN1/98] VV0%/2
+0000006 730 car                       >                 93 NN1
+0000006 731 's                        <                 98 GE
+0000006 740 setup                                       93 [NN1/100] VV0%/0
 0000006 750 will                                        93 [VM/100] NN1@/0 VV0%/0
 0000006 760 affect                                      97 VVI
 0000006 770 performance                                 93 NN1
@@ -277,7 +279,8 @@
 0000006 420 once                                        96 RR22
 0000006 430 increasing                                  03 [VVG/99] JJ/1
 0000006 440 the                                         93 AT
-0000006 450 teams                                       03 NN2
+0000006 450 team                      >                 03 [NN1/100] VV0@/0
+0000006 451 's                        <                 98 GE
 0000006 460 efficiency.After                            08 NNU
 0000006 470 miles                                       93 NNU2
 0000006 480 of                                          93 IO
@@ -379,8 +382,9 @@
 0000006 380 analyze                                     97 VVI
 0000006 390 the                                         93 AT
 0000006 400 information                                 93 NN1
-0000006 410 theyre                                      06 NN1
-0000006 420 receiving                                   03 [VVG/92] NN1@/8 JJ@/0
+0000006 410 they                      >                 93 PPHS2
+0000006 411 're                       <                 03 VBR
+0000006 420 receiving                                   03 [VVG/99] JJ@/1 NN1@/0
 0000006 430 from                                        93 II
 0000006 440 sensors                                     93 NN2
 0000006 450 on                                          93 [II/100] RP@/0

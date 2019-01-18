@@ -28,7 +28,7 @@ New global data center strategy
 
 New Market Risk platform
 
- <quote> "Last year, we re-engineered our Market Risk platform, one of the largest in-memory risk analytics platforms in the world. The platform now manages over 1 billion risk sensitivities and provides visibility 17 times faster than the prior system while delivering a more granular and holistic view of the firm’s risk exposure." </quote> 
+ <quote> "Last year, we re-engineered our Market Risk platform, one of the largest in-memory risk analytics platforms in the world. The platform now manages over 1 billion risk sensitivities and provides visibility 17 times faster than the prior system while delivering a more granular and holistic view of the firm's risk exposure." </quote> 
 
 Robotics
 

@@ -47,8 +47,9 @@
 0000005 040  PPX1    yourself                 Z8 
 0000005 041  ?       ?                        
 0000006 001  -----   -----                    
-0000007 010  NN2     Obamas                   Z99 
-0000007 020  VVG     heading                  S7.1+ K5.1 M1 N5 A2.1+ A11.1+ Q1.2 T1.1.3 
+0000007 010  NP1@    Obama                    Z99 
+0000007 011  GE      's                       Z5 
+0000007 020  NN1     heading                  Q1.2 S7.1+ K5.1 M1 N5 A2.1+ A11.1+ T1.1.3 
 0000007 030  IF      for                      Z5 
 0000007 040  AT      the                      Z5 
 0000007 050  NN2     courts                   G2.1 H3 M7/K5.2 
@@ -58,7 +59,8 @@
 0000007 090  NN1     birth                    Q1.2/S4[i4.2.1 B1 T2+ 
 0000007 100  NN1     certificate              Q1.2/S4[i4.2.2 Q1.2 
 0000007 110  CC      and                      Z5 
-0000007 120  NN1     hell                     S9 O4.2- E3- G2.2- 
+0000007 120  PPHS1   he                       Z8m 
+0000007 121  VM      'll                      T1.1.3 
 0000007 130  VBI     be                       Z5 A3+ 
 0000007 140  VVN     handed                   A9-[i5.2.1 A9- 
 0000007 150  RP      down                     A9-[i5.2.2 
@@ -87,7 +89,8 @@
 0000007 350  IO      of                       Z5 
 0000007 360  NP1     Hitler                   Z1mf 
 0000007 370  CC      or                       Z5 
-0000007 380  NP2     Stalins                  Z1 T1.1.1/S2mf 
+0000007 380  NP1     Stalin                   Z1 T1.1.1/S2mf 
+0000007 381  GE      's                       Z5 
 0000007 390  NN2     crimes                   G2.1- 
 0000007 391  ,       ,                        
 0000007 400  VVG     seeing                   X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ S3.2 
@@ -100,7 +103,7 @@
 0000007 470  DD2     those                    Z5 Z8 
 0000007 480  MC      two                      N1 T3 T1.2 
 0000007 490  VDD     did                      A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
-0000007 491  XX      nt                       S9/Q4.1 Z3c 
+0000007 491  XX      n't                      Z6 
 0000007 492  .       .                        
 0000008 001  -----   -----                    
 0000011 010  NN1     King                     Z1m/S7.1+[i6.3.1 S7.1+/S2.2m 
@@ -130,7 +133,8 @@
 0000013 200  II      to                       Z5 
 0000013 210  AT      the                      Z5 
 0000013 220  NN1     fact                     A5.2+ X2.2 
-0000013 230  VV0     Im                       Z99 
+0000013 230  PPIS1   I                        Z8mf 
+0000013 231  VBM     'm                       A3+ Z5 
 0000013 240  AT      the                      Z5 
 0000013 250  NN1     Messiah                  S9/S2mf 
 0000013 260  CC      and                      Z5 
@@ -150,7 +154,8 @@
 0000013 390  AT      the                      Z5 
 0000013 400  NN1     lottery                  K1/A1.4 
 0000013 410  II      in                       Z5 
-0000013 420  NP2     Obamas                   Z99 
+0000013 420  NP1     Obama                    Z99 
+0000013 421  GE      's                       Z5 
 0000013 430  NN1     homestate                Z99 
 0000013 440  VVD     drew                     C1 A9+ 
 0000013 450  MC      666                      N1 T1.2 T3 T1.3 N3.2 
@@ -189,11 +194,13 @@
 0000013 720  AT      the                      Z5 
 0000013 730  NN2     trolls                   S9/S2mf 
 0000013 731  :       :                        
-0000013 740  NN1     theyre                   Z99 
+0000013 740  PPHS2   they                     Z8mfn 
+0000013 741  VBR     're                      A3+ Z5 
 0000013 750  JJ      crazy                    B2-/X1 S1.2.6- X5.2++ A1.1.1/N5+++ 
 0000013 751  .       .                        
 0000013 752  -----   -----                    
-0000015 010  VV0     Im                       Z99 
+0000015 010  PPIS1   I                        Z8mf 
+0000015 011  VBM     'm                       A3+ Z5 
 0000015 020  AT1     a                        Z5 
 0000015 030  NN1     person                   S2mfc 
 0000015 040  IO      of                       Z5 
@@ -247,7 +254,8 @@
 0000015 430  II      among                    Z5 
 0000015 440  NN2     others                   A6.1-/Z8 
 0000015 450  APPGE   my                       Z8 
-0000015 460  NN2     grandmothers             S4f 
+0000015 460  NN1     grandmother              S4f 
+0000015 461  GE      's                       Z5 
 0000015 470  NN1     aunt                     S4f 
 0000015 480  RR      Else                     A6.1- Z4 
 0000015 490  NP1     Werring                  Z99 
@@ -255,7 +263,8 @@
 0000015 510  AT      the                      Z3c[i11.2.1 Z5 
 0000015 520  JJ      Royal                    Z3c[i11.2.2 S7.1+ 
 0000015 530  JJ      Norwegian                Z2 Z2/Q3 
-0000015 540  NN2     Palaces                  Z3c 
+0000015 540  NN1     Palace                   Z3c 
+0000015 541  GE      's                       Z5 
 0000015 550  NN1     Mistress                 S7.1+/S2.1f S3.2/S2.1f P1/S2.1f 
 0000015 560  IO      of                       Z5 
 0000015 570  AT      the                      Z5 
@@ -266,7 +275,8 @@
 0000015 610  IO      of                       Z5 
 0000015 620  AT      the                      Z3c[i12.2.1 Z5 
 0000015 630  JJ      royal                    Z3c[i12.2.2 S7.1+ 
-0000015 640  NN2     palaces                  H1/S7.1+ 
+0000015 640  NN1     palace                   H1/S7.1+ 
+0000015 641  GE      's                       Z5 
 0000015 650  NN2     events                   A3+/A11.1+ A6.2- S1.1.1/X7+ K5 
 0000015 651  )       )                        
 0000015 660  IF      for                      Z5 
@@ -402,7 +412,7 @@
 0000024 380  NP1     America                  Z2 
 0000024 390  VVG     stating                  Q2.1 
 0000024 400  PPHS1   he                       Z8m 
-0000024 401  VBZ     s                        Z5 
+0000024 401  VBZ     's                       Z5 A3+ 
 0000024 410  VVG     saying                   Q2.1 Z4% 
 0000024 420  II      in                       Z5 
 0000024 430  NN1     office                   I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+ 

@@ -1,28 +1,28 @@
-TOTAL              882
+TOTAL              901
 the                  Z5                  53 
 to                   Z5                  37 
 of                   Z5                  25 
 and                  Z5                  22 
 in                   Z5                  20 
 a                    Z5                  16 
+'s                   Z5                  15 
 said                 Q2.1                15 
+Mr._Obama            Z1                  13 
 for                  Z5                  13 
-President            G1.1                 7 
+President            G1.1                 9 
 on                   Z5                   7 
-Mr._Obama            Z1                   7 
 ban                  S7.4-                7 
 will                 T1.1.3               7 
 oil                  O1.2                 6 
-Mr._Obamas           Z1                   6 
 environmental        W5                   6 
 arctic               Z2                   6 
+it                   Z8                   6 
+he                   Z8                   6 
 as                   Z5                   5 
 future               T1.1.3               5 
-that                 Z5                   5 
-presidents           G1.1                 5 
 permanent            T2+++                5 
+that                 Z8                   5 
 his                  Z8                   5 
-he                   Z8                   5 
 is                   A3+                  5 
 decision             X6+                  5 
 waters               O1.2                 4 
@@ -31,13 +31,15 @@ leasing              I2.2                 4
 some                 N5                   4 
 also                 N5++                 4 
 energy               X5.2+                4 
-its                  Z8                   4 
 an                   Z5                   4 
 offshore             M6                   4 
+that                 Z5                   4 
 groups               S5+                  4 
+'s                   A3+                  4 
 has                  Z5                   4 
 with                 Z5                   4 
 drilling             A1.1.1               4 
+Obama                Z99                  4 
 gas                  O1.3                 3 
 put                  M2                   3 
 White_house          Z3                   3 
@@ -46,9 +48,9 @@ new                  T3-                  3
 is                   Z5                   3 
 leases               I2.2                 3 
 lands                W3                   3 
+presidents           G1.1                 3 
 withdrawals          M2                   3 
 Atlantic             Z2                   3 
-that                 Z8                   3 
 would                A7+                  3 
 fuel                 O1                   3 
 production           A1.1.1               3 
@@ -56,18 +58,18 @@ not                  Z6                   3
 this                 M6                   3 
 officials            G1.1                 3 
 calling              Q2.2                 3 
-it                   Z8                   3 
 our                  Z8                   3 
 be                   Z5                   3 
+Mr._Trump            Z1                   3 
 businesses           I2.1                 3 
 tourism              M1                   3 
 fishing              K5.1                 3 
-Obama                Z99                  3 
 limits               N5.1                 2 
 move                 M1                   2 
 while                Z5                   2 
 President-elect      G1.1                 2 
-nations              G1.1                 2 
+Donald_trump         Z1                   2 
+nation               G1.1                 2 
 reserves             A9+                  2 
 which                Z8                   2 
 placed               M2                   2 
@@ -105,7 +107,6 @@ who                  Z8                   2
 greater              A5.1++               2 
 those                Z8                   2 
 yard                 H3                   2 
-Mr._Trump            Z1                   2 
 cabinet              H5                   2 
 were                 Z5                   2 
 but                  Z5                   2 
@@ -116,6 +117,7 @@ coastal              W3                   2
 advocacy             Q2.2                 2 
 group                S5+                  2 
 they                 Z8                   2 
+institute            P1                   2 
 business             I2.1                 2 
 was                  A3+                  2 
 protections          S8+                  2 
@@ -139,8 +141,6 @@ finishing            T2-                  1
 touches_on           Q2.1                 1 
 legacy               A9+                  1 
 testing              P1                   1 
-Donald               Z1                   1 
-trumps               K5.2                 1 
 promise              S6+                  1 
 unleash              A1.7-                1 
 untapped             A1.5.1-              1 
@@ -150,6 +150,7 @@ government           G1.1                 1
 canadian             Z2                   1 
 prime_minister       G1.1                 1 
 Justin_Trudeau       Z1                   1 
+its                  Z8                   1 
 subject_to           S7.1-                1 
 periodic             N6                   1 
 review               X2.4                 1 
@@ -193,7 +194,7 @@ hoped                X2.6+                1
 extensive            N5+                  1 
 have                 Z5                   1 
 extended             N3.3                 1 
-nt                   S9                   1 
+n't                  Z6                   1 
 affected             A2.1+                1 
 by                   Z5                   1 
 concerns             E6-                  1 
@@ -222,7 +223,6 @@ current              T1.1.2               1
 prices               I1.3                 1 
 significant          A11.1+               1 
 occur                A2.1+                1 
-thats                Z5                   1 
 why                  A2.2                 1 
 looking_forward      X2.6+                1 
 we                   Z8                   1 
@@ -246,7 +246,7 @@ building             H1                   1
 position             M6                   1 
 global               W3                   1 
 leader               S7.1+                1 
-todays               T1.1.2               1 
+today                T1.1.2               1 
 unilateral           S1.1.2-              1 
 mandate              S7.1+                1 
 could                A7+                  1 
@@ -303,7 +303,6 @@ even                 A13.1                1
 before               Z5                   1 
 presidential         G1.1                 1 
 election             G1.2                 1 
-Mr._Trumps           Z1                   1 
 victory              X9.2+                1 
 provided             A9-                  1 
 urgency              A11.1+               1 
@@ -336,7 +335,6 @@ seek                 X2.4                 1
 do                   A1.1.1               1 
 so                   Z5                   1 
 american             Z2                   1 
-institute            P1                   1 
 pointed              A10+                 1 
 2008                 N1                   1 
 when                 Z5                   1 
@@ -354,7 +352,6 @@ fortunately          A1.4+                1
 there                Z5                   1 
 no_such              Z6                   1 
 thing                O2                   1 
-institutes           P1                   1 
 Erik_Milito          Z1                   1 
 conference           S1.1.3+              1 
 call                 Q2.2                 1 
@@ -374,9 +371,7 @@ suit                 B5                   1
 during               Z5                   1 
 administrations      S7.1+                1 
 if                   Z7                   1 
-Donald_trump         Z1                   1 
 tries                X8+                  1 
-Obamas               Z99                  1 
 find                 A10+                 1 
 himself              Z8                   1 
 court                G2.1                 1 
@@ -406,7 +401,7 @@ and_other            S2                   1
 region               M7                   1 
 relies               S7.1-                1 
 upon                 Z5                   1 
-Hed                  Z99                  1 
+'d                   Z5                   1 
 gone                 M1                   1 
 Washington           Z2                   1 
 meet                 S3.1                 1 

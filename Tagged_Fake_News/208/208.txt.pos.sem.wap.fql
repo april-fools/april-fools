@@ -1,18 +1,18 @@
-TOTAL              360
+TOTAL              367
 the                  AT             25 
 his                  APPGE           9 
+foundation           NN1             9 
+'s                   GE              8 
 of                   IO              8 
+trump                NN1             7 
 to                   TO              6 
-foundation           NN1             6 
 a                    AT1             6 
 or                   CC              5 
 in                   II              5 
 from                 II              4 
 investigation        NN1             4 
 by                   II              4 
-trump                NN1             4 
 that                 CST             4 
-foundations          NN2             4 
 it                   PPH1            4 
 tax                  NN1             4 
 filing               NN1             4 
@@ -28,7 +28,6 @@ after                II              3
 he                   PPHS1           3 
 any                  DD              3 
 but                  CCB             3 
-trumps               NN2             3 
 charity              NN1             3 
 money                NN1             3 
 to                   II              3 
@@ -39,7 +38,6 @@ not                  XX              2
 state                NN1             2 
 are                  VBR             2 
 its                  APPGE           2 
-attorney             NN1             2 
 trump_foundation     NN1             2 
 dissolve             VVI             2 
 spokeswoman          NN1             2 
@@ -70,7 +68,7 @@ personally           RR              1
 benefited            VVN             1 
 spending             NN1             1 
 New_York             NP1             1 
-generals             NN2             1 
+attorney_general     NN1             1 
 Tuesday              NPD1            1 
 still                RR              1 
 under                II              1 
@@ -79,6 +77,7 @@ legally              RR              1
 until                CS              1 
 complete             JJ              1 
 Amy_Spitalnick       NP1             1 
+attorney             NN1             1 
 General              NNB             1 
 Eric_Schneiderman    NP1             1 
 statement            NN1             1 
@@ -102,7 +101,7 @@ inner                JJ              1
 workings             NN2             1 
 been                 VBN             1 
 subject              NN1             1 
-Schneidermans        NP2             1 
+Schneiderman         NP1             1 
 months               NNT2            1 
 could                VM              1 
 remain               VVI             1 
@@ -180,7 +179,7 @@ not_only             XX              1
 prior                JJ              1 
 years                NNT2            1 
 does                 VDZ             1 
-nt                   XX              1 
+n't                  XX              1 
 provide              VVI             1 
 details              NN2             1 
 violations           NN2             1 
@@ -204,6 +203,7 @@ efficiently          RR              1
 DJT_foundation       NP1             1 
 unlike               II              1 
 most                 DAT             1 
+foundations          NN2             1 
 never                RR              1 
 paid                 VVN             1 
 fees                 NN2             1 

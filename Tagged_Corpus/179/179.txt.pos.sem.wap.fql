@@ -1,16 +1,16 @@
-TOTAL              366
+TOTAL              368
 the                  AT             20 
 of                   IO             11 
 flight               NN1            10 
 and                  CC              8 
-new                  JJ              7 
+centre               NN1             7 
 to                   TO              7 
-centre               NN1             6 
 travel               NN1             6 
 is                   VBZ             6 
 a                    AT1             6 
 from                 II              5 
 jet-pack             JJ              5 
+new                  JJ              5 
 will                 VM              5 
 at                   II              5 
 flights              NN2             4 
@@ -18,6 +18,7 @@ customers            NN2             4
 simply               RR              4 
 their                APPGE           4 
 1                    MC1             3 
+'s                   GE              3 
 first                MD              3 
 in                   II              3 
 time                 NNT1            3 
@@ -32,7 +33,7 @@ can                  VM              3
 have                 VH0             3 
 your                 APPGE           3 
 **                   FU              2 
-Zealands             NP2             2 
+New_Zealand          NP1             2 
 its                  APPGE           2 
 just                 RR              2 
 $50                  NNU             2 
@@ -48,6 +49,7 @@ via                  II              2
 or                   CC              2 
 jet-pack             NN1             2 
 ensuring             VVG             2 
+they                 PPHS2           2 
 go                   VVI             2 
 to                   II              2 
 means                VVZ             2 
@@ -102,10 +104,9 @@ store                NN1             1
 then                 RT              1 
 pick_up              VV0             1 
 convenient           JJ              1 
-theyre               NN1             1 
-set                  VVD             1 
+'re                  VBR             1 
+set                  VVN             1 
 leisure              NN1             1 
-centres              NN2             1 
 spokesperson         NN1             1 
 Marie_Pilkington     NP1             1 
 this                 DD1             1 
@@ -131,7 +132,6 @@ our                  APPGE           1
 140                  MC              1 
 convenience          NN1             1 
 if                   CS              1 
-they                 PPHS2           1 
 early                JJ              1 
 morning              NNT1            1 
 meeting              NN1             1 

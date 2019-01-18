@@ -46,7 +46,8 @@
 0000006 090 produced                                    03 [VVN/100] JJ%/0 VVD/0
 0000006 100 out                                         97 [II21/100] RP@/0
 0000006 110 of                                          97 [II22/100] IO@/0
-0000006 120 HITs                                        93 [NN2/100] VVZ/0
+0000006 120 HIT                       >                 93 [NN1@/100] VVN/0 VV0@/0 VVD/0
+0000006 121 's                        <                 03 [GE/77] VBZ/23 VHZ@/1
 0000006 130 UK                                          93 NP1
 0000006 140 headquarters                                93 NN
 0000006 150 with                                        93 IW
@@ -142,7 +143,8 @@
 0000012 110 new                                         93 JJ
 0000012 120 creative                                    93 JJ
 0000012 130 direction                                   93 NN1
-0000012 140 were                                        93 VBDR
+0000012 140 we                        >                 93 PPIS2
+0000012 141 're                       <                 03 VBR
 0000012 150 working                                     93 [VVG/100] JJ@/0 NN1%/0
 0000012 160 on                                          93 [RP@/100] II/0
 0000012 170 we                                          93 PPIS2

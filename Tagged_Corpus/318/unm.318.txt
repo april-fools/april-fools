@@ -1,7 +1,6 @@
 $50,000                  NNU     Z99 
 ActionScript             NN1     Z99 
 Adobe                    NN1     Z99 
-Adobes                   NN2     Z99 
 apk                      VV0     Z99 
 b*tches                  FO      Z99 
 CS6.0                    FO      Z99 

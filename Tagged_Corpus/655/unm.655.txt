@@ -13,7 +13,6 @@ greenlighted             JJ@     Z99
 Helios                   NP2     Z99 
 Krasinski-directed       JJ      Z99 
 Kroll                    NP1     Z99 
-Limans                   NP2     Z99 
 Lionsgate                NP1     Z99 
 million-$200             FO      Z99 
 Moana                    NP1     Z99 

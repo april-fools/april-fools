@@ -1,23 +1,23 @@
-TOTAL              418
+TOTAL              424
 the                  AT             22 
 and                  CC             15 
 oil                  NN1            13 
 Iraq                 NP1             9 
 we                   PPIS2           8 
 in                   II              7 
+trump                NN1             7 
 to                   TO              7 
 that                 CST             7 
 his                  APPGE           6 
 for                  IF              6 
 to                   II              6 
+that                 DD1             6 
 U.S.                 NP1             6 
 should               VM              6 
 a                    AT1             5 
-trump                NN1             5 
 is                   VBZ             5 
 policy               NN1             4 
 on                   II              4 
-that                 DD1             4 
 Iran                 NP1             4 
 would                VM              4 
 take                 VV0             4 
@@ -26,10 +26,12 @@ i                    PPIS1           4
 Fox                  NP1             3 
 host                 NN1             3 
 of                   IO              3 
+'s                   VBZ             3 
+you                  PPY             3 
 be                   VBI             3 
 if                   CS              3 
 do                   VD0             3 
-nt                   XX              3 
+n't                  XX              3 
 died                 VVN             3 
 going_to             VVGK            3 
 happen               VVI             3 
@@ -37,10 +39,11 @@ foreign              JJ              2
 war                  NN1             2 
 news                 NN1             2 
 an                   AT1             2 
+what                 DDQ             2 
 us                   PPIO2           2 
+'s                   GE              2 
 friends              NN2             2 
 re-invading          VVG             2 
-you                  PPY             2 
 get                  VVI             2 
 can                  VM              2 
 world                NN1             2 
@@ -50,7 +53,6 @@ soldiers             NN2             2
 have                 VHI             2 
 in                   RR21            2 
 vain                 RR22            2 
-thats                NN2             2 
 take                 VVI             2 
 want                 VV0             2 
 take_over            VV0             2 
@@ -74,7 +76,7 @@ farcical             JJ              1
 platform             NN1             1 
 revealing            VVG             1 
 thoughts             NN2             1 
-Bill_OReilly         NP1             1 
+Bill_O'Reilly        NP1             1 
 last                 MD              1 
 week                 NNT1            1 
 real                 JJ              1 
@@ -96,7 +98,6 @@ into                 II              1
 argued               VVD             1 
 stay                 VV0             1 
 keep                 VV0             1 
-whats                NN2             1 
 necessary            JJ              1 
 pay                  VV0             1 
 our_self             APPGE           1 
@@ -105,11 +106,10 @@ $1.5                 NNU             1
 trillion             NNO             1 
 or                   CC              1 
 more                 RRR             1 
-oreilly              RR              1 
+O'Reilly             NP1             1 
 later                RRR             1 
 mocked               VVN             1 
-trumps               NN2             1 
-youd                 VV0             1 
+'d                   VM              1 
 basically            RR              1 
 country              NN1             1 
 already              RR              1 
@@ -158,7 +158,6 @@ want                 VVI             1
 parents              NN2             1 
 families             NN2             1 
 proud                JJ              1 
-trumps               VVZ             1 
 apprentice-level     JJ              1 
 understanding        NN1             1 
 unique               JJ              1 
@@ -176,7 +175,6 @@ leader               NN1             1
 failing              VVG             1 
 enough               DD              1 
 repay                VVI             1 
-what                 DDQ             1 
 did                  VDD             1 
 libyan               JJ              1 
 operations           NN2             1 

@@ -1,24 +1,23 @@
-TOTAL              908
+TOTAL              921
 the                  AT             57 
 of                   IO             22 
 that                 CST            20 
 and                  CC             20 
+'s                   GE             17 
 to                   TO             17 
 was                  VBDZ           15 
 in                   II             14 
 a                    AT1            13 
-FBI                  NP1            11 
-it                   PPH1           11 
+FBI                  NP1            12 
+it                   PPH1           12 
+Clinton              NP1            11 
 be                   VBI             8 
 said                 VVD             8 
+Comey                NP1             8 
 been                 VBN             7 
-'s                   GE              7 
 election             NN1             7 
 on                   II              7 
-Clinton              NP1             7 
 would                VM              7 
-Comey                NP1             7 
-Clintons             NP2             6 
 to                   II              6 
 had                  VHD             6 
 there                EX              6 
@@ -30,6 +29,7 @@ cause                NN1             5
 is                   VBZ             5 
 email                NN1             5 
 they                 PPHS2           5 
+Hillary_Clinton      NP1             4 
 who                  PNQS            4 
 warrant              NN1             4 
 by                   II              4 
@@ -40,8 +40,8 @@ he                   PPHS1           4
 no                   AT              4 
 his                  APPGE           4 
 against              II              4 
+n't                  XX              4 
 she                  PPHS1           4 
-its                  APPGE           3 
 two                  MC              3 
 has                  VHZ             3 
 lawyer               NN1             3 
@@ -57,18 +57,18 @@ an                   AT1             3
 why                  RRQ             3 
 emails               NN2             3 
 from                 II              3 
-Hillary_Clinton      NP1             3 
 or                   CC              3 
 her                  APPGE           3 
 before               II              3 
+could                VM              3 
 about                II              3 
 trump                NN1             3 
 for                  IF              3 
 after                II              3 
 Bill_Clinton         NP1             3 
 but                  CCB             3 
-Hillary              NP1             2 
 2016                 MC              2 
+its                  APPGE           2 
 weeks                NNT2            2 
 says                 VVZ             2 
 agency               NN1             2 
@@ -87,6 +87,7 @@ server               NN1             2
 believe              VVI             2 
 laptop               NN1             2 
 all                  DB              2 
+Abedin               NP1             2 
 find                 VVI             2 
 congress             NN1             2 
 even                 RR              2 
@@ -116,7 +117,6 @@ may                  VM              2
 have                 VHI             2 
 former               DA              2 
 president            NN1             2 
-couldnt              VV0             2 
 russians             NN2             2 
 that                 DD1             2 
 name                 NN1             2 
@@ -142,7 +142,7 @@ wants                VVZ             1
 provided             VVN             1 
 disgraced            JJ              1 
 congressman          NN1             1 
-Anthony_Weiners      NP1             1 
+Anthony_Weiner       NP1             1 
 computer             NN1             1 
 incriminating        JJ              1 
 weiner               NN1             1 
@@ -198,7 +198,6 @@ anything_other       PN1             1
 than                 II22            1 
 routine              NN1             1 
 between              II              1 
-Abedin               NP1             1 
 USA_today            NP1             1 
 remains              VVZ             1 
 unknown              JJ              1 
@@ -267,7 +266,6 @@ appear               VV0             1
 pertinent            JJ              1 
 comey                NN1             1 
 wrote                VVD             1 
-could                VM              1 
 assess               VVI             1 
 whether              CSW             1 
 significant          JJ              1 
@@ -295,7 +293,6 @@ after                CS              1
 previously           RR              1 
 deciding             VVG             1 
 charges              NN2             1 
-Comeys               NP1             1 
 primary              JJ              1 
 cudgel               NN1             1 
 supporters           NN2             1 
@@ -318,7 +315,6 @@ York_on_Nov.         NP1             1
 photo                NN1             1 
 Matt_Rourke          NP1             1 
 AP                   NP1             1 
-Abedins              NP1             1 
 lawyers              NN2             1 
 requesting           VVG             1 
 permission           NN1             1 
@@ -328,7 +324,6 @@ their                APPGE           1
 client               NN1             1 
 never                RR              1 
 saw                  VVD             1 
-nt                   XX              1 
 alerted              VVN             1 
 preventing           VVG             1 
 them                 PPHO2           1 
@@ -370,18 +365,17 @@ fought               VVN             1
 through              II              1 
 everything           PN1             1 
 prevailed            VVD             1 
-endure               VV0             1 
+endure               VVI             1 
 combination          NN1             1 
-FBIs                 NP2             1 
 meddling             NN1             1 
 end                  NN1             1 
 deal                 NN1             1 
-prevail              VV0             1 
+prevail              VVI             1 
 told                 VVD             1 
 reporters            NN2             1 
 Albany               NP1             1 
+Hillary              NP1             1 
 'could               VV0             1 
-n't                  XX              1 
 prevail'             JJ              1 
 over                 II              1 
 FBI_trump            NP1             1 
@@ -396,8 +390,11 @@ certified            JJ              1
 feuds                NN2             1 
 republicans          NN2             1 
 mocked               VVN             1 
+Clintons             NP2             1 
+'                    GE              1 
 contention           NN1             1 
 said                 VVN             1 
+'s                   VBZ             1 
 excuse               NN1             1 
 some                 DD              1 
 strategic            JJ              1 
@@ -444,7 +441,7 @@ public               NN1             1
 matter               NN1             1 
 put                  VVN             1 
 rest                 VVI             1 
-agents               NN2             1 
+agent                NN1             1 
 disclosed            VVN             1 
 think                VV0             1 
 appropriate          JJ              1 

@@ -1,4 +1,4 @@
-TOTAL              306
+TOTAL              307
 the                  AT             25 
 that                 CST             9 
 is                   VBZ             8 
@@ -95,7 +95,8 @@ to                   II              1
 judgement            NN1             1 
 ignoring             VVG             1 
 national             JJ              1 
-committees           NN2             1 
+committee            NN1             1 
+'s                   GE              1 
 clear                JJ              1 
 wrong                JJ              1 
 count                VVI             1 

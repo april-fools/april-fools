@@ -135,8 +135,9 @@
 0000008 140 the                                         93 AT
 0000008 150 Democratic                                  93 JJ
 0000008 160 National                                    93 JJ
-0000008 170 Committees                                  93 NN2
-0000008 180 clear                                       03 [JJ/85] VV0@/15 RR@/1
+0000008 170 Committee                 >                 93 NN1
+0000008 171 's                        <                 98 GE
+0000008 180 clear                                       96 JJ
 0000008 190 statement                                   03 NN1
 0000008 200 that                                        97 [CST/100] DD1@/0
 0000008 210 it                                          93 PPH1

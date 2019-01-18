@@ -1,31 +1,31 @@
-TOTAL              532
+TOTAL              541
 the                  AT             16 
 her                  APPGE          14 
 that                 CST            14 
 she                  PPHS1          13 
 and                  CC             12 
+Anne                 NP1            11 
 was                  VBDZ           10 
 to                   TO             10 
 for                  IF             10 
 of                   IO              9 
 on                   II              7 
-Anne                 NP1             7 
 2014                 MC              7 
 a                    AT1             6 
 have                 VH0             5 
 what                 DDQ             5 
+'s                   GE              5 
 April_3              NPM1            5 
+Sam                  NP1             5 
 Anne_Curtis          NP1             4 
 stung                VVN             4 
 by                   II              4 
 jellyfish            NN              4 
 to                   II              4 
-Annes                NP2             4 
 saying               VVG             4 
 her                  PPHO1           4 
 i                    PPIS1           4 
 jasmine              NN1             4 
-Sam                  NP1             4 
 detractors           NN2             3 
 about                II              3 
 Erwan_Heussaff       NP1             3 
@@ -37,7 +37,9 @@ being                VBG             3
 box                  NN1             3 
 comments             NN2             3 
 deserved             VVD             3 
+n't                  XX              3 
 is                   VBZ             3 
+could                VM              3 
 also                 RR              3 
 all                  DB              3 
 has                  VHZ             3 
@@ -46,12 +48,14 @@ thank_you            VV0             3
 made                 VVN             2 
 jokes                NN2             2 
 while                CS              2 
+'                    GE              2 
 others               NN2             2 
 remained             VVN             2 
 do                   VD0             2 
 jasmine_Curtis-Smith NN1             2 
 say                  VVI             2 
 set                  NN1             2 
+show                 NN1             2 
 result               NN1             2 
 from                 II              2 
 fans                 NN2             2 
@@ -59,6 +63,7 @@ several              DA2             2
 happened_to          VVD             2 
 bad                  JJ              2 
 are                  VBR             2 
+feel                 VVI             2 
 deserves             VVZ             2 
 na                   FU              2 
 niya                 NN1             2 
@@ -82,11 +87,9 @@ my                   APPGE           2
 your                 APPGE           2 
 Anne_Curtis-Smith    NP1             2 
 @annecurtissmith     FO              2 
-couldnt              VV0             2 
 after                CS              1 
 taping               VVG             1 
 'dyesebel            NN1             1 
-'                    GE              1 
 while                NNT1            1 
 unsympathetic        JJ              1 
 have_to              VH0             1 
@@ -96,10 +99,9 @@ those                DD2             1
 close                JJ              1 
 taken_to             VVN             1 
 speak_up             VVI             1 
-singer-actress       JJ              1 
+singer-actress       NN1             1 
 following            VVG             1 
 hospitalization      NN1             1 
-show                 VV0             1 
 Dyesebel_on_April    NP1             1 
 3                    MC              1 
 hospitalized         VVN             1 
@@ -125,8 +127,6 @@ similar              JJ              1
 seen                 VVN             1 
 online               RR              1 
 seriously            RR              1 
-n't                  XX              1 
-feel                 VVI             1 
 think                VV0             1 
 jellyfishes          NN2             1 
 did                  VDD             1 
@@ -159,7 +159,6 @@ risk                 NN1             1
 in_terms_of          II31            1 
 health               NN1             1 
 how                  RRQ             1 
-could                VM              1 
 anyone               PN1             1 
 wish                 VVI             1 
 upon                 II              1 
@@ -190,7 +189,8 @@ at                   II              1
 birthday             NN1             1 
 party                NN1             1 
 friend               NN1             1 
-its                  APPGE           1 
+it                   PPH1            1 
+'s                   VBZ             1 
 showtime             NNT1            1 
 co-host              NN1             1 
 vice                 II              1 
@@ -219,7 +219,6 @@ stages               NN2             1
 management           NN1             1 
 which                DDQ             1 
 manages              VVZ             1 
-Sams                 NP2             1 
 career               NN1             1 
 cares                VVZ             1 
 deeply               RR              1 
@@ -264,10 +263,9 @@ rushed               VVN             1
 local                JJ              1 
 hospital             NN1             1 
 near                 II              1 
-feel                 VV0             1 
 legs                 NN2             1 
 slowly               RR              1 
-breathe              VV0             1 
+breathe              VVI             1 
 properly             RR              1 
 feared               VVD             1 
 life                 NN1             1 
@@ -287,6 +285,5 @@ their                APPGE           1
 best_wishes          JJT             1 
 continued            VVD             1 
 promote              VVI             1 
-show                 NN1             1 
 Dyesebel             NP1             1 
 Rappler.com          NP1             1 

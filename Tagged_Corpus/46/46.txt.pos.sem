@@ -33,8 +33,9 @@
 0000004 050  CST     that                     Z8 Z5 
 0000004 060  II      despite                  Z5 
 0000004 070  NN1     singer                   K2/S2mf 
-0000004 080  NP1     Damon                    Z1m 
-0000004 090  NP2     Albarns                  Z99 
+0000004 080  NP1     Damon                    Z1mf[i2.2.1 Z3c[i2.2.1 Z1m 
+0000004 090  NP1     Albarn                   Z1mf[i2.2.2 Z3c[i2.2.2 
+0000004 091  GE      's                       Z5 
 0000004 100  JJ      recent                   T3- 
 0000004 110  JJ      massive                  N3.2+ 
 0000004 120  NN1     success                  X9.2+ 
@@ -42,7 +43,7 @@
 0000004 140  NP1     Gorillaz                 Z99 
 0000004 141  ,       ,                        
 0000004 150  PPHS1   he                       Z8m 
-0000004 151  VBZ     s                        Z5 
+0000004 151  VBZ     's                       Z5 A3+ 
 0000004 160  VVN     found                    A10+ X2.1 X6+.1 
 0000004 170  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000004 180  TO      to                       Z5 
@@ -55,10 +56,11 @@
 0000004 250  APPGE   their                    Z8 
 0000004 260  MD      first                    N4 
 0000004 270  NN1     LP                       K3 
-0000004 280  II@     since                    Z5 
-0000004 290  MC2     2003s                    T1.3 N1 T3 
-0000004 300  VV0     Think                    S5/X2.1c[i2.2.1 X2.1 
-0000004 310  NN1     Tank                     S5/X2.1c[i2.2.2 O2 G3/M3fn 
+0000004 280  II      since                    Z5 
+0000004 290  MC      2003                     T1.3[i3.2.1 N1[i3.2.1 T3[i3.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000004 291  GE      's                       T1.3[i3.2.2 N1[i3.2.2 T3[i3.2.2 Z5 
+0000004 300  VV0     Think                    X2.1 
+0000004 310  NP1     Tank'                    Z99 
 0000004 311  .       .                        
 0000005 001  -----   -----                    
 0000006 010  NP1     James                    Z1m 
@@ -94,11 +96,12 @@
 0000006 210  JJ      dirty                    O4.2- G2.2- S1.2.4- 
 0000006 211  ,       ,                        
 0000006 220  JJ      filthy                   O4.2- S1.2.4- 
-0000006 230  NN1     rock                     K2[i3.2.1 O2 O1.1 K2 F1 
-0000006 240  NN1     music                    K2[i3.2.2 K2 
-0000006 250  PPIS1   I                        Z4[i4.2.1 Z8mf 
-0000006 260  VV0     think                    Z4[i4.2.2 X2.1 
-0000006 270  VV0     weve                     Z99 
+0000006 230  NN1     rock                     K2[i4.2.1 O2 O1.1 K2 F1 
+0000006 240  NN1     music                    K2[i4.2.2 K2 
+0000006 250  PPIS1   I                        Z8mf 
+0000006 260  VV0     think                    X2.1 
+0000006 270  PPIS2   we                       Z8 
+0000006 271  VH0     've                      A9+ A2.2 Z5 
 0000006 280  RR      ever                     T1.1 N6+++ A13 
 0000006 290  VV0     madeit                   Z99 
 0000006 300  VBDZ    was                      A3+ Z5 
@@ -112,14 +115,16 @@
 0000008 022  NULL    <quote>                  
 0000008 023  -----   -----                    
 0000008 030  CC      And                      Z5 
-0000008 040  JJ%     then                     Z5 T1.1.1 N4 T1.2 
-0000008 050  NP2     Damons                   Z1m 
+0000008 040  RT      then                     N4 Z5 T1.2 
+0000008 050  NP1     Damon                    Z1m 
+0000008 051  VHZ     's                       Z5 A9+ A2.2 
 0000008 060  VBN     been                     Z5 A3+ 
 0000008 070  VVG     making                   A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
 0000008 080  APPGE   his                      Z8m 
 0000008 090  NN2     records                  Q1.2 K3 T1.1.1 N5+ 
 0000008 091  ,       ,                        
-0000008 100  NN1     Ive                      Z99 
+0000008 100  PPIS1   I                        Z8mf 
+0000008 101  VH0     've                      Z5 A9+ A2.2 
 0000008 110  VBN     been                     A3+ Z5 
 0000008 120  JJ      busy                     A1.1.1/N5+ 
 0000008 130  IW      with                     Z5 
@@ -129,8 +134,9 @@
 0000008 151  )       )                        
 0000008 160  VV0     Wigwam                   Z99 
 0000008 170  CC      and                      Z5 
-0000008 180  NP2     Daves                    Z1m 
-0000008 190  VVD     got                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000008 180  NP1     Dave                     Z1m 
+0000008 181  VHZ     's                       Z5 A9+ A2.2 
+0000008 190  VVN     got                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
 0000008 200  DD1     this                     M6 Z5 Z8 
 0000008 210  NN      multi-media              Z99 
 0000008 220  NN1     empire                   G1.1 I2.1/S+ 
@@ -138,17 +144,18 @@
 0000008 240  RP@     on                       T2++[i5.2.2 M1[i5.2.2 Q2.1/N5+[i5.2.2 A1.1.1[i5.2.2 M6 A1.1.1 
 0000008 241  ,       ,                        
 0000008 250  CCB     but                      Z5 
-0000008 260  PPIS1   I                        Z8mf 
-0000008 270  VV0     think                    X2.1 
-0000008 280  NN2     theres                   Z5 M6 T1.2 
-0000008 290  VVZ     plans                    X7+ 
+0000008 260  PPIS1   I                        Z4[i6.2.1 Z8mf 
+0000008 270  VV0     think                    Z4[i6.2.2 X2.1 
+0000008 280  EX      there                    Z5 
+0000008 281  VBZ     's                       A3+ Z5 
+0000008 290  NN2     plans                    X7+ C1/H1 
 0000008 300  TO      to                       Z5 
 0000008 310  VVI     reconvene                Z99 
 0000008 320  RR      really                   A13.3 A5.2+ 
 0000008 330  RR      soon                     T1.1.3/N3.8+ 
 0000008 331  ,       ,                        
-0000008 340  PPIS1   I                        Z4[i6.2.1 Z8mf 
-0000008 350  VV0     think                    Z4[i6.2.2 X2.1 
+0000008 340  PPIS1   I                        Z4[i7.2.1 Z8mf 
+0000008 350  VV0     think                    Z4[i7.2.2 X2.1 
 0000008 360  RR      probably                 A7+ 
 0000008 370  II      towards                  Z5 
 0000008 380  AT      the                      Z5 
@@ -167,7 +174,8 @@
 0000010 051  ,       ,                        
 0000010 060  JJ      aggressive               E3- 
 0000010 070  NN1     music                    K2 
-0000010 080  NN1     theyve                   Z99 
+0000010 080  PPHS2   they                     Z8mfn 
+0000010 081  VH0     've                      Z5 A9+ A2.2 
 0000010 090  VBN     been                     Z5 A3+ 
 0000010 100  VVG     working                  I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
 0000010 110  RP@     on                       M6 A1.1.1 
@@ -197,22 +205,24 @@
 0000012 090  DD1     that                     Z8 Z5 
 0000012 091  .       .                        
 0000012 092  -----   -----                    
-0000012 100  PPIS1   I                        Z4[i7.2.1 Z8mf 
-0000012 110  VV0     mean                     Z4[i7.2.2 Q1.1 X7+ 
+0000012 100  PPIS1   I                        Z4[i8.2.1 Z8mf 
+0000012 110  VV0     mean                     Z4[i8.2.2 Q1.1 X7+ 
 0000012 111  ,       ,                        
 0000012 120  PPY     you                      Z8mf 
 0000012 130  RR      never                    T1/Z6 
 0000012 140  VV0     know                     X2.2+ S3.2/B1% 
 0000012 150  DDQ     what                     Z8 Z5 
 0000012 160  AT1     a                        Z5 
-0000012 170  NN2     records                  Q1.2 K3 T1.1.1 N5+ 
+0000012 170  NN1     record                   Q1.2 K3 T1.1.1 A5.1+++ 
+0000012 171  VBZ     's                       Z5 A3+ 
 0000012 180  VVGK    gon                      T1.1.3 
 0000012 181  TO      na                       Z5 
-0000012 190  NN1     sound                    A6.1+[i8.2.1 X3.2 
-0000012 200  II      like                     A6.1+[i8.2.2 Z5 
-0000012 210  NN1@    till                     I1/O2 
-0000012 220  NN1     youve                    Z99 
-0000012 230  VVD     finished                 T2- A1.5.1/N5.1+ A1.1.1 X9.2- 
+0000012 190  RR%     sound                    A6.1+[i9.2.1 
+0000012 200  VVI     like                     A6.1+[i9.2.2 E2+ 
+0000012 210  CS      till                     Z5 
+0000012 220  PPY     you                      Z8mf 
+0000012 221  VH0     've                      Z5 A9+ A2.2 
+0000012 230  VVN     finished                 T2- A1.5.1/N5.1+ A1.1.1 X9.2- 
 0000012 240  VVG     recording                Q1.2 K3 
 0000012 250  PPH1    it                       Z8 
 0000012 251  ,       ,                        
@@ -220,8 +230,8 @@
 0000012 270  PPH1    it                       Z8 
 0000012 280  VBDZ    was                      Z5 A3+ 
 0000012 290  VVG     sounding                 X3.2 Q2.2 A8 N3.1% 
-0000012 300  DD1     that                     S3.2[i9.2.1 Z5 Z8 
-0000012 310  NN1     way                      S3.2[i9.2.2 X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000012 300  DD1     that                     S3.2[i10.2.1 Z5 Z8 
+0000012 310  NN1     way                      S3.2[i10.2.2 X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
 0000012 311  .       .                        
 0000013 001  NULL    </quote>                 
 0000014 001  NULL    <quote>                  

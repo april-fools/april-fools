@@ -5,7 +5,8 @@
 0000002 030  VHZ     has                      Z5 A9+ A2.2 S4 
 0000002 040  RR      sensationally            Z99 
 0000002 050  VVN     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
-0000002 060  NP2     CNNs                     Z99 
+0000002 060  NP1     CNN                      Z99 
+0000002 061  GE      's                       Z5 
 0000002 070  NN1     Wolf                     Z1mf 
 0000002 080  NN1@    Blitzer                  Z99 
 0000002 090  CST     that                     Z8 Z5 
@@ -103,7 +104,7 @@
 0000006 220  NN      people                   S2mfc 
 0000006 230  VVN     elected                  G1.2/X7+ 
 0000006 240  AT      the                      Z5 
-0000006 250  NP1     Donald                   Z1mf 
+0000006 250  NP1     Donald'                  Z99 
 0000006 260  RT      then                     N4 Z5 T1.2 
 0000006 270  PPIS1   I                        Z8mf 
 0000006 280  VM      will                     T1.1.3 
@@ -131,7 +132,8 @@
 0000008 110  II      in                       S7.1+[i12.2.1 Z5 
 0000008 120  NN1     charge                   S7.1+[i12.2.2 I1.3 O3 G2.1 M1 G3% 
 0000008 121  ,       ,                        
-0000008 130  NP2     Obamas                   Z99 
+0000008 130  NP1     Obama                    Z99 
+0000008 131  GE      's                       Z5 
 0000008 140  NN1     response                 Q2.1 S1.1.2+ 
 0000008 150  VBDZ    was                      A3+ Z5 
 0000008 160  JJ      firm                     O4.5 A7+ A1.7+ 
@@ -195,7 +197,7 @@
 0000010 300  NN1     motion                   M1 Q1.1 
 0000010 310  IO      of                       Z5 
 0000010 320  AT      no                       Z6 
-0000010 330  NN1     confidence               E6+ A10- 
+0000010 330  NN1     confidence'              Z99 
 0000010 340  II      in                       Z5 
 0000010 350  APPGE   our                      Z8 
 0000010 360  NN2     citizens                 G1.1/S2mf S5+/S2mf 
@@ -213,7 +215,8 @@
 0000011 001  -----   -----                    
 0000012 010  VV0     Wait                     T1.3 A3+ A11.1+ S1.1.1% 
 0000012 011  ,       ,                        
-0000012 020  VV0     youre                    Z99 
+0000012 020  PPY     you                      Z8mf 
+0000012 021  VBR     're                      A3+ Z5 
 0000012 030  JJ      willing                  X7+ X5.2+ 
 0000012 040  TO      to                       Z5 
 0000012 050  VVI     impeach                  G2.1 
@@ -279,8 +282,8 @@
 0000014 080  NN1     Ban                      S7.4- 
 0000014 090  VM      Would                    A7+ 
 0000014 100  VBI     Be                       A3+ Z5 
-0000014 110  JJ      Discriminatory           A6.1- G2.2- 
-0000014 120  NN1@    Obama                    Z99 
+0000014 110  NP1     Discriminatory'          Z1mf[i20.2.1 Z3c[i20.2.1 
+0000014 120  NP1     Obama                    Z1mf[i20.2.2 Z3c[i20.2.2 
 0000014 130  VVG     refusing                 Q2.2/Z6 S7.4- X7- 
 0000014 140  TO      to                       Z5 
 0000014 150  VVI     leave                    M1 M2 A1.1.1 A1.9 A9- T2- 
@@ -296,8 +299,8 @@
 0000015 090  NN1     Ban                      S7.4- 
 0000015 100  VM      Would                    A7+ 
 0000015 110  VBI     Be                       A3+ Z5 
-0000015 120  JJ      Discriminatory           A6.1- G2.2- 
-0000015 130  NN1@    Obama                    Z99 
+0000015 120  NP1     Discriminatory'          Z1mf[i21.2.1 Z3c[i21.2.1 
+0000015 130  NP1     Obama                    Z1mf[i21.2.2 Z3c[i21.2.2 
 0000015 140  VVG     refusing                 Q2.2/Z6 S7.4- X7- 
 0000015 150  TO      to                       Z5 
 0000015 160  VVI     leave                    M1 M2 A1.1.1 A1.9 A9- T2- 
@@ -313,8 +316,8 @@
 0000016 100  NN1     family                   S4c A4.1c 
 0000016 110  II      inside                   Z5 
 0000016 120  AT      the                      Z5 
-0000016 130  NP1     White                    Z3c[i20.2.1 Z2[i20.2.1 Z1mf 
-0000016 140  NN1     House                    Z3c[i20.2.2 Z2[i20.2.2 H1 P1/S5+c G1.1c 
+0000016 130  NP1     White                    Z3c[i22.2.1 Z2[i22.2.1 Z1mf 
+0000016 140  NN1     House                    Z3c[i22.2.2 Z2[i22.2.2 H1 P1/S5+c G1.1c 
 0000016 150  CS      if                       Z7 
 0000016 160  PPH1    it                       Z8 
 0000016 170  VVZ     means                    Q1.1 X7+ 
@@ -323,14 +326,15 @@
 0000016 200  NN1     Trump                    Z1mf 
 0000016 210  NN1     family                   S4c A4.1c 
 0000016 220  II      from                     Z5 
-0000016 230  VVG     taking                   A9+[i21.2.1 T2+[i21.2.1 A1.5.1[i21.2.1 M2[i21.2.1 N3.7-/A2.1[i21.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
-0000016 240  RP      up                       A9+[i21.2.2 T2+[i21.2.2 A1.5.1[i21.2.2 M2[i21.2.2 N3.7-/A2.1[i21.2.2 
+0000016 230  VVG     taking                   A9+[i23.2.1 T2+[i23.2.1 A1.5.1[i23.2.1 M2[i23.2.1 N3.7-/A2.1[i23.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000016 240  RP      up                       A9+[i23.2.2 T2+[i23.2.2 A1.5.1[i23.2.2 M2[i23.2.2 N3.7-/A2.1[i23.2.2 
 0000016 250  NN1     residency                P1 H4 
 0000016 260  RL      there                    M6 T1.2 
 0000016 261  .       .                        
 0000016 262  -----   -----                    
-0000016 270  NP1@    Ive                      Z99 
-0000016 280  VVD     instructed               Q2.2 P1 
+0000016 270  PPIS1   I                        Z8mf 
+0000016 271  VH0     've                      Z5 A9+ A2.2 
+0000016 280  VVN     instructed               Q2.2 P1 
 0000016 290  AT      the                      Z5 
 0000016 300  JJ      Secret                   A10- 
 0000016 310  NN1     Service                  S8+ S7.1- I2.2 A1.1.1 S9 I3.1 F1 G3@ G1.1@ G2.1@ 
@@ -341,8 +345,8 @@
 0000016 360  II      in                       Z5 
 0000016 370  VVG     defending                S8+ G3 G2.1c Q2.2 K5.1 S7.3+ 
 0000016 380  AT      the                      Z5 
-0000016 390  NP1     White                    Z3c[i22.2.1 Z2[i22.2.1 Z1mf 
-0000016 400  NN1     House                    Z3c[i22.2.2 Z2[i22.2.2 H1 P1/S5+c G1.1c 
+0000016 390  NP1     White                    Z3c[i24.2.1 Z2[i24.2.1 Z1mf 
+0000016 400  NN1     House                    Z3c[i24.2.2 Z2[i24.2.2 H1 P1/S5+c G1.1c 
 0000016 410  II      from                     Z5 
 0000016 420  AT      the                      Z5 
 0000016 430  NN1     Trump                    Z1mf 
@@ -359,13 +363,13 @@
 0000016 520  VVI     die                      L1- T2- 
 0000016 530  JJ      multiple                 N5+ 
 0000016 540  NNT2    times                    T1 T1.2 T1.3 T1.1.2 N6 N1 
-0000016 550  BCL21   in                       Z5[i23.3.1 Z5[i24.2.1 
-0000016 560  BCL22   order                    Z5[i23.3.2 Z5[i24.2.2 
-0000016 570  TO      to                       Z5[i23.3.3 Z5 
+0000016 550  BCL21   in                       Z5[i25.3.1 Z5[i26.2.1 
+0000016 560  BCL22   order                    Z5[i25.3.2 Z5[i26.2.2 
+0000016 570  TO      to                       Z5[i25.3.3 Z5 
 0000016 580  VVI     keep                     A9+ N6+ T2++ A1.7+ A2.2 F4 S8+ H4 
 0000016 590  PPHO2   them                     Z8mfn 
-0000016 600  II21    out                      Z5[i25.2.1 Z5 Z5[i26.2.1 A9-[i26.2.1 
-0000016 610  II22    of                       Z5[i25.2.2 Z5[i26.2.2 A9-[i26.2.2 
+0000016 600  II21    out                      Z5[i27.2.1 Z5 Z5[i28.2.1 A9-[i28.2.1 
+0000016 610  II22    of                       Z5[i27.2.2 Z5[i28.2.2 A9-[i28.2.2 
 0000016 620  RL      here                     M6 T1.1.2 T1.2 
 0000016 621  .       .                        
 0000017 001  -----   -----                    
@@ -380,16 +384,18 @@
 0000018 080  JJ      unconcerned              E6+ 
 0000018 090  II      by                       Z5 
 0000018 100  AT      the                      Z5 
-0000018 110  NN2     Presidents               G1.1/S7.1+/S2mf 
+0000018 110  NN1     President                G1.1/S7.1+/S2mf 
+0000018 111  GE      's                       Z5 
 0000018 120  NN1     stance                   O4.4/B1 X2.1 
 0000018 121  .       .                        
 0000018 122  -----   -----                    
 0000018 130  VD0     Do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000018 131  XX      nt                       S9/Q4.1 Z3c 
+0000018 131  XX      n't                      Z6 
 0000018 140  VVI     worry                    E6- 
 0000018 141  ,       ,                        
-0000018 150  RR      well                     A5.1+ A13.3 A7+ B2+ Z4 
-0000018 160  VV0     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000018 150  PPIS2   we                       Z8 
+0000018 151  VM      'll                      T1.1.3 
+0000018 160  VVI     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
 0000018 170  DD      some                     N5 Z5 
 0000018 180  IO      of                       Z5 
 0000018 190  AT      the                      Z5 
@@ -397,9 +403,9 @@
 0000018 210  NN1     amendment                A2.1+ 
 0000018 220  NN      people                   S2mfc 
 0000018 230  TO      to                       Z5 
-0000018 240  VVI     sort                     A1.1.1[i27.2.1 X9.2+[i27.2.1 A4.1[i27.2.1 E3-[i27.2.1 A4.1 A1.1.1 Y2 
+0000018 240  VVI     sort                     A1.1.1[i29.2.1 X9.2+[i29.2.1 A4.1[i29.2.1 E3-[i29.2.1 A4.1 A1.1.1 Y2 
 0000018 250  PPHO1   him                      Z8m 
-0000018 260  RP      out                      A1.1.1[i27.2.2 X9.2+[i27.2.2 A4.1[i27.2.2 E3-[i27.2.2 M6 
+0000018 260  RP      out                      A1.1.1[i29.2.2 X9.2+[i29.2.2 A4.1[i29.2.2 E3-[i29.2.2 M6 
 0000018 270  RG      pretty                   A13.5 
 0000018 280  RR      quickly                  N3.8+ 
 0000018 281  .       .                        

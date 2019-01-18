@@ -1,4 +1,4 @@
-TOTAL              365
+TOTAL              367
 the                  AT             26 
 of                   IO             21 
 a                    AT1            13 
@@ -11,6 +11,7 @@ synthesising         VVG             4
 which                DDQ             4 
 commercialisation    NN1             4 
 its                  APPGE           4 
+'s                   GE              4 
 researchers          NN2             3 
 new                  JJ              3 
 could                VM              3 
@@ -36,6 +37,7 @@ most                 RGT             2
 electronics          NN1             2 
 including            II              2 
 advanced             JJ              2 
+SAIT                 NP1             2 
 large-area           JJ              2 
 into                 II              2 
 crystal              NN1             2 
@@ -86,14 +88,12 @@ next-generation      JJ              1
 working              VVG             1 
 with                 IW              1 
 sungkyungkwan        JJ              1 
-universitys          NN2             1 
+university           NN1             1 
 school               NN1             1 
 materials_science    NN2             1 
 engineering          NN1             1 
 Samsung              NP1             1 
-'s                   GE              1 
 institute            NN1             1 
-SAIT                 NP1             1 
 has                  VHZ             1 
 uncovered            VVN             1 
 without              IW              1 
@@ -122,15 +122,13 @@ growing              VVG             1
 large                JJ              1 
 area                 NN1             1 
 displace             VVI             1 
-tech                 NN1             1 
-industrys            NN2             1 
+tech_industry        NN1             1 
 reliance             NN1             1 
 significant          JJ              1 
 breakthroughs        NN2             1 
 history              NN1             1 
 leaders              NN2             1 
 at                   II              1 
-SAITs                NP2             1 
 lab                  NN1             1 
 we                   PPIS2           1 
 expect               VV0             1 

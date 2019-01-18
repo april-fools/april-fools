@@ -1,4 +1,4 @@
-TOTAL              356
+TOTAL              357
 the                  Z5                  32 
 and                  Z5                  12 
 of                   Z5                  10 
@@ -6,8 +6,8 @@ to                   Z5                   9
 a                    Z5                   8 
 climate              W4                   8 
 in                   Z5                   8 
+Sarah_Palin          Z1                   7 
 that                 Z5                   6 
-Sarah_Palin          Z1                   5 
 science              Y1                   5 
 change               A2.1+                5 
 has                  Z5                   4 
@@ -32,10 +32,10 @@ governor             S7.1+                2
 be                   A3+                  2 
 White_house          Z3                   2 
 United_States        Z2                   2 
+it                   Z8                   2 
 drill                A1.1.1               2 
 scientists           Y1                   2 
-Sarah                Z1                   2 
-Palins               Z1                   2 
+'s                   Z5                   2 
 strong               S1.2.5+              2 
 disbelief            X2.1                 2 
 God                  S9                   2 
@@ -75,7 +75,7 @@ kept                 A9+                  1
 our                  Z8                   1 
 economy              I2.1                 1 
 rut                  A2.1-                1 
-its                  Z8                   1 
+'s                   A3+                  1 
 time                 T1                   1 
 open                 A10+                 1 
 pumps                O2                   1 
@@ -96,7 +96,6 @@ openly               A10+                 1
 end                  M6                   1 
 establishment        T2+                  1 
 know                 X2.2+                1 
-it                   Z8                   1 
 would                A7+                  1 
 relegate             S7.1-                1 
 dark_ages            T1.1.1               1 

@@ -14,14 +14,15 @@
 0000002 120  VVI     allow                    S7.4+ S8+ X2.1 
 0000002 130  NP1     UK                       Z2 
 0000002 140  TO      to                       Z5 
-0000002 150  VVI     take                     M2[i3.2.1 Q2.2[i3.2.1 T1.1.1[i3.2.1 E5-[i3.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ S7.1+[i2.2.1 
-0000002 160  RP      back                     Q2.2[i3.2.2 T1.1.1[i3.2.2 E5-[i3.2.2 M2[i3.2.2 M6 N6+ T1.1.1 S1.1.2+ 
-0000002 170  NN1     control                  S7.1+ A1.7+ O2 S7.1+[i2.2.2 
+0000002 150  VVI     take                     M2[i2.2.1 Q2.2[i2.2.1 T1.1.1[i2.2.1 E5-[i2.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000002 160  RP      back                     M2[i2.2.2 Q2.2[i2.2.2 T1.1.1[i2.2.2 E5-[i2.2.2 M6 N6+ T1.1.1 S1.1.2+ 
+0000002 170  NN1     control'                 Z99 
 0000002 180  VM      will                     T1.1.3 
-0000002 190  VVI     come                     A4.1[i4.2.1 M1[i4.2.1 B1[i4.2.1 N5[i4.2.1 X6+[i4.2.1 X2.1[i4.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
-0000002 200  II      to                       A4.1[i4.2.2 M1[i4.2.2 B1[i4.2.2 N5[i4.2.2 X6+[i4.2.2 X2.1[i4.2.2 Z5 
+0000002 190  VVI     come                     A4.1[i3.2.1 M1[i3.2.1 B1[i3.2.1 N5[i3.2.1 X6+[i3.2.1 X2.1[i3.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000002 200  II      to                       A4.1[i3.2.2 M1[i3.2.2 B1[i3.2.2 N5[i3.2.2 X6+[i3.2.2 X2.1[i3.2.2 Z5 
 0000002 210  PN1     nothing                  Z6/Z8 
-0000004 010  NP2     Germanys                 Z2 
+0000004 010  NP1     Germany                  Z2 
+0000004 011  GE      's                       Z5 
 0000004 020  NN1     president                G1.1/S7.1+/S2mf 
 0000004 030  VHZ     has                      Z5 A9+ A2.2 S4 
 0000004 040  VVN     launched                 M4 M5 T2+ 
@@ -34,20 +35,21 @@
 0000004 110  VVG     leading                  S7.1+ A2.2 M2 A1.1.1 
 0000004 120  AT      the                      Z5 
 0000004 130  NP1     UK                       Z2 
-0000004 140  II21    out                      Z5[i5.2.1 Z5 Z5[i6.2.1 A9-[i6.2.1 
-0000004 150  II22    of                       Z5[i5.2.2 Z5[i6.2.2 A9-[i6.2.2 
+0000004 140  II21    out                      Z5[i4.2.1 Z5 Z5[i5.2.1 A9-[i5.2.1 
+0000004 150  II22    of                       Z5[i4.2.2 Z5[i5.2.2 A9-[i5.2.2 
 0000004 160  AT      the                      Z5 
-0000004 170  JJ      European                 Z1mf[i7.2.1 Z3c[i7.2.1 Z3 
-0000004 180  NN1     Union                    Z1mf[i7.2.2 Z3c[i7.2.2 Z3c 
+0000004 170  JJ      European                 Z1mf[i6.2.1 Z3c[i6.2.1 Z3 
+0000004 180  NN1     Union                    Z1mf[i6.2.2 Z3c[i6.2.2 Z3c 
 0000004 181  ,       ,                        
 0000004 190  VVG     quoting                  Q2.2 I1.3 
 0000004 200  AT      the                      Z5 
 0000004 210  DA      former                   T2- N4 
 0000004 220  NN1     deputy                   S7.1-/S2mf 
-0000004 230  JJ      prime                    G1.1/S2mf[i8.2.1 A11.1+++ A5.1+++ A4.2+ 
-0000004 240  NN1     minister                 G1.1/S2mf[i8.2.2 G1.1/S2mf S9/S2mf 
-0000004 250  NP1     Michael                  Z1m 
-0000004 260  NP2     Heseltines               Z1mf 
+0000004 230  JJ      prime                    G1.1/S2mf[i7.2.1 A11.1+++ A5.1+++ A4.2+ 
+0000004 240  NN1     minister                 G1.1/S2mf[i7.2.2 G1.1/S2mf S9/S2mf 
+0000004 250  NP1     Michael                  Z1mf[i8.2.1 Z3c[i8.2.1 Z1m 
+0000004 260  NP1     Heseltine                Z1mf[i8.2.2 Z3c[i8.2.2 Z1mf 
+0000004 261  GE      's                       Z5 
 0000004 270  NN1     warning                  X2.2+/A15- A1.3+ 
 0000004 280  CST     that                     Z5 Z8 
 0000004 290  NP1     Britain                  Z2 
@@ -163,7 +165,7 @@
 0000012 040  NP1     Europe                   Z2 
 0000012 041  ,       ,                        
 0000012 050  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000012 051  XX      nt                       S9/Q4.1 Z3c 
+0000012 051  XX      n't                      Z6 
 0000012 060  VVI     become                   A2.1+ O4.2+ 
 0000012 070  RR      fully                    A13.2 N5.1+ 
 0000012 080  VVD     fledged                  T3+/A2.1 
@@ -258,8 +260,9 @@
 0000014 300  IO      of                       Z5 
 0000014 310  AT      the                      Z5 
 0000014 320  JJ      prime                    G1.1/S2mf[i18.2.1 A11.1+++ A5.1+++ A4.2+ 
-0000014 330  NN2     ministers                G1.1/S2mf[i18.2.2 G1.1/S2mf S9/S2mf 
-0000014 340  VV0     Brexit                   Z99 
+0000014 330  NN1     minister                 G1.1/S2mf[i18.2.2 G1.1/S2mf S9/S2mf 
+0000014 331  GE      's                       Z5 
+0000014 340  NN1     Brexit                   Z99 
 0000014 350  NN2     talks                    Q2.1 
 0000014 360  IW      with                     Z5 
 0000014 370  NP1     Brussels                 Z2 
@@ -510,7 +513,8 @@
 0000026 290  NN2     hatches                  O2 
 0000026 291  .       .                        
 0000026 292  -----   -----                    
-0000026 300  VVZ     Thats                    Z5 Z8 A13.3 A6.1+ 
+0000026 300  DD1     That                     Z8 Z5 
+0000026 301  VBZ     's                       A3+ Z5 
 0000026 310  AT      the                      Z5 
 0000026 320  JJ      only                     A14 
 0000026 330  NN1     way                      X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
@@ -520,11 +524,13 @@
 0000026 370  APPGE   our                      Z8 
 0000026 380  NN1     sovereignty              S7.1+ 
 0000026 381  .       .                        
-0000026 382  NULL    </quote>                 
-0000026 383  -----   -----                    
+0000026 382  "@      '                        
+0000026 383  NULL    </quote>                 
+0000026 384  -----   -----                    
 0000028 010  VVG     Describing               Q2.2 
-0000028 020  NN2     Britains                 Z2 
-0000028 030  VV0     vote                     G1.2 
+0000028 020  NP1     Britain                  Z2 
+0000028 021  GE      's                       Z5 
+0000028 030  NN1     vote                     G1.2 
 0000028 040  TO      to                       Z5 
 0000028 050  VVI     leave                    M1 M2 A1.1.1 A1.9 A9- T2- 
 0000028 060  CSA     as                       Z5 
@@ -547,9 +553,10 @@
 0000028 160  CC      and                      Z5 
 0000028 170  PPHS1   he                       Z8m 
 0000028 180  VVD     dismissed                A11.1- X2.1- I3.1- S7.4+/M1 G2.1 
-0000028 190  NP1     Donald                   Z1mf 
-0000028 200  NN2     Trumps                   K5.2 S7.1+ 
-0000028 210  VVZ     claims                   Q2.2 A9+ 
+0000028 190  NP1     Donald                   Z1mf[i27.2.1 Z3c[i27.2.1 Z1mf 
+0000028 200  NN1     Trump                    Z1mf[i27.2.2 Z3c[i27.2.2 Z1mf 
+0000028 201  GE      's                       Z5 
+0000028 210  NN2     claims                   Q2.2 A9+ G2.1 
 0000028 220  AT      the                      Z5 
 0000028 230  NP1     EU                       Z3c Z2 
 0000028 240  VBDZ    was                      A3+ Z5 
@@ -574,8 +581,8 @@
 0000030 110  CC      and                      Z5 
 0000030 120  VVN     ensured                  A7+ 
 0000030 130  CST     that                     Z5 Z8 
-0000030 140  APPGE   his                      Z8[i27.2.1 Z8m 
-0000030 150  DA      own                      Z8[i27.2.2 A9+ S5- 
+0000030 140  APPGE   his                      Z8[i28.2.1 Z8m 
+0000030 150  DA      own                      Z8[i28.2.2 A9+ S5- 
 0000030 160  NN1     country                  G1.1c W3 F4/M7 K2 
 0000030 170  VHD     had                      Z5 A9+ A2.2 S4 
 0000030 180  VVN     emerged                  M1 A10+ A1.1.1 
@@ -583,7 +590,8 @@
 0000030 200  AT      the                      Z5 
 0000030 210  NN2     terrors                  E5- G2.2-/S2mf 
 0000030 220  IO      of                       Z5 
-0000030 230  NP2     Hitlers                  Z1mf 
+0000030 230  NP1     Hitler                   Z1mf 
+0000030 231  GE      's                       Z5 
 0000030 240  NN1     rule                     G2.1 X4.2 A6.2+ S7.1+ Q3 
 0000030 241  .       .                        
 0000030 242  NULL    <quote>                  
@@ -652,21 +660,21 @@
 0000032 230  TO      to                       Z5 
 0000032 240  VBI     be                       A3+ Z5 
 0000032 250  AT1     a                        Z5 
-0000032 260  JJ      European                 Z1mf[i28.2.1 Z3c[i28.2.1 Z3 
-0000032 270  NP1     Germany                  Z1mf[i28.2.2 Z3c[i28.2.2 Z2 
+0000032 260  JJ      European                 Z1mf[i29.2.1 Z3c[i29.2.1 Z3 
+0000032 270  NP1     Germany                  Z1mf[i29.2.2 Z3c[i29.2.2 Z2 
 0000032 271  .       .                        
 0000032 272  NULL    </quote>                 
 0000032 273  -----   -----                    
-0000034 010  NP1     Michael                  Z1mf[i29.2.1 Z3c[i29.2.1 Z1m 
-0000034 020  NP1     Heseltine                Z1mf[i29.2.2 Z3c[i29.2.2 Z1mf 
+0000034 010  NP1     Michael                  Z1mf[i30.2.1 Z3c[i30.2.1 Z1m 
+0000034 020  NP1     Heseltine                Z1mf[i30.2.2 Z3c[i30.2.2 Z1mf 
 0000034 030  VVZ     says                     Q2.1 
 0000034 040  NN1     Brexit                   Z99 
 0000034 050  VBZ     is                       A3+ Z5 
 0000034 060  JJ      'man-sized'              Z99 
 0000034 070  NN1     task                     A1.1.1 P1 
 0000034 080  IF      for                      Z5 
-0000034 090  NP1     Theresa                  Z1mf[i30.2.1 Z3c[i30.2.1 Z1f 
-0000034 100  NP1%    May                      Z1mf[i30.2.2 Z3c[i30.2.2 Z1f 
+0000034 090  NP1     Theresa                  Z1mf[i31.2.1 Z3c[i31.2.1 Z1f 
+0000034 100  NP1%    May                      Z1mf[i31.2.2 Z3c[i31.2.2 Z1f 
 0000034 110  VVD     Read                     Q3 Q1.2 X3.2+ X2.5+ P1 A10+ 
 0000034 120  DAR     more                     N5++ 
 0000036 010  RRR     Earlier                  N4 T1.1.1 T4++ 
@@ -674,8 +682,8 @@
 0000036 030  AT      the                      Z5 
 0000036 040  NNT1    day                      T1.3 
 0000036 041  ,       ,                        
-0000036 050  NP1     Manfred                  Z1mf[i31.2.1 Z3c[i31.2.1 Z1m 
-0000036 060  NP1     Weber                    Z1mf[i31.2.2 Z3c[i31.2.2 Z1mf 
+0000036 050  NP1     Manfred                  Z1mf[i32.2.1 Z3c[i32.2.1 Z1m 
+0000036 060  NP1     Weber                    Z1mf[i32.2.2 Z3c[i32.2.2 Z1mf 
 0000036 061  ,       ,                        
 0000036 070  AT      the                      Z5 
 0000036 080  NN1     leader                   S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
@@ -691,7 +699,8 @@
 0000036 171  ,       ,                        
 0000036 180  AT      the                      Z5 
 0000036 190  JJ      European                 Z3 
-0000036 200  NN2     Peoples                  S2mf 
+0000036 200  NN      People                   S2mfc 
+0000036 201  GE      's                       Z5 
 0000036 210  NN1     party                    K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c 
 0000036 211  ,       ,                        
 0000036 220  RR      also                     N5++ 
@@ -718,7 +727,8 @@
 0000038 030  NNT1    eve                      T1.3-/N4 
 0000038 040  IO      of                       Z5 
 0000038 050  AT      the                      Z5 
-0000038 060  NN2     parliaments              G1.1 
+0000038 060  NN1     parliament               G1.1 
+0000038 061  GE      's                       Z5 
 0000038 070  NN1     debate                   Q2.2 
 0000038 080  CC      and                      Z5 
 0000038 090  VV0     vote                     G1.2 
@@ -727,6 +737,7 @@
 0000038 120  NN1     resolution               X6+ X9.2+ 
 0000038 130  VVG     detailing                Q2.2 
 0000038 140  NN2     MEPs                     G1.1/S2mf 
+0000038 141  GE      '                        Z5 
 0000038 150  JJ      red                      O4.3 G1.2 
 0000038 160  NN2     lines                    O4.4 A4.1 Q1.3 X4.2 Q3 Q1.2 Q2.1/K4 S4 S7.1 A1.7+ A6.1- I3.1 M4@c G3@ K5.1@ 
 0000038 170  IF      for                      Z5 
@@ -751,8 +762,8 @@
 0000038 320  DDQ     what                     Z8 Z5 
 0000038 330  VVG     leaving                  M1 M2 A1.1.1 A1.9 A9- T2- 
 0000038 340  AT      the                      Z5 
-0000038 350  JJ      European                 Z1mf[i32.2.1 Z3c[i32.2.1 Z3 
-0000038 360  NN1     Union                    Z1mf[i32.2.2 Z3c[i32.2.2 Z3c 
+0000038 350  JJ      European                 Z1mf[i33.2.1 Z3c[i33.2.1 Z3 
+0000038 360  NN1     Union                    Z1mf[i33.2.2 Z3c[i33.2.2 Z3c 
 0000038 370  VVZ     means                    Q1.1 X7+ 
 0000038 371  .       .                        
 0000038 372  -----   -----                    
@@ -768,15 +779,16 @@
 0000040 030  NP1     MEP                      G1.1/S2mf 
 0000040 040  RR      also                     N5++ 
 0000040 050  VVD     asked                    Q2.2 
-0000040 060  CST     that                     Z5 Z8 
-0000040 070  JJ@     following                N4 
-0000040 080  NP2%    Mays                     Z1f 
+0000040 060  CST     that                     Z8 Z5 
+0000040 070  II@     following                Z5 
+0000040 080  NPM1    May                      T1.3 
+0000040 081  VBZ     's                       Z5 A3+ 
 0000040 090  VVG     triggering               A2.2 
 0000040 100  IO      of                       Z5 
 0000040 110  NN1     article                  Q4.2 O2 Q3 G2.1/P1@ 
-0000040 120  MC      50                       N1[i33.2.1 N1 T1.2 T3 T1.3 N3.2 
-0000040 130  MD      last                     N1[i33.2.2 N4 T1.1.1[i34.2.1 
-0000040 140  NNT1    week                     T1.3 T1.1.1[i34.2.2 
+0000040 120  MC      50                       N1[i34.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000040 130  MD      last                     N1[i34.2.2 N4 T1.1.1[i35.2.1 
+0000040 140  NNT1    week                     T1.3 T1.1.1[i35.2.2 
 0000040 141  ,       ,                        
 0000040 150  JJ      British                  Z2 Z2/S2mfnc 
 0000040 160  NN2     politicians              G1.2/S2mf 
@@ -811,18 +823,18 @@
 0000040 432  NULL    <quote>                  
 0000040 433  -----   -----                    
 0000040 440  PPH1    It                       Z8 
-0000040 450  VHZ     has                      A9+ Z5 A2.2 S4 S6+[i35.2.1 
-0000040 460  RR21@   a                        A13.3[i36.2.1 N6+[i36.2.1 
-0000040 470  RR22    lot                      A13.3[i36.2.2 N6+[i36.2.2 
-0000040 480  II      to                       A2.2[i37.3.1 Z5 S6+[i35.2.2 
-0000040 490  VD0     do                       A2.2[i37.3.2 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
-0000040 500  IW      with                     A2.2[i37.3.3 Z5 
+0000040 450  VHZ     has                      A9+ Z5 A2.2 S4 S6+[i36.2.1 
+0000040 460  RR21@   a                        A13.3[i37.2.1 N6+[i37.2.1 
+0000040 470  RR22    lot                      A13.3[i37.2.2 N6+[i37.2.2 
+0000040 480  II      to                       A2.2[i38.3.1 Z5 S6+[i36.2.2 
+0000040 490  VD0     do                       A2.2[i38.3.2 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000040 500  IW      with                     A2.2[i38.3.3 Z5 
 0000040 510  JJ      respectful               S7.2+ 
 0000040 520  NN1     behaviour                S1.1.1 A1.1.1 
 0000040 521  ,       ,                        
-0000040 530  PPIS1   I                        Z4[i38.3.1 Z8mf 
-0000040 540  VM      would                    Z4[i38.3.2 A7+ 
-0000040 550  VVI     say                      Z4[i38.3.3 Q2.1 Z4% 
+0000040 530  PPIS1   I                        Z4[i39.3.1 Z8mf 
+0000040 540  VM      would                    Z4[i39.3.2 A7+ 
+0000040 550  VVI     say                      Z4[i39.3.3 Q2.1 Z4% 
 0000040 551  ,       ,                        
 0000040 552  NULL    </quote>                 
 0000040 553  -----   -----                    
@@ -831,8 +843,8 @@
 0000040 571  .       .                        
 0000042 001  NULL    <quote>                  
 0000042 002  -----   -----                    
-0000042 010  PPIS1   I                        Z4[i39.2.1 Z8mf 
-0000042 020  VV0     see                      Z4[i39.2.2 X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000042 010  PPIS1   I                        Z4[i40.2.1 Z8mf 
+0000042 020  VV0     see                      Z4[i40.2.2 X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
 0000042 030  II      in                       Z5 
 0000042 040  AT      the                      Z5 
 0000042 050  NN1     council                  G1.1c S7.1+/S5+c 
@@ -846,8 +858,8 @@
 0000042 130  IO      of                       Z5 
 0000042 140  NP1     Europe                   Z2 
 0000042 141  ,       ,                        
-0000042 150  NP1     Theresa                  Z1mf[i40.2.1 Z3c[i40.2.1 Z1f 
-0000042 160  NP1%    May                      Z1mf[i40.2.2 Z3c[i40.2.2 Z1f 
+0000042 150  NP1     Theresa                  Z1mf[i41.2.1 Z3c[i41.2.1 Z1f 
+0000042 160  NP1%    May                      Z1mf[i41.2.2 Z3c[i41.2.2 Z1f 
 0000042 170  VVZ     leaves                   M1 M2 A1.1.1 A1.9 A9- T2- 
 0000042 180  AT      the                      Z5 
 0000042 190  NN1     room                     H2 N3.6 
@@ -864,8 +876,8 @@
 0000044 020  VVD     said                     Q2.1 
 0000044 030  PPHS1   he                       Z8m 
 0000044 040  VVD     believed                 X2.1 S9% 
-0000044 050  NP1     Julian                   Z1mf[i41.2.1 Z3c[i41.2.1 Z1m 
-0000044 060  NP1@    King                     Z1mf[i41.2.2 Z3c[i41.2.2 
+0000044 050  NP1     Julian                   Z1mf[i42.2.1 Z3c[i42.2.1 Z1m 
+0000044 060  NP1@    King                     Z1mf[i42.2.2 Z3c[i42.2.2 
 0000044 061  ,       ,                        
 0000044 070  AT      the                      Z5 
 0000044 080  JJ      British                  Z2 Z2/S2mfnc 
@@ -879,8 +891,8 @@
 0000044 132  -----   -----                    
 0000044 140  XX      not                      Z6 
 0000044 150  VH0     have                     A9+ Z5 A2.2 S4 
-0000044 160  AT1     a                        N5+[i42.2.1 N6+[i42.2.1 A13.3[i42.2.1 Z5 
-0000044 170  NN1     lot                      N5+[i42.2.2 N6+[i42.2.2 A13.3[i42.2.2 
+0000044 160  AT1     a                        N5+[i43.2.1 N6+[i43.2.1 A13.3[i43.2.1 Z5 
+0000044 170  NN1     lot                      N5+[i43.2.2 N6+[i43.2.2 A13.3[i43.2.2 
 0000044 180  IO      of                       Z5 
 0000044 190  AT      the                      Z5 
 0000044 200  JJ      detailed                 A4.2+ 
@@ -888,8 +900,8 @@
 0000044 220  II      to                       Z5 
 0000044 230  NN2     things                   O2 X4.1 A7- S2mf L2mf 
 0000044 240  CST     that                     Z5 Z8 
-0000044 250  NP1     Michel                   Z1mf[i43.2.1 Z3c[i43.2.1 
-0000044 260  NP1     Barnier                  Z1mf[i43.2.2 Z3c[i43.2.2 
+0000044 250  NP1     Michel                   Z1mf[i44.2.1 Z3c[i44.2.1 
+0000044 260  NP1     Barnier                  Z1mf[i44.2.2 Z3c[i44.2.2 
 0000044 270  VM      will                     T1.1.3 
 0000044 280  VDI     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
 0000044 281  NULL    </quote>                 
@@ -909,8 +921,8 @@
 0000046 100  AT      the                      Z5 
 0000046 110  NN1     parliament               G1.1 
 0000046 111  ,       ,                        
-0000046 120  NP1     Ashley                   Z1mf[i44.2.1 Z3c[i44.2.1 Z1mf 
-0000046 130  NP1     Fox                      Z1mf[i44.2.2 Z3c[i44.2.2 Z1mf 
+0000046 120  NP1     Ashley                   Z1mf[i45.2.1 Z3c[i45.2.1 Z1mf 
+0000046 130  NP1     Fox                      Z1mf[i45.2.2 Z3c[i45.2.2 Z1mf 
 0000046 131  ,       ,                        
 0000046 140  VVD     said                     Q2.1 
 0000046 141  :       :                        

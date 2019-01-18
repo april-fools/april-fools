@@ -1,14 +1,15 @@
-TOTAL              189
+TOTAL              194
 a                    AT1             8 
 for                  IF              7 
 the                  AT              6 
 and                  CC              6 
+was                  VBDZ            6 
 of                   IO              5 
-was                  VBDZ            4 
+O'Neal               NP1             4 
 is                   VBZ             4 
+n't                  XX              3 
 Whitmore             NP1             3 
 he                   PPHS1           3 
-ONeal                NP1             3 
 his                  APPGE           2 
 possession           NN1             2 
 narcotics            NN2             2 
@@ -24,19 +25,20 @@ lot                  NN1             2
 to                   II              2 
 drugs                NN2             2 
 that                 CST             2 
+who                  PNQS            2 
 drug                 NN1             2 
-Redmond_ONeal        NP1             1 
+Redmond_O'Neal       NP1             1 
 it                   PPH1            1 
 seems                VVZ             1 
-cant                 NN1             1 
-shake                VV0             1 
+ca                   VM              1 
+shake                VVI             1 
 personal             JJ              1 
 demons               NN2             1 
 troubled             JJ              1 
 son                  NN1             1 
 oscar-nominated      JJ              1 
 actor                NN1             1 
-Ryan_ONeal           NP1             1 
+Ryan_O'Neal          NP1             1 
 actress              NN1             1 
 Farrah_Fawcett       NP1             1 
 arrested             VVN             1 
@@ -44,7 +46,8 @@ Sunday_morning       NPD1            1
 bringing             VVG             1 
 into                 II              1 
 Los_Angeles          NP1             1 
-sheriffs             NN2             1 
+sheriff              NN1             1 
+'s                   GE              1 
 spokesman            NN1             1 
 Steve_Whitmore       NP1             1 
 confirms             VVZ             1 
@@ -69,7 +72,6 @@ adds                 VVZ             1
 accompanied          VVN             1 
 by                   II              1 
 friend               NN1             1 
-who                  PNQS            1 
 wanted               VVD             1 
 to                   TO              1 
 visit                VVI             1 
@@ -78,7 +80,6 @@ located              VVN             1
 40_miles             MC              1 
 north_of_L.A.        ND1             1 
 while                CS              1 
-wasnt                VV0             1 
 actually             RR              1 
 caught               VVN             1 
 passing              JJ              1 
@@ -90,7 +91,7 @@ part                 NN1             1
 secure               JJ              1 
 area                 NN1             1 
 explains             VVZ             1 
-whos                 NN2             1 
+'s                   VBZ             1 
 currently            RR              1 
 serving              VVG             1 
 probation            NN1             1 
@@ -128,8 +129,6 @@ been                 VBN             1
 set                  VVN             1 
 April_7              NPM1            1 
 lawyer               NN1             1 
-oneal                JJ              1 
-wasnt                NN1             1 
 immediately          RR              1 
 available            JJ              1 
 comment              NN1             1 

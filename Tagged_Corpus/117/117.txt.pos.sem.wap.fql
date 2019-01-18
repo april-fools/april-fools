@@ -1,21 +1,22 @@
-TOTAL              262
+TOTAL              264
 and                  CC             14 
 the                  AT             13 
 of                   IO              8 
+nails                NN2             7 
 to                   TO              7 
-nails                NN2             6 
 a                    AT1             5 
 with                 IW              5 
 be                   VBI             5 
 Trent_Reznor         NP1             4 
 was                  VBDZ            4 
 guns                 NN2             4 
-n                    ZZ1             4 
+n'                   CC              4 
 roses                NN2             4 
 nine                 MC              4 
 inch                 NNU1            4 
 will                 VM              4 
 from                 II              4 
+band                 NN1             4 
 nine_inch            MC              3 
 is                   VBZ             3 
 by                   II              3 
@@ -24,15 +25,14 @@ some                 DD              3
 Robin_Finck          NP1             3 
 bass                 JJ              3 
 show                 NN1             3 
-band                 NN1             3 
 on                   II              2 
 first                MD              2 
 guitarist            NN1             2 
-bands                VVZ             2 
 as_well              II31            2 
 as                   II33            2 
 Duff_McKagan         NP1             2 
 songs                NN2             2 
+'s                   GE              2 
 album                NN1             2 
 released             VVN             2 
 both                 DB2             2 
@@ -72,6 +72,7 @@ known                VVN             1
 as                   II              1 
 co-founder           NN1             1 
 hard_rock            JJ              1 
+bands                VVZ             1 
 SIXX                 NP1             1 
 a.m.                 RA              1 
 beautiful            JJ              1 
@@ -102,7 +103,6 @@ history              NN1             1
 covers               NN2             1 
 special              JJ              1 
 guests               NN2             1 
-nailss               NN1             1 
 pretty               JJ              1 
 hate                 NN1             1 
 machine              NN1             1 

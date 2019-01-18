@@ -16,4 +16,3 @@ middle-income            JJ      Z99
 nationalize              VVI     Z99 
 Sanders                  NP1     Z99 
 subsidized               VVN     Z99 
-youre                    VV0     Z99 

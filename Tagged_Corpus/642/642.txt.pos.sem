@@ -67,8 +67,9 @@
 0000006 040  NN2     policies                 X7+ Q1.2 
 0000006 050  TO      to                       Z5 
 0000006 060  VVI     tackle                   A1.1.1 K5.1 Q2.2 
-0000006 070  NP2     Londons                  Z2 
-0000006 080  VVG     housing                  H4 
+0000006 070  NP1     London                   Z2 
+0000006 071  GE      's                       Z5 
+0000006 080  NN1     housing                  H1 
 0000006 090  NN1     crisis                   A12- 
 0000006 091  ,       ,                        
 0000006 100  VV0     cut                      A1.1.1 N5-/A2.1 T2- M1 Q4.3 K5.1 B1 F3 
@@ -125,7 +126,8 @@
 0000010 031  :       :                        
 0000010 032  NULL    <quote>                  
 0000010 033  -----   -----                    
-0000010 040  VV0     Im                       Z99 
+0000010 040  PPIS1   I                        Z8mf 
+0000010 041  VBM     'm                       Z5 A3+ 
 0000010 050  VVG     running                  M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4 
 0000010 060  IF      for                      Z5 
 0000010 070  NN1     Mayor                    Z1mf 
@@ -197,7 +199,8 @@
 0000013 001  NULL    </quote>                 
 0000014 001  NULL    <quote>                  
 0000014 002  -----   -----                    
-0000014 010  RR%     Ill                      B2- A5.1- 
+0000014 010  PPIS1   I                        Z8mf 
+0000014 011  VM      'll                      T1.1.3 
 0000014 020  VBI     be                       A3+ Z5 
 0000014 030  AT1     a                        Z5 
 0000014 040  NN1     mayor                    G1.1/S2m S7.1+/S2m 

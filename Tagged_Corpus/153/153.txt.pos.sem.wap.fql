@@ -1,4 +1,4 @@
-TOTAL              229
+TOTAL              232
 the                  AT             17 
 cable                NN1            10 
 theft                NN1             6 
@@ -10,6 +10,7 @@ and                  CC              4
 copper               NN1             4 
 said                 VVD             3 
 is                   VBZ             3 
+'s                   GE              3 
 infrastructure       NN1             3 
 fibre                NN1             3 
 thieves              NN2             3 
@@ -19,9 +20,11 @@ it                   PPH1            2
 an                   AT1             2 
 to                   II              2 
 many                 DA2             2 
+Telkom               NP1             2 
 however              RR              2 
 not                  XX              2 
 but                  CCB             2 
+SEACOM               NP1             2 
 cabling              NN1             2 
 at                   II              2 
 seacom               NN1             2 
@@ -81,14 +84,11 @@ after                II              1
 replacements         NN2             1 
 or                   CC              1 
 repairs              NN2             1 
-Telkom               NP1             1 
 latest               JJT             1 
 incident             NN1             1 
 does                 VDZ             1 
 involve              VVI             1 
-Telkoms              NP1             1 
 rather               RR              1 
-seacoms              VVZ             1 
 terrestrial          JJ              1 
 removed              VVD             1 
 newly                RR              1 
@@ -100,7 +100,6 @@ as_much_as           RG              1
 six                  MC              1 
 months               NNT2            1 
 according_to         II21            1 
-seacoms              NN2             1 
 operational          JJ              1 
 manager              NN1             1 
 Fredrik              NP1             1 

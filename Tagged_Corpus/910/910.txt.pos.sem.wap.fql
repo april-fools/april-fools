@@ -1,21 +1,22 @@
-TOTAL              399
+TOTAL              404
+technology           NN1            14 
 and                  CC             13 
 the                  AT             13 
-technology           NN1            11 
 of                   IO              9 
 Jemez                NP1             7 
 for                  IF              7 
 to                   TO              6 
 by                   II              6 
+ceo                  NN1             5 
 a                    AT1             5 
 to                   II              5 
 company              NN1             5 
 in                   II              5 
 axis                 NN1             5 
 as                   CSA             4 
-ceo                  NN1             4 
 security             NN1             4 
 our                  APPGE           4 
+'s                   GE              4 
 is                   VBZ             4 
 surveillance         NN1             4 
 named                VVN             3 
@@ -27,7 +28,6 @@ was                  VBDZ            3
 year                 NNT1            3 
 critical             JJ              3 
 infrastructure       NN1             3 
-technologys          NN2             3 
 video                NN1             3 
 Brian                NP1             3 
 communications       NN2             3 
@@ -110,7 +110,7 @@ mid-market           NN1             1
 2014                 MC              1 
 connection           NN1             1 
 top_100              NN1             1 
-ceos                 NN2             1 
+'s                   VBZ             1 
 America              NP1             1 
 as_well              II31            1 
 as                   II33            1 
@@ -121,7 +121,7 @@ final                NN1             1
 two                  MC              1 
 years                NNT2            1 
 Forbes               NP1             1 
-nations              NN2             1 
+nation               NN1             1 
 becoming             VVG             1 
 increasingly         RR              1 
 important            JJ              1 

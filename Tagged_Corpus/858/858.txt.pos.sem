@@ -261,7 +261,8 @@
 0000014 121  .       .                        
 0000014 122  -----   -----                    
 0000014 130  II      During                   Z5 
-0000014 140  NP2     Coxs                     K5.1/S2mf M4/S2mf 
+0000014 140  NP1     Cox                      K5.1/S2mf M4/S2mf 
+0000014 141  GE      's                       Z5 
 0000014 150  JJ      40-day                   Z99 
 0000014 160  NN1     detention                P1/G2.1 G2.1 A1.7+ 
 0000014 161  ,       ,                        
@@ -296,8 +297,9 @@
 0000016 171  ,       ,                        
 0000016 180  VVN     followed                 M1 N4 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 
 0000016 190  II      by                       Z5 
-0000016 200  NP2     Coxs                     K5.1/S2mf M4/S2mf 
-0000016 210  VV0     release                  A1.7- A9- 
+0000016 200  NP1     Cox                      K5.1/S2mf M4/S2mf 
+0000016 201  GE      's                       Z5 
+0000016 210  NN1     release                  A1.7- A9- I2.2 K3 Q4 E6+ 
 0000016 220  II      on                       Z5 
 0000016 230  MC1     1                        N1 T1.2 T3 T1.3 N3.2 
 0000016 240  NPM1    February                 T1.3[i13.2.1 T1.3 
@@ -560,6 +562,7 @@
 0000026 643  -----   -----                    
 0000028 010  AT      The                      Z5 
 0000028 020  NN2     filmmakers               Z99 
+0000028 021  GE      '                        Z5 
 0000028 030  JJ      initial                  T2+ 
 0000028 040  NN1     commission               A1.1.1 I1.1/I2.2 G1.1 G3/S7.1+ 
 0000028 050  VBDZ    was                      Z5 A3+ 
@@ -576,7 +579,7 @@
 0000029 001  -----   -----                    
 0000030 010  VVN     Hunted                   L2 K5.1 X2.4 
 0000030 020  II      in                       Z5 
-0000030 030  NP1     Sudan                    Z2 
+0000030 030  NP1     Sudan'                   Z99 
 0000030 040  VM      will                     T1.1.3 
 0000030 050  VBI     be                       Z5 A3+ 
 0000030 060  VVN     broadcast                Q4.3 

@@ -1,4 +1,4 @@
-TOTAL        1104
+TOTAL        1105
 NN1           164 
 JJ             75 
 II             55 
@@ -41,13 +41,13 @@ PPHO2           5
 PPHS2           5 
 VVGK            5 
 RRR             4 
+VBM             4 
 VHZ             4 
-PPHO1           4 
 CSN             4 
 VDI             4 
-VBM             3 
 NN              3 
 II21            3 
+PPHO1           3 
 JJT             3 
 RGT             3 
 VH0             3 
@@ -79,6 +79,7 @@ RG22            1
 VBN             1 
 RP              1 
 VBG             1 
+UH              1 
 RR31            1 
 DAT             1 
 PPIO1           1 

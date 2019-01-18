@@ -1,4 +1,4 @@
-TOTAL              380
+TOTAL              381
 the                  Z5                  16 
 to                   Z5                  14 
 a                    Z5                  11 
@@ -22,6 +22,7 @@ your                 Z8                   3
 is                   A3+                  3 
 help                 S8+                  3 
 offerings            A9-                  3 
+i                    Z8                   3 
 with                 Z5                   3 
 digital              Y2                   2 
 while                Z5                   2 
@@ -41,6 +42,7 @@ why                  A2.2                 2
 gadget               O2                   2 
 insurance            I1                   2 
 should               S6+                  2 
+'m                   A3+                  2 
 although             Z5                   2 
 not                  Z6                   2 
 available            A3+                  2 
@@ -58,7 +60,6 @@ who                  Z8                   2
 something            Z8                   2 
 other                A6.1-                2 
 when                 Z5                   2 
-i                    Z8                   2 
 been                 Z5                   2 
 those                Z8                   2 
 looking_to           X7+                  2 
@@ -113,7 +114,6 @@ after_all            Z4                   1
 might                A7+                  1 
 thinking             X2.1                 1 
 providing            Z7                   1 
-Im                   Z99                  1 
 super-careful        Z99                  1 
 keep_a_eye_on        X3.4                 1 
 watchful             X3.4                 1 
@@ -188,7 +188,6 @@ beanfooled           Z99                  1
 told                 Q2.1                 1 
 us                   Z8                   1 
 even_though          Z5                   1 
-'m                   A3+                  1 
 can                  A7+                  1 
 get                  A9+                  1 
 my                   Z8                   1 

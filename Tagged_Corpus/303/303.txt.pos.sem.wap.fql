@@ -1,4 +1,4 @@
-TOTAL              760
+TOTAL              765
 the                  AT             45 
 a                    AT1            32 
 and                  CC             21 
@@ -13,33 +13,34 @@ is                   VBZ             7
 has                  VHZ             6 
 are                  VBR             6 
 to                   II              6 
+i                    PPIS1           6 
+they                 PPHS2           5 
 military             JJ              5 
-all                  DB              5 
 that                 CST             5 
-i                    PPIS1           5 
 report               NN1             4 
 from                 II              4 
-they                 PPHS2           4 
-nt                   XX              4 
+'s                   GE              4 
+n't                  XX              4 
 american             JJ              4 
 an                   AT1             4 
 this                 DD1             4 
+all                  DB              4 
 holy                 JJ              4 
 because              CS              3 
 do                   VD0             3 
+it                   PPH1            3 
 new                  JJ              3 
 Iraq                 NP1             3 
 which                DDQ             3 
 will                 VM              3 
 political            JJ              3 
 Disney               NP1             3 
-Americas             NP2             2 
+America              NP1             2 
 three                MC              2 
 while                CS              2 
 intent               JJ              2 
 small                JJ              2 
 but                  CCB             2 
-it                   PPH1            2 
 whose                DDQGE           2 
 name                 NN1             2 
 world                NN1             2 
@@ -58,7 +59,6 @@ gay                  JJ              2
 been                 VBN             2 
 Afghanistan          NP1             2 
 on                   II              2 
-its                  APPGE           2 
 launch               VVI             2 
 according_to         II21            2 
 who                  PNQS            2 
@@ -187,12 +187,12 @@ hatching             VVG             1
 nearly               RR              1 
 decade               NNT1            1 
 cultural             JJ              1 
-coup                 NN1             1 
-detat                NN1             1 
+coup_d'etat          NN121           1 
 fashionistas         NN2             1 
 conquering           JJ              1 
 occupying            VVG             1 
 taking_over          VVG             1 
+its                  APPGE           1 
 garment_industry     NN1             1 
 fabulous             JJ              1 
 uniform              NN1             1 
@@ -231,8 +231,7 @@ exist                VVI             1
 at_all               RR21            1 
 the_works            AT              1 
 create               VVI             1 
-middle               JJ              1 
-easts                NN2             1 
+middle_east          JJ              1 
 first                MD              1 
 casinocracy          NN1             1 
 emboldened           VVN             1 
@@ -278,7 +277,7 @@ homage               NN1             1
 traditional          JJ              1 
 values               NN2             1 
 headliners           NN2             1 
-casinos              NN2             1 
+casino               NN1             1 
 lounges              NN2             1 
 rumored              VVN             1 
 include              VVI             1 
@@ -294,8 +293,8 @@ career               NN1             1
 surges               VVZ             1 
 perform              VV0             1 
 have_no_idea         VH0             1 
-long                 JJ              1 
-theyve               NN1             1 
+long                 RR              1 
+'ve                  VH0             1 
 around               RP              1 
 sand-breaking        NN1             1 
 slated               VVN             1 
@@ -343,7 +342,8 @@ prefer               VV0             1
 peach-mango          NN1             1 
 must                 VM              1 
 say                  VVI             1 
-im                   VV0             1 
+'m                   VBM             1 
+all                  RR              1 
 fahklempt            VV0             1 
 visit                NN1             1 
 magic                JJ              1 
@@ -415,6 +415,7 @@ sepulcher            NN1             1
 prayer-themed        JJ              1 
 ride                 NN1             1 
 called               VVN             1 
+'s                   VBZ             1 
 mosque               NN1             1 
 after_all            II              1 
 daily                JJ              1 

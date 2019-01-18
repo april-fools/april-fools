@@ -1,4 +1,4 @@
-TOTAL              475
+TOTAL              481
 the                  AT             40 
 of                   IO             19 
 and                  CC             12 
@@ -6,11 +6,11 @@ a                    AT1             9
 in                   II              9 
 religious            JJ              7 
 diversity            NN1             7 
+country              NN1             6 
 U.S.                 NP1             6 
 religions            NN2             6 
 as                   CSA             6 
 United_States        NP1             5 
-country              NN1             5 
 to                   II              5 
 all                  DB              5 
 study                NN1             5 
@@ -24,6 +24,8 @@ but                  CCB             4
 is                   VBZ             4 
 or                   CC              4 
 on                   II              4 
+world                NN1             4 
+'s                   GE              4 
 that                 CST             4 
 diverse              JJ              3 
 from                 II              3 
@@ -31,7 +33,6 @@ population           NN1             3
 unaffiliated         JJ              3 
 countries            NN2             3 
 index                NN1             3 
-worlds               NN2             3 
 than                 CSN             3 
 which                DDQ             3 
 those                DD2             3 
@@ -131,7 +132,6 @@ considered           VVN             1
 single               JJ              1 
 looks_at             VVZ             1 
 share                NN1             1 
-countrys             NN2             1 
 belongs              VVZ             1 
 major                JJ              1 
 including            II              1 
@@ -181,7 +181,6 @@ Afghanistan          NP1             1
 classified           VVN             1 
 moderate             JJ              1 
 in_terms_of          II31            1 
-world                NN1             1 
 live                 VV0             1 
 third                MD              1 
 populous             JJ              1 
@@ -199,7 +198,8 @@ surveys              NN2             1
 0.6%                 FO              1 
 traditional          JJ              1 
 0.2%                 FO              1 
-theres               NN2             1 
+there                EX              1 
+'s                   VBZ             1 
 important            JJ              1 
 distinction          NN1             1 
 between              II              1 
@@ -207,8 +207,9 @@ freedom              NN1             1
 report               NN1             1 
 does                 VDZ             1 
 measure              VVI             1 
-Weve                 NP1             1 
-studied              VVD             1 
+we                   PPIS2           1 
+'ve                  VH0             1 
+studied              VVN             1 
 both                 RR              1 
 form                 NN1             1 
 government           NN1             1 

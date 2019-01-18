@@ -1,8 +1,8 @@
-TOTAL             1187
+TOTAL             1199
 the                  AT             78 
 and                  CC             53 
 of                   IO             40 
-that                 CST            25 
+that                 CST            24 
 in                   II             21 
 to                   TO             19 
 a                    AT1            16 
@@ -10,6 +10,7 @@ United_States        NP1            16
 human_rights         JJ             16 
 has                  VHZ            16 
 on                   II             12 
+'s                   GE             12 
 to                   II             11 
 been                 VBN            11 
 is                   VBZ            10 
@@ -23,20 +24,21 @@ will                 VM              8
 from                 II              8 
 they                 PPHS2           6 
 it                   PPH1            6 
+administration       NN1             6 
+America              NP1             6 
 political            JJ              6 
 White_house          NP1             5 
 foreign              JJ              5 
 american             JJ              5 
-administration       NN1             5 
-America              NP1             5 
+was                  VBDZ            5 
 countries            NN2             5 
 its                  APPGE           4 
 President            NNB             4 
 first                MD              4 
-was                  VBDZ            4 
-governments          NN2             4 
 their                APPGE           4 
 more                 RGR             4 
+trump                NN1             4 
+president            NN1             4 
 civil                JJ              4 
 democracy            NN1             4 
 what                 DDQ             4 
@@ -48,8 +50,9 @@ which                DDQ             3
 allies               NN2             3 
 interests            NN2             3 
 policy               NN1             3 
+governments          NN2             3 
 alliances            NN2             3 
-president            NN1             3 
+people               NN              3 
 his                  APPGE           3 
 rule                 NN1             3 
 an                   AT1             3 
@@ -87,9 +90,8 @@ Russia               NP1             2
 all                  DB              2 
 during               II              2 
 press                VV0             2 
-people               NN              2 
+government           NN1             2 
 without              IW              2 
-trump                NN1             2 
 or                   CC              2 
 however              RR              2 
 egyptian             JJ              2 
@@ -102,6 +104,7 @@ be                   VBI             2
 civilians            NN2             2 
 based_on             VVN             2 
 does                 VDZ             2 
+that                 DD1             2 
 country              NN1             2 
 can                  VM              2 
 prevent              VVI             2 
@@ -131,7 +134,6 @@ forces               NN2             2
 our                  APPGE           2 
 those                DD2             2 
 leaders              NN2             2 
-presidents           NN2             2 
 liberal              JJ              2 
 world                NN1             2 
 universal            JJ              2 
@@ -185,7 +187,6 @@ too                  RG              1
 early                JJ              1 
 tell                 VVI             1 
 feature              VVI             1 
-administrations      VVZ             1 
 Monday               NPD1            1 
 notably              RR              1 
 called_on            VVN             1 
@@ -205,7 +206,6 @@ underscoring         VVG             1
 right                NN1             1 
 everywhere           RL              1 
 accountable          JJ              1 
-government           NN1             1 
 exercise             VV0             1 
 fear                 NN1             1 
 retribution          NN1             1 
@@ -226,8 +226,8 @@ al-sisi              NN1             1
 fantastic            JJ              1 
 guy                  NN1             1 
 in_spite_of          II31            1 
-strongmans           NN2             1 
-attempts             VVZ             1 
+strongman            NN1             1 
+attempts             NN2             1 
 muzzle               VVI             1 
 independent          JJ              1 
 organizations        NN2             1 
@@ -239,7 +239,7 @@ trump                VV0             1
 apparently           RR              1 
 endorsed             VVN             1 
 philippine           JJ              1 
-Rodrigo_Dutertes     NP1             1 
+Rodrigo_Duterte      NP1             1 
 drugs                NN2             1 
 responsible          JJ              1 
 unlawful             JJ              1 
@@ -257,7 +257,6 @@ council              NN1             1
 body                 NN1             1 
 greatly              RR              1 
 strengthened         VVN             1 
-Americas             NP2             1 
 engagement           NN1             1 
 seems                VVZ             1 
 in_favor_of          II31            1 
@@ -284,7 +283,6 @@ matters              VVZ             1
 more                 DAR             1 
 example              NN1             1 
 sets                 VVZ             1 
-that                 DD1             1 
 measure              NN1             1 
 already              RR              1 
 significantly        RR              1 
@@ -348,7 +346,6 @@ celebrating          VVG             1
 turn_of_events       NN1             1 
 Recip_Tayyip_Erdogan NP1             1 
 welcomed             VVD             1 
-trumps               NN2             1 
 heralded             VVD             1 
 era                  NN1             1 
 greater              JJR             1 
@@ -377,7 +374,6 @@ inhibited            VVN             1
 going                VVG             1 
 opponents            NN2             1 
 assuming             VVG             1 
-trumps               VVZ             1 
 means                VVZ             1 
 free                 JJ              1 
 pass                 NN1             1 
@@ -453,6 +449,7 @@ ties                 NN2             1
 statistical          JJ              1 
 analysis             NN1             1 
 muslim-majority      JJ              1 
+'                    GE              1 
 counterterrorism     NN1             1 
 Peter_S._Henne       NP1             1 
 found                VVD             1 
@@ -472,16 +469,14 @@ destructive          JJ              1
 North                NP1             1 
 korean               JJ              1 
 ruler                NN1             1 
-Kim_Jong             NP1             1 
-uns                  FW              1 
+Kim_Jong_Un          NP1             1 
 spate                NN1             1 
 nuclear              JJ              1 
 tests                NN2             1 
 missile              NN1             1 
 launches             NN2             1 
 russian              JJ              1 
-Vladimir             NP1             1 
-Putins               NP2             1 
+Vladimir_Putin       NP1             1 
 annexation           NN1             1 
 Crimea               NP1             1 
 incursions           NN2             1 
@@ -510,7 +505,7 @@ large-scale          JJ              1
 displacement         NN1             1 
 future               NN1             1 
 fuel                 NN1             1 
-Europes              NP2             1 
+Europe               NP1             1 
 recovery             NN1             1 
 both                 RR              1 
 primary              JJ              1 
@@ -538,7 +533,6 @@ investment           NN1             1
 finally              RR              1 
 support              NN1             1 
 matters              NN2             1 
-peoples              NN2             1 
 lives                NN2             1 
 true                 JJ              1 
 far                  RG21            1 
@@ -551,6 +545,7 @@ yet                  RR              1
 no                   AT              1 
 substitute           VVI             1 
 comes_to             VVZ             1 
+presidents           NN2             1 
 members              NN2             1 
 congress             NN1             1 
 cabinet              NN1             1 
@@ -586,8 +581,8 @@ me                   PPIO1           1
 heard                VVD             1 
 words                NN2             1 
 knew                 VVD             1 
-wasnt                VV0             1 
-alone                RR              1 
+n't                  XX              1 
+alone                JJ              1 
 moment               NN1             1 
 nationalism          NN1             1 
 hatred               NN1             1 

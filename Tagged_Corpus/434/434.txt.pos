@@ -23,10 +23,11 @@
 0000002 190 It                                          93 [PPH1/100] NN1%/0
 0000002 200 has                                         93 VHZ
 0000002 210 been                                        93 VBN
-0000002 220 present                                     93 [JJ/86] NN1/14 VV0@/0
-0000002 230 since                                       93 [II@/69] RR@/23 CS/8
-0000002 240 Disneylands                                 93 NP2
-0000002 250 opening                                     93 [VVG/72] NN1/16 JJ@/12
+0000002 220 present                                     93 [JJ/90] NN1/10 VV0@/0
+0000002 230 since                                       93 [CS/80] II@/19 RR@/0
+0000002 240 Disneyland                >                 93 NP1
+0000002 241 's                        <                 98 GE
+0000002 250 opening                                     93 [NN1/53] JJ@/39 VVG/8
 0000002 260 day                                         93 NNT1
 0000002 270 of                                          93 IO
 0000002 280 July                                        93 NPM1
@@ -168,7 +169,8 @@
 0000010 160 world                                       93 NN1
 0000010 170 to                                          93 [II/99] TO/1
 0000010 180 Mountain                                    93 NN1
-0000010 190 Dews                                        04 NN2
+0000010 190 Dew                       >                 93 NN1
+0000010 191 's                        <                 98 GE
 0000010 200 Refreshment                                 93 NN1
 0000010 210 Corner                                      93 NN1
 0000010 211 .                                           03 .
@@ -244,7 +246,8 @@
 0000023 280 tinkling                                    93 [JJ/100] VVG@/0
 0000023 290 ivories                                     04 NN2
 0000023 300 of                                          93 IO
-0000023 310 Disneys                                     04 NP2
+0000023 310 Disney                    >                 93 NP1
+0000023 311 's                        <                 98 GE
 0000023 320 ragtime                                     06 NNT1
 0000023 330 piano                                       93 [NN1/99] JJ%/1 RR%/0
 0000023 340 player                                      93 NN1

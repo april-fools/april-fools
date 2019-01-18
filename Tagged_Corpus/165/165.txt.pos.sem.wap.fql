@@ -11,14 +11,14 @@ to                   II              8
 new                  JJ              8 
 pinot                NN1             8 
 Kim_Crawford         NP1             7 
-wines                NN2             7 
 chocolate            NN1             6 
 it                   PPH1            6 
+wines                NN2             6 
 with                 IW              6 
 first                MD              5 
+wine                 NN1             5 
 this                 DD1             5 
 on                   II              5 
-wine                 NN1             4 
 we                   PPIS2           4 
 range                NN1             4 
 will                 VM              4 
@@ -46,7 +46,6 @@ essence              NN1             2
 at                   II              2 
 there                EX              2 
 was                  VBDZ            2 
-something            PN1             2 
 balance              NN1             2 
 between              II              2 
 style                NN1             2 
@@ -135,6 +134,7 @@ brand                NN1             1
 however              RR              1 
 interests            NN2             1 
 starting             VVG             1 
+something            PN1             1 
 decided              VVD             1 
 emulate              VVI             1 
 our                  APPGE           1 
@@ -237,8 +237,9 @@ rest                 NN1             1
 except_for           II21            1 
 quirky               JJ              1 
 lid                  NN1             1 
-lets                 VVZ             1 
-start                VV0             1 
+'s                   VBZ             1 
+let_'s               VM21            1 
+start_Something'     NN1             1 
 initiative           NN1             1 
 plans                NN2             1 
 add                  VVI             1 

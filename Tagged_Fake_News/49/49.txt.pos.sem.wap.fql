@@ -1,4 +1,4 @@
-TOTAL              641
+TOTAL              651
 the                  AT             50 
 in                   II             16 
 of                   IO             14 
@@ -6,20 +6,22 @@ that                 CST            13
 to                   TO             12 
 and                  CC             11 
 a                    AT1             9 
+elebi                NN2             9 
 not                  XX              8 
+it                   PPH1            8 
 he                   PPHS1           8 
 by                   II              7 
-it                   PPH1            7 
 is                   VBZ             7 
-elebi                NN2             7 
+rocket               NN1             7 
 his                  APPGE           7 
 was                  VBDZ            6 
-rocket               NN1             6 
 have                 VHI             6 
 to                   II              6 
+'s                   GE              6 
 first                MD              5 
 moon                 NN1             5 
 Lagri_Hasan          NP1             5 
+you                  PPY             5 
 this                 DD1             5 
 turkish              JJ              4 
 before               II              4 
@@ -31,8 +33,8 @@ design               NN1             4
 on                   II              3 
 said                 VVD             3 
 years                NNT2            3 
+Erdogan              NP1             3 
 story                NN1             3 
-you                  PPY             3 
 could                VM              3 
 Evliya               NP1             3 
 from                 II              3 
@@ -41,7 +43,6 @@ for                  IF              3
 most                 DAT             3 
 did                  VDD             3 
 Istanbul             NP1             2 
-ottomans             NN2             2 
 walk                 VVI             2 
 Neil_Armstrong       NP1             2 
 President            NNB             2 
@@ -55,7 +56,6 @@ than                 CSN             2
 they                 PPHS2           2 
 landed               VVD             2 
 man                  NN1             2 
-Erdogan              NP1             2 
 space                NN1             2 
 our                  APPGE           2 
 that                 DD1             2 
@@ -64,7 +64,6 @@ aviator              NN1             2
 ottoman              JJ              2 
 might                VM              2 
 reach                VVI             2 
-well                 RR              2 
 Lagari_Hasan         NP1             2 
 gunpowder            NN1             2 
 o                    UH              2 
@@ -73,22 +72,23 @@ sultan               NN1             2
 i                    PPIS1           2 
 Jesus                NP1             2 
 meters               NN2             2 
-elebis               NN1             2 
 claims               NN2             2 
 would                VM              2 
 proofs               NN2             2 
-youve                NN1             2 
+'ve                  VH0             2 
 never                RR              2 
 believed             VVN             2 
 them                 PPHO2           2 
 believe              VV0             2 
 evidence             NN1             2 
+ottoman              NN1             2 
 find                 VVI             2 
 any                  DD              2 
 however              RR              2 
 used                 VVN             2 
 modern               JJ              2 
 show                 NN1             2 
+ottomans             NN2             1 
 were                 VBDR            1 
 surface              NN1             1 
 Recep_Tayyip_Erdogan NP1             1 
@@ -127,6 +127,7 @@ attempted            VVD             1
 two                  MC              1 
 later                RRR             1 
 very                 RG              1 
+well                 RR              1 
 succeeded            VVN             1 
 purported            VVN             1 
 17th_century         MD              1 
@@ -167,7 +168,6 @@ am                   VBM             1
 going_to             VVGK            1 
 talk                 VVI             1 
 lighting             VVG             1 
-rockets              NN2             1 
 then                 RT              1 
 ascended             VVD             1 
 200                  MC              1 
@@ -188,12 +188,11 @@ engraving            NN1             1
 depicts              VVZ             1 
 one                  MC1             1 
 flights              NN2             1 
-its                  APPGE           1 
+'s                   VBZ             1 
 unclear              JJ              1 
 if                   CS              1 
 represents           VVZ             1 
 attempt              NN1             1 
-Erdogans             NP1             1 
 surprising           JJ              1 
 generated            VVD             1 
 some                 DD              1 
@@ -220,7 +219,7 @@ do                   VDI             1
 such_a               DA              1 
 thing                NN1             1 
 just                 RR              1 
-like                 II              1 
+like                 VV0             1 
 ancestors            NN2             1 
 manage               VVI             1 
 launch               VVI             1 
@@ -233,7 +232,7 @@ across               II              1
 land                 NN1             1 
 referring            VVG             1 
 Sultan_Mehmet        NP1             1 
-iis                  MC2             1 
+ii                   MC              1 
 conquest             NN1             1 
 1453                 MC              1 
 new                  JJ              1 
@@ -253,7 +252,9 @@ physical             JJ              1
 success              NN1             1 
 Apollo_11            NP1             1 
 mission              NN1             1 
-try                  VV0             1 
+we                   PPIS2           1 
+'ll                  VM              1 
+try                  VVI             1 
 escaped              VVN             1 
 cover_up             NN1             1 
 president            NN1             1 
@@ -265,14 +266,13 @@ nor                  CC              1
 how                  RRQ             1 
 hoping               VVG             1 
 gather               VVI             1 
-ottoman              NN1             1 
 description          NN1             1 
 flying               JJ              1 
 engine               NN1             1 
 pretty               RG              1 
 vague                JJ              1 
 does                 VDZ             1 
-nt                   XX              1 
+n't                  XX              1 
 really               RR              1 
 allow                VVI             1 
 scientists           NN2             1 

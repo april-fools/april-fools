@@ -1,29 +1,29 @@
-TOTAL              210
+TOTAL              217
 and                  CC             11 
 the                  AT              9 
 of                   IO              7 
+JPMorgan             NP1             6 
+'s                   GE              6 
 investment           NN1             6 
 in                   II              5 
 are                  VBR             5 
+bear                 NN1             4 
 banking              NN1             4 
 will                 VM              4 
 be                   VBI             4 
-JPMorgan             NP1             3 
 head                 NN1             3 
 memo                 NN1             3 
 from                 II              3 
+bank                 NN1             3 
 risk                 NN1             3 
 not                  XX              2 
-bear                 NN1             2 
 management           NN1             2 
 trading              NN1             2 
 global               JJ              2 
 announced            VVN             2 
-bank                 NN1             2 
 that                 CST             2 
 with                 IW              2 
 officer              NN1             2 
-bears                VVZ             2 
 too_much             RG              1 
 room                 NN1             1 
 executive            NN1             1 
@@ -45,7 +45,6 @@ named                VVN             1
 to                   II              1 
 top                  JJ              1 
 ranks                NN2             1 
-JPMorgans            NP2             1 
 businesses           NN2             1 
 only                 RR              1 
 five                 MC              1 
@@ -90,9 +89,8 @@ nor                  CC              1
 that                 DD1             1 
 firmly               RR              1 
 acquiring            VVG             1 
-banks                NN2             1 
 hands                NN2             1 
-JPMorgans_John_Hogan NP1             1 
+John_Hogan           NP1             1 
 division             NN1             1 
 chief                NN1             1 
 Brian_Sankey         NP1             1 
@@ -126,7 +124,6 @@ final                JJ              1
 decisions            NN2             1 
 made                 VVN             1 
 said                 VVD             1 
-jpmorgans            NN2             1 
 180,000              MC              1 
 staff                NN              1 
 worldwide            RL              1 

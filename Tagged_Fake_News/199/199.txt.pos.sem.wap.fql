@@ -1,4 +1,4 @@
-TOTAL              427
+TOTAL              430
 the                  AT             33 
 a                    AT1            12 
 electors             NN2            11 
@@ -23,6 +23,7 @@ be                   VBI             3
 than                 CSN             3 
 to                   TO              3 
 he                   PPHS1           3 
+'s                   GE              3 
 by                   II              3 
 Texas                NP1             3 
 will                 VM              3 
@@ -45,13 +46,16 @@ more                 DAR             2
 presidential         JJ              2 
 election             NN1             2 
 cast                 VV0             2 
+vote                 NN1             2 
 news                 NN1             2 
 also                 RR              2 
 though               CS              2 
 counted              VVN             2 
 no                   AT              2 
 never                RR              2 
+Clinton              NP1             2 
 voted                VVN             2 
+nation               NN1             2 
 President-elect      NNB             2 
 trump                NN1             2 
 evening              NNT1            2 
@@ -90,7 +94,7 @@ two                  MC              1
 prior_to             II21            1 
 this                 DD1             1 
 year                 NNT1            1 
-nt                   XX              1 
+n't                  XX              1 
 been                 VBN             1 
 one                  MC1             1 
 any                  DD              1 
@@ -99,7 +103,6 @@ since                II              1
 next                 MD              1 
 was                  VBDZ            1 
 David_Mulinix        NP1             1 
-vote                 NN1             1 
 Bernie_Sanders       NP1             1 
 instead_of           II21            1 
 said                 VVD             1 
@@ -110,8 +113,7 @@ which                DDQ             1
 pointed_out          VVN             1 
 that                 CST             1 
 forbids              VVZ             1 
-mulinixs             NN2             1 
-vote                 VV0             1 
+Mulinix              NP1             1 
 still                RR              1 
 would                VM              1 
 face                 VVI             1 
@@ -125,7 +127,6 @@ four                 MC              1
 came_from            VVD             1 
 Washington           NP1             1 
 won                  VVN             1 
-Clinton              NP1             1 
 three                MC              1 
 them--Bret_Chiafalo  NP1             1 
 19-year-old          JJ              1 
@@ -160,7 +161,6 @@ woman                NN1             1
 member               NN1             1 
 Yankton              NP1             1 
 sioux                JJ              1 
-nation               NN1             1 
 local                JJ              1 
 NBC                  NP1             1 
 affiliate            NN1             1 
@@ -230,11 +230,9 @@ final                JJ              1
 received             VVD             1 
 304                  MC              1 
 compared             VVN             1 
-Clintons             NP2             1 
 227                  MC              1 
 sent                 VVN             1 
 on_to                II21            1 
-nations              NN2             1 
 capital              NN1             1 
 late                 JJ              1 
 December             NPM1            1 

@@ -1,12 +1,12 @@
-TOTAL         416
-NN1            61 
+TOTAL         420
+NN1            64 
 AT             38 
 II             27 
 VVD            24 
-NN2            19 
 APPGE          18 
 PPHS1          18 
 VVN            18 
+NN2            17 
 NP1            14 
 CC             14 
 RR             10 
@@ -22,6 +22,7 @@ VV0             6
 VVI             6 
 CST             5 
 VM              5 
+GE              4 
 RT              4 
 PNQS            4 
 RG              4 
@@ -50,7 +51,6 @@ MD              1
 DAT             1 
 DB              1 
 VDD             1 
-RRQ             1 
 NNU             1 
 NNT2            1 
 VBI             1 

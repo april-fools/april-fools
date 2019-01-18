@@ -203,8 +203,9 @@
 0000010 440  TO      to                       Z5 
 0000010 450  VVI     invest                   I1.1 
 0000010 460  II      in                       Z5 
-0000010 470  NP1     Exxon                    Z3c 
-0000010 480  NP2     Mobils                   Z3c 
+0000010 470  NP1     Exxon                    Z1mf[i19.2.1 Z3c[i19.2.1 Z3c 
+0000010 480  NP1     Mobil                    Z1mf[i19.2.2 Z3c[i19.2.2 Z3c 
+0000010 481  GE      's                       Z5 
 0000010 490  NN2     operations               A1.1.1 B3 G3 
 0000010 500  RL      overseas                 M6 
 0000010 501  .       .                        
@@ -219,8 +220,8 @@
 0000012 080  IO      of                       Z5 
 0000012 090  NP1     Rosneft                  Z99 
 0000012 091  ,       ,                        
-0000012 100  NP1     Igor                     Z1mf[i19.2.1 Z3c[i19.2.1 
-0000012 110  NP1     Sechin                   Z1mf[i19.2.2 Z3c[i19.2.2 
+0000012 100  NP1     Igor                     Z1mf[i20.2.1 Z3c[i20.2.1 
+0000012 110  NP1     Sechin                   Z1mf[i20.2.2 Z3c[i20.2.2 
 0000012 111  ,       ,                        
 0000012 120  AT1     a                        Z5 
 0000012 130  DA      former                   T2- N4 
@@ -228,9 +229,9 @@
 0000012 150  PNQS    who                      Z8 
 0000012 160  VVD     worked                   I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
 0000012 170  CSA     as                       Z5 
-0000012 180  NN1     chief                    G3/S2mf[i20.3.1 S7.1+ 
-0000012 190  IO      of                       G3/S2mf[i20.3.2 Z5 
-0000012 200  NN      staff                    G3/S2mf[i20.3.3 I3.1/S2mfc B3/S2mf G3/S2c L2mfn I3.1 
+0000012 180  NN1     chief                    G3/S2mf[i21.3.1 S7.1+ 
+0000012 190  IO      of                       G3/S2mf[i21.3.2 Z5 
+0000012 200  NN      staff                    G3/S2mf[i21.3.3 I3.1/S2mfc B3/S2mf G3/S2c L2mfn I3.1 
 0000012 210  IF      for                      Z5 
 0000012 220  NP1     Putin                    Z99 
 0000012 230  RRQ     when                     Z5 
@@ -239,8 +240,8 @@
 0000012 260  NN1     deputy                   S7.1-/S2mf 
 0000012 270  NN1     mayor                    G1.1/S2m S7.1+/S2m 
 0000012 280  II      in                       Z5 
-0000012 290  NP1     St                       Z2[i24.2.1 Z3c[i24.2.1 Z2[i23.2.1 Z3c[i23.2.1 Z2[i22.2.1 Z3c[i22.2.1 Z1mf[i22.2.1 Z1mf[i21.2.1 Z3c[i21.2.1 
-0000012 300  NP1     Petersburg               Z2[i24.2.2 Z3c[i24.2.2 Z2[i23.2.2 Z3c[i23.2.2 Z2 Z2[i22.2.2 Z3c[i22.2.2 Z1mf[i22.2.2 Z1mf[i21.2.2 Z3c[i21.2.2 
+0000012 290  NP1     St                       Z2[i25.2.1 Z3c[i25.2.1 Z2[i24.2.1 Z3c[i24.2.1 Z2[i23.2.1 Z3c[i23.2.1 Z1mf[i23.2.1 Z1mf[i22.2.1 Z3c[i22.2.1 
+0000012 300  NP1     Petersburg               Z2[i25.2.2 Z3c[i25.2.2 Z2[i24.2.2 Z3c[i24.2.2 Z2 Z2[i23.2.2 Z3c[i23.2.2 Z1mf[i23.2.2 Z1mf[i22.2.2 Z3c[i22.2.2 
 0000012 310  II      in                       Z5 
 0000012 320  AT      the                      Z5 
 0000012 330  MC2     mid-1990s                T1.3 N1 T3 
@@ -279,8 +280,8 @@
 0000012 600  NN2     roads                    M3 X4.2 
 0000012 610  II      in                       Z5 
 0000012 620  AT      the                      Z5 
-0000012 630  NP1     United                   Z2c[i27.2.1 Z2c[i26.2.1 Z3c Z1mf[i25.2.1 Z3c[i25.2.1 
-0000012 640  NP1     States                   Z2c[i27.2.2 Z2c[i26.2.2 Z2 Z1mf[i25.2.2 Z3c[i25.2.2 
+0000012 630  NP1     United                   Z2c[i28.2.1 Z2c[i27.2.1 Z3c Z1mf[i26.2.1 Z3c[i26.2.1 
+0000012 640  NP1     States                   Z2c[i28.2.2 Z2c[i27.2.2 Z2 Z1mf[i26.2.2 Z3c[i26.2.2 
 0000012 650  II      on                       Z5 
 0000012 660  NN2     motorcycles              M3fn 
 0000012 670  IW      with                     Z5 
@@ -316,8 +317,8 @@
 0000014 260  NP1     Ukraine                  Z2 Z3c 
 0000014 261  .       .                        
 0000014 262  -----   -----                    
-0000014 270  NP1     Exxon                    Z1mf[i28.2.1 Z3c[i28.2.1 Z3c 
-0000014 280  NP1     Mobil                    Z1mf[i28.2.2 Z3c[i28.2.2 Z3c 
+0000014 270  NP1     Exxon                    Z1mf[i29.2.1 Z3c[i29.2.1 Z3c 
+0000014 280  NP1     Mobil                    Z1mf[i29.2.2 Z3c[i29.2.2 Z3c 
 0000014 290  VVD     estimated                X6/A7- N2/A7- 
 0000014 300  AT      the                      Z5 
 0000014 310  NN2     sanctions                S7.4 G2.1 
@@ -337,14 +338,15 @@
 0000014 450  VVN     lifted                   M2 A5.1+/A2.1 E4.1+/A2.1 G2.1 
 0000014 451  .       .                        
 0000015 001  -----   -----                    
-0000016 010  NN2     Trumps                   K5.2 S7.1+ 
+0000016 010  NN1     Trump                    Z1mf K5.2 
+0000016 011  GE      's                       Z5 
 0000016 020  NN1     choice                   X7+ A6.3+ 
 0000016 030  VVZ     suggests                 Q2.2 Q1.1 
 0000016 040  PPHS1   he                       Z8m 
 0000016 050  VVZ     wants                    X7+ S6+ A7+ S3.2 A9- 
 0000016 060  TO      to                       Z5 
-0000016 070  VVI     make                     A1.1.1[i29.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
-0000016 080  JJ      good                     A1.1.1[i29.2.2 A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000016 070  VVI     make                     A1.1.1[i30.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000016 080  JJ      good                     A1.1.1[i30.2.2 A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
 0000016 090  II      on                       Z5 
 0000016 100  APPGE   his                      Z8m 
 0000016 110  NN1     promise                  S6+ A7+ X9.1+ 
@@ -353,12 +355,12 @@
 0000016 140  NN2     deals                    N5 Q2.2 A1.1.1 I2.2 K5.2 F3/I2.2 
 0000016 150  IW      with                     Z5 
 0000016 160  NP1     Russia                   Z2 
-0000016 170  II21    instead                  A6.1-[i30.2.1 
-0000016 180  II22    of                       A6.1-[i30.2.2 
+0000016 170  II21    instead                  A6.1-[i31.2.1 
+0000016 180  II22    of                       A6.1-[i31.2.2 
 0000016 190  VVG     containing               A1.8+ A1.7+ 
 0000016 200  PPH1    it                       Z8 
-0000017 010  NP1     Thomas                   Z1mf[i31.2.1 Z3c[i31.2.1 Z1mf 
-0000017 020  NP1     Wright                   Z1mf[i31.2.2 Z3c[i31.2.2 Z1mf 
+0000017 010  NP1     Thomas                   Z1mf[i32.2.1 Z3c[i32.2.1 Z1mf 
+0000017 020  NP1     Wright                   Z1mf[i32.2.2 Z3c[i32.2.2 Z1mf 
 0000017 021  ,       ,                        
 0000017 030  NP1     Brookings                Z99 
 0000017 040  NN1     Institution              S5+c S7.1+ H1c S1.1.1 T2+ 
@@ -394,7 +396,8 @@
 0000018 280  II      at                       Z5 
 0000018 290  AT1     a                        Z5 
 0000018 300  NN2     shareholders             I1.1/S2mf 
-0000018 310  VVG     meeting                  S3.1 M6 A1.1.1 X9.2+ A6.1+ 
+0000018 301  GE      '                        Z5 
+0000018 310  NN1     meeting                  S1.1.3+ S3.1 K5.1 S9 A1.1.1 X9.2+ A6.1+ 
 0000018 311  .       .                        
 0000019 001  -----   -----                    
 0000020 010  II      In                       Z5 
@@ -418,12 +421,12 @@
 0000020 171  ,       ,                        
 0000020 180  NP1     Tillerson                Z99 
 0000020 190  RR      reportedly               A8 
-0000020 200  VVN     turned                   M1[i32.2.1 M2[i32.2.1 A10+[i32.2.1 X3.2+/A2.1[i32.2.1 B5@[i32.2.1 M2 M1 O4.4 A1.1.1 A2.1+ O4.2- 
-0000020 210  RP      up                       M1[i32.2.2 M2[i32.2.2 A10+[i32.2.2 X3.2+/A2.1[i32.2.2 B5@[i32.2.2 
+0000020 200  VVN     turned                   M1[i33.2.1 M2[i33.2.1 A10+[i33.2.1 X3.2+/A2.1[i33.2.1 B5@[i33.2.1 M2 M1 O4.4 A1.1.1 A2.1+ O4.2- 
+0000020 210  RP      up                       M1[i33.2.2 M2[i33.2.2 A10+[i33.2.2 X3.2+/A2.1[i33.2.2 B5@[i33.2.2 
 0000020 220  II      at                       Z5 
 0000020 230  AT1     a                        Z5 
-0000020 240  NP1     St                       Z2[i36.2.1 Z3c[i36.2.1 Z2[i35.2.1 Z3c[i35.2.1 Z2[i34.2.1 Z3c[i34.2.1 Z1mf[i34.2.1 Z1mf[i33.2.1 Z3c[i33.2.1 
-0000020 250  NP1     Petersburg               Z2[i36.2.2 Z3c[i36.2.2 Z2[i35.2.2 Z3c[i35.2.2 Z2 Z2[i34.2.2 Z3c[i34.2.2 Z1mf[i34.2.2 Z1mf[i33.2.2 Z3c[i33.2.2 
+0000020 240  NP1     St                       Z2[i37.2.1 Z3c[i37.2.1 Z2[i36.2.1 Z3c[i36.2.1 Z2[i35.2.1 Z3c[i35.2.1 Z1mf[i35.2.1 Z1mf[i34.2.1 Z3c[i34.2.1 
+0000020 250  NP1     Petersburg               Z2[i37.2.2 Z3c[i37.2.2 Z2[i36.2.2 Z3c[i36.2.2 Z2 Z2[i35.2.2 Z3c[i35.2.2 Z1mf[i35.2.2 Z1mf[i34.2.2 Z3c[i34.2.2 
 0000020 260  JJ      economic                 I1.3- I2.1 
 0000020 270  NN1     summit                   W3 N5.1+ S1.1.3+ 
 0000020 271  .       .                        
@@ -439,15 +442,16 @@
 0000022 080  NN1     project                  A1.1.1 P1 
 0000022 090  VM      would                    A7+ 
 0000022 100  RR      probably                 A7+ 
-0000022 110  VVI     go                       T2++[i37.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
-0000022 120  RL      ahead                    T2++[i37.2.2 M6 N4 T1.1.3 
+0000022 110  VVI     go                       T2++[i38.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000022 120  RL      ahead                    T2++[i38.2.2 M6 N4 T1.1.3 
 0000022 130  CC      and                      Z5 
-0000022 140  NP2     Tillersons               Z99 
+0000022 140  NP1     Tillerson                Z99 
+0000022 141  GE      's                       Z5 
 0000022 150  NN1     retirement               I3.1- 
 0000022 160  NN1     fund                     I1.1 N5+ 
 0000022 170  IO      of                       Z5 
-0000022 180  NP1     Exxon                    Z1mf[i38.2.1 Z3c[i38.2.1 Z3c 
-0000022 190  NP1     Mobil                    Z1mf[i38.2.2 Z3c[i38.2.2 Z3c 
+0000022 180  NP1     Exxon                    Z1mf[i39.2.1 Z3c[i39.2.1 Z3c 
+0000022 190  NP1     Mobil                    Z1mf[i39.2.2 Z3c[i39.2.2 Z3c 
 0000022 200  NN1     stock                    A9+ F1 S4 O2 I1.1 
 0000022 210  VM      would                    A7+ 
 0000022 220  VVI     increase                 N5+/A2.1 
@@ -459,8 +463,8 @@
 0000022 260  VM      would                    A7+ 
 0000022 270  RGT     most                     A13.2 
 0000022 280  RR@     likely                   A7+ 
-0000022 290  VHI     have                     S6+[i39.2.1 A9+ Z5 A2.2 S4 
-0000022 300  TO      to                       S6+[i39.2.2 Z5 
+0000022 290  VHI     have                     S6+[i40.2.1 A9+ Z5 A2.2 S4 
+0000022 300  TO      to                       S6+[i40.2.2 Z5 
 0000022 310  VVI     divest                   A9- 
 0000022 320  PPX1    himself                  Z8m 
 0000022 330  IO      of                       Z5 
@@ -474,12 +478,12 @@
 0000022 410  NN1     office                   I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+ 
 0000022 420  II      on                       Z5 
 0000022 430  AT      the                      Z5 
-0000022 440  MD      seventh                  H2[i40.2.1 N1 
-0000022 450  NN1     floor                    H2[i40.2.2 H2 S5+ 
+0000022 440  MD      seventh                  H2[i41.2.1 N1 
+0000022 450  NN1     floor                    H2[i41.2.2 H2 S5+ 
 0000022 460  IO      of                       Z5 
 0000022 470  AT      the                      Z5 
-0000022 480  NN1     state                    G1.1/S5+c[i41.2.1 G1.1c O4.1 
-0000022 490  NN1     department               G1.1/S5+c[i41.2.2 H2/S5+c X2.2 
+0000022 480  NN1     state                    G1.1/S5+c[i42.2.1 G1.1c O4.1 
+0000022 490  NN1     department               G1.1/S5+c[i42.2.2 H2/S5+c X2.2 
 0000022 491  .       .                        
 0000022 492  -----   -----                    
 0000022 500  PPH1    It                       Z8 
@@ -493,8 +497,8 @@
 0000022 580  RR      entirely                 A13.2 
 0000022 590  II      from                     Z5 
 0000022 600  AT      the                      Z5 
-0000022 610  NN1     oil                      O1.2/I2.1c[i42.2.1 O1.2 C1 C1/O1 
-0000022 620  NN1     company                  O1.2/I2.1c[i42.2.2 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000022 610  NN1     oil                      O1.2/I2.1c[i43.2.1 O1.2 C1 C1/O1 
+0000022 620  NN1     company                  O1.2/I2.1c[i43.2.2 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
 0000022 630  CS      where                    M6 
 0000022 640  PPHS1   he                       Z8m 
 0000022 650  VVD     spent                    I1.2 A1.5.1 T1.3 
@@ -502,17 +506,18 @@
 0000022 670  NN1     career                   I3.1 
 0000022 671  .       .                        
 0000023 001  -----   -----                    
-0000024 010  NN2     Trumps                   K5.2 S7.1+ 
+0000024 010  NN1     Trump                    Z1mf K5.2 
+0000024 011  GE      's                       Z5 
 0000024 020  NN1     choice                   X7+ A6.3+ 
 0000024 030  IO      of                       Z5 
-0000024 040  NP1     Rex                      Z1mf[i43.2.1 Z3c[i43.2.1 Z1m Z3mnc 
-0000024 050  NP1     Tillerson                Z1mf[i43.2.2 Z3c[i43.2.2 
+0000024 040  NP1     Rex                      Z1mf[i44.2.1 Z3c[i44.2.1 Z1m Z3mnc 
+0000024 050  NP1     Tillerson                Z1mf[i44.2.2 Z3c[i44.2.2 
 0000024 060  VVZ     suggests                 Q2.2 Q1.1 
 0000024 070  PPHS1   he                       Z8m 
 0000024 080  VVZ     wants                    X7+ S6+ A7+ S3.2 A9- 
 0000024 090  TO      to                       Z5 
-0000024 100  VVI     make                     A1.1.1[i44.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
-0000024 110  JJ      good                     A1.1.1[i44.2.2 A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000024 100  VVI     make                     A1.1.1[i45.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000024 110  JJ      good                     A1.1.1[i45.2.2 A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
 0000024 120  II      on                       Z5 
 0000024 130  APPGE   his                      Z8m 
 0000024 140  NN1     promise                  S6+ A7+ X9.1+ 
@@ -521,21 +526,22 @@
 0000024 170  NN2     deals                    N5 Q2.2 A1.1.1 I2.2 K5.2 F3/I2.2 
 0000024 180  IW      with                     Z5 
 0000024 190  NP1     Russia                   Z2 
-0000024 200  II21    instead                  A6.1-[i45.2.1 
-0000024 210  II22    of                       A6.1-[i45.2.2 
+0000024 200  II21    instead                  A6.1-[i46.2.1 
+0000024 210  II22    of                       A6.1-[i46.2.2 
 0000024 220  VVG     containing               A1.8+ A1.7+ 
 0000024 230  PPH1    it                       Z8 
 0000024 231  ,       ,                        
 0000024 240  VVD     said                     Q2.1 
-0000024 250  NP1     Thomas                   Z1mf[i46.2.1 Z3c[i46.2.1 Z1mf 
-0000024 260  NP1     Wright                   Z1mf[i46.2.2 Z3c[i46.2.2 Z1mf 
+0000024 250  NP1     Thomas                   Z1mf[i47.2.1 Z3c[i47.2.1 Z1mf 
+0000024 260  NP1     Wright                   Z1mf[i47.2.2 Z3c[i47.2.2 Z1mf 
 0000024 261  ,       ,                        
 0000024 270  PNQS    who                      Z8 
 0000024 280  VHZ     has                      Z5 A9+ A2.2 S4 
 0000024 290  VVN     written                  Q1.2 I2.1 
 0000024 300  RR      extensively              N5+ 
 0000024 310  II      on                       Z5 
-0000024 320  NN2     Trumps                   K5.2 S7.1+ 
+0000024 320  NN1     Trump                    Z1mf 
+0000024 321  GE      's                       Z5 
 0000024 330  JJ      foreign                  M7 
 0000024 340  NN1     policy                   X7+ Q1.2 
 0000024 350  II      at                       Z5 
@@ -623,9 +629,9 @@
 0000031 080  NN2     players                  K6/S2mf K5.2/S2mf K2/S2mf S1.1.3+/S2mf K4/S2mf K3 
 0000031 090  AT      the                      Z5 
 0000031 100  NNB     president-elect          G1.1/S7.1+/S2mf 
-0000031 110  VHN@    had                      X7+[i47.3.1 X2.1[i47.3.1 A9+ Z5 A2.2 S4 
-0000031 120  II      in                       X7+[i47.3.2 X2.1[i47.3.2 Z5 X2.1[i48.2.1 
-0000031 130  NN1     mind                     X7+[i47.3.3 X2.1[i47.3.3 X1 X2.1[i48.2.2 
+0000031 110  VHN@    had                      X7+[i48.3.1 X2.1[i48.3.1 A9+ Z5 A2.2 S4 
+0000031 120  II      in                       X7+[i48.3.2 X2.1[i48.3.2 Z5 X2.1[i49.2.1 
+0000031 130  NN1     mind                     X7+[i48.3.3 X2.1[i48.3.3 X1 X2.1[i49.2.2 
 0000031 131  ,       ,                        
 0000031 140  NN1     Trump                    Z1mf 
 0000031 150  VVD     added                    N5+/A2.1 N2 A1.8+ 
@@ -649,52 +655,52 @@
 0000033 010  AT1     A                        Z5 
 0000033 020  NN1     culture                  C1 S1.1.1 S5+ L1 
 0000033 030  IO      of                       Z5 
-0000033 040  NN1     intimidation             E5- 
+0000033 040  JJ      intimidation'            Z99 
 0000034 010  NN2     Stacks                   Z3c 
 0000034 020  CC      and                      Z5 
 0000034 030  JJ      burn-off                 Z99 
 0000034 040  II      from                     Z5 
 0000034 050  AT      the                      Z5 
-0000034 060  NP1     Exxon                    Z1mf[i49.2.1 Z3c[i49.2.1 Z3c 
-0000034 070  NP1     Mobil                    Z1mf[i49.2.2 Z3c[i49.2.2 Z3c 
+0000034 060  NP1     Exxon                    Z1mf[i50.2.1 Z3c[i50.2.1 Z3c 
+0000034 070  NP1     Mobil                    Z1mf[i50.2.2 Z3c[i50.2.2 Z3c 
 0000034 080  NN1     refinery                 I4/H1 
 0000034 081  ,       ,                        
 0000034 090  II      at                       Z5 
 0000034 100  NNT1    dusk                     T1.3 W2 
 0000034 110  II      in                       Z5 
-0000034 120  NP1     St                       Z1mf[i51.3.1 Z3c[i51.3.1 Z1mf[i50.2.1 Z3c[i50.2.1 Z2[i52.2.1 Z3c[i52.2.1 Z1mf[i52.2.1 Z2[i53.2.1 Z3c[i53.2.1 Z2[i54.2.1 Z3c[i54.2.1 
-0000034 130  NP1     Bernard                  Z1mf[i51.3.2 Z3c[i51.3.2 Z1mf Z1mf[i50.2.2 Z3c[i50.2.2 Z2[i52.2.2 Z3c[i52.2.2 Z1mf[i52.2.2 Z2[i53.2.2 Z3c[i53.2.2 Z2[i54.2.2 Z3c[i54.2.2 Z1mf[i55.2.1 Z3c[i55.2.1 
-0000034 140  NP1@    Parish                   Z3c[i51.3.3 Z1mf[i51.3.3 Z1mf[i55.2.2 Z3c[i55.2.2 
+0000034 120  NP1     St                       Z1mf[i52.3.1 Z3c[i52.3.1 Z1mf[i51.2.1 Z3c[i51.2.1 Z2[i53.2.1 Z3c[i53.2.1 Z1mf[i53.2.1 Z2[i54.2.1 Z3c[i54.2.1 Z2[i55.2.1 Z3c[i55.2.1 
+0000034 130  NP1     Bernard                  Z1mf[i52.3.2 Z3c[i52.3.2 Z1mf Z1mf[i51.2.2 Z3c[i51.2.2 Z2[i53.2.2 Z3c[i53.2.2 Z1mf[i53.2.2 Z2[i54.2.2 Z3c[i54.2.2 Z2[i55.2.2 Z3c[i55.2.2 Z1mf[i56.2.1 Z3c[i56.2.1 
+0000034 140  NP1@    Parish                   Z3c[i52.3.3 Z1mf[i52.3.3 Z1mf[i56.2.2 Z3c[i56.2.2 
 0000034 141  ,       ,                        
 0000034 150  NP1     Louisiana                Z99 
 0000034 151  .       .                        
 0000035 001  -----   -----                    
 0000035 010  NN1     Facebook                 Z3c/Y2 
 0000035 020  NN1     Twitter                  Z99 
-0000035 030  NP1     Pinterest                Z1mf[i56.2.1 Z3c[i56.2.1 
-0000036 010  NN2     Stacks                   Z1mf[i56.2.2 Z3c[i56.2.2 Z3c 
+0000035 030  NP1     Pinterest                Z1mf[i57.2.1 Z3c[i57.2.1 
+0000036 010  NN2     Stacks                   Z1mf[i57.2.2 Z3c[i57.2.2 Z3c 
 0000036 020  CC      and                      Z5 
 0000036 030  JJ      burn-off                 Z99 
 0000036 040  II      from                     Z5 
 0000036 050  AT      the                      Z5 
-0000036 060  NP1     Exxon                    Z1mf[i57.2.1 Z3c[i57.2.1 Z3c 
-0000036 070  NP1     Mobil                    Z1mf[i57.2.2 Z3c[i57.2.2 Z3c 
+0000036 060  NP1     Exxon                    Z1mf[i58.2.1 Z3c[i58.2.1 Z3c 
+0000036 070  NP1     Mobil                    Z1mf[i58.2.2 Z3c[i58.2.2 Z3c 
 0000036 080  NN1     refinery                 I4/H1 
 0000036 081  ,       ,                        
 0000036 090  II      at                       Z5 
 0000036 100  NNT1    dusk                     T1.3 W2 
 0000036 110  II      in                       Z5 
-0000036 120  NP1     St                       Z1mf[i59.3.1 Z3c[i59.3.1 Z1mf[i58.2.1 Z3c[i58.2.1 Z2[i60.2.1 Z3c[i60.2.1 Z1mf[i60.2.1 Z2[i61.2.1 Z3c[i61.2.1 Z2[i62.2.1 Z3c[i62.2.1 
-0000036 130  NP1     Bernard                  Z1mf[i59.3.2 Z3c[i59.3.2 Z1mf Z1mf[i58.2.2 Z3c[i58.2.2 Z2[i60.2.2 Z3c[i60.2.2 Z1mf[i60.2.2 Z2[i61.2.2 Z3c[i61.2.2 Z2[i62.2.2 Z3c[i62.2.2 Z1mf[i63.2.1 Z3c[i63.2.1 
-0000036 140  NP1@    Parish                   Z3c[i59.3.3 Z1mf[i59.3.3 Z1mf[i63.2.2 Z3c[i63.2.2 
+0000036 120  NP1     St                       Z1mf[i60.3.1 Z3c[i60.3.1 Z1mf[i59.2.1 Z3c[i59.2.1 Z2[i61.2.1 Z3c[i61.2.1 Z1mf[i61.2.1 Z2[i62.2.1 Z3c[i62.2.1 Z2[i63.2.1 Z3c[i63.2.1 
+0000036 130  NP1     Bernard                  Z1mf[i60.3.2 Z3c[i60.3.2 Z1mf Z1mf[i59.2.2 Z3c[i59.2.2 Z2[i61.2.2 Z3c[i61.2.2 Z1mf[i61.2.2 Z2[i62.2.2 Z3c[i62.2.2 Z2[i63.2.2 Z3c[i63.2.2 Z1mf[i64.2.1 Z3c[i64.2.1 
+0000036 140  NP1@    Parish                   Z3c[i60.3.3 Z1mf[i60.3.3 Z1mf[i64.2.2 Z3c[i64.2.2 
 0000036 141  ,       ,                        
 0000036 150  NP1     Louisiana                Z99 
 0000036 151  .       .                        
 0000036 152  -----   -----                    
 0000036 160  NN1     Photograph               C1 
 0000036 161  :       :                        
-0000036 170  NP1     Gerald                   Z1mf[i64.2.1 Z3c[i64.2.1 Z1m 
-0000036 180  NP1     Herbert/AP               Z1mf[i64.2.2 Z3c[i64.2.2 
+0000036 170  NP1     Gerald                   Z1mf[i65.2.1 Z3c[i65.2.1 Z1m 
+0000036 180  NP1     Herbert/AP               Z1mf[i65.2.2 Z3c[i65.2.2 
 0000037 010  II      In                       Z5 
 0000037 020  AT1     a                        Z5 
 0000037 030  RG      very                     A13.3 
@@ -714,8 +720,8 @@
 0000037 160  NN1     state                    G1.1c O4.1 
 0000037 161  .       .                        
 0000037 162  -----   -----                    
-0000037 170  NP1     Exxon                    Z1mf[i65.2.1 Z3c[i65.2.1 Z3c 
-0000037 180  NP1     Mobil                    Z1mf[i65.2.2 Z3c[i65.2.2 Z3c 
+0000037 170  NP1     Exxon                    Z1mf[i66.2.1 Z3c[i66.2.1 Z3c 
+0000037 180  NP1     Mobil                    Z1mf[i66.2.2 Z3c[i66.2.2 Z3c 
 0000037 190  VBZ     is                       A3+ Z5 
 0000037 200  JJR     bigger                   N3.2++ N5++ A11.1++ S1.2.5++ X5.2++ 
 0000037 210  RR      economically             I1.3- I2.1@ 
@@ -726,13 +732,13 @@
 0000037 242  -----   -----                    
 0000037 250  PPH1    It                       Z8 
 0000037 260  VHZ     has                      A9+ Z5 A2.2 S4 
-0000037 270  APPGE   its                      Z8[i66.2.1 Z8 
-0000037 280  DA      own                      Z8[i66.2.2 A9+ S5- 
+0000037 270  APPGE   its                      Z8[i67.2.1 Z8 
+0000037 280  DA      own                      Z8[i67.2.2 A9+ S5- 
 0000037 290  JJ      foreign                  M7 
 0000037 300  NN1     policy                   X7+ Q1.2 
 0000037 310  CC      and                      Z5 
-0000037 320  APPGE   its                      Z8[i67.2.1 Z8 
-0000037 330  DA      own                      Z8[i67.2.2 A9+ S5- 
+0000037 320  APPGE   its                      Z8[i68.2.1 Z8 
+0000037 330  DA      own                      Z8[i68.2.2 A9+ S5- 
 0000037 340  JJ@     contracted               Q2.2 N3.2-/A2.1 A9+ I2.1 
 0000037 350  NN1     security                 G2.1 A15+ E6+ I1.1 
 0000037 360  NN2     forces                   G3 G2.1 E3- S7.1+ N3 S5+ 
@@ -745,9 +751,9 @@
 0000039 040  PPH1    it                       Z8 
 0000039 050  VHZ     has                      A9+ Z5 A2.2 S4 
 0000039 060  RR      much                     A13.3 N6+ 
-0000039 070  II31    in                       A6.1+[i68.3.1 Z5 
-0000039 080  II32    common                   A6.1+[i68.3.2 
-0000039 090  II33    with                     A6.1+[i68.3.3 
+0000039 070  II31    in                       A6.1+[i69.3.1 Z5 
+0000039 080  II32    common                   A6.1+[i69.3.2 
+0000039 090  II33    with                     A6.1+[i69.3.3 
 0000039 100  AT      the                      Z5 
 0000039 110  PN1     one                      Z8 
 0000039 120  VVN     run                      M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4 
@@ -761,8 +767,8 @@
 0000041 020  II      on                       Z5 
 0000041 030  NP1     Exxon                    Z3c 
 0000041 040  VBDZ    was                      A3+ Z5 
-0000041 050  XX      not                      Z5[i69.2.1 Z6 
-0000041 060  RR      only                     Z5[i69.2.2 A14 
+0000041 050  XX      not                      Z5[i70.2.1 Z6 
+0000041 060  RR      only                     Z5[i70.2.2 A14 
 0000041 070  RRR     harder                   X8++ N5++ A12-- 
 0000041 080  CSN     than                     Z5 
 0000041 090  VVG     reporting                Q2.2 S7.1- 
@@ -786,8 +792,8 @@
 0000041 260  NN1     magnitude                N3.2 
 0000041 261  ,       ,                        
 0000041 270  VVD     said                     Q2.1 
-0000041 280  NP1     Steve                    Z2[i71.2.1 Z3c[i71.2.1 Z1mf[i71.2.1 Z1mf Z1mf[i70.2.1 Z3c[i70.2.1 
-0000041 290  NP1     Coll                     Z2[i71.2.2 Z3c[i71.2.2 Z1mf[i71.2.2 Z1mf[i70.2.2 Z3c[i70.2.2 
+0000041 280  NP1     Steve                    Z2[i72.2.1 Z3c[i72.2.1 Z1mf[i72.2.1 Z1mf Z1mf[i71.2.1 Z3c[i71.2.1 
+0000041 290  NP1     Coll                     Z2[i72.2.2 Z3c[i72.2.2 Z1mf[i72.2.2 Z1mf[i71.2.2 Z3c[i71.2.2 
 0000041 291  ,       ,                        
 0000041 300  PNQS    who                      Z8 
 0000041 310  VVD     wrote                    Q1.2 I2.1 
@@ -846,8 +852,8 @@
 0000043 360  NN1     journalism               Q4.2 
 0000043 370  NN1     professor                P1/S2mf 
 0000043 380  II      at                       Z5 
-0000043 390  NP1     Columbia                 Z3c[i72.2.1 Z2 Z3c 
-0000043 400  NN1     University               Z3c[i72.2.2 P1/H1c 
+0000043 390  NP1     Columbia                 Z3c[i73.2.1 Z2 Z3c 
+0000043 400  NN1     University               Z3c[i73.2.2 P1/H1c 
 0000043 401  ,       ,                        
 0000043 410  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
 0000043 420  NP1     Texas                    Z2 Z3c 
@@ -856,31 +862,31 @@
 0000044 001  -----   -----                    
 0000045 010  VVG     Running                  M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4 
 0000045 020  AT      the                      Z5 
-0000045 030  NN1     state                    G1.1/S5+c[i73.2.1 G1.1c O4.1 
-0000045 040  NN1     department               G1.1/S5+c[i73.2.2 H2/S5+c X2.2 
+0000045 030  NN1     state                    G1.1/S5+c[i74.2.1 G1.1c O4.1 
+0000045 040  NN1     department               G1.1/S5+c[i74.2.2 H2/S5+c X2.2 
 0000045 050  VM      would                    A7+ 
 0000045 060  XX      not                      Z6 
 0000045 070  VBI     be                       A3+ Z5 
 0000045 080  II      like                     Z5 
 0000045 090  VVG     running                  M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4 
-0000045 100  NP1     Exxon                    Z1mf[i74.2.1 Z3c[i74.2.1 Z3c 
-0000045 110  NP1     Mobil                    Z1mf[i74.2.2 Z3c[i74.2.2 Z3c 
+0000045 100  NP1     Exxon                    Z1mf[i75.2.1 Z3c[i75.2.1 Z3c 
+0000045 110  NP1     Mobil                    Z1mf[i75.2.2 Z3c[i75.2.2 Z3c 
 0000045 111  ,       ,                        
 0000045 120  RR      however                  Z4 
 0000045 121  .       .                        
 0000045 122  -----   -----                    
-0000045 130  IF      For                      Z4[i75.3.1 N4[i75.3.1 Z5 
-0000045 140  AT1     a                        Z4[i75.3.2 N4[i75.3.2 Z5 
-0000045 150  NN1     start                    Z4[i75.3.3 N4[i75.3.3 T2+ E5- 
+0000045 130  IF      For                      Z4[i76.3.1 N4[i76.3.1 Z5 
+0000045 140  AT1     a                        Z4[i76.3.2 N4[i76.3.2 Z5 
+0000045 150  NN1     start                    Z4[i76.3.3 N4[i76.3.3 T2+ E5- 
 0000045 151  ,       ,                        
 0000045 160  NP1     Tillerson                Z99 
 0000045 170  VM      would                    A7+ 
-0000045 180  VHI     have                     S6+[i76.2.1 A9+ Z5 A2.2 S4 
-0000045 190  TO      to                       S6+[i76.2.2 Z5 
+0000045 180  VHI     have                     S6+[i77.2.1 A9+ Z5 A2.2 S4 
+0000045 190  TO      to                       S6+[i77.2.2 Z5 
 0000045 200  VVI     audition                 K4 
-0000045 210  II31    in                       N4[i77.3.1 M6[i77.3.1 Z5 
-0000045 220  II32    front                    N4[i77.3.2 M6[i77.3.2 
-0000045 230  II33    of                       N4[i77.3.3 M6[i77.3.3 
+0000045 210  II31    in                       N4[i78.3.1 M6[i78.3.1 Z5 
+0000045 220  II32    front                    N4[i78.3.2 M6[i78.3.2 
+0000045 230  II33    of                       N4[i78.3.3 M6[i78.3.3 
 0000045 240  AT1     a                        Z5 
 0000045 250  JJ      sceptical                X2.1 
 0000045 260  NN1     Senate                   S7.1+ 
@@ -901,21 +907,21 @@
 0000045 371  .       .                        
 0000046 001  -----   -----                    
 0000047 010  AT      The                      Z5 
-0000047 020  NP1     New                      Z2[i79.2.1 Z1mf[i78.2.1 Z3c[i78.2.1 
-0000047 030  NP1     Jersey                   Z2[i79.2.2 Z2 Z1mf[i78.2.2 Z3c[i78.2.2 
+0000047 020  NP1     New                      Z2[i80.2.1 Z1mf[i79.2.1 Z3c[i79.2.1 
+0000047 030  NP1     Jersey                   Z2[i80.2.2 Z2 Z1mf[i79.2.2 Z3c[i79.2.2 
 0000047 040  NN1     senator                  G1.2/S2mf 
-0000047 050  NP1     Bob                      Z1mf[i80.2.1 Z3c[i80.2.1 Z1 
-0000047 060  NP1     Menendez                 Z1mf[i80.2.2 Z3c[i80.2.2 
+0000047 050  NP1     Bob                      Z1mf[i81.2.1 Z3c[i81.2.1 Z1 
+0000047 060  NP1     Menendez                 Z1mf[i81.2.2 Z3c[i81.2.2 
 0000047 070  VVD     said                     Q2.1 
 0000047 080  II      on                       Z5 
 0000047 090  NN1     Twitter                  Z99 
 0000047 091  :       :                        
-0000047 100  NP1     Rex                      Z1mf[i81.2.1 Z3c[i81.2.1 Z1m Z3mnc 
-0000047 110  NP1     Tillerson                Z1mf[i81.2.2 Z3c[i81.2.2 
+0000047 100  NP1     Rex                      Z1mf[i82.2.1 Z3c[i82.2.1 Z1m Z3mnc 
+0000047 110  NP1     Tillerson                Z1mf[i82.2.2 Z3c[i82.2.2 
 0000047 120  CSA     as                       Z5 
-0000047 130  NN1     secretary                G1.1/S2mf[i82.3.1 I3.2/S2mf S7.1+/S2mf 
-0000047 140  IO      of                       G1.1/S2mf[i82.3.2 Z5 
-0000047 150  NN1     state                    G1.1/S2mf[i82.3.3 G1.1c O4.1 
+0000047 130  NN1     secretary                G1.1/S2mf[i83.3.1 I3.2/S2mf S7.1+/S2mf 
+0000047 140  IO      of                       G1.1/S2mf[i83.3.2 Z5 
+0000047 150  NN1     state                    G1.1/S2mf[i83.3.3 G1.1c O4.1 
 0000047 160  VM      would                    A7+ 
 0000047 170  VVI     guarantee                A7+/Q2.2 
 0000047 180  NP1     Russia                   Z2 
@@ -925,7 +931,8 @@
 0000047 220  NN1     accomplice               S8+/S2mf 
 0000047 230  II      in                       Z5 
 0000047 240  AT      the                      Z5 
-0000047 250  NN2     presidents               G1.1/S7.1+/S2mf 
+0000047 250  NN1     president                G1.1/S7.1+/S2mf 
+0000047 251  GE      's                       Z5 
 0000047 260  NN1     cabinet                  H5 G1.1 
 0000047 261  .       .                        
 0000048 001  -----   -----                    
@@ -946,7 +953,8 @@
 0000049 140  NN1     revolt                   G2.1- E3- 
 0000049 150  TO      to                       Z5 
 0000049 160  VVI     cast                     K4 A4.1 M2 G1.2 S9 A9- A1.1.1 
-0000049 170  NP2     Tillersons               Z99 
+0000049 170  NP1     Tillerson                Z99 
+0000049 171  GE      's                       Z5 
 0000049 180  NN1     job                      I3.1 A1.1.1 A12- 
 0000049 190  II      in                       Z5 
 0000049 200  NN1     doubt                    A7- 
@@ -965,8 +973,8 @@
 0000049 301  ,       ,                        
 0000049 310  VVN     led                      S7.1+ A2.2 M2 A1.1.1 
 0000049 320  II      by                       Z5 
-0000049 330  NP1     John                     Z1mf[i83.2.1 Z3c[i83.2.1 Z1m S9/O1.2 
-0000049 340  NP1     McCain                   Z1mf[i83.2.2 Z3c[i83.2.2 
+0000049 330  NP1     John                     Z1mf[i84.2.1 Z3c[i84.2.1 Z1m S9/O1.2 
+0000049 340  NP1     McCain                   Z1mf[i84.2.2 Z3c[i84.2.2 
 0000049 341  .       .                        
 0000050 001  -----   -----                    
 0000051 010  PPIS1   I                        Z8mf 
@@ -977,8 +985,8 @@
 0000051 060  APPGE   his                      Z8m 
 0000051 070  NN1     relationship             S3.1 S3.2 A2.2 S4 
 0000051 080  IW      with                     Z5 
-0000051 090  NP1     Vladimir                 Z1mf[i84.2.1 Z3c[i84.2.1 
-0000051 100  NP1     Putin                    Z1mf[i84.2.2 Z3c[i84.2.2 
+0000051 090  NP1     Vladimir                 Z1mf[i85.2.1 Z3c[i85.2.1 
+0000051 100  NP1     Putin                    Z1mf[i85.2.2 Z3c[i85.2.2 
 0000051 101  ,       ,                        
 0000051 110  PNQS    who                      Z8 
 0000051 120  VBZ     is                       A3+ Z5 
@@ -997,8 +1005,8 @@
 0000051 240  II      on                       Z5 
 0000051 250  DD1     that                     Z5 Z8 
 0000051 260  NN1     issue                    X4.1 Q4.2 S4 A9- 
-0000051 270  CC      and                      S2mf[i85.2.1 Z5 
-0000051 280  JJ      other                    S2mf[i85.2.2 A6.1- 
+0000051 270  CC      and                      S2mf[i86.2.1 Z5 
+0000051 280  JJ      other                    S2mf[i86.2.2 A6.1- 
 0000051 290  NN2     issues                   X4.1 Q4.2 S4 A9- 
 0000051 300  II      concerning               Z5 
 0000051 310  PPHO1   him                      Z8m 
@@ -1007,14 +1015,15 @@
 0000051 340  VVN     examined                 X2.4 B3 P1 
 0000051 350  CC      and                      Z5 
 0000051 360  RT      then                     N4 Z5 T1.2 
-0000051 370  APPGE   its                      Z8 
+0000051 370  PPH1    it                       Z8 
+0000051 371  VBZ     's                       A3+ Z5 
 0000051 380  AT      the                      Z5 
 0000051 390  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000051 400  TO      to                       Z5 
-0000051 410  VVI     make                     X6+[i87.4.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ A5.2-[i86.2.1 B4[i86.2.1 N5[i86.2.1 S3.1[i86.2.1 A1.1.1[i86.2.1 
-0000051 420  RP      up                       X6+[i87.4.2 A5.2-[i86.2.2 B4[i86.2.2 N5[i86.2.2 S3.1[i86.2.2 A1.1.1[i86.2.2 
-0000051 430  APPGE   your                     X6+[i87.4.3 Z8 
-0000051 440  NN1     mind                     X6+[i87.4.4 X1 
+0000051 410  VVI     make                     X6+[i88.4.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ A5.2-[i87.2.1 B4[i87.2.1 N5[i87.2.1 S3.1[i87.2.1 A1.1.1[i87.2.1 
+0000051 420  RP      up                       X6+[i88.4.2 A5.2-[i87.2.2 B4[i87.2.2 N5[i87.2.2 S3.1[i87.2.2 A1.1.1[i87.2.2 
+0000051 430  APPGE   your                     X6+[i88.4.3 Z8 
+0000051 440  NN1     mind                     X6+[i88.4.4 X1 
 0000051 450  II      on                       Z5 
 0000051 460  CSW     whether                  Z5 
 0000051 470  TO      to                       Z5 
@@ -1027,20 +1036,20 @@
 0000051 530  NP1     Arizona                  Z2 Z3c 
 0000051 540  NN1     senator                  G1.2/S2mf 
 0000051 550  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
-0000051 560  NP1     CNN                      Z2[i88.3.1 
-0000051 570  II      on                       Z2[i88.3.2 Z5 
-0000051 580  NPD1    Saturday                 Z2[i88.3.3 T1.3 
+0000051 560  NP1     CNN                      Z2[i89.3.1 
+0000051 570  II      on                       Z2[i89.3.2 Z5 
+0000051 580  NPD1    Saturday                 Z2[i89.3.3 T1.3 
 0000051 581  .       .                        
 0000052 001  -----   -----                    
 0000053 010  ZZ1     A                        Z5 
 0000053 020  NP1     US                       Z8 
 0000053 030  JJ      foreign                  M7 
-0000053 040  NN1     policy                   X7+[i89.2.1 X7+ Q1.2 
-0000053 050  VVN     based                    X7+[i89.2.2 T2+ M6 A2.2 A2.2[i90.2.1 
-0000053 060  II      on                       Z5 A2.2[i90.2.2 
+0000053 040  NN1     policy                   X7+[i90.2.1 X7+ Q1.2 
+0000053 050  VVN     based                    X7+[i90.2.2 T2+ M6 A2.2 A2.2[i91.2.1 
+0000053 060  II      on                       Z5 A2.2[i91.2.2 
 0000053 070  NN1     realpolitik              Z99 
-0000053 080  II21    rather                   Z5[i92.2.1 Z5[i91.2.1 
-0000053 090  II22    than                     Z5[i92.2.2 Z5[i91.2.2 
+0000053 080  II21    rather                   Z5[i93.2.1 Z5[i92.2.1 
+0000053 090  II22    than                     Z5[i93.2.2 Z5[i92.2.2 
 0000053 100  II      on                       Z5 
 0000053 110  NN2     values                   A11.1+ I1.3 G2.2 A4.1 N1 
 0000053 120  VM      would                    A7+ 
@@ -1048,22 +1057,23 @@
 0000053 140  AT1     a                        Z5 
 0000053 150  NN1     disaster                 A5.1--- X9.2- A1.1.2/W4 
 0000053 160  IF      for                      Z5 
-0000053 170  NP1     Russia                   Z1mf[i94.3.1 Z3c[i94.3.1 Z2 Z1mf[i93.2.1 Z3c[i93.2.1 
-0000054 010  NP1     Andrei                   Z1mf[i94.3.2 Z3c[i94.3.2 Z1mf[i93.2.2 Z3c[i93.2.2 Z1mf[i95.2.1 Z3c[i95.2.1 
-0000054 020  NP1     Kozyrev                  Z3c[i94.3.3 Z1mf[i94.3.3 Z1mf[i95.2.2 Z3c[i95.2.2 
+0000053 170  NP1     Russia                   Z1mf[i95.3.1 Z3c[i95.3.1 Z2 Z1mf[i94.2.1 Z3c[i94.2.1 
+0000054 010  NP1     Andrei                   Z1mf[i95.3.2 Z3c[i95.3.2 Z1mf[i94.2.2 Z3c[i94.2.2 Z1mf[i96.2.1 Z3c[i96.2.1 
+0000054 020  NP1     Kozyrev                  Z3c[i95.3.3 Z1mf[i95.3.3 Z1mf[i96.2.2 Z3c[i96.2.2 
 0000054 021  ,       ,                        
 0000054 030  DA      former                   T2- N4 
 0000054 040  JJ      Russian                  Z2 
 0000054 050  JJ      foreign                  M7 
 0000054 060  NN1     minister                 G1.1/S2mf S9/S2mf 
-0000055 010  NP1     McCains                  Z3c 
+0000055 010  NP1     McCain                   Z99 
+0000055 011  GE      's                       Z5 
 0000055 020  DA      former                   T2- N4 
-0000055 030  NN1     chief                    G3/S2mf[i96.3.1 S7.1+ 
-0000055 040  IO      of                       G3/S2mf[i96.3.2 Z5 
-0000055 050  NN      staff                    G3/S2mf[i96.3.3 I3.1/S2mfc B3/S2mf G3/S2c L2mfn I3.1 
+0000055 030  NN1     chief                    G3/S2mf[i97.3.1 S7.1+ 
+0000055 040  IO      of                       G3/S2mf[i97.3.2 Z5 
+0000055 050  NN      staff                    G3/S2mf[i97.3.3 I3.1/S2mfc B3/S2mf G3/S2c L2mfn I3.1 
 0000055 051  ,       ,                        
-0000055 060  NP1     Mark                     Z1mf[i97.2.1 Z3c[i97.2.1 Z1m S9/O1.2 
-0000055 070  NP1     Salter                   Z1mf[i97.2.2 Z3c[i97.2.2 
+0000055 060  NP1     Mark                     Z1mf[i98.2.1 Z3c[i98.2.1 Z1m S9/O1.2 
+0000055 070  NP1     Salter                   Z1mf[i98.2.2 Z3c[i98.2.2 
 0000055 071  ,       ,                        
 0000055 080  VBDZ    was                      A3+ Z5 
 0000055 090  RG      far                      N3.3+ A13.3 X9.2+ 
@@ -1075,8 +1085,8 @@
 0000055 132  -----   -----                    
 0000055 140  NN1     Tillerson                Z99 
 0000055 150  VM      would                    A7+ 
-0000055 160  VVI     sell                     I2.2/N5.1+[i98.2.1 I2.2 
-0000055 170  RP      out                      I2.2/N5.1+[i98.2.2 M6 
+0000055 160  VVI     sell                     I2.2/N5.1+[i99.2.1 I2.2 
+0000055 170  RP      out                      I2.2/N5.1+[i99.2.2 M6 
 0000055 180  NP1     Nato                     Z3c 
 0000055 190  IF      for                      Z5 
 0000055 200  NP1     Sakhalin                 Z99 
@@ -1108,8 +1118,8 @@
 0000055 410  NN1     floor                    H2 S5+ 
 0000055 411  .       .                        
 0000056 001  -----   -----                    
-0000057 010  CS21    Even                     Z7[i99.2.1 
-0000057 020  CS22    if                       Z7[i99.2.2 Z7 
+0000057 010  CS21    Even                     Z7[i100.2.1 
+0000057 020  CS22    if                       Z7[i100.2.2 Z7 
 0000057 030  NP1     Tillerson                Z99 
 0000057 040  VBDR    were                     A3+ Z5 
 0000057 050  TO      to                       Z5 
@@ -1119,11 +1129,11 @@
 0000057 080  PPHS1   he                       Z8m 
 0000057 090  VM      would                    A7+ 
 0000057 100  XX      not                      Z6 
-0000057 110  VVI     take                     S7.1+/A2.1[i100.2.1 M2[i100.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
-0000057 120  II      over                     S7.1+/A2.1[i100.2.2 M2[i100.2.2 Z5 
+0000057 110  VVI     take                     S7.1+/A2.1[i101.2.1 M2[i101.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000057 120  II      over                     S7.1+/A2.1[i101.2.2 M2[i101.2.2 Z5 
 0000057 130  AT      the                      Z5 
-0000057 140  NN1     state                    G1.1/S5+c[i101.2.1 G1.1c O4.1 
-0000057 150  NN1     department               G1.1/S5+c[i101.2.2 H2/S5+c X2.2 
+0000057 140  NN1     state                    G1.1/S5+c[i102.2.1 G1.1c O4.1 
+0000057 150  NN1     department               G1.1/S5+c[i102.2.2 H2/S5+c X2.2 
 0000057 160  IW      with                     Z5 
 0000057 170  AT1     a                        Z5 
 0000057 180  JJ      free                     S6- A1.7- A1.5.1- I1.3- 
@@ -1165,8 +1175,8 @@
 0000057 491  ,       ,                        
 0000057 500  JJ      retired                  I3.1- 
 0000057 510  NN1     general                  G3/S7.1+/S2mf B3/H1 
-0000057 520  NP1     James                    Z1mf[i102.2.1 Z3c[i102.2.1 Z1m 
-0000057 530  NP1     Mattis                   Z1mf[i102.2.2 Z3c[i102.2.2 
+0000057 520  NP1     James                    Z1mf[i103.2.1 Z3c[i103.2.1 Z1m 
+0000057 530  NP1     Mattis                   Z1mf[i103.2.2 Z3c[i103.2.2 
 0000057 531  ,       ,                        
 0000057 540  PNQS    who                      Z8 
 0000057 550  VBZ     is                       A3+ Z5 
@@ -1182,7 +1192,8 @@
 0000057 650  AT      the                      Z5 
 0000057 660  NN1     face                     B1 W3 O2 A8 S1.2.3+ 
 0000057 670  IO      of                       Z5 
-0000057 680  NP2     Moscows                  Z2 
+0000057 680  NP1     Moscow                   Z2 
+0000057 681  GE      's                       Z5 
 0000057 690  NN1     assertiveness            S1.2.3+ 
 0000057 700  II      in                       Z5 
 0000057 710  NP1     Europe                   Z2 
@@ -1190,8 +1201,8 @@
 0000058 001  -----   -----                    
 0000059 010  RR      Nevertheless             Z4 
 0000059 011  ,       ,                        
-0000059 020  NP1     Dmitri                   Z1mf[i103.2.1 Z3c[i103.2.1 
-0000059 030  NP1     Trenin                   Z1mf[i103.2.2 Z3c[i103.2.2 
+0000059 020  NP1     Dmitri                   Z1mf[i104.2.1 Z3c[i104.2.1 
+0000059 030  NP1     Trenin                   Z1mf[i104.2.2 Z3c[i104.2.2 
 0000059 031  ,       ,                        
 0000059 040  NN1     director                 S7.1+/S2mf K4/S2mf 
 0000059 050  IO      of                       Z5 
@@ -1205,9 +1216,9 @@
 0000059 111  :       :                        
 0000059 120  NP1     Tillerson                Z99 
 0000059 130  CSA     as                       Z5 
-0000059 140  NN1     secretary                G1.1/S2mf[i104.3.1 I3.2/S2mf S7.1+/S2mf 
-0000059 150  IO      of                       G1.1/S2mf[i104.3.2 Z5 
-0000059 160  NN1     state                    G1.1/S2mf[i104.3.3 G1.1c O4.1 
+0000059 140  NN1     secretary                G1.1/S2mf[i105.3.1 I3.2/S2mf S7.1+/S2mf 
+0000059 150  IO      of                       G1.1/S2mf[i105.3.2 Z5 
+0000059 160  NN1     state                    G1.1/S2mf[i105.3.3 G1.1c O4.1 
 0000059 170  VM      would                    A7+ 
 0000059 180  VVI     signify                  Q1.1 A11.1+ 
 0000059 190  AT      the                      Z5 
@@ -1222,8 +1233,8 @@
 0000059 280  NN1     end                      M6 T2- O2 X7+ N4 
 0000059 290  IO      of                       Z5 
 0000059 300  AT      the                      Z5 
-0000059 310  JJ      cold                     G3[i105.2.1 O4.6- S1.2.1- E1- A1.1.1 
-0000059 320  NN1     war                      G3[i105.2.2 G3 S7.3 
+0000059 310  JJ      cold                     G3[i106.2.1 O4.6- S1.2.1- E1- A1.1.1 
+0000059 320  NN1     war                      G3[i106.2.2 G3 S7.3 
 0000059 321  .       .                        
 0000060 001  -----   -----                    
 0000061 010  XX      Not                      Z6 
@@ -1245,8 +1256,8 @@
 0000061 160  JJ      national                 M7/N5.1+ 
 0000061 170  NN2     interests                X5.2+ I1.1 S8+ S1.1.3+ 
 0000061 171  ,       ,                        
-0000061 180  CS21@   rather                   Z5[i106.2.1 
-0000061 190  CS22@   than                     Z5[i106.2.2 Z5 
+0000061 180  CS21@   rather                   Z5[i107.2.1 
+0000061 190  CS22@   than                     Z5[i107.2.2 Z5 
 0000061 200  II      on                       Z5 
 0000061 210  APPGE   its                      Z8 
 0000061 220  JJ      global                   W3 M7 A1.8+ O4.4 
@@ -1275,13 +1286,13 @@
 0000063 150  NN1     force                    E3- S7.1+ G2.1c N3 S5+c 
 0000063 151  ,       ,                        
 0000063 160  CCB     but                      Z5 
-0000063 170  II31    in                       A2.2[i107.3.1 Z5 
-0000063 180  II32    response                 A2.2[i107.3.2 
-0000063 190  II33    to                       A2.2[i107.3.3 Z5 
+0000063 170  II31    in                       A2.2[i108.3.1 Z5 
+0000063 180  II32    response                 A2.2[i108.3.2 
+0000063 190  II33    to                       A2.2[i108.3.3 Z5 
 0000063 200  AT1     a                        Z5 
 0000063 210  JJ      real                     A3+ A5.2+ A5.4+ A13.3 
-0000063 220  II21    rather                   Z5[i109.2.1 Z5[i108.2.1 
-0000063 230  II22    than                     Z5[i109.2.2 Z5[i108.2.2 
+0000063 220  II21    rather                   Z5[i110.2.1 Z5[i109.2.1 
+0000063 230  II22    than                     Z5[i110.2.2 Z5[i109.2.2 
 0000063 240  JJ      imaginary                A5.2- 
 0000063 250  NN1     threat                   E3-/Q2.2 A15- X2.6+/O4.2- A7+ 
 0000063 251  .       .                        
@@ -1328,8 +1339,8 @@
 0000065 310  PPX1    himself                  Z8m 
 0000065 311  .       .                        
 0000066 001  -----   -----                    
-0000067 010  NP1     Andrei                   Z1mf[i110.2.1 Z3c[i110.2.1 
-0000067 020  NP1     Kozyrev                  Z1mf[i110.2.2 Z3c[i110.2.2 
+0000067 010  NP1     Andrei                   Z1mf[i111.2.1 Z3c[i111.2.1 
+0000067 020  NP1     Kozyrev                  Z1mf[i111.2.2 Z3c[i111.2.2 
 0000067 021  ,       ,                        
 0000067 030  AT1     a                        Z5 
 0000067 040  DA      former                   T2- N4 
@@ -1363,12 +1374,12 @@
 0000069 110  AT1     a                        Z5 
 0000069 120  NP1     US                       Z8 
 0000069 130  JJ      foreign                  M7 
-0000069 140  NN1     policy                   X7+[i111.2.1 X7+ Q1.2 
-0000069 150  VVN     based                    X7+[i111.2.2 T2+ M6 A2.2 A2.2[i112.2.1 
-0000069 160  II      on                       Z5 A2.2[i112.2.2 
+0000069 140  NN1     policy                   X7+[i112.2.1 X7+ Q1.2 
+0000069 150  VVN     based                    X7+[i112.2.2 T2+ M6 A2.2 A2.2[i113.2.1 
+0000069 160  II      on                       Z5 A2.2[i113.2.2 
 0000069 170  NN1     realpolitik              Z99 
-0000069 180  II21    rather                   Z5[i114.2.1 Z5[i113.2.1 
-0000069 190  II22    than                     Z5[i114.2.2 Z5[i113.2.2 
+0000069 180  II21    rather                   Z5[i115.2.1 Z5[i114.2.1 
+0000069 190  II22    than                     Z5[i115.2.2 Z5[i114.2.2 
 0000069 200  II      on                       Z5 
 0000069 210  NN2     values                   A11.1+ I1.3 G2.2 A4.1 N1 
 0000069 211  ,       ,                        
@@ -1447,8 +1458,8 @@
 0000071 461  .       .                        
 0000072 001  -----   -----                    
 0000073 010  AT      The                      Z5 
-0000073 020  NN1     realpolitik              Z99[i115.2.1 
-0000073 030  NN1     situation                Z99[i115.2.2 A3+ O4.1 M6 I3.1@ 
+0000073 020  NN1     realpolitik              Z99[i116.2.1 
+0000073 030  NN1     situation                Z99[i116.2.2 A3+ O4.1 M6 I3.1@ 
 0000073 040  VBZ     is                       A3+ Z5 
 0000073 050  CST     that                     Z5 Z8 
 0000073 060  NP1     Russia                   Z2 
@@ -1462,8 +1473,8 @@
 0000073 122  -----   -----                    
 0000073 130  CS      If                       Z7 
 0000073 140  PPY     you                      Z8mf 
-0000073 150  VV0     look                     X3.4[i116.2.1 X2.4[i116.2.1 X2.1[i116.2.1 A8 X3.4 X2.4 X7+ Z4 
-0000073 160  II      at                       X3.4[i116.2.2 X2.4[i116.2.2 X2.1[i116.2.2 Z5 
+0000073 150  VV0     look                     X3.4[i117.2.1 X2.4[i117.2.1 X2.1[i117.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000073 160  II      at                       X3.4[i117.2.2 X2.4[i117.2.2 X2.1[i117.2.2 Z5 
 0000073 170  DD1     this                     Z8 M6 Z5 
 0000073 180  IW      with                     Z5 
 0000073 190  AT1     a                        Z5 
@@ -1473,10 +1484,10 @@
 0000073 220  PPY     you                      Z8mf 
 0000073 230  VV0     say                      Q2.1 Z4% 
 0000073 231  :       :                        
-0000073 240  VV0     Let                      S7.4+ I2.2/H1 T2- A9-[i117.2.1 T2-[i117.2.1 A1.7-[i118.2.1 
+0000073 240  VV0     Let                      S7.4+ I2.2/H1 T2- A9-[i118.2.1 T2-[i118.2.1 A1.7-[i119.2.1 
 0000073 250  PPHO2   them                     Z8mfn 
-0000073 260  VVI     go                       T2++[i119.2.1 M1[i119.2.1 Q2.1/N5+[i119.2.1 A1.1.1[i119.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% A9-[i117.2.2 T2-[i117.2.2 A1.7-[i118.2.2 
-0000073 270  RP@     on                       M1[i119.2.2 Q2.1/N5+[i119.2.2 A1.1.1[i119.2.2 T2++[i119.2.2 M6 A1.1.1 
+0000073 260  VVI     go                       T2++[i120.2.1 M1[i120.2.1 Q2.1/N5+[i120.2.1 A1.1.1[i120.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% A9-[i118.2.2 T2-[i118.2.2 A1.7-[i119.2.2 
+0000073 270  RP@     on                       M1[i120.2.2 Q2.1/N5+[i120.2.2 A1.1.1[i120.2.2 T2++[i120.2.2 M6 A1.1.1 
 0000073 280  CC      and                      Z5 
 0000073 290  VVI     let                      S7.4+ I2.2/H1 T2- 
 0000073 300  PPHO2   them                     Z8mfn 
@@ -1489,12 +1500,13 @@
 0000073 370  JJ      eastern                  M6 
 0000073 380  NP1     Ukraine                  Z2 Z3c 
 0000073 381  ,       ,                        
+0000073 382  GE      '                        Z5 
 0000073 390  NP1     Kozyrev                  Z99 
 0000073 400  VVD     said                     Q2.1 
 0000073 401  .       .                        
 0000074 001  -----   -----                    
-0000075 010  VV0     Look                     X3.4[i120.2.1 X2.4[i120.2.1 X2.1[i120.2.1 A8 X3.4 X2.4 X7+ Z4 
-0000075 020  II      at                       X3.4[i120.2.2 X2.4[i120.2.2 X2.1[i120.2.2 Z5 
+0000075 010  VV0     Look                     X3.4[i121.2.1 X2.4[i121.2.1 X2.1[i121.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000075 020  II      at                       X3.4[i121.2.2 X2.4[i121.2.2 X2.1[i121.2.2 Z5 
 0000075 030  NP1     Syria                    Z2 
 0000075 031  .       .                        
 0000075 032  -----   -----                    

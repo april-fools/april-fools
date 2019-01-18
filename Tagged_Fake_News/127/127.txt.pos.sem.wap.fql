@@ -1,4 +1,4 @@
-TOTAL             7414
+TOTAL             7417
 the                  AT            351 
 and                  CC            202 
 of                   IO            200 
@@ -13,7 +13,7 @@ authoritarianism     NN1            63
 but                  CCB            61 
 for                  IF             61 
 they                 PPHS2          60 
-it                   PPH1           55 
+it                   PPH1           56 
 this                 DD1            53 
 or                   CC             49 
 that                 DD1            49 
@@ -71,11 +71,11 @@ his                  APPGE          18
 than                 CSN            18 
 their                APPGE          18 
 change               NN1            18 
+'s                   VBZ            17 
 rise                 NN1            17 
 as                   II             17 
 more                 DAR            17 
 extreme              JJ             16 
-'s                   VBZ            16 
 changes              NN2            16 
 also                 RR             16 
 theory               NN1            16 
@@ -150,7 +150,6 @@ tendencies           NN2             8
 many                 DA2             8 
 status_quo           NN121           8 
 simple               JJ              8 
-its                  APPGE           8 
 seem                 VV0             8 
 fears                NN2             8 
 '                    GE              8 
@@ -174,9 +173,11 @@ seemed               VVD             7
 then                 RT              7 
 group                NN1             7 
 values               NN2             7 
+its                  APPGE           7 
 dangerous            JJ              7 
 things               NN2             7 
 images               NN2             7 
+i                    PPIS1           7 
 first                MD              7 
 national             JJ              7 
 certain              JJ              7 
@@ -200,7 +201,6 @@ powerful             JJ              6
 less                 RGR             6 
 themselves           PPX2            6 
 norms                NN2             6 
-i                    PPIS1           6 
 understand           VVI             6 
 test                 VVI             6 
 field                NN1             6 
@@ -719,6 +719,7 @@ closer               JJR             2
 outgroup             NN1             2 
 identified           VVN             2 
 presence             NN1             2 
+'m                   VBM             2 
 worried              JJ              2 
 while                CS              2 
 more                 RRR             2 
@@ -1619,10 +1620,9 @@ painted              VVN             1
 oppose               VVI             1 
 told                 VVN             1 
 on_average           II              1 
-'im                  PPHO1           1 
+'i                   UH              1 
 'oh                  NN1             1 
 my_god               APPGE           1 
-im                   VV0             1 
 unusually            RR              1 
 lash_out             VV0             1 
 objects              NN2             1 

@@ -60,10 +60,12 @@
 0000002 490  NN2     solos                    S5- Z3m Z1mf 
 0000002 491  .       .                        
 0000002 492  -----   -----                    
-0000002 500  APPGE   Its                      Z8 
+0000002 500  PPH1    It                       Z8 
+0000002 501  VBZ     's                       A3+ Z5 
 0000002 510  RG      too                      Z4[i1.2.1 N5.2+ A13.3 
 0000002 520  JJ      bad                      Z4[i1.2.2 A5.1- G2.2- O4.2- B2- 
-0000002 530  NN1     theyre                   Z99 
+0000002 530  PPHS2   they                     Z8mfn 
+0000002 531  VBR     're                      Z5 A3+ 
 0000002 540  VVG     living                   H4 L1+ 
 0000002 550  II      in                       Z5 
 0000002 560  AT1     a                        Z5 
@@ -145,7 +147,8 @@
 0000009 230  CC      and                      Z5 
 0000009 240  RR      also                     N5++ 
 0000009 250  NNB     Uncle                    Z1m[i7.2.1 
-0000009 260  NP1     Simons                   Z1m[i7.2.2 Z1m 
+0000009 260  NP1     Simon                    Z1m[i7.2.2 Z1m 
+0000009 261  GE      's                       Z5 
 0000009 270  NN2     favourites               E2+++ 
 0000009 271  )       )                        
 0000009 280  IO      of                       Z5 

@@ -1,4 +1,4 @@
-TOTAL              175
+TOTAL              177
 the                  AT             11 
 bollard              NN1             5 
 in                   II              5 
@@ -9,6 +9,8 @@ with                 IW              3
 be                   VBI             3 
 we                   PPIS2           3 
 it                   PPH1            3 
+Preston              NP1             2 
+'s                   GE              2 
 new                  JJ              2 
 plans                NN2             2 
 taller               JJR             2 
@@ -24,7 +26,6 @@ will                 VM              2
 could                VM              2 
 as                   II              2 
 traffic              NN1             1 
-Prestons             NP2             1 
 Fishergate           NP1             1 
 is                   VBZ             1 
 at                   II              1 
@@ -47,7 +48,7 @@ so_many              RG              1
 motorists            NN2             1 
 collided             VVN             1 
 structure            NN1             1 
-citys                NN2             1 
+city                 NN1             1 
 scheme               NN1             1 
 cabinet              NN1             1 
 member               NN1             1 
@@ -113,7 +114,6 @@ an                   AT1             1
 eye-catching         JJ              1 
 gateway              NN1             1 
 into                 II              1 
-Preston              NP1             1 
 visitors             NN2             1 
 hope                 VV0             1 
 one_day              MC1             1 

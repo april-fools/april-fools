@@ -1,4 +1,4 @@
-TOTAL              304
+TOTAL              307
 the                  AT             21 
 and                  CC             12 
 in                   II              9 
@@ -20,6 +20,7 @@ from                 II              3
 merger               NN1             3 
 on                   II              2 
 an                   AT1             2 
+were                 VBDR            2 
 included             VVN             2 
 representatives      NN2             2 
 Brazil               NP1             2 
@@ -34,6 +35,8 @@ common               JJ              2
 other                JJ              2 
 speaking             JJ              2 
 it                   PPH1            2 
+Mexico               NP1             2 
+'s                   GE              2 
 vocabulary           NN1             2 
 adopted              VVN             2 
 Friday               NPD1            1 
@@ -55,7 +58,6 @@ galician             NN1             1
 basque               JJ              1 
 spoken               VVN             1 
 northwestern_Spain   JJ              1 
-were                 VBDR            1 
 prominent            JJ              1 
 official             JJ              1 
 catalonian           JJ              1 
@@ -118,8 +120,7 @@ hispanophone         NN1             1
 embrace              VVI             1 
 progressive          JJ              1 
 thinking             NN1             1 
-Mexico               NP1             1 
-worlds               NN2             1 
+world                NN1             1 
 largest              JJT             1 
 country              NN1             1 
 in_terms_of          II31            1 
@@ -129,7 +130,6 @@ great                JJ              1
 impact               NN1             1 
 success              NN1             1 
 measure              NN1             1 
-Mexicos              NP2             1 
 national             JJ              1 
 autonomous           JJ              1 
 university           NN1             1 
@@ -144,7 +144,7 @@ next_week            MD              1
 interesting          JJ              1 
 note                 VVI             1 
 they                 PPHS2           1 
-werent               JJ              1 
+n't                  XX              1 
 original             JJ              1 
 estimated            JJ              1 
 88%                  NNU             1 

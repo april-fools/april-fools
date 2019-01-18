@@ -111,8 +111,9 @@
 0000004 530  NN1     nation                   G1.1c S5+c 
 0000004 540  CC      and                      Z5 
 0000004 550  PPHS2   they                     Z8mfn 
-0000004 560  JJ      wont                     A6.2+ 
-0000004 570  VV0     send                     M2 A2.2 
+0000004 560  VM      wo                       T1.1.3 
+0000004 561  XX      n't                      Z6 
+0000004 570  VVI     send                     M2 A2.2 
 0000004 580  PPIO2   us                       Z8 
 0000004 590  APPGE   their                    Z8 
 0000004 600  JJT     best                     A5.1+++ G2.2+++ O4.2+++ 

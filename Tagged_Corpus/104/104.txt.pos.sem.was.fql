@@ -1,4 +1,4 @@
-TOTAL              426
+TOTAL              427
 the                  Z5                  20 
 of                   Z5                  16 
 to                   Z5                  13 
@@ -47,6 +47,7 @@ their                Z8                   2
 that                 Z8                   2 
 should               S6+                  2 
 get                  A9+                  2 
+it                   Z8                   2 
 my                   Z8                   2 
 them                 Z8                   2 
 is                   A3+                  2 
@@ -145,7 +146,6 @@ talk                 Q2.1                 1
 every_day            N6+                  1 
 hundreds             N5+                  1 
 emails               Q1.3                 1 
-it                   Z8                   1 
 takes                A9+                  1 
 hours                T1.3                 1 
 secretary            I3.2                 1 
@@ -170,7 +170,7 @@ you                  Z8                   1
 make_it              X9.2+                1 
 stop                 T2-                  1 
 ringing              Q1.3                 1 
-its                  Z8                   1 
+'s                   A3+                  1 
 so                   A13.3                1 
 annoying             E3-                  1 
 renewed              T2+                  1 

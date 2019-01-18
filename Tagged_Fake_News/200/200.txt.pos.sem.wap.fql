@@ -5,7 +5,7 @@ a                    AT1            15
 and                  CC             14 
 he                   PPHS1          14 
 to                   TO             14 
-swamp                NN1            12 
+swamp                NN1            11 
 in                   II             11 
 i                    PPIS1          11 
 trump                NN1            10 
@@ -19,8 +19,8 @@ was                  VBDZ            8
 his                  APPGE           7 
 phrase               NN1             7 
 but                  CCB             7 
+n't                  XX              7 
 this                 DD1             7 
-n't                  XX              6 
 Washington           NP1             6 
 just                 RR              5 
 now                  RT              5 
@@ -31,7 +31,6 @@ an                   AT1             4
 has                  VHZ             4 
 with                 IW              4 
 what                 DDQ             4 
-like                 VVI             4 
 to                   II              4 
 campaign             NN1             3 
 from                 II              3 
@@ -41,6 +40,7 @@ on                   II              3
 really               RR              3 
 'drain               VV0             3 
 did                  VDD             3 
+like                 VVI             3 
 at                   II              3 
 Donald_trump         NP1             3 
 post                 NN1             3 
@@ -200,7 +200,8 @@ starting             VVG             1
 hot                  JJ              1 
 explains             VVZ             1 
 why                  RRQ             1 
-nt                   XX              1 
+like'                VVI             1 
+swamp'               NN1             1 
 video0:39            FO              1 
 Kinston              NP1             1 
 N.C.                 NP1             1 

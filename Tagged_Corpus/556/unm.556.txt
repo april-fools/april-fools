@@ -1,7 +1,7 @@
 Atmel                    NN1     Z99 
+Atmel                    NP1     Z99 
 Atmel                    NP1@    Z99 
 Atmel                    VV0     Z99 
-Atmels                   NP2     Z99 
 capacitive               JJ      Z99 
 Colo                     NP1     Z99 
 Conductive               JJ      Z99 
@@ -22,4 +22,3 @@ touchscreen              NN1     Z99
 touchscreens             NN2     Z99 
 VentureBeat              NP1     Z99 
 XSense                   NN1     Z99 
-Youll                    NN1     Z99 

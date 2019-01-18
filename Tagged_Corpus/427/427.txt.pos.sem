@@ -221,7 +221,7 @@
 0000004 750  NN2     benefits                 S8+ I1.1/G1.1 
 0000004 751  .       .                        
 0000005 001  -----   -----                    
-0000005 010  NN1     Putin                    Z99 
+0000005 010  VVG     Putin'                   Z99 
 0000005 020  NN      People                   S2mfc 
 0000005 030  II      to                       Z5 
 0000005 040  NN1     Work                     I3.1 A1.1.1 Q4 K2 C1 
@@ -245,7 +245,8 @@
 0000007 180  CST     that                     Z8 Z5 
 0000007 190  VVG     halving                  N2 A1.1.1 
 0000007 200  AT      the                      Z5 
-0000007 210  NN2     worlds                   W1 S5+c A4.1 N5+ 
+0000007 210  NN1     world                    W1 S5+c A4.1 N5+ 
+0000007 211  GE      's                       Z5 
 0000007 220  NN1     unemployment             I3.1- 
 0000007 230  NN1     rate                     N3.8 N5 I1.3 
 0000007 240  VM      would                    A7+ 
@@ -320,8 +321,9 @@
 0000010 040  NN1     Courtesy                 S1.2.4+ 
 0000010 050  NNU     www.reuters.com          N3.3 N3.7 
 0000010 051  )       )                        
-0000012 010  NN2@    Putins                   Z99 
-0000012 020  VV0     support                  S8+ A1.1.1 K5.1 I1.1 A10+ 
+0000012 010  NP1     Putin                    Z99 
+0000012 011  GE      's                       Z5 
+0000012 020  NN1     support                  S8+ O2 I1.1 B5% 
 0000012 030  IF      for                      Z5 
 0000012 040  AT      the                      Z5 
 0000012 050  NN1     project                  A1.1.1 P1 
@@ -330,7 +332,8 @@
 0000012 080  CSA     as                       Z5 
 0000012 090  VVN     motivated                A2.2 X5.2+ 
 0000012 100  II      by                       Z5 
-0000012 110  NP2     Russias                  Z2 
+0000012 110  NP1     Russia                   Z2 
+0000012 111  GE      's                       Z5 
 0000012 120  JJ      current                  T1.1.2 
 0000012 130  JJ      dire                     A5.1- 
 0000012 140  JJ      economic                 I1.3- I2.1 
@@ -349,7 +352,8 @@
 0000012 250  IF      for                      Z5 
 0000012 260  NP1     Putin                    Z99 
 0000012 261  ,       ,                        
-0000012 270  NP2     Russias                  Z2 
+0000012 270  NP1     Russia                   Z2 
+0000012 271  GE      's                       Z5 
 0000012 280  JJ      vast                     N3.2+ N5+ 
 0000012 290  JJ      natural                  W3[i22.2.1 W5[i22.2.1 A6.2+ A9+ A5.4+ W3 W5 B1 K2 
 0000012 300  NN2     resources                W3[i22.2.2 W5[i22.2.2 A9+ W3 
@@ -372,7 +376,8 @@
 0000012 470  NN1     project                  A1.1.1 P1 
 0000012 480  VM      could                    A7+ 
 0000012 490  VVI     change                   A2.1+ I1 B5 
-0000012 500  NP2     Putins                   Z99 
+0000012 500  NP1     Putin                    Z99 
+0000012 501  GE      's                       Z5 
 0000012 510  NN1     legacy                   A9+/I1.1 A9+/S1.1.1 
 0000012 520  CC      and                      Z5 
 0000012 530  VVD     put                      M2 Q2.1 Q2.2 A1.1.1 
@@ -388,7 +393,8 @@
 0000013 020  NN1     Trade                    I2.2 I2.1 I3.1 I2.2/N5 
 0000013 030  II      Amongst                  Z5 
 0000013 040  AT      the                      Z5 
-0000013 050  NN2     Worlds                   W1 S5+c A4.1 N5+ 
+0000013 050  NN1     World                    W1 S5+c A4.1 N5+ 
+0000013 051  GE      's                       Z5 
 0000013 060  NN2     Regions                  M7 B1 
 0000015 010  IF      For                      Z5 
 0000015 020  APPGE   his                      Z8m 
@@ -410,8 +416,9 @@
 0000015 180  NNT2    years                    T1.3 
 0000015 181  .       .                        
 0000015 182  -----   -----                    
-0000015 190  NN2     Musks                    O1 
-0000015 200  VV0     test                     P1 B3 X2.4 A12- 
+0000015 190  NP1@    Musk                     Z3 
+0000015 191  GE      's                       Z5 
+0000015 200  NN1     test                     P1 B3 X2.4 K5.1@ 
 0000015 210  NN1     track                    M3 O2 K3 A4.1 X4.1 K5.1/M7 
 0000015 220  II      in                       Z5 
 0000015 230  NP1     Texas                    Z2 Z3c 

@@ -1,4 +1,4 @@
-TOTAL              626
+TOTAL              627
 the                  AT             58 
 in                   II             26 
 of                   IO             23 
@@ -8,9 +8,9 @@ to                   TO              9
 by                   II              8 
 was                  VBDZ            7 
 for                  IF              7 
+church               NN1             7 
 they                 PPHS2           6 
 catholic             JJ              6 
-church               NN1             6 
 is                   VBZ             6 
 with                 IW              5 
 an                   AT1             5 
@@ -170,7 +170,7 @@ authenticity         NN1             1
 additionally         RR              1 
 outlets              NN2             1 
 covered              VVD             1 
-churchs              NN2             1 
+'s                   GE              1 
 get                  VVI             1 
 closer               RRR             1 
 to                   II              1 

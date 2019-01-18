@@ -513,16 +513,19 @@
 0000014 461  .       .                        
 0000014 462  -----   -----                    
 0000014 470  PPHS1   He                       Z8m 
-0000014 480  JJ      cant                     Q2.1 Z1mf Z1 
-0000014 490  VH0     have                     Z5 A9+ A2.2 S4 
+0000014 480  VM      ca                       A7+ 
+0000014 481  XX      n't                      Z6 
+0000014 490  VHI     have                     Z5 A9+ A2.2 S4 
 0000014 500  VVN     approved                 S7.4+ E2+ G1.1 
 0000014 510  IO      of                       Z5 
-0000014 520  NP2     Farages                  Z99 
+0000014 520  NP1     Farage                   Z99 
+0000014 521  GE      's                       Z5 
 0000014 530  JJ      disgraceful              G2.2- 
 0000014 540  NN2     remarks                  Q2.2 
 0000014 550  II      on                       Z5 
 0000014 560  NP1     HIV                      B2- 
 0000014 570  NN2     foreigners               Z2/S2mf I3.1/S2mf 
+0000014 571  GE      '                        Z5 
 0000014 580  PNQS    who                      Z8 
 0000014 590  VV0     come                     M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
 0000014 600  CSA     as                       Z5 
@@ -656,7 +659,8 @@
 0000018 280  JJ      persistent               T2++ 
 0000018 290  NN1     block                    O2 H1 N5+ S8- B3 
 0000018 300  II      to                       Z5 
-0000018 310  NN2     womens                   S2.1f 
+0000018 310  NN2     women                    S2.1f 
+0000018 311  GE      's                       Z5 
 0000018 320  NN1     advancement              A5.1+/A2.1+ S8+ 
 0000018 321  .       .                        
 0000018 322  -----   -----                    
@@ -727,7 +731,7 @@
 0000018 830  AT      the                      Z5 
 0000018 840  NN1     cult                     S9c S5/X5.2+c X5.2+c 
 0000018 850  IO      of                       Z5 
-0000018 860  NN1     authenticity             A5.4+ 
+0000018 860  NN1     authenticity'            Z99 
 0000018 870  CC      and                      Z5 
 0000018 880  PPH1    it                       Z8 
 0000018 890  VVZ     works                    I3.1 A1.1.1 X9.2+ A2.2 
@@ -789,7 +793,7 @@
 0000020 450  IF      for                      Z5 
 0000020 460  PN1     someone                  Z8mfc 
 0000020 470  RG      so                       A13.3 
-0000020 480  JJ      authentic                A5.4+ 
+0000020 480  JJ      authentic'               Z99 
 0000020 481  .       .                        
 0000021 001  -----   -----                    
 0000022 010  UH      Yes                      Z4 
@@ -1041,7 +1045,7 @@
 0000027 001  -----   -----                    
 0000028 010  PPIS1   I                        Z8mf 
 0000028 020  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000028 021  XX      nt                       S9/Q4.1 Z3c 
+0000028 021  XX      n't                      Z6 
 0000028 030  VVI     understand               X2.5+ 
 0000028 040  DD1     this                     M6 Z5 Z8 
 0000028 050  RR      almost                   A13.4 

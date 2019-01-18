@@ -1,19 +1,21 @@
-TOTAL              499
+TOTAL              507
 the                  Z5                  32 
 a                    Z5                  15 
 of                   Z5                  12 
 and                  Z5                  10 
 to                   Z5                   9 
+'s                   Z5                   8 
+Intel                Z3                   7 
+AMD                  Z99                  7 
 with                 Z5                   7 
 has                  Z5                   5 
 will                 T1.1.3               5 
-AMD                  Z99                  5 
 this                 Z8                   5 
 for                  Z5                   4 
 as                   Z5                   4 
-Intel                Z3                   4 
 in                   Z5                   4 
 that                 Z5                   4 
+n't                  Z6                   4 
 more                 N5++                 4 
 compute              Y2                   3 
 cards                Q1.2                 3 
@@ -24,9 +26,9 @@ us                   Z8                   3
 we                   Z8                   3 
 by                   Z5                   3 
 could                A7+                  3 
+Nvidia               Z99                  3 
 release              A1.7-                3 
 date                 T1.2                 3 
-Intels               Z3                   3 
 have                 A9+                  3 
 video                Q4.3                 3 
 directx              Z99                  2 
@@ -43,7 +45,6 @@ GPUs                 Z99                  2
 not                  Z6                   2 
 same                 A6.1+++              2 
 or                   Z5                   2 
-Nvidia               Z99                  2 
 however              Z4                   2 
 towards              Z5                   2 
 integrated           A1.8+                2 
@@ -51,9 +52,7 @@ come                 A1.1.1               2
 hardware             O2                   2 
 have                 Z5                   2 
 already              T1.1.1               2 
-AMDs                 Z99                  2 
 do                   Z5                   2 
-n't                  Z6                   2 
 know                 X2.2+                2 
 from                 Z5                   2 
 Knights              S7.1+                2 
@@ -130,11 +129,11 @@ as                   A13                  1
 appealing            O4.2+                1 
 geeks                X9.1++               1 
 homeopathic          B3                   1 
-Microsofts           Z3                   1 
+Microsoft            Z3                   1 
 focused              X5.1+                1 
 advancing            M1                   1 
 steadily             T2++                 1 
-experience           A2.1+                1 
+experience           X2.2+                1 
 drivers              M3                   1 
 matter               A11.1+               1 
 less                 A13.6                1 
@@ -154,7 +153,7 @@ when                 Z5                   1
 is                   Z5                   1 
 paired_off           S3.2                 1 
 decap                Z99                  1 
-ring                 Q1.3                 1 
+ring'                Z99                  1 
 last                 N4                   1 
 seen                 X3.4                 1 
 HD_4890              Z2                   1 
@@ -173,7 +172,7 @@ press_release        Q4.2                 1
 tomorrow             T1.1.3               1 
 basic                A6.2+                1 
 model                O2                   1 
-landing              M1                   1 
+landing'             Z99                  1 
 packs                O2                   1 
 whopping             N3.2++               1 
 72                   N1                   1 
@@ -197,13 +196,12 @@ tail_end             T2-                  1
 KN                   Z99                  1 
 architecture         H1                   1 
 be_up                T2-                  1 
-Nvidias              Z99                  1 
 pascal               Z1                   1 
 GCN_3.0              Z2                   1 
 perhaps              A7                   1 
 these                Z5                   1 
 numbers              N5                   1 
-wont                 A6.2+                1 
+wo                   T1.1.3               1 
 look_amazing         O4.2+                1 
 quite                A13.5                1 
 so                   A13.3                1 
@@ -227,7 +225,6 @@ unconventional       A6.2-                1
 move                 M1                   1 
 prototype            A4.1                 1 
 'seven'              Z99                  1 
-nt                   S9                   1 
 output               Y2                   1 
 directly             M6                   1 
 at_all               A13.7                1 
@@ -265,7 +262,7 @@ current              T1.1.2               1
 enthusiast           X5.2+                1 
 systems              X4.2                 1 
 at_least             A13.7                1 
-one                  N1                   1 
+one'                 Z99                  1 
 digital              Y2                   1 
 does                 Z5                   1 
 also                 N5++                 1 
@@ -273,7 +270,7 @@ mention              Q2.1                 1
 planned              X7+                  1 
 alternative          A6.1-                1 
 single-slot          Z99                  1 
-outboard             M4                   1 
+outboard'            Z99                  1 
 connectors           O3                   1 
 both                 N5                   1 
 newest               T3---                1 
@@ -304,7 +301,6 @@ yesterday            T1.1.1               1
 makes                A1.1.1               1 
 kind                 A4.1                 1 
 sense                A4.1                 1 
-'s                   Z5                   1 
 movement             M1                   1 
 open                 A10+                 1 
 standards            A5.1                 1 

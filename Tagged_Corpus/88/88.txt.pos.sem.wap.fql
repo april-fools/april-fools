@@ -1,4 +1,4 @@
-TOTAL              170
+TOTAL              171
 the                  AT             11 
 a                    AT1            10 
 national             JJ              6 
@@ -12,6 +12,8 @@ of                   IO              3
 and                  CC              3 
 it                   PPH1            3 
 Arena                NP1             3 
+i                    PPIS1           3 
+Hugo_Sanchez         NP1             2 
 head                 JJ              2 
 federation           NN1             2 
 is                   VBZ             2 
@@ -20,7 +22,6 @@ new                  JJ              2
 in                   II              2 
 that                 CST             2 
 said                 VVD             2 
-i                    PPIS1           2 
 was                  VBDZ            2 
 time                 NNT1            2 
 we                   PPIS2           2 
@@ -30,7 +31,6 @@ day                  NNT1            1
 after                II              1 
 firing               VVG             1 
 legend               NN1             1 
-Hugo_Sanchez         NP1             1 
 as                   CSA             1 
 football             NN1             1 
 has                  VHZ             1 
@@ -73,7 +73,7 @@ some                 DD              1
 spanish              JJ              1 
 but                  CCB             1 
 believe              VV0             1 
-im                   VV0             1 
+'m                   VBM             1 
 right                JJ              1 
 man                  NN1             1 
 this                 DD1             1 
@@ -89,8 +89,7 @@ out                  RP              1
 Jose_Pekerman        NP1             1 
 position             NN1             1 
 after                CS              1 
-Hugo                 NP1             1 
-Sanchezs             NP2             1 
+'s                   GE              1 
 tenure               NN1             1 
 perspective          NN1             1 
 experience           NN1             1 

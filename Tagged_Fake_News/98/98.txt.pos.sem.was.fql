@@ -1,7 +1,7 @@
-TOTAL              216
+TOTAL              222
 the                  Z5                  15 
 and                  Z5                  11 
-Obama                Z99                  8 
+Obama                Z99                  9 
 white                O4.3                 5 
 working_class        S5+                  4 
 voters               G1.2                 4 
@@ -16,11 +16,13 @@ democrats            Z3                   2
 are                  A3+                  2 
 just                 A14                  2 
 have                 Z5                   2 
+'s                   Z5                   2 
 americans            Z2                   2 
 country              G1.1                 2 
 message              Q1.1                 2 
 of                   Z5                   2 
 during               Z5                   2 
+we                   Z8                   2 
 not                  Z6                   2 
 is                   A3+                  2 
 to                   Z5                   2 
@@ -55,8 +57,8 @@ New_York_times       Z3                   1
 may                  A7+                  1 
 vote                 G1.2                 1 
 generations          T1.3                 1 
-its                  Z8                   1 
-Obamas               Z99                  1 
+it                   Z8                   1 
+'s                   A3+                  1 
 fault                A5.3-                1 
 this                 M6                   1 
 week                 T1.3                 1 
@@ -65,7 +67,7 @@ out                  M6                   1
 again                N6+                  1 
 railing              O2                   1 
 against              Z5                   1 
-partys               K1                   1 
+party                K1                   1 
 woes                 E4.1-                1 
 ipatriot             Z99                  1 
 reported             Q2.2                 1 
@@ -83,13 +85,12 @@ particularly         A13.3                1
 holiday              K1                   1 
 season               T1.3                 1 
 if                   Z7                   1 
-were                 A3+                  1 
+'re                  A3+                  1 
 actually_out         A1.1.1               1 
 there                M6                   1 
 changing             A2.1+                1 
 narrative            Q2.1                 1 
 like                 Z5                   1 
-we                   Z8                   1 
 campaigns            X7+                  1 
 then                 N4                   1 
 folks                S2                   1 
@@ -97,8 +98,9 @@ a_lot                N5+                  1
 these                Z5                   1 
 communities          S5+                  1 
 what                 Z8                   1 
-theyre               Z99                  1 
-hearing              B1                   1 
+they                 Z8                   1 
+'re                  Z5                   1 
+hearing              X3.2                 1 
 wants                X7+                  1 
 take_away            M2                   1 
 guns                 G3                   1 
@@ -115,7 +117,8 @@ ah                   Z4                   1
 yes                  Z4                   1 
 problem              A12-                 1 
 you                  Z8                   1 
-couldnt              Z99                  1 
+could                A7+                  1 
+n't                  Z6                   1 
 mindlessly           S1.2.6-              1 
 brainwash            X4.1                 1 
 barack               Z99                  1 

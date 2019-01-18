@@ -1,4 +1,4 @@
-TOTAL              630
+TOTAL              631
 the                  AT             34 
 annihilation         NN1            23 
 total                JJ             22 
@@ -43,6 +43,7 @@ news                 NN1             2
 's                   GE              2 
 true                 JJ              2 
 announced            VVN             2 
+they                 PPHS2           2 
 year                 NNT1            2 
 war                  NN1             2 
 award-winning        JJ              2 
@@ -91,7 +92,6 @@ create               VVI             1
 Phantagram           NP1             1 
 company              NN1             1 
 recently             RR              1 
-they                 PPHS2           1 
 releasing            VVG             1 
 ta2                  FO              1 
 August               NPM1            1 
@@ -155,7 +155,7 @@ innovation           NN1             1
 strategy             NN1             1 
 designed             VVN             1 
 answers              NN2             1 
-theyve               NN1             1 
+'ve                  VH0             1 
 looking_for          VVG             1 
 said                 VVD             1 
 SangYoun_Lee         NP1             1 

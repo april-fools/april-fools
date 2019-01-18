@@ -11,7 +11,6 @@ CPR                      NP1     Z99
 envelope-pushing         JJ      Z99 
 fact-check               JJ      Z99 
 give-and-take            JJ      Z99 
-havent                   VV0     Z99 
 internist                NN1     Z99 
 interns                  NN2     Z99 
 IV                       JJ%     Z99 
@@ -32,5 +31,4 @@ thoracotomies            NN2     Z99
 unbeknownst              RR      Z99 
 upper-echelon            JJ      Z99 
 Vicodin                  NN1     Z99 
-wouldnt                  NN1     Z99 
 Yorker                   NP1     Z99 

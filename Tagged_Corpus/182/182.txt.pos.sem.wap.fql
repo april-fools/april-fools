@@ -1,10 +1,10 @@
-TOTAL              343
+TOTAL              345
 the                  AT             18 
 will                 VM             13 
 a                    AT1            10 
+AIG                  NP1             9 
 in                   II              8 
 is                   VBZ             8 
-AIG                  NP1             7 
 of                   IO              6 
 and                  CC              6 
 to                   TO              6 
@@ -33,6 +33,7 @@ credit-default       JJ              2
 swaps                NN2             2 
 on                   II              2 
 Vatican              NP1             2 
+'s                   GE              2 
 an                   AT1             2 
 it                   PPH1            2 
 not                  XX              2 
@@ -89,7 +90,6 @@ market               VVI             1
 United_States        NP1             1 
 these                DD2             1 
 expected             VVN             1 
-aigs                 NN2             1 
 major                JJ              1 
 product              NN1             1 
 ecumenical           JJ              1 
@@ -189,7 +189,6 @@ equal                JJ              1
 whatever             DDQV            1 
 required             VVN             1 
 maintain             VVI             1 
-AIGs                 NP2             1 
 contrast             NN1             1 
 accept               VVI             1 
 payment              NN1             1 

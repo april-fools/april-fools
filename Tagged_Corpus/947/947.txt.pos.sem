@@ -3,7 +3,8 @@
 0000002 010  NNB     Mr.                      Z1m[i2.2.1 S2.2m Z1m[i1.2.1 
 0000002 020  NP1     Ivanishvili              Z1m[i2.2.2 Z1m[i1.2.2 
 0000002 030  VVD     invited                  Q2.2 
-0000002 040  NP2     Tbilisis                 Z99 
+0000002 040  NP1     Tbilisi                  Z99 
+0000002 041  GE      's                       Z5 
 0000002 050  JJ      diplomatic               Z3c[i3.2.1 G1.1 S1.2.4+ 
 0000002 060  NN      corps                    Z3c[i3.2.2 G3/S5+c S5+c 
 0000002 070  II      to                       Z5 
@@ -21,7 +22,7 @@
 0000004 002  -----   -----                    
 0000004 010  PPIS1   I                        Z8mf 
 0000004 020  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000004 021  XX      nt                       S9/Q4.1 Z3c 
+0000004 021  XX      n't                      Z6 
 0000004 030  VVI     think                    X2.1 
 0000004 040  DD1     this                     Z8 M6 Z5 
 0000004 050  VHZ     has                      A9+ Z5 A2.2 S4 
@@ -199,9 +200,10 @@
 0000010 200  NNU     $95.2                    Z99/H1c[i11.2.1 
 0000010 210  NNO     million                  Z99/H1c[i11.2.2 N1 I1 
 0000010 220  IF      for                      Z5 
-0000010 230  NP2     Picassos                 Z1nf 
-0000010 231  NULL    <quote>                  
-0000010 232  -----   -----                    
+0000010 230  NP1     Picasso                  Z1nf 
+0000010 231  GE      's                       Z5 
+0000010 232  NULL    <quote>                  
+0000010 233  -----   -----                    
 0000010 240  NP1     Dora                     Z1mf[i12.2.1 Z3c[i12.2.1 
 0000010 250  NP1     Maar                     Z1mf[i12.2.2 Z3c[i12.2.2 
 0000010 260  IW      With                     Z5 
@@ -209,7 +211,8 @@
 0000010 271  NULL    </quote>                 
 0000010 272  -----   -----                    
 0000010 280  II      at                       Z5 
-0000010 290  NP2     Sothebys                 Z3 
+0000010 290  NP1     Sotheby                  Z3 
+0000010 291  VBZ     's                       A3+ Z5 
 0000010 300  II      in                       Z5 
 0000010 310  MC      2006                     N1 T1.2 T3 T1.3 N3.2 
 0000010 311  ,       ,                        
@@ -417,13 +420,15 @@
 0000014 481  .       .                        
 0000014 482  NULL    </quote>                 
 0000014 483  -----   -----                    
-0000016 010  NP2     Georgias                 Z2 Z1f 
+0000016 010  NP1     Georgia                  Z2 Z1f 
+0000016 011  GE      's                       Z5 
 0000016 020  NN1     government               G1.1c 
 0000016 030  VVD     acted                    A1.1.1 T1.1.2 A8 K4 
 0000016 040  RR      immediately              N3.8+ T1.1.2/A11.1+ N4 
 0000016 050  CS      after                    Z5 
 0000016 060  NNB     Mr.                      Z1m[i27.2.1 S2.2m 
-0000016 070  NP1     Ivanishvilis             Z1m[i27.2.2 
+0000016 070  NP1     Ivanishvili              Z1m[i27.2.2 
+0000016 071  GE      's                       Z5 
 0000016 080  NN1     bombshell                E5- 
 0000016 081  .       .                        
 0000017 001  -----   -----                    
@@ -622,7 +627,8 @@
 0000022 020  NP1     Bokeria                  Z1mf[i44.2.2 Z3c[i44.2.2 
 0000022 021  ,       ,                        
 0000022 030  NNB     Mr.                      Z1m[i45.2.1 S2.2m 
-0000022 040  NP1     Saakashvilis             Z1m[i45.2.2 
+0000022 040  NP1     Saakashvili              Z1m[i45.2.2 
+0000022 041  GE      's                       Z5 
 0000022 050  JJ      national                 M7/N5.1+ 
 0000022 060  NN1     security                 G2.1 A15+ E6+ I1.1 
 0000022 070  NN1     adviser                  S8+/S2mf 
@@ -659,8 +665,9 @@
 0000022 360  MD      third                    N4 N5 N1 
 0000022 370  IO      of                       Z5 
 0000022 380  AT      the                      Z5 
-0000022 390  NN2     countrys                 G1.1c W3 F4/M7 K2 
-0000022 400  VV0@    gross                    I1.1 
+0000022 390  NN1     country                  G1.1c W3 F4/M7 K2 
+0000022 391  GE      's                       Z5 
+0000022 400  JJ      gross                    N5.1+ O4.2- N5 
 0000022 410  JJ      domestic                 H4 S4 E3+/L2 M6 
 0000022 420  NN1     product                  O2 A1.1.1 A2.2 N2% 
 0000022 421  ,       ,                        
@@ -681,7 +688,8 @@
 0000022 523  -----   -----                    
 0000022 530  PPHS1   He                       Z8m 
 0000022 540  VVD     said                     Q2.1 
-0000022 550  NP2     Georgias                 Z2 Z1f 
+0000022 550  NP1     Georgia                  Z2 Z1f 
+0000022 551  GE      's                       Z5 
 0000022 560  NN1     opposition               S8-/E2- S7.3+ A6.1- 
 0000022 570  VBDZ    was                      Z5 A3+ 
 0000022 580  RR      just                     A14 T3--- T1.3- N3.3--- 
@@ -761,7 +769,8 @@
 0000026 440  DA      own                      Z8[i55.2.2 A9+ S5- 
 0000026 450  NN1     support                  S8+ O2 I1.1 B5% 
 0000026 451  ,       ,                        
-0000026 460  APPGE   its                      Z8 
+0000026 460  PPH1    it                       Z8 
+0000026 461  VBZ     's                       A3+ Z5 
 0000026 470  RR      just                     A14 T3--- T1.3- N3.3--- 
 0000026 480  AT1     a                        Z5 
 0000026 490  JJ      big                      N3.2+ N5+ A11.1+ S1.2.5+ X5.2+ 
@@ -865,7 +874,8 @@
 0000030 010  NN1     Photo                    C1 
 0000032 010  II      Among                    Z5 
 0000032 020  NNB     Mr.                      Z1m[i63.2.1 S2.2m Z1m[i62.2.1 
-0000032 030  NP1     Ivanishvilis             Z1m[i63.2.2 Z1m[i62.2.2 
+0000032 030  NP1     Ivanishvili              Z1m[i63.2.2 Z1m[i62.2.2 
+0000032 031  GE      's                       Z5 
 0000032 040  NN2     responses                Q2.1 S1.1.2+ 
 0000032 050  VHZ     has                      Z5 A9+ A2.2 S4 
 0000032 060  VBN     been                     A3+ Z5 
@@ -983,7 +993,8 @@
 0000034 512  NULL    </quote>                 
 0000034 513  -----   -----                    
 0000036 010  NNB     Mr.                      Z1m[i68.2.1 S2.2m Z1m[i67.2.1 
-0000036 020  NP1     Ivanishvilis             Z1m[i68.2.2 Z1m[i67.2.2 
+0000036 020  NP1     Ivanishvili              Z1m[i68.2.2 Z1m[i67.2.2 
+0000036 021  GE      's                       Z5 
 0000036 030  JJ      political                G1.2 
 0000036 040  NN1     platform                 M3/M7 M4/H1 H5 X7+ Y2 
 0000036 050  VBZ     is                       A3+ Z5 
@@ -1070,7 +1081,7 @@
 0000038 130  CCB     but                      Z5 
 0000038 140  PPIS1   I                        Z8mf 
 0000038 150  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000038 151  XX      nt                       S9/Q4.1 Z3c 
+0000038 151  XX      n't                      Z6 
 0000038 160  VVI     want                     X7+ S6+ A7+ S3.2 A9- 
 0000038 170  TO      to                       Z5 
 0000038 171  ,       ,                        
@@ -1104,7 +1115,8 @@
 0000038 342  NULL    </quote>                 
 0000038 343  -----   -----                    
 0000040 010  NNB     Mr.                      Z1m[i73.2.1 S2.2m Z1m[i72.2.1 
-0000040 020  NP1     Ivanishvilis             Z1m[i73.2.2 Z1m[i72.2.2 
+0000040 020  NP1     Ivanishvili              Z1m[i73.2.2 Z1m[i72.2.2 
+0000040 021  GE      's                       Z5 
 0000040 030  JJ      parliamentary            G1.1 
 0000040 040  NN1     coalition                S5+c 
 0000040 041  ,       ,                        
@@ -1151,7 +1163,8 @@
 0000040 411  ,       ,                        
 0000040 420  VVG     giving                   A9- A1.1.1 
 0000040 430  NNB     Mr.                      Z1m[i76.2.1 S2.2m 
-0000040 440  NP1     Saakashvilis             Z1m[i76.2.2 
+0000040 440  NP1     Saakashvili              Z1m[i76.2.2 
+0000040 441  GE      's                       Z5 
 0000040 450  NN1     party                    K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c 
 0000040 460  MC      47                       N5[i77.2.1 N1 T1.2 T3 T1.3 N3.2 
 0000040 470  NNU     percent                  N5[i77.2.2 N5 
@@ -1160,7 +1173,8 @@
 0000040 500  NN1     vote                     G1.2 
 0000040 510  CC      and                      Z5 
 0000040 520  NNB     Mr.                      Z1m[i78.2.1 S2.2m 
-0000040 530  NP1     Ivanishvilis             Z1m[i78.2.2 
+0000040 530  NP1     Ivanishvili              Z1m[i78.2.2 
+0000040 531  GE      's                       Z5 
 0000040 540  NN1     coalition                S5+c 
 0000040 550  VVG     trailing                 X2.4 M2 S7.1- 
 0000040 560  IW      with                     Z5 
@@ -1250,6 +1264,7 @@
 0000044 140  IO      of                       Z5 
 0000044 150  APPGE   his                      Z8m 
 0000044 160  NN2     friends                  S3.1/S2mf 
+0000044 161  GE      '                        Z5 
 0000044 170  NN1     cancer                   B2- 
 0000044 180  NN2     treatments               B3 S1.1.1 A1.1.1 X4.2 
 0000044 181  .       .                        
@@ -1265,7 +1280,8 @@
 0000048 020  MC      54                       N1 T1.2 T3 T1.3 N3.2 
 0000048 021  ,       ,                        
 0000048 030  VVD     said                     Q2.1 
-0000048 040  NPD2    Wednesdays               T1.3 
+0000048 040  NPD1    Wednesday                T1.3 
+0000048 041  GE      's                       Z5 
 0000048 050  NN1     decision                 X6+ 
 0000048 060  II      about                    Z5 
 0000048 070  AT      the                      Z5 
@@ -1292,10 +1308,11 @@
 0000048 240  CC      and                      Z5 
 0000048 250  PPHS2   they                     Z8mfn 
 0000048 260  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000048 261  XX      nt                       S9/Q4.1 Z3c 
+0000048 261  XX      n't                      Z6 
 0000048 270  VVI     care                     E6- E2+ S8+ B3 X7+ 
 0000048 280  II      about                    Z5 
-0000048 290  NN2     peoples                  S2mf 
+0000048 290  NN      people                   S2mfc 
+0000048 291  GE      's                       Z5 
 0000048 300  NN2     opinions                 X2.1 X2.1/A5 X6+ 
 0000048 301  ,       ,                        
 0000048 302  NULL    </quote>                 

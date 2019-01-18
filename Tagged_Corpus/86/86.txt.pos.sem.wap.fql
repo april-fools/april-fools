@@ -17,6 +17,7 @@ eharmony             NN1             2
 article              NN1             2 
 Warren               NP1             2 
 does                 VDZ             2 
+n't                  XX              2 
 for                  IF              2 
 's                   VBZ             2 
 when                 CS              2 
@@ -42,7 +43,6 @@ from                 II              1
 says                 VVZ             1 
 used                 VVD             1 
 because              CS              1 
-nt                   XX              1 
 limit                VVI             1 
 age_range            NN1             1 
 people               NN              1 
@@ -59,7 +59,6 @@ Joe                  NP1             1
 comments             NN2             1 
 this                 DD1             1 
 news                 NN1             1 
-n't                  XX              1 
 bode                 VVI             1 
 well                 RR              1 
 press_department     NN1             1 

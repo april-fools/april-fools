@@ -5,8 +5,6 @@ hospitalized             VVN@    Z99
 iFart                    NN1     Z99 
 iFart                    VV0     Z99 
 iFart                    VVI     Z99 
-iFarts                   NN2     Z99 
-iFarts                   VVZ     Z99 
 iphone                   NN1     Z99 
 Lite                     NN1     Z99 
 olfactic                 JJ      Z99 

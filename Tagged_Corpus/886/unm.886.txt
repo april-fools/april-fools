@@ -6,7 +6,6 @@ five-cent                JJ      Z99
 half-cent                JJ      Z99 
 half-cent                NNU1    Z99 
 hubcap                   NN1     Z99 
-isnt                     VV0     Z99 
 one-cent                 JJ      Z99 
 one-dollar               JJ      Z99 
 twenty-cent              JJ      Z99 

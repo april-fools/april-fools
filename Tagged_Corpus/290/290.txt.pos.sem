@@ -86,8 +86,9 @@
 0000002 730  CS      when                     Z5 
 0000002 740  NN1     suspicion                X2.1/A5.1- A7 N5--- 
 0000002 750  VBDZ    was                      A3+ Z5 
-0000002 760  II      at                       Z5 
-0000002 770  APPGE   its                      Z8 
+0000002 760  II      at                       A1.1.1[i7.2.1 Z5 
+0000002 770  PPH1    it                       A1.1.1[i7.2.2 Z8 
+0000002 771  VBZ     's                       A3+ Z5 
 0000002 780  RGT     most                     A13.2 
 0000002 790  JJ      tense                    E6- O4.1 
 0000002 791  ,       ,                        
@@ -118,8 +119,8 @@
 0000002 000  PPHS2   they                     Z8mfn 
 0000002 010  RR      lovingly                 E2+ 
 0000002 020  VVD     named                    Q2.2 
-0000002 030  NNB     King                     Z1m[i7.2.1 Z3fn[i7.2.1 
-0000002 040  NP1     Peaches                  Z1m[i7.2.2 Z3fn[i7.2.2 
+0000002 030  NNB     King                     Z1m[i8.2.1 Z3fn[i8.2.1 
+0000002 040  NP1     Peaches                  Z1m[i8.2.2 Z3fn[i8.2.2 
 0000002 041  .       .                        
 0000004 001  NULL    <quote>                  
 0000004 002  -----   -----                    
@@ -138,8 +139,8 @@
 0000004 100  CC      and                      Z5 
 0000004 110  NN1     rose                     L3 F2 
 0000004 120  NN1     expert                   X2.2+/S2mf X9.1+/S2mf 
-0000004 130  NP1     Lee                      Z1mf[i8.2.1 Z3c[i8.2.1 Z1mf 
-0000004 140  NP1     Johnson                  Z1mf[i8.2.2 Z3c[i8.2.2 Z1mf 
+0000004 130  NP1     Lee                      Z1mf[i9.2.1 Z3c[i9.2.1 Z1mf 
+0000004 140  NP1     Johnson                  Z1mf[i9.2.2 Z3c[i9.2.2 Z1mf 
 0000004 150  IO      of                       Z5 
 0000004 160  AT      the                      Z5 
 0000004 170  NP1     California               Z2 
@@ -148,7 +149,8 @@
 0000004 191  ,       ,                        
 0000004 192  NULL    <quote>                  
 0000004 193  -----   -----                    
-0000004 200  APPGE   Its                      Z8 
+0000004 200  PPH1    It                       Z8 
+0000004 201  VBZ     's                       A3+ Z5 
 0000004 210  RR      just                     A14 T3--- T1.3- N3.3--- 
 0000004 220  XX      not                      Z6 
 0000004 230  JJ      possible                 A7+ 
@@ -177,8 +179,8 @@
 0000006 180  NN1     Food                     F1 
 0000006 190  NN2     experts                  X2.2+/S2mf X9.1+/S2mf 
 0000006 200  VBR     are                      Z5 A3+ 
-0000006 210  VVG     looking                  X2.4[i9.2.1 A8 X3.4 X2.4 X7+ Z4 
-0000006 220  II      into                     X2.4[i9.2.2 Z5 
+0000006 210  VVG     looking                  X2.4[i10.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000006 220  II      into                     X2.4[i10.2.2 Z5 
 0000006 230  AT      the                      Z5 
 0000006 240  NN2     methods                  X4.2 
 0000006 250  VVN     used                     A1.5.1 S7.1+ 
@@ -196,15 +198,15 @@
 0000006 360  JJ      natural                  A6.2+ A9+ A5.4+ W3 W5 B1 K2 
 0000006 370  NN1     food                     F1 
 0000006 380  IF      for                      Z5 
-0000006 390  MD      third                    M7[i10.2.1 N4 N5 N1 
-0000006 400  NN1     world                    M7[i10.2.2 W1 S5+c A4.1 N5+ 
+0000006 390  MD      third                    M7[i11.2.1 N4 N5 N1 
+0000006 400  NN1     world                    M7[i11.2.2 W1 S5+c A4.1 N5+ 
 0000006 410  NN2     countries                M7 
 0000006 411  .       .                        
 0000006 412  -----   -----                    
 0000006 420  NN2     Botanists                L3/S2mf 
 0000006 430  VBR     are                      Z5 A3+ 
-0000006 440  VVG     looking                  X7+[i11.2.1 A8 X3.4 X2.4 X7+ Z4 
-0000006 450  TO      to                       X7+[i11.2.2 Z5 
+0000006 440  VVG     looking                  X7+[i12.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000006 450  TO      to                       X7+[i12.2.2 Z5 
 0000006 460  VVI     use                      A1.5.1 S7.1+ 
 0000006 470  AT      the                      Z5 
 0000006 480  JJ      new                      T3- 

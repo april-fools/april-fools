@@ -1,8 +1,6 @@
 Abedin                   NP1     Z99 
-Comeys                   NP1@    Z99 
+Comey                    NP1@    Z99 
 FBI                      NP1     Z99 
-FBIs                     NP2     Z99 
-Hillary                  NP1     Z99 
 mishandled               VVD     Z99 
 mishandled               VVN@    Z99 
 redacted                 VVN@    Z99 

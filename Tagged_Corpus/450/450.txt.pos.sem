@@ -75,8 +75,9 @@
 0000018 010  NN1     View                     X4.1 X3.4 A4.1 X7+ 
 0000018 020  VVZ@    comments                 Q2.1 
 0000020 010  AT      The                      Z5 
-0000020 020  NN2     names                    Q2.2 
-0000020 030  VV0@    Bond                     Z1mf 
+0000020 020  NN1     name                     Q2.2 
+0000020 021  GE      's                       Z5 
+0000020 030  NP1     Bond                     Z1mf 
 0000020 031  ...     ...                      
 0000020 032  -----   -----                    
 0000020 040  NP1     Jane                     Z1mf[i14.2.1 Z3c[i14.2.1 Z1f 
@@ -155,7 +156,8 @@
 0000024 150  NP1     Angela                   Z1f 
 0000024 160  NN1     Burr                     L3 
 0000024 170  II      in                       Z5 
-0000024 180  NP2     BBC1s                    Z3c 
+0000024 180  NP1     BBC1                     Z3c 
+0000024 181  GE      's                       Z5 
 0000024 190  AT      The                      Z5 
 0000024 200  NNT1    Night                    T1.3 
 0000024 210  NN1     Manager                  S7.1+/S2mf K1/S7.1+/S2mf K5/S7.1+/S2mf 
@@ -257,7 +259,8 @@
 0000031 250  NN1     favourite                E2+++ 
 0000031 251  ,       ,                        
 0000031 260  II      in                       Z5 
-0000031 270  NP2     BBC1s                    Z3c 
+0000031 270  NP1     BBC1                     Z3c 
+0000031 271  GE      's                       Z5 
 0000031 280  AT      The                      Z5 
 0000031 290  NNT1    Night                    T1.3 
 0000031 300  NN1     Manager                  S7.1+/S2mf K1/S7.1+/S2mf K5/S7.1+/S2mf 
@@ -292,7 +295,8 @@
 0000033 250  NN1     favourite                E2+++ 
 0000033 251  ,       ,                        
 0000033 260  II      in                       Z5 
-0000033 270  NP2     BBC1s                    Z3c 
+0000033 270  NP1     BBC1                     Z3c 
+0000033 271  GE      's                       Z5 
 0000033 280  AT      The                      Z5 
 0000033 290  NNT1    Night                    T1.3 
 0000033 300  NN1     Manager                  S7.1+/S2mf K1/S7.1+/S2mf K5/S7.1+/S2mf 
@@ -312,6 +316,7 @@
 0000035 130  JJ      compassionate            X2.5+/S1.2 
 0000035 140  NN1     spook                    Z99 
 0000035 141  ,       ,                        
+0000035 142  GE      '                        Z5 
 0000035 150  VVD     said                     Q2.1 
 0000035 160  AT1     a                        Z5 
 0000035 170  NN1     source                   T2+ Q1.1 X2.2 W3/M4 
@@ -327,7 +332,8 @@
 0000035 240  JJ      emotionless              Z99 
 0000035 250  NN2     Bonds                    Z3c 
 0000035 251  ,       ,                        
-0000035 260  APPGE   its                      Z8 
+0000035 260  PPH1    it                       Z8 
+0000035 261  VBZ     's                       A3+ Z5 
 0000035 270  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000035 280  TO      to                       Z5 
 0000035 290  VVI     introduce                S1.1.1 T2+ 
@@ -339,14 +345,16 @@
 0000035 350  AT      the                      Z5 
 0000035 360  NN1     steel                    O1.1 O2 S1.2.5+ O4.3 
 0000035 361  .       .                        
+0000035 362  "@      '                        
 0000036 001  -----   -----                    
 0000037 010  NN1     Speculation              X2.6+ I2.1 
 0000037 020  II      about                    Z5 
 0000037 030  PNQS    who                      Z8 
 0000037 040  VM      will                     T1.1.3 
 0000037 050  VVI     play                     K1 K5.1 K5.2 K2 K3 A1.1.1 K6 
-0000037 060  NP1     Ian                      Z1m 
-0000037 070  NP2     Flemings                 Z2/S2mf 
+0000037 060  NP1     Ian                      Z1mf[i35.2.1 Z3c[i35.2.1 Z1m 
+0000037 070  NP1     Fleming                  Z1mf[i35.2.2 Z3c[i35.2.2 Z1 
+0000037 071  GE      's                       Z5 
 0000037 080  RGT     most                     A13.2 
 0000037 090  JJ      famous                   X2.2+ 
 0000037 100  NN1     creation                 A1.1.1 A2.2 
@@ -356,25 +364,27 @@
 0000037 140  CS      since                    Z5 
 0000037 150  NP1     Craig                    Z1mf 
 0000037 160  VVD     announced                Q2.2 
-0000037 170  MD      last                     T1.1.1[i36.2.1 N4 T1.3[i35.2.1 P1/S2mf[i35.2.1 
-0000037 180  NNT1    year                     T1.1.1[i36.2.2 T1.3 P1c T1.3[i35.2.2 P1/S2mf[i35.2.2 
+0000037 170  MD      last                     T1.1.1[i37.2.1 N4 T1.3[i36.2.1 P1/S2mf[i36.2.1 
+0000037 180  NNT1    year                     T1.1.1[i37.2.2 T1.3 P1c T1.3[i36.2.2 P1/S2mf[i36.2.2 
 0000037 190  PPHS1   he                       Z8m 
 0000037 200  VM      would                    A7+ 
 0000037 210  RR@     rather                   Z4 E2++ 
 0000037 220  VVI     slash                    A1.1.2 N5-/A2.1 
 0000037 230  APPGE   his                      Z8m 
 0000037 240  NN2     wrists                   B1 
+0000037 241  GE      '                        Z5 
 0000037 250  CSN     than                     Z5 
 0000037 260  VV0@    reprise                  Z99 
 0000037 270  AT      the                      Z5 
 0000037 280  NN1     role                     I3.1 K4 S1.1.1 A1.1.1 
 0000037 281  .       .                        
 0000037 282  -----   -----                    
-0000037 290  NP1     Tom                      Z1mf[i37.2.1 Z3c[i37.2.1 Z1m 
-0000037 300  NP1     Hiddleston               Z1mf[i37.2.2 Z3c[i37.2.2 
+0000037 290  NP1     Tom                      Z1mf[i38.2.1 Z3c[i38.2.1 Z1m 
+0000037 300  NP1     Hiddleston               Z1mf[i38.2.2 Z3c[i38.2.2 
 0000037 301  ,       ,                        
-0000037 310  NNB     Miss                     Z1f[i38.2.1 
-0000037 320  NP1     Colmans                  Z1f[i38.2.2 
+0000037 310  NNB     Miss                     Z1f[i39.2.1 
+0000037 320  NP1     Colman                   Z1f[i39.2.2 
+0000037 321  GE      's                       Z5 
 0000037 330  NN1     co-star                  K4/S2mf 
 0000037 340  II      in                       Z5 
 0000037 350  AT      the                      Z5 
@@ -390,13 +400,15 @@
 0000037 440  NP1     Bond                     Z1mf 
 0000037 441  ,       ,                        
 0000037 450  IW      with                     Z5 
-0000037 460  NP1     Poldarks                 Z1mf[i40.3.1 Z3c[i40.3.1 Z1mf[i39.2.1 Z3c[i39.2.1 
-0000037 470  NP1     Aidan                    Z1mf[i40.3.2 Z3c[i40.3.2 Z1mf[i39.2.2 Z3c[i39.2.2 Z1mf[i41.2.1 Z3c[i41.2.1 
-0000037 480  NP1     Turner                   Z3c[i40.3.3 Z1mf[i40.3.3 Z1mf Z1mf[i41.2.2 Z3c[i41.2.2 
+0000037 460  NP1     Poldark                  Z99 
+0000037 461  GE      's                       Z5 
+0000037 470  NP1     Aidan                    Z1mf[i40.2.1 Z3c[i40.2.1 
+0000037 480  NP1     Turner                   Z1mf[i40.2.2 Z3c[i40.2.2 Z1mf 
 0000037 490  CC      and                      Z5 
-0000037 500  NP1     Luthers                  Z1mf[i43.3.1 Z3c[i43.3.1 Z1mf[i42.2.1 Z3c[i42.2.1 
-0000037 510  NP1     Idris                    Z1mf[i43.3.2 Z3c[i43.3.2 Z1mf[i42.2.2 Z3c[i42.2.2 Z1mf[i44.2.1 Z3c[i44.2.1 
-0000037 520  NP1     Elba                     Z3c[i43.3.3 Z1mf[i43.3.3 Z1mf[i44.2.2 Z3c[i44.2.2 
+0000037 500  NP1     Luther                   Z99 
+0000037 501  GE      's                       Z5 
+0000037 510  NP1     Idris                    Z1mf[i41.2.1 Z3c[i41.2.1 
+0000037 520  NP1     Elba                     Z1mf[i41.2.2 Z3c[i41.2.2 
 0000037 530  RR      also                     N5++ 
 0000037 540  VVN     believed                 X2.1 S9% 
 0000037 550  TO      to                       Z5 
@@ -426,10 +438,10 @@
 0000044 100  NN2     actors                   K4/S2.2m A1.1.1/S2mf@ 
 0000044 101  ...     ...                      
 0000045 001  -----   -----                    
-0000045 010  NP1     Lucy                     Z1mf[i45.2.1 Z3c[i45.2.1 Z1mf 
-0000045 020  NP1     Mecklenburgh             Z1mf[i45.2.2 Z3c[i45.2.2 
-0000045 030  VVZ     looks                    X5.2+/A8[i46.2.1 A8 X3.4 X2.4 X7+ Z4 
-0000045 040  JJ      sensational              X5.2+/A8[i46.2.2 X5.2+ N5.2+ A5.1++ 
+0000045 010  NP1     Lucy                     Z1mf[i42.2.1 Z3c[i42.2.1 Z1mf 
+0000045 020  NP1     Mecklenburgh             Z1mf[i42.2.2 Z3c[i42.2.2 
+0000045 030  VVZ     looks                    X5.2+/A8[i43.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000045 040  JJ      sensational              X5.2+/A8[i43.2.2 X5.2+ N5.2+ A5.1++ 
 0000045 050  CSA     as                       Z5 
 0000045 060  PPHS1   she                      Z8f 
 0000045 070  VVZ     flaunts                  A10+ S1.2.3+ 
@@ -441,8 +453,8 @@
 0000047 030  NN1     article                  Q4.2 O2 Q3 G2.1/P1@ 
 0000048 010  NN1     Share                    S1.1.2+ I1.1 
 0000050 010  MC      Mother-of-three          Z99 
-0000050 020  NNB     Miss                     Z1f[i47.2.1 
-0000050 030  NP1     Colman                   Z1f[i47.2.2 
+0000050 020  NNB     Miss                     Z1f[i44.2.1 
+0000050 030  NP1     Colman                   Z1f[i44.2.2 
 0000050 031  ,       ,                        
 0000050 040  PNQS    who                      Z8 
 0000050 050  VHZ     has                      Z5 A9+ A2.2 S4 
@@ -481,8 +493,9 @@
 0000050 341  .       .                        
 0000051 001  -----   -----                    
 0000052 010  NP1     Olivia                   Z1f 
-0000052 020  NN1     couldnt                  Z99 
-0000052 030  VV0     believe                  X2.1 S9% 
+0000052 020  VM      could                    A7+ 
+0000052 021  XX      n't                      Z6 
+0000052 030  VVI     believe                  X2.1 S9% 
 0000052 040  PPH1    it                       Z8 
 0000052 041  ,       ,                        
 0000052 050  PPHS1   she                      Z8f 
@@ -491,16 +504,18 @@
 0000052 080  VBDZ    was                      A3+ Z5 
 0000052 090  AT1     a                        Z5 
 0000052 100  NN1     joke                     E4.1+ S1.2.6- 
-0000052 110  RR21    at                       N4[i48.2.1 
-0000052 120  RR22    first                    N4[i48.2.2 
+0000052 110  RR21    at                       N4[i45.2.1 
+0000052 120  RR22    first                    N4[i45.2.2 
 0000052 121  ,       ,                        
+0000052 122  GE      '                        Z5 
 0000052 130  VVD     said                     Q2.1 
 0000052 140  AT1     a                        Z5 
 0000052 150  JJ      close                    N3.3- A4.2+ S5+ S1.1.3+ A6.1+ E2+ W4 
 0000052 160  NN1     friend                   S3.1/S2mf 
 0000052 161  .       .                        
 0000052 162  -----   -----                    
-0000052 170  APPGE   Its                      Z8 
+0000052 170  PPH1    It                       Z8 
+0000052 171  VBZ     's                       A3+ Z5 
 0000052 180  AT      the                      Z5 
 0000052 190  NN1     dream                    X4.1 X7+ A5.2- 
 0000052 200  NN1     job                      I3.1 A1.1.1 A12- 
@@ -513,24 +528,26 @@
 0000052 270  CC      and                      Z5 
 0000052 280  PPHS1   she                      Z8f 
 0000052 290  VBDZ    was                      A3+ Z5 
-0000052 300  II      over                     E4.1+[i49.3.1 Z5 
-0000052 310  AT      the                      E4.1+[i49.3.2 Z5 
-0000052 320  NN1     moon                     E4.1+[i49.3.3 W1 
+0000052 300  II      over                     E4.1+[i46.3.1 Z5 
+0000052 310  AT      the                      E4.1+[i46.3.2 Z5 
+0000052 320  NN1     moon                     E4.1+[i46.3.3 W1 
 0000052 330  TO      to                       Z5 
 0000052 340  VVI     land                     M1 M2 M5 M4 A9+ A2.2 
 0000052 350  PPH1    it                       Z8 
 0000052 351  .       .                        
 0000052 352  -----   -----                    
 0000052 360  CCB     But                      Z5 
-0000052 370  APPGE   its                      Z8 
+0000052 370  PPH1    it                       Z8 
+0000052 371  VBZ     's                       A3+ Z5 
 0000052 380  XX      not                      Z6 
 0000052 390  RR      just                     A14 T3--- T1.3- N3.3--- 
 0000052 400  DD1     that                     Z8 Z5 
 0000052 401  .       .                        
 0000053 001  -----   -----                    
-0000054 010  NP2     Olivias                  Z1f 
-0000054 020  RR%     no                       Z6 
-0000054 030  VV0     fool                     G2.2- E4.1+ 
+0000054 010  NP1     Olivia                   Z1f 
+0000054 011  VBZ     's                       A3+ Z5 
+0000054 020  AT      no                       Z6 
+0000054 030  NN1     fool                     E4.1+/S2mf F1 
 0000054 040  PPHS1   she                      Z8f 
 0000054 050  VVZ     knows                    X2.2+ S3.2/B1% 
 0000054 060  PPH1    it                       Z8 
@@ -540,8 +557,8 @@
 0000054 100  NN1     profile                  B1 Q1.1 
 0000054 110  RL      abroad                   M7 
 0000054 120  CC      and                      Z5 
-0000054 130  VVI     lead                     A2.2[i50.2.1 M6[i50.2.1 S7.1+ A2.2 M2 A1.1.1 
-0000054 140  II      to                       A2.2[i50.2.2 M6[i50.2.2 Z5 
+0000054 130  VVI     lead                     A2.2[i47.2.1 M6[i47.2.1 S7.1+ A2.2 M2 A1.1.1 
+0000054 140  II      to                       A2.2[i47.2.2 M6[i47.2.2 Z5 
 0000054 150  JJR     better                   A5.1++ G2.2++ O4.2++ 
 0000054 151  ,       ,                        
 0000054 160  CC      and                      Z5 
@@ -554,7 +571,8 @@
 0000054 202  -----   -----                    
 0000054 210  NP1     Olivia                   Z1f 
 0000054 220  VVZ     knows                    X2.2+ S3.2/B1% 
-0000054 230  APPGE   its                      Z8 
+0000054 230  PPH1    it                       Z8 
+0000054 231  VBZ     's                       A3+ Z5 
 0000054 240  RT      now                      T1.1.2 Z4 
 0000054 250  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000054 260  TO      to                       Z5 
@@ -575,9 +593,9 @@
 0000054 390  NN1     baby                     T3--/S2mf E2+mfn 
 0000054 400  DAR     less                     N5-- 
 0000054 410  CSN     than                     Z5 
-0000054 420  MC      eight                    T1.1.1[i51.3.1 N1 T1.2 T3 T1.3 N3.2 
-0000054 430  NNT2    months                   T1.1.1[i51.3.2 T1.3 T1.1.1[i52.2.1 
-0000054 440  RA      ago                      T1.1.1[i51.3.3 T1.1.1 T1.1.1[i52.2.2 
+0000054 420  MC      eight                    T1.1.1[i48.3.1 N1 T1.2 T3 T1.3 N3.2 
+0000054 430  NNT2    months                   T1.1.1[i48.3.2 T1.3 T1.1.1[i49.2.1 
+0000054 440  RA      ago                      T1.1.1[i48.3.3 T1.1.1 T1.1.1[i49.2.2 
 0000054 450  CCB     but                      Z5 
 0000054 460  VBZ     is                       Z5 A3+ 
 0000054 470  VVN     determined               A2.2 A7+ X6+ 
@@ -593,34 +611,36 @@
 0000054 570  AT      the                      Z5 
 0000054 580  NN2     stunts                   A15-/A1.1.1 O2 
 0000054 590  RR      just                     A14 T3--- T1.3- N3.3--- 
-0000054 600  II31    as                       N5++[i53.2.1 Z5 
-0000054 610  II32    well                     N5++[i53.2.2 
+0000054 600  II31    as                       N5++[i50.2.1 Z5 
+0000054 610  II32    well                     N5++[i50.2.2 
 0000054 620  II33    as                       Z5 
 0000054 630  DD      any                      N5.1+ N5 
 0000054 640  NN1     man                      S2.2m 
 0000054 641  .       .                        
+0000054 642  "@      '                        
 0000055 001  -----   -----                    
 0000056 010  RT      Yesterday                T1.1.1 
-0000056 020  NP1     Bond                     Z2[i54.2.1 Z1mf[i54.2.1 Z1mf 
-0000056 030  MC      25                       Z2[i54.2.2 Z1mf[i54.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000056 020  NP1     Bond                     Z2[i51.2.1 Z1mf[i51.2.1 Z1mf 
+0000056 030  MC      25                       Z2[i51.2.2 Z1mf[i51.2.2 N1 T1.2 T3 T1.3 N3.2 
 0000056 040  JJ      associate                S5+ 
 0000056 050  NN1     producer                 K4/S7.1+/S2mf A1.1.1/S2mf 
-0000056 060  NP1     Flora                    Z1mf[i55.2.1 Z3c[i55.2.1 Z3 
-0000056 070  NP1     Pilo                     Z1mf[i55.2.2 Z3c[i55.2.2 
+0000056 060  NP1     Flora                    Z1mf[i52.2.1 Z3c[i52.2.1 Z3 
+0000056 070  NP1     Pilo                     Z1mf[i52.2.2 Z3c[i52.2.2 
 0000056 080  VVD     said                     Q2.1 
 0000056 081  :       :                        
 0000056 090  PPIS2   We                       Z8 
-0000056 100  JJ      cant                     Q2.1 Z1mf Z1 
+0000056 100  VM      ca                       A7+ 
+0000056 101  XX      n't                      Z6 
 0000056 110  RR      yet                      T1.1.2 
-0000056 120  VV0     confirm                  A7+ Q2.2 S9@ 
+0000056 120  VVI     confirm                  A7+ Q2.2 S9@ 
 0000056 130  PNQS    who                      Z8 
 0000056 140  VM      will                     T1.1.3 
 0000056 150  VBI     be                       Z5 A3+ 
-0000056 160  VVG     taking                   S7.1+/A2.1[i56.2.1 M2[i56.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
-0000056 170  RP      over                     S7.1+/A2.1[i56.2.2 M2[i56.2.2 T2- M6 
+0000056 160  VVG     taking                   S7.1+/A2.1[i53.2.1 M2[i53.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000056 170  RP      over                     S7.1+/A2.1[i53.2.2 M2[i53.2.2 T2- M6 
 0000056 180  II      from                     Z5 
-0000056 190  NP1     Daniel                   Z1mf[i57.2.1 Z3c[i57.2.1 Z1m 
-0000056 200  NP1     Craig                    Z1mf[i57.2.2 Z3c[i57.2.2 Z1mf 
+0000056 190  NP1     Daniel                   Z1mf[i54.2.1 Z3c[i54.2.1 Z1m 
+0000056 200  NP1     Craig                    Z1mf[i54.2.2 Z3c[i54.2.2 Z1mf 
 0000056 201  .       .                        
 0000056 202  -----   -----                    
 0000056 210  AT1     An                       Z5 
@@ -628,10 +648,11 @@
 0000056 230  VM      will                     T1.1.3 
 0000056 240  VBI     be                       Z5 A3+ 
 0000056 250  VVN     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
-0000056 260  II      in                       T1.1.3[i58.3.1 Z5 
-0000056 270  JJ      due                      T1.1.3[i58.3.2 X2.6+ A5.3+ S6+ 
-0000056 280  NN1     course                   T1.1.3[i58.3.3 M6 X7+ P1 B3 F1 M7/K5.1 T1.3 
+0000056 260  II      in                       T1.1.3[i55.3.1 Z5 
+0000056 270  JJ      due                      T1.1.3[i55.3.2 X2.6+ A5.3+ S6+ 
+0000056 280  NN1     course                   T1.1.3[i55.3.3 M6 X7+ P1 B3 F1 M7/K5.1 T1.3 
 0000056 281  .       .                        
+0000056 282  "@      '                        
 0000057 001  -----   -----                    
 0000058 010  VV0     Read                     Q3 Q1.2 X3.2+ X2.5+ P1 A10+ 
 0000058 020  RRR     more                     A13.3 N6++ 
@@ -645,7 +666,7 @@
 0000059 030  FO      @MailOnline              Z99 
 0000059 040  II      on                       Z5 
 0000059 050  NN1     Twitter                  Z99 
-0000059 060  NN1     DailyMail                Z2[i59.3.1 
-0000059 070  II      on                       Z2[i59.3.2 Z5 
-0000059 080  NP1     Facebook                 Z2[i59.3.3 Z3c/Y2 
+0000059 060  NN1     DailyMail                Z2[i56.3.1 
+0000059 070  II      on                       Z2[i56.3.2 Z5 
+0000059 080  NP1     Facebook                 Z2[i56.3.3 Z3c/Y2 
 0000062 001  NULL    **8;184;text             

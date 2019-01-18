@@ -207,8 +207,9 @@
 0000008 630  TO      to                       Z5 
 0000008 640  VVI     deliver                  M2 Q2.1 X9.2+ B3 S9% 
 0000008 650  AT      the                      Z5 
-0000008 660  NN2     parks                    M7/L3 
-0000008 670  VV0@    star                     Q1.2 K4/A11.1+ 
+0000008 660  NN1     park                     M7/L3 
+0000008 661  GE      's                       Z5 
+0000008 670  NN1     star                     W1 O4.4 A5.1+++ A11.1+/S2mf A5.1 
 0000008 680  NN1     attraction               O4.2+ S3.2 O3 
 0000008 690  II      in                       N3.8[i14.2.1 T4[i14.2.1 Z5 
 0000008 700  NNT1    time                     N3.8[i14.2.2 T4[i14.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
@@ -257,15 +258,17 @@
 0000010 260  NN2     ranks                    S7.1+ S5+ M3 A5.1 
 0000010 270  IO      of                       Z5 
 0000010 280  AT      the                      Z5 
-0000010 290  NN2     worlds                   W1 S5+c A4.1 N5+ 
+0000010 290  NN1     world                    W1 S5+c A4.1 N5+ 
+0000010 291  GE      's                       Z5 
 0000010 300  RGT     most                     A13.2 
 0000010 310  JJ      sought-after             Z99 
 0000010 320  NN2     attractions              O4.2+ S3.2 O3 
 0000010 321  ,       ,                        
 0000010 330  II21    such                     Z5[i19.2.1 
 0000010 340  II22    as                       Z5[i19.2.2 Z5 
-0000010 350  NP1     Kona                     Z99 
-0000010 360  NP2     Hawaiis                  Z2 
+0000010 350  NP1     Kona                     Z1mf[i20.2.1 Z3c[i20.2.1 
+0000010 360  NP1     Hawaii                   Z1mf[i20.2.2 Z3c[i20.2.2 Z2 
+0000010 361  GE      's                       Z5 
 0000010 370  JJ      famous                   X2.2+ 
 0000010 380  JJ      scenic                   O4.2+ 
 0000010 390  NN1     urinal                   H5/B4 
@@ -280,7 +283,8 @@
 0000012 002  -----   -----                    
 0000012 010  RR      Also                     N5++ 
 0000012 011  ,       ,                        
-0000012 020  APPGE   its                      Z8 
+0000012 020  PPH1    it                       Z8 
+0000012 021  VBZ     's                       A3+ Z5 
 0000012 030  RR      extremely                A13.3 
 0000012 040  JJ      important                A11.1+ 
 0000012 050  TO      to                       Z5 
@@ -293,8 +297,8 @@
 0000012 090  NP1     Kung                     Z99 
 0000012 100  VVD     added                    N5+/A2.1 N2 A1.8+ 
 0000012 110  II      before                   Z5 
-0000012 120  VVG     passing                  B2-[i20.2.1 A9-[i20.2.1 G3[i20.2.1 M1 A9- M2 K5.1 T1.3 T2- X9.2+ N5.2+ S7.4+ A5.4+/A8 
-0000012 130  RP      out                      B2-[i20.2.2 A9-[i20.2.2 G3[i20.2.2 M6 
+0000012 120  VVG     passing                  B2-[i21.2.1 A9-[i21.2.1 G3[i21.2.1 M1 A9- M2 K5.1 T1.3 T2- X9.2+ N5.2+ S7.4+ A5.4+/A8 
+0000012 130  RP      out                      B2-[i21.2.2 A9-[i21.2.2 G3[i21.2.2 M6 
 0000012 140  RR      unexpectedly             X2.6- 
 0000012 141  .       .                        
 0000013 001  -----   -----                    
@@ -302,8 +306,8 @@
 0000014 020  NN1     facility                 H1 O2 S8+ X9.1+ 
 0000014 030  VM      will                     T1.1.3 
 0000014 040  VBI     be                       Z5 A3+ 
-0000014 050  VVN     built                    A1.8+[i21.2.1 H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1 
-0000014 060  II      in                       A1.8+[i21.2.2 Z5 
+0000014 050  VVN     built                    A1.8+[i22.2.1 H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1 
+0000014 060  II      in                       A1.8+[i22.2.2 Z5 
 0000014 070  MC      three                    N1 T1.2 T3 
 0000014 080  NN2     phases                   T1.3 
 0000014 090  CC      and                      Z5 
@@ -320,20 +324,20 @@
 0000014 190  JJ      Scottish                 Z2 Z2/S2mfnc 
 0000014 200  NN1     monster                  L2/S9mfn G2.2-/S2mf 
 0000014 201  ,       ,                        
-0000014 210  II21    along                    Z5[i22.2.1 Z5 
-0000014 220  II22    with                     Z5[i22.2.2 
+0000014 210  II21    along                    Z5[i23.2.1 Z5 
+0000014 220  II22    with                     Z5[i23.2.2 
 0000014 230  JJ      various                  A6.3+ 
 0000014 240  JJ      aquatic                  M4 K5.1/M4 
 0000014 250  NN      species                  A4.1c L2c 
 0000014 260  JJ      indigenous               M7 
 0000014 270  II      to                       Z5 
 0000014 280  AT      the                      Z5 
-0000014 290  NP1     Town                     Z2[i23.2.1 
-0000014 300  NNL1    Lake                     Z2[i23.2.2 
+0000014 290  NP1     Town                     Z2[i24.2.1 
+0000014 300  NNL1    Lake                     Z2[i24.2.2 
 0000014 301  .       .                        
 0000014 302  -----   -----                    
-0000014 310  RR21    In                       N5++[i24.2.1 
-0000014 320  RR22    addition                 N5++[i24.2.2 
+0000014 310  RR21    In                       N5++[i25.2.1 
+0000014 320  RR22    addition                 N5++[i25.2.2 
 0000014 321  ,       ,                        
 0000014 330  AT      the                      Z5 
 0000014 340  NN1     project                  A1.1.1 P1 
@@ -344,8 +348,8 @@
 0000014 390  NN1     office                   I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+ 
 0000014 400  NN1     component                O2 N5.1- 
 0000014 410  IW      with                     Z5 
-0000014 420  NN1     ground                   H2[i25.2.1 M6 W3 M7 O3 X2.1 
-0000014 430  NN1     floor                    H2[i25.2.2 H2 S5+ 
+0000014 420  NN1     ground                   H2[i26.2.1 M6 W3 M7 O3 X2.1 
+0000014 430  NN1     floor                    H2[i26.2.2 H2 S5+ 
 0000014 440  JJ      retail                   I2.2 
 0000014 450  CC      and                      Z5 
 0000014 460  JJ      underground              M6 G2.1- 
@@ -364,8 +368,8 @@
 0000014 561  ,       ,                        
 0000014 570  CC      and                      Z5 
 0000014 580  AT1     a                        Z5 
-0000014 590  NN1     coffee                   F2/O3[i26.2.1 F2 
-0000014 600  NN1     machine                  F2/O3[i26.2.2 O2 Y2 
+0000014 590  NN1     coffee                   F2/O3[i27.2.1 F2 
+0000014 600  NN1     machine                  F2/O3[i27.2.2 O2 Y2 
 0000014 601  .       .                        
 0000015 001  -----   -----                    
 0000016 010  CS      Though                   Z5 
@@ -401,8 +405,8 @@
 0000016 280  II      beneath                  Z5 
 0000016 290  AT      the                      Z5 
 0000016 300  JJ      automatic                A1.1.1/S5- X2.1- X7- 
-0000016 310  NN1     hair                     B4[i27.2.1 B1 
-0000016 320  NN2     dryers                   B4[i27.2.2 O3/O1.2- 
+0000016 310  NN1     hair                     B4[i28.2.1 B1 
+0000016 320  NN2     dryers                   B4[i28.2.2 O3/O1.2- 
 0000016 321  ,       ,                        
 0000016 330  DD1     that                     Z5 Z8 
 0000016 340  JJ      Spurious                 A5.4- 
@@ -417,16 +421,16 @@
 0000016 420  VVZ     filters                  A1.1.1 
 0000016 430  IF      for                      Z5 
 0000016 440  AT      the                      Z5 
-0000016 450  NN1     coffee                   F2/O3[i28.2.1 F2 
-0000016 460  NN1     machine                  F2/O3[i28.2.2 O2 Y2 
+0000016 450  NN1     coffee                   F2/O3[i29.2.1 F2 
+0000016 460  NN1     machine                  F2/O3[i29.2.2 O2 Y2 
 0000016 470  NN1     component                O2 N5.1- 
 0000016 480  IO      of                       Z5 
 0000016 490  AT      the                      Z5 
 0000016 500  NN1     project                  A1.1.1 P1 
 0000016 501  .       .                        
 0000016 502  -----   -----                    
-0000016 510  CS21    Even                     Z5[i29.2.1 
-0000016 520  CS22    though                   Z5[i29.2.2 Z5 
+0000016 510  CS21    Even                     Z5[i30.2.1 
+0000016 520  CS22    though                   Z5[i30.2.2 Z5 
 0000016 530  DD1     this                     Z8 M6 Z5 
 0000016 540  VBDR    were                     A3+ Z5 
 0000016 550  JJ      unconfirmed              A5.4- 
@@ -462,8 +466,8 @@
 0000018 090  AT      no                       Z6 
 0000018 100  JJR     later                    T4-- T1.1.3 N4 
 0000018 110  CSN     than                     Z5 
-0000018 120  NP1@    June                     Z2[i30.2.1 Z1mf[i30.2.1 Z1f 
-0000018 130  MC      2019                     Z2[i30.2.2 Z1mf[i30.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000018 120  NP1@    June                     Z2[i31.2.1 Z1mf[i31.2.1 Z1f 
+0000018 130  MC      2019                     Z2[i31.2.2 Z1mf[i31.2.2 N1 T1.2 T3 T1.3 N3.2 
 0000018 131  .       .                        
 0000018 132  -----   -----                    
 0000018 140  AT      The                      Z5 
@@ -472,9 +476,9 @@
 0000018 170  CST     that                     Z5 Z8 
 0000018 180  AT      no                       Z6 
 0000018 190  NN1     financing                I1 
-0000018 200  VHZ     has                      S6+[i31.2.1 A9+ Z5 A2.2 S4 
+0000018 200  VHZ     has                      S6+[i32.2.1 A9+ Z5 A2.2 S4 
 0000018 210  RR      yet                      T1.1.2 
-0000018 220  TO      to                       S6+[i31.2.2 Z5 
+0000018 220  TO      to                       S6+[i32.2.2 Z5 
 0000018 230  VBI     be                       Z5 A3+ 
 0000018 240  VVN     arranged                 S7.1+ A1.1.1 
 0000018 250  IF      for                      Z5 
@@ -496,8 +500,8 @@
 0000018 400  RR22    sure                     A7+ 
 0000018 410  VVI     want                     X7+ S6+ A7+ S3.2 A9- 
 0000018 420  TO      to                       Z5 
-0000018 430  VVI     get                      A9+[i32.2.1 M1[i32.2.1 A1.1.1[i32.2.1 A1.8+[i32.2.1 X9.2+@[i32.2.1 A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
-0000018 440  RP@     in                       A9+[i32.2.2 M1[i32.2.2 A1.1.1[i32.2.2 A1.8+[i32.2.2 X9.2+@[i32.2.2 M6 
+0000018 430  VVI     get                      A9+[i33.2.1 M1[i33.2.1 A1.1.1[i33.2.1 A1.8+[i33.2.1 X9.2+@[i33.2.1 A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000018 440  RP@     in                       A9+[i33.2.2 M1[i33.2.2 A1.1.1[i33.2.2 A1.8+[i33.2.2 X9.2+@[i33.2.2 M6 
 0000018 450  II      on                       Z5 
 0000018 460  DD1     this                     M6 Z5 Z8 
 0000018 470  NN1     action                   A1.1.1 G3 

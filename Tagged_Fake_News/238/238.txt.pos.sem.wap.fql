@@ -1,4 +1,4 @@
-TOTAL              291
+TOTAL              292
 the                  AT             19 
 of                   IO             12 
 in                   II             10 
@@ -7,10 +7,10 @@ to                   TO              9
 his                  APPGE           7 
 a                    AT1             6 
 trump                NN1             5 
+'s                   GE              5 
 that                 CST             4 
 he                   PPHS1           4 
 said                 VVD             4 
-'s                   GE              4 
 Viola                NP1             4 
 will                 VM              4 
 secretary            NN1             3 
@@ -104,7 +104,7 @@ strategy             NN1             1
 primary              JJ              1 
 focus                NN1             1 
 ensuring             VVG             1 
-Americas             NP2             1 
+America              NP1             1 
 soldiers             NN2             1 
 have                 VH0             1 
 ways                 NN2             1 

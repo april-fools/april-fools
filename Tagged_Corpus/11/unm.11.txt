@@ -3,9 +3,8 @@ $129                     NNU     Z99
 //www.twfound.org/       VV0     Z99 
 Anaheim                  NP1     Z99 
 CUPERTINO                NP1     Z99 
-iChat                    VV0     Z99 
+iChat                    NN1     Z99 
 iLife                    NN1     Z99 
-Im                       NP1     Z99 
 iPod                     NN1     Z99 
 iTunes                   NN2     Z99 
 most-recognizable        JJ      Z99 

@@ -1,4 +1,4 @@
-TOTAL             1515
+TOTAL             1526
 you                  PPY            77 
 the                  AT             60 
 a                    AT1            38 
@@ -6,10 +6,10 @@ and                  CC             36
 to                   TO             35 
 your                 APPGE          30 
 will                 VM             29 
+it                   PPH1           29 
 is                   VBZ            29 
 are                  VBR            25 
 for                  IF             24 
-it                   PPH1           24 
 of                   IO             22 
 in                   II             17 
 if                   CS             17 
@@ -20,10 +20,12 @@ to                   II             10
 be                   VBI            10 
 modeling             NN1            10 
 those                DD2             8 
+n't                  XX              8 
 models               NN2             8 
 photographer         NN1             8 
 can                  VM              7 
 they                 PPHS2           7 
+get                  VVI             7 
 just                 RR              7 
 from                 II              7 
 there                EX              7 
@@ -33,8 +35,6 @@ best                 JJT             7
 make_sure            VV0             6 
 do                   VD0             6 
 not                  XX              6 
-get                  VVI             6 
-its                  APPGE           6 
 that                 CST             6 
 agencies             NN2             6 
 including            II              5 
@@ -45,13 +45,14 @@ as                   CSA             5
 even                 RR              5 
 pictures             NN2             5 
 with                 IW              5 
+'s                   VBZ             5 
 should               VM              5 
 an                   AT1             5 
 online               JJ              4 
 pay                  VVI             4 
 one                  MC1             4 
 great                JJ              4 
-cant                 JJ              4 
+ca                   VM              4 
 someone              PN1             4 
 top                  JJ              4 
 many                 DA2             4 
@@ -60,6 +61,7 @@ really               RR              4
 do                   VDI             4 
 may                  VM              4 
 way                  NN1             4 
+manager              NN1             4 
 following            JJ              3 
 modeling             VVG             3 
 nudes                NN2             3 
@@ -73,7 +75,6 @@ have_to              VHI             3
 any                  DD              3 
 thing                NN1             3 
 which                DDQ             3 
-nt                   XX              3 
 part                 NN1             3 
 at                   II              3 
 does                 VDZ             3 
@@ -87,7 +88,6 @@ agency               NN1             3
 magazines            NN2             3 
 or                   CC              3 
 publicity            NN1             3 
-get                  VV0             3 
 paid                 VVN             3 
 what                 DDQ             3 
 some                 DD              3 
@@ -102,7 +102,6 @@ escorts              NN2             3
 he                   PPHS1           3 
 shoot                NN1             3 
 them                 PPHO2           3 
-manager              NN1             3 
 beauty               NN1             3 
 bring                VVI             3 
 bad                  JJ              3 
@@ -133,7 +132,7 @@ receive              VVI             2
 multiple             JJ              2 
 jobs                 NN2             2 
 expenses             NN2             2 
-only                 JJ              2 
+'s                   GE              2 
 might                VM              2 
 overweight           JJ              2 
 put                  VVD             2 
@@ -155,6 +154,7 @@ clothes              NN2             2
 different            JJ              2 
 sizes                NN2             2 
 listen               VVI             2 
+tell                 VVI             2 
 if                   CSW             2 
 do_you_think         VD0             2 
 demand               NN1             2 
@@ -172,6 +172,7 @@ interested           JJ              2
 shoot                VV0             2 
 copyright            NN1             2 
 exchange             NN1             2 
+only                 RR              2 
 usage                NN1             2 
 agreement            NN1             2 
 images               NN2             2 
@@ -191,6 +192,7 @@ professional         JJ              2
 conventions          NN2             2 
 inner                JJ              2 
 rates                NN2             2 
+get                  VV0             2 
 say                  VVI             2 
 makes                VVZ             2 
 look_professional    VVI             2 
@@ -247,10 +249,11 @@ traveling            VVG             1
 give                 VV0             1 
 priority             NN1             1 
 usually              RR              1 
-cashiers             NN2             1 
-check                VV0             1 
+cashier              NN1             1 
+check                NN1             1 
 hotel                NN1             1 
 airfare              NN1             1 
+only                 JJ              1 
 work                 NN1             1 
 permit               NN1             1 
 pretty               RG              1 
@@ -280,6 +283,7 @@ over                 II              1
 arms                 NN2             1 
 make_up_for          VVI             1 
 natural              JJ              1 
+its                  APPGE           1 
 slimmest             JJT             1 
 approximately        RR              1 
 2                    MC              1 
@@ -332,7 +336,6 @@ short                JJ              1
 wear                 VV0             1 
 heels                NN2             1 
 after_all            II              1 
-tell                 VV0             1 
 tall                 JJ              1 
 worry                VVI             1 
 plus                 II              1 
@@ -368,7 +371,7 @@ lots                 PN              1
 through              II              1 
 new                  JJ              1 
 get_on               VV0             1 
-wont                 JJ              1 
+wo                   VM              1 
 anything_but         RR21            1 
 lead_to              VVI             1 
 things               NN2             1 
@@ -381,7 +384,7 @@ potential            NN1             1
 did                  VDD             1 
 Tila                 NP1             1 
 tequila              NN1             1 
-argue                VV0             1 
+argue                VVI             1 
 her                  APPGE           1 
 as                   II              1 
 supermodel           NN1             1 
@@ -466,7 +469,6 @@ normally             RR              1
 between              II              1 
 $25-$50              NNU             1 
 on_the_market        II22            1 
-tell                 VVI             1 
 check                VVI             1 
 references           NN2             1 
 waste_of_time        NN1             1 
@@ -485,7 +487,6 @@ bring_up             VVI             1
 sex                  NN1             1 
 preliminary          JJ              1 
 conversations        NN2             1 
-only                 RR              1 
 testing              VVG             1 
 comfort              NN1             1 
 level                NN1             1 
@@ -521,7 +522,6 @@ become               VVI             1
 scenario             NN1             1 
 hope                 VVI             1 
 for                  CS              1 
-managers             NN2             1 
 of_course            RR21            1 
 required             VVN             1 
 nude                 JJ              1 
@@ -621,8 +621,7 @@ a_little             RR21            1
 know                 VV0             1 
 come_in              VVI             1 
 challenge            VVI             1 
-no                   NN1             1 
-big_deal             JJ              1 
+no_big_deal          AT              1 
 goes                 VVZ             1 
 started              VVD             1 
 views                NN2             1 

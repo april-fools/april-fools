@@ -2,7 +2,6 @@ AG                       FO      Z99
 BASF                     NP1     Z99 
 biologics                NN2     Z99 
 city-state               NN1     Z99 
-city-states              NN2     Z99 
 computational            JJ      Z99 
 EDB                      NN1     Z99 
 EDB                      NP1     Z99 

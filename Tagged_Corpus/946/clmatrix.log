@@ -1,16 +1,16 @@
-Wed 25 Jul 11:09:42 BST 2018
+Thu 17 Jan 12:06:38 GMT 2019
 Using resources from /home/ed/claws-master-873689bb2e05ff4cff62259616c60db22570377b/bin
 CLAWS4(v24) : copyright (c) UCREL, University of Lancaster 1988 - 2008
-no of lines read = 53; no of errors = 70
+no of lines read = 53; no of errors = 45
 CLAWS completed tagging successfully
-Wed 25 Jul 11:09:42 BST 2018
+Thu 17 Jan 12:06:38 GMT 2019
 WARNING : /usr/local/share/semtag/lemwordlist.c7 : not found
 WARNING : /usr/local/share/semtag/lemsuffixlist.c7 : not found
 WARNING : /usr/local/share/semtag/lemtaglist.c7 : not found
 WARNING : /usr/local/share/semtag/lexicon.c7 : not found
 Defined BSD or other
 SEMTAG: (c) Lancaster University 2011 VERSION 7
-Infile = file26642.pos : Outfile = file26642.pos.sem
+Infile = file2763.pos : Outfile = file2763.pos.sem
 Reading lexicon.
 #abcdefghijklmnopqrstuvwxyzWARNING : /usr/local/share/semtag/autotag.c7 : not found
 WARNING : /usr/local/share/semtag/idioms.c7 : not found
@@ -22,20 +22,21 @@ Assigning semantic tags ....
 sh: 1: /mnt/data-fst/ucrel/bin/wn: not found
 sh: 1: /mnt/data-fst/ucrel/bin/wn: not found
 sh: 1: /mnt/data-fst/ucrel/bin/wn: not found
-008% 011% 013% 014% 017% 022% sh: 1: /mnt/data-fst/ucrel/bin/wn: not found
-027% 030% 032% 034% 035% 038% 041% sh: 1: /mnt/data-fst/ucrel/bin/wn: not found
+008% 011% 013% 014% 018% 022% sh: 1: /mnt/data-fst/ucrel/bin/wn: not found
+027% 030% 033% 034% 035% 038% 041% sh: 1: /mnt/data-fst/ucrel/bin/wn: not found
 sh: 1: /mnt/data-fst/ucrel/bin/wn: not found
 041% sh: 1: /mnt/data-fst/ucrel/bin/wn: not found
 sh: 1: /mnt/data-fst/ucrel/bin/wn: not found
-044% 047% 049% 052% 055% 056% 059% sh: 1: /mnt/data-fst/ucrel/bin/wn: not found
+045% 047% 049% 053% 056% 056% 060% sh: 1: /mnt/data-fst/ucrel/bin/wn: not found
 063% sh: 1: /mnt/data-fst/ucrel/bin/wn: not found
-067% sh: 1: /mnt/data-fst/ucrel/bin/wn: not found
+068% sh: 1: /mnt/data-fst/ucrel/bin/wn: not found
 070% sh: 1: /mnt/data-fst/ucrel/bin/wn: not found
-073% 077% sh: 1: /mnt/data-fst/ucrel/bin/wn: not found
+074% 078% sh: 1: /mnt/data-fst/ucrel/bin/wn: not found
 sh: 1: /mnt/data-fst/ucrel/bin/wn: not found
-082% 084% 088% 089% 093% 096% sh: 1: /mnt/data-fst/ucrel/bin/wn: not found
+082% 084% 088% sh: 1: /mnt/data-fst/ucrel/bin/wn: not found
+090% 093% 096% sh: 1: /mnt/data-fst/ucrel/bin/wn: not found
 097% 099% sh: 1: /mnt/data-fst/ucrel/bin/wn: not found
-100% Wed 25 Jul 11:09:43 BST 2018
+100% Thu 17 Jan 12:06:39 GMT 2019
 WARNING : /usr/local/share/tmatrix/lemwordlist.c7 : not found
 WARNING : /usr/local/share/tmatrix/lemsuffixlist.c7 : not found
 WARNING : /usr/local/share/tmatrix/lemtaglist.c7 : not found
@@ -43,12 +44,12 @@ Lemmings Word rules ... Number of tags: 61; Number of rules: 1420
 Lemmings Suffix rules ... Number of tags: 17 Number of rules: 209
 Lemmings Default rules ... Number of Default rules: 139
 
-Checking file size 'file26642.pos.sem'
-Loading file 'file26642.pos.sem' ... please wait
+Checking file size 'file2763.pos.sem'
+Loading file 'file2763.pos.sem' ... please wait
 0% (0)
 22% (100)
-50% (200)
-79% (300)
+51% (200)
+80% (300)
 
 Calculating ...
  
@@ -57,36 +58,36 @@ Calculating ...
 Building profile ... 
 0%
 28%
-56%
+57%
 85%
 Sorting by frequency ...
  
 Building profile ... 
 0%
 28%
-56%
+57%
 85%
 Sorting by frequency ...
  
 Building profile ... 
 0%
 28%
-56%
+57%
 85%
 Sorting by frequency ...
  
 Building profile ... 
 0%
 28%
-56%
+57%
 85%
 Sorting by frequency ...
  
 Building profile ... 
 0%
 28%
-56%
+57%
 85%
 Sorting by frequency ...
  
-Wed 25 Jul 11:09:43 BST 2018
+Thu 17 Jan 12:06:39 GMT 2019

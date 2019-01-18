@@ -1,4 +1,4 @@
-TOTAL              720
+TOTAL              723
 the                  AT             55 
 of                   IO             26 
 is                   VBZ            16 
@@ -6,12 +6,12 @@ and                  CC             13
 in                   II             13 
 to                   TO             13 
 a                    AT1            12 
+it                   PPH1           11 
 theory               NN1            10 
 stork                NN1            10 
 are                  VBR             9 
 evidence             NN1             9 
 with                 IW              9 
-it                   PPH1            9 
 correlation          NN1             9 
 that                 CST             8 
 to                   II              8 
@@ -41,7 +41,6 @@ so                   RR              3
 long                 RR              3 
 local                JJ              3 
 clear                JJ              3 
-its                  APPGE           3 
 from                 II              3 
 but                  CCB             3 
 here                 RL              3 
@@ -107,8 +106,9 @@ because              CS              1
 taught               VVN             1 
 school               NN1             1 
 a                    ZZ1             1 
-worlds               NN2             1 
-leading              VVG             1 
+world                NN1             1 
+'s                   GE              1 
+leading              JJ              1 
 still                RR              1 
 in_favour_of         II31            1 
 some                 DD              1 
@@ -176,8 +176,9 @@ obliged              VVN             1
 follow               VVI             1 
 wherever             RRQV            1 
 leads                VVZ             1 
-lets                 VVZ             1 
-look_at              NN1             1 
+let_'s               VM21            1 
+look_at              VVI             1 
+'s                   VHZ             1 
 known                VVN             1 
 birth                NN1             1 
 rates                NN2             1 
@@ -218,7 +219,9 @@ Hfer_et_al           NP1             1
 generated            VVN             1 
 insight              NN1             1 
 startling            VVG             1 
+its                  APPGE           1 
 simplicity           NN1             1 
+'s                   VBZ             1 
 wonder               NN1             1 
 no                   AT              1 
 one                  MC1             1 

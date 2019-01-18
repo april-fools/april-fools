@@ -1,4 +1,4 @@
-TOTAL              380
+TOTAL              387
 the                  Z5                  28 
 of                   Z5                  13 
 to                   Z5                  11 
@@ -13,6 +13,7 @@ Straeuli             Z99                  4
 at                   Z5                   4 
 he                   Z8                   4 
 in                   Z5                   4 
+'                    Z5                   3 
 who                  Z8                   3 
 staaldraad           Z99                  3 
 as                   Z5                   3 
@@ -40,6 +41,7 @@ not                  Z6                   2
 dark                 W2-                  2 
 players              K6                   2 
 God                  S9                   2 
+i                    Z8                   2 
 Cape_Town            Z2                   1 
 an                   Z5                   1 
 altogether           A13.2                1 
@@ -116,7 +118,7 @@ has                  Z5                   1
 enlisted             G3                   1 
 rugby                K5.1                 1 
 bosses               S7.1+                1 
-blessing             S9                   1 
+blessing             S8+                  1 
 help                 S8+                  1 
 koevoet              Z99                  1 
 commander            S7.1+                1 
@@ -156,7 +158,8 @@ bare-knuckle         Z99                  1
 boxing               K5.1                 1 
 bouts                K5.1                 1 
 there                Z5                   1 
-survival_factor      A3+                  1 
+survival'            Z99                  1 
+factor               A2.2                 1 
 but                  Z5                   1 
 nothing_like         A6.1-                1 
 as                   A13                  1 
@@ -187,10 +190,11 @@ subjected            A1.1.1               1
 repeated             N6+                  1 
 recordings           Q1.2                 1 
 save                 I1.1                 1 
-queen                Z3                   1 
+Queen'               Z99                  1 
 or                   Z5                   1 
 defend               S8+                  1 
-New_Zealand          Z2                   1 
+new                  T3-                  1 
+Zealand'             Z99                  1 
 more                 A13.3                1 
 positively           A7+                  1 
 motivated            A2.2                 1 
@@ -200,7 +204,8 @@ re-runs              Z99                  1
 events               A3+                  1 
 like                 Z5                   1 
 Ras                  P1                   1 
-dumisanis            Z99                  1 
+Dumisani             Z99                  1 
+'s                   Z5                   1 
 rendition            K2                   1 
 of_our_own           A9+                  1 
 national_anthem      K2                   1 
@@ -242,10 +247,9 @@ was                  A3+                  1
 ebullient            X5.2+                1 
 mood                 E1                   1 
 quipped              E4.1+                1 
-Ive                  Z99                  1 
+'ve                  Z5                   1 
 told                 Q2.1                 1 
-Rudolf               Z1                   1 
-i                    Z8                   1 
+rudolf               Z1                   1 
 plan                 X7+                  1 
 spot                 X3.4                 1 
 big                  N3.2+                1 

@@ -1,10 +1,12 @@
-TOTAL              295
+TOTAL              298
 the                  Z5                  21 
 of                   Z5                  11 
 to                   Z5                  10 
 a                    Z5                   7 
 Derekson             Z99                  5 
+that                 Z8                   5 
 he                   Z8                   5 
+they                 Z8                   4 
 Dr.                  B3                   4 
 magellanic           Z99                  4 
 penguins             L2                   4 
@@ -12,16 +14,14 @@ on                   Z5                   4
 island               W3                   4 
 and                  Z5                   4 
 in                   Z5                   4 
-that                 Z8                   4 
-that                 Z5                   4 
-they                 Z8                   3 
+it                   Z8                   4 
 be                   Z5                   3 
 an                   Z5                   3 
 his                  Z8                   3 
 pattern              X4.2                 3 
 has                  Z5                   3 
 not                  Z6                   3 
-it                   Z8                   3 
+that                 Z5                   3 
 by                   Z5                   3 
 is                   A3+                  3 
 made                 A1.1.1               2 
@@ -76,6 +76,7 @@ species              A4.1                 1
 except_for           A1.8-                1 
 odd                  A6.2-                1 
 the_birds            Z3                   1 
+'                    Z5                   1 
 upper                M6                   1 
 chest                B1                   1 
 just                 A14                  1 
@@ -91,7 +92,7 @@ seen                 X3.4                 1
 other                A6.1-                1 
 penguins_in          A1.7+                1 
 believes             X2.1                 1 
-s                    Z5                   1 
+'s                   Z5                   1 
 found                A10+                 1 
 penguin              L2                   1 
 endemic              B2                   1 
@@ -109,7 +110,7 @@ why                  A2.2                 1
 exclaimed            Q2.2                 1 
 crazy                B2-                  1 
 birdwatchers         Z99                  1 
-theyll               Z99                  1 
+'ll                  T1.1.3               1 
 swarming             M1                   1 
 all_over             N5.1+                1 
 before               Z5                   1 
@@ -118,7 +119,7 @@ know                 X2.2+                1
 scaring              E5-                  1 
 Earthsky             Z99                  1 
 pointed_out          A10+                 1 
-its                  Z8                   1 
+'s                   A3+                  1 
 very                 A13.3                1 
 unlikely             A7-                  1 
 would                A7+                  1 

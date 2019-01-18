@@ -10,7 +10,6 @@ Foo-Yung                 JJ      Z99
 Hungus                   NP1     Z99 
 Ignis                    NN121   Z99 
 Intl.                    NP1     Z99 
-Kona                     NP1     Z99 
 Kung                     NP1     Z99 
 LLC                      NP1     Z99 
 Madge                    NP1     Z99 

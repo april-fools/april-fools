@@ -1,4 +1,4 @@
-TOTAL              416
+TOTAL              420
 the                  Z5                  28 
 and                  Z5                  22 
 of                   Z5                  11 
@@ -6,12 +6,14 @@ a                    Z5                   9
 to                   Z5                   8 
 korean               Z2                   7 
 food                 F1                   6 
-its                  Z8                   5 
 in                   Z5                   5 
 restaurant           F1                   5 
 is                   Z5                   4 
+its                  Z8                   4 
 has                  Z5                   4 
 is                   A3+                  4 
+'s                   Z5                   4 
+Park                 M7                   4 
 that                 Z5                   3 
 for                  Z5                   3 
 this                 M6                   3 
@@ -41,9 +43,7 @@ really               A13.3                2
 crystal              O1.1                 2 
 customers            I2.2                 2 
 or                   Z5                   2 
-Park                 M7                   2 
 beef                 F1                   2 
-parks                Z3                   2 
 area                 M7                   2 
 meant                Q1.1                 2 
 give                 A9-                  2 
@@ -67,6 +67,8 @@ k-pop                Z99                  1
 undergoing           A1.1.1               1 
 years                T1.3                 1 
 so                   Z5                   1 
+it                   Z8                   1 
+'s                   A3+                  1 
 only                 A14                  1 
 appropriate          A1.2+                1 
 jyp                  Z99                  1 
@@ -111,7 +113,7 @@ just                 A14                  1
 few                  N5-                  1 
 blocks               O2                   1 
 north                M6                   1 
-citys                M7                   1 
+city                 M7                   1 
 designated           Q2.2                 1 
 koreatown            Z99                  1 
 all                  N5.1+                1 
@@ -162,7 +164,7 @@ such                 Z5                   1
 nyc                  Z99                  1 
 staples              O2                   1 
 as                   Z5                   1 
-LAtelier_de_Joel     Z1                   1 
+L'Atelier_de_Joel    Z1                   1 
 Gramercy_tavern      Z1                   1 
 use                  A1.5.1               1 
 infrared             Y1                   1 
@@ -212,8 +214,7 @@ well                 B2+                  1
 on_its_way           M6                   1 
 counts               N2                   1 
 Horace_Madison       Z1                   1 
-Lil                  Z1                   1 
-Waynes               Z1                   1 
+Lil_Wayne            Z1                   1 
 business_manager     I2.1                 1 
 investors            I1.1                 1 
 industry             I4                   1 

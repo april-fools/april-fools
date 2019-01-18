@@ -1,21 +1,21 @@
-TOTAL              215
+TOTAL              219
 the                  Z5                  14 
 and                  Z5                   7 
 to                   Z5                   7 
+player               K6                   6 
 a                    Z5                   5 
-player               K6                   5 
 right-footed         Z99                  5 
-players              K6                   5 
+it                   Z8                   5 
 left-footed          Z99                  4 
 for                  Z5                   4 
+players              K6                   4 
 Arsenal              Z2                   3 
 club                 S5+                  3 
+puma                 Z3                   3 
 first                N4                   3 
 football             K5.2                 3 
-it                   Z8                   3 
 left                 M6                   3 
 two-footed           Z99                  3 
-puma                 Z3                   2 
 have                 Z5                   2 
 evopower             Z99                  2 
 was                  A3+                  2 
@@ -29,9 +29,10 @@ just                 A14                  2
 were                 A3+                  2 
 ball                 O2                   2 
 had                  A9+                  2 
-its                  Z8                   2 
+'s                   A3+                  2 
 said                 Q2.1                 2 
 foot                 B1                   2 
+'s                   Z5                   2 
 football_club        K5.2                 1 
 official             G1.1                 1 
 partner              S3.1                 1 
@@ -105,7 +106,6 @@ speaking             Q2.1                 1
 about                Z5                   1 
 launch               M4                   1 
 Keith_Woods          Z1                   1 
-pumas                Z3                   1 
 senior               S7.1++               1 
 product              O2                   1 
 line_manager         S7.1+                1 

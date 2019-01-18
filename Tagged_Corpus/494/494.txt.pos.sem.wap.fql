@@ -1,4 +1,4 @@
-TOTAL              262
+TOTAL              267
 the                  AT             20 
 to                   TO              8 
 piers                NN2             7 
@@ -6,14 +6,14 @@ that                 CST             6
 a                    AT1             6 
 in                   II              6 
 on                   II              4 
+president            NN1             4 
 his                  APPGE           4 
 this                 DD1             4 
 will                 VM              4 
+it                   PPH1            3 
 role                 NN1             3 
 President            NNB             3 
-president            NN1             3 
 how                  RRQ             3 
-its                  APPGE           2 
 been                 VBN             2 
 is                   VBZ             2 
 showbusiness         NN1             2 
@@ -27,6 +27,7 @@ source               NN1             2
 Trump                NP1             2 
 when                 CS              2 
 world                NN1             2 
+'                    GE              2 
 background           NN1             2 
 him                  PPHO1           2 
 for                  IF              2 
@@ -35,6 +36,7 @@ they                 PPHS2           2
 can                  VM              2 
 teaching             VVG             2 
 use                  VVI             2 
+'s                   VHZ             1 
 revealed             VVN             1 
 piers_Morgan         NN2             1 
 taking_on            VVG             1 
@@ -91,7 +93,6 @@ heaven               NN1             1
 urgently             RR              1 
 needs                VVZ             1 
 guidance             NN1             1 
-it                   PPH1            1 
 comes_to             VVZ             1 
 making_a_impression  VVG             1 
 positive             JJ              1 
@@ -104,7 +105,7 @@ work_together        VV0             1
 find                 VVI             1 
 way                  NN1             1 
 make                 VVI             1 
-presidents           NN2             1 
+'s                   GE              1 
 reputation           NN1             1 
 great                JJ              1 
 again                RT              1 
@@ -131,7 +132,8 @@ come_in_handy        VVI             1
 very                 RG              1 
 proper               JJ              1 
 grammar              NN1             1 
-thought              NN1             1 
+'s                   VBZ             1 
+thought              VVN             1 
 begin                VVI             1 
 advisory             JJ              1 
 stint                NN1             1 

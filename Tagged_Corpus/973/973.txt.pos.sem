@@ -44,16 +44,18 @@
 0000004 170  VVN     transformed              A2.1+ 
 0000004 171  -       -                        
 0000004 180  II      from                     Z5 
-0000004 190  NP2     Sarahs                   Z1f 
+0000004 190  NP1     Sarah                    Z1f 
+0000004 191  GE      's                       Z5 
 0000004 200  JJ      lovable                  O4.2+ 
 0000004 210  JJ@     rescued                  S8+ 
 0000004 220  NN1     pet                      L2mfn E2+ 
 0000004 230  II      to                       Z5 
 0000004 240  MC1     one                      N1 T3 T1.2 
 0000004 250  IO      of                       Z5 
-0000004 260  NN2     Britains                 Z2 
-0000004 270  VVG     pioneering               T2+ 
-0000004 280  NP1     Reading                  Z2 Z3c 
+0000004 260  NP1     Britain                  Z2 
+0000004 261  GE      's                       Z5 
+0000004 270  JJ      pioneering               T2+ 
+0000004 280  NN1@    Reading                  Z2 Z3c 
 0000004 290  NN1     Education                P1 X2.3+ 
 0000004 300  NN1     Assistance               S8+ 
 0000004 310  NN2     Dogs                     L2mfn 
@@ -111,12 +113,13 @@
 0000008 070  PPHS2   they                     Z8mfn 
 0000008 080  VV0     know                     X2.2+ S3.2/B1% 
 0000008 090  PPHS1   he                       Z8m 
-0000008 100  JJ      wont                     A6.2+ 
-0000008 110  NN1     judge                    G2.1/I3.2/S2mf X6/S2mf 
+0000008 100  VM      wo                       T1.1.3 
+0000008 101  XX      n't                      Z6 
+0000008 110  VVI     judge                    G2.1 X6 
 0000008 111  ,       ,                        
-0000008 120  VV0     laugh                    E4.1+/X3.2 
+0000008 120  VVI     laugh                    E4.1+/X3.2 
 0000008 130  CC      or                       Z5 
-0000008 140  VV0     criticise                Q2.2/E2- 
+0000008 140  VVI     criticise                Q2.2/E2- 
 0000008 141  ,       ,                        
 0000008 150  CC      and                      Z5 
 0000008 160  APPGE   their                    Z8 
@@ -279,8 +282,9 @@
 0000014 150  NN1     proof                    A5.2+ Q4.1 F2 
 0000014 160  IO      of                       Z5 
 0000014 170  AT      the                      Z5 
-0000014 180  NN2     schemes                  X7+ X4.2 
-0000014 190  II      worth                    I1.3 A1.5.2+ S1.1.4+ N5 Z3 Z1mf Z2 
+0000014 180  NN1     scheme                   X7+ X4.2 
+0000014 181  GE      's                       Z5 
+0000014 190  NN1@    worth                    I1.3 N5 A1.5.2+ S1.1.4+ 
 0000014 191  .       .                        
 0000016 001  NULL    <quote>                  
 0000016 002  -----   -----                    
@@ -382,14 +386,15 @@
 0000020 231  .       .                        
 0000020 232  -----   -----                    
 0000020 240  PPHS1   He                       Z8m 
-0000020 241  VBZ     s                        T1.3 I1.1 Z5 
+0000020 241  VBZ     's                       A3+ Z5 
 0000020 250  RG      so                       A13.3 
 0000020 260  JJ      cute                     O4.2+ 
 0000020 261  .       .                        
 0000020 262  NULL    </quote>                 
 0000020 263  -----   -----                    
-0000022 010  NP2     Sarahs                   Z1f 
-0000022 020  VV0     venture                  M1 X8+ A15- Q2.2 
+0000022 010  NP1     Sarah                    Z1f 
+0000022 011  GE      's                       Z5 
+0000022 020  NN1     venture                  X8+ A15- I2.1 
 0000022 021  ,       ,                        
 0000022 030  VVN     named                    Q2.2 
 0000022 040  JJ      Shaggy                   Z99 
@@ -444,7 +449,8 @@
 0000024 161  .       .                        
 0000026 001  NULL    <quote>                  
 0000026 002  -----   -----                    
-0000026 010  APPGE   Its                      Z8 
+0000026 010  PPH1    It                       Z8 
+0000026 011  VBZ     's                       A3+ Z5 
 0000026 020  JJ      magical                  S9 O4.2+ 
 0000026 030  RRQ     how                      Z5 A13.3 
 0000026 040  AT      the                      Z5 

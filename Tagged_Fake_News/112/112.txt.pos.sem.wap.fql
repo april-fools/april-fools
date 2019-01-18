@@ -1,4 +1,4 @@
-TOTAL              312
+TOTAL              313
 the                  AT             25 
 a                    AT1            10 
 in                   II              9 
@@ -16,6 +16,7 @@ her                  PPHO1           4
 when                 CS              3 
 to                   II              3 
 presidential         JJ              3 
+Hillary_Clinton      NP1             3 
 could                VM              3 
 at                   II              3 
 war                  NN1             3 
@@ -24,7 +25,6 @@ fling                NN1             3
 presidency           NN1             3 
 about                II              3 
 shocked              VVD             2 
-Hillary_Clinton      NP1             2 
 first                MD              2 
 is                   VBZ             2 
 to                   TO              2 
@@ -43,10 +43,12 @@ with                 IW              2
 Yoko_Ono             NP1             2 
 met                  VVD             2 
 allegations          NN2             2 
+lesbian              NN1             2 
 believe              VV0             2 
 experts              NN2             2 
-i                    PPIS1           2 
 Hillary              NP1             2 
+'s                   GE              2 
+i                    PPIS1           2 
 Los_Angeles_Yoko     NP1             1 
 yesterday            RT              1 
 responded            VVD             1 
@@ -106,7 +108,6 @@ has                  VHZ             1
 been                 VBN             1 
 hit                  VVN             1 
 being                VBG             1 
-lesbian              NN1             1 
 career               NN1             1 
 which                DDQ             1 
 ruin                 VVI             1 
@@ -114,8 +115,7 @@ bid                  NN1             1
 some                 DD              1 
 asked                VVN             1 
 thoughts             NN2             1 
-Hillarys             NP2             1 
-run                  VV0             1 
+run                  NN1             1 
 completely           RR              1 
 many_times           DA2             1 
 New_York_Vietnam     NP1             1 
@@ -163,9 +163,7 @@ affect               VVI             1
 candidates           NN2             1 
 bid                  VV0             1 
 previous             JJ              1 
-Clintons             NP2             1 
-lesbian              JJ              1 
-past                 NN1             1 
+past                 RL              1 
 have                 VH0             1 
 not                  XX              1 
 seemed               VVN             1 

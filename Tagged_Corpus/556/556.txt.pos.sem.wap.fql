@@ -1,4 +1,4 @@
-TOTAL              373
+TOTAL              375
 the                  AT             26 
 a                    AT1            11 
 and                  CC             10 
@@ -29,12 +29,14 @@ at                   II              3
 products             NN2             3 
 has                  VHZ             3 
 sensor               NN1             3 
+Atmel                NP1             2 
 could                VM              2 
 screens              NN2             2 
 with                 IW              2 
 surfaces             NN2             2 
 much                 RR              2 
 touchscreen          NN1             2 
+you                  PPY             2 
 can                  VM              2 
 where                RRQ             2 
 designs              NN2             2 
@@ -53,7 +55,6 @@ thinner              JJR             2
 to                   II              2 
 industry             NN1             2 
 such_as              II21            2 
-Atmel                NP1             1 
 unveiled             VVD             1 
 film-based           JJ              1 
 revolutionize        VVI             1 
@@ -75,7 +76,6 @@ build                VVI             1
 mesh                 NN1             1 
 very                 RG              1 
 for_the_first_time   IF              1 
-you                  PPY             1 
 have                 VHI             1 
 screen               NN1             1 
 wraps                VVZ             1 
@@ -152,7 +152,7 @@ Jennifer_Colegrove   NP1             1
 analyst              NN1             1 
 NPD_DisplaySearch    NP1             1 
 ito-alternative      JJ              1 
-Atmels               NP2             1 
+'s                   GE              1 
 penetrating          VVG             1 
 into                 II              1 
 sensor_market        NN1             1 
@@ -174,7 +174,7 @@ flat-panel           JJ              1
 televisions          NN2             1 
 exclusive            JJ              1 
 license              NN1             1 
-youll                NN1             1 
+'ll                  VM              1 
 able                 JK              1 
 big                  JJ              1 
 like                 VV0             1 

@@ -1,7 +1,8 @@
 0000001 001  NULL    **6;0;START              
 0000001 002  -----   -----                    
 0000002 010  PPH1    It                       Z8 
-0000002 020  JJ      wont                     A6.2+ 
+0000002 020  VM      wo                       T1.1.3 
+0000002 021  XX      n't                      Z6 
 0000002 030  RR      just                     A14 T3--- T1.3- N3.3--- 
 0000002 040  VBI     be                       A3+ Z5 
 0000002 050  AT      the                      Z5 
@@ -19,8 +20,9 @@
 0000002 170  TO      to                       Z5 
 0000002 180  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
 0000002 190  AT      the                      Z5 
-0000002 200  NP2     Obamas                   Z99 
-0000002 210  VVI     leave                    M1 M2 A1.1.1 A1.9 A9- T2- 
+0000002 200  NP1     Obama                    Z99 
+0000002 201  GE      's                       Z5 
+0000002 210  VV0     leave                    M1 M2 A1.1.1 A1.9 A9- T2- 
 0000002 220  AT      the                      Z5 
 0000002 230  NP1     White                    Z3c[i3.2.1 Z2[i3.2.1 Z1mf 
 0000002 240  NN1     House                    Z3c[i3.2.2 Z2[i3.2.2 H1 P1/S5+c G1.1c 
@@ -105,8 +107,9 @@
 0000004 670  PPH1    it                       N5.1+[i12.3.3 Z8 
 0000004 671  .       .                        
 0000005 001  -----   -----                    
-0000006 010  APPGE   Its                      Z8 
-0000006 020  JJ@     understood               X2.5+ 
+0000006 010  PPH1    It                       Z8 
+0000006 011  VBZ     's                       Z5 A3+ 
+0000006 020  VVN     understood               X2.5+ 
 0000006 030  CST     that                     Z5 Z8 
 0000006 040  RR      shortly                  N3.8+ 
 0000006 050  II      after                    Z5 
@@ -135,9 +138,9 @@
 0000006 270  JJ      local                    M7 
 0000006 280  NN1     cocktail                 F2/H1c[i16.2.1 F2/H2[i16.2.1 F2 
 0000006 290  NN1     bar                      F2/H1c[i16.2.2 F2/H2[i16.2.2 F2/H1c F2/H2 F2/H5 O2 O4.4 S8- G2.1c K2 
-0000006 300  II      off                      A10-[i17.3.1 Z5 E2- 
-0000006 310  AT      the                      A10-[i17.3.2 Z5 
-0000006 320  NN1     record                   A10-[i17.3.3 Q1.2 K3 T1.1.1 A5.1+++ 
+0000006 300  II      off                      Z5 E2- 
+0000006 310  AT      the                      Z5 
+0000006 320  NN1     record'                  Z99 
 0000006 321  .       .                        
 0000006 322  -----   -----                    
 0000006 330  PPH1    It                       Z8 
@@ -161,13 +164,13 @@
 0000008 020  VBDZ    was                      A3+ Z5 
 0000008 030  JJ      terrible                 A5.1- 
 0000008 040  VVD     said                     Q2.1 
-0000008 050  NP1     Antonia                  Z1mf[i18.2.1 Z3c[i18.2.1 Z1f 
-0000008 060  NP1     Juan-Fernando            Z1mf[i18.2.2 Z3c[i18.2.2 
+0000008 050  NP1     Antonia                  Z1mf[i17.2.1 Z3c[i17.2.1 Z1f 
+0000008 060  NP1     Juan-Fernando            Z1mf[i17.2.2 Z3c[i17.2.2 
 0000008 061  ,       ,                        
-0000008 070  NNB     Mr                       Z1m[i20.2.1 S2.2m Z1m[i19.2.1 
-0000008 080  NP1     Obama                    Z1m[i20.2.2 Z1m[i19.2.2 
-0000008 090  VMK     used                     T1.1.1[i21.2.1 A6.2+[i21.2.1 
-0000008 100  TO      to                       T1.1.1[i21.2.2 A6.2+[i21.2.2 Z5 
+0000008 070  NNB     Mr                       Z1m[i19.2.1 S2.2m Z1m[i18.2.1 
+0000008 080  NP1     Obama                    Z1m[i19.2.2 Z1m[i18.2.2 
+0000008 090  VMK     used                     T1.1.1[i20.2.1 A6.2+[i20.2.1 
+0000008 100  TO      to                       T1.1.1[i20.2.2 A6.2+[i20.2.2 Z5 
 0000008 110  VVI     love                     E2+ 
 0000008 120  NN2     cookies                  F1 
 0000008 130  CC      and                      Z5 
@@ -195,7 +198,7 @@
 0000008 310  VV0     Make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
 0000008 320  NP1     America                  Z2 
 0000008 330  JJ      Great                    A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3 
-0000008 340  RT      Again                    N6+ Z4 
+0000008 340  NP1     Again'                   Z99 
 0000008 341  ,       ,                        
 0000008 350  CCB     but                      Z5 
 0000008 360  CST@    that                     Z8 Z5 
@@ -221,8 +224,8 @@
 0000010 071  .       .                        
 0000010 072  -----   -----                    
 0000010 080  RR      Generally                A6.2+ A4.2- A13.2 
-0000010 090  NP1     White                    Z3c[i22.2.1 Z2[i22.2.1 Z1mf 
-0000010 100  NN1     House                    Z3c[i22.2.2 Z2[i22.2.2 H1 P1/S5+c G1.1c 
+0000010 090  NP1     White                    Z3c[i21.2.1 Z2[i21.2.1 Z1mf 
+0000010 100  NN1     House                    Z3c[i21.2.2 Z2[i21.2.2 H1 P1/S5+c G1.1c 
 0000010 110  NN1     head                     B1 S7.1+/S2mf P1/S2mf X1 M6 A4.1 S2mf F2 H5/M4% 
 0000010 120  IO      of                       Z5 
 0000010 130  NN      staff                    I3.1/S2mfc B3/S2mf G3/S2c L2mfn I3.1 

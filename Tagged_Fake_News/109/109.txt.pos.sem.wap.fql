@@ -1,17 +1,21 @@
-TOTAL              248
+TOTAL              256
 the                  AT             15 
 was                  VBDZ            7 
+trump                NN1             7 
 that                 CST             6 
+it                   PPH1            6 
 Gingrich             NP1             5 
 to                   II              4 
-it                   PPH1            4 
-trump                NN1             4 
 of                   IO              4 
 has                  VHZ             3 
 be                   VBI             3 
 but                  CCB             3 
 to                   TO              3 
+'s                   GE              3 
+that                 DD1             3 
 he                   PPHS1           3 
+'s                   VBZ             3 
+n't                  XX              3 
 an                   AT1             2 
 judge                NN1             2 
 comments             NN2             2 
@@ -21,8 +25,6 @@ people               NN              2
 this                 DD1             2 
 Newt                 NP1             2 
 $100_million         NNU             2 
-trumps               NN2             2 
-that                 DD1             2 
 Newt_Gingrich        NP1             2 
 trump                VV0             2 
 entire               JJ              2 
@@ -35,10 +37,9 @@ one                  MC1             2
 his                  APPGE           2 
 i                    PPIS1           2 
 do                   VD0             2 
-nt                   XX              2 
 what                 DDQ             2 
 a                    AT1             2 
-its                  APPGE           2 
+see                  VVI             2 
 because              CS              2 
 a_lot                AT1             2 
 VP                   NP1             2 
@@ -80,7 +81,6 @@ another              DD1             1
 offered              VVN             1 
 if                   CS              1 
 picked               VVD             1 
-thats                NN2             1 
 why                  RRQ             1 
 so                   RG              1 
 nice                 JJ              1 
@@ -106,7 +106,6 @@ hispanic             JJ              1
 nationalist          JJ              1 
 organization         NN1             1 
 know                 VVI             1 
-trumps               VVZ             1 
 reasoning            NN1             1 
 and                  CC              1 
 care                 VVI             1 
@@ -115,7 +114,6 @@ WASHINGTON           NP1             1
 post                 NN1             1 
 traitor              NN1             1 
 hard                 JJ              1 
-see                  VVI             1 
 happen               VVI             1 
 hoping               VVG             1 
 newt                 NN1             1 
@@ -127,8 +125,8 @@ bitter               JJ              1
 for                  IF              1 
 having               VHG             1 
 change_his_mind      VV0             1 
-best                 RRT             1 
-interest             VV0             1 
+best                 JJT             1 
+interest             NN1             1 
 pick                 VVI             1 
 someone              PN1             1 
 identifies           VVZ             1 
@@ -144,7 +142,7 @@ complete             VV0             1
 since                CS              1 
 last_week            MD              1 
 we                   PPIS2           1 
-shouldnt             VV0             1 
+should               VM              1 
 too                  RR              1 
 torn_up              VVN             1 
 remember             VV0             1 
@@ -158,9 +156,9 @@ have                 VH0             1
 fun                  JJ              1 
 as                   II              1 
 leader               NN1             1 
-youll                VV0             1 
+you                  PPY             1 
+'ll                  VM              1 
 probably             RR              1 
-see                  VV0             1 
 wall                 NN1             1 
 from                 II              1 
 there                RL              1 

@@ -1,4 +1,4 @@
-TOTAL              273
+TOTAL              275
 the                  AT             13 
 a                    AT1            10 
 to                   TO              9 
@@ -21,6 +21,7 @@ system               NN1             3
 your                 APPGE           3 
 to                   II              3 
 see                  VVI             3 
+i                    PPIS1           3 
 are                  VBR             2 
 some                 DD              2 
 our                  APPGE           2 
@@ -146,17 +147,16 @@ jump                 VVI             1
 onto                 II              1 
 next_generation      MD              1 
 storage              NN1             1 
-im                   VV0             1 
+'m                   VBM             1 
 also                 RR              1 
 told                 VVN             1 
 bulk                 VV0             1 
 will                 VM              1 
 significant          JJ              1 
 discount             NN1             1 
-i                    PPIS1           1 
 going_to             VVGK            1 
 top-level            JJ              1 
-id                   NN1             1 
+'d                   VM              1 
 happy                JJ              1 
 give                 VVI             1 
 prestigious          JJ              1 

@@ -1,18 +1,19 @@
-TOTAL              578
-the                  AT             31 
+TOTAL              588
+the                  AT             30 
 of                   IO             20 
 a                    AT1            18 
 to                   TO             17 
 in                   II             15 
 and                  CC             13 
+'s                   GE              8 
 that                 CST             7 
 were                 VBDR            7 
 for                  IF              7 
 on                   II              6 
 said                 VVD             6 
+it                   PPH1            6 
 at                   II              5 
-its                  APPGE           5 
-Nato                 NP1             4 
+Nato                 NP1             5 
 but                  CCB             4 
 Afghanistan          NP1             4 
 with                 IW              4 
@@ -20,12 +21,12 @@ their                APPGE           4
 as                   CSA             4 
 they                 PPHS2           4 
 nuclear              JJ              4 
-it                   PPH1            4 
 dinner               NN1             3 
 leaders              NN2             3 
 danish               JJ              3 
 not                  XX              3 
 is                   VBZ             3 
+its                  APPGE           3 
 to                   II              3 
 group                NN1             3 
 who                  PNQS            3 
@@ -33,7 +34,8 @@ police               NN2             3
 protesters           NN2             3 
 into                 II              3 
 member               NN1             2 
-Turkeys              NP2             2 
+states               NN2             2 
+Turkey               NP1             2 
 secretary_general    NN1             2 
 he                   PPHS1           2 
 would                VM              2 
@@ -60,6 +62,7 @@ Kate_Hudson          NP1             2
 british              JJ              2 
 campaign             NN1             2 
 disarmament          NN1             2 
+'s                   VBZ             2 
 organisation         NN1             2 
 iranians             NN2             2 
 lavish               JJ              1 
@@ -76,9 +79,7 @@ set                  VVI             1
 positive             JJ              1 
 tone                 NN1             1 
 as_soon_as           CS31            1 
-Natos                NP2             1 
 28                   MC              1 
-states               NN2             1 
 sat_down             VVD             1 
 prime_minister       JJ              1 
 Recep_Tayyip_Erdogan NP1             1 
@@ -86,7 +87,7 @@ threatened           VVD             1
 veto                 VVI             1 
 consensus            NN1             1 
 candidate            NN1             1 
-alliances            NN2             1 
+the_alliance         AT              1 
 next                 MD              1 
 prime                JJ              1 
 Ministerh_Anders_Fogh NP1             1 
@@ -94,7 +95,7 @@ Erdogan              NP1             1
 support              VVI             1 
 leader               NN1             1 
 because_of           II21            1 
-Denmarks             NP2             1 
+Denmark              NP1             1 
 failure              NN1             1 
 punish               VVI             1 
 those                DD2             1 
@@ -154,7 +155,7 @@ the_summit           AT              1
 such_as              II21            1 
 troop                NN1             1 
 commitments          NN2             1 
-states               VVZ             1 
+'                    GE              1 
 contributions        NN2             1 
 actions              NN2             1 
 abroad               RL              1 
@@ -172,7 +173,7 @@ Rhine                NP1             1
 River                NNL1            1 
 traditional          JJ              1 
 family               NN1             1 
-portrait             NN1             1 
+portrait'            NN1             1 
 photo                NN1             1 
 came_on              VVD             1 
 heels                NN2             1 
@@ -221,7 +222,7 @@ importance           NN1             1
 trans-atlantic       JJ              1 
 relations            NN2             1 
 saying               VVG             1 
-Europes              NP2             1 
+Europe               NP1             1 
 anti-americanism     NN1             1 
 ignored              VVD             1 
 shared               JJ              1 
@@ -242,7 +243,7 @@ violence             NN1             1
 largely              RR              1 
 unfulfilled          JJ              1 
 following            II              1 
-Thursdays            NPD2            1 
+Thursday             NPD1            1 
 violent              JJ              1 
 clashes              NN2             1 
 anti-nato            JJ              1 
@@ -295,7 +296,7 @@ activists            NN2             1
 as                   RG              1 
 far_away             RR              1 
 Japan                NP1             1 
-worlds               NN2             1 
+world                NN1             1 
 largest              JJT             1 
 arsenals             NN2             1 
 condemn              VV0             1 
@@ -310,12 +311,12 @@ wound_up             VVN             1
 1991                 MC              1 
 chair                NN1             1 
 instead              RR              1 
-expanded             JJ              1 
-changed              JJ              1 
+expanded             VVN             1 
+changed              VVN             1 
 supposedly           RR              1 
 defensive            JJ              1 
 out_of               II21            1 
-area                 NN1             1 
+area'                JJ              1 
 activities           NN2             1 
 across               II              1 
 entire               JJ              1 

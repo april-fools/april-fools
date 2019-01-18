@@ -50,3 +50,9 @@ class Corpus(object):
     def get_testing_indices(self):
         indices = [article.index for article in self.train_articles]
         return indices
+
+    def get_articles(self):
+        for article in self.train_articles:
+            yield article
+        for article in self.test_articles:
+            yield article

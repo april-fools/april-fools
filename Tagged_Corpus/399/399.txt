@@ -1,6 +1,6 @@
 Boeing and Apple will work together to  <quote> "weaponise" </quote>  Apple technology, after the aerospace giant found aluminium-milling techniques developed by Apple to build the MacBook Air's case result in a stronger, more versatile aircraft wings than it is possible to create with its own manufacturing practices.
 
- <quote> “One of my team dropped their MacBook air and its screen shattered,” </quote>  Boeing's head of speculative engineering Rolf Apilo told The Reg.  <quote> “We'd often remarked that the Air looked like the 'trailing edge' of a plane’s wing. That's the rear edge of the wing that, like the MacBook Air, tapers to a thin wedge.” </quote> 
+ <quote> “One of my team dropped their MacBook air and its screen shattered,” </quote>  Boeing's head of speculative engineering Rolf Apilo told The Reg.  <quote> “We'd often remarked that the Air looked like the 'trailing edge' of a plane's wing. That's the rear edge of the wing that, like the MacBook Air, tapers to a thin wedge.” </quote> 
 
  <quote> “Trailing edges must endure tremendous stresses including very high frequency vibration and rapidly changing temperature. So for a joke we decided to test the broken MacBook in one of our vibration units.” </quote> 
 

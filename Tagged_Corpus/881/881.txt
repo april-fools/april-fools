@@ -1,6 +1,6 @@
 The bottom line — as both Pavel Podvig and Hans Kristensen argue — is that the bomber rules are an accounting gimmick and, by extension, that the treaty would not meaningfully cut US strategic nuclear forces.
 
-Despite my respect for both Pavel and Hans, I think their criticism is a little unfair. Although attacking the treaty from the left may help ratification — cue a senior official saying  <quote> “This was a negotiation with the Russians, not the Arms Control Association.” </quote>  The cuts in the Prague Treaty are real, if modest. (And let’s be clear: modest cuts were always the goal.)
+Despite my respect for both Pavel and Hans, I think their criticism is a little unfair. Although attacking the treaty from the left may help ratification — cue a senior official saying  <quote> “This was a negotiation with the Russians, not the Arms Control Association.” </quote>  The cuts in the Prague Treaty are real, if modest. (And let's be clear: modest cuts were always the goal.)
 
 Recall that the treaty imposes three limits, including two on delivery vehicles:
 
@@ -22,15 +22,15 @@ I happen to agree that the White House is wrong to compare the warhead reduction
 
 The only thing the three treaties have in common with each other is that none of them counted actual bomber loadings.
 
-START had completely artificial counting rules for bombers known as discount rules. You will thank me for not summarizing them, but for more than you ever wanted to know, see Kartchner, pp.195-215. To understand how artificial the START rules were, Colin Powell explained to Congress that the United States was moving to  <quote> “6,500 accountable warheads which will result in 9,500 actual warheads.” </quote>  That’s a 3,000 warhead slush fund, thank you very much.
+START had completely artificial counting rules for bombers known as discount rules. You will thank me for not summarizing them, but for more than you ever wanted to know, see Kartchner, pp.195-215. To understand how artificial the START rules were, Colin Powell explained to Congress that the United States was moving to  <quote> “6,500 accountable warheads which will result in 9,500 actual warheads.” </quote>  That's a 3,000 warhead slush fund, thank you very much.
 
-The Moscow Treaty, by comparison, had no formal counting rules. As a result, the US counted warheads  <quote> “stored in weapons storage areas of heavy bomber bases” </quote>  while Russia, as Amyfw noted, did not. That’s hardly an improvement.
+The Moscow Treaty, by comparison, had no formal counting rules. As a result, the US counted warheads  <quote> “stored in weapons storage areas of heavy bomber bases” </quote>  while Russia, as Amyfw noted, did not. That's hardly an improvement.
 
 The Prague Treaty is not so different in this sense. Overall, the Prague Treaty actually moves the United States and Russia much closer to an actual accounting of warheads, rather than the attribution rules under START — at least for ICBMs and SLBMs. That, however, is the subject of a later post, on verification.
 
-Bombers remain difficult to count, since their warheads are in storage and the aircraft are usually training for, or deploying on, conventional missions. Bomber rules are always weird. Kingston Reif makes all the right arguments about why we shouldn’t be too worked up about that fact.
+Bombers remain difficult to count, since their warheads are in storage and the aircraft are usually training for, or deploying on, conventional missions. Bomber rules are always weird. Kingston Reif makes all the right arguments about why we shouldn't be too worked up about that fact.
 
-Fundamentally, I think of bomber loadings as a secondary concern. The main goal is to get stabilizing limits on ICBMs and SLBMs, then use the bomber force to make the math work. It’s not pretty, but if you watched health care reform unfold, you don’t care about the niceties.
+Fundamentally, I think of bomber loadings as a secondary concern. The main goal is to get stabilizing limits on ICBMs and SLBMs, then use the bomber force to make the math work. It's not pretty, but if you watched health care reform unfold, you don't care about the niceties.
 
 Second, focus on the SNDV
 
@@ -60,11 +60,11 @@ The bulk of the reduction in delivery vehicles will come from changes in countin
 
 The Prague Treaty appears to remove these  <quote> “phantom” </quote>  systems in a number of ways. Perhaps most importantly, Russia accepted the principle of conversion of strategic systems to conventional roles.
 
-As a result, with the signing of the Prague Treaty, the total number of strategic nuclear delivery vehicles will, with the stroke of a pen, drop to 881. (Well, maybe not quite with the stroke of a pen — in some cases, the treaty may simply provide for simpler elimination procedures, such as in the case of those empty silos.) As far as I can tell, of the 881 delivery vehicles, about 798 would be considered  <quote> “deployed” </quote>  – excluding two submarines in overhaul at any time (48 tubes) and 35 B2 and B52 aircraft that are not  <quote> “combat coded.” </quote>  (See Marc Schanz’s magisterial post, BUFF Blogging for Arms Control, for an arms-control oriented explanation of the bomber force.)
+As a result, with the signing of the Prague Treaty, the total number of strategic nuclear delivery vehicles will, with the stroke of a pen, drop to 881. (Well, maybe not quite with the stroke of a pen — in some cases, the treaty may simply provide for simpler elimination procedures, such as in the case of those empty silos.) As far as I can tell, of the 881 delivery vehicles, about 798 would be considered  <quote> “deployed” </quote>  – excluding two submarines in overhaul at any time (48 tubes) and 35 B2 and B52 aircraft that are not  <quote> “combat coded.” </quote>  (See Marc Schanz's magisterial post, BUFF Blogging for Arms Control, for an arms-control oriented explanation of the bomber force.)
 
 Even with the new counting rules, by my estimate, the United States would still need to convert or eliminate about 100 delivery systems to reach 700. If I am right about these counting rules, the number of non-deployed warheads (limited to 800) is largely a function of the deployed force, representing heavy bombers that are not combat-coded (for example, training assets) and ballistic missile submarines in overhaul.
 
-Despite worries in some quarters, I don’t expect these cuts to come from the hide of the bomber force. Because ICBMs and SLBMs sum to more than 700 delivery vehicles, the United States will have to either eliminate additional squadrons of Minuteman III missiles or convert additional ballistic missile submarines. The bomber force is, in David Mosher’s turn of phrase, small potatoes.
+Despite worries in some quarters, I don't expect these cuts to come from the hide of the bomber force. Because ICBMs and SLBMs sum to more than 700 delivery vehicles, the United States will have to either eliminate additional squadrons of Minuteman III missiles or convert additional ballistic missile submarines. The bomber force is, in David Mosher's turn of phrase, small potatoes.
 
 It is my understanding that the White House has not yet decided how to achieve any reductions under the Prague Treaty, other than stating that the Holy Triad shall not be desecrated. But Options A-C (in the table above) show three notional force structures that are either compliant or very close with the limit of 700 deployed strategic nuclear delivery vehicles:
 
@@ -74,7 +74,7 @@ It is my understanding that the White House has not yet decided how to achieve a
 
 • Option C converts four additional ballistic missile submarines (96 delivery vehicles)
 
-I don’t know which is best — Option C inflicts the least political pain; Option A preserves the biggest  <quote> “hedge.” </quote>  Option B is middling, which is a kind of virtue.
+I don't know which is best — Option C inflicts the least political pain; Option A preserves the biggest  <quote> “hedge.” </quote>  Option B is middling, which is a kind of virtue.
 
 But all three are real reductions.
 

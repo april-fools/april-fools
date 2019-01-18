@@ -9,7 +9,6 @@ Ang                      NP1     Z99
 Batangas                 NP2     Z99 
 Cheno                    NP1@    Z99 
 co-host                  NN1     Z99 
-couldnt                  VV0     Z99 
 Dyesebel                 NP1     Z99 
 hirap                    NN1     Z99 
 hospitalization          NN1     Z99 
@@ -26,7 +25,7 @@ niya                     NN1     Z99
 Rappler.com              NP1     Z99 
 rumored                  JJ@     Z99 
 Showtime                 NNT1    Z99 
-singer-actress           JJ      Z99 
+singer-actress           NN1     Z99 
 siya                     NN1     Z99 
 siyang                   NN1     Z99 
 tao                      NN1     Z99 

@@ -47,7 +47,8 @@
 0000004 181  ,       ,                        
 0000004 190  NP1     Rockingham               Z2c[i4.2.1 
 0000004 200  NN1     County                   Z2c[i4.2.2 M7 
-0000004 210  NN2     Commonwealths            S5+c 
+0000004 210  NN1     Commonwealth             S5+c 
+0000004 211  GE      's                       Z5 
 0000004 220  NN1     Attorney                 G2.1/S2mf 
 0000004 230  NP1     Marsha                   Z1mf[i5.2.1 Z3c[i5.2.1 
 0000004 240  NP1     Garst                    Z1mf[i5.2.2 Z3c[i5.2.2 
@@ -151,7 +152,8 @@
 0000008 530  VVI     recall                   X2.2+ I3.1-/G1.2 I2.2/T2- K5.2 A6.1+ 
 0000008 540  CST     that                     Z5 Z8 
 0000008 550  AT      the                      Z5 
-0000008 560  NN2     judges                   G2.1/I3.2/S2mf X6/S2mf 
+0000008 560  NN1     judge                    G2.1/I3.2/S2mf X6/S2mf 
+0000008 561  GE      's                       Z5 
 0000008 570  NN1     father                   S4m S9/S2.2m 
 0000008 580  VHD     had                      Z5 A9+ A2.2 S4 
 0000008 590  VVN     died                     L1- T2- 
@@ -242,7 +244,7 @@
 0000013 030  NN1     ID                       X2 
 0000013 040  NN1     fight                    S8- X8+ E3- K5.1 
 0000013 050  CC      and                      Z5 
-0000013 060  JJ      misleading               A5.2- 
+0000013 060  JJ      misleading'              Z99 
 0000013 070  NN2     mailings                 Q1.2 
 0000013 071  ,       ,                        
 0000013 080  VVG     voting                   G1.2 
@@ -283,8 +285,9 @@
 0000015 260  II22    to                       Z5[i24.2.2 Z5 
 0000015 270  AT      the                      Z5 
 0000015 280  NP1     Harrisonburg             Z99 
-0000015 290  NN2     registrars               B3/S2mf P1/S2mf G1.1/S2mf 
-0000015 300  NN1     office                   I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+ 
+0000015 290  NN1     registrar                G1.1/H1c[i25.3.1 B3/S2mf P1/S2mf G1.1/S2mf 
+0000015 291  GE      's                       G1.1/H1c[i25.3.2 Z5 
+0000015 300  NN1     office                   G1.1/H1c[i25.3.3 I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+ 
 0000015 301  .       .                        
 0000015 302  -----   -----                    
 0000015 310  AT      The                      Z5 
@@ -345,21 +348,22 @@
 0000019 090  NN1     voter                    G1.2/S2mf X7+/S2mf 
 0000019 100  NN1     fraud                    G2.1- G2.2- 
 0000019 110  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000019 111  XX      nt                       S9/Q4.1 Z3c 
+0000019 111  XX      n't                      Z6 
 0000019 120  VVI     exist                    A3+ 
 0000019 130  II      in                       Z5 
 0000019 140  NP1     Virginia                 Z2 Z1f 
 0000019 141  ,       ,                        
 0000019 150  CC      or                       Z5 
-0000019 160  APPGE   its                      Z8 
+0000019 160  PPH1    it                       Z8 
+0000019 161  VBZ     's                       A3+ Z5 
 0000019 170  AT1     a                        Z5 
 0000019 180  NN1     myth                     S9/Q2.2 A5.2-/Q2.2 
 0000019 181  ,       ,                        
 0000019 190  NN1     House                    H1 P1/S5+c G1.1c 
 0000019 200  NN1     Speaker                  Q2.1/S2mf G1.1/S2mf O3 
-0000019 210  NP1     William                  Z1mf[i26.3.1 Z3c[i26.3.1 Z1m Z1mf[i25.2.1 Z3c[i25.2.1 
-0000019 220  NP1     J.                       Z1mf[i26.3.2 Z3c[i26.3.2 Z1mf[i25.2.2 Z3c[i25.2.2 Z1mf[i27.2.1 Z3c[i27.2.1 
-0000019 230  NP1     Howell                   Z3c[i26.3.3 Z1mf[i26.3.3 Z1 Z1mf[i27.2.2 Z3c[i27.2.2 
+0000019 210  NP1     William                  Z1mf[i27.3.1 Z3c[i27.3.1 Z1m Z1mf[i26.2.1 Z3c[i26.2.1 
+0000019 220  NP1     J.                       Z1mf[i27.3.2 Z3c[i27.3.2 Z1mf[i26.2.2 Z3c[i26.2.2 Z1mf[i28.2.1 Z3c[i28.2.1 
+0000019 230  NP1     Howell                   Z3c[i27.3.3 Z1mf[i27.3.3 Z1 Z1mf[i28.2.2 Z3c[i28.2.2 
 0000019 231  (       (                        
 0000019 240  NP1     R-Stafford               Z99 
 0000019 241  )       )                        
@@ -372,8 +376,8 @@
 0000019 290  CST     that                     Z5 Z8 
 0000019 300  NN1     voter                    G1.2/S2mf X7+/S2mf 
 0000019 310  NN1     fraud                    G2.1- G2.2- 
-0000019 320  XX      not                      Z5[i28.2.1 Z6 
-0000019 330  RR      only                     Z5[i28.2.2 A14 
+0000019 320  XX      not                      Z5[i29.2.1 Z6 
+0000019 330  RR      only                     Z5[i29.2.2 A14 
 0000019 340  VVZ     exists                   A3+ 
 0000019 350  CCB     but                      Z5 
 0000019 360  VBZ     is                       A3+ Z5 
@@ -393,9 +397,9 @@
 0000021 010  NN1     House                    H1 P1/S5+c G1.1c 
 0000021 020  NN1     Minority                 N5- 
 0000021 030  NN1     Leader                   S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
-0000021 040  NP1     David                    Z1mf[i30.3.1 Z3c[i30.3.1 Z1m Z1mf[i29.2.1 Z3c[i29.2.1 
-0000021 050  NP1     J.                       Z1mf[i30.3.2 Z3c[i30.3.2 Z1mf[i29.2.2 Z3c[i29.2.2 Z1mf[i31.2.1 Z3c[i31.2.1 
-0000021 060  NP1     Toscano                  Z3c[i30.3.3 Z1mf[i30.3.3 Z1mf[i31.2.2 Z3c[i31.2.2 
+0000021 040  NP1     David                    Z1mf[i31.3.1 Z3c[i31.3.1 Z1m Z1mf[i30.2.1 Z3c[i30.2.1 
+0000021 050  NP1     J.                       Z1mf[i31.3.2 Z3c[i31.3.2 Z1mf[i30.2.2 Z3c[i30.2.2 Z1mf[i32.2.1 Z3c[i32.2.1 
+0000021 060  NP1     Toscano                  Z3c[i31.3.3 Z1mf[i31.3.3 Z1mf[i32.2.2 Z3c[i32.2.2 
 0000021 061  (       (                        
 0000021 070  NP1     D-Charlottesville        Z99 
 0000021 071  )       )                        
@@ -409,8 +413,8 @@
 0000021 150  NN1     voter                    G1.2/S2mf X7+/S2mf 
 0000021 160  NN1     fraud                    G2.1- G2.2- 
 0000021 170  CS      because                  Z5/A2.2 
-0000021 180  PN121   no                       Z8/Z6[i32.2.1 
-0000021 190  PN122   one                      Z8/Z6[i32.2.2 Z8 
+0000021 180  PN121   no                       Z8/Z6[i33.2.1 
+0000021 190  PN122   one                      Z8/Z6[i33.2.2 Z8 
 0000021 200  VHD     had                      Z5 A9+ A2.2 S4 
 0000021 210  RR      actually                 A5.4+ A14 
 0000021 220  VVN     managed                  S7.1+ A1.1.1 X9.2+ 
@@ -426,9 +430,9 @@
 0000021 320  JJ      dead                     L1- X5.2- A4.2+ A1.1.2 A1.1.1- E3+ B2- 
 0000021 321  .       .                        
 0000022 001  -----   -----                    
-0000023 010  MD      First                    N4[i33.3.1 N4 
-0000023 020  IO      of                       N4[i33.3.2 Z5 
-0000023 030  DB      all                      N4[i33.3.3 N5.1+ 
+0000023 010  MD      First                    N4[i34.3.1 N4 
+0000023 020  IO      of                       N4[i34.3.2 Z5 
+0000023 030  DB      all                      N4[i34.3.3 N5.1+ 
 0000023 031  ,       ,                        
 0000023 040  EX      there                    Z5 
 0000023 050  VBDZ    was                      A3+ Z5 
@@ -454,7 +458,8 @@
 0000023 175  .       .                        
 0000023 176  ?       ?                        
 0000023 177  .       .                        
-0000023 180  NP1@    Theres                   Z5 M6 T1.2 
+0000023 180  EX      There                    Z5 
+0000023 181  VBZ     's                       A3+ Z5 
 0000023 190  RR      still                    T2++ Z4 E3+ 
 0000023 200  AT      no                       Z6 
 0000023 210  NN1     evidence                 A5.2+ X2.2 G2.1 
@@ -471,19 +476,19 @@
 0000023 300  EX      there                    Z5 
 0000023 310  VBZ     is                       A3+ Z5 
 0000023 320  NN1     evidence                 A5.2+ X2.2 G2.1 
-0000023 330  AT1     every                    N6+[i34.2.1 N5.1+ 
-0000023 340  NNT1    time                     N6+[i34.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000023 330  AT1     every                    N6+[i35.2.1 N5.1+ 
+0000023 340  NNT1    time                     N6+[i35.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000023 350  PPY     you                      Z8mf 
-0000023 360  VV0     turn                     M1[i35.2.1 M2[i35.2.1 A2.1+[i35.2.1 M2 M1 O4.4 A1.1.1 A2.1+ O4.2- 
-0000023 370  RP      around                   M1[i35.2.2 M2[i35.2.2 A2.1+[i35.2.2 M6 
+0000023 360  VV0     turn                     M1[i36.2.1 M2[i36.2.1 A2.1+[i36.2.1 M2 M1 O4.4 A1.1.1 A2.1+ O4.2- 
+0000023 370  RP      around                   M1[i36.2.2 M2[i36.2.2 A2.1+[i36.2.2 M6 
 0000023 380  CST     that                     Z5 Z8 
 0000023 390  AT      the                      Z5 
 0000023 400  NN2     Republicans              G1.2 G1.2/S2mf 
 0000023 410  VBR     are                      Z5 A3+ 
 0000023 420  VVG     trying                   X8+ X2.4 Q2.2 G2.1 A12- 
 0000023 430  TO      to                       Z5 
-0000023 440  VVI     make                     X9.2+[i36.2.1 M1[i36.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
-0000023 450  PPH1    it                       X9.2+[i36.2.2 M1[i36.2.2 Z8 
+0000023 440  VVI     make                     X9.2+[i37.2.1 M1[i37.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000023 450  PPH1    it                       X9.2+[i37.2.2 M1[i37.2.2 Z8 
 0000023 460  RGR     more                     A13.3 
 0000023 470  JJ      difficult                A12- 
 0000023 480  IF      for                      Z5 

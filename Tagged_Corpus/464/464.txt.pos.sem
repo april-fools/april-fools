@@ -30,8 +30,8 @@
 0000002 250  VBZ     is                       A3+ Z5 
 0000002 260  CST     that                     Z8 Z5 
 0000002 270  PPHS1   he                       Z8m 
-0000002 271  VBZ     s                        T1.3 I1.1 Z5 
-0000002 280  JJ      willing                  X7+ X5.2+ 
+0000002 271  VBZ     's                       A3+ Z5 
+0000002 280  JK      willing                  X7+ X5.2+ 
 0000002 290  TO      to                       Z5 
 0000002 300  VBI     be                       A3+ Z5 
 0000002 310  AT      the                      Z5 
@@ -90,7 +90,8 @@
 0000002 770  PN1     everyone                 Z8/N5.1+c 
 0000002 780  VVN     disillusioned            E4.2- 
 0000002 790  IW      with                     Z5 
-0000002 800  NP2     Americas                 Z2 
+0000002 800  NP1     America                  Z2 
+0000002 801  GE      's                       Z5 
 0000002 810  JJ      current                  T1.1.2 
 0000002 820  JJ      political                G1.2 
 0000002 830  NN1     landscape                W3 C1 M6 
@@ -98,7 +99,8 @@
 0000004 010  AT      The                      Z5 
 0000004 020  NN1     Party                    K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c 
 0000004 030  NN1     Party                    K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c 
-0000004 040  VV0     isnt                     Z99 
+0000004 040  VBZ     is                       A3+ Z5 
+0000004 041  XX      n't                      Z6 
 0000004 050  AT1     an                       Z5 
 0000004 060  JJ      official                 G1.1 S7.4+ 
 0000004 070  JJ      political                G1.2 
@@ -129,16 +131,18 @@
 0000004 301  .       .                        
 0000004 302  -----   -----                    
 0000004 310  CCB     But                      Z5 
-0000004 320  APPGE   its                      Z8 
-0000004 330  II21    up                       Z5[i7.2.1 Z5 Z5[i8.2.1 X6+[i8.2.1 
-0000004 340  II22    to                       Z5[i7.2.2 Z5 Z5[i8.2.2 X6+[i8.2.2 
+0000004 320  PPH1    it                       Z8 
+0000004 321  VBZ     's                       A1.1.1[i7.3.1 X9.1+[i7.3.1 A3+ Z5 
+0000004 330  II21    up                       A1.1.1[i7.3.2 X9.1+[i7.3.2 Z5 Z5[i8.2.1 Z5[i9.2.1 X6+[i9.2.1 
+0000004 340  II22    to                       A1.1.1[i7.3.3 X9.1+[i7.3.3 Z5 Z5[i8.2.2 Z5[i9.2.2 X6+[i9.2.2 
 0000004 350  APPGE   his                      Z8m 
 0000004 360  JJ      party-loving             Z99 
 0000004 370  NN2     believers                X2.1/S2mf S9/S2mf 
 0000004 380  TO      to                       Z5 
 0000004 390  VVI     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
-0000004 400  NP1     W.K.s                    Z99 
-0000004 410  VVI     dream                    X2 X2.1 X7++ 
+0000004 400  NP1     W.K.                     Z99 
+0000004 401  GE      's                       Z5 
+0000004 410  NN1     dream                    X4.1 X7+ A5.2- 
 0000004 420  AT1     a                        Z5 
 0000004 430  NN1     reality                  A3+ A5.2+ 
 0000004 431  ,       ,                        
@@ -169,8 +173,9 @@
 0000004 660  JJ      elaborate                O4.1 
 0000004 670  NN1     joke                     E4.1+ S1.2.6- 
 0000004 671  ,       ,                        
-0000004 680  APPGE   its                      Z8 
-0000004 690  JJ@     still                    M8 E3+ O4.5 
+0000004 680  PPH1    it                       Z8 
+0000004 681  VBZ     's                       A3+ Z5 
+0000004 690  RR      still                    T2++ Z4 E3+ 
 0000004 700  JJ      refreshing               B2+ A5.1+/A2.1 
 0000004 710  TO      to                       Z5 
 0000004 720  VVI     imagine                  X2.1 A5.2- 

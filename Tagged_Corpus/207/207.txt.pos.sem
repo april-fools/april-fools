@@ -69,7 +69,8 @@
 0000002 530  PPX221  each                     Z8[i1.2.1 
 0000002 540  PPX222  other                    Z8[i1.2.2 
 0000002 541  ,       ,                        
-0000002 550  VV0     youre                    Z99 
+0000002 550  PPY     you                      Z8mf 
+0000002 551  VBR     're                      A3+ Z5 
 0000002 560  JJ      wrong                    A5.3- A5.1- G2.2- B2- 
 0000002 561  !       !                        
 0000002 562  -----   -----                    
@@ -152,22 +153,25 @@
 0000004 180  NN1     mode                     X4.2 O4.2+ 
 0000004 181  ,       ,                        
 0000004 190  II      including                A1.8+ 
-0000004 200  NP1     George                   Z1m 
-0000004 210  NP2     Washingtons              Z2 Z1mf 
+0000004 200  NP1     George                   Z1mf[i3.2.1 Z3c[i3.2.1 Z1m 
+0000004 210  NP1     Washington               Z1mf[i3.2.2 Z3c[i3.2.2 Z2 Z1mf 
+0000004 211  GE      's                       Z5 
 0000004 220  JJ      Wooden                   O1.1 X5.2- 
 0000004 230  NN1     Tooth                    B1 O2 
 0000004 240  VV0     Chomp                    F1/B1 A1.1.2 X3.2 
 0000004 250  NN1     Attack                   E3- G3 B2- A1.1.2 Q2.2 
 0000004 251  ,       ,                        
-0000004 260  NP2     Cleopatras               Z1f Z1f/T1.1.1 
+0000004 260  NP1     Cleopatra                Z1f Z1f/T1.1.1 
+0000004 261  GE      's                       Z5 
 0000004 270  NN1     Phalanx                  Z99 
 0000004 280  IO      of                       Z5 
 0000004 290  AT      the                      Z5 
 0000004 300  NP1     Leopard                  L2 
 0000004 310  NN1     Army                     G3c N5+ 
 0000004 311  ,       ,                        
-0000004 320  NP1     Genghis                  Z99 
-0000004 330  NP2     Khans                    Z1mf 
+0000004 320  NP1     Genghis                  Z1mf[i4.2.1 Z3c[i4.2.1 
+0000004 330  NNA     Khan                     Z1mf[i4.2.2 Z3c[i4.2.2 Z1mf 
+0000004 331  GE      's                       Z5 
 0000004 340  NN1     Arrow                    G3 O4.4 A5.1+/O2 
 0000004 350  NN1     Shower                   B4 W4 S5+/O4.2-c S1.1.1% 
 0000004 360  II      from                     Z5 
@@ -204,8 +208,8 @@
 0000004 612  -----   -----                    
 0000004 620  JJ      classic                  A4.1 A5.1+ T3+ 
 0000004 630  NN1     fighting                 S8- X8+ E3- G1.2 
-0000004 640  NN1     arcade                   K1[i3.2.1 H1 
-0000004 650  NN1     game                     K1[i3.2.2 K5.1 K5.2 X7+ A1.1.1 L2 F1 
+0000004 640  NN1     arcade                   K1[i5.2.1 H1 
+0000004 650  NN1     game                     K1[i5.2.2 K5.1 K5.2 X7+ A1.1.1 L2 F1 
 0000004 660  VV0     feel                     X2.1 E1 X3 
 0000004 661  NULL    </quote>                 
 0000004 662  -----   -----                    
@@ -217,8 +221,8 @@
 0000005 001  -----   -----                    
 0000006 010  NN1     Civilization             S1.1.1 A5.1+++ O4.2+++ 
 0000006 020  ZZ1     V                        Z5 
-0000006 030  VVZ     comes                    A4.1[i4.2.1 M1[i4.2.1 B1[i4.2.1 N5[i4.2.1 X6+[i4.2.1 X2.1[i4.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
-0000006 040  II      to                       A4.1[i4.2.2 M1[i4.2.2 B1[i4.2.2 N5[i4.2.2 X6+[i4.2.2 X2.1[i4.2.2 Z5 
+0000006 030  VVZ     comes                    A4.1[i6.2.1 M1[i6.2.1 B1[i6.2.1 N5[i6.2.1 X6+[i6.2.1 X2.1[i6.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000006 040  II      to                       A4.1[i6.2.2 M1[i6.2.2 B1[i6.2.2 N5[i6.2.2 X6+[i6.2.2 X2.1[i6.2.2 Z5 
 0000006 050  NN1     PC                       Y2 
 0000006 060  NN1     Fall                     M1 N5-/A2.1 S7.1- L1- A1.8+ G2.2- X9.2- W3/M4 S9 K5 
 0000006 070  MC      2010                     N1 T1.2 T3 T1.3 N3.2 
@@ -237,8 +241,9 @@
 0000008 100  NN1     game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
 0000008 110  NN1     mode                     X4.2 O4.2+ 
 0000008 120  II      in                       Z5 
-0000008 130  NP1     Sid                      Z1mf[i5.2.1 Z3c[i5.2.1 Z1m 
-0000008 140  NP1     Meiers                   Z1mf[i5.2.2 Z3c[i5.2.2 
+0000008 130  NP1     Sid                      Z1mf[i7.2.1 Z3c[i7.2.1 Z1m 
+0000008 140  NP1     Meier                    Z1mf[i7.2.2 Z3c[i7.2.2 
+0000008 141  GE      's                       Z5 
 0000008 150  NN1     Civilization             S1.1.1 A5.1+++ O4.2+++ 
 0000008 160  ZZ1     V                        Z5 
 0000008 161  ,       ,                        
@@ -271,12 +276,12 @@
 0000008 400  VVI     allow                    S7.4+ S8+ X2.1 
 0000008 410  MC      two                      N1 T3 T1.2 
 0000008 420  NN1     world                    W1 S5+c A4.1 N5+ 
-0000008 430  NN2     leaders                  A2.2[i6.2.1 M6[i6.2.1 S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
-0000008 440  TO      to                       A2.2[i6.2.2 M6[i6.2.2 Z5 
+0000008 430  NN2     leaders                  A2.2[i8.2.1 M6[i8.2.1 S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
+0000008 440  TO      to                       A2.2[i8.2.2 M6[i8.2.2 Z5 
 0000008 450  VVI     enter                    M1 S5+ Q1.2 T2+ A1.8+ Y2 
 0000008 460  AT1     a                        Z5 
-0000008 470  NN1     death                    K5.1[i7.2.1 L1- 
-0000008 480  NN1     match                    K5.1[i7.2.2 K5.1 O2 A6.1+ 
+0000008 470  NN1     death                    K5.1[i9.2.1 L1- 
+0000008 480  NN1     match                    K5.1[i9.2.2 K5.1 O2 A6.1+ 
 0000008 490  CC      and                      Z5 
 0000008 500  VVI     fight                    S8- X8+ E3- G1.2 
 0000008 510  II      to                       Z5 
@@ -310,7 +315,8 @@
 0000008 730  NN1     control                  S7.1+ A1.7+ O2 
 0000008 740  IO      of                       Z5 
 0000008 750  AT      the                      Z5 
-0000008 760  NN2     challengers              S7.3+/S2mf 
+0000008 760  NN1     challenger               S7.3+/S2mf 
+0000008 761  GE      's                       Z5 
 0000008 770  NN1     world                    W1 S5+c A4.1 N5+ 
 0000008 780  NN1     empire                   G1.1 I2.1/S+ 
 0000008 781  .       .                        
@@ -319,8 +325,9 @@
 0000010 020  NN1     deluxe                   O4.2++ 
 0000010 030  NN1     edition                  Q4 
 0000010 040  IO      of                       Z5 
-0000010 050  NP1     Sid                      Z1mf[i8.2.1 Z3c[i8.2.1 Z1m 
-0000010 060  NP1     Meiers                   Z1mf[i8.2.2 Z3c[i8.2.2 
+0000010 050  NP1     Sid                      Z1mf[i10.2.1 Z3c[i10.2.1 Z1m 
+0000010 060  NP1     Meier                    Z1mf[i10.2.2 Z3c[i10.2.2 
+0000010 061  GE      's                       Z5 
 0000010 070  NN1     Civilization             S1.1.1 A5.1+++ O4.2+++ 
 0000010 080  ZZ1     V                        Z5 
 0000010 090  VM      will                     T1.1.3 
@@ -334,8 +341,8 @@
 0000010 170  AT      the                      Z5 
 0000010 180  JJ      classic                  A4.1 A5.1+ T3+ 
 0000010 190  NN1     fighting                 S8- X8+ E3- G1.2 
-0000010 200  NN1     arcade                   K1[i9.2.1 H1 
-0000010 210  NN1     game                     K1[i9.2.2 K5.1 K5.2 X7+ A1.1.1 L2 F1 
+0000010 200  NN1     arcade                   K1[i11.2.1 H1 
+0000010 210  NN1     game                     K1[i11.2.2 K5.1 K5.2 X7+ A1.1.1 L2 F1 
 0000010 220  VV0     feel                     X2.1 E1 X3 
 0000010 230  II      to                       Z5 
 0000010 240  DD2     these                    Z5 Z8 
@@ -359,40 +366,45 @@
 0000010 381  ,       ,                        
 0000010 390  VVG@    including                A1.8+ 
 0000010 391  :       :                        
-0000012 010  NP1     George                   Z1m 
-0000012 020  NP2     Washingtons              Z2 Z1mf 
+0000012 010  NP1     George                   Z1mf[i12.2.1 Z3c[i12.2.1 Z1m 
+0000012 020  NP1     Washington               Z1mf[i12.2.2 Z3c[i12.2.2 Z2 Z1mf 
+0000012 021  GE      's                       Z5 
 0000012 030  JJ      Wooden                   O1.1 X5.2- 
 0000012 040  NN1     Tooth                    B1 O2 
 0000012 050  VV0     Chomp                    F1/B1 A1.1.2 X3.2 
-0000012 060  NP1     Attack                   Z1mf[i11.3.1 Z3c[i11.3.1 Z1mf[i10.2.1 Z3c[i10.2.1 
-0000013 010  NP1     Otto                     Z1mf[i11.3.2 Z3c[i11.3.2 Z1mf[i13.3.1 Z3c[i13.3.1 Z1mf[i10.2.2 Z3c[i10.2.2 Z1mf[i12.2.1 Z3c[i12.2.1 
-0000013 020  NP1     von                      Z3c[i11.3.3 Z1mf[i11.3.3 Z1mf[i13.3.2 Z3c[i13.3.2 Z1mf[i15.3.1 Z3c[i15.3.1 Z1mf[i12.2.2 Z3c[i12.2.2 Z1mf[i14.2.1 Z3c[i14.2.1 
-0000013 030  NP1     Bismarcks                Z3c[i13.3.3 Z1mf[i13.3.3 Z1mf[i15.3.2 Z3c[i15.3.2 Z1mf[i14.2.2 Z3c[i14.2.2 Z1mf[i16.2.1 Z3c[i16.2.1 
-0000013 040  NN1     Hurricane                Z3c[i15.3.3 Z1mf[i15.3.3 Z3 Z1mf[i16.2.2 Z3c[i16.2.2 
+0000012 060  NP1     Attack                   Z1mf[i14.3.1 Z3c[i14.3.1 Z1mf[i13.2.1 Z3c[i13.2.1 
+0000013 010  NP1     Otto                     Z1mf[i14.3.2 Z3c[i14.3.2 Z1mf[i16.3.1 Z3c[i16.3.1 Z1mf[i13.2.2 Z3c[i13.2.2 Z1mf[i15.2.1 Z3c[i15.2.1 
+0000013 020  NP1     von                      Z3c[i14.3.3 Z1mf[i14.3.3 Z1mf[i16.3.2 Z3c[i16.3.2 Z1mf[i15.2.2 Z3c[i15.2.2 Z1mf[i17.2.1 Z3c[i17.2.1 
+0000013 030  NP1     Bismarck                 Z3c[i16.3.3 Z1mf[i16.3.3 Z1mf[i17.2.2 Z3c[i17.2.2 
+0000013 031  GE      's                       Z5 
+0000013 040  NN1     Hurricane                Z3 
 0000013 050  NN1     Helmet                   B5 
 0000013 060  NN1     Spike                    Z1m 
 0000013 070  NN1     Attack                   E3- G3 B2- A1.1.2 Q2.2 
-0000014 010  NP2     Cleopatras               Z1f Z1f/T1.1.1 
+0000014 010  NP1     Cleopatra                Z1f Z1f/T1.1.1 
+0000014 011  GE      's                       Z5 
 0000014 020  NN1     Phalanx                  Z99 
 0000014 030  IO      of                       Z5 
 0000014 040  AT      the                      Z5 
-0000014 050  NP1     Leopard                  L2 
-0000014 060  NN1     Army                     G3c N5+ 
-0000015 010  NP1     Genghis                  Z99 
-0000015 020  NP2     Khans                    Z1mf 
+0000014 050  NP1     Leopard                  Z1mf[i19.3.1 Z3c[i19.3.1 Z1mf[i18.2.1 Z3c[i18.2.1 
+0000014 060  NP1     Army                     Z1mf[i19.3.2 Z3c[i19.3.2 Z1mf[i21.3.1 Z3c[i21.3.1 Z1mf[i18.2.2 Z3c[i18.2.2 Z1mf[i20.2.1 Z3c[i20.2.1 
+0000015 010  NP1     Genghis                  Z3c[i19.3.3 Z1mf[i19.3.3 Z1mf[i21.3.2 Z3c[i21.3.2 Z1mf[i20.2.2 Z3c[i20.2.2 Z1mf[i22.2.1 Z3c[i22.2.1 
+0000015 020  NNA     Khan                     Z3c[i21.3.3 Z1mf[i21.3.3 Z1mf Z1mf[i22.2.2 Z3c[i22.2.2 
+0000015 021  GE      's                       Z5 
 0000015 030  NN1     Arrow                    G3 O4.4 A5.1+/O2 
 0000015 040  NN1     Shower                   B4 W4 S5+/O4.2-c S1.1.1% 
 0000015 050  II      from                     Z5 
 0000015 060  AT      the                      Z5 
 0000015 070  JJ      Mongol                   Z99 
-0000015 080  NP1     Bow                      Z1mf[i18.3.1 Z3c[i18.3.1 Z2 Z1mf[i17.2.1 Z3c[i17.2.1 
-0000016 010  NP1     Julius                   Z1mf[i18.3.2 Z3c[i18.3.2 Z1m Z1mf[i17.2.2 Z3c[i17.2.2 Z1mf[i19.2.1 Z3c[i19.2.1 
-0000016 020  NP1     Caesars                  Z3c[i18.3.3 Z1mf[i18.3.3 Z1m/T1.1.1 Z1mf[i19.2.2 Z3c[i19.2.2 
+0000015 080  NP1     Bow                      Z1mf[i24.3.1 Z3c[i24.3.1 Z2 Z1mf[i23.2.1 Z3c[i23.2.1 
+0000016 010  NP1     Julius                   Z1mf[i24.3.2 Z3c[i24.3.2 Z1m Z1mf[i23.2.2 Z3c[i23.2.2 Z1mf[i25.2.1 Z3c[i25.2.1 Z1m/T1.1.1[i26.2.1 
+0000016 020  NP1     Caesar                   Z3c[i24.3.3 Z1mf[i24.3.3 Z1m/T1.1.1 Z1mf[i25.2.2 Z3c[i25.2.2 Z1m/T1.1.1[i26.2.2 
+0000016 021  GE      's                       Z5 
 0000016 030  JJ      Reverse                  A6.1- 
 0000016 040  NN1     Assassination            L1- G2.1- 
-0000018 010  II31    In                       N5++[i20.3.1 Z5 
-0000018 020  II32    addition                 N5++[i20.3.2 
-0000018 030  II33    to                       N5++[i20.3.3 Z5 
+0000018 010  II31    In                       N5++[i27.3.1 Z5 
+0000018 020  II32    addition                 N5++[i27.3.2 
+0000018 030  II33    to                       N5++[i27.3.3 Z5 
 0000018 040  AT      the                      Z5 
 0000018 050  NN1     introduction             T2+ Q4 S1.1.1 
 0000018 060  IO      of                       Z5 
@@ -421,9 +433,10 @@
 0000018 280  NN1     empire                   G1.1 I2.1/S+ 
 0000018 281  ,       ,                        
 0000018 290  JJ      Extreme                  N5.1+++ N5.2+ S1.2.6- A12- N3.3+++ 
-0000018 300  NP1     Diplomacygives           Z1mf[i22.3.1 Z3c[i22.3.1 Z1mf[i21.2.1 Z3c[i21.2.1 
-0000018 310  NP1     Sid                      Z1mf[i22.3.2 Z3c[i22.3.2 Z1m Z1mf[i21.2.2 Z3c[i21.2.2 Z1mf[i23.2.1 Z3c[i23.2.1 
-0000018 320  NP1     Meiers                   Z3c[i22.3.3 Z1mf[i22.3.3 Z1mf[i23.2.2 Z3c[i23.2.2 
+0000018 300  NP1     Diplomacygives           Z1mf[i29.3.1 Z3c[i29.3.1 Z1mf[i28.2.1 Z3c[i28.2.1 
+0000018 310  NP1     Sid                      Z1mf[i29.3.2 Z3c[i29.3.2 Z1m Z1mf[i28.2.2 Z3c[i28.2.2 Z1mf[i30.2.1 Z3c[i30.2.1 
+0000018 320  NP1     Meier                    Z3c[i29.3.3 Z1mf[i29.3.3 Z1mf[i30.2.2 Z3c[i30.2.2 
+0000018 321  GE      's                       Z5 
 0000018 330  NN1     Civilization             S1.1.1 A5.1+++ O4.2+++ 
 0000018 340  ZZ1     V                        Z5 
 0000018 350  NN2     players                  K6/S2mf K5.2/S2mf K2/S2mf S1.1.3+/S2mf K4/S2mf K3 
@@ -431,8 +444,8 @@
 0000018 370  DD1     another                  A6.1- N5++ 
 0000018 380  NN1     way                      X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
 0000018 390  TO      to                       Z5 
-0000018 400  VVI     take                     S7.1+/A2.1[i24.2.1 M2[i24.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
-0000018 410  RP      over                     S7.1+/A2.1[i24.2.2 M2[i24.2.2 T2- M6 
+0000018 400  VVI     take                     S7.1+/A2.1[i31.2.1 M2[i31.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000018 410  RP      over                     S7.1+/A2.1[i31.2.2 M2[i31.2.2 T2- M6 
 0000018 420  NN2     empires                  G1.1 I2.1/S+ 
 0000018 430  CC      and                      Z5 
 0000018 440  VVI     conquer                  X9.2+/S7.3 X9.2+/G3 S7.1+ 

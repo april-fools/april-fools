@@ -1,17 +1,18 @@
-TOTAL              273
+TOTAL              275
 the                  Z5                  14 
 a                    Z5                   8 
 of                   Z5                   5 
 beautifulpeople      Z99                  5 
 he                   Z8                   5 
 to                   Z5                   5 
-for                  Z5                   4 
 in                   Z5                   4 
+Hintze               Z99                  4 
+i                    Z8                   4 
 from                 Z5                   4 
 his                  Z8                   4 
+for                  Z5                   3 
 ugly                 O4.2-                3 
 was                  Z5                   3 
-Hintze               Z99                  3 
 is                   A3+                  3 
 and                  Z5                   3 
 founder              T2+                  2 
@@ -21,10 +22,8 @@ move                 M1                   2
 dating               T3                   2 
 after                Z5                   2 
 said                 Q2.1                 2 
-nt                   S9                   2 
+n't                  Z6                   2 
 that                 Z5                   2 
-im                   Z99                  2 
-i                    Z8                   2 
 shower               B4                   2 
 its                  Z8                   2 
 service              S8+                  2 
@@ -37,6 +36,7 @@ applicants           Q2.2                 2
 who                  Z8                   2 
 career               I3.1                 2 
 with                 Z5                   2 
+'s                   Z5                   2 
 BeautifulPeople.com  Z99                  1 
 Robert_Hintze        Z1                   1 
 been                 Z5                   1 
@@ -76,9 +76,10 @@ makes                A1.1.1               1
 me                   Z8                   1 
 nervous              E6-                  1 
 because              Z5                   1 
-up                   Z5                   1 
+'m_up_for            G2.1-                1 
 vote                 G1.2                 1 
 next                 N4                   1 
+'m                   A3+                  1 
 most                 A13.2                1 
 handsome             O4.2+                1 
 guy                  S2.2                 1 
@@ -114,7 +115,7 @@ wan                  X7+                  1
 na                   Z5                   1 
 marry                S4                   1 
 Harry                Z1                   1 
-s                    T1.3                 1 
+'s                   A3+                  1 
 claims               Q2.2                 1 
 9.5_billion          N1                   1 
 people               S2                   1 
@@ -162,7 +163,6 @@ group                S5+                  1
 work                 I3.1                 1 
 on                   Z5                   1 
 image                O4.1                 1 
-hintzes              Z99                  1 
 musical              K2                   1 
 stalled              M8                   1 
 won                  S7.1+                1 
@@ -178,7 +178,7 @@ other                A6.1-                1
 middle_school        P1                   1 
 kids                 S2                   1 
 rendition            K2                   1 
-Madonnas             Z1                   1 
+Madonna              Z1                   1 
 like                 Z5                   1 
 virgin               Z3                   1 
 apparently           A8                   1 

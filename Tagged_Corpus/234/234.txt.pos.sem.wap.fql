@@ -1,5 +1,5 @@
-TOTAL             1302
-the                  AT            109 
+TOTAL             1311
+the                  AT            108 
 of                   IO             49 
 a                    AT1            32 
 in                   II             27 
@@ -16,6 +16,8 @@ for                  IF             10
 that                 CST            10 
 have                 VH0             9 
 been                 VBN             9 
+Van_Gelder           NP1             9 
+'s                   GE              9 
 they                 PPHS2           8 
 his                  APPGE           8 
 we                   PPIS2           8 
@@ -36,7 +38,8 @@ excavation           NN1             5
 woodland             NN1             5 
 institute            NN1             5 
 grave                NN1             5 
-Van_Gelder           NP1             5 
+'                    GE              5 
+Voorst               NP1             5 
 some                 DD              5 
 will                 VM              5 
 Dr.                  NNB             5 
@@ -56,13 +59,13 @@ trees                NN2             4
 wood                 NN1             4 
 culture              NN1             4 
 Dr._Voorst           NNB             4 
+bonnet               NN1             4 
 this                 DD1             4 
 there                EX              4 
 wooden               JJ              4 
 that                 DD1             4 
 scientific           JJ              4 
 report               NN1             4 
-Van_Gelders          NP1             4 
 Rhine_valley         NP1             3 
 artifacts            NN2             3 
 from                 II              3 
@@ -74,12 +77,10 @@ Rhine                NP1             3
 what                 DDQ             3 
 as                   II              3 
 would                VM              3 
-'                    GE              3 
 project              NN1             3 
 career               NN1             3 
 first                MD              3 
 long                 JJ              3 
-bonnet               NN1             3 
 modern               JJ              3 
 Professor            NNB             3 
 Bonnet               NP1             3 
@@ -87,7 +88,6 @@ not                  XX              3
 must                 VM              3 
 structures           NN2             3 
 nearby               JJ              3 
-Voorst               NP1             3 
 but                  CCB             3 
 never                RR              3 
 german               NN1             2 
@@ -269,7 +269,6 @@ sciences             NN2             1
 research             NN1             1 
 himself              PPX1            1 
 bequeathed           VVD             1 
-Voorsts              NP1             1 
 will                 NN1             1 
 died                 VVD             1 
 in                   RP              1 
@@ -338,7 +337,7 @@ dna                  NN1             1
 reveal               VVI             1 
 clue                 NN1             1 
 as_to                II21            1 
-ladys                NN2             1 
+the_lady             AT              1 
 origin               NN1             1 
 named                VVD             1 
 her                  PPHO1           1 
@@ -398,7 +397,7 @@ race                 NN1             1
 itself               PPX1            1 
 so                   RG              1 
 much                 RR              1 
-nt                   XX              1 
+n't                  XX              1 
 know                 VVI             1 
 nearby               RL              1 
 remarkably           RR              1 
@@ -493,7 +492,6 @@ prestigious          JJ              1
 France               NP1             1 
 stake                VVI             1 
 name                 NN1             1 
-bonnets              NN2             1 
 group                NN1             1 
 in_fact              II              1 
 realized             VVD             1 
@@ -506,7 +504,6 @@ like                 II              1
 black_forest         JJ              1 
 still                RR              1 
 line                 VV0             1 
-'s                   GE              1 
 banks                NN2             1 
 most                 RGT             1 
 propitious           JJ              1 
@@ -524,11 +521,10 @@ comes_to_light       VVZ             1
 skeptics             NN2             1 
 remain               VV0             1 
 though               RR              1 
-voorsts              VVZ             1 
 biggest              JJT             1 
 critic               NN1             1 
 last_years           MD              1 
-Edward_OLeary        NP1             1 
+Edward_O'Leary       NP1             1 
 esteemed             JJ              1 
 senior               JJ              1 
 member               NN1             1 
@@ -544,7 +540,7 @@ known                VVN             1
 conclusions          NN2             1 
 leave                VV0             1 
 gasping              VVG             1 
-oleary               NN1             1 
+O'Leary              NP1             1 
 writes               VVZ             1 
 email                NN1             1 
 penchant             NN1             1 

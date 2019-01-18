@@ -163,6 +163,7 @@
 0000008 270  II      on                       A2.2[i9.2.2 Z5 
 0000008 280  APPGE   our                      Z8 
 0000008 290  NN2     demographers             Z99 
+0000008 291  GE      '                        Z5 
 0000008 300  JJ      scientific               Y1 
 0000008 310  NN1     work                     I3.1 A1.1.1 Q4 K2 C1 
 0000008 320  CC      and                      Z5 
@@ -193,9 +194,10 @@
 0000008 530  NN1     division                 A6.1- N2 G2.1/S5+c G3/S5+c G1.2 K5.2/S5+c 
 0000008 540  II      in                       Z5 
 0000008 550  AT      the                      Z5 
-0000008 560  NN2     citys                    M7c M7/I2.1c 
-0000008 570  VVG     Planning                 X7+ 
-0000008 580  NN1     Department               H2/S5+c X2.2 
+0000008 560  NN1     city                     M7c M7/I2.1c 
+0000008 561  GE      's                       Z5 
+0000008 570  NN1     Planning                 X7+/S5+c[i15.2.1 X7+ 
+0000008 580  NN1     Department               X7+/S5+c[i15.2.2 H2/S5+c X2.2 
 0000008 581  .       .                        
 0000009 001  -----   -----                    
 0000010 010  II      In                       Z5 
@@ -250,13 +252,14 @@
 0000012 040  IW      with                     Z5 
 0000012 050  NN2     increases                N5+/A2.1 
 0000012 060  II      in                       Z5 
-0000012 070  AT1     every                    N5.1+[i15.3.1 N5.1+ 
-0000012 080  JJ      other                    N5.1+[i15.3.2 A6.1- 
-0000012 090  NN1     borough                  N5.1+[i15.3.3 M7c G1.1c 
+0000012 070  AT1     every                    N5.1+[i16.3.1 N5.1+ 
+0000012 080  JJ      other                    N5.1+[i16.3.2 A6.1- 
+0000012 090  NN1     borough                  N5.1+[i16.3.3 M7c G1.1c 
 0000012 091  ,       ,                        
 0000012 100  VVD     boosted                  S8+ 
 0000012 110  AT      the                      Z5 
-0000012 120  NN2     citys                    M7c M7/I2.1c 
+0000012 120  NN1     city                     M7c M7/I2.1c 
+0000012 121  GE      's                       Z5 
 0000012 130  NN1     population               S2/N5c 
 0000012 140  II      by                       Z5 
 0000012 150  MC      69,777                   N1 T1.2 T3 T1.3 N3.2 
@@ -295,15 +298,17 @@
 0000014 251  .       .                        
 0000015 001  -----   -----                    
 0000016 010  AT      The                      Z5 
-0000016 020  NN2     citys                    M7c M7/I2.1c 
+0000016 020  NN1     city                     M7c M7/I2.1c 
+0000016 021  GE      's                       Z5 
 0000016 030  NN2     gains                    X9.2+ I1.1 A9+ 
-0000016 040  VVN     accounted                Q2.2[i16.2.1 A2.2[i16.2.1 N2[i16.2.1 Q2.2 
-0000016 050  IF      for                      Q2.2[i16.2.2 A2.2[i16.2.2 N2[i16.2.2 Z5 
-0000016 060  MC      80                       N5[i17.2.1 N1 T1.2 T3 T1.3 N3.2 
-0000016 070  NNU     percent                  N5[i17.2.2 N5 
+0000016 040  VVN     accounted                Q2.2[i17.2.1 A2.2[i17.2.1 N2[i17.2.1 Q2.2 
+0000016 050  IF      for                      Q2.2[i17.2.2 A2.2[i17.2.2 N2[i17.2.2 Z5 
+0000016 060  MC      80                       N5[i18.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000016 070  NNU     percent                  N5[i18.2.2 N5 
 0000016 080  IO      of                       Z5 
-0000016 090  AT      the                      Z2[i18.2.1 Z5 
-0000016 100  NN2     states                   Z2[i18.2.2 G1.1c O4.1 
+0000016 090  AT      the                      Z5 
+0000016 100  NN1     state                    G1.1c O4.1 
+0000016 101  GE      's                       Z5 
 0000016 110  NN1     growth                   N3.2+/A2.1 A5.1+/A2.1 L3 B2- 
 0000016 111  .       .                        
 0000017 001  -----   -----                    

@@ -1,6 +1,5 @@
 A-list                   NN1     Z99 
 CERN                     NP1     Z99 
-CERNs                    NP2     Z99 
 Collider                 NN1     Z99 
 D:Ream                   FO      Z99 
 eck                      NN1     Z99 

@@ -1,16 +1,17 @@
-TOTAL              702
+TOTAL              713
 the                  AT             51 
 and                  CC             23 
 of                   IO             21 
+shin                 NN1            18 
 in                   II             15 
+MIT                  NP1            15 
 that                 CST            15 
 was                  VBDZ           14 
 death                NN1            13 
-MIT                  NP1            12 
-shin                 NN1            12 
 a                    AT1            12 
+'s                   GE             11 
+settlement           NN1            10 
 to                   TO             10 
-settlement           NN1             9 
 said                 VVD             9 
 an                   AT1             8 
 for                  IF              7 
@@ -20,7 +21,6 @@ parents              NN2             6
 mit                  NN1             6 
 against              II              6 
 agreement            NN1             6 
-shins                NN2             6 
 it                   PPH1            6 
 case                 NN1             5 
 accident             NN1             5 
@@ -76,10 +76,10 @@ hall                 NN1             2
 according_to         II21            2 
 we                   PPIS2           2 
 what                 DDQ             2 
+best                 JJT             2 
+interests            NN2             2 
 are                  VBR             2 
-mits                 NN2             2 
 settle               VVI             2 
-settlements          NN2             2 
 lawyer               NN1             2 
 representing         VVG             2 
 comment              NN1             2 
@@ -111,7 +111,7 @@ sought               VVD             1
 $27.65               NNU             1 
 those                DD2             1 
 Elizabeth_H._shin    NP1             1 
-02                   MC              1 
+'02                  MC              1 
 announced            VVD             1 
 they                 PPHS2           1 
 undisclosed          JJ              1 
@@ -139,8 +139,6 @@ death_certificate    NN1             1
 came                 VVD             1 
 because              CS              1 
 agreed               VVD             1 
-best                 JJT             1 
-interests            NN2             1 
 Chancellor           NNB             1 
 Phillip_L.           NP1             1 
 clay                 NN1             1 
@@ -149,8 +147,6 @@ such                 DA              1
 evident              JJ              1 
 so                   RR              1 
 determined           VVN             1 
-best                 RRT             1 
-interests            VVZ             1 
 Denise               NP1             1 
 brehm                NN1             1 
 news                 NN1             1 
@@ -180,7 +176,6 @@ would                VM              1
 allocate             VVI             1 
 money                NN1             1 
 come_from            VVI             1 
-MITs                 NP2             1 
 insurance            NN1             1 
 paid                 VVN             1 
 tuition              NN1             1 
@@ -202,7 +197,7 @@ spare                VVI             1
 ordeal               NN1             1 
 come                 VVN             1 
 understand           VVI             1 
-daughters            NN2             1 
+daughter             NN1             1 
 new                  JJ              1 
 evidence             NN1             1 
 contributed          VVN             1 
@@ -258,11 +253,12 @@ strongly             RR              1
 prepared             VVN             1 
 defend               VVI             1 
 lawsuits             NN2             1 
+settlements          NN2             1 
 between              II              1 
 Richard_A._Guy       NP1             1 
-99                   MC              1 
+'99                  MC              1 
 Scott_S._Krueger     NP1             1 
-01                   MC              1 
+'01                  MC              1 
 provided_for         VVN             1 
 memorial             NN1             1 
 scholarship          NN1             1 
@@ -292,7 +288,7 @@ claims               NN2             1
 psychiatrists        NN2             1 
 named                VVN             1 
 Julia                NP1             1 
-Carpenter_03         NP1             1 
+Carpenter_'03        NP1             1 
 2003                 MC              1 
 becomes              VVZ             1 
 final                JJ              1 

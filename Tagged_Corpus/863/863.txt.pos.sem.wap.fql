@@ -1,4 +1,4 @@
-TOTAL              293
+TOTAL              295
 the                  AT             22 
 of                   IO             17 
 a                    AT1            10 
@@ -41,7 +41,8 @@ looking_at           VVG             1
 long_term            JJ              1 
 disaster             NN1             1 
 Fukushima_in_Japan   NP1             1 
-theyre               NN1             1 
+they                 PPHS2           1 
+'re                  VBR             1 
 all                  DB              1 
 available            JJ              1 
 public               NN1             1 
@@ -83,6 +84,7 @@ partially            RR              1
 melt                 VV0             1 
 steam                NN1             1 
 reacted              VVD             1 
+'                    GE              1 
 sheath               NN1             1 
 zirconium            NN1             1 
 creating             VVG             1 

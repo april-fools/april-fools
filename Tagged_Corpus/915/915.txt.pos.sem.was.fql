@@ -1,4 +1,4 @@
-TOTAL              814
+TOTAL              830
 the                  Z5                  46 
 in                   Z5                  35 
 to                   Z5                  31 
@@ -10,23 +10,25 @@ said                 Q2.1                14
 prices               I1.3                13 
 on                   Z5                  12 
 food                 F1                  11 
+we                   Z8                  11 
 by                   Z5                   8 
 Philippines          Z2                   7 
 China                Z2                   6 
+India                Z2                   6 
 has                  Z5                   6 
-we                   Z8                   6 
+'s                   Z5                   5 
 for                  Z5                   5 
 will                 T1.1.3               5 
 government           G1.1                 5 
 from                 Z5                   5 
-India                Z2                   4 
 Egypt                Z2                   4 
 contributing         A9-                  4 
 Pakistan             Z2                   4 
+Thailand             Z2                   4 
+world                W1                   4 
 supplies             A9-                  4 
 month                T1.3                 4 
 Friday               T1.3                 4 
-its                  Z8                   4 
 increase             N5+                  4 
 March                T1.3                 4 
 cut                  A1.1.1               3 
@@ -37,7 +39,6 @@ Ivory_Coast          Z2                   3
 anti-hoarding        Z99                  3 
 campaigns            X7+                  3 
 Bangkok              Z2                   3 
-Thailand             Z2                   3 
 pledged              A7+                  3 
 hoarding             A9+                  3 
 record               Q1.2                 3 
@@ -47,12 +48,12 @@ as_much_as           A13.4                3
 farm                 F4                   3 
 people               S2                   3 
 gained               A9+                  3 
+its                  Z8                   3 
 imports              I2.2                 3 
 are                  Z5                   3 
 global               W3                   3 
 this                 M6                   3 
 as                   Z5                   3 
-world                W1                   3 
 had                  Z5                   3 
 February             T1.3                 3 
 high                 N3.7+                3 
@@ -71,18 +72,17 @@ ministry             G1.1                 2
 since                Z5                   2 
 he                   Z8                   2 
 about                A13.4                2 
-well                 A5.1+                2 
 president            G1.1                 2 
 20                   N1                   2 
 year                 T1.3                 2 
 united_nations       Z3                   2 
+'                    Z5                   2 
 agriculture          F4                   2 
 2                    N1                   2 
 April                T1.3                 2 
-were                 Z5                   2 
+'re                  Z5                   2 
 our                  Z8                   2 
 social               S1.1.1               2 
-Indias               Z2                   2 
 minister             G1.1                 2 
 not                  Z6                   2 
 take                 A9+                  2 
@@ -98,6 +98,7 @@ fastest              N3.8+++              2
 pace                 N3.8                 2 
 philippine           Z2                   2 
 an                   Z5                   2 
+have                 Z5                   2 
 bread                F1                   2 
 reports              Q2.2                 2 
 asked                Q2.2                 2 
@@ -105,12 +106,13 @@ secretary            I3.2                 2
 still                T2++                 2 
 was                  Z5                   2 
 thai                 Z2                   2 
+n't                  Z6                   2 
 1.2mt                Z99                  2 
 but                  Z5                   2 
+it                   Z8                   2 
 can                  A7+                  2 
 national             Z3                   2 
 authority            G1.1                 2 
-worlds               W1                   1 
 exporter             I2.2                 1 
 maintain             A9+                  1 
 vowed                Q2.2                 1 
@@ -134,7 +136,6 @@ mt                   Z3                   1
 Prasert_Gosalvitra   Z1                   1 
 head                 B1                   1 
 division             A6.1-                1 
-Thailands            Z2                   1 
 shipped              M2                   1 
 about                Z5                   1 
 1.1mt                Z99                  1 
@@ -155,6 +156,7 @@ pushed_up            N5+                  1
 expect               X2.6+                1 
 significant          A11.1+               1 
 rise                 N5+                  1 
+well                 A5.1+                1 
 above                Z5                   1 
 long-term            T1.3+                1 
 average              A6.2+                1 
@@ -258,7 +260,8 @@ outpaced             N3.8+                1
 metals               O1.1                 1 
 crops                F4                   1 
 standard             A5.1                 1 
-Poors_500            Z2                   1 
+poor                 I1.1-                1 
+500                  N1                   1 
 equities             G2.2+                1 
 22%                  N5                   1 
 over                 Z5                   1 
@@ -286,7 +289,6 @@ too                  N5++                 1
 as                   A13                  1 
 many                 N5+                  1 
 seven                N1                   1 
-have                 Z5                   1 
 died                 L1-                  1 
 exhaustion           B2-                  1 
 or                   Z5                   1 
@@ -329,8 +331,8 @@ supply               A9-                  1
 been                 A3+                  1 
 stable               A2.1-                1 
 prasert              Z99                  1 
-cant                 Q2.1                 1 
-were                 A3+                  1 
+ca                   A7+                  1 
+'re                  A3+                  1 
 ready                O4.1                 1 
 help                 S8+                  1 
 solve                X9.2+                1 
@@ -338,6 +340,7 @@ crisis               A12-                 1
 have_to              S6+                  1 
 sure                 A7+                  1 
 taken_care_of        S8+                  1 
+'s                   A3+                  1 
 possible             A7+                  1 
 ship                 M2                   1 
 3mt                  Z99                  1 
@@ -373,7 +376,6 @@ traders              I2.2                 1
 yap                  X3.2                 1 
 Japan                Z2                   1 
 allow                S7.4+                1 
-it                   Z8                   1 
 draw_from            A1.5.1               1 
 grains               N5-                  1 
 under                Z5                   1 
@@ -385,12 +387,12 @@ Jessup_Navarro       Z1                   1
 administrator        S7.1+                1 
 which                Z8                   1 
 handles              A1.1.1               1 
-Weve                 Z99                  1 
+'ve                  Z5                   1 
 put                  M2                   1 
 request              Q2.1                 1 
-havent               Z99                  1 
 heard                X3.2                 1 
 them                 Z8                   1 
+'ll                  T1.1.3               1 
 whatever             Z8                   1 
 they                 Z8                   1 
 give                 A9-                  1 

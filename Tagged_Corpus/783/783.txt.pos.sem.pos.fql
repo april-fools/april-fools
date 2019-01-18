@@ -1,5 +1,5 @@
-TOTAL         200
-NN1            28 
+TOTAL         203
+NN1            29 
 II             20 
 NP1            16 
 AT             14 
@@ -8,12 +8,13 @@ VVG             7
 APPGE           7 
 JJ              7 
 CC              7 
-NN2             6 
 MC              6 
 VVD             6 
+NN2             5 
 RR              5 
 PPHS1           4 
 VV0             3 
+GE              3 
 FO              3 
 TO              3 
 AT1             3 

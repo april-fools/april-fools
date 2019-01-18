@@ -1,9 +1,9 @@
-TOTAL              994
+TOTAL             1000
 the                  AT             43 
 =                    FO             34 
 of                   IO             24 
+is                   VBZ            21 
 and                  CC             20 
-is                   VBZ            20 
 to                   TO             17 
 in                   II             13 
 that                 CST            13 
@@ -15,19 +15,19 @@ array                NN1            10
 object-oriented      JJ              9 
 apps                 NN2             8 
 they                 PPHS2           8 
-this                 DD1             7 
+you                  PPY             8 
 PHP                  NP1             7 
 with                 IW              7 
 not                  XX              7 
 array-oriented       JJ              7 
 function             NN1             7 
+this                 DD1             6 
 but                  CCB             6 
 its                  APPGE           6 
 can                  VM              6 
 there                EX              6 
 be                   VBI             6 
 are                  VBR             6 
-you                  PPY             6 
 has                  VHZ             5 
 than                 CSN             5 
 some                 DD              5 
@@ -46,6 +46,7 @@ all                  DB              4
 structure            NN1             4 
 as                   II              4 
 simple               JJ              4 
+n't                  XX              4 
 array()              NN1             4 
 if                   CS              4 
 $route               FO              4 
@@ -61,8 +62,8 @@ from                 II              3
 systems              NN2             3 
 existing             JJ              3 
 now                  RT              3 
-so                   RR              3 
 even                 RR              3 
+i                    PPIS1           3 
 /'                   FU              3 
 null                 JJ              3 
 $app&lsqb;'route'&rsqb; FO              3 
@@ -101,6 +102,7 @@ AOP                  NP1             2
 could                VM              2 
 exist                VVI             2 
 does                 VDZ             2 
+so                   RR              2 
 consistent           JJ              2 
 best                 JJT             2 
 any                  DD              2 
@@ -131,9 +133,8 @@ programs             NN2             2
 emulate              VVI             2 
 tradition            NN1             2 
 short                JJ              2 
-nt                   XX              2 
 without              IW              2 
-youre                VV0             2 
+'re                  VBR             2 
 programming          VVG             1 
 come                 VVN             1 
 long_way             JJ              1 
@@ -275,14 +276,14 @@ great                JJ              1
 technical            JJ              1 
 intricacies          NN2             1 
 revolutionary        JJ              1 
-i                    MC1             1 
-wont                 NN1             1 
-bore                 VV0             1 
+so                   CS              1 
+wo                   VM              1 
+bore                 VVI             1 
 by                   II              1 
 driving              VVG             1 
 same                 DA              1 
 points               NN2             1 
-lets                 VVZ             1 
+let_'s               VM21            1 
 take_a_look          VVI             1 
 complete             JJ              1 
 'method'             VV0             1 
@@ -377,15 +378,15 @@ intuitive            JJ              1
 both                 RR              1 
 alike                RR              1 
 at_this_point        II              1 
-id                   NN1             1 
-like                 VV0             1 
+'d                   VM              1 
+like                 VVI             1 
 answer               VVI             1 
 common               JJ              1 
 when                 CS              1 
 first                MD              1 
 stumble              NN1             1 
 upon                 II              1 
-isnt                 VV0             1 
+this                 RG              1 
 overly               RR              1 
 such_a               DA              1 
 thing                NN1             1 
@@ -480,7 +481,7 @@ too                  RG              1
 late                 JJ              1 
 on_board             RL21            1 
 question             NN1             1 
-im                   VV0             1 
+'m                   VBM             1 
 confident            JJ              1 
 once                 CS              1 
 start                VV0             1 

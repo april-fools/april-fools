@@ -1,4 +1,4 @@
-TOTAL              340
+TOTAL              342
 the                  AT             19 
 a                    AT1             9 
 to                   TO              8 
@@ -7,13 +7,13 @@ and                  CC              7
 this                 DD1             7 
 i                    PPIS1           6 
 we                   PPIS2           5 
+that                 CST             5 
 get                  VVI             4 
 Hillary              NP1             4 
 her                  APPGE           4 
 event                NN1             4 
 was                  VBDZ            4 
 crowd                NN1             4 
-that                 CST             4 
 their                APPGE           3 
 for                  IF              3 
 from                 II              3 
@@ -52,6 +52,7 @@ have                 VH0             2
 screenshot           NN1             2 
 Hillary_Clinton      NP1             2 
 venue                NN1             2 
+face                 VVI             2 
 election             NN1             1 
 officially           RR              1 
 over                 RP              1 
@@ -120,7 +121,7 @@ embarrassed          JJ              1
 attend               VV0             1 
 damn                 JJ              1 
 wow                  UH              1 
-thats                NN2             1 
+'s                   VBZ             1 
 but                  CCB             1 
 nonetheless          RR              1 
 salty                JJ              1 
@@ -197,12 +198,11 @@ left                 VVD             1
 person               NN1             1 
 want                 VV0             1 
 elect                VVI             1 
-face                 VVI             1 
 our                  APPGE           1 
 enemies              NN2             1 
 around               II              1 
 world                NN1             1 
-wont                 JJ              1 
-face                 VV0             1 
+wo                   VM              1 
+n't                  XX              1 
 in                   II              1 
 country              NN1             1 

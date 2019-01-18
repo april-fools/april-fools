@@ -212,7 +212,8 @@
 0000028 160  NP1     Spain                    Z2 
 0000028 161  ,       ,                        
 0000028 170  AT      the                      Z5 
-0000028 180  NN2     Frenchmans               Z2/S2.2m M4/Z2mfn 
+0000028 180  NN1     Frenchman                Z2/S2.2m M4/Z2mfn 
+0000028 181  GE      's                       Z5 
 0000028 190  JJ      magnificent              A5.1+ 
 0000028 200  NN1     solo                     S5- Z3m Z1mf 
 0000028 210  NN1     goal                     K5.1 X7+ 
@@ -320,7 +321,8 @@
 0000038 220  JJ      full                     N5.1+ I3.2+ 
 0000038 230  IO      of                       Z5 
 0000038 240  AT      the                      Z5 
-0000038 250  NN2     worlds                   W1 S5+c A4.1 N5+ 
+0000038 250  NN1     world                    W1 S5+c A4.1 N5+ 
+0000038 251  GE      's                       Z5 
 0000038 260  JJT     brightest                O4.3 X9.1+++ 
 0000038 270  NN1     talent                   X9.1+ 
 0000038 271  .       .                        
@@ -436,7 +438,8 @@
 0000052 090  MCMC    4-3                      N1 T1.2 T3 T1.3 N3.2 
 0000052 091  )       )                        
 0000054 010  NP1     George                   Z1mf[i32.2.1 Z3c[i32.2.1 Z1m 
-0000054 020  NP1     Bests                    Z1mf[i32.2.2 Z3c[i32.2.2 
+0000054 020  NP1     Best                     Z1mf[i32.2.2 Z3c[i32.2.2 
+0000054 021  GE      's                       Z5 
 0000054 030  JJ      solitary                 S5- 
 0000054 040  NN1     strike                   I3.1- E3- G3 A10+ K5.1 
 0000054 050  II      at                       Z5 
@@ -496,8 +499,9 @@
 0000058 070  II      in                       Z5 
 0000058 080  AT1     a                        Z5 
 0000058 090  NN1     club                     S5+c O2 
-0000058 100  NN1     whod                     Z99 
-0000058 110  VHD     had                      S6+[i37.2.1 A9+ Z5 A2.2 S4 
+0000058 100  PNQS    who                      Z8 
+0000058 101  VHD     'd                       Z5 
+0000058 110  VHN     had                      S6+[i37.2.1 A9+ Z5 A2.2 S4 
 0000058 120  TO      to                       S6+[i37.2.2 Z5 
 0000058 130  VVI     rebuild                  H1/N6+ A1.1.1/N6+ 
 0000058 140  VVG     following                M1 N4 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 X3.4 
@@ -527,14 +531,15 @@
 0000062 150  AT      the                      Z5 
 0000062 160  NNT1    night                    T1.3 
 0000062 170  IF      for                      Z5 
-0000062 180  NNB     Sir                      Z1m[i39.2.1 
-0000062 190  NP1     Matt                     Z1m[i39.2.2 Z1m 
-0000062 200  NP2     Busbys                   Z99 
+0000062 180  NNB     Sir                      Z1m[i40.3.1 Z1m[i39.2.1 
+0000062 190  NP1     Matt                     Z1m[i40.3.2 Z1m Z1m[i39.2.2 Z1mf[i41.2.1 Z3c[i41.2.1 
+0000062 200  NP1     Busby                    Z1m[i40.3.3 Z1mf[i41.2.2 Z3c[i41.2.2 
+0000062 201  GE      's                       Z5 
 0000062 210  NN2     men                      S2.2m 
 0000062 211  ,       ,                        
 0000062 220  PNQS    who                      Z8 
-0000062 230  VVD     went                     T2++[i40.2.1 M1[i40.2.1 Q2.1/N5+[i40.2.1 A1.1.1[i40.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
-0000062 240  RP      on                       T2++[i40.2.2 M1[i40.2.2 Q2.1/N5+[i40.2.2 A1.1.1[i40.2.2 M6 A1.1.1 
+0000062 230  VVD     went                     T2++[i42.2.1 M1[i42.2.1 Q2.1/N5+[i42.2.1 A1.1.1[i42.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000062 240  RP      on                       T2++[i42.2.2 M1[i42.2.2 Q2.1/N5+[i42.2.2 A1.1.1[i42.2.2 M6 A1.1.1 
 0000062 250  TO      to                       Z5 
 0000062 260  VVI     lift                     M2 A5.1+/A2.1 E4.1+/A2.1 G2.1 
 0000062 270  AT      the                      Z5 
@@ -568,8 +573,8 @@
 0000068 050  RT      BEFORE                   N4 
 0000068 051  ...     ...                      
 0000069 001  -----   -----                    
-0000072 010  NP1@    Dukla                    Z1mf[i41.2.1 Z3c[i41.2.1 
-0000072 020  NP1     Prague                   Z1mf[i41.2.2 Z3c[i41.2.2 Z2 
+0000072 010  NP1@    Dukla                    Z1mf[i43.2.1 Z3c[i43.2.1 
+0000072 020  NP1     Prague                   Z1mf[i43.2.2 Z3c[i43.2.2 Z2 
 0000072 030  MCMC    1-0                      N1 T1.2 T3 T1.3 N3.2 
 0000072 040  NP1     Tottenham                Z2 Z3c 
 0000072 041  (       (                        
@@ -587,7 +592,8 @@
 0000074 050  NP1     Tottenham                Z2 Z3c 
 0000074 060  VVN     dined                    F1 
 0000074 070  II      at                       Z5 
-0000074 080  NP2     Europes                  Z2 
+0000074 080  NP1     Europe                   Z2 
+0000074 081  GE      's                       Z5 
 0000074 090  JJ      top                      M6 N5.1+ A11.1+++ S7.1+++ N4 X9.1+++ A5.1+++ 
 0000074 100  NN1     table                    H5 Q1.2 N2 
 0000074 101  ,       ,                        
@@ -624,8 +630,9 @@
 0000078 071  ,       ,                        
 0000078 080  NN2     thanks                   S1.2.4+ 
 0000078 090  II      to                       Z5 
-0000078 100  NP1     Rudolf                   Z1m Z1/S9 
-0000078 110  NP2     Kuceras                  Z99 
+0000078 100  NP1     Rudolf                   Z1mf[i44.2.1 Z3c[i44.2.1 Z1m Z1/S9 
+0000078 110  NP1     Kucera                   Z1mf[i44.2.2 Z3c[i44.2.2 
+0000078 111  GE      's                       Z5 
 0000078 120  JJ      solitary                 S5- 
 0000078 130  NN1     strike                   I3.1- E3- G3 A10+ K5.1 
 0000078 131  ,       ,                        
@@ -634,26 +641,26 @@
 0000078 160  JJ      meaningless              A11.1-/Q1.1 Q3 X9.2- 
 0000078 170  II      within                   Z5 
 0000078 180  AT1     a                        Z5 
-0000078 190  NN1     quarter                  T1.3[i42.4.1 N1 N5 T1.3 
-0000078 200  IO      of                       T1.3[i42.4.2 Z5 N6+[i43.3.1 T1.2[i43.3.1 
-0000078 210  AT1     an                       T1.3[i42.4.3 Z5 N6+[i43.3.2 T1.2[i43.3.2 
-0000078 220  NNT1    hour                     T1.3[i42.4.4 T1.3 N6+[i43.3.3 T1.2[i43.3.3 
+0000078 190  NN1     quarter                  T1.3[i45.4.1 N1 N5 T1.3 
+0000078 200  IO      of                       T1.3[i45.4.2 Z5 N6+[i46.3.1 T1.2[i46.3.1 
+0000078 210  AT1     an                       T1.3[i45.4.3 Z5 N6+[i46.3.2 T1.2[i46.3.2 
+0000078 220  NNT1    hour                     T1.3[i45.4.4 T1.3 N6+[i46.3.3 T1.2[i46.3.3 
 0000078 230  IO      of                       Z5 
 0000078 240  AT      the                      Z5 
 0000078 250  NN1     return                   M1 A9- S1.1.2+ N6 I1.1 G1.1/Q1.2 M3 K5.1 Y2% 
 0000078 260  II      at                       Z5 
 0000078 270  AT1     a                        Z5 
 0000078 280  JJ      snow-covered             Z99 
-0000078 290  NP1     White                    Z2[i46.3.1 Z1mf Z1mf[i45.3.1 Z3c[i45.3.1 Z1mf[i44.2.1 Z3c[i44.2.1 
-0000078 300  NP1     Hart                     Z2[i46.3.2 Z1mf Z1mf[i45.3.2 Z3c[i45.3.2 Z1mf[i44.2.2 Z3c[i44.2.2 Z2[i47.2.1 Z3c%[i47.2.1 Z1mf[i48.2.1 Z3c[i48.2.1 
-0000078 310  NNL1    Lane                     Z2[i46.3.3 Z1mf Z3c[i45.3.3 Z1mf[i45.3.3 Z2[i47.2.2 Z3c%[i47.2.2 Z1mf[i48.2.2 Z3c[i48.2.2 
+0000078 290  NP1     White                    Z2[i49.3.1 Z1mf Z1mf[i48.3.1 Z3c[i48.3.1 Z1mf[i47.2.1 Z3c[i47.2.1 
+0000078 300  NP1     Hart                     Z2[i49.3.2 Z1mf Z1mf[i48.3.2 Z3c[i48.3.2 Z1mf[i47.2.2 Z3c[i47.2.2 Z2[i50.2.1 Z3c%[i50.2.1 Z1mf[i51.2.1 Z3c[i51.2.1 
+0000078 310  NNL1    Lane                     Z2[i49.3.3 Z1mf Z3c[i48.3.3 Z1mf[i48.3.3 Z2[i50.2.2 Z3c%[i50.2.2 Z1mf[i51.2.2 Z3c[i51.2.2 
 0000078 320  NN1     courtesy                 S1.2.4+ 
 0000078 330  IO      of                       Z5 
-0000078 340  NP1     Bobby                    Z1mf[i49.2.1 Z3c[i49.2.1 Z1m 
-0000078 350  NP1     Smith                    Z1mf[i49.2.2 Z3c[i49.2.2 Z1mf 
+0000078 340  NP1     Bobby                    Z1mf[i52.2.1 Z3c[i52.2.1 Z1m 
+0000078 350  NP1     Smith                    Z1mf[i52.2.2 Z3c[i52.2.2 Z1mf 
 0000078 360  CC      and                      Z5 
-0000078 370  NP1     Dave                     Z1mf[i50.2.1 Z3c[i50.2.1 Z1m 
-0000078 380  NP1     Mackay                   Z1mf[i50.2.2 Z3c[i50.2.2 
+0000078 370  NP1     Dave                     Z1mf[i53.2.1 Z3c[i53.2.1 Z1m 
+0000078 380  NP1     Mackay                   Z1mf[i53.2.2 Z3c[i53.2.2 
 0000078 381  (       (                        
 0000078 390  RR      right                    Z4 A5.3+ A4.2+ M6 A13.3 A13.2 
 0000078 391  )       )                        

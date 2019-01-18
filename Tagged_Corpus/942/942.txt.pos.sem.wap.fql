@@ -1,29 +1,30 @@
-TOTAL              790
+TOTAL              798
 he                   PPHS1          38 
 a                    AT1            28 
 the                  AT             26 
 said                 VVD            24 
 and                  CC             20 
-Mr._Wong             NNB            17 
+Mr._Wong             NNB            18 
+was                  VBDZ           12 
 at                   II             12 
 that                 CST            11 
-was                  VBDZ           11 
 but                  CCB            10 
 him                  PPHO1          10 
 in                   II             10 
+i                    PPIS1          10 
 who                  PNQS            9 
 they                 PPHS2           8 
 had                  VHD             8 
+you                  PPY             8 
 for                  IF              8 
 to                   II              7 
 to                   TO              7 
-you                  PPY             7 
-i                    PPIS1           6 
 his                  APPGE           5 
 about                II              5 
 with                 IW              5 
 that                 DD1             4 
 on                   II              4 
+n't                  XX              4 
 worked               VVD             4 
 Shop-Vac             NP1             4 
 when                 CS              4 
@@ -39,7 +40,9 @@ California           NP1             3
 as                   CSA             3 
 also                 RR              3 
 often                RR              3 
+'s                   GE              3 
 saw                  VVD             3 
+Mr._Quach            NNB             3 
 she                  PPHS1           3 
 continue             VV0             3 
 reading              VVG             3 
@@ -47,8 +50,7 @@ main                 JJ              3
 story                NN1             3 
 her                  APPGE           3 
 husband              NN1             3 
-im                   VV0             3 
-nt                   XX              3 
+'m                   VBM             3 
 job                  NN1             3 
 again                RT              3 
 have                 VHI             3 
@@ -80,7 +82,6 @@ Saturday             NPD1            2
 no                   AT              2 
 say                  VV0             2 
 after                CS              2 
-Mr._Quach            NNB             2 
 gym                  NN1             2 
 money                NN1             2 
 laid_off             VVN             2 
@@ -92,6 +93,7 @@ Ms.                  NNB             2
 Huynh                NP1             2 
 recalled             VVD             2 
 tried                VVD             2 
+'re                  VBR             2 
 will                 VM              2 
 newsletter           NN1             2 
 sign_up              VV0             2 
@@ -117,7 +119,6 @@ speak                VVI             1
 this                 DD1             1 
 behavior             NN1             1 
 part                 NN1             1 
-wasnt                VV0             1 
 total                JJ              1 
 shock                NN1             1 
 sudden               JJ              1 
@@ -159,7 +160,6 @@ Binghamton           NP1             1
 lived_with           VVD             1 
 parents              NN2             1 
 sister               NN1             1 
-Mr._Wongs            NNB             1 
 kind                 NN1             1 
 grew                 VVD             1 
 grapes               NN2             1 
@@ -228,7 +228,6 @@ smiled               VVD             1
 hue                  NN1             1 
 huynh                NN1             1 
 56                   MC              1 
-Mr._Quachs           NNB             1 
 is                   VBZ             1 
 clerk                NN1             1 
 vietnamese           JJ              1 
@@ -243,14 +242,12 @@ find                 VVI             1
 nobody               PN1             1 
 like                 II              1 
 reassure             VVI             1 
-youre                VV0             1 
 still                RR              1 
 young                JJ              1 
 be                   VBI             1 
 okay                 JJ              1 
 get                  VVI             1 
 verify               VV0             1 
-'re                  VBR             1 
 robot                NN1             1 
 clicking             VVG             1 
 box                  NN1             1 
@@ -266,7 +263,6 @@ receive              VVI             1
 occasional           JJ              1 
 updates              NN2             1 
 special_offers       JJ              1 
-'s                   GE              1 
 products             NN2             1 
 services             NN2             1 
 thank_you            VV0             1 
@@ -346,9 +342,9 @@ politicians          NN2             1
 vote                 VVI             1 
 really               RR              1 
 care                 VVI             1 
-id                   NN1             1 
-shoot                VV0             1 
-both                 RR              1 
+'d                   VM              1 
+shoot                VVI             1 
+both                 DB2             1 
 whose                DDQGE           1 
 Donald               NP1             1 
 elder                NN1             1 

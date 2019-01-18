@@ -1,4 +1,4 @@
-TOTAL              453
+TOTAL              456
 the                  Z5                  31 
 a                    Z5                  17 
 in                   Z5                  14 
@@ -11,9 +11,9 @@ movie                Q4.3                 6
 of                   Z5                   6 
 for                  Z5                   6 
 from                 Z5                   6 
+universal            W3                   5 
 that                 Z5                   5 
 estimated            X6                   5 
-universal            W3                   4 
 with                 Z5                   4 
 weekend              T1.3                 3 
 box_office           K4                   3 
@@ -44,11 +44,13 @@ on                   Z5                   2
 audiences            K1                   2 
 were                 A3+                  2 
 original             T3-                  2 
+i                    Z8                   2 
 team                 S5+                  2 
 said                 Q2.1                 2 
 ticket               Q1.2                 2 
 sales                I2.2                 2 
-studios              C1                   2 
+studio               C1                   2 
+'s                   Z5                   2 
 experts              X2.2+                2 
 over                 Z5                   2 
 according_to         Z5                   2 
@@ -127,7 +129,7 @@ fourth               N4                   1
 bring                M2                   1 
 their                Z8                   1 
 kids                 S2                   1 
-im                   Z99                  1 
+'m                   A3+                  1 
 euphoric             E4.1+                1 
 our                  Z8                   1 
 production           A1.1.1               1 
@@ -174,7 +176,7 @@ heroin-importing     Z99                  1
 operation            A1.1.1               1 
 Mexico               Z2                   1 
 Los_Angeles          Z2                   1 
-universals           W3                   1 
+'s                   A3+                  1 
 creative             X2.1                 1 
 is                   Z5                   1 
 starting             T2+                  1 
@@ -187,7 +189,6 @@ industry             I4                   1
 feel                 X2.1                 1 
 burned_out           O4.6-                1 
 last_summer          T1.1.1               1 
-studio               C1                   1 
 turned               M2                   1 
 hellboy              Z99                  1 
 ii                   N1                   1 
@@ -224,8 +225,7 @@ attendance           S1.1.3+              1
 is_up                T2-                  1 
 13                   T3                   1 
 percent              N5                   1 
-last                 N4                   1 
-weekends             T1.3                 1 
+last_weekend         T1.1.1               1 
 top                  M6                   1 
 monsters             L2                   1 
 vs                   F2                   1 
@@ -252,11 +252,11 @@ summit               W3                   1
 $8.1_million         Z99                  1 
 $58.2_million        Z99                  1 
 buddy                S3.1                 1 
-i                    Z8                   1 
 love                 E2+                  1 
 you                  Z8                   1 
 man                  S2.2                 1 
 Paramount            A11.1+++             1 
+studios              C1                   1 
 $7.9_million         Z99                  1 
 $49.3_million        Z99                  1 
 only                 A14                  1 

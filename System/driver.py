@@ -25,7 +25,8 @@ STD_SCAL = StandardScaler()
 MMx_SCAL = MinMaxScaler(feature_range=(0, 1))
 ROB_SCAL = RobustScaler(quantile_range=(25, 75))
 
-create_crossval_table(LogisticRegression())
+# create_crossval_table(LogisticRegression())
+train_classify(['bop'], classifier=LogisticRegression(), confusion=True)
 
 # # Do an untuned SVC
 # train_classify(["fake_news_bag"], SVC(kernel='linear'))

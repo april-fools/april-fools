@@ -1,13 +1,14 @@
-TOTAL              579
+TOTAL              586
 the                  Z5                  54 
 of                   Z5                  14 
+apple                Z3                  13 
 will                 T1.1.3              13 
-apple                Z3                  11 
 ipad                 Z99                 11 
 and                  Z5                   9 
 mac                  Z1                   9 
 a                    Z5                   9 
 to                   Z5                   9 
+we                   Z8                   9 
 in                   Z5                   8 
 has                  Z5                   8 
 with                 Z5                   7 
@@ -15,11 +16,10 @@ by                   Z5                   6
 that                 Z5                   6 
 is                   A3+                  6 
 for                  Z5                   6 
-we                   Z8                   6 
 release              A1.7-                6 
-its                  Z8                   5 
 that                 Z8                   5 
 from                 Z5                   4 
+its                  Z8                   4 
 this                 Z8                   4 
 as                   Z5                   4 
 be                   Z5                   4 
@@ -28,6 +28,7 @@ been                 A3+                  4
 this                 M6                   4 
 since                Z5                   3 
 announcement         Q2.2                 3 
+it                   Z8                   3 
 business             I2.1                 3 
 huge                 N3.2+++              3 
 demand               Q2.2                 3 
@@ -36,13 +37,13 @@ which                Z8                   3
 iphone               Z99                  3 
 says                 Q2.1                 3 
 jobs                 I3.1                 3 
+'s                   Z5                   3 
 sold                 I2.2                 3 
 not                  Z6                   3 
 OS                   Z5                   3 
 was                  Z5                   2 
 two                  N1                   2 
 years                T1.3                 2 
-it                   Z8                   2 
 following            M1                   2 
 success              X9.2+                2 
 around               Z5                   2 
@@ -55,12 +56,11 @@ see                  X3.4                 2
 can                  A7+                  2 
 be                   A3+                  2 
 big                  N3.2+                2 
-nt                   S9                   2 
+n't                  Z6                   2 
 already              T1.1.1               2 
 launch               M4                   2 
 he                   Z8                   2 
 adds                 N5+                  2 
-apples               L3                   2 
 1984                 N1                   2 
 while                Z5                   2 
 still                T2++                 2 
@@ -141,7 +141,7 @@ but                  Z5                   1
 even                 A13.1                1 
 did                  Z5                   1 
 expect               X2.6+                1 
-weve                 Z99                  1 
+'ve                  A9+                  1 
 pre-sold             I2.2                 1 
 two_million          N1                   1 
 units                S5+                  1 
@@ -196,7 +196,7 @@ computing            Y2                   1
 forever              T2+++                1 
 touch                X3.3                 1 
 future               T1.1.3               1 
-were                 A3+                  1 
+'re                  A3+                  1 
 there                M6                   1 
 best                 A5.1+++              1 
 could                A7+                  1 
@@ -209,6 +209,7 @@ recent               T3-                  1
 history              T1.1.1               1 
 picked_up            M2                   1 
 sites                M7                   1 
+'s                   A3+                  1 
 likely               A7+                  1 
 coincidental         A1.4                 1 
 decided              X6+                  1 
@@ -216,7 +217,7 @@ announce             Q2.2                 1
 before               Z5                   1 
 such                 Z5                   1 
 coverage             Q4                   1 
-weekends             T1.3                 1 
+weekend              T1.3                 1 
 events               A3+                  1 
 radars               O3                   1 
 have                 Z5                   1 
@@ -256,7 +257,7 @@ elements             A4.1                 1
 tradition            S1.1.1               1 
 through_to           Z5                   1 
 mobile               M1                   1 
-iplatform            Z99                  1 
+iplatform'           Z99                  1 
 apple                L3                   1 
 Australia            Z2                   1 
 published            Q4                   1 
@@ -297,7 +298,7 @@ had                  A9+                  1
 long                 N3.7+                1 
 life                 L1+                  1 
 left                 M1                   1 
-were                 Z5                   1 
+'re                  Z5                   1 
 disappointed         E4.2-                1 
 again                N6+                  1 
 overlooked           M6                   1 

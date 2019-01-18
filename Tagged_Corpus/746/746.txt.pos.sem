@@ -186,7 +186,8 @@
 0000004 210  NN1     spectrum                 A6.3+ O4.3 Y1 
 0000004 211  .       .                        
 0000004 212  -----   -----                    
-0000004 220  NP1@    Belas                    Z99 
+0000004 220  NP1@    Bela                     Z99 
+0000004 221  GE      's                       Z5 
 0000004 230  NN2     grandparents             S4/S2mf 
 0000004 231  ,       ,                        
 0000004 240  PNQS    who                      Z8 
@@ -276,8 +277,9 @@
 0000004 890  APPGE   my                       Z8 
 0000004 900  NN1     house                    H1 P1/S5+c G1.1c 
 0000004 901  ?       ?                        
-0000004 902  NULL    </quote>                 
-0000004 903  -----   -----                    
+0000004 902  "@      '                        
+0000004 903  NULL    </quote>                 
+0000004 904  -----   -----                    
 0000004 910  PPHS1   he                       Z8m 
 0000004 920  VVD     asked                    Q2.2 
 0000004 930  MC1     one                      N1 T3 T1.2 
@@ -445,7 +447,8 @@
 0000010 050  AT      the                      Z5 
 0000010 060  NN1     midst                    M6 N4 T1.2 
 0000010 070  IO      of                       Z5 
-0000010 080  NP2     Americas                 Z2 
+0000010 080  NP1     America                  Z2 
+0000010 081  GE      's                       Z5 
 0000010 090  JJ      brief                    T1.3- N3.7-% 
 0000010 100  NN1     war                      G3 S7.3 
 0000010 110  IW      with                     Z5 
@@ -561,7 +564,7 @@
 0000010 050  AT      The                      Z5 
 0000010 060  NN1     fever                    B2- X5.2+ 
 0000010 070  IO      of                       Z5 
-0000010 080  MC      98                       N1 T1.2 T3 T1.3 N3.2 
+0000010 080  MC      '98                      N1 T1.2 T3 T1.3 N3.2 
 0000010 081  ,       ,                        
 0000010 090  VVN     fueled                   A1.1.1 A2.2 
 0000010 100  II      by                       Z5 
@@ -762,7 +765,7 @@
 0000012 300  VVD     waved                    Q1.1 M2 M1 B4 
 0000012 310  AT      the                      Z5 
 0000012 320  NN1     flag                     Q1.1 O2/H1 
-0000012 330  VV0     til                      Z5 
+0000012 330  VV0     'til                     Z5 
 0000012 340  PPH1    it                       Z8 
 0000012 350  VVD     hurt                     B2- E4.1- A1.1.2 
 0000012 351  .       .                        
@@ -934,7 +937,8 @@
 0000016 790  II      to                       Z5 
 0000016 800  AT      the                      Z5 
 0000016 810  NP1     U.S.                     Z8 
-0000016 820  NN2     governments              G1.1c 
+0000016 820  NN1     government               G1.1c 
+0000016 821  GE      's                       Z5 
 0000016 830  NN1     decision                 X6+ 
 0000016 840  TO      to                       Z5 
 0000016 850  VVI     tighten                  A1.7+/A2.1 
@@ -1002,7 +1006,8 @@
 0000018 430  MC      two                      N1 T3 T1.2 
 0000018 431  .       .                        
 0000018 432  -----   -----                    
-0000018 440  NP1@    Cahans                   Z99 
+0000018 440  NP1@    Cahan                    Z99 
+0000018 441  GE      's                       Z5 
 0000018 450  NN1     plea                     Q2.2 
 0000018 460  IF      for                      Z5 
 0000018 470  APPGE   their                    Z8 
@@ -1078,7 +1083,8 @@
 0000018 110  NP1     Sandler                  Z1mf[i57.2.2 Z3c[i57.2.2 
 0000018 120  IW      with                     Z5 
 0000018 130  AT1     an                       Z5 
-0000018 140  NN2     albums                   K2 Q4.1 
+0000018 140  NN1     album                    K2 Q4.1 
+0000018 141  GE      's                       Z5 
 0000018 150  NN1@    worth                    I1.3 N5 A1.5.2+ S1.1.4+ 
 0000018 160  IO      of                       Z5 
 0000018 170  NN1     material                 O1 B5 O2 X2.2 S1.2 
@@ -1099,10 +1105,11 @@
 0000018 310  JJ      Slavic                   Z99 
 0000018 320  FU      dish/and                 Z99 
 0000018 330  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000018 331  XX      nt                       S9/Q4.1 Z3c 
+0000018 331  XX      n't                      Z6 
 0000018 340  VVI     forget                   X2.2- 
 0000018 350  JJ      Sly                      A10- 
-0000018 360  NN2     Stallones                Z1mf 
+0000018 360  NN1     Stallone                 Z1mf 
+0000018 361  GE      's                       Z5 
 0000018 370  NN1     mama                     S4f 
 0000018 371  ,       ,                        
 0000018 380  VVN     born                     B1 
@@ -1247,11 +1254,12 @@
 0000022 600  JJ      popular                  E2+ S5+ 
 0000022 610  NN2     entertainments           K1 
 0000022 620  II      like                     Z5 
-0000022 630  NP1     Pawnee                   Z99 
-0000022 640  NN2     Bills                    I1.3 G1.1 Q1.2 L2 
+0000022 630  NP1     Pawnee                   Z1mf[i67.2.1 Z3c[i67.2.1 
+0000022 640  NP1     Bill                     Z1mf[i67.2.2 Z3c[i67.2.2 
+0000022 641  GE      's                       Z5 
 0000022 650  JJ      Great                    A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3 
-0000022 660  JJ      Far                      Z2[i67.2.1 N3.3+ 
-0000022 670  ND1     East                     Z2[i67.2.2 M6 
+0000022 660  JJ      Far                      Z2[i68.2.1 N3.3+ 
+0000022 670  ND1     East                     Z2[i68.2.2 M6 
 0000022 680  NN1     Show                     A8 K4 S1.1.1 I2.2/S1.1.1 
 0000022 690  VVD     featured                 A10+ 
 0000022 700  JJ@     costumed                 Z99 
@@ -1260,10 +1268,11 @@
 0000022 720  JJ      Russian-speaking         Z99 
 0000022 730  NN2     Jews                     S9/S2mf 
 0000022 740  II      from                     Z5 
-0000022 750  NP2     Manhattans               Z2 F2 
-0000022 760  VV0@    Lower                    M2 N5-/A2.1 S7.1-/A2.1 A11.1-/A2.1 X3.2-/A2.1 
-0000022 770  ND1     East                     M7[i68.2.1 M6 
-0000022 780  NN1     Side                     M7[i68.2.2 A4.1 M6 N5.1- S7.3+/S5+c B1 S5+c S4c F1 S1.2 
+0000022 750  NP1     Manhattan                Z2 F2 
+0000022 751  VBZ     's                       A3+ Z5 
+0000022 760  RRR@    Lower                    N3.7-- X3.2-- 
+0000022 770  ND1     East                     M7[i69.2.1 M6 
+0000022 780  NN1     Side                     M7[i69.2.2 A4.1 M6 N5.1- S7.3+/S5+c B1 S5+c S4c F1 S1.2 
 0000022 790  CC      and                      Z5 
 0000022 800  AT      the                      Z5 
 0000022 810  NP1     Brownsville              Z99 
@@ -1281,8 +1290,8 @@
 0000022 930  IO      of                       Z5 
 0000022 940  NP1     Brooklyn                 Z99 
 0000022 941  ,       ,                        
-0000022 950  VVG     setting                  T2+[i69.2.1 S7.1+[i69.2.1 O2[i69.2.1 A1.1.1[i69.2.1 M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3 
-0000022 960  RP      up                       T2+[i69.2.2 S7.1+[i69.2.2 O2[i69.2.2 A1.1.1[i69.2.2 
+0000022 950  VVG     setting                  T2+[i70.2.1 S7.1+[i70.2.1 O2[i70.2.1 A1.1.1[i70.2.1 M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3 
+0000022 960  RP      up                       T2+[i70.2.2 S7.1+[i70.2.2 O2[i70.2.2 A1.1.1[i70.2.2 
 0000022 970  JJ      left-leaning             Z99 
 0000022 980  JJ      political                G1.2 
 0000022 990  NN2     groups                   S5+ A4.1 B3% 
@@ -1294,10 +1303,10 @@
 0000022 050  II      in                       Z5 
 0000022 060  AT      the                      Z5 
 0000022 070  JJ      old                      T3+ Z4 
-0000022 080  NP1     Brighton                 Z2[i70.2.1 Z2 
-0000022 090  NN1     Beach                    Z2[i70.2.2 W3/M4 
-0000022 100  NN1     Music                    K2/K4[i71.2.1 K2 
-0000022 110  NN1     Hall                     K2/K4[i71.2.2 H2 H1 S9/H1c 
+0000022 080  NP1     Brighton                 Z2[i71.2.1 Z2 
+0000022 090  NN1     Beach                    Z2[i71.2.2 W3/M4 
+0000022 100  NN1     Music                    K2/K4[i72.2.1 K2 
+0000022 110  NN1     Hall                     K2/K4[i72.2.2 H2 H1 S9/H1c 
 0000022 111  .       .                        
 0000023 001  -----   -----                    
 0000024 010  IF      For                      Z5 
@@ -1311,13 +1320,13 @@
 0000024 080  NN2     Jews                     S9/S2mf 
 0000024 090  PNQS    who                      Z8 
 0000024 100  VVD     resettled                H4/N6+ 
-0000024 110  NP1     Brighton                 Z2[i72.2.1 Z2 
-0000024 120  NN1     Beach                    Z2[i72.2.2 W3/M4 
+0000024 110  NP1     Brighton                 Z2[i73.2.1 Z2 
+0000024 120  NN1     Beach                    Z2[i73.2.2 W3/M4 
 0000024 130  II      during                   Z5 
 0000024 140  AT      the                      Z5 
 0000024 150  MC2     1980s                    T1.3 N1 T3 
 0000024 160  CC      and                      Z5 
-0000024 170  MC2     90s                      T1.3 N1 T3 
+0000024 170  MC2     '90s                     T1.3 N1 T3 
 0000024 180  VVD     viewed                   X2.1 X3.4 X2.4 
 0000024 190  AT      the                      Z5 
 0000024 200  NN1     world                    W1 S5+c A4.1 N5+ 
@@ -1329,8 +1338,8 @@
 0000024 260  II      from                     Z5 
 0000024 270  AT      the                      Z5 
 0000024 280  RRR@    Lower                    N3.7-- X3.2-- 
-0000024 290  ND1     East                     M7[i73.2.1 M6 
-0000024 300  NN1     Side                     M7[i73.2.2 A4.1 M6 N5.1- S7.3+/S5+c B1 S5+c S4c F1 S1.2 
+0000024 290  ND1     East                     M7[i74.2.1 M6 
+0000024 300  NN1     Side                     M7[i74.2.2 A4.1 M6 N5.1- S7.3+/S5+c B1 S5+c S4c F1 S1.2 
 0000024 301  .       .                        
 0000024 302  -----   -----                    
 0000024 310  II@     Unlike                   Z5 
@@ -1367,12 +1376,12 @@
 0000024 610  VVN     ran                      M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4 
 0000024 620  II      from                     Z5 
 0000024 630  AT      the                      Z5 
-0000024 640  NP1     Baltic                   Z2[i74.2.1 
-0000024 650  NNL1    Sea                      Z2[i74.2.2 W3/M4 
+0000024 640  NP1     Baltic                   Z2[i75.2.1 
+0000024 650  NNL1    Sea                      Z2[i75.2.2 W3/M4 
 0000024 660  II      to                       Z5 
 0000024 670  AT      the                      Z5 
-0000024 680  NP1     Black                    Z2[i75.2.1 
-0000024 690  NNL1    Sea                      Z2[i75.2.2 W3/M4 
+0000024 680  NP1     Black                    Z2[i76.2.1 
+0000024 690  NNL1    Sea                      Z2[i76.2.2 W3/M4 
 0000024 691  ,       ,                        
 0000024 700  JJ      Soviet                   Z2 
 0000024 710  NN2     Jews                     S9/S2mf 
@@ -1402,19 +1411,19 @@
 0000024 930  NN2     Jews                     S9/S2mf 
 0000024 940  VBDZ    was                      A3+ Z5 
 0000024 950  XX      not                      Z6 
-0000024 960  NP1     Karl                     Z1mf[i76.2.1 Z3c[i76.2.1 Z1m 
-0000024 970  NP1     Marx                     Z1mf[i76.2.2 Z3c[i76.2.2 Z1mf 
+0000024 960  NP1     Karl                     Z1mf[i77.2.1 Z3c[i77.2.1 Z1m 
+0000024 970  NP1     Marx                     Z1mf[i77.2.2 Z3c[i77.2.2 Z1mf 
 0000024 980  CCB     but                      Z5 
-0000024 990  NP1     Ronald                   Z1mf[i77.2.1 Z3c[i77.2.1 Z1m 
-0000024 000  NP1     Reagan                   Z1mf[i77.2.2 Z3c[i77.2.2 Z1mf 
+0000024 990  NP1     Ronald                   Z1mf[i78.2.1 Z3c[i78.2.1 Z1m 
+0000024 000  NP1     Reagan                   Z1mf[i78.2.2 Z3c[i78.2.2 Z1mf 
 0000024 001  .       .                        
 0000026 001  NULL    <quote>                  
 0000026 002  -----   -----                    
 0000026 010  DA2     Many                     N5+ 
 0000026 020  JJ      Russian                  Z2 
 0000026 030  NN2     Jews                     S9/S2mf 
-0000026 040  VVD     came                     A1.1.1[i78.2.1 B1[i78.2.1 M1[i78.2.1 A2.1+[i78.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
-0000026 050  II      around                   A1.1.1[i78.2.2 B1[i78.2.2 M1[i78.2.2 A2.1+[i78.2.2 Z5 
+0000026 040  VVD     came                     A1.1.1[i79.2.1 B1[i79.2.1 M1[i79.2.1 A2.1+[i79.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000026 050  II      around                   A1.1.1[i79.2.2 B1[i79.2.2 M1[i79.2.2 A2.1+[i79.2.2 Z5 
 0000026 060  AT      the                      Z5 
 0000026 070  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000026 080  IO      of                       Z5 
@@ -1439,8 +1448,8 @@
 0000026 252  NULL    </quote>                 
 0000026 253  -----   -----                    
 0000026 260  VVZ     says                     Q2.1 
-0000026 270  NP1     Igor                     Z1mf[i79.2.1 Z3c[i79.2.1 
-0000026 280  NP1     Branovan                 Z1mf[i79.2.2 Z3c[i79.2.2 
+0000026 270  NP1     Igor                     Z1mf[i80.2.1 Z3c[i80.2.1 
+0000026 280  NP1     Branovan                 Z1mf[i80.2.2 Z3c[i80.2.2 
 0000026 281  ,       ,                        
 0000026 290  NN1     president                G1.1/S7.1+/S2mf 
 0000026 300  IO      of                       Z5 
@@ -1473,8 +1482,8 @@
 0000026 540  JJ      likely                   A7+ A1.2+ 
 0000026 550  TO      to                       Z5 
 0000026 560  VVI     stand                    M6 M2 M8 M1 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2.2 S1.2.5+ 
-0000026 570  II21    up                       Z5[i80.2.1 Z5 Z5[i81.2.1 X6+[i81.2.1 
-0000026 580  II22    to                       Z5[i80.2.2 Z5 Z5[i81.2.2 X6+[i81.2.2 
+0000026 570  II21    up                       Z5[i81.2.1 Z5 Z5[i82.2.1 X6+[i82.2.1 
+0000026 580  II22    to                       Z5[i81.2.2 Z5 Z5[i82.2.2 X6+[i82.2.2 
 0000026 590  NN1     tyranny                  S7.1+ A1.7+ E3- 
 0000026 600  CSN     than                     Z5 
 0000026 610  AT      the                      Z5 
@@ -1485,7 +1494,8 @@
 0000028 010  DD1     This                     M6 Z5 Z8 
 0000028 020  NN1     gratitude                S1.2.4+ E4.2+ 
 0000028 030  IF      for                      Z5 
-0000028 040  NP2     Reagans                  Z1mf 
+0000028 040  NP1     Reagan                   Z1mf 
+0000028 041  GE      's                       Z5 
 0000028 050  JJ      aggressive               E3- 
 0000028 060  JJ      foreign                  M7 
 0000028 070  NN1     policy                   X7+ Q1.2 
@@ -1513,8 +1523,8 @@
 0000028 271  .       .                        
 0000028 272  NULL    <quote>                  
 0000028 273  -----   -----                    
-0000028 280  II21    Because                  A2.2[i82.2.1 
-0000028 290  II22    of                       A2.2[i82.2.2 
+0000028 280  II21    Because                  A2.2[i83.2.1 
+0000028 290  II22    of                       A2.2[i83.2.2 
 0000028 300  AT      the                      Z5 
 0000028 310  JJ      Soviet                   Z2 
 0000028 320  NN1     experience               X2.2+ X9.1+ I3.2 A2.1+/A3+ X3 
@@ -1568,11 +1578,11 @@
 0000030 030  VBDZ    was                      A3+ Z5 
 0000030 040  AT1     a                        Z5 
 0000030 050  NN1     kid                      S2mf/T3- S4mf L2 
-0000030 060  VVG     coming                   A1.1.1[i84.2.1 M1[i84.2.1 T1.1.3[i84.2.1 A13.4[i84.2.1 P1%[i84.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 M1[i83.2.1 T2+[i83.2.1 S3.2[i83.2.1 
-0000030 070  RP      up                       M1[i84.2.2 T1.1.3[i84.2.2 A13.4[i84.2.2 P1%[i84.2.2 A1.1.1[i84.2.2 
-0000030 080  II      on                       Z5 M1[i83.2.2 T2+[i83.2.2 S3.2[i83.2.2 
-0000030 090  NP1     Kings                    Z1mf[i85.2.1 Z3c[i85.2.1 Z3c 
-0000030 100  NP1     Highway                  Z1mf[i85.2.2 Z3c[i85.2.2 Z3 
+0000030 060  VVG     coming                   A1.1.1[i85.2.1 M1[i85.2.1 T1.1.3[i85.2.1 A13.4[i85.2.1 P1%[i85.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 M1[i84.2.1 T2+[i84.2.1 S3.2[i84.2.1 
+0000030 070  RP      up                       M1[i85.2.2 T1.1.3[i85.2.2 A13.4[i85.2.2 P1%[i85.2.2 A1.1.1[i85.2.2 
+0000030 080  II      on                       Z5 M1[i84.2.2 T2+[i84.2.2 S3.2[i84.2.2 
+0000030 090  NP1     Kings                    Z1mf[i86.2.1 Z3c[i86.2.1 Z3c 
+0000030 100  NP1     Highway                  Z1mf[i86.2.2 Z3c[i86.2.2 Z3 
 0000030 101  NULL    </quote>                 
 0000030 102  -----   -----                    
 0000030 110  AT      the                      Z5 
@@ -1589,15 +1599,15 @@
 0000030 202  -----   -----                    
 0000030 210  PN1     everybody                Z8/N5.1+c 
 0000030 220  VBDZ    was                      Z5 A3+ 
-0000030 230  VVG     looking                  X2.4[i86.2.1 A8 X3.4 X2.4 X7+ Z4 
-0000030 240  IF      for                      X2.4[i86.2.2 Z5 
+0000030 230  VVG     looking                  X2.4[i87.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000030 240  IF      for                      X2.4[i87.2.2 Z5 
 0000030 250  NN2     opportunities            A1.4 
 0000030 251  ,       ,                        
 0000030 252  NULL    </quote>                 
 0000030 253  -----   -----                    
 0000030 260  VVZ     says                     Q2.1 
-0000030 270  NP1     Dmitriy                  Z1mf[i87.2.1 Z3c[i87.2.1 
-0000030 280  NP1     Salita                   Z1mf[i87.2.2 Z3c[i87.2.2 
+0000030 270  NP1     Dmitriy                  Z1mf[i88.2.1 Z3c[i88.2.1 
+0000030 280  NP1     Salita                   Z1mf[i88.2.2 Z3c[i88.2.2 
 0000030 281  ,       ,                        
 0000030 290  AT1     a                        Z5 
 0000030 300  JJ      professional             I3.2+ I3.1 X9.1+ A5.1+ 
@@ -1631,12 +1641,13 @@
 0000030 550  PPX2    themselves               Z8 
 0000030 551  .       .                        
 0000030 552  -----   -----                    
-0000030 560  NN1     Id                       X2 
-0000030 570  VV0     say                      Q2.1 Z4% 
+0000030 560  PPIS1   I                        Z4[i89.3.1 Z8mf 
+0000030 561  VM      'd                       Z4[i89.3.2 A7+ 
+0000030 570  VVI     say                      Z4[i89.3.3 Q2.1 Z4% 
 0000030 580  DAR     less                     N5-- 
 0000030 590  CSN     than                     Z5 
-0000030 600  MC1     1                        N5[i88.2.1 N1 T1.2 T3 T1.3 N3.2 
-0000030 610  NNU     percent                  N5[i88.2.2 N5 
+0000030 600  MC1     1                        N5[i90.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000030 610  NNU     percent                  N5[i90.2.2 N5 
 0000030 620  IO      of                       Z5 
 0000030 630  JJ      Russian                  Z2 
 0000030 640  NN2     Jews                     S9/S2mf 
@@ -1645,9 +1656,9 @@
 0000030 670  PPX2    themselves               Z8 
 0000030 680  CSA     as                       Z5 
 0000030 690  NN2     liberals                 G1.2/S2mf 
-0000030 700  II31    in                       Z5[i89.3.1 Z5 
-0000030 710  II32    terms                    Z5[i89.3.2 
-0000030 720  II33    of                       Z5[i89.3.3 
+0000030 700  II31    in                       Z5[i91.3.1 Z5 
+0000030 710  II32    terms                    Z5[i91.3.2 
+0000030 720  II33    of                       Z5[i91.3.3 
 0000030 730  VVG     expecting                X2.6+ B1 
 0000030 731  (       &lsqb;                   
 0000030 740  VV0     help                     S8+ 
@@ -1658,8 +1669,8 @@
 0000030 771  .       .                        
 0000030 772  NULL    </quote>                 
 0000030 773  -----   -----                    
-0000032 010  MC1     One                      N5[i90.2.1 N1 T3 T1.2 
-0000032 020  NNU     percent                  N5[i90.2.2 N5 
+0000032 010  MC1     One                      N5[i92.2.1 N1 T3 T1.2 
+0000032 020  NNU     percent                  N5[i92.2.2 N5 
 0000032 030  VBZ     is                       A3+ Z5 
 0000032 040  JJ      likely                   A7+ A1.2+ 
 0000032 050  JJ      low                      N3.7- N5- A5.1- A11.1- E4.1- X3.2- G2.2- S7.1- 
@@ -1702,9 +1713,9 @@
 0000032 370  AT1     a                        Z5 
 0000032 380  NN1     margin                   N5 Q1.2 N5.2+ M7 A6.2- 
 0000032 390  IO      of                       Z5 
-0000032 400  MC      3                        T1.2[i91.3.1 N3.2[i91.3.1 T1.3[i91.3.1 N1 T1.2 T3 T1.3 N3.2 
-0000032 410  II      to                       T1.2[i91.3.2 N3.2[i91.3.2 T1.3[i91.3.2 Z5 
-0000032 420  MC1     1                        T1.2[i91.3.3 N3.2[i91.3.3 T1.3[i91.3.3 N1 T1.2 T3 T1.3 N3.2 
+0000032 400  MC      3                        T1.2[i93.3.1 N3.2[i93.3.1 T1.3[i93.3.1 N1 T1.2 T3 T1.3 N3.2 
+0000032 410  II      to                       T1.2[i93.3.2 N3.2[i93.3.2 T1.3[i93.3.2 Z5 
+0000032 420  MC1     1                        T1.2[i93.3.3 N3.2[i93.3.3 T1.3[i93.3.3 N1 T1.2 T3 T1.3 N3.2 
 0000032 421  .       .                        
 0000032 422  -----   -----                    
 0000032 430  NP1     Israel                   Z2 
@@ -1744,9 +1755,9 @@
 0000032 730  NN2     Voters                   G1.2/S2mf 
 0000032 740  PNQS    who                      Z8 
 0000032 750  VVD     voted                    G1.2 
-0000032 760  NN1     Republican               G1.2/S2[i92.2.1 G1.2/S2mf 
-0000032 770  VVN     based                    G1.2/S2[i92.2.2 T2+ M6 A2.2 A2.2[i93.2.1 
-0000032 780  II      on                       Z5 A2.2[i93.2.2 
+0000032 760  NN1     Republican               G1.2/S2[i94.2.1 G1.2/S2mf 
+0000032 770  VVN     based                    G1.2/S2[i94.2.2 T2+ M6 A2.2 A2.2[i95.2.1 
+0000032 780  II      on                       Z5 A2.2[i95.2.2 
 0000032 790  JJ      cultural                 C1 S1.1.1 S5+ 
 0000032 800  NN1     wedge                    O2 
 0000032 810  NN2     issues                   X4.1 Q4.2 S4 A9- 
@@ -1758,8 +1769,8 @@
 0000032 850  AT      the                      Z5 
 0000032 860  NN1     election                 G1.2/X7+ 
 0000032 861  ,       ,                        
-0000032 870  MC      81                       N5[i94.2.1 N1 T1.2 T3 T1.3 N3.2 
-0000032 880  NNU     percent                  N5[i94.2.2 N5 
+0000032 870  MC      81                       N5[i96.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000032 880  NNU     percent                  N5[i96.2.2 N5 
 0000032 890  IO      of                       Z5 
 0000032 900  JJ      Russian                  Z2 
 0000032 910  NN2     Jews                     S9/S2mf 
@@ -1784,8 +1795,8 @@
 0000032 080  JJ      heavy                    N3.5+ S1.2.5+ N5+ O4.1 E4.1- W4 A12- A1.1.1 N3.2+ A1.1.2@ 
 0000032 090  NN1     opposition               S8-/E2- S7.3+ A6.1- 
 0000032 100  II      to                       Z5 
-0000032 110  JJ      affirmative              A7+/A1.1.1[i95.2.1 A7+ Q3 
-0000032 120  NN1     action                   A7+/A1.1.1[i95.2.2 A1.1.1 G3 
+0000032 110  JJ      affirmative              A7+/A1.1.1[i97.2.1 A7+ Q3 
+0000032 120  NN1     action                   A7+/A1.1.1[i97.2.2 A1.1.1 G3 
 0000032 130  CC      and                      Z5 
 0000032 140  VVD     showed                   A10+ S1.1.1 
 0000032 150  DAR     less                     N5-- 
@@ -1794,8 +1805,8 @@
 0000032 180  JJ      on-demand                Z99 
 0000032 190  NN1     abortion                 B3 T2- X9.2- 
 0000032 191  ,       ,                        
-0000032 200  II21    according                Z5[i96.2.1 Z5 
-0000032 210  II22    to                       Z5[i96.2.2 Z5 
+0000032 200  II21    according                Z5[i98.2.1 Z5 
+0000032 210  II22    to                       Z5[i98.2.2 Z5 
 0000032 220  NN2     numbers                  N5 N1 Q1.3 K2 Q4.2 
 0000032 230  VVN     compiled                 Q1.2 Y2 
 0000032 240  II      by                       Z5 
@@ -1818,7 +1829,8 @@
 0000034 030  JJ      local                    M7 
 0000034 040  NN1     level                    N3.7 N5 S5+ A5.1 X9.1 A4.1 S7.1 
 0000034 041  ,       ,                        
-0000034 050  APPGE   its                      Z8 
+0000034 050  PPH1    it                       Z8 
+0000034 051  VBZ     's                       A3+ Z5 
 0000034 060  AT1     a                        Z5 
 0000034 070  RGR     more                     A13.3 
 0000034 080  JJ@     mixed                    A6.3+ S1.1.3+ S2 
@@ -1841,8 +1853,8 @@
 0000034 212  NULL    <quote>                  
 0000034 213  -----   -----                    
 0000034 220  II      In                       Z5 
-0000034 230  NP1     New                      Z2[i98.2.1 Z1mf[i97.2.1 Z3c[i97.2.1 
-0000034 240  NP1     York                     Z2[i98.2.2 Z2 Z1mf Z1mf[i97.2.2 Z3c[i97.2.2 
+0000034 230  NP1     New                      Z2[i100.2.1 Z1mf[i99.2.1 Z3c[i99.2.1 
+0000034 240  NP1     York                     Z2[i100.2.2 Z2 Z1mf Z1mf[i99.2.2 Z3c[i99.2.2 
 0000034 241  ,       ,                        
 0000034 250  JJ      Russian                  Z2 
 0000034 260  NN2     Jews                     S9/S2mf 
@@ -1863,17 +1875,18 @@
 0000034 410  NN2     issues                   X4.1 Q4.2 S4 A9- 
 0000034 411  ,       ,                        
 0000034 420  RR      notably                  A14 A13.3 
-0000034 430  JJ      New                      T3- 
-0000034 440  NP1     Yorks                    Z1mf[i100.3.1 Z3c[i100.3.1 Z2 Z1mf Z1mf[i99.2.1 Z3c[i99.2.1 
-0000034 450  NNB     Mayor                    Z1mf[i100.3.2 Z3c[i100.3.2 Z1mf[i102.3.1 Z3c[i102.3.1 Z1mf Z1mf[i99.2.2 Z3c[i99.2.2 Z1mf[i101.2.1 Z3c[i101.2.1 
-0000034 460  NP1     Rudolph                  Z3c[i100.3.3 Z1mf[i100.3.3 Z1mf[i102.3.2 Z3c[i102.3.2 Z1mf[i101.2.2 Z3c[i101.2.2 Z1mf[i103.2.1 Z3c[i103.2.1 
-0000034 470  NP1     Giuliani                 Z3c[i102.3.3 Z1mf[i102.3.3 Z1mf[i103.2.2 Z3c[i103.2.2 
+0000034 430  NP1     New                      Z2[i102.2.1 Z1mf[i101.2.1 Z3c[i101.2.1 
+0000034 440  NP1     York                     Z2[i102.2.2 Z2 Z1mf Z1mf[i101.2.2 Z3c[i101.2.2 
+0000034 441  GE      's                       Z5 
+0000034 450  NNB     Mayor                    Z1mf[i104.3.1 Z3c[i104.3.1 Z1mf Z1mf[i103.2.1 Z3c[i103.2.1 
+0000034 460  NP1     Rudolph                  Z1mf[i104.3.2 Z3c[i104.3.2 Z1mf[i103.2.2 Z3c[i103.2.2 Z1mf[i105.2.1 Z3c[i105.2.1 
+0000034 470  NP1     Giuliani                 Z3c[i104.3.3 Z1mf[i104.3.3 Z1mf[i105.2.2 Z3c[i105.2.2 
 0000034 471  ,       ,                        
 0000034 472  NULL    </quote>                 
 0000034 473  -----   -----                    
 0000034 480  VVZ     says                     Q2.1 
-0000034 490  NP1     Jonathan                 Z1mf[i104.2.1 Z3c[i104.2.1 Z1m 
-0000034 500  NP1     Sarna                    Z1mf[i104.2.2 Z3c[i104.2.2 
+0000034 490  NP1     Jonathan                 Z1mf[i106.2.1 Z3c[i106.2.1 Z1m 
+0000034 500  NP1     Sarna                    Z1mf[i106.2.2 Z3c[i106.2.2 
 0000034 501  ,       ,                        
 0000034 510  NN1     professor                P1/S2mf 
 0000034 520  IO      of                       Z5 
@@ -1911,11 +1924,12 @@
 0000038 060  JJ      Russian                  Z2 
 0000038 070  NN2     Jews                     S9/S2mf 
 0000038 080  II      in                       Z5 
-0000038 090  NP1     New                      Z2[i106.2.1 Z1mf[i105.2.1 Z3c[i105.2.1 
-0000038 100  NP1     York                     Z2[i106.2.2 Z2 Z1mf Z1mf[i105.2.2 Z3c[i105.2.2 
+0000038 090  NP1     New                      Z2[i108.2.1 Z1mf[i107.2.1 Z3c[i107.2.1 
+0000038 100  NP1     York                     Z2[i108.2.2 Z2 Z1mf Z1mf[i107.2.2 Z3c[i107.2.2 
 0000038 101  ,       ,                        
 0000038 110  AT      the                      Z5 
-0000038 120  NN2     nations                  G1.1c S5+c 
+0000038 120  NN1     nation                   G1.1c S5+c 
+0000038 121  GE      's                       Z5 
 0000038 130  JJT     largest                  N3.2+++ N5+++ A11.1+++ 
 0000038 140  JJ      Russian-Jewish           Z99 
 0000038 150  NN1     community                S5+c 
@@ -1951,8 +1965,8 @@
 0000038 370  NN1     immigrant                M1/M7/S2mf 
 0000038 380  VHZ     has                      A9+ Z5 A2.2 S4 
 0000038 390  RGR     more                     A13.3 
-0000038 400  JJR     higher                   P1[i107.2.1 N3.7++ N5++ A11.1++ S7.1++ A5.1++ T3-- X3.2 G2.2++ E4.1++ I1.3++ O4.2-- O4.6++ S9 
-0000038 410  NN1     education                P1[i107.2.2 P1 X2.3+ 
+0000038 400  JJR     higher                   P1[i109.2.1 N3.7++ N5++ A11.1++ S7.1++ A5.1++ T3-- X3.2 G2.2++ E4.1++ I1.3++ O4.2-- O4.6++ S9 
+0000038 410  NN1     education                P1[i109.2.2 P1 X2.3+ 
 0000038 420  CST     that                     Z5 Z8 
 0000038 430  APPGE   his                      Z8m 
 0000038 440  JJ      average                  A6.2+ A5.1 N2 
@@ -1991,8 +2005,8 @@
 0000040 240  NN1     subject                  X4.1 C1/S2mf Q3 P1 S7.1-/S2mf 
 0000040 250  VVD     found                    A10+ X2.1 X6+ 
 0000040 260  CST     that                     Z5 Z8 
-0000040 270  MC      89                       N5[i108.2.1 N1 T1.2 T3 T1.3 N3.2 
-0000040 280  NNU     percent                  N5[i108.2.2 N5 
+0000040 270  MC      89                       N5[i110.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000040 280  NNU     percent                  N5[i110.2.2 N5 
 0000040 290  IO      of                       Z5 
 0000040 300  JJ      Russian                  Z2 
 0000040 310  NN2     Jews                     S9/S2mf 
@@ -2027,7 +2041,8 @@
 0000040 550  AT1     an                       Z5 
 0000040 560  NN1     idea                     X4.1 X7+ 
 0000040 561  ,       ,                        
-0000040 570  APPGE   its                      Z8 
+0000040 570  PPH1    it                       Z8 
+0000040 571  VBZ     's                       A3+ Z5 
 0000040 580  AT1     a                        Z5 
 0000040 590  NN1     reality                  A3+ A5.2+ 
 0000040 591  ,       ,                        
@@ -2056,14 +2071,15 @@
 0000040 750  VVZ     impacts                  A1.1.1 
 0000040 760  AT      the                      Z5 
 0000040 770  JJ      Russian                  Z2 
-0000040 780  NN1     population               M1[i109.2.1 M2[i109.2.1 S2/N5c 
-0000040 790  II      in                       M1[i109.2.2 M2[i109.2.2 Z5 
+0000040 780  NN1     population               M1[i111.2.1 M2[i111.2.1 S2/N5c 
+0000040 790  II      in                       M1[i111.2.2 M2[i111.2.2 Z5 
 0000040 800  AT1     an                       Z5 
 0000040 810  JJ      immediate                N3.8+ T1.1.2/A11.1+ N4 N3.3- S4 
 0000040 820  NN1     way                      X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
 0000040 821  .       .                        
 0000040 822  -----   -----                    
-0000040 830  NN2     Theres                   Z5 M6 T1.2 
+0000040 830  EX      There                    Z5 
+0000040 831  VBZ     's                       A3+ Z5 
 0000040 840  AT1     a                        Z5 
 0000040 850  JJR     stronger                 S1.2.5++ N5++ A5.1++ X5.2++ S7.1++ X9.1++ O4.1 S1.2.3++ 
 0000040 860  NN1     connection               A2.2 S5+ M3 O3 A1.1.1 
@@ -2095,18 +2111,18 @@
 0000042 193  -----   -----                    
 0000042 200  VVZ     says                     Q2.1 
 0000042 210  NN1     activist                 G1.2/S2mf 
-0000042 220  NNB     Rabbi                    Z1mf[i111.3.1 Z1mf[i110.2.1 
-0000042 230  NP1     Moish                    Z1mf[i111.3.2 Z1mf[i110.2.2 Z1mf[i112.2.1 Z3c[i112.2.1 
-0000042 240  NP1     Soloway                  Z1mf[i111.3.3 Z1mf[i112.2.2 Z3c[i112.2.2 
+0000042 220  NNB     Rabbi                    Z1mf[i113.3.1 Z1mf[i112.2.1 
+0000042 230  NP1     Moish                    Z1mf[i113.3.2 Z1mf[i112.2.2 Z1mf[i114.2.1 Z3c[i114.2.1 
+0000042 240  NP1     Soloway                  Z1mf[i113.3.3 Z1mf[i114.2.2 Z3c[i114.2.2 
 0000042 241  ,       ,                        
 0000042 250  IO      of                       Z5 
-0000042 260  NP1     Brighton                 Z2[i113.2.1 Z2 
-0000042 270  NN1     Beach                    Z2[i113.2.2 W3/M4 
+0000042 260  NP1     Brighton                 Z2[i115.2.1 Z2 
+0000042 270  NN1     Beach                    Z2[i115.2.2 W3/M4 
 0000042 271  .       .                        
 0000042 272  NULL    <quote>                  
 0000042 273  -----   -----                    
-0000042 280  AT1     A                        N5+[i114.2.1 N6+[i114.2.1 A13.3[i114.2.1 Z5 
-0000042 290  NN1     lot                      N5+[i114.2.2 N6+[i114.2.2 A13.3[i114.2.2 
+0000042 280  AT1     A                        N5+[i116.2.1 N6+[i116.2.1 A13.3[i116.2.1 Z5 
+0000042 290  NN1     lot                      N5+[i116.2.2 N6+[i116.2.2 A13.3[i116.2.2 
 0000042 300  IO      of                       Z5 
 0000042 310  AT      the                      Z5 
 0000042 320  JJR     younger                  T3-- 
@@ -2176,8 +2192,9 @@
 0000044 370  II      In                       Z5 
 0000044 380  NP1     Odessa                   Z99 
 0000044 381  ,       ,                        
-0000044 390  VV0     wed                      S4 
-0000044 400  VV0     listen                   X3.2 
+0000044 390  PPIS2   we                       Z8 
+0000044 391  VM      'd                       A7+ 
+0000044 400  VVI     listen                   X3.2 
 0000044 410  II      to                       Z5 
 0000044 420  JJ      American                 Z2 
 0000044 430  NN1     radio                    Q4.3 Q1.3 
@@ -2209,7 +2226,7 @@
 0000044 640  NN1     freedom                  A1.7- 
 0000044 650  CCB     but                      Z5 
 0000044 660  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000044 661  XX      nt                       S9/Q4.1 Z3c 
+0000044 661  XX      n't                      Z6 
 0000044 670  VHI     have                     A9+ Z5 A2.2 S4 
 0000044 680  PPH1    it                       Z8 
 0000044 681  .       .                        
@@ -2279,8 +2296,9 @@
 0000046 301  ,       ,                        
 0000046 310  CS@     so                       Z5 
 0000046 320  PPHS2   they                     Z8mfn 
-0000046 330  JJ      wont                     A6.2+ 
-0000046 340  NN1     support                  S8+ O2 I1.1 B5% 
+0000046 330  VM      wo                       T1.1.3 
+0000046 331  XX      n't                      Z6 
+0000046 340  VVI     support                  S8+ A1.1.1 K5.1 I1.1 A10+ 
 0000046 350  JJ      liberal                  A1.7- G1.2 N5+ 
 0000046 360  NN2     candidates               G1.2/S2mf I3.1/S2mf P1/S2mf A7+ A1.2+ 
 0000046 370  II      on                       Z5 
@@ -2290,8 +2308,8 @@
 0000046 392  NULL    </quote>                 
 0000046 393  -----   -----                    
 0000046 400  VVZ     says                     Q2.1 
-0000046 410  NP1     Gennady                  Z1mf[i115.2.1 Z3c[i115.2.1 
-0000046 420  NP1     Katsov                   Z1mf[i115.2.2 Z3c[i115.2.2 
+0000046 410  NP1     Gennady                  Z1mf[i117.2.1 Z3c[i117.2.1 
+0000046 420  NP1     Katsov                   Z1mf[i117.2.2 Z3c[i117.2.2 
 0000046 421  ,       ,                        
 0000046 430  AT1     a                        Z5 
 0000046 440  NN1     journalist               Q4.2/I3.2/S2mf 
@@ -2310,8 +2328,8 @@
 0000046 540  VVZ     teaches                  P1 
 0000046 550  CST     that                     Z8 Z5 
 0000046 560  PPY     you                      Z8mf 
-0000046 570  VH0     have                     S6+[i116.2.1 A9+ Z5 A2.2 S4 
-0000046 580  TO      to                       S6+[i116.2.2 Z5 
+0000046 570  VH0     have                     S6+[i118.2.1 A9+ Z5 A2.2 S4 
+0000046 580  TO      to                       S6+[i118.2.2 Z5 
 0000046 590  VVI     stay                     M8 T2++ H4 
 0000046 600  JJ      strong                   S1.2.5+ N5+ A5.1+ X5.2+ S7.1+ X9.1+ O4.1 S1.2.3+ 
 0000046 601  ,       ,                        
@@ -2331,8 +2349,8 @@
 0000046 710  ZZ1     X                        Z5 
 0000046 711  ,       ,                        
 0000046 720  RRR     less                     A13.6 
-0000046 730  NP1     Martin                   Z1mf[i117.2.1 Z3c[i117.2.1 Z1mf 
-0000046 740  NP1     Luther                   Z1mf[i117.2.2 Z3c[i117.2.2 
+0000046 730  NP1     Martin                   Z1mf[i119.2.1 Z3c[i119.2.1 Z1mf 
+0000046 740  NP1     Luther                   Z1mf[i119.2.2 Z3c[i119.2.2 
 0000046 750  NN1     King                     S7.1+/S2.2m 
 0000046 751  .       .                        
 0000046 752  NULL    </quote>                 
@@ -2396,7 +2414,8 @@
 0000048 190  DD      some                     N5 Z5 
 0000048 200  VV0     say                      Q2.1 Z4% 
 0000048 210  AT      the                      Z5 
-0000048 220  NN2     nations                  G1.1c S5+c 
+0000048 220  NN1     nation                   G1.1c S5+c 
+0000048 221  GE      's                       Z5 
 0000048 230  NN2     Jews                     S9/S2mf 
 0000048 240  VH0     have                     Z5 A9+ A2.2 S4 
 0000048 250  VVN     internalized             X2.3+ 
@@ -2434,8 +2453,8 @@
 0000048 510  MC      2008                     N1 T1.2 T3 T1.3 N3.2 
 0000048 520  NN1     election                 G1.2/X7+ 
 0000048 521  ,       ,                        
-0000048 530  NP1     Walter                   Z1mf[i118.2.1 Z3c[i118.2.1 Z1m 
-0000048 540  NP1     Ruby                     Z1mf[i118.2.2 Z3c[i118.2.2 
+0000048 530  NP1     Walter                   Z1mf[i120.2.1 Z3c[i120.2.1 Z1m 
+0000048 540  NP1     Ruby                     Z1mf[i120.2.2 Z3c[i120.2.2 
 0000048 550  VVD     reported                 Q2.2 S7.1- 
 0000048 560  IF      for                      Z5 
 0000048 570  AT      the                      Z5 
@@ -2445,11 +2464,11 @@
 0000048 610  PPHS1   he                       Z8m 
 0000048 620  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
 0000048 630  XX      not                      Z6 
-0000048 640  VHI     have                     S6+[i119.2.1 A9+ Z5 A2.2 S4 
-0000048 650  TO      to                       S6+[i119.2.2 Z5 
+0000048 640  VHI     have                     S6+[i121.2.1 A9+ Z5 A2.2 S4 
+0000048 650  TO      to                       S6+[i121.2.2 Z5 
 0000048 660  VVI     search                   X2.4 
-0000048 670  NP1     Brighton                 Z2[i120.2.1 Z2 
-0000048 680  NN1     Beach                    Z2[i120.2.2 W3/M4 
+0000048 670  NP1     Brighton                 Z2[i122.2.1 Z2 
+0000048 680  NN1     Beach                    Z2[i122.2.2 W3/M4 
 0000048 690  RG      very                     A13.3 
 0000048 700  RR      hard                     O4.1 X8+ X5.2+ N5+ A12- 
 0000048 710  II      before                   Z5 
@@ -2460,13 +2479,14 @@
 0000048 760  VVD     subscribed               X2.1/A6.1+ Q4.2/I2.2 A9-/I1 I2.2/I1 
 0000048 770  II      to                       Z5 
 0000048 780  AT1     a                        Z5 
-0000048 790  NP1     Sarah                    Z1f 
-0000048 800  NP2     Palins                   Z1mf 
+0000048 790  NP1     Sarah                    Z1mf[i123.2.1 Z3c[i123.2.1 Z1f 
+0000048 800  NP1     Palin                    Z1mf[i123.2.2 Z3c[i123.2.2 Z1mf 
+0000048 801  GE      's                       Z5 
 0000048 810  NN1     view                     X4.1 X3.4 A4.1 X7+ 
 0000048 820  IO      of                       Z5 
 0000048 830  AT      the                      Z5 
-0000048 840  NP1     United                   Z2c[i123.2.1 Z2c[i122.2.1 Z3c Z1mf[i121.2.1 Z3c[i121.2.1 
-0000048 850  NP1     States                   Z2c[i123.2.2 Z2c[i122.2.2 Z2 Z1mf[i121.2.2 Z3c[i121.2.2 
+0000048 840  NP1     United                   Z2c[i126.2.1 Z2c[i125.2.1 Z3c Z1mf[i124.2.1 Z3c[i124.2.1 
+0000048 850  NP1     States                   Z2c[i126.2.2 Z2c[i125.2.2 Z2 Z1mf[i124.2.2 Z3c[i124.2.2 
 0000048 851  ;       ;                        
 0000048 860  MC1     one                      N1 T3 T1.2 
 0000048 870  JJ      real                     A3+ A5.2+ A5.4+ A13.3 
@@ -2486,8 +2506,8 @@
 0000048 950  AT      The                      Z5 
 0000048 960  NN1     president                G1.1/S7.1+/S2mf 
 0000048 970  IO      of                       Z5 
-0000048 980  DA      such                     A13.3[i124.2.1 Z5 Z8 
-0000048 990  AT1     a                        A13.3[i124.2.2 Z5 
+0000048 980  DA      such                     A13.3[i127.2.1 Z5 Z8 
+0000048 990  AT1     a                        A13.3[i127.2.2 Z5 
 0000048 000  JJ      great                    A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3 
 0000048 010  NN1     country                  G1.1c W3 F4/M7 K2 
 0000048 020  VMK     ought                    S6+ 
@@ -2499,8 +2519,8 @@
 0000048 071  ,       ,                        
 0000048 080  II      by                       Z5 
 0000048 090  DDQ     which                    Z8 Z5 
-0000048 100  PPIS1   I                        Z4[i125.2.1 Z8mf 
-0000048 110  VV0     mean                     Z4[i125.2.2 Q1.1 X7+ 
+0000048 100  PPIS1   I                        Z4[i128.2.1 Z8mf 
+0000048 110  VV0     mean                     Z4[i128.2.2 Q1.1 X7+ 
 0000048 120  AT1     a                        Z5 
 0000048 130  JJ      white                    O4.3 G2.2+ 
 0000048 140  NN1     person                   S2mfc 
@@ -2519,12 +2539,12 @@
 0000048 220  NN1     fear                     E5- 
 0000048 230  CST     that                     Z5 Z8 
 0000048 240  AT1     a                        Z5 
-0000048 250  NP1     Barack                   Z1mf[i126.2.1 Z3c[i126.2.1 
-0000048 260  NP1     Obama                    Z1mf[i126.2.2 Z3c[i126.2.2 
+0000048 250  NP1     Barack                   Z1mf[i129.2.1 Z3c[i129.2.1 
+0000048 260  NP1     Obama                    Z1mf[i129.2.2 Z3c[i129.2.2 
 0000048 270  NN1     victory                  X9.2+ 
 0000048 280  VM      would                    A7+ 
-0000048 290  VVI     lead                     A2.2[i127.2.1 M6[i127.2.1 S7.1+ A2.2 M2 A1.1.1 
-0000048 300  II      to                       A2.2[i127.2.2 M6[i127.2.2 Z5 
+0000048 290  VVI     lead                     A2.2[i130.2.1 M6[i130.2.1 S7.1+ A2.2 M2 A1.1.1 
+0000048 300  II      to                       A2.2[i130.2.2 M6[i130.2.2 Z5 
 0000048 301  NULL    <quote>                  
 0000048 302  -----   -----                    
 0000048 310  JJ      black                    O4.3 G2.2- A5.1- E4.1- S5+ 
@@ -2537,14 +2557,14 @@
 0000048 351  .       .                        
 0000048 352  -----   -----                    
 0000048 360  CS      When                     Z5 
-0000048 370  NNB     Rabbi                    Z1mf[i128.2.1 
-0000048 380  NP1     Soloway                  Z1mf[i128.2.2 
+0000048 370  NNB     Rabbi                    Z1mf[i131.2.1 
+0000048 380  NP1     Soloway                  Z1mf[i131.2.2 
 0000048 390  VVD     appeared                 A8 A10+ A3+ G2.1 K4 Q4 
 0000048 400  II      on                       Z5 
 0000048 410  JJ      local                    M7 
 0000048 420  JJ      Russian-language         Z99 
-0000048 430  NN1     Radio                    Z3c[i129.2.1 Q4.3 Q1.3 
-0000048 440  NP1     Davidzon                 Z3c[i129.2.2 
+0000048 430  NN1     Radio                    Z3c[i132.2.1 Q4.3 Q1.3 
+0000048 440  NP1     Davidzon                 Z3c[i132.2.2 
 0000048 450  TO      to                       Z5 
 0000048 460  VVI     advocate                 Q2.2 
 0000048 470  IF      for                      Z5 
@@ -2557,7 +2577,8 @@
 0000048 521  .       .                        
 0000050 001  NULL    <quote>                  
 0000050 002  -----   -----                    
-0000050 010  APPGE   Its                      Z8 
+0000050 010  PPH1    It                       Z8 
+0000050 011  VBZ     's                       Z5 A3+ 
 0000050 020  VVN     gotten                   A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 
 0000050 030  RRR@    worse                    A5.1-- 
 0000050 040  CS      since                    Z5 
@@ -2587,8 +2608,8 @@
 0000050 240  JJ      right-wing               Z99 
 0000050 250  JJ      Russian-language         Z99 
 0000050 260  NN1     paper                    Q4.2c O1.1 Q1.2 P1/Q1.2 H5 
-0000050 270  NP1     Evreiskii                Z1mf[i130.2.1 Z3c[i130.2.1 
-0000050 280  NP1     Mir                      Z1mf[i130.2.2 Z3c[i130.2.2 
+0000050 270  NP1     Evreiskii                Z1mf[i133.2.1 Z3c[i133.2.1 
+0000050 280  NP1     Mir                      Z1mf[i133.2.2 Z3c[i133.2.2 
 0000050 281  (       (                        
 0000050 290  JJ      Jewish                   S9 
 0000050 300  NN1     World                    W1 S5+c A4.1 N5+ 
@@ -2603,12 +2624,13 @@
 0000050 350  PN1     everything               Z8/N5.1+ 
 0000050 360  II      from                     Z5 
 0000050 370  JJ      liberal                  A1.7- G1.2 N5+ 
-0000050 380  NN1     scumbag                  Z99 
+0000050 380  NN1     scumbag'                 Z99 
 0000050 390  TO      to                       Z5 
 0000050 400  VVI     fag                      S7.1- 
 0000050 410  NN1     lover                    S3.2/S2mf E2+/S2mf 
 0000050 411  .       .                        
-0000050 412  -----   -----                    
+0000050 412  "@      '                        
+0000050 413  -----   -----                    
 0000050 420  AT      The                      Z5 
 0000050 430  NN1     style                    X4.2 O4.1 O4.2+ A4.1 Q3 
 0000050 440  IO      of                       Z5 
@@ -2624,7 +2646,8 @@
 0000050 540  NN1     highway                  M3 
 0000050 541  .       .                        
 0000050 542  -----   -----                    
-0000050 550  APPGE   Its                      Z8 
+0000050 550  PPH1    It                       Z8 
+0000050 551  VBZ     's                       A3+ Z5 
 0000050 560  JJ@     like                     Z5 A6.1+ Z4 E2+ 
 0000050 561  ,       ,                        
 0000050 570  RRQ     Why                      A2.2 
@@ -2634,8 +2657,8 @@
 0000050 610  VVG     moving                   M2 M1 A2.1+ E1 H4/A2.1 
 0000050 620  II      to                       Z5 
 0000050 630  AT      the                      Z5 
-0000050 640  NP1     United                   Z2c[i133.2.1 Z2c[i132.2.1 Z3c Z1mf[i131.2.1 Z3c[i131.2.1 
-0000050 650  NP1     States                   Z2c[i133.2.2 Z2c[i132.2.2 Z2 Z1mf[i131.2.2 Z3c[i131.2.2 
+0000050 640  NP1     United                   Z2c[i136.2.1 Z2c[i135.2.1 Z3c Z1mf[i134.2.1 Z3c[i134.2.1 
+0000050 650  NP1     States                   Z2c[i136.2.2 Z2c[i135.2.2 Z2 Z1mf[i134.2.2 Z3c[i134.2.2 
 0000050 651  ?       ?                        
 0000050 652  -----   -----                    
 0000050 660  PPY     You                      Z8mf 
@@ -2645,8 +2668,9 @@
 0000050 700  II      in                       Z5 
 0000050 710  NP1     Russia                   Z2 
 0000050 711  .       .                        
-0000050 712  NULL    </quote>                 
-0000050 713  -----   -----                    
+0000050 712  "@      '                        
+0000050 713  NULL    </quote>                 
+0000050 714  -----   -----                    
 0000052 010  DD      Some                     N5 Z5 
 0000052 020  VV0     say                      Q2.1 Z4% 
 0000052 030  DD1     this                     Z8 M6 Z5 
@@ -2678,9 +2702,9 @@
 0000052 203  -----   -----                    
 0000052 210  PPY     You                      Z8mf 
 0000052 220  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000052 221  XX      nt                       S9/Q4.1 Z3c 
-0000052 230  VVI     grow                     T3+/A2.1[i134.2.1 N3.2+/A2.1[i134.2.1 S1.2.6+/A2.1[i134.2.1 N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4 
-0000052 240  RP      up                       T3+/A2.1[i134.2.2 N3.2+/A2.1[i134.2.2 S1.2.6+/A2.1[i134.2.2 
+0000052 221  XX      n't                      Z6 
+0000052 230  VVI     grow                     T3+/A2.1[i137.2.1 N3.2+/A2.1[i137.2.1 S1.2.6+/A2.1[i137.2.1 N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4 
+0000052 240  RP      up                       T3+/A2.1[i137.2.2 N3.2+/A2.1[i137.2.2 S1.2.6+/A2.1[i137.2.2 
 0000052 250  II      around                   Z5 
 0000052 260  JJ      different                A6.1- 
 0000052 270  NN2     kinds                    A4.1 
@@ -2701,8 +2725,8 @@
 0000052 392  -----   -----                    
 0000052 400  CCB     But                      Z5 
 0000052 410  AT      the                      Z5 
-0000052 420  MD      second                   N4/T1.3[i135.2.1 N4 
-0000052 430  NN1     generation               N4/T1.3[i135.2.2 T1.3 S5+c 
+0000052 420  MD      second                   N4/T1.3[i138.2.1 N4 
+0000052 430  NN1     generation               N4/T1.3[i138.2.2 T1.3 S5+c 
 0000052 440  IO      of                       Z5 
 0000052 450  JJ      Russian                  Z2 
 0000052 460  NN2     Jews                     S9/S2mf 
@@ -2746,22 +2770,22 @@
 0000054 230  AT      the                      Z5 
 0000054 240  JJ      Christian                Z1mf 
 0000054 250  NN1     militarist               Z99 
-0000054 260  NP1     Vladimir                 Z1mf[i136.2.1 Z3c[i136.2.1 
-0000054 270  NP1     Putin                    Z1mf[i136.2.2 Z3c[i136.2.2 
+0000054 260  NP1     Vladimir                 Z1mf[i139.2.1 Z3c[i139.2.1 
+0000054 270  NP1     Putin                    Z1mf[i139.2.2 Z3c[i139.2.2 
 0000054 271  ,       ,                        
 0000054 280  CCB     but                      Z5 
 0000054 290  PPHS2   they                     Z8mfn 
-0000054 300  VVD     fell                     S3.2[i137.3.1 E2+[i137.3.1 M1 N5-/A2.1 S7.1- L1- A1.8+ G2.2- X9.2- K5.2 
-0000054 310  II      in                       S3.2[i137.3.2 E2+[i137.3.2 Z5 S3.2[i138.2.1 E2+[i138.2.1 
-0000054 320  NN1     love                     S3.2[i137.3.3 E2+[i137.3.3 S3.2 E2+ E2+/S2mf S3.2[i138.2.2 E2+[i138.2.2 
+0000054 300  VVD     fell                     S3.2[i140.3.1 E2+[i140.3.1 M1 N5-/A2.1 S7.1- L1- A1.8+ G2.2- X9.2- K5.2 
+0000054 310  II      in                       S3.2[i140.3.2 E2+[i140.3.2 Z5 S3.2[i141.2.1 E2+[i141.2.1 
+0000054 320  NN1     love                     S3.2[i140.3.3 E2+[i140.3.3 S3.2 E2+ E2+/S2mf S3.2[i141.2.2 E2+[i141.2.2 
 0000054 330  IW      with                     Z5 
 0000054 340  APPGE   his                      Z8m 
 0000054 350  JJ      American                 Z2 
 0000054 360  NN1     analog                   Y2 A6.1+ 
 0000054 361  ,       ,                        
-0000054 370  NP1     George                   Z1mf[i140.3.1 Z3c[i140.3.1 Z1m Z1mf[i139.2.1 Z3c[i139.2.1 
-0000054 380  NP1     W.                       Z1mf[i140.3.2 Z3c[i140.3.2 Z1mf[i139.2.2 Z3c[i139.2.2 Z1mf[i141.2.1 Z3c[i141.2.1 
-0000054 390  NP1     Bush                     Z3c[i140.3.3 Z1mf[i140.3.3 Z3c Z1mf Z1mf[i141.2.2 Z3c[i141.2.2 
+0000054 370  NP1     George                   Z1mf[i143.3.1 Z3c[i143.3.1 Z1m Z1mf[i142.2.1 Z3c[i142.2.1 
+0000054 380  NP1     W.                       Z1mf[i143.3.2 Z3c[i143.3.2 Z1mf[i142.2.2 Z3c[i142.2.2 Z1mf[i144.2.1 Z3c[i144.2.1 
+0000054 390  NP1     Bush                     Z3c[i143.3.3 Z1mf[i143.3.3 Z3c Z1mf Z1mf[i144.2.2 Z3c[i144.2.2 
 0000054 391  .       .                        
 0000056 001  NULL    <quote>                  
 0000056 002  -----   -----                    
@@ -2772,16 +2796,16 @@
 0000056 032  NULL    </quote>                 
 0000056 033  -----   -----                    
 0000056 040  VVZ     says                     Q2.1 
-0000056 050  NP1     Gary                     Z1mf[i142.2.1 Z3c[i142.2.1 Z1m 
-0000056 060  NP1     Shteyngart               Z1mf[i142.2.2 Z3c[i142.2.2 
+0000056 050  NP1     Gary                     Z1mf[i145.2.1 Z3c[i145.2.1 Z1m 
+0000056 060  NP1     Shteyngart               Z1mf[i145.2.2 Z3c[i145.2.2 
 0000056 061  ,       ,                        
 0000056 070  AT1     a                        Z5 
 0000056 080  NN1     novelist                 Q4.1/S2mf 
 0000056 090  PNQS    who                      Z8 
 0000056 100  VVD     emigrated                M1/M7 
 0000056 110  II      to                       Z5 
-0000056 120  NP1     New                      Z2[i144.2.1 Z1mf[i143.2.1 Z3c[i143.2.1 
-0000056 130  NP1     York                     Z2[i144.2.2 Z2 Z1mf Z1mf[i143.2.2 Z3c[i143.2.2 
+0000056 120  NP1     New                      Z2[i147.2.1 Z1mf[i146.2.1 Z3c[i146.2.1 
+0000056 130  NP1     York                     Z2[i147.2.2 Z2 Z1mf Z1mf[i146.2.2 Z3c[i146.2.2 
 0000056 140  II      from                     Z5 
 0000056 150  NP1     Leningrad                Z2 Z3c 
 0000056 160  II      at                       Z5 
@@ -2798,9 +2822,9 @@
 0000056 240  II      to                       Z5 
 0000056 250  NN1     democracy                G1.2 
 0000056 260  CCB     but                      Z5 
-0000056 270  II      in                       N4[i145.3.1 Z5 
-0000056 280  AT      the                      N4[i145.3.2 Z5 
-0000056 290  NN1     end                      N4[i145.3.3 M6 T2- O2 X7+ N4 
+0000056 270  II      in                       N4[i148.3.1 Z5 
+0000056 280  AT      the                      N4[i148.3.2 Z5 
+0000056 290  NN1     end                      N4[i148.3.3 M6 T2- O2 X7+ N4 
 0000056 300  PPHS2   they                     Z8mfn 
 0000056 310  VV0     want                     X7+ S6+ A7+ S3.2 A9- 
 0000056 320  DD      some                     N5 Z5 
@@ -2827,8 +2851,8 @@
 0000056 510  NN2     confines                 M7 A1.7+ 
 0000056 520  IO      of                       Z5 
 0000056 530  AT      the                      Z5 
-0000056 540  JJ      Soviet                   Z2[i146.2.1 Z2c[i147.2.1 
-0000056 550  NN1     Union                    Z2[i146.2.2 Z3c Z2c[i147.2.2 
+0000056 540  JJ      Soviet                   Z2[i149.2.1 Z2c[i150.2.1 
+0000056 550  NN1     Union                    Z2[i149.2.2 Z3c Z2c[i150.2.2 
 0000056 560  VBR     are                      Z5 A3+ 
 0000056 570  VVN     turned                   M2 M1 O4.4 A1.1.1 A2.1+ O4.2- 
 0000056 580  II      from                     Z5 
@@ -2850,8 +2874,8 @@
 0000056 740  JJ      indistinguishable        A6.1+ 
 0000056 750  II      from                     Z5 
 0000056 760  AT      the                      Z5 
-0000056 770  JJ      Communist                G1.2[i148.2.1 G1.2 
-0000056 780  NN1     Party                    G1.2[i148.2.2 K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c 
+0000056 770  JJ      Communist                G1.2[i151.2.1 G1.2 
+0000056 780  NN1     Party                    G1.2[i151.2.2 K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c 
 0000056 790  IO      of                       Z5 
 0000056 800  AT      the                      Z5 
 0000056 810  NP1     USSR                     Z2 
@@ -2859,11 +2883,12 @@
 0000056 812  NULL    </quote>                 
 0000058 001  NULL    <quote>                  
 0000058 002  -----   -----                    
-0000058 010  NN2     Theres                   Z5 M6 T1.2 
+0000058 010  EX      There                    Z5 
+0000058 011  VBZ     's                       A3+ Z5 
 0000058 020  PN1     something                Z8 
 0000058 030  II      in                       Z5 
-0000058 040  AT1     a                        N5+[i149.2.1 N6+[i149.2.1 A13.3[i149.2.1 Z5 
-0000058 050  NN1     lot                      N5+[i149.2.2 N6+[i149.2.2 A13.3[i149.2.2 
+0000058 040  AT1     a                        N5+[i152.2.1 N6+[i152.2.1 A13.3[i152.2.1 Z5 
+0000058 050  NN1     lot                      N5+[i152.2.2 N6+[i152.2.2 A13.3[i152.2.2 
 0000058 060  IO      of                       Z5 
 0000058 070  JJ      Russian-Jewish           Z99 
 0000058 080  JJ      immigrant                M1/M7/S2mf 
@@ -2882,8 +2907,8 @@
 0000058 192  NULL    </quote>                 
 0000058 193  -----   -----                    
 0000058 200  VVZ     says                     Q2.1 
-0000058 210  NP1     Mark                     Z1mf[i150.2.1 Z3c[i150.2.1 Z1m S9/O1.2 
-0000058 220  NP1     Krotov                   Z1mf[i150.2.2 Z3c[i150.2.2 
+0000058 210  NP1     Mark                     Z1mf[i153.2.1 Z3c[i153.2.1 Z1m S9/O1.2 
+0000058 220  NP1     Krotov                   Z1mf[i153.2.2 Z3c[i153.2.2 
 0000058 221  ,       ,                        
 0000058 230  AT1     a                        Z5 
 0000058 240  NN1     book                     Q4.1 Q1.2 K5.1/I1 
@@ -2902,14 +2927,16 @@
 0000058 343  -----   -----                    
 0000058 350  AT      The                      Z5 
 0000058 360  NN1     idea                     X4.1 X7+ 
-0000058 370  CST     that                     Z5 Z8 
-0000058 380  APPGE   its                      Z8 
-0000058 390  NN1@    worth                    I1.3 N5 A1.5.2+ S1.1.4+ 
+0000058 370  CST     that                     Z8 Z5 
+0000058 380  PPH1    it                       Z8 
+0000058 381  VBZ     's                       A3+ Z5 
+0000058 390  II      worth                    I1.3 A1.5.2+ S1.1.4+ N5 Z3 Z1mf Z2 
 0000058 400  VVG     fighting                 S8- X8+ E3- G1.2 
 0000058 410  IF      for                      Z5 
 0000058 420  NN1     thingsthey               Z99 
 0000058 430  VV0     think                    X2.1 
-0000058 440  APPGE   its                      Z8 
+0000058 440  PPH1    it                       Z8 
+0000058 441  VBZ     's                       A3+ Z5 
 0000058 450  JJ      feminine                 S2.1 
 0000058 451  .       .                        
 0000058 452  -----   -----                    
@@ -2930,8 +2957,8 @@
 0000058 580  PPH1    It                       Z8 
 0000058 590  RT      sometimes                N6 
 0000058 600  VVZ     runs                     M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4 
-0000058 610  II      in                       T1.1.2[i151.2.1 Z5 
-0000058 620  NN1     tandem                   T1.1.2[i151.2.2 M3fn 
+0000058 610  II      in                       T1.1.2[i154.2.1 Z5 
+0000058 620  NN1     tandem                   T1.1.2[i154.2.2 M3fn 
 0000058 630  IW      with                     Z5 
 0000058 640  AT1     an                       Z5 
 0000058 650  JJ      anti-intellectual        Z99 
@@ -2941,7 +2968,8 @@
 0000058 680  VBZ     is                       A3+ Z5 
 0000058 690  JJ      ironic                   Q2.2/S1.2.4- A6.1-/X2.6 
 0000058 700  CS      when                     Z5 
-0000058 710  APPGE   its                      Z8 
+0000058 710  PPH1    it                       Z8 
+0000058 711  VBZ     's                       Z5 A3+ 
 0000058 720  VVN     found                    A10+ X2.1 X6+.1 
 0000058 730  II      among                    Z5 
 0000058 740  NN2     intellectuals            X2.1/S2mf 
@@ -2974,8 +3002,8 @@
 0000060 150  NN1     center                   M6 H1c M7c G1.2c K5.1mfn 
 0000060 160  CC      and                      Z5 
 0000060 170  NN1     mosque                   S9/H1 
-0000060 180  MD      last                     T1.1.1[i152.2.1 N4 
-0000060 190  NNT1    summer                   T1.1.1[i152.2.2 T1.3 
+0000060 180  MD      last                     T1.1.1[i155.2.1 N4 
+0000060 190  NNT1    summer                   T1.1.1[i155.2.2 T1.3 
 0000060 191  ,       ,                        
 0000060 200  CS      when                     Z5 
 0000060 210  JJ      young                    T3- 
@@ -3025,25 +3053,26 @@
 0000060 600  AT      the                      Z5 
 0000060 610  NN1     subject                  X4.1 C1/S2mf Q3 P1 S7.1-/S2mf 
 0000060 611  ,       ,                        
-0000060 620  APPGE   its                      Z8 
+0000060 620  PPH1    it                       Z8 
+0000060 621  VBZ     's                       A3+ Z5 
 0000060 630  JJ      possible                 A7+ 
 0000060 640  AT      the                      Z5 
 0000060 650  NN1     future                   T1.1.3 
-0000060 660  VVZ     looks                    A6.1+[i153.2.1 A8 X3.4 X2.4 X7+ Z4 
-0000060 670  II      like                     A6.1+[i153.2.2 Z5 
+0000060 660  VVZ     looks                    A6.1+[i156.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000060 670  II      like                     A6.1+[i156.2.2 Z5 
 0000060 680  PN1     20-something             N1 N5 T3 
-0000060 690  NP1     Bela                     Z1mf[i154.2.1 Z3c[i154.2.1 
-0000060 700  NP1     Shayevich                Z1mf[i154.2.2 Z3c[i154.2.2 
+0000060 690  NP1     Bela                     Z1mf[i157.2.1 Z3c[i157.2.1 
+0000060 700  NP1     Shayevich                Z1mf[i157.2.2 Z3c[i157.2.2 
 0000060 701  ,       ,                        
 0000060 710  PNQS    who                      Z8 
 0000060 720  VVD     started                  T2+ E5- E3- 
 0000060 730  APPGE   her                      Z8f 
 0000060 740  NN1     assimilation             A6.1+/A2.1 A9+ 
 0000060 750  II      in                       Z5 
-0000060 760  NP1     Chicago                  Z2 Z3c Z2[i155.2.1 Z1mf[i155.2.1 
-0000060 770  MC      20                       T1.1.1[i156.3.1 N1 T1.2 T3 T1.3 N3.2 Z2[i155.2.2 Z1mf[i155.2.2 
-0000060 780  NNT2    years                    T1.1.1[i156.3.2 T1.3 T1.1.1[i157.2.1 
-0000060 790  RA      ago                      T1.1.1[i156.3.3 T1.1.1 T1.1.1[i157.2.2 
+0000060 760  NP1     Chicago                  Z2 Z3c Z2[i158.2.1 Z1mf[i158.2.1 
+0000060 770  MC      20                       T1.1.1[i159.3.1 N1 T1.2 T3 T1.3 N3.2 Z2[i158.2.2 Z1mf[i158.2.2 
+0000060 780  NNT2    years                    T1.1.1[i159.3.2 T1.3 T1.1.1[i160.2.1 
+0000060 790  RA      ago                      T1.1.1[i159.3.3 T1.1.1 T1.1.1[i160.2.2 
 0000060 800  CC      and                      Z5 
 0000060 810  RT      now                      T1.1.2 Z4 
 0000060 820  VVZ     finds                    A10+ X2.1 X6+ 
@@ -3090,14 +3119,16 @@
 0000062 050  NN1     nature                   W5 A4.1 S1.2 A6.2+ 
 0000062 060  IO      of                       Z5 
 0000062 070  APPGE   my                       Z8 
-0000062 080  NN2     fathers                  S4m S9/S2.2m 
+0000062 080  NN1     father                   S4m S9/S2.2m 
+0000062 081  GE      's                       Z5 
 0000062 090  CC      and                      Z5 
 0000062 100  APPGE   my                       Z8 
 0000062 110  NN2     grandparents             S4/S2mf 
+0000062 111  GE      '                        Z5 
 0000062 120  NN2     convictions              X2.1 X4.1 G2.1 
-0000062 130  VV0     come                     M1[i158.2.1 A10-[i158.2.1 A10+[i158.2.1 A1.1.1[i158.2.1 T2-[i158.2.1 S3.2/B1@[i158.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
-0000062 140  II21    out                      M1[i158.2.2 A10-[i158.2.2 A10+[i158.2.2 A1.1.1[i158.2.2 T2-[i158.2.2 S3.2/B1@[i158.2.2 Z5 Z5[i159.2.1 Z5[i160.2.1 A9-[i160.2.1 
-0000062 150  II22    of                       Z5 Z5[i159.2.2 Z5[i160.2.2 A9-[i160.2.2 
+0000062 130  VV0     come                     M1[i161.2.1 A10-[i161.2.1 A10+[i161.2.1 A1.1.1[i161.2.1 T2-[i161.2.1 S3.2/B1@[i161.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000062 140  II21    out                      M1[i161.2.2 A10-[i161.2.2 A10+[i161.2.2 A1.1.1[i161.2.2 T2-[i161.2.2 S3.2/B1@[i161.2.2 Z5 Z5[i162.2.1 Z5[i163.2.1 A9-[i163.2.1 
+0000062 150  II22    of                       Z5 Z5[i162.2.2 Z5[i163.2.2 A9-[i163.2.2 
 0000062 160  NN1     trauma                   E4.1- B2- 
 0000062 161  ,       ,                        
 0000062 162  NULL    </quote>                 
@@ -3132,8 +3163,8 @@
 0000062 401  .       .                        
 0000062 402  NULL    </quote>                 
 0000062 403  -----   -----                    
-0000064 010  NP1     Alexander                Z1mf[i161.2.1 Z3c[i161.2.1 Z1m 
-0000064 020  NP1     Zaitchik                 Z1mf[i161.2.2 Z3c[i161.2.2 
+0000064 010  NP1     Alexander                Z1mf[i164.2.1 Z3c[i164.2.1 Z1m 
+0000064 020  NP1     Zaitchik                 Z1mf[i164.2.2 Z3c[i164.2.2 
 0000064 021  ,       ,                        
 0000064 030  AT1     a                        Z5 
 0000064 040  NN1     writer                   Q4.1/S2mf Q1.2/S2mf 
@@ -3148,8 +3179,8 @@
 0000064 120  JJ      Common                   A6.2+ N5++ S5+ O4.2- 
 0000064 130  NN1     Nonsense                 A5.2- S1.2.6- 
 0000064 131  :       :                        
-0000064 140  NP1     Glenn                    Z1mf[i162.2.1 Z3c[i162.2.1 Z1mf 
-0000064 150  NP1     Beck                     Z1mf[i162.2.2 Z3c[i162.2.2 
+0000064 140  NP1     Glenn                    Z1mf[i165.2.1 Z3c[i165.2.1 Z1mf 
+0000064 150  NP1     Beck                     Z1mf[i165.2.2 Z3c[i165.2.2 
 0000064 160  CC      and                      Z5 
 0000064 170  AT      the                      Z5 
 0000064 180  NN1     Triumph                  Z3c 

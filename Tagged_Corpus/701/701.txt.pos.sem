@@ -120,7 +120,8 @@
 0000004 430  NN1     generation               T1.3 S5+c 
 0000004 431  .       .                        
 0000004 432  -----   -----                    
-0000004 440  NP2     Mikes                    Z1m 
+0000004 440  NP1     Mike                     Z1m 
+0000004 441  GE      's                       Z5 
 0000004 450  NN1     leadership               S7.1+ 
 0000004 460  VM      will                     T1.1.3 
 0000004 470  VBI     be                       A3+ Z5 
@@ -138,7 +139,8 @@
 0000004 590  TO      to                       Z5 
 0000004 600  VVI     grow                     N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4 
 0000004 610  MD      First                    N4 
-0000004 620  NN2     Datas                    X2.2/X2.4 Q1.1 
+0000004 620  NN      Data                     X2.2/X2.4 Q1.1 
+0000004 621  GE      's                       Z5 
 0000004 630  NN1     business                 I2.1 A1.1.1 A5.1+++ 
 0000004 640  II      as                       Z5 
 0000004 650  AT      the                      Z5 
@@ -164,7 +166,8 @@
 0000006 060  NP1     Manos                    Z99 
 0000006 070  VVD     served                   S8+ S7.1- I2.2 A9- F1 A1.1.1 I3.1 K5.1 G2.1 
 0000006 080  CSA     as                       Z5 
-0000006 090  VVZ     AOLs                     Z3c/Y2 
+0000006 090  NP1     AOL                      Z3c/Y2 
+0000006 091  GE      's                       Z5 
 0000006 100  JJ      chief                    S7.1+ 
 0000006 110  NN1     technology               Y1 
 0000006 120  NN1     officer                  G3/S7.1+/S2mf G1.1/S2mf S7.1+/S2mf G2.1/S2mf 
@@ -209,7 +212,8 @@
 0000006 480  NN1     Realty                   H1 
 0000006 490  NN1     Trust                    E6+ I1.1 S5+c B3/H1c 
 0000006 500  CC      and                      Z5 
-0000006 510  NP2     Microsofts               Z3c 
+0000006 510  NP1     Microsoft                Z3c 
+0000006 511  GE      's                       Z5 
 0000006 520  JJ      Global                   Z3c[i7.2.1 Z3c 
 0000006 530  NN1     Foundation               Z3c[i7.2.2 T2+ H2 S5+c A5.2+ B4 
 0000006 540  NN2     Services                 S8+ S7.1- A1.1.1 S9 G3@ G2.1@ M3/M7@ 

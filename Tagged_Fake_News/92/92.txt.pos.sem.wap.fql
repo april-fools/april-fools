@@ -1,4 +1,4 @@
-TOTAL              180
+TOTAL              183
 the                  AT             21 
 of                   IO              5 
 Clinton              NP1             4 
@@ -9,14 +9,16 @@ and                  CC              4
 for                  IF              4 
 email                NN1             3 
 classified           JJ              3 
+FBI                  NP1             3 
 machine              NN1             2 
 27                   MC              2 
 chains               NN2             2 
 containing           VVG             2 
 found                VVN             2 
+Anthony_Weiner       NP1             2 
+'s                   GE              2 
 to                   TO              2 
 Hillary_Clinton      NP1             2 
-FBI                  NP1             2 
 emails               NN2             2 
 warrant              NN1             2 
 by                   II              2 
@@ -33,7 +35,6 @@ screeching           VVG             1
 halt                 NN1             1 
 as                   CSA             1 
 were                 VBDR            1 
-Anthony_Weiners      NP1             1 
 expect               VV0             1 
 congressional        JJ              1 
 republicans          NN2             1 
@@ -57,7 +58,6 @@ access               VVI             1
 used                 VVN             1 
 disgraced            JJ              1 
 ex-rep               NN1             1 
-Anthony_Weiner       NP1             1 
 his                  APPGE           1 
 estranged            JJ              1 
 wife                 NN1             1 
@@ -75,7 +75,6 @@ days                 NNT2            1
 before               II              1 
 presidential         JJ              1 
 election             NN1             1 
-FBIs                 NP2             1 
 found                VVD             1 
 that                 CST             1 
 never                RR              1 
@@ -111,7 +110,8 @@ later                RRR             1
 addressed            VVN             1 
 to                   II              1 
 sent                 VVN             1 
-its                  APPGE           1 
+it                   PPH1            1 
+'s                   VBZ             1 
 end                  NN1             1 
 line                 NN1             1 
 crime                NN1             1 

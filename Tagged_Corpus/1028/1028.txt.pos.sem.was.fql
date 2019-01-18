@@ -1,11 +1,12 @@
-TOTAL              189
+TOTAL              194
 a                    Z5                   8 
 for                  Z5                   7 
 the                  Z5                   6 
 and                  Z5                   6 
 of                   Z5                   5 
-ONeal                Z99                  4 
-was                  Z5                   3 
+was                  Z5                   4 
+O'Neal               Z99                  4 
+n't                  Z6                   3 
 Whitmore             Z1                   3 
 to                   Z5                   3 
 he                   Z8                   3 
@@ -15,6 +16,7 @@ possession           A9+                  2
 narcotics            F3                   2 
 jail                 G2.1                 2 
 facility             H1                   2 
+'s                   Z5                   2 
 at                   Z5                   2 
 about                A13.4                2 
 our                  Z8                   2 
@@ -22,13 +24,14 @@ deputies             S7.1-                2
 in                   Z5                   2 
 parking              M8                   2 
 lot                  N5                   2 
+was                  A3+                  2 
 drugs                B3                   2 
-wasnt                Z99                  2 
+who                  Z8                   2 
 drug                 B3                   2 
-Redmond_ONeal        Z1                   1 
+Redmond_O'Neal       Z1                   1 
 it                   Z8                   1 
 seems                A8                   1 
-cant                 Q2.1                 1 
+ca                   A7+                  1 
 shake                M2                   1 
 personal             S5-                  1 
 demons               S9                   1 
@@ -36,7 +39,7 @@ troubled             E6-                  1
 son                  S4                   1 
 oscar-nominated      Z99                  1 
 actor                K4                   1 
-Ryan_ONeal           Z1                   1 
+Ryan_O'Neal          Z1                   1 
 actress              K4                   1 
 Farrah_Fawcett       Z1                   1 
 arrested             G2.1                 1 
@@ -44,7 +47,7 @@ Sunday_morning       T1.3                 1
 bringing             M2                   1 
 into                 Z5                   1 
 Los_Angeles          Z2                   1 
-sheriffs             G2.1                 1 
+sheriff              G2.1                 1 
 spokesman            Q2.2                 1 
 Steve_Whitmore       Z2                   1 
 confirms             A7+                  1 
@@ -63,7 +66,6 @@ Redmond              Z99                  1
 driving              M3                   1 
 vehicle              M3                   1 
 admitted             Q2.2                 1 
-was                  A3+                  1 
 in_possession_of     A9+                  1 
 adds                 N5+                  1 
 that                 Z5                   1 
@@ -71,7 +73,6 @@ that                 Z5                   1
 accompanied          S3.1                 1 
 by                   Z5                   1 
 friend               S3.1                 1 
-who                  Z8                   1 
 wanted               X7+                  1 
 visit                S1.1.1               1 
 someone              Z8                   1 
@@ -91,7 +92,6 @@ is                   A3+                  1
 secure               A7+                  1 
 area                 M7                   1 
 explains             Q2.2                 1 
-whos                 Z3                   1 
 currently            T1.1.2               1 
 serving              S8+                  1 
 probation            G2.1                 1 

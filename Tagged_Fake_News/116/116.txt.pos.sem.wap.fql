@@ -1,4 +1,4 @@
-TOTAL              232
+TOTAL              234
 the                  AT             14 
 is                   VBZ             7 
 and                  CC              7 
@@ -16,6 +16,7 @@ it                   PPH1            3
 entire               JJ              3 
 so                   RR              2 
 how                  RRQ             2 
+n't                  XX              2 
 about                II              2 
 Donald_trump         NP1             2 
 popular              JJ              2 
@@ -33,7 +34,7 @@ do                   VD0             2
 like                 II              2 
 what                 DDQ             2 
 just                 RR              2 
-yall                 VV0             1 
+y'all                VV0             1 
 are                  VBR             1 
 gon                  VVGK            1 
 na                   TO              1 
@@ -45,8 +46,8 @@ one                  PN1             1
 remember             VV0             1 
 mainstream           JJ              1 
 media                NN              1 
-wouldnt              VV0             1 
-shut_up              VV0             1 
+would                VM              1 
+shut_up              VVI             1 
 beating              VVG             1 
 2.8_million          MC              1 
 well                 RR              1 
@@ -138,7 +139,8 @@ worked_out           VVD             1
 way                  NN1             1 
 was                  VBDZ            1 
 supposed             JJ              1 
-im                   VV0             1 
+i                    PPIS1           1 
+'m                   VBM             1 
 sure                 JJ              1 
 bunch                NN1             1 
 crybabies            NN2             1 
@@ -147,7 +149,6 @@ still                RR              1
 try                  VVI             1 
 he                   PPHS1           1 
 did                  VDD             1 
-nt                   XX              1 
 look_in_the_eye      VV0             1 
 them                 PPHO2           1 
 say                  VV0             1 

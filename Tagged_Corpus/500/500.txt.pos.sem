@@ -15,7 +15,8 @@
 0000002 120  NN1     boom                     N5++ I2.1/N5++ X3.2 O2 
 0000002 121  .       .                        
 0000003 001  -----   -----                    
-0000004 010  NP2     Japans                   Z2 
+0000004 010  NP1     Japan                    Z2 
+0000004 011  GE      's                       Z5 
 0000004 020  RR      rapidly                  N3.8+ 
 0000004 030  JJ      aging                    T3 
 0000004 040  NN1     population               S2/N5c 
@@ -73,7 +74,8 @@
 0000006 110  II      from                     M6[i3.2.2 A2.2[i3.2.2 Z5 
 0000006 120  AT      the                      Z5 
 0000006 130  JJ      Japanese                 Z2 Z2/Q3 Z2/S2mfnc 
-0000006 140  NN2     governments              G1.1c 
+0000006 140  NN1     government               G1.1c 
+0000006 141  GE      's                       Z5 
 0000006 150  JJ      Accelerated              N3.8+/A2.1 
 0000006 160  NN1     Family                   S4c A4.1c 
 0000006 170  NN1     Bureau                   G1.1 H5 
@@ -383,8 +385,9 @@
 0000026 002  -----   -----                    
 0000026 010  CCB     B-but                    Z99 
 0000026 020  JJ      Sakura-chan              Z99 
-0000026 030  NN1     youre                    Z99 
-0000026 040  VVN@    married                  S4 A2.2 
+0000026 030  PPY     you                      Z8mf 
+0000026 031  VBR     're                      A3+ Z5 
+0000026 040  JJ      married                  S4 A2.2 
 0000026 050  II      to                       Z5 
 0000026 060  NP1     Sasuke                   Z99 
 0000026 070  RT      now                      T1.1.2 Z4 
@@ -393,8 +396,9 @@
 0000026 082  NULL    </quote>                 
 0000028 001  NULL    <quote>                  
 0000028 002  -----   -----                    
-0000028 010  APPGE   Its                      Z8 
-0000028 020  JJ@     okay                     Z4 A5.1+ 
+0000028 010  PPH1    It                       Z8 
+0000028 011  VBZ     's                       A3+ Z5 
+0000028 020  JJ      okay                     Z4 A5.1+ 
 0000028 021  .       .                        
 0000028 022  -----   -----                    
 0000028 030  PPIS1   I                        Z8mf 
@@ -489,7 +493,7 @@
 0000038 003  -----   -----                    
 0000038 010  PPIS2   We                       Z8 
 0000038 020  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000038 021  XX      nt                       S9/Q4.1 Z3c 
+0000038 021  XX      n't                      Z6 
 0000038 030  VVI     want                     X7+ S6+ A7+ S3.2 A9- 
 0000038 040  NNO2    thousands                N1 N5+ I1 
 0000038 050  IO      of                       Z5 
@@ -544,7 +548,8 @@
 0000042 240  JJ      successful               X9.2+ 
 0000042 250  CSN     than                     Z5 
 0000042 260  AT      the                      Z5 
-0000042 270  NN2     governments              G1.1c 
+0000042 270  NN1     government               G1.1c 
+0000042 271  GE      's                       Z5 
 0000042 280  JJ      controversial            A6.2- 
 0000042 290  NN1     policy                   X7+ Q1.2 
 0000042 300  MD      last                     T1.1.1[i31.2.1 N4 T1.3[i30.2.1 P1/S2mf[i30.2.1 

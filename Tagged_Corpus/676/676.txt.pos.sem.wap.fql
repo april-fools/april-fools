@@ -1,4 +1,4 @@
-TOTAL              448
+TOTAL              460
 the                  AT             19 
 is                   VBZ            10 
 of                   IO             10 
@@ -8,13 +8,15 @@ he                   PPHS1           9
 in                   II              8 
 for                  IF              8 
 was                  VBDZ            7 
+'                    GE              6 
 a                    AT1             6 
 to                   TO              6 
+'s                   GE              6 
+Marler               NP1             5 
 Stevens              NP1             5 
 with                 IW              4 
 it                   PPH1            4 
 to                   II              4 
-Marler               NP1             4 
 England              NP1             4 
 two                  MC              4 
 on                   II              4 
@@ -29,11 +31,10 @@ only                 RR              3
 world_cup            NN1             3 
 being                VBG             3 
 have                 VH0             3 
-Marcos               NP1             2 
 than                 CSN             2 
+see                  VVI             2 
 what                 DDQ             2 
 be                   VBI             2 
-years                NNT2            2 
 use                  NN1             2 
 could                VM              2 
 cup                  NN1             2 
@@ -49,6 +50,7 @@ surprised            JJ              2
 man                  NN1             2 
 the_match            AT              2 
 Steve_Meehan         NP1             2 
+McCall               NP1             2 
 appearances          NN2             2 
 three                MC              2 
 been                 VBN             2 
@@ -58,10 +60,10 @@ said                 VVD             2
 some                 DD              2 
 tighthead            NN1             2 
 Harlequins           NP1             1 
-'                    GE              1 
 Joe_Marler           NP1             1 
 centre               NN1             1 
 clashes              NN2             1 
+Marcos               NP1             1 
 Ayerza_on_Saturday   NP1             1 
 minor                JJ              1 
 interruption         NN1             1 
@@ -72,13 +74,13 @@ no                   AT              1
 further              RRR             1 
 once-established     JJ              1 
 prop                 VV0             1 
-see                  VVI             1 
 done                 VDN             1 
 much                 RR              1 
 longer               JJR             1 
 absence              NN1             1 
 Matt_Stevens         NP1             1 
 case                 NN1             1 
+years                NNT2            1 
 testing              VVG             1 
 positive             JJ              1 
 cocaine              NN1             1 
@@ -90,7 +92,7 @@ turn                 VVI             1
 whether              CSW             1 
 they                 PPHS2           1 
 win                  VVI             1 
-Europes              NP2             1 
+Europe               NP1             1 
 second-tier          JJ              1 
 amlin                NN1             1 
 challenge            NN1             1 
@@ -102,7 +104,7 @@ ban                  NN1             1
 retaliatory          JJ              1 
 punching             NN1             1 
 same                 DA              1 
-Ayerzas              NP2             1 
+Marcos_Ayerza        NP1             1 
 head                 NN1             1 
 that                 CST             1 
 provoked             VVD             1 
@@ -121,8 +123,8 @@ miss                 VVI             1
 an                   AT1             1 
 bigger               JJR             1 
 game                 NN1             1 
-Leicesters           NP2             1 
-against              II              1 
+Leicester            NP1             1 
+'s_against           VBZ             1 
 Leinster_in_Dublin   NP1             1 
 Friday               NPD1            1 
 quarter-finals       NN2             1 
@@ -134,6 +136,7 @@ test                 NN1             1
 future               NN1             1 
 if                   CS              1 
 not                  XX              1 
+year                 NNT1            1 
 then                 RT              1 
 2015                 MC              1 
 edition              NN1             1 
@@ -154,7 +157,7 @@ hairdo               NN1             1
 whatever             DDQV            1 
 bright               JJ              1 
 colour               NN1             1 
-Corbisieros          NP1             1 
+Corbisiero           NP1             1 
 future               JJ              1 
 rival                NN1             1 
 would                VM              1 
@@ -179,7 +182,7 @@ Wayne_Barnes         NP1             1
 another              DD1             1 
 those                DD2             1 
 barring              II              1 
-Marlers_way          NP1             1 
+way                  NN1             1 
 punted               VVN             1 
 coach                VV0             1 
 Mark_McCall          NP1             1 
@@ -195,7 +198,6 @@ expired              VVD             1
 began                VVD             1 
 new                  JJ              1 
 career               NN1             1 
-McCalls              NP2             1 
 contention           NN1             1 
 based_on             VVN             1 
 eight                MC              1 
@@ -203,8 +205,8 @@ decent               JJ              1
 number               NN1             1 
 in_a_short_time      II              1 
 except_that          CS21            1 
-sarries              NN2             1 
-starting             VVG             1 
+Sarries              NP1             1 
+starting             NN1             1 
 xv                   MC              1 
 28                   MC              1 
 given                VVN             1 
@@ -219,14 +221,14 @@ departing            VVG             1
 counselling          VVG             1 
 caution              NN1             1 
 Meehan               NP1             1 
-s                    VBZ             1 
+'s                   VBZ             1 
 still                RR              1 
 a_little             RR21            1 
 raw                  JJ              1 
 work                 NN1             1 
 do                   VDI             1 
-well                 RR              1 
-see                  VV0             1 
+we                   PPIS2           1 
+'ll                  VM              1 
 comes                VVZ             1 
 over_time            II              1 
 ability              NN1             1 
@@ -235,7 +237,6 @@ needs                VVZ             1
 apply_himself        VVI             1 
 keep                 VVI             1 
 working              VVG             1 
-McCall               NP1             1 
 something            PN1             1 
 similar              JJ              1 
 temptation           NN1             1 

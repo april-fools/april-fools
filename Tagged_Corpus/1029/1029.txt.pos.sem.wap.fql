@@ -1,14 +1,16 @@
-TOTAL             1527
+TOTAL             1536
 the                  AT            115 
 in                   II             92 
 and                  CC             41 
 US                   NP1            34 
 of                   IO             32 
 a                    AT1            30 
+al_Qaeda             NP1            25 
 waziristan           JJ             24 
+'s                   GE             21 
 for                  IF             18 
 to                   TO             17 
-al_Qaeda             NP1            16 
+Pakistan             NP1            14 
 2009                 MC             14 
 North                NP1            13 
 strike               NN1            13 
@@ -18,7 +20,6 @@ senior               JJ             12
 Afghanistan          NP1            12 
 tribal               JJ             11 
 taliban              JJ             11 
-al                   NP1            11 
 attacks              NN2            11 
 were                 VBDR           10 
 killed               VVN            10 
@@ -27,18 +28,16 @@ military             JJ             10
 South                NP1            10 
 on                   II              9 
 was                  VBDZ            9 
-Qaedas               NP2             9 
 madrassa             NN1             8 
 by                   II              8 
 is                   VBZ             8 
-Pakistan             NP1             8 
 strikes              VVZ             7 
 agency               NN1             6 
 at                   II              6 
-Pakistans            NP2             6 
 taliban              NN1             6 
 leaders              NN2             6 
 have                 VH0             6 
+attack               NN1             6 
 long                 JJ              6 
 war                  NN1             6 
 with                 IW              6 
@@ -47,7 +46,6 @@ his                  APPGE           6
 kills                VVZ             6 
 predator             NN1             5 
 been                 VBN             5 
-attack               NN1             5 
 inside               II              5 
 journal              NN1             5 
 to                   II              5 
@@ -125,6 +123,7 @@ foreigners           NN2             2
 according_to         II21            2 
 news                 NN1             2 
 arab                 JJ              2 
+al                   NP1             2 
 qaeda-linked         JJ              2 
 against              II              2 
 arakzai              JJ              2 
@@ -155,6 +154,7 @@ information          NN1             2
 connections          NN2             2 
 leadership           NN1             2 
 conduct              VVI             2 
+Taliban              NP1             2 
 checkpoint           NN1             2 
 frontier             NN1             2 
 corps                NN              2 
@@ -217,8 +217,7 @@ warlord              NN1             1
 Hafiz_Gul_Bahadar    NP1             1 
 operate              VV0             1 
 strong               JJ              1 
-todays               NN2             1 
-attack               VV0             1 
+today                RT              1 
 thirteenth           MD              1 
 year                 NNT1            1 
 follows              VVZ             1 
@@ -346,7 +345,6 @@ recruits             VVZ             1
 into                 II              1 
 trains               VVZ             1 
 convoy               NN1             1 
-Taliban              NP1             1 
 attempted            VVD             1 
 strike               VVI             1 
 back                 RP              1 
@@ -398,7 +396,7 @@ series               NN              1
 assault              NN1             1 
 police               NN2             1 
 Lahore               NP1             1 
-yesterdays           NN2             1 
+yesterday            RT              1 
 shooting             NN1             1 
 immigration          NN1             1 
 services             NN2             1 
@@ -421,7 +419,6 @@ orders               NN2             1
 reaction             NN1             1 
 drone                NN1             1 
 another              DD1             1 
-baitullahs           NN2             1 
 claim                NN1             1 
 false                JJ              1 
 attacker             NN1             1 
@@ -460,7 +457,7 @@ using                VVG             1
 means                NN              1 
 effort               NN1             1 
 disrupt              VVI             1 
-decapitate           VVI             1 
+decapitate           VV0             1 
 targeted             VVN             1 
 operating            VVG             1 
 particularly         RR              1 
@@ -477,7 +474,6 @@ passports            NN2             1
 officials            NN2             1 
 told                 VVN             1 
 devoted              JJ              1 
-talibans             NN2             1 
 arm                  NN1             1 
 bombers              NN2             1 
 focus                NN1             1 
@@ -542,8 +538,7 @@ Osama_al_Kini        NP1             1
 aide                 NN1             1 
 Sheikh               NNB             1 
 Ahmed_Salim_Swedan   NP1             1 
-new_years            JJ              1 
-Day                  NP1             1 
+new_year_'s_day      JJ              1 
 Kini                 NP1             1 
 both                 DB2             1 
 1998                 MC              1 
@@ -561,14 +556,14 @@ April_4              NPM1            1
 April                NPM1            1 
 latest               JJT             1 
 March_26             NPM1            1 
-Mehsuds              NP2             1 
+Baitullah_Mehsud     NP1             1 
 hometown             NN1             1 
 March_15             NPM1            1 
 Kurram               NP1             1 
 14                   MC              1 
 March_12             NPM1            1 
 March                NPM1            1 
-kurram               VV0             1 
+kurram               NN1             1 
 30                   MC              1 
 Feb._16              NPM1            1 
 25                   MC              1 
@@ -591,4 +586,3 @@ defense              NN1             1
 democracies          NN2             1 
 editor               NN1             1 
 FDD                  NP1             1 
-'s                   GE              1 

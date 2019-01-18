@@ -1,7 +1,7 @@
-TOTAL              587
+TOTAL              595
 the                  AT             30 
 they                 PPHS2          24 
-is                   VBZ            17 
+is                   VBZ            18 
 and                  CC             14 
 we                   PPIS2          13 
 are                  VBR            12 
@@ -17,6 +17,7 @@ people               NN              5
 him                  PPHO1           5 
 when                 CS              5 
 from                 II              5 
+n't                  XX              5 
 but                  CCB             5 
 in                   II              5 
 on                   II              5 
@@ -28,17 +29,19 @@ will                 VM              4
 who                  PNQS            4 
 he                   PPHS1           4 
 entertainment        NN1             4 
+that                 DD1             4 
 think                VV0             4 
+have                 VH0             4 
 to                   TO              4 
 be                   VBI             3 
 channel              NN1             3 
 went                 VVD             3 
+'s                   GE              3 
 being                VBG             3 
+trump                NN1             3 
 shows                NN2             3 
-that                 DD1             3 
 how                  RRQ             3 
 ratings              NN2             3 
-have                 VH0             3 
 been                 VBN             3 
 every_day            AT1             3 
 at                   II              3 
@@ -52,7 +55,6 @@ naked                JJ              2
 afraid               JJ              2 
 these                DD2             2 
 did                  VDD             2 
-nt                   XX              2 
 were                 VBDR            2 
 actually             RR              2 
 wanted               VVD             2 
@@ -62,11 +64,11 @@ Hillary_Clinton      NP1             2
 do                   VD0             2 
 those                DD2             2 
 new                  JJ              2 
+family               NN1             2 
 first_three_months   MD              2 
 same                 DA              2 
 not                  XX              2 
 say                  VVI             2 
-trump                NN1             2 
 just                 RR              2 
 with                 IW              2 
 understands          VVZ             2 
@@ -139,9 +141,7 @@ ac_Nielsen           NN1             1
 company              NN1             1 
 selects              VVZ             1 
 nielsen              NN1             1 
-family               NN1             1 
 disregard            VV0             1 
-familys              NN2             1 
 results              NN2             1 
 reason               NN1             1 
 when                 RRQ             1 
@@ -173,10 +173,10 @@ like                 II              1
 their                APPGE           1 
 favorite             JJ              1 
 mindless             JJ              1 
-trumps               NN2             1 
 replacement          NN1             1 
 Paul_Manafort        NP1             1 
-Breitbarts_Steve_Bannon NP1             1 
+Breitbart            NP1             1 
+Steve_Bannon         NP1             1 
 shows                VVZ             1 
 americans            NN2             1 
 tv-based             JJ              1 
@@ -212,7 +212,6 @@ past                 JJ              1
 40                   MC              1 
 devoted              VVN             1 
 screen               NN1             1 
-havent               VV0             1 
 resonate             VV0             1 
 real                 JJ              1 
 housewives           NN2             1 
@@ -258,10 +257,10 @@ smarter              JJR             1
 better               RRR             1 
 prepared             VVN             1 
 politician           NN1             1 
-wont                 JJ              1 
-matter               NN1             1 
+wo                   VM              1 
+matter               VVI             1 
 terrible             JJ              1 
-thats                NN2             1 
+'s                   VBZ             1 
 depressing           JJ              1 
 true                 JJ              1 
 Kim                  NP1             1 
@@ -282,5 +281,4 @@ America              NP1             1
 can                  VM              1 
 safely               RR              1 
 watch                VV0             1 
-isnt                 VV0             1 
 PBS_NewsHour         NP1             1 

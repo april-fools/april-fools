@@ -1,4 +1,4 @@
-TOTAL              214
+TOTAL              215
 the                  AT             15 
 and                  CC              7 
 beauty               NN1             6 
@@ -76,7 +76,8 @@ sees                 VVZ             1
 doctor               NN1             1 
 's                   GE              1 
 chair                NN1             1 
-its                  APPGE           1 
+it                   PPH1            1 
+'s                   VBZ             1 
 typical              JJ              1 
 big                  JJ              1 
 innovations          NN2             1 

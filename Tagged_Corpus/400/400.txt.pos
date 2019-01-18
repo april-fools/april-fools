@@ -20,8 +20,9 @@
 0000004 070 a                                           93 AT1
 0000004 080 futuristic                                  93 JJ
 0000004 090 addition                                    93 NN1
-0000004 100 to                                          93 [II/99] TO/1
-0000004 110 Londons                                     04 NP2
+0000004 100 to                                          93 [II/100] TO/0
+0000004 110 London                    >                 93 NP1
+0000004 111 's                        <                 98 GE
 0000004 120 skyline                                     93 NN1
 0000004 130 today                                       93 RT
 0000004 131 .                                           03 .
@@ -100,7 +101,8 @@
 0000006 310 unable                                      97 JK
 0000006 320 to                                          97 TO
 0000006 330 carry                                       97 VVI
-0000006 340 todays                      ERROR?          07 NN2
+0000006 340 today                     >                 93 RT
+0000006 341 's                        <                 03 [GE/100] VBZ/0 VHZ@/0
 0000006 350 payload                                     93 NN1
 0000006 360 of                                          93 IO
 0000006 370 telecommunications                          03 NN2

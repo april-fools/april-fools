@@ -1,10 +1,11 @@
-TOTAL              669
+TOTAL              682
 the                  Z5                  42 
 and                  Z5                  35 
+GE                   Z3                  27 
 of                   Z5                  23 
-GE                   Z3                  23 
+manufacturing        A1.1.1              17 
 in                   Z5                  17 
-manufacturing        A1.1.1              15 
+'s                   Z5                  14 
 to                   Z5                  11 
 with                 Z5                  11 
 a                    Z5                  10 
@@ -17,17 +18,17 @@ technology           Y1                   6
 is                   A3+                  6 
 advanced             T3-                  6 
 industry             I4                   6 
+CATA                 Z99                  5 
 from                 Z5                   5 
 jobs                 I3.1                 5 
 productivity         I2.1                 5 
 our                  Z8                   5 
+Pittsburgh           Z99                  5 
 opening              A1.1.1               4 
 innovation           T3-                  4 
 across               Z5                   4 
 center               M6                   4 
-CATA                 Z99                  4 
 industrial           I4                   4 
-GEs                  Z3                   4 
 as                   Z5                   4 
 this                 M6                   4 
 aviation             M5                   4 
@@ -40,9 +41,9 @@ future               T1.1.3               3
 workforce            I3.1                 3 
 is                   Z5                   3 
 we                   Z8                   3 
-Pittsburgh           Z99                  3 
 at                   Z5                   3 
 business             I2.1                 2 
+today                T1.1.2               2 
 that                 Z8                   2 
 drive                M3                   2 
 located              M6                   2 
@@ -61,7 +62,6 @@ this                 Z8                   2
 U.S.                 Z8                   2 
 hub                  O2                   2 
 development          A2.1+                2 
-manufacturings       A1.1.1               2 
 impact               A2.2                 2 
 economy              I2.1                 2 
 work                 I3.1                 2 
@@ -80,7 +80,6 @@ software             Y2                   2
 create               A1.1.1               2 
 while                Z5                   2 
 advancing            M1                   2 
-Pittsburghs          Z99                  2 
 Pennsylvania         Z2                   2 
 home                 H4                   2 
 state                G1.1                 2 
@@ -98,7 +97,6 @@ each                 N5.1+                2
 PITTSBURGH--         Z99                  1 
 wire                 O2                   1 
 --GE                 Z99                  1 
-today                T1.1.2               1 
 celebrated           E4.1+                1 
 grand                O4.2+                1 
 implementation       A1.1.1               1 
@@ -137,13 +135,12 @@ white_paper          Q1.2                 1
 detailing            Q2.2                 1 
 positive             A5.1+                1 
 shaping              O4.4                 1 
-CATAs                Z99                  1 
 job                  I3.1                 1 
 serves               S8+                  1 
 proof                A5.2+                1 
 point                Q2.1                 1 
 many                 N5+                  1 
-papers               Q4.2                 1 
+paper                Q4.2                 1 
 findings             A10+                 1 
 accounts_for         Q2.2                 1 
 13_percent           N5                   1 
@@ -173,7 +170,6 @@ America              Z2                   1
 makes                A4.1                 1 
 government           G1.1                 1 
 officials            G1.1                 1 
-Todays               Z3                   1 
 evidence             A5.2+                1 
 leading              S7.1+                1 
 transformation       A2.1+                1 
@@ -220,7 +216,6 @@ perfect              A5.1+++              1
 Governor_Tom         Z1                   1 
 wolf                 Z1                   1 
 welcome              Q2.2                 1 
-'s                   Z5                   1 
 promise              S6+                  1 
 greater              A5.1++               1 
 region               M7                   1 
@@ -242,7 +237,7 @@ international        M7                   1
 marketplace          I2.2                 1 
 make                 A1.1.1               1 
 epicenter            Z99                  1 
-tomorrows            T1.1.3               1 
+tomorrow             T1.1.3               1 
 its                  Z8                   1 
 academia             P1                   1 
 proud                E4.2+                1 
@@ -283,7 +278,7 @@ Rutland              Z2                   1
 Vermont              Z2                   1 
 about                Z5                   1 
 nyse:ge              Z99                  1 
-worlds               W1                   1 
+world                W1                   1 
 digital              Z3                   1 
 transforming         A2.1+                1 
 software-defined     Z99                  1 

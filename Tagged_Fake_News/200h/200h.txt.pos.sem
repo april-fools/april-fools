@@ -9,5 +9,5 @@
 0000002 070  IW      with                     Z5 
 0000002 080  NN1     drain                    B4/H2 
 0000002 090  AT      the                      Z5 
-0000002 100  NN1     swamp                    W3/L3 
+0000002 100  NN1     swamp'                   Z99 
 0000004 001  NULL    **8;7;text               

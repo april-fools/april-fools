@@ -1,8 +1,8 @@
-TOTAL              426
+TOTAL              433
 the                  AT             29 
 to                   TO             11 
 and                  CC             10 
-of                   IO              9 
+of                   IO              8 
 a                    AT1             8 
 will                 VM              8 
 on                   II              7 
@@ -19,10 +19,13 @@ they                 PPHS2           4
 be                   VBI             4 
 by                   II              4 
 could                VM              4 
-its                  APPGE           4 
+it                   PPH1            4 
+'s                   VBZ             4 
 already              RR              3 
+'s                   GE              3 
 an                   AT1             3 
 with                 IW              3 
+'                    GE              3 
 which                DDQ             3 
 at                   II              2 
 labour               JJ              2 
@@ -41,7 +44,7 @@ believe              VV0             2
 effectively          RR              2 
 been                 VBN             2 
 can                  VM              2 
-understood           JJ              2 
+understood           VVN             2 
 accessible           JJ              2 
 idea                 NN1             2 
 style                NN1             2 
@@ -58,8 +61,7 @@ biggest              JJT             1
 issues               NN2             1 
 polls                NN2             1 
 following            VVG             1 
-George               NP1             1 
-Osbornes             NP2             1 
+George_Osborne       NP1             1 
 announcement         NN1             1 
 national_insurance   JJ              1 
 today                RT              1 
@@ -122,9 +124,8 @@ announced            VVN             1
 close                VVI             1 
 as                   II              1 
 part                 NN1             1 
-ministry             NN1             1 
-justices             NN2             1 
-cuts                 VVZ             1 
+ministry_of_justice  NN1             1 
+cuts                 NN2             1 
 advisers             NN2             1 
 arguing              VVG             1 
 should               VM              1 
@@ -229,7 +230,7 @@ seats                NN2             1
 to                   II              1 
 highest              JJT             1 
 bidder               NN1             1 
-thought              NN1             1 
+thought              VVN             1 
 foremanship          NN1             1 
 old                  JJ              1 
 bailey               NN1             1 
@@ -244,14 +245,14 @@ backed               VVN             1
 Simon_Cowell         NP1             1 
 Lord_Lester          NNB             1 
 chair                VVI             1 
-dragons              NN2             1 
+dragon               NN1             1 
 den                  NN1             1 
 panel                NN1             1 
 judges               NN2             1 
 dispensing           VVG             1 
 around               II              1 
 country              NN1             1 
-hoped                VVD             1 
+hoped                VVN             1 
 involve              VVI             1 
 celebrity            NN1             1 
 advocates            NN2             1 

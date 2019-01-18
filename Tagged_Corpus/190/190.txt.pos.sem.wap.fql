@@ -1,4 +1,4 @@
-TOTAL              377
+TOTAL              378
 the                  AT             26 
 a                    AT1            11 
 and                  CC             10 
@@ -55,7 +55,8 @@ accord               NN1             1
 sell                 VVI             1 
 critical             JJ              1 
 $350_billion         NNU             1 
-Internets            NP1             1 
+Internet             NP1             1 
+'s                   GE              1 
 root                 NN1             1 
 servers              NN2             1 
 com                  VV0             1 

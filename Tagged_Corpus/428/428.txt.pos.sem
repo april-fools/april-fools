@@ -90,7 +90,7 @@
 0000004 073  -----   -----                    
 0000004 080  PPIS2   We                       Z8 
 0000004 090  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000004 091  XX      nt                       S9/Q4.1 Z3c 
+0000004 091  XX      n't                      Z6 
 0000004 100  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
 0000004 110  DD1     that                     Z5 Z8 
 0000004 120  NN1     coming                   M1 T1.1.3 S9 
@@ -101,14 +101,16 @@
 0000004 150  PPIO1   me                       Z8mf 
 0000004 160  JJ      nervous                  E6- 
 0000004 170  CS      because                  Z5/A2.2 
-0000004 180  VV0     Im                       Z99 
-0000004 190  RP      up                       Z5 X9.1+ M6 N4 N5++ T2- A1.1.1 N5+/A2.1 
-0000004 200  IF      for                      Z5 
+0000004 180  PPIS1   I                        Z8mf 
+0000004 181  VBM     'm                       G2.1-[i9.3.1 S1.1.4[i9.3.1 A3+ Z5 T2-[i10.2.1 M6[i10.2.1 A5.1-[i10.2.1 
+0000004 190  RP      up                       G2.1-[i9.3.2 S1.1.4[i9.3.2 T2-[i10.2.2 M6[i10.2.2 A5.1-[i10.2.2 
+0000004 200  IF      for                      G2.1-[i9.3.3 S1.1.4[i9.3.3 Z5 
 0000004 210  AT1     a                        Z5 
 0000004 220  NN1     vote                     G1.2 
 0000004 230  MD      next                     N4 
 0000004 240  CC      and                      Z5 
-0000004 250  VV0     Im                       Z99 
+0000004 250  PPIS1   I                        Z8mf 
+0000004 251  VBM     'm                       A3+ Z5 
 0000004 260  AT      the                      Z5 
 0000004 270  RGT     most                     A13.2 
 0000004 280  JJ      handsome                 O4.2+ N5+ 
@@ -160,8 +162,8 @@
 0000006 190  CS      when                     Z5 
 0000006 200  PPHS2   they                     Z8mfn 
 0000006 210  VVD     rejected                 X7- 
-0000006 220  NNB     Prince                   Z1mf[i9.2.1 Z3c[i9.2.1 Z1mf Z3m 
-0000006 230  NP1     Harry                    Z1mf[i9.2.2 Z3c[i9.2.2 Z1mf 
+0000006 220  NNB     Prince                   Z1mf[i11.2.1 Z3c[i11.2.1 Z1mf Z3m 
+0000006 230  NP1     Harry                    Z1mf[i11.2.2 Z3c[i11.2.2 Z1mf 
 0000006 240  II      from                     Z5 
 0000006 250  AT      the                      Z5 
 0000006 260  NN1     service                  S8+ S7.1- I2.2 A1.1.1 S9 I3.1 F1 G3@ G1.1@ G2.1@ 
@@ -178,7 +180,7 @@
 0000006 343  -----   -----                    
 0000006 350  PPIS1   I                        Z8mf 
 0000006 360  VD0     Do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000006 361  XX      nt                       S9/Q4.1 Z3c 
+0000006 361  XX      n't                      Z6 
 0000006 370  VV0     Wan                      X7+ 
 0000006 371  TO      na                       Z5 
 0000006 380  VV0     Marry                    S4 A2.2 
@@ -186,7 +188,7 @@
 0000006 391  .       .                        
 0000006 392  -----   -----                    
 0000006 400  PPHS1   He                       Z8m 
-0000006 401  VBZ     s                        T1.3 I1.1 Z5 
+0000006 401  VBZ     's                       A3+ Z5 
 0000006 410  JJ      Ugly                     O4.2- 
 0000006 411  .       .                        
 0000006 412  NULL    </quote>                 
@@ -196,8 +198,8 @@
 0000008 030  TO      to                       Z5 
 0000008 040  VHI     have                     Z5 A9+ A2.2 S4 
 0000008 050  VVN     rejected                 X7- 
-0000008 060  MC      9.5                      N1[i10.2.1 T1.3[i10.2.1 I1[i10.2.1 N1 T1.2 T3 T1.3 N3.2 
-0000008 070  NNO     billion                  N1[i10.2.2 T1.3[i10.2.2 I1[i10.2.2 N1 I1 
+0000008 060  MC      9.5                      N1[i12.2.1 T1.3[i12.2.1 I1[i12.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000008 070  NNO     billion                  N1[i12.2.2 T1.3[i12.2.2 I1[i12.2.2 N1 I1 
 0000008 080  NN      people                   S2mfc 
 0000008 090  RL      worldwide                W3 M7 A1.8+ 
 0000008 091  .       .                        
@@ -207,8 +209,8 @@
 0000010 020  NN2     eyes                     B1 X3.4 
 0000010 030  VV0     burn                     O4.6+ E1 A1.5.1 
 0000010 040  II      from                     Z5 
-0000010 050  VVG     looking                  X3.4[i11.2.1 X2.4[i11.2.1 X2.1[i11.2.1 A8 X3.4 X2.4 X7+ Z4 
-0000010 060  II      at                       X3.4[i11.2.2 X2.4[i11.2.2 X2.1[i11.2.2 Z5 
+0000010 050  VVG     looking                  X3.4[i13.2.1 X2.4[i13.2.1 X2.1[i13.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000010 060  II      at                       X3.4[i13.2.2 X2.4[i13.2.2 X2.1[i13.2.2 Z5 
 0000010 070  AT      the                      Z5 
 0000010 080  NN2     applicants               Q2.2/S2mf 
 0000010 081  ,       ,                        
@@ -237,8 +239,8 @@
 0000011 030  VBR     are                      Z5 A3+ 
 0000011 040  VVG     burning                  O4.6+ E1 A1.5.1 
 0000011 050  II      from                     Z5 
-0000011 060  VVG     looking                  X3.4[i12.2.1 X2.4[i12.2.1 X2.1[i12.2.1 A8 X3.4 X2.4 X7+ Z4 
-0000011 070  II      at                       X3.4[i12.2.2 X2.4[i12.2.2 X2.1[i12.2.2 Z5 
+0000011 060  VVG     looking                  X3.4[i14.2.1 X2.4[i14.2.1 X2.1[i14.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000011 070  II      at                       X3.4[i14.2.2 X2.4[i14.2.2 X2.1[i14.2.2 Z5 
 0000011 080  AT      the                      Z5 
 0000011 090  NN2     applicants               Q2.2/S2mf 
 0000011 091  .       .                        
@@ -279,8 +281,8 @@
 0000014 220  DD1     that                     Z5 Z8 
 0000014 230  NN1     Hintze                   Z99 
 0000014 240  VBZ     is                       Z5 A3+ 
-0000014 250  VVGK    going                    T1.1.3[i13.2.1 
-0000014 260  TO      to                       T1.1.3[i13.2.2 Z5 
+0000014 250  VVGK    going                    T1.1.3[i15.2.1 
+0000014 260  TO      to                       T1.1.3[i15.2.2 Z5 
 0000014 270  VVI     leave                    M1 M2 A1.1.1 A1.9 A9- T2- 
 0000014 280  NP1     BeautifulPeople          Z99 
 0000014 290  CC      and                      Z5 
@@ -290,8 +292,8 @@
 0000014 330  VVG     singing                  K2 
 0000014 340  NN1     career                   I3.1 
 0000014 350  IW      with                     Z5 
-0000014 360  NP1     Zayn                     Z1mf[i14.2.1 Z3c[i14.2.1 
-0000014 370  NP1     Malik                    Z1mf[i14.2.2 Z3c[i14.2.2 
+0000014 360  NP1     Zayn                     Z1mf[i16.2.1 Z3c[i16.2.1 
+0000014 370  NP1     Malik                    Z1mf[i16.2.2 Z3c[i16.2.2 
 0000014 371  ,       ,                        
 0000014 380  AT      the                      Z5 
 0000014 390  DA      former                   T2- N4 
@@ -310,7 +312,8 @@
 0000014 520  NN1     image                    O4.1 A8 X2.1 C1 
 0000014 521  .       .                        
 0000014 522  -----   -----                    
-0000014 530  VVZ     Hintzes                  Z99 
+0000014 530  NP1@    Hintze                   Z99 
+0000014 531  GE      's                       Z5 
 0000014 540  JJ      musical                  K2 
 0000014 550  NN1     career                   I3.1 
 0000014 560  VVD     stalled                  M8 T1.3 
@@ -329,16 +332,17 @@
 0000014 690  RP      out                      M6 
 0000014 700  MC      four                     N1 T3 T1.2 
 0000014 710  JJ      other                    A6.1- 
-0000014 720  JJ      middle                   P1/H1c[i15.2.1 N4 M6 
-0000014 730  NN1     school                   P1/H1c[i15.2.2 P1/H1c S5+c L2%c P1/S2mf[i16.2.1 
-0000014 740  NN2     kids                     S2mf/T3- S4mf L2 P1/S2mf[i16.2.2 
+0000014 720  JJ      middle                   P1/H1c[i17.2.1 N4 M6 
+0000014 730  NN1     school                   P1/H1c[i17.2.2 P1/H1c S5+c L2%c P1/S2mf[i18.2.1 
+0000014 740  NN2     kids                     S2mf/T3- S4mf L2 P1/S2mf[i18.2.2 
 0000014 750  IW      with                     Z5 
 0000014 760  AT1     a                        Z5 
 0000014 770  NN1     rendition                K2 K4 A6.1- 
 0000014 780  IO      of                       Z5 
-0000014 790  NP2     Madonnas                 Z1f 
-0000014 791  NULL    <quote>                  
-0000014 792  -----   -----                    
+0000014 790  NP1     Madonna                  Z1f 
+0000014 791  GE      's                       Z5 
+0000014 792  NULL    <quote>                  
+0000014 793  -----   -----                    
 0000014 800  II      Like                     Z5 
 0000014 810  AT1     a                        Z5 
 0000014 820  NN1     Virgin                   Z3c 

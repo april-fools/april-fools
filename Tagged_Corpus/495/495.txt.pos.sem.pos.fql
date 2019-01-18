@@ -1,9 +1,9 @@
-TOTAL          98
-NN1            18 
+TOTAL         100
+NN1            20 
 II              9 
 JJ              7 
-NN2             7 
-NP1             7 
+NN2             6 
+NP1             6 
 VV0             6 
 AT              5 
 CC              4 
@@ -11,6 +11,7 @@ VVZ             3
 VVN             3 
 VVG             3 
 AT1             2 
+GE              2 
 RR              2 
 DAR             2 
 TO              2 

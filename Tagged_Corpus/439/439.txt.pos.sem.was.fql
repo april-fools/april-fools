@@ -1,4 +1,4 @@
-TOTAL              235
+TOTAL              238
 the                  Z5                  14 
 to                   Z5                  10 
 data                 X2.2                 8 
@@ -8,9 +8,11 @@ in                   Z5                   5
 music                K2                   5 
 CERN                 Z99                  3 
 more                 A13.3                3 
+they                 Z8                   3 
 is                   A3+                  3 
 as                   Z5                   3 
 what                 Z8                   3 
+it                   Z8                   3 
 can                  A7+                  3 
 on                   Z5                   3 
 at                   Z5                   2 
@@ -21,13 +23,10 @@ universe             W1                   2
 unusual              A6.2-                2 
 from                 Z5                   2 
 into                 Z5                   2 
-they                 Z8                   2 
 physics              Y1                   2 
 patterns             X4.2                 2 
 sonifying            Z99                  2 
-it                   Z8                   2 
 musical              K2                   2 
-score                K5                   2 
 theory               X4.1                 2 
 when                 Z5                   2 
 sonified             Z99                  2 
@@ -35,7 +34,6 @@ Higgs                Z99                  2
 boson                Z99                  2 
 random               A1.4                 2 
 notes                Q1.2                 2 
-its                  Z8                   2 
 of                   Z5                   2 
 such                 Z5                   2 
 be                   Z5                   2 
@@ -52,7 +50,7 @@ particles            O2                   1
 our                  Z8                   1 
 one                  N1                   1 
 method               X4.2                 1 
-theyve               Z99                  1 
+'ve                  Z5                   1 
 utilised             A1.5.1               1 
 turn                 M2                   1 
 large                N3.2+                1 
@@ -71,6 +69,7 @@ vibrations           M1                   1
 frequency            N6                   1 
 by                   Z5                   1 
 comparing            A6.1                 1 
+score                K5                   1 
 then                 N4                   1 
 applying             Q2.2                 1 
 we                   Z8                   1 
@@ -92,6 +91,7 @@ shocked              E5-                  1
 after                Z5                   1 
 listening            X3.2                 1 
 played               K1                   1 
+its                  Z8                   1 
 tune                 K2                   1 
 bump                 O4.4                 1 
 graph                Q1.2                 1 
@@ -99,6 +99,7 @@ translated           Q3                   1
 well-known           X2.2+                1 
 pattern              X4.2                 1 
 recognisable         X2.2+                1 
+'s                   A3+                  1 
 surprising           X2.6-                1 
 that                 Z5                   1 
 an                   Z5                   1 
@@ -113,13 +114,15 @@ physicist            Y1                   1
 who                  Z8                   1 
 works                I3.1                 1 
 Valkyries            Z99                  1 
-id                   X2                   1 
+i                    Z8                   1 
+'d                   A7+                  1 
 expected             X2.6+                1 
 sound                X3.2                 1 
 even                 A13.1                1 
 dramatic             K4                   1 
 like                 Z5                   1 
 film                 Q4.3                 1 
+score'               Z99                  1 
 team                 S5+                  1 
 are                  Z5                   1 
 now                  T1.1.2               1 

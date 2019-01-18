@@ -150,9 +150,10 @@
 0000006 450 Fact-Checking                               34 [JJ/74] NN1/26
 0000006 460 Snopes                                      07 [NN2/54] NP1/28 VVZ/18
 0000006 461 :                                           03 :
-0000006 470 Websites                                    07 NN2
+0000006 470 Website                   >                 06 [NN1/91] JJ/9
+0000006 471 's                        <                 98 GE
 0000006 480 Political                                   93 JJ
-0000006 490 Fact-Checker                                38 NP1
+0000006 490 Fact-Checker'                               35 [NN1/99] JJ/1
 0000006 500 Is                                          93 VBZ
 0000006 510 Just                                        93 [RR/96] JJ@/4
 0000006 520 A                                           93 [AT1@/42] ZZ1/58
@@ -338,17 +339,19 @@
 0000014 310 Details                                     93 NN2
 0000014 320 To                                          93 [TO/73] II/27
 0000014 330 Protect                                     93 VV0
-0000014 340 Kerrys                                      04 NP2
+0000014 340 Kerry                     >                 93 NP1
+0000014 341 's                        <                 98 GE
 0000014 350 State                                       96 NN1
-0000014 360 Department                                  93 NN1
+0000014 360 Department                                  96 NN1
 0000014 361 )                                           03 )
 0000016 010 Neither                                     97 RR
 0000016 020 Snopes                                      07 [VVZ/60] NN2/22 NP1/18
 0000016 030 nor                                         97 CC
-0000016 040 Facebook                                    06 [NP1/85] NN1/15
-0000016 050 returned                                    93 [VVD/98] VVN/1 JJ%/0
-0000016 060 TheDCs                                      07 [NP2/85] NN2@/15
-0000016 070 request                                     03 [VV0/85] NN1/15
+0000016 040 Facebook                                    06 [NP1/84] NN1/16
+0000016 050 returned                                    93 [VVD/98] VVN/2 JJ%/0
+0000016 060 TheDC                     >                 06 [NP1/100] NN1@/0
+0000016 061 's                        <                 98 GE
+0000016 070 request                                     03 [NN1/98] VV0/2
 0000016 080 for                                         93 [IF/100] CS%/0
 0000016 090 comment                                     93 [NN1/99] VV0/1
 0000016 100 regarding                                   03 [II/89] VVG/11

@@ -1,12 +1,13 @@
-TOTAL              933
+TOTAL              945
 the                  Z5                  66 
 to                   Z5                  28 
 and                  Z5                  22 
 a                    Z5                  20 
-Israel               Z2                  17 
+Israel               Z2                  19 
 in                   Z5                  17 
 of                   Z5                  17 
 resolution           X6+                 14 
+'s                   Z5                  13 
 on                   Z5                  12 
 it                   Z8                  12 
 from                 Z5                  11 
@@ -31,21 +32,22 @@ trump                Z1                   6
 Obama                Z99                  5 
 palestinians         Z2                   5 
 his                  Z8                   5 
+we                   Z8                   5 
+netanyahu            Z99                  5 
 information          X2.2+                4 
-Fridays              T1.3                 4 
+Friday               T1.3                 4 
 against              Z5                   4 
 peace                E3+                  4 
 policy               X7+                  4 
 council              G1.1                 4 
 impact               A2.2                 4 
 relations            A2.2                 4 
-we                   Z8                   4 
 as                   Z5                   4 
 is                   A3+                  4 
 which                Z8                   4 
 could                A7+                  4 
 sources              T2+                  3 
-weeks                T1.3                 3 
+last_week            T1.1.1               3 
 further              N5++                 3 
 about                Z5                   3 
 an                   Z5                   3 
@@ -57,7 +59,6 @@ Egypt                Z2                   3
 claim                Q2.2                 3 
 state                G1.1                 3 
 if                   Z7                   3 
-Netanyahus           Z99                  3 
 after                Z5                   3 
 will                 T1.1.3               3 
 many                 N5+                  3 
@@ -69,7 +70,6 @@ ironclad             Z99                  2
 arab                 Z2                   2 
 helped               S8+                  2 
 craft                C1                   2 
-last                 N4                   2 
 increasingly         A13.3                2 
 between              Z5                   2 
 might                A7+                  2 
@@ -78,8 +78,6 @@ final                N4                   2
 office               I2.1                 2 
 international        M7                   2 
 they                 Z8                   2 
-were                 Z5                   2 
-'s                   Z5                   2 
 U.S.-Israel          Z99                  2 
 play                 K1                   2 
 video                Q4.3                 2 
@@ -94,19 +92,18 @@ will                 X7+                  2
 or                   Z5                   2 
 say                  Q2.1                 2 
 voting               G1.2                 2 
-netanyahu            Z99                  2 
 there                Z5                   2 
 areas                M7                   2 
 world                W1                   2 
 ambassador           G1.1                 2 
 defended             S8+                  2 
 would                A7+                  2 
-nt                   S9                   2 
+n't                  Z6                   2 
 any                  N5.1+                2 
 United_States        Z2                   2 
+'                    Z5                   2 
 power                S7.1+                2 
 also                 N5++                 2 
-Israels              Z2                   2 
 religious            S9                   2 
 able                 X9.1+                2 
 is                   Z5                   2 
@@ -137,6 +134,7 @@ whether              Z5                   1
 White_house          Z3                   1 
 take_further         T2++                 1 
 settlements_in       T2+                  1 
+weeks                T1.3                 1 
 expected             X2.6+                1 
 participate          S1.1.3+              1 
 conference           S1.1.3+              1 
@@ -147,6 +145,7 @@ John                 Z1                   1
 Kerry                Z2                   1 
 planning             X7+                  1 
 speech               Q2.1                 1 
+were                 Z5                   1 
 hoping               X2.6+                1 
 capitalize           A5.1+                1 
 momentum             A2.1+                1 
@@ -186,6 +185,7 @@ pushed               M2                   1
 hard                 O4.1                 1 
 eventual_passage     B1                   1 
 David_Keyes          Z1                   1 
+'re                  Z5                   1 
 just                 A14                  1 
 going_to             T1.1.3               1 
 punching             O4.4                 1 
@@ -208,7 +208,6 @@ sponsor              A9-                  1
 under_pressure       E6-                  1 
 heavy                N3.5+                1 
 delayed              T4-                  1 
-last_week            T1.1.1               1 
 before               Z5                   1 
 other                A6.1-                1 
 members              S5+                  1 

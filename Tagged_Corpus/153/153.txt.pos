@@ -112,13 +112,15 @@
 0000006 080 does                                        93 VDZ
 0000006 090 not                                         93 XX
 0000006 100 involve                                     97 VVI
-0000006 110 Telkoms                                     07 [NP1/69] NN2/31 VVZ/0
-0000006 120 copper                                      93 [NN1/76] JJ@/24
+0000006 110 Telkom                    >                 06 [NP1/81] NN1/19 VV0/0
+0000006 111 's                        <                 98 GE
+0000006 120 copper                                      93 [NN1/72] JJ@/28
 0000006 130 infrastructure                              93 NN1
 0000006 131 ,                                           03 ,
 0000006 140 but                                         93 CCB
-0000006 150 rather                                      93 [RR@/100] RG/0
-0000006 160 SEACOMs                                     07 [VVZ/96] NP2/3 NN2/1
+0000006 150 rather                                      93 [RR@/89] RG/11
+0000006 160 SEACOM                    >                 06 [NP1/71] VV0/17 NN1/13
+0000006 161 's                        <                 98 GE
 0000006 170 terrestrial                                 93 JJ
 0000006 180 fibre                                       93 NN1
 0000006 190 infrastructure                              93 NN1
@@ -153,7 +155,8 @@
 0000007 001 ----------------------------------------------------
 0000008 010 According                                   97 II21
 0000008 020 to                                          97 II22
-0000008 030 SEACOMs                                     07 [NN2/59] NP2/41 VVZ/0
+0000008 030 SEACOM                    >                 06 [NP1/90] NN1/10 VV0/0
+0000008 031 's                        <                 98 GE
 0000008 040 operational                                 93 JJ
 0000008 050 manager                                     93 NN1
 0000008 060 Fredrik                                     06 NP1

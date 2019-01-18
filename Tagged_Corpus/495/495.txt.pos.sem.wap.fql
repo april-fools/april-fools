@@ -1,13 +1,15 @@
-TOTAL               98
+TOTAL              100
 the                  AT              5 
 and                  CC              4 
 on                   II              3 
 Pokemon              NP1             3 
 snap                 VV0             3 
 in                   II              3 
+game                 NN1             2 
 a                    AT1             2 
 Nintendo             NP1             2 
 go                   VV0             2 
+'s                   GE              2 
 more                 DAR             2 
 to                   TO              2 
 locations            NN2             2 
@@ -19,7 +21,6 @@ of                   IO              1
 recent               JJ              1 
 news                 NN1             1 
 from                 II              1 
-game                 NN1             1 
 freak                NN1             1 
 posting_job          NN1             1 
 listings             NN2             1 
@@ -45,7 +46,6 @@ featuring            VVG             1
 switch               NN1             1 
 takes                VVZ             1 
 original             JJ              1 
-games                NN2             1 
 premise              NN1             1 
 expands              VVZ             1 
 it                   PPH1            1 
@@ -57,7 +57,7 @@ snapped              VVN             1
 explore              VVI             1 
 even                 RR              1 
 connectivity         NN1             1 
-Niantics             NP1             1 
+niantic              NN1             1 
 smash                NN1             1 
 hit                  VVD             1 
 app                  NN1             1 

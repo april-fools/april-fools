@@ -1,4 +1,4 @@
-TOTAL             1935
+TOTAL             1939
 the                  Z5                 122 
 a                    Z5                  55 
 to                   Z5                  51 
@@ -10,9 +10,9 @@ will                 T1.1.3              24
 as                   Z5                  19 
 for                  Z5                  18 
 that                 Z8                  18 
+'s                   Z5                  17 
 with                 Z5                  15 
 they                 Z8                  15 
-'s                   Z5                  15 
 at                   Z5                  14 
 it                   Z8                  14 
 their                Z8                  13 
@@ -24,19 +24,20 @@ on                   Z5                  11
 this                 M6                  10 
 is                   A3+                 10 
 be                   Z5                  10 
+you                  Z8                   9 
 are                  A3+                  9 
 by                   Z5                   8 
-you                  Z8                   8 
+we                   Z8                   8 
 just                 A14                  7 
 about                Z5                   7 
 is                   Z5                   7 
+what                 Z8                   7 
 may                  A7+                  7 
-we                   Z8                   7 
 parks                M7                   7 
 be                   A3+                  7 
 into                 Z5                   6 
-what                 Z8                   6 
 first                N4                   6 
+company              I2.1                 6 
 has                  Z5                   6 
 them                 Z8                   6 
 been                 Z5                   6 
@@ -49,7 +50,6 @@ resorts              S6+                  5
 technology           Y1                   5 
 but                  Z5                   5 
 more                 A13.3                5 
-company              I2.1                 5 
 one                  N1                   5 
 see                  X3.4                 5 
 virtually            A13.4                5 
@@ -60,6 +60,7 @@ was                  A3+                  4
 many                 N5+                  4 
 crystal              O1.1                 4 
 rest                 E3+                  4 
+'ll                  T1.1.3               4 
 attractions          O4.2+                4 
 also                 N5++                 4 
 your                 Z8                   4 
@@ -90,7 +91,6 @@ about                A13.4                3
 only                 A14                  3 
 part                 N5.1-                3 
 very                 A13.3                3 
-'ll                  T1.1.3               3 
 plans                X7+                  3 
 people               S2                   3 
 probably             A7+                  3 
@@ -141,11 +141,13 @@ estimated            X6                   2
 purchasing           I2.2                 2 
 troubled             E6-                  2 
 garden               L3                   2 
+grove                Z1                   2 
 signals              Q1.1                 2 
 another              A6.1-                2 
 ambitious            X7+                  2 
 project              A1.1.1               2 
 update               T1.1.2               2 
+'ve                  Z5                   2 
 been                 A3+                  2 
 need                 S6+                  2 
 want                 X7+                  2 
@@ -273,13 +275,10 @@ pending              T1.1.3               1
 announcement         Q2.2                 1 
 fiscally             Z99                  1 
 anaheim-adjacent     Z99                  1 
-grove                Z1                   1 
 have                 Z5                   1 
 begun                T2+                  1 
 phase                T1.3                 1 
 fill_in              Q1.2                 1 
-what                 Z5                   1 
-weve                 Z99                  1 
 able                 X9.1+                1 
 dig_up               A1.1.1               1 
 cup                  O2                   1 
@@ -295,7 +294,6 @@ let_'s               Z5                   1
 get_going            T2+                  1 
 shall                T1.1.3               1 
 Al                   Z1                   1 
-companys             I2.1                 1 
 expensive            I1.3+                1 
 queues               N4                   1 
 world                W1                   1 
@@ -331,7 +329,6 @@ product              O2                   1
 category             A4.1                 1 
 industry             I4                   1 
 20_billion           N1                   1 
-youll                Z99                  1 
 begin                T2+                  1 
 understand           X2.5+                1 
 big                  N3.2+                1 
@@ -339,7 +336,6 @@ Superman             Z3                   1
 summer               T1.3                 1 
 house                H1                   1 
 shiny                O4.2+                1 
-groves               Z3                   1 
 architecturally      H1                   1 
 striking             A11.2+               1 
 point                Q2.1                 1 
@@ -848,7 +844,6 @@ home                 H4                   1
 being                A3+                  1 
 secretive            A10-                 1 
 logo-which           Z99                  1 
-'ve                  Z5                   1 
 reproduced           A6.1+                1 
 get                  A2.1+                1 
 too                  N5.2+                1 

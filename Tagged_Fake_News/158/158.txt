@@ -26,7 +26,7 @@ Read the full analysis here.
 
 Update on why rates are higher than you think: We've been getting a lot of questions about why your current effective tax rate is so high. Here's a note from Tax Policy Center director Len Burman that explains why this is happening:
 
-You might be surprised at how much taxes you’re paying under current law. We’re including payroll taxes, excise taxes, and corporate income taxes as well as individual income taxes. Most working people actually pay more in payroll tax than income tax. And they pay much more if you include the employer’s portion of the tax. Most economists think employers pass their share of the tax on to workers in the form of lower wages.
+You might be surprised at how much taxes you're paying under current law. We're including payroll taxes, excise taxes, and corporate income taxes as well as individual income taxes. Most working people actually pay more in payroll tax than income tax. And they pay much more if you include the employer's portion of the tax. Most economists think employers pass their share of the tax on to workers in the form of lower wages.
 Update, plus a FAQ section: To calculate the tax rate, we originally used adjusted gross income (AGI), but we decided to switch over to expanded cash income (ECI), because this measure includes income that is not subject to income tax, like health insurance premiums paid by employers. This allows the calculator to provide a more accurate view of your tax rate. For a longer explanation, read this Q&A.
 
 What we learned from our calculator

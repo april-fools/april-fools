@@ -1,11 +1,11 @@
-TOTAL              328
+TOTAL              330
 the                  AT             22 
 and                  CC             15 
 for                  IF              8 
 to                   TO              8 
 is                   VBZ             8 
 it                   PPH1            6 
-was                  VBDZ            5 
+was                  VBDZ            6 
 that                 CST             5 
 would                VM              5 
 be                   VBI             5 
@@ -21,6 +21,7 @@ of                   IO              3
 will                 VM              3 
 new                  JJ              3 
 to                   II              3 
+Pikachu              NP1             3 
 only                 RR              3 
 they                 PPHS2           3 
 by                   II              2 
@@ -38,7 +39,6 @@ viewers              NN2             2
 studio               NN1             2 
 lead                 NN1             2 
 quite                RG              2 
-Pikachu              NP1             2 
 Chespin              NP1             2 
 formula              NN1             2 
 change               NN1             2 
@@ -89,7 +89,7 @@ allow                VV0             1
 take                 VVI             1 
 liking               NN1             1 
 easily               RR              1 
-Pikachus             NP1             1 
+'s                   GE              1 
 enormous             JJ              1 
 success              NN1             1 
 felt                 VVD             1 
@@ -175,7 +175,7 @@ Bonnie               NP1             1
 kept                 VVN             1 
 up_in_the_air        RP              1 
 himself              PPX1            1 
-wasnt                VV0             1 
+n't                  XX              1 
 sure                 JJ              1 
 one                  MC1             1 
 certain              JJ              1 
@@ -186,7 +186,7 @@ out_of               II21            1
 picture              NN1             1 
 nobody               PN1             1 
 safe                 JJ              1 
-lets                 VVZ             1 
-hope                 NN1             1 
+let_'s               VM21            1 
+hope                 VVI             1 
 sake                 NN1             1 
 excellent            JJ              1 

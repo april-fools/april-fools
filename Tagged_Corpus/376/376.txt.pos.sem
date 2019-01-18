@@ -29,7 +29,8 @@
 0000002 250  NN1     download                 M2 
 0000002 260  IO      of                       Z5 
 0000002 270  AT      the                      Z5 
-0000002 280  NN2     trains                   M3fn N4 B5@ 
+0000002 280  NN1     train                    M3fn N4 B5@ 
+0000002 281  GE      's                       Z5 
 0000002 290  JJ      relevant                 A1.2+ A1.5.2+ 
 0000002 300  NN1     timetable                X7+/T1 P1 Q1.2/T1/M3 Q1.2/T1/M4 Q1.2/T1/M5 
 0000002 301  .       .                        
@@ -69,7 +70,8 @@
 0000002 592  -----   -----                    
 0000002 600  DD1     This                     M6 Z5 Z8 
 0000002 610  JJ      particular               A4.2+ X7+ 
-0000002 620  NN2     trains                   M3fn N4 B5@ 
+0000002 620  NN1     train                    M3fn N4 B5@ 
+0000002 621  GE      's                       Z5 
 0000002 630  NP1     QR                       Z99 
 0000002 640  NN1     Code                     G2.1 A10-/Q1.1 G2.2 A4.1 Y2@ B3% B1% 
 0000002 650  VVZ     resolves                 X6+ X9.2+ 
@@ -104,7 +106,8 @@
 0000002 910  VVD     said                     Q2.1 
 0000002 920  CST     that                     Z5 Z8 
 0000002 930  AT      the                      Z5 
-0000002 940  NN2     companys                 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000002 940  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000002 941  GE      's                       Z5 
 0000002 950  JJ      rolling                  N3.8- O4.4 T1.3 E4.1+ 
 0000002 960  NN1     stock                    A9+ F1 S4 O2 I1.1 
 0000002 970  VBDZ    was                      Z5 A3+ 
@@ -138,7 +141,8 @@
 0000002 230  CSW33   not                      Z7[i8.3.3 
 0000002 240  AT      the                      Z5 
 0000002 250  MD      next                     N4 
-0000002 260  VVZ     trains                   P1 K5.1 
+0000002 260  NN1     train                    M3fn N4 B5@ 
+0000002 261  GE      's                       Z5 
 0000002 270  NP1     QR                       Z99 
 0000002 280  NN1     Code                     G2.1 A10-/Q1.1 G2.2 A4.1 Y2@ B3% B1% 
 0000002 290  VVZ     resolves                 X6+ X9.2+ 

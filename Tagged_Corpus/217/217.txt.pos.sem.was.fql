@@ -1,35 +1,38 @@
-TOTAL              421
+TOTAL              434
 the                  Z5                  31 
 new                  T3-                 11 
 and                  Z5                  10 
 to                   Z5                   9 
+Dunkin'_Donuts       Z1                   9 
 a                    Z5                   9 
-dunkie               Z99                  8 
+dunkie               Z99                  9 
 with                 Z5                   7 
-Dunkin_Donuts        Z1                   7 
 that                 Z8                   7 
 in                   Z5                   6 
+donuts               Z99                  6 
 is                   A3+                  6 
 as                   Z5                   6 
 of                   Z5                   5 
-donuts               Z99                  5 
+i                    Z8                   5 
 from                 Z5                   5 
 than                 Z5                   4 
+'m                   A3+                  4 
 logo                 C1                   4 
 that                 Z5                   4 
-its                  Z8                   4 
+it                   Z8                   4 
 identity             S2                   4 
 vintage              T3                   4 
 some                 N5                   4 
 coffee               F2                   3 
 their                Z8                   3 
-im                   Z99                  3 
 has                  Z5                   3 
 was                  Z5                   3 
+was                  A3+                  3 
+'s                   Z5                   3 
+its                  Z8                   3 
 but                  Z5                   3 
 also                 N5++                 3 
 for                  Z5                   3 
-Dunkin'_Donuts       Z1                   3 
 by                   Z5                   3 
 script               K4                   3 
 typography           Q1.2                 3 
@@ -37,6 +40,7 @@ more                 N5++                 2
 Starbucks            Z3                   2 
 minority             N5-                  2 
 does                 Z5                   2 
+n't                  Z6                   2 
 become               A2.1+                2 
 even                 A13.1                2 
 cup_of_coffee        F2                   2 
@@ -44,7 +48,6 @@ back                 M6                   2
 is                   Z5                   2 
 60th                 N4                   2 
 anniversary          T1.2                 2 
-it                   Z8                   2 
 inspiration          S8+                  2 
 Matt_Stevens         Z1                   2 
 on                   Z5                   2 
@@ -55,8 +58,8 @@ head                 B1                   2
 in-house             S5+                  2 
 team                 S5+                  2 
 you                  Z8                   2 
+dunkin'              Z99                  2 
 not                  Z6                   2 
-was                  A3+                  2 
 t-shirt              B5                   2 
 packaging            O2                   2 
 nearly               A13.4                1 
@@ -82,7 +85,6 @@ prominent            A11.1+               1
 guilty               G2.1-                1 
 pleasures            E4.2+                1 
 world                W1                   1 
-i                    Z8                   1 
 favor                S8+                  1 
 de-favor             Z99                  1 
 eating               F1                   1 
@@ -91,7 +93,6 @@ despite              Z5                   1
 awesome              O4.2+                1 
 deliciousness        X3.1+                1 
 so                   Z5                   1 
-nt                   S9                   1 
 frequent             M1                   1 
 smaller              N3.2--               1 
 since                Z5                   1 
@@ -102,12 +103,12 @@ added                N5+                  1
 muscle               B1                   1 
 into                 Z5                   1 
 consumers            I2.2                 1 
+'                    Z5                   1 
 consciousness        B1                   1 
-wasnt                Z99                  1 
 just                 A14                  1 
 available            A3+                  1 
 or                   Z5                   1 
-McDonalds            Z3                   1 
+McDonald             Z1                   1 
 apparently           A8                   1 
 change               A2.1+                1 
 paid_off             I1.2                 1 
@@ -124,11 +125,11 @@ along                Z5                   1
 center               M6                   1 
 **27;7;toolong       Z99                  1 
 buddy                S3.1                 1 
-brands               A4.1                 1 
+brand                A4.1                 1 
 mascot               L2                   1 
 during               Z5                   1 
 late_1950s           T3                   1 
-60s                  T1.3                 1 
+'60s                 T1.3                 1 
 inspiring            S8+                  1 
 Mr._Potato           Z1                   1 
 spin-off             A2.2                 1 
@@ -156,7 +157,6 @@ hot                  O4.6+                1
 he                   Z8                   1 
 leaps                M1                   1 
 towards              Z5                   1 
-dunkin'              Z99                  1 
 more                 Z3                   1 
 surprising           X2.6-                1 
 replacing            A2.1+                1 
@@ -182,7 +182,7 @@ nonetheless          Z4                   1
 look_great           A5.1+                1 
 said                 Q2.1                 1 
 brings_back          M2                   1 
-dunkinana            Z99                  1 
+dunkin'ana           Z99                  1 
 tag                  Q1.2                 1 
 line                 O4.4                 1 
 time                 T1                   1 
@@ -195,7 +195,7 @@ who                  Z8                   1
 spokesperson         Q2.2                 1 
 1982_to_1997         T1.2                 1 
 took                 A9+                  1 
-Stevens_Dunkie       Z2                   1 
+Steven               Z1                   1 
 torso                B1                   1 
 revise               A2.1+                1 
 current              T1.1.2               1 
@@ -212,6 +212,7 @@ been                 A3+                  1
 busy                 A1.1.1               1 
 prototypes           A4.1                 1 
 include              A1.8+                1 
+'s                   A3+                  1 
 nice                 O4.2+                1 
 see                  X3.4                 1 
 applied              Q2.2                 1 
@@ -230,5 +231,4 @@ i_have_to_say        Z4                   1
 unlike               Z5                   1 
 golden-arched        Z99                  1 
 competitor           S7.3+                1 
-Im_Lovin             Z1                   1 
-it                   Y2                   1 
+lovin'               Z99                  1 

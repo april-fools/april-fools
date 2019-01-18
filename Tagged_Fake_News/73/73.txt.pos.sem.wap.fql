@@ -1,9 +1,10 @@
-TOTAL              127
+TOTAL              128
 and                  CC              7 
 the                  AT              6 
 of                   IO              4 
 an                   AT1             3 
 emergency            NN1             3 
+trump                NN1             3 
 a                    AT1             2 
 two                  MC              2 
 helicopters          NN2             2 
@@ -12,7 +13,6 @@ were                 VBDR            2
 relocation           NN1             2 
 to                   TO              2 
 or                   CC              2 
-trump                NN1             2 
 military             JJ              1 
 airplane             NN1             1 
 huge                 JJ              1 
@@ -85,8 +85,8 @@ chopper              NN1             1
 could                VM              1 
 touch                VVI             1 
 down                 RP              1 
-near                 RL              1 
-trumps               VVZ             1 
+near                 II              1 
+'s                   VBZ             1 
 home                 RL              1 
 inside               II              1 
 tower_on_Fifth       NN1             1 

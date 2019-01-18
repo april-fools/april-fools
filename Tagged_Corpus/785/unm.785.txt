@@ -22,7 +22,6 @@ single-crystal           JJ      Z99
 smartphones              NN2     Z99 
 smartwatches             NN2     Z99 
 Sungkyunkwan             JJ      Z99 
-theyve                   NN1     Z99 
 touchscreen              NN1     Z99 
 touchscreens             NN2     Z99 
 unidirectional           JJ      Z99 

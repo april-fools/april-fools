@@ -1,14 +1,14 @@
-TOTAL              221
+TOTAL              224
 the                  AT             16 
 a                    AT1             8 
 shuttle              NN1             6 
 in                   II              6 
 can                  VM              5 
+it                   PPH1            5 
 and                  CC              5 
 will                 VM              4 
 be                   VBI             4 
 if                   CS              4 
-it                   PPH1            4 
 required             VVN             3 
 during               II              3 
 trial                NN1             3 
@@ -20,6 +20,7 @@ on_board             RL21            2
 who                  PNQS            2 
 stop                 VVI             2 
 tests                NN2             2 
+London               NP1             2 
 people               NN              2 
 Greenwich            NP1             2 
 three                MC              2 
@@ -27,7 +28,6 @@ behind               II              2
 could                VM              2 
 to                   TO              2 
 path                 NN1             2 
-its                  APPGE           2 
 representational     JJ              1 
 image                NN1             1 
 Reuters              NP1             1 
@@ -39,7 +39,6 @@ shuttle_bus          NN1             1
 is                   VBZ             1 
 being                VBG             1 
 carried_out          VVN             1 
-London               NP1             1 
 as                   II              1 
 part                 NN1             1 
 about                RG              1 
@@ -87,7 +86,8 @@ rolled_out           VVN             1
 elsewhere            RL              1 
 BBC                  NP1             1 
 news                 NN1             1 
-reported             VVD             1 
+'                    GE              1 
+reported             JJ              1 
 we                   PPIS2           1 
 hope                 VV0             1 
 gain                 VVI             1 
@@ -118,7 +118,7 @@ navigate             VV0             1
 two-mile             JJ              1 
 riverside            NN1             1 
 near                 II              1 
-Londons              NP2             1 
+'s                   GE              1 
 o2                   FO              1 
 Arena                NP1             1 
 see                  VVI             1 
@@ -130,12 +130,14 @@ steady               JJ              1
 stop                 NN1             1 
 detects              VVZ             1 
 something            PN1             1 
+its                  APPGE           1 
 although             CS              1 
 also                 RR              1 
 apply                VVI             1 
 an                   AT1             1 
 emergency            NN1             1 
 brake                NN1             1 
+'s                   VHZ             1 
 been                 VBN             1 
 designed             VVN             1 
 safe                 JJ              1 

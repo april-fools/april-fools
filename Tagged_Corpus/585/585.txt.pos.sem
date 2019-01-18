@@ -108,7 +108,8 @@
 0000002 851  .       .                        
 0000004 001  NULL    <quote>                  
 0000004 002  -----   -----                    
-0000004 010  VBDR    Were                     Z5 A3+ 
+0000004 010  PPIS2   We                       Z8 
+0000004 011  VBR     're                      Z5 A3+ 
 0000004 020  VVN     thrilled                 E4.1+++ X5.2+++ 
 0000004 030  TO      to                       Z5 
 0000004 040  VVI     partner                  A9-[i19.2.1 S3.1 
@@ -219,7 +220,8 @@
 0000006 391  ,       ,                        
 0000006 400  CC      and                      Z5 
 0000006 410  PPIS2   we                       Z8 
-0000006 420  VV0     couldnt                  Z99 
+0000006 420  VM      could                    A7+ 
+0000006 421  XX      n't                      Z6 
 0000006 430  VBI     be                       A3+ Z5 
 0000006 440  JJR     happier                  E4.1++ E4.2+++ 
 0000006 450  TO      to                       Z5 
@@ -328,7 +330,8 @@
 0000010 020  NN1     BOX                      O2 O4.4 Q4.3 G2.1 H2 K5.1 B5/K5.1@ A4.1@ 
 0000010 030  NN1     OFFICEOne                Z99 
 0000010 040  IO      of                       Z5 
-0000010 050  NP2     Hollywoods               Z2 
+0000010 050  NP1     Hollywood                Z2 
+0000010 051  GE      's                       Z5 
 0000010 060  RGT     most                     A13.2 
 0000010 070  JJ      bankable                 E2+/I1.1 
 0000010 080  NN2     stars                    W1 O4.4 A5.1 A11.1+/S2mf S9 

@@ -1,4 +1,4 @@
-TOTAL              565
+TOTAL              566
 the                  AT             49 
 and                  CC             15 
 force                NN1            15 
@@ -6,8 +6,8 @@ of                   IO             12
 to                   TO             11 
 with                 IW             10 
 CERN                 NP1             7 
+it                   PPH1            7 
 for                  IF              6 
-it                   PPH1            6 
 that                 CST             6 
 at                   II              5 
 a                    AT1             5 
@@ -54,7 +54,7 @@ Max_Brice            NP1             2
 Daniel_Dominguez/CERN NP1             2 
 physicist            NN1             2 
 his                  APPGE           2 
-its                  APPGE           2 
+'s                   VBZ             2 
 by                   II              2 
 things               NN2             2 
 minds                NN2             2 
@@ -141,6 +141,7 @@ causes               VVZ             1
 students             NN2             1 
 professors           NN2             1 
 started              VVN             1 
+its                  APPGE           1 
 power                NN1             1 
 practical            JJ              1 
 applications         NN2             1 
@@ -215,7 +216,6 @@ relations            NN2             1
 provided             VVN             1 
 plenty               PN              1 
 action               NN1             1 
-'s                   VBZ             1 
 more                 RRR             1 
 makes                VVZ             1 
 cool                 JJ              1 

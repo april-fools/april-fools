@@ -60,7 +60,8 @@
 0000006 060  VVG     responding               S1.1.2+ Q2.2 
 0000006 070  II      to                       Z5 
 0000006 080  NNB     Mr.                      Z1m[i9.2.1 S2.2m 
-0000006 090  NP1     Obamas                   Z1m[i9.2.2 
+0000006 090  NP1     Obama                    Z1m[i9.2.2 
+0000006 091  GE      's                       Z5 
 0000006 100  NN2     comments                 Q2.1 
 0000006 110  II      in                       Z5 
 0000006 120  AT1     a                        Z5 
@@ -105,7 +106,8 @@
 0000008 050  DD1     this                     M6 Z5 Z8 
 0000008 060  NN1     vision                   X4.1 X3.4 X7+ S9@ 
 0000008 070  CS      because                  Z5/A2.2 
-0000008 080  NP1     Im                       Z99 
+0000008 080  PPIS1   I                        Z8mf 
+0000008 081  VBM     'm                       A3+ Z5 
 0000008 090  JJ      confident                E6+ 
 0000008 100  CST     that                     Z8 Z5 
 0000008 110  CS      if                       Z7 
@@ -120,7 +122,8 @@
 0000008 190  PPIS1   I                        Z8mf 
 0000008 200  VV0     think                    X2.1 
 0000008 210  PPIS1   I                        Z8mf 
-0000008 220  VV0     couldve                  Z99 
+0000008 220  VM      could                    A7+ 
+0000008 221  VHI     've                      Z5 A9+ A2.2 
 0000008 230  VVN     mobilized                A1.5.1 G3 
 0000008 240  AT1     a                        Z5 
 0000008 250  NN1     majority                 N5+++c 
@@ -153,9 +156,10 @@
 0000008 490  VBDZ    was                      Z5 A3+ 
 0000008 500  VVN     released                 A1.7- A9- 
 0000008 510  II      on                       Z5 
-0000008 520  NP2     Axelrods                 Z99 
-0000008 530  VVD     podcast                  Z99 
-0000008 540  NP1     AxeFiles                 Z99 
+0000008 520  NP1     Axelrod                  Z99 
+0000008 521  GE      's                       Z5 
+0000008 530  NN1     podcast                  Z99 
+0000008 540  NN2     AxeFiles                 Z99 
 0000008 541  .       .                        
 0000008 542  -----   -----                    
 0000008 550  PPIS1   I                        Z8mf 
@@ -163,9 +167,10 @@
 0000008 570  CST     that                     Z8 Z5 
 0000008 580  II      in                       Z5 
 0000008 590  NN2     conversations            Q2.1 
-0000008 600  CST     that                     Z5 Z8 
-0000008 610  NP1     Ive                      Z99 
-0000008 620  VHD     had                      A9+ Z5 A2.2 S4 
+0000008 600  CST     that                     Z8 Z5 
+0000008 610  PPIS1   I                        Z8mf 
+0000008 611  VH0     've                      Z5 A9+ A2.2 
+0000008 620  VHN     had                      A9+ Z5 A2.2 S4 
 0000008 630  IW      with                     Z5 
 0000008 640  NN      people                   S2mfc 
 0000008 650  II      around                   Z5 
@@ -206,11 +211,13 @@
 0000010 060  VVN     gotten                   M1 A9+ Z5 X9.2+ A2.1+ A2.2 M2 
 0000010 070  II      under                    Z5 
 0000010 080  NNB     Mr.                      Z1m[i13.2.1 S2.2m 
-0000010 090  NP1     Trumps                   Z1m[i13.2.2 Z1mf 
+0000010 090  NP1     Trump                    Z1m[i13.2.2 Z1mf 
+0000010 091  GE      's                       Z5 
 0000010 100  NN1     skin                     B1 O2 
 0000010 101  :       :                        
-0000010 110  NPD2    Wednesdays               T1.3 
-0000010 120  VV0     tweet                    Z99 
+0000010 110  NPD1    Wednesday                T1.3 
+0000010 111  GE      's                       Z5 
+0000010 120  NN1     tweet                    Z99 
 0000010 130  VBZ     is                       A3+ Z5 
 0000010 140  AT      the                      Z5 
 0000010 150  MD      third                    N4 N5 N1 
@@ -340,11 +347,12 @@
 0000018 192  -----   -----                    
 0000018 200  PPIS1   I                        Z8mf 
 0000018 210  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000018 211  XX      nt                       S9/Q4.1 Z3c 
+0000018 211  XX      n't                      Z6 
 0000018 220  VVI     know                     X2.2+ S3.2/B1% 
-0000018 230  CSW@    if                       Z7 
-0000018 240  NN1     Id                       X2 
-0000018 250  II      like                     Z5 
+0000018 230  CS      if                       Z7 
+0000018 240  PPIS1   I                        Z8mf 
+0000018 241  VM      'd                       A7+ 
+0000018 250  VVI     like                     E2+ 
 0000018 260  PPHO1   him                      Z8m 
 0000018 261  ,       ,                        
 0000018 270  NNB     Mr.                      Z1m[i31.2.1 S2.2m 
@@ -358,8 +366,9 @@
 0000018 330  CST     that                     Z5 Z8 
 0000018 340  RR      maybe                    A7 
 0000018 350  PPIS1   I                        Z8mf 
-0000018 360  VV0     wouldnt                  Z99 
-0000018 361  ,       ,                        
+0000018 360  VM      would                    A7+ 
+0000018 361  XX      n't                      Z6 
+0000018 362  ,       ,                        
 0000018 370  CCB     but                      Z5 
 0000018 380  PPIS1   I                        Z8mf 
 0000018 390  VDD     did                      A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
@@ -399,7 +408,8 @@
 0000020 210  DA2     several                  N5 
 0000020 220  IO      of                       Z5 
 0000020 230  NNB     Mr.                      Z1m[i36.2.1 S2.2m 
-0000020 240  NP1     Obamas                   Z1m[i36.2.2 
+0000020 240  NP1     Obama                    Z1m[i36.2.2 
+0000020 241  GE      's                       Z5 
 0000020 250  JJ      recent                   T3- 
 0000020 260  NN2     decisions                X6+ 
 0000020 261  ,       ,                        

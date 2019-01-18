@@ -1,4 +1,4 @@
-TOTAL              234
+TOTAL              237
 the                  AT             11 
 that                 CST             8 
 to                   TO              5 
@@ -11,6 +11,7 @@ of                   IO              3
 and                  CC              3 
 to                   II              3 
 in                   II              3 
+Ashe                 NP1             3 
 his                  APPGE           3 
 Seng                 NP1             3 
 have                 VH0             2 
@@ -22,12 +23,13 @@ reportedly           RR              2
 he                   PPHS1           2 
 died                 VVD             2 
 a                    AT1             2 
-Ashe                 NP1             2 
 from                 II              2 
+'s                   GE              2 
 death                NN1             2 
 during               II              2 
 source               NN1             2 
 against              II              2 
+would                VM              2 
 that                 DD1             2 
 far                  RR              2 
 americans            NN2             1 
@@ -82,7 +84,6 @@ argue                VV0             1
 workout_accident     NN1             1 
 crushed              VVD             1 
 throat               NN1             1 
-ashes                NN2             1 
 became               VVD             1 
 even                 RR              1 
 more                 RGR             1 
@@ -119,7 +120,7 @@ dollars              NNU2            1
 democrat             NN1             1 
 national             JJ              1 
 committee            NN1             1 
-bills                NN2             1 
+Bill                 NP1             1 
 presidency           NN1             1 
 an                   AT1             1 
 anonymous            JJ              1 
@@ -133,7 +134,6 @@ convince             VVI             1
 him                  PPHO1           1 
 testify              VVI             1 
 her                  PPHO1           1 
-would                VM              1 
 have                 VHI             1 
 very                 RG              1 
 embarrassing         JJ              1 
@@ -149,8 +149,8 @@ just                 RR              1
 latest               JJT             1 
 victim               NN1             1 
 we                   PPIS2           1 
-wouldnt              VV0             1 
-put                  VV0             1 
+n't                  XX              1 
+put                  VVI             1 
 past                 II              1 
 them                 PPHO2           1 
 take_down            VVI             1 

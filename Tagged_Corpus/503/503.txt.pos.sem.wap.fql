@@ -1,4 +1,4 @@
-TOTAL              119
+TOTAL              120
 of                   IO              5 
 the                  AT              4 
 files                NN2             3 
@@ -11,6 +11,7 @@ up                   RP              2
 space                NN1             2 
 phone                NN1             2 
 from                 II              2 
+we                   PPIS2           2 
 a_lot                AT1             2 
 a                    AT1             2 
 your                 APPGE           2 
@@ -44,7 +45,6 @@ our                  APPGE           1
 most                 RGT             1 
 recent               JJ              1 
 research             NN1             1 
-we                   PPIS2           1 
 noticed              VVD             1 
 that                 CST             1 
 there                EX              1 
@@ -66,7 +66,7 @@ lots                 PN              1
 daily                JJ              1 
 frustration          NN1             1 
 today                RT              1 
-were                 VBDR            1 
+'re                  VBR             1 
 proud                JJ              1 
 to                   TO              1 
 introduce            VVI             1 

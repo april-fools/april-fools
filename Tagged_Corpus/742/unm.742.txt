@@ -4,7 +4,6 @@ apps                     VVZ     Z99
 Fly-X3                   NN1     Z99 
 Hachette                 NP1     Z99 
 iPhone                   NN1     Z99 
-iPhone                   VV0     Z99 
 live-stream              JJ      Z99 
 live-stream-friendly     JJ      Z99 
 live-streaming           JJ      Z99 

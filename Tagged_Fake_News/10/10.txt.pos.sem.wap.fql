@@ -1,15 +1,16 @@
-TOTAL              316
+TOTAL              321
 the                  AT             23 
 of                   IO             13 
 to                   TO              8 
+trump                NN1             7 
 dark                 JJ              7 
 for                  IF              7 
-trump                NN1             6 
 and                  CC              6 
+Sauron               NP1             6 
+'s                   GE              5 
 a                    AT1             5 
 i                    PPIS1           5 
 has                  VHZ             4 
-Sauron               NP1             4 
 lord                 NN1             4 
 is                   VBZ             4 
 to                   II              3 
@@ -19,10 +20,9 @@ not                  XX              3
 in                   II              3 
 about                II              3 
 disavow              VVI             2 
-lords                NN2             2 
+support              NN1             2 
 Middle-Earth         NP1             2 
 this                 DD1             2 
-Saurons              NP1             2 
 still                RR              2 
 republican           NN1             2 
 presidential         JJ              2 
@@ -33,9 +33,9 @@ sauron               NN1             2
 or                   CC              2 
 from                 II              2 
 do                   VD0             2 
-nt                   XX              2 
+n't                  XX              2 
 refuses              VVZ             1 
-support              VV0             1 
+Lord                 NP1             1 
 stirring             JJ              1 
 controversy          NN1             1 
 MORDOR_Sauron        NP1             1 
@@ -146,7 +146,7 @@ deportation          NN1             1
 dwarves              NN2             1 
 when                 CS              1 
 asked                VVN             1 
-Sauron_on_NBCs       NP1             1 
+Sauron_on_NBC        NP1             1 
 meet                 VV0             1 
 press                NN1             1 
 seemed               VVD             1 
@@ -177,9 +177,7 @@ need                 VV0             1
 do                   VDI             1 
 more                 DAR             1 
 research             NN1             1 
-trumps               NN2             1 
 refusal              NN1             1 
-support              NN1             1 
 sparked              VVN             1 
 huge                 JJ              1 
 backlash             NN1             1 
@@ -204,3 +202,4 @@ decoration           NN1             1
 only                 RR              1 
 communicating        VVG             1 
 with                 IW              1 
+lords                NN2             1 

@@ -1,4 +1,4 @@
-TOTAL             1033
+TOTAL             1036
 the                  AT             40 
 tax                  NN1            25 
 would                VM             21 
@@ -7,16 +7,16 @@ and                  CC             19
 to                   TO             19 
 plan                 NN1            17 
 a                    AT1            16 
-you                  PPY            15 
+you                  PPY            16 
+'s                   GE             14 
 are                  VBR            14 
 on                   II             13 
 of                   IO             13 
 but                  CCB            13 
-'s                   GE             13 
 be                   VBI            12 
-taxes                NN2            11 
 cuts                 NN2            10 
 this                 DD1            10 
+taxes                NN2            10 
 households           NN2            10 
 federal              JJ              9 
 government           NN1             9 
@@ -28,11 +28,11 @@ by                   II              8
 with                 IW              7 
 what                 DDQ             7 
 your                 APPGE           7 
+we                   PPIS2           7 
 calculator           NN1             7 
 is                   VBZ             7 
 more                 DAR             7 
 increases            NN2             6 
-we                   PPIS2           6 
 in                   II              6 
 they                 PPHS2           6 
 his                  APPGE           6 
@@ -92,7 +92,6 @@ why                  RRQ             3
 rate                 NN1             3 
 pay                  VV0             3 
 more                 RRR             3 
-employers            NN2             3 
 across_the_board     II              3 
 estimated            JJ              3 
 currently            RR              3 
@@ -131,7 +130,9 @@ update               VV0             2
 think                VV0             2 
 current              JJ              2 
 from                 II              2 
+'re                  VBR             2 
 income_tax           NN1             2 
+employers            NN2             2 
 like                 II              2 
 deals                VVZ             2 
 poor                 JJ              2 
@@ -300,10 +301,9 @@ explains             VVZ             1
 happening            VVG             1 
 surprised            VVN             1 
 at                   II              1 
-youre                VV0             1 
+taxes                VVZ             1 
 under                II              1 
 law                  NN1             1 
-were                 VBDR            1 
 including            II              1 
 as_well              II31            1 
 as                   II33            1 
@@ -311,6 +311,7 @@ individual           JJ              1
 working              JJ              1 
 actually             RR              1 
 include              VV0             1 
+employer             NN1             1 
 portion              NN1             1 
 economists           NN2             1 
 pass                 VV0             1 

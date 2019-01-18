@@ -1,12 +1,12 @@
 OCZ breaks new ground with its Vertex 4 in that this isn't a SandForce-flavored SSD. The company's latest flagship features an Indilinx Everest 2 controller that definitely impresses us. Can Vertex 4 stand up against the SSD 520, m4, and Samsung 830?
 
-Update: The praise heaped on OCZ’s controller technology was intended to recognize the company’s effort in making itself independent of third parties. However, a few weeks back, our friends at Xtreme Systems raised suspicions that OCZ’s Everest controllers (first- and second-gen) were actually based on Marvell logic. We were unable to confirm the validity of those claims until more recently, when OCZ acknowledged this to us.
+Update: The praise heaped on OCZ's controller technology was intended to recognize the company's effort in making itself independent of third parties. However, a few weeks back, our friends at Xtreme Systems raised suspicions that OCZ's Everest controllers (first- and second-gen) were actually based on Marvell logic. We were unable to confirm the validity of those claims until more recently, when OCZ acknowledged this to us.
 
-The company’s official statement is as follows:
+The company's official statement is as follows:
 
 OCZ has a strong relationship with Marvell who we have collaborated with on both the Everest and Kilimanjaro platforms. Just as any product, a complete platform consists of many components, and in this case includes silicon that is run at higher speeds and Indilinx proprietary firmware, which was developed completely in-house, and allows OCZ to enable enhanced features, performance, and endurance. All of these elements come together to form the complete platform that can only be found in SSD products like the Octane and Vertex 4.
 
-This puts the company in an interesting position, as it switches from one third-party controller company to another. It’s able to claim some benefits over other Marvell-oriented vendors on the hardware side, but puts most of its emphasis on the firmware work it has done. In the days to follow, we plan to dig even deeper on our own accord. And, if our research turns up anything interesting, you can count on a follow-up.
+This puts the company in an interesting position, as it switches from one third-party controller company to another. It's able to claim some benefits over other Marvell-oriented vendors on the hardware side, but puts most of its emphasis on the firmware work it has done. In the days to follow, we plan to dig even deeper on our own accord. And, if our research turns up anything interesting, you can count on a follow-up.
 
 OCZ's Vertex 4, a drive that was first shown off at this year's CeBIT, is finally here. And it's based on the Everest 2 controller, first shown off earlier this year in Vegas at CES. More than just the company's new flagship SSD, the Vertex 4 represents OCZ's desire to stand apart in a business that's increasingly based on too few components integrated by too many vendors.
 

@@ -155,7 +155,8 @@
 0000008 250  IO      of                       Z5 
 0000008 260  AT      the                      Z5 
 0000008 270  NN1     iPhone                   Z99 
-0000008 280  NN2     versions                 A4.1 Q2.1 
+0000008 280  NN1     version                  A4.1 Q2.1 
+0000008 281  GE      's                       Z5 
 0000008 290  NN1     image                    O4.1 A8 X2.1 C1 
 0000008 300  NN1     editing                  Q1.2 Q4 
 0000008 310  NN2     features                 O4.1 Q4.2 Q4.3 W3 

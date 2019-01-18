@@ -582,15 +582,17 @@
 0000030 050  II      at                       Z5 
 0000030 060  RGQ@    how                      Z5 A13.3 
 0000030 070  DA1     much                     N5+ I1.3+ 
-0000030 080  NN2     taxes                    I1.1/G1.1 
-0000030 090  VV0     youre                    Z99 
+0000030 080  VVZ%    taxes                    I1.1/G1.1 A12- 
+0000030 090  PPY     you                      Z8mf 
+0000030 091  VBR     're                      Z5 A3+ 
 0000030 100  VVG     paying                   I1.2 A9- I1.1/I3.1 
 0000030 110  II      under                    Z5 
 0000030 120  JJ      current                  T1.1.2 
 0000030 130  NN1     law                      G2.1 S6+ Y1 
 0000030 131  .       .                        
 0000030 132  -----   -----                    
-0000030 140  VBDR    Were                     A3+ Z5 
+0000030 140  PPIS2   We                       Z8 
+0000030 141  VBR     're                      A3+ Z5 
 0000030 150  II      including                A1.8+ 
 0000030 160  NN1     payroll                  I3.1 
 0000030 170  NN2     taxes                    I1.1/G1.1 
@@ -633,7 +635,8 @@
 0000030 480  PPY     you                      Z8mf 
 0000030 490  VV0     include                  A1.8+ 
 0000030 500  AT      the                      Z5 
-0000030 510  NN2     employers                I3.1/S2mf 
+0000030 510  NN1     employer                 I3.1/S2mf 
+0000030 511  GE      's                       Z5 
 0000030 520  NN1     portion                  N5 
 0000030 530  IO      of                       Z5 
 0000030 540  AT      the                      Z5 

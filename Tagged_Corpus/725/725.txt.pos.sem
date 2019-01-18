@@ -37,7 +37,8 @@
 0000004 080  NN1     conflict                 A6.1- G3 E3- 
 0000004 090  II      between                  Z5 
 0000004 100  AT      the                      Z5 
-0000004 110  NN2     worlds                   W1 S5+c A4.1 N5+ 
+0000004 110  NN1     world                    W1 S5+c A4.1 N5+ 
+0000004 111  GE      's                       Z5 
 0000004 120  MC      two                      N1 T3 T1.2 
 0000004 130  JJT     biggest                  N3.2+++ N5+++ A11.1+++ S1.2.5+++ X5.2+++ 
 0000004 140  NN2     economies                I2.1 I1.3- 
@@ -52,7 +53,8 @@
 0000004 230  NNT1    evening                  T1.3[i5.2.2 T1.3 
 0000004 240  IW      with                     Z5 
 0000004 250  NNB     President                G1.1/S7.1+/S2mf 
-0000004 260  NP1     Trumps                   Z1mf 
+0000004 260  NP1     Trump                    Z1mf 
+0000004 261  GE      's                       Z5 
 0000004 270  NN1     threat                   E3-/Q2.2 A15- X2.6+/O4.2- A7+ 
 0000004 280  TO      to                       Z5 
 0000004 290  VVI     add                      N5+/A2.1 N2 A1.8+ 
@@ -61,8 +63,9 @@
 0000004 320  DAR     more                     N5++ 
 0000004 330  II      in                       Z5 
 0000004 340  NN2     tariffs                  I1.3 
-0000004 350  APPGE   its                      Z8 
-0000004 360  NN1@    worth                    I1.3 N5 A1.5.2+ S1.1.4+ 
+0000004 350  PPH1    it                       Z8 
+0000004 351  VBZ     's                       A3+ Z5 
+0000004 360  II      worth                    I1.3 A1.5.2+ S1.1.4+ N5 Z3 Z1mf Z2 
 0000004 370  VVG     keeping                  A9+ N6+ T2++ A1.7+ A2.2 F4 S8+ H4 
 0000004 380  PN1     something                Z8 
 0000004 390  II      in                       X2.1[i7.2.1 Z5 
@@ -119,7 +122,7 @@
 0000008 160  NP1     China                    Z2 
 0000008 170  RR      simply                   A13.6 A14 A12+ 
 0000008 180  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000008 181  XX      nt                       S9/Q4.1 Z3c 
+0000008 181  XX      n't                      Z6 
 0000008 190  VHI     have                     A9+ Z5 A2.2 S4 
 0000008 200  RG@     as                       A13 
 0000008 210  DA1     much                     N5+ I1.3+ 
@@ -136,8 +139,9 @@
 0000008 310  VVN     given                    A9- A1.1.1 
 0000008 320  AT      the                      Z5 
 0000008 330  JJ      Chinese                  Z2 Z2/Q3 Z2/S2mfnc 
-0000008 340  NN2     governments              G1.1c 
-0000008 350  VV0@    desire                   X7+ S3.2 
+0000008 340  NN1     government               G1.1c 
+0000008 341  GE      's                       Z5 
+0000008 350  NN1     desire                   X7+ S3.2 
 0000008 360  TO      to                       Z5 
 0000008 370  VVI     cushion                  S8+ 
 0000008 380  APPGE   its                      Z8 

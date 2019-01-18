@@ -9,7 +9,8 @@
 0000002 070 associated                                  03 [VVN/98] JJ/1 VVD%/1
 0000002 080 with                                        93 IW
 0000002 090 the                                         93 AT
-0000002 100 nations                                     03 NN2
+0000002 100 nation                    >                 03 NN1
+0000002 101 's                        <                 98 GE
 0000002 110 immigration                                 03 NN1
 0000002 120 system                                      93 NN1
 0000002 130 creates                                     03 VVZ

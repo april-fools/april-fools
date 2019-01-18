@@ -1,4 +1,4 @@
-TOTAL              394
+TOTAL              397
 the                  Z5                  25 
 to                   Z5                  19 
 and                  Z5                  10 
@@ -15,7 +15,6 @@ urban                M7                   4
 system               X4.2                 4 
 city                 M7                   4 
 market               I2.2                 4 
-farmers              F4                   4 
 simple               A12+                 3 
 store                I2.2                 3 
 or                   Z5                   3 
@@ -44,6 +43,7 @@ that                 Z8                   2
 mobile               M1                   2 
 farms                F4                   2 
 centers              M6                   2 
+farmers              F4                   2 
 get                  A9+                  2 
 location             M7                   2 
 access               M1                   2 
@@ -51,10 +51,12 @@ fresh                T3-                  2
 meals                F1                   2 
 customers            I2.2                 2 
 do                   Z5                   2 
-nt                   S9                   2 
+n't                  Z6                   2 
 cell                 B1                   2 
 phone                Q1.3                 2 
 nearby               N3.3-                2 
+farmer               F4                   2 
+'s                   Z5                   2 
 stores               I2.2                 2 
 who                  Z8                   2 
 have                 A9+                  2 
@@ -119,7 +121,8 @@ attempted            X8+                  1
 solve                X9.2+                1 
 issue                X4.1                 1 
 distribution         A9-                  1 
-were                 Z5                   1 
+we                   Z8                   1 
+'re                  Z5                   1 
 proposing            Q2.2                 1 
 new                  T3-                  1 
 way                  X4.2                 1 

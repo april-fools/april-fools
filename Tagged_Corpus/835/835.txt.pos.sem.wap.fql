@@ -1,24 +1,27 @@
-TOTAL              461
+TOTAL              473
 the                  AT             34 
 and                  CC             13 
 of                   IO             10 
 for                  IF              9 
 use                  NN1             7 
+it                   PPH1            7 
 players              NN2             6 
 technology           NN1             6 
 can                  VM              6 
 be                   VBI             6 
 during               II              5 
 committee            NN1             5 
-it                   PPH1            5 
 to                   TO              5 
 baseball             NN1             4 
 games                NN2             4 
 is                   VBZ             4 
+'s                   VBZ             4 
 on                   II              4 
 from                 II              4 
 by                   II              4 
+'s                   GE              4 
 devices              NN2             3 
+'                    GE              3 
 stress               NN1             3 
 heart                NN1             3 
 been                 VBN             3 
@@ -38,7 +41,6 @@ data                 NN              3
 not                  XX              3 
 an                   AT1             3 
 said                 VVD             3 
-its                  APPGE           3 
 him                  PPHO1           3 
 we                   PPIS2           3 
 breathing            VVG             2 
@@ -72,7 +74,7 @@ to                   II              2
 used                 VVN             2 
 who                  PNQS            2 
 director             NN1             2 
-pitchers             NN2             2 
+pitcher              NN1             2 
 his                  APPGE           2 
 Altchek              NP1             2 
 Tommy_John           NP1             2 
@@ -84,7 +86,7 @@ joint                JJ              1
 have                 VH0             1 
 approved             VVN             1 
 coming_to            VVG             1 
-sports               NN2             1 
+sport                NN1             1 
 playing              VVG             1 
 familiar             JJ              1 
 told                 VVD             1 
@@ -144,12 +146,13 @@ these                DD2             1
 full                 JJ              1 
 consents             NN2             1 
 includes             VVZ             1 
-Atlantas             NP2             1 
+Atlanta              NP1             1 
 John_Schuerholz      NP1             1 
-Clevelands           NP2             1 
+Cleveland            NP1             1 
 Chris_Antonetti      NP1             1 
-St_Louis_John        NP1             1 
-Minnesotas           NP2             1 
+St_Louis             NP1             1 
+John_Mozeliak        NP1             1 
+Minnesota            NP1             1 
 Terry_Ryan           NP1             1 
 others               NN2             1 
 transmitted          VVN             1 
@@ -194,7 +197,8 @@ Steven_Small         NP1             1
 Zephyr               NP1             1 
 performance          NN1             1 
 systems              NN2             1 
-members              NN2             1 
+its                  APPGE           1 
+member               NN1             1 
 rights               NN2             1 
 negotiated           JJ              1 
 covering             VVG             1 
@@ -205,7 +209,7 @@ in-game              NN1             1
 next                 MD              1 
 thing                NN1             1 
 you_know             PPY             1 
-going_to             VVG             1 
+going_to             VVGK            1 
 phone_in             NN1             1 
 pocket               NN1             1 
 taking               VVG             1 
@@ -221,6 +225,7 @@ hopes                VVZ             1
 device               NN1             1 
 used_to              VVN             1 
 help                 VVI             1 
+pitchers             NN2             1 
 avoid                VVI             1 
 rehabilitate         VV0             1 
 career-interrupting  JJ              1 
@@ -238,7 +243,6 @@ below                RG              1
 85%                  NNU             1 
 now                  RT              1 
 last_month           MD              1 
-pitcher              NN1             1 
 even_though          CS21            1 
 couple               NN1             1 
 days                 NNT2            1 
@@ -247,7 +251,7 @@ mound                NN1             1
 he                   PPHS1           1 
 just                 RR              1 
 wants                VVZ             1 
-nt                   XX              1 
+n't                  XX              1 
 want                 VVI             1 
 if                   CS              1 
 absolute             JJ              1 

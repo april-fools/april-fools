@@ -1,4 +1,4 @@
-TOTAL             1228
+TOTAL             1235
 the                  Z5                  72 
 and                  Z5                  44 
 of                   Z5                  29 
@@ -9,23 +9,24 @@ his                  Z8                  16
 is                   A3+                 15 
 in                   Z5                  14 
 him                  Z8                  14 
+party                K1                  13 
 it                   Z8                  13 
 or                   Z5                  13 
 but                  Z5                  12 
 has                  Z5                  12 
 will                 T1.1.3              12 
 not                  Z6                  11 
-trump                Z1                  10 
-party                K1                  10 
+trump                Z1                  11 
+leader               S7.1+               11 
 with                 Z5                  10 
 them                 Z8                  10 
-leader               S7.1+                9 
+that                 Z5                   9 
 would                A7+                  8 
-that                 Z8                   8 
 what                 Z8                   8 
-that                 Z5                   8 
 republican           G1.2                 7 
+'s                   Z5                   7 
 political            G1.2                 7 
+that                 Z8                   7 
 they                 Z8                   7 
 as                   Z5                   6 
 about                Z5                   6 
@@ -57,13 +58,11 @@ fascism              G1.2                 4
 today                T1.1.2               4 
 there                Z5                   4 
 then                 N4                   4 
-partys               K1                   3 
 phenomenon           A3                   3 
 has                  A9+                  3 
 nothing_to_do_with   A2.2-                3 
 this                 M6                   3 
 threat               E3-                  3 
-leaders              S7.1+                3 
 support              S8+                  3 
 national             M7                   3 
 on                   Z5                   3 
@@ -82,7 +81,6 @@ been                 A3+                  3
 Donald_trump         Z1                   2 
 normal               A6.2+                2 
 candidate            G1.2                 2 
-were                 A3+                  2 
 so                   A13.3                2 
 republic             G1.2                 2 
 principles           G2.2                 2 
@@ -97,6 +95,7 @@ because              Z5                   2
 number               N5                   2 
 even                 A13.1                2 
 allegiance           S5+                  2 
+we                   Z8                   2 
 believe              X2.1                 2 
 economic             I1.3-                2 
 does                 A1.1.1               2 
@@ -138,12 +137,12 @@ vox                  Z3                   2
 those                Z5                   2 
 oppose               S8-                  2 
 can                  A7+                  2 
-nt                   S9                   2 
 most                 A13.2                2 
 following            M1                   2 
 get                  A9+                  2 
 predictable          Q2.2                 2 
 ambition             X7+                  2 
+n't                  Z6                   2 
 let                  S7.4+                2 
 like                 Z5                   2 
 chairman             S7.1+                2 
@@ -155,6 +154,7 @@ out_of               Z5                   2
 attempt              X8+                  1 
 treat                S1.1.1               1 
 laughable            S1.2.6-              1 
+were                 A3+                  1 
 perilous             Z99                  1 
 mouth                Q2.1                 1 
 conservative         G1.2                 1 
@@ -177,6 +177,7 @@ fully                A13.2                1
 embrace              S3.2                 1 
 dwindling            N5-                  1 
 intellectual         X2                   1 
+leaders              S7.1+                1 
 still                T2++                 1 
 resist               S8-                  1 
 is                   Z5                   1 
@@ -185,8 +186,8 @@ suspicion            X2.1                 1
 hostility            S1.2.1-              1 
 alone                S5-                  1 
 source               T2+                  1 
+'re                  A3+                  1 
 supposed             S6+                  1 
-trumps               K5.2                 1 
 stems_from           A2.2                 1 
 stagnation           A2.1-                1 
 dislocation          B2-                  1 
@@ -393,8 +394,7 @@ chooses              X7+                  1
 someone              Z8                   1 
 criticizes           Q2.2                 1 
 opposes              S8-                  1 
-does                 Z5                   1 
-matter               A11.1+               1 
+does_n't_matter      A11.1-               1 
 admired              S7.2+                1 
 person               S2                   1 
 famous               X2.2+                1 
@@ -440,7 +440,7 @@ merely               A13.6                1
 hope                 X2.6+                1 
 survive              A3+                  1 
 consciences          X2.1                 1 
-wont                 A6.2+                1 
+wo                   T1.1.3               1 
 curry                F1                   1 
 favor                S8+                  1 
 shamelessly          G2.2-                1 
@@ -448,8 +448,8 @@ so                   Z5                   1
 mumble               Q2.2                 1 
 pledges              A7+                  1 
 victims              A1.1.2               1 
-Stalins              Z1                   1 
-show                 A10+                 1 
+Stalin               Z1                   1 
+show                 A8                   1 
 trials               G2.1                 1 
 perhaps              A7                   1 
 realizing            X2.5+                1 
@@ -481,7 +481,6 @@ afoot                A1.1.1               1
 storm                W4                   1 
 pass                 M1                   1 
 insist               S7.1+                1 
-we                   Z8                   1 
 pick_up              M2                   1 
 pieces               N5.1-                1 
 rebuild              H1                   1 
@@ -494,7 +493,7 @@ need                 S6+                  1
 brought_back         M2                   1 
 fold                 O4.4                 1 
 as_for               Z5                   1 
-lets                 S7.4+                1 
+let_'s               Z5                   1 
 shape                O4.4                 1 
 advise               Q2.2                 1 
 steer_in_the_right_direction S8+                  1 

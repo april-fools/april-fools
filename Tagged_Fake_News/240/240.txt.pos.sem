@@ -49,15 +49,17 @@
 0000005 050  PPIO1   me                       Z8mf 
 0000005 051  ,       ,                        
 0000005 060  RRQ     Why                      A2.2 
-0000005 070  NN1     cant                     Q2.1 
+0000005 070  VM      ca                       A7+ 
+0000005 071  XX      n't                      Z6 
 0000005 080  PPHS2   they                     Z8mfn 
-0000005 090  VH0     have                     A9+ Z5 A2.2 S4 
+0000005 090  VHI     have                     A9+ Z5 A2.2 S4 
 0000005 100  NN      people                   S2mfc 
 0000005 110  IO      of                       Z5 
 0000005 120  JJ      modest                   N3.2- S1.2.3- 
 0000005 130  NN      means                    N2 
 0000005 131  ?       ?                        
-0000005 132  -----   -----                    
+0000005 132  "@      '                        
+0000005 133  -----   -----                    
 0000005 140  NN1     Trump                    Z1mf K5.2 
 0000005 150  VVD     said                     Q2.1 
 0000005 160  II      at                       Z5 
@@ -81,7 +83,8 @@
 0000005 292  -----   -----                    
 0000005 300  CS      Because                  Z5/A2.2 
 0000005 310  RT      now                      T1.1.2 Z4 
-0000005 320  NN1     theyre                   Z99 
+0000005 320  PPHS2   they                     Z8mfn 
+0000005 321  VBR     're                      Z5 A3+ 
 0000005 330  VVG     negotiating              Q2.2 
 0000005 340  IW      with                     Z5 
 0000005 350  PPY     you                      Z8mf 
@@ -98,8 +101,9 @@
 0000007 050  VVZ     estimates                X6/A7- N2/A7- 
 0000007 060  MC      seven                    N1 T3 T1.2 
 0000007 070  IO      of                       Z5 
-0000007 080  NN2     Trumps                   K5.2 S7.1+ 
-0000007 090  VVZ     picks                    X7+ A1.1.1 
+0000007 080  NN1     Trump                    Z1mf 
+0000007 081  GE      's                       Z5 
+0000007 090  NN2%    picks                    O2 
 0000007 100  VBR     are                      A3+ Z5 
 0000007 110  II      worth                    I1.3 A1.5.2+ S1.1.4+ N5 Z3 Z1mf Z2 
 0000007 120  AT1     a                        Z5 
@@ -182,7 +186,8 @@
 0000012 101  ,       ,                        
 0000012 110  CCB     but                      Z5 
 0000012 120  RR      mostly                   A13.2 
-0000012 130  APPGE   its                      Z8 
+0000012 130  PPH1    it                       Z8 
+0000012 131  VBZ     's                       A3+ Z5 
 0000012 140  NN2     billionaires             I1.1/S2mf 
 0000012 141  ,       ,                        
 0000012 150  VVD     said                     Q2.1 
@@ -223,7 +228,8 @@
 0000017 020  II      like                     Z5 
 0000017 030  NP1     Sanders                  Z99 
 0000017 040  VV0     say                      Q2.1 Z4% 
-0000017 050  NN2     Trumps                   K5.2 S7.1+ 
+0000017 050  NN1     Trump                    Z1mf 
+0000017 051  GE      's                       Z5 
 0000017 060  NN2     choices                  X7+ A6.3+ 
 0000017 070  VV0     fly                      M5 M1 N3.8+ E3- 
 0000017 080  II      in                       Z5 
@@ -238,7 +244,7 @@
 0000017 152  -----   -----                    
 0000017 160  PPY     You                      Z8mf 
 0000017 170  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000017 171  XX      nt                       S9/Q4.1 Z3c 
+0000017 171  XX      n't                      Z6 
 0000017 180  VVI     appoint                  S7.1+ 
 0000017 190  AT1     a                        Z5 
 0000017 200  NN1     Cabinet                  H5 G1.1 
@@ -254,8 +260,9 @@
 0000017 290  PPHS1   he                       Z8m 
 0000017 300  VVD     said                     Q2.1 
 0000017 310  II      on                       Z5 
-0000017 320  NPD2    Sundays                  T1.3 
-0000017 330  VV0     Face                     M6 S1.1.1 X2.1 B5 
+0000017 320  NPD1    Sunday                   T1.3 
+0000017 321  GE      's                       Z5 
+0000017 330  NN1     Face                     B1 W3 O2 A8 S1.2.3+ 
 0000017 340  AT      The                      Z5 
 0000017 350  NN1     Nation                   G1.1c S5+c 
 0000017 351  .       .                        
@@ -263,7 +270,8 @@
 0000019 010  NP1     Steve                    Z2[i19.2.1 Z3c[i19.2.1 Z1mf[i19.2.1 Z1mf Z1mf[i18.2.1 Z3c[i18.2.1 
 0000019 020  NP1     Mnuchin                  Z2[i19.2.2 Z3c[i19.2.2 Z1mf[i19.2.2 Z1mf[i18.2.2 Z3c[i18.2.2 
 0000019 021  ,       ,                        
-0000019 030  VVZ     Trumps                   K5.2 
+0000019 030  NN1     Trump                    Z1mf 
+0000019 031  GE      's                       Z5 
 0000019 040  NN1     Treasury                 Z3c 
 0000019 050  NN1@    pick                     X7+ A5.1+++ O2 
 0000019 060  VHZ     has                      Z5 A9+ A2.2 S4 
@@ -304,7 +312,8 @@
 0000019 370  NN2     Americans                Z2/S2mf 
 0000019 371  .       .                        
 0000019 372  -----   -----                    
-0000021 010  APPGE   Its                      Z8 
+0000021 010  PPH1    It                       Z8 
+0000021 011  VBZ     's                       A3+ Z5 
 0000021 020  RR      also                     N5++ 
 0000021 030  XX      not                      Z6 
 0000021 040  JJ      true                     A5.2+ A5.4+ 
@@ -332,7 +341,8 @@
 0000021 221  ,       ,                        
 0000021 230  PPHS1   he                       Z8m 
 0000021 240  VVZ     knows                    X2.2+ S3.2/B1% 
-0000021 250  APPGE   its                      Z8 
+0000021 250  PPH1    it                       Z8 
+0000021 251  VBZ     's                       A3+ Z5 
 0000021 260  XX      not                      Z6 
 0000021 270  AT      the                      Z5 
 0000021 280  DA      same                     A6.1+++ 

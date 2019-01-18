@@ -115,7 +115,8 @@
 0000010 020 result                                      93 [NN1/100] VV0/0
 0000010 030 correlates                                  04 [VVZ/95] NN2@/5
 0000010 040 with                                        93 IW
-0000010 050 UQs                                         09 [NP1/94] NN2@/6 VVZ@/0 NP2%/0
+0000010 050 UQ                        >                 08 [NP1/99] NN1@/1 JJ@/0 VV0@/0
+0000010 051 's                        <                 97 GE
 0000010 060 43rd                                        14 MD
 0000010 070 overall                                     93 [JJ/34] NN1/58 RR/8
 0000010 080 ranking                                     03 [NN1/59] VVG/41
@@ -203,7 +204,8 @@
 0000014 270 delighted                                   97 JJ
 0000014 280 with                                        97 IW
 0000014 290 the                                         93 AT
-0000014 300 Universitys                                 04 NN2
+0000014 300 University                >                 93 NN1
+0000014 301 's                        <                 98 GE
 0000014 310 strong                                      03 [JJ/100] RR%/0
 0000014 320 performance                                 93 NN1
 0000014 330 in                                          93 [II/99] RP@/1

@@ -2,13 +2,13 @@ Samsung researchers have developed a new method of synthesising graphene, which 
 
 Graphene is one of the thinnest, lightest, strongest and most conductive materials know to man, consisting of a single layer of carbon atoms arranged in a honeycomb structure. Its versatility means that it can potentially support a wide variety of applications in electronics, including flexible displays, wearables and other next-generation electronic devices.
 
-Working with Sungkyungkwan University’s School of Advanced Materials Science and Engineering, Samsung's Advanced Institute of Technology (SAIT) has uncovered a new method of synthesising graphene without damaging its electric and mechanical properties.
+Working with Sungkyungkwan University's School of Advanced Materials Science and Engineering, Samsung's Advanced Institute of Technology (SAIT) has uncovered a new method of synthesising graphene without damaging its electric and mechanical properties.
 
 In the past, researchers have found that multi-crystal synthesis – the process of synthesising small graphene particles to produce large-area graphene – deteriorated the electric and mechanical properties of the material, limiting its application range and making it difficult to commercialise.
 
-The new method involves synthesising large-area graphene into a single crystal on a semiconductor, while maintaining its electric and mechanical properties. By developing a method for growing a single crystal graphene into a large area, the researchers claim they could displace the tech industry’s reliance on silicon.
+The new method involves synthesising large-area graphene into a single crystal on a semiconductor, while maintaining its electric and mechanical properties. By developing a method for growing a single crystal graphene into a large area, the researchers claim they could displace the tech industry's reliance on silicon.
 
- <quote> "This is one of the most significant breakthroughs in graphene research in history,” </quote>  said the laboratory leaders at SAIT’s Lab.  <quote> “We expect this discovery to accelerate the commercialisation of graphene, which could unlock the next era of consumer electronic technology." </quote> 
+ <quote> "This is one of the most significant breakthroughs in graphene research in history,” </quote>  said the laboratory leaders at SAIT's Lab.  <quote> “We expect this discovery to accelerate the commercialisation of graphene, which could unlock the next era of consumer electronic technology." </quote> 
 
 The research results will be published in the April 4 issue of Science Magazine and ScienceExpress.
 

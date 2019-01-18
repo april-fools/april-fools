@@ -242,7 +242,8 @@
 0000010 340  RG      so                       A13.3 
 0000010 350  RR      hard                     O4.1 X8+ X5.2+ N5+ A12- 
 0000010 351  ,       ,                        
-0000010 360  APPGE   its                      Z8 
+0000010 360  PPH1    it                       Z8 
+0000010 361  VBZ     's                       A3+ Z5 
 0000010 370  AT      the                      Z5 
 0000010 380  JJ      ultimate                 T2- S7.1+++ A11.1+ N5.1+ A5.1+++ 
 0000010 390  NN1     dog                      L2mfn 
@@ -503,13 +504,15 @@
 0000020 250  NN1     Insurance                I1/A15- 
 0000020 251  .       .                        
 0000020 252  -----   -----                    
-0000020 260  APPGE   Its                      Z8 
+0000020 260  PPH1    It                       Z8 
+0000020 261  VBZ     's                       A3+ Z5 
 0000020 270  AT      the                      Z5 
 0000020 280  MC1     one                      N1 T3 T1.2 
 0000020 290  NN1     thing                    O2 X4.1 A7- S2mf L2mf 
 0000020 300  PPY     you                      Z8mf 
-0000020 310  JJ      cant                     Q2.1 Z1mf Z1 
-0000020 320  VV0     buy                      I2.2 
+0000020 310  VM      ca                       A7+ 
+0000020 311  XX      n't                      Z6 
+0000020 320  VVI     buy                      I2.2 
 0000020 330  RRQ     when                     Z5 
 0000020 340  PPY     you                      Z8mf 
 0000020 350  VV0     need                     S6+ 

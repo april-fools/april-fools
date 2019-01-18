@@ -1,4 +1,4 @@
-TOTAL             1009
+TOTAL             1014
 the                  Z5                  65 
 of                   Z5                  39 
 to                   Z5                  30 
@@ -28,10 +28,10 @@ by                   Z5                   5
 London               Z2                   5 
 Crawley              Z2                   5 
 but                  Z5                   5 
-Sussex               Z2                   4 
 be                   Z5                   4 
 are                  Z5                   4 
 taxi                 M3                   4 
+'s                   Z5                   4 
 serious              A11.1+               4 
 admitted             Q2.2                 4 
 that                 Z5                   4 
@@ -40,6 +40,8 @@ street               M3                   4
 supply               A9-                  4 
 would                A7+                  4 
 there                Z5                   4 
+addicts              X5.2++               4 
+Sussex               Z2                   3 
 100,000              N1                   3 
 an                   Z5                   3 
 successful           X9.2+                3 
@@ -67,10 +69,10 @@ people               S2                   3
 is                   A3+                  3 
 effect               A2.2                 3 
 some                 N5                   3 
-addicts              X5.2++               3 
 streets              M3                   2 
 wraps                O2                   2 
 most                 A13.2                2 
+county               M7                   2 
 men                  S2.2                 2 
 terms                Q3                   2 
 seized               A9+                  2 
@@ -79,6 +81,7 @@ one                  N1                   2
 biggest              N3.2+++              2 
 brought              M2                   2 
 back                 B1                   2 
+Sussex_police        Z3                   2 
 10kg                 N3.5                 2 
 worth                I1.3                 2 
 which                Z8                   2 
@@ -101,6 +104,7 @@ cowsell              Z99                  2
 next_day             T1.1.3               2 
 Bridges              H1                   2 
 value                A11.1+               2 
+Pritchard            Z99                  2 
 Maiden_Lane          Z2                   2 
 in                   M6                   2 
 30                   N1                   2 
@@ -111,6 +115,7 @@ no                   Z6                   2
 assets               I1.1                 2 
 1.7_million          N1                   2 
 unprecedented        A6.2-                2 
+force                E3-                  2 
 across               Z5                   2 
 country              G1.1                 2 
 ultimately           N4                   2 
@@ -138,7 +143,6 @@ branded              Q1.1                 1
 its                  Z8                   1 
 kind                 A4.1                 1 
 conducted            A1.1.1               1 
-county               M7                   1 
 facing               M6                   1 
 long                 N3.7+                1 
 prison               G2.1                 1 
@@ -166,7 +170,6 @@ confronted           A1.1.1               1
 metropolitan_police  Z3                   1 
 acting               A1.1.1               1 
 request              Q2.1                 1 
-polices              G2.1                 1 
 inside               Z5                   1 
 bag                  B5                   1 
 half                 N5                   1 
@@ -318,7 +321,6 @@ following            N4                   1
 day                  T1.3                 1 
 on_the_job           I3.1                 1 
 travelling           M1                   1 
-Pritchards           Z99                  1 
 Langley_Green        Z2                   1 
 burst                A1.1.2               1 
 pair                 N5                   1 
@@ -332,7 +334,6 @@ Kennington           Z2                   1
 37                   N1                   1 
 Hambleton_Hill       Z2                   1 
 Southgate            Z2                   1 
-Pritchard            Z99                  1 
 34                   N1                   1 
 all                  A13.2                1 
 Croydon              Z2                   1 
@@ -353,8 +354,6 @@ comes                M1                   1
 cash                 I1                   1 
 injection            B3                   1 
 hailed               Q2.2                 1 
-Sussex_police        Z3                   1 
-forces               G3                   1 
 took_out             M2                   1 
 section              N5.1-                1 
 bringing             M2                   1 
@@ -399,7 +398,6 @@ willing              X7+                  1
 seeking              X2.4                 1 
 peddle               I2.2                 1 
 class_a_drugs        B3                   1 
-countys_addicts      M7                   1 
 outreach             M7                   1 
 workers              I3.1                 1 
 anecdotal            Q2.1                 1 
@@ -441,6 +439,7 @@ within               Z5                   1
 hours                T1.3                 1 
 as_soon_as           Z5                   1 
 dealers              I2.1                 1 
+'                    Z5                   1 
 networks             S5+                  1 
 aware                X2.2+                1 
 around               M6                   1 
@@ -467,7 +466,6 @@ nudge                A1.1.1               1
 come_in              M1                   1 
 snare                A1.7+                1 
 came                 M1                   1 
-force                E3-                  1 
 invested             I1.1                 1 
 double               N5+                  1 
 size                 N3.2                 1 

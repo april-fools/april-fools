@@ -1,4 +1,4 @@
-TOTAL              377
+TOTAL              380
 the                  AT             18 
 and                  CC             12 
 in                   II             10 
@@ -10,18 +10,20 @@ we                   PPIS2           5
 are                  VBR             5 
 ISIS                 NP1             4 
 on                   II              4 
+where                RRQ             4 
 this                 DD1             4 
 she                  PPHS1           3 
+Obama                NP1             3 
 islamic              JJ              3 
 said                 VVD             3 
 pulse                NN1             3 
 that                 CST             3 
+was                  VBDZ            3 
 their                APPGE           3 
 just                 RR              3 
 like                 II              3 
 is                   VBZ             3 
 Murad                NP1             3 
-where                RRQ             3 
 have                 VHI             3 
 his                  APPGE           3 
 outrage              NN1             3 
@@ -29,7 +31,6 @@ our                  APPGE           3
 who                  PNQS            2 
 for                  IF              2 
 President            NNB             2 
-Obama                NP1             2 
 must                 VM              2 
 all                  DB              2 
 former               DA              2 
@@ -38,7 +39,9 @@ slave                NN1             2
 Nadia_Murad          NP1             2 
 massacre             NN1             2 
 Orlando              NP1             2 
+n't                  XX              2 
 if                   CS              2 
+'s                   GE              2 
 her                  APPGE           2 
 has                  VHZ             2 
 inept                JJ              2 
@@ -56,7 +59,6 @@ radical              JJ              2
 terrorism            NN1             2 
 gunman               NN1             2 
 to                   II              2 
-was                  VBDZ            2 
 due_to               II21            2 
 people               NN              2 
 threat               NN1             2 
@@ -96,7 +98,6 @@ nightclub            NN1             1
 killed               VVD             1 
 49                   MC              1 
 americans            NN2             1 
-wasnt                VV0             1 
 surprised            JJ              1 
 i                    PPIS1           1 
 knew                 VVD             1 
@@ -113,7 +114,7 @@ metastasize          VVI             1
 slowly               RR              1 
 eat_away             VVI             1 
 at                   II              1 
-persons              NN2             1 
+person               NN1             1 
 insides              NN2             1 
 self-fulfilling      JJ              1 
 prophecy             NN1             1 
@@ -154,7 +155,6 @@ pen                  NN1             1
 called               VVN             1 
 political            JJ              1 
 correctness          NN1             1 
-Obamas               NP1             1 
 decision             NN1             1 
 call                 VVI             1 
 by                   II              1 
@@ -185,7 +185,7 @@ Berlin               NP1             1
 dead                 JJ              1 
 families             NN2             1 
 devastated           VVN             1 
-Wheres               NP1             1 
+'s                   VBZ             1 
 Russia               NP1             1 
 responded            VVN             1 
 appropriately        RR              1 
@@ -193,13 +193,11 @@ still                RR              1
 sitting              VVG             1 
 butts                NN2             1 
 do                   VD0             1 
-nt                   XX              1 
 realize              VVI             1 
 could                VM              1 
 prevented            VVN             1 
 long_time_ago        JJ              1 
-ill                  JJ              1 
-bet                  NN1             1 
+i_'ll_bet            PPIS1           1 
 does                 VDZ             1 
 president            NN1             1 
 should               VM              1 

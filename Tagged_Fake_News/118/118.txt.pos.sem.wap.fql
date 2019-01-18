@@ -1,4 +1,4 @@
-TOTAL              815
+TOTAL              819
 the                  AT             38 
 of                   IO             22 
 and                  CC             16 
@@ -9,9 +9,9 @@ candidates           NN2            13
 be                   VBI            12 
 i                    PPIS1          12 
 in                   II             11 
+was                  VBDZ           10 
 but                  CCB            10 
 for                  IF             10 
-was                  VBDZ            9 
 a                    AT1             9 
 not                  XX              9 
 who                  PNQS            8 
@@ -32,8 +32,10 @@ or                   CC              5
 people               NN              5 
 his                  APPGE           4 
 he                   PPHS1           4 
+there                EX              4 
 one                  MC1             4 
 may                  VM              4 
+that                 DD1             4 
 arab                 JJ              4 
 them                 PPHO2           4 
 subject              NN1             4 
@@ -44,8 +46,8 @@ been                 VBN             3
 as                   II              3 
 racist               JJ              3 
 at                   II              3 
-there                EX              3 
 their                APPGE           3 
+Obama                NP1             3 
 did                  VDD             3 
 within               II              3 
 being                VBG             3 
@@ -55,7 +57,6 @@ against              II              3
 this                 DD1             3 
 administration       NN1             3 
 you                  PPY             3 
-that                 DD1             3 
 FW                   NP1             3 
 Preeta               NP1             3 
 lists                NN2             3 
@@ -78,7 +79,6 @@ things               NN2             2
 what                 DDQ             2 
 had                  VHD             2 
 given                VVN             2 
-Obama                NP1             2 
 with                 IW              2 
 as                   CSA             2 
 wikileaks            NN2             2 
@@ -90,11 +90,13 @@ christians           NN2             2
 process              NN1             2 
 potential            JJ              2 
 new                  JJ              2 
+'s                   VBZ             2 
 kind                 NN1             2 
 thing                NN1             2 
 it                   PPH1            2 
 we                   PPIS2           2 
 specifically         RR              2 
+n't                  XX              2 
 bansal               NN1             2 
 muslims              NN2             2 
 also                 RR              2 
@@ -128,7 +130,7 @@ him                  PPHO1           1
 benefit_of_the_doubt NN1             1 
 honesty              NN1             1 
 declaration          NN1             1 
-s                    VBZ             1 
+'s                   VHZ             1 
 revealed             VVN             1 
 pathological         JJ              1 
 liar                 NN1             1 
@@ -154,7 +156,7 @@ such                 DA              1
 individual           NN1             1 
 Preeta_Bansal        NP1             1 
 share                VVI             1 
-Obamas               NP2             1 
+'s                   GE              1 
 personal             JJ              1 
 characteristics      NN2             1 
 certainly            RR              1 
@@ -191,7 +193,6 @@ review               NN1             1
 hires                NN2             1 
 executive            NN1             1 
 branch               NN1             1 
-thats                VVZ             1 
 Loretta_Lynch        NP1             1 
 her                  APPGE           1 
 bulldog              NN1             1 
@@ -225,7 +226,6 @@ race-based           JJ              1
 preference           NN1             1 
 asian                NN1             1 
 alone                JJ              1 
-wasnt                NN1             1 
 enough               RR              1 
 get                  VVI             1 
 onto                 II              1 
@@ -292,7 +292,7 @@ September_29         NPM1            1
 Froman               NP1             1 
 Michael_B_Cc         NP1             1 
 Onek                 NP1             1 
-Matthew              NP1             1 
+Matthew'             NP1             1 
 compiled             JJ              1 
 sub-cabinet          JJ              1 
 boards/agencies/policy FU              1 
@@ -344,7 +344,6 @@ administrations      NN2             1
 should               VM              1 
 seek                 VVI             1 
 talent               NN1             1 
-theres               NN2             1 
 no                   AT              1 
 magic                NN1             1 
 placements           NN2             1 
@@ -388,7 +387,6 @@ second               MD              1
 but_for              II21            1 
 various              JJ              1 
 reasons              NN2             1 
-nt                   XX              1 
 think                VVI             1 
 any                  DD              1 
 necessarily          RR              1 

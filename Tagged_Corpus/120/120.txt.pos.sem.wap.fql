@@ -1,8 +1,9 @@
-TOTAL              306
+TOTAL              311
 the                  AT             14 
 he                   PPHS1          13 
 a                    AT1             8 
 and                  CC              6 
+'s                   VBZ             6 
 with                 IW              6 
 is                   VBZ             5 
 that                 CST             5 
@@ -14,19 +15,22 @@ i                    PPIS1           4
 my                   APPGE           4 
 his                  APPGE           3 
 gay                  JJ              3 
-s                    VBZ             3 
 people               NN              3 
 to                   TO              3 
+it                   PPH1            3 
 in                   II              2 
 has                  VHZ             2 
 many                 DA2             2 
 have                 VH0             2 
 long                 RR              2 
+there                EX              2 
 rumors               NN2             2 
 an                   AT1             2 
 thinks               VVZ             2 
 fooling              VVG             2 
 but                  CCB             2 
+would                VM              2 
+n't                  XX              2 
 added                VVD             2 
 simply               RR              2 
 because              CS              2 
@@ -40,7 +44,6 @@ balls                NN2             2
 one                  MC1             2 
 fan                  NN1             2 
 all                  DB              2 
-its                  APPGE           2 
 lying                NN1             1 
 through              RP              1 
 masquerade           NN1             1 
@@ -57,7 +60,6 @@ closet               NN1             1
 admitted             VVD             1 
 what                 DDQ             1 
 suspected            VVN             1 
-theres               NN2             1 
 anything             PN1             1 
 wrong                JJ              1 
 circled              VVN             1 
@@ -86,14 +88,12 @@ take                 VV0             1
 shower               NN1             1 
 turn_around          VV0             1 
 there                RL              1 
-wouldnt              VV0             1 
-mind                 VV0             1 
+mind                 VVI             1 
 offers               NN2             1 
 wash                 VVI             1 
 back                 NN1             1 
 if                   CS              1 
 did                  VDD             1 
-nt                   XX              1 
 always               RR              1 
 have                 VHI             1 
 erection             NN1             1 
@@ -103,7 +103,6 @@ played_down          VVD             1
 quickly              RR              1 
 lisping              VVG             1 
 no_way               AT              1 
-would                VM              1 
 never                RR              1 
 do                   VDI             1 
 further              RRR             1 
@@ -111,7 +110,6 @@ likes                VVZ             1
 tend                 VV0             1 
 think                VVI             1 
 takes_up             VVZ             1 
-it                   PPH1            1 
 ass                  NN1             1 
 logic                NN1             1 
 nonsense             NN1             1 
@@ -136,7 +134,6 @@ satisfied            JJ              1
 fact                 NN1             1 
 was                  VBDZ            1 
 no_longer            RR21            1 
-there                EX              1 
 were                 VBDR            1 
 only                 RR              1 
 so_many              RG              1 
@@ -150,7 +147,8 @@ weight               NN1             1
 been                 VBN             1 
 lifted               VVN             1 
 off                  II              1 
-shortstops           NN2             1 
+shortstop            NN1             1 
+'s                   GE              1 
 shoulders            NN2             1 
 now                  RT              1 
 focus                VVI             1 

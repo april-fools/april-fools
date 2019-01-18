@@ -1,4 +1,4 @@
-TOTAL              541
+TOTAL              543
 the                  Z5                  29 
 to                   Z5                  19 
 and                  Z5                  17 
@@ -49,6 +49,7 @@ fiscal               I1                   2
 studies              P1                   2 
 one                  N1                   2 
 trying               X8+                  2 
+people               S2                   2 
 into                 Z5                   2 
 increased            N5+                  2 
 child                S2                   2 
@@ -77,6 +78,7 @@ high                 N3.7+                2
 no_one               Z8                   1 
 surprised            X2.6-                1 
 appalled             E2-                  1 
+'                    Z5                   1 
 calculations         N2                   1 
 will                 T1.1.3               1 
 lose                 X9.2-                1 
@@ -95,7 +97,6 @@ ideas                X4.1                 1
 pursued              A1.1.1               1 
 set_about            T2+                  1 
 as_many_as_possible  N5++++               1 
-people               S2                   1 
 dependent            A2.2                 1 
 during               Z5                   1 
 reign                S7.1+                1 
@@ -220,7 +221,7 @@ scale                N3.2                 1
 makes                A1.1.1               1 
 biggest              N3.2+++              1 
 difference           A6.1-                1 
-peoples              S2                   1 
+'s                   Z5                   1 
 household            S4                   1 
 incomes              I1.1                 1 
 picture              C1                   1 

@@ -1,4 +1,4 @@
-TOTAL              187
+TOTAL              188
 a                    Z5                   8 
 of                   Z5                   8 
 in                   Z5                   6 
@@ -65,7 +65,8 @@ no_one               Z8                   1
 really               A13.3                1 
 goes                 M1                   1 
 building             H1                   1 
-its                  Z8                   1 
+it                   Z8                   1 
+'s                   Z5                   1 
 mainly               A13.2                1 
 used                 A1.5.1               1 
 short-term           T1.3-                1 

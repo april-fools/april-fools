@@ -280,9 +280,9 @@ troops               NN2             1
 Vietnam              NP1             1 
 hints                VVZ             1 
 had_to               VHD             1 
-stiffen              VVI             1 
-Wilsons              NP2             1 
-resolve              VV0             1 
+stiffen_Wilson       VVI             1 
+'s                   GE              1 
+resolve              NN1             1 
 preferred            VVD             1 
 saw                  VVD             1 
 a_lot                AT1             1 

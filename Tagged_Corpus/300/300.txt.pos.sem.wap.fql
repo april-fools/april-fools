@@ -1,4 +1,4 @@
-TOTAL              399
+TOTAL              401
 the                  AT             23 
 of                   IO             18 
 a                    AT1            10 
@@ -53,6 +53,7 @@ beers                NN2             2
 potential            NN1             2 
 AAP                  NP1             2 
 findings             NN2             2 
+i                    PPIS1           2 
 all                  DB              2 
 nearing              VVG             1 
 conclusion           NN1             1 
@@ -230,14 +231,14 @@ organization         NN1             1
 fully                RR              1 
 embraced             VVD             1 
 frankly              RR              1 
-im                   VV0             1 
+'m                   VBM             1 
 surprised            JJ              1 
 this                 DD1             1 
 i_mean               PPIS1           1 
-i                    PPIS1           1 
 think                VV0             1 
-weve                 NN1             1 
-suspected            VVD             1 
+we                   PPIS2           1 
+'ve                  VH0             1 
+suspected            VVN             1 
 along                II              1 
 that                 DD1             1 
 represents           VVZ             1 

@@ -1,8 +1,8 @@
-TOTAL              230
+TOTAL              234
 the                  AT             19 
 of                   IO              7 
+government           NN1             6 
 to                   TO              6 
-government           NN1             5 
 a                    AT1             5 
 is                   VBZ             5 
 that                 CST             4 
@@ -17,6 +17,7 @@ we                   PPIS2           3
 australian           JJ              3 
 citizens             NN2             3 
 sanctions            NN2             2 
+'s                   GE              2 
 internet             NN1             2 
 White_house          NP1             2 
 said                 VVD             2 
@@ -29,9 +30,11 @@ China                NP1             2
 their                APPGE           2 
 children             NN2             2 
 society              NN1             2 
+visa                 NN1             2 
 would                VM              2 
 enter                VVI             2 
 as                   CSA             2 
+they                 PPHS2           2 
 united_state         JJ              1 
 has                  VHZ             1 
 today                RT              1 
@@ -40,7 +43,7 @@ will                 VM              1
 introduce            VVI             1 
 against              II              1 
 over                 II              1 
-latters              NN2             1 
+latter               DA              1 
 introduction         NN1             1 
 censorship           NN1             1 
 press                NN1             1 
@@ -105,14 +108,13 @@ agreement            NN1             1
 hereby               RR              1 
 suspended            VVN             1 
 e3                   FO              1 
-visa                 NN1             1 
 scheme               NN1             1 
 phased_out           VVN             1 
 by                   II              1 
 June_30              NPM1            1 
 have_to              VHI             1 
 apply                VVI             1 
-visas                NN2             1 
+'s                   VBZ             1 
 from                 II              1 
 July                 NPM1            1 
 1                    MC1             1 
@@ -123,7 +125,6 @@ do                   VD0             1
 Iran                 NP1             1 
 actions              NN2             1 
 if                   CS              1 
-they                 PPHS2           1 
 seek                 VV0             1 
 such_as              II21            1 
 ours                 PPGE            1 
@@ -132,7 +133,7 @@ representatives      NN2             1
 were                 VBDR            1 
 unavailable          JJ              1 
 comment              NN1             1 
-theyd                NN1             1 
+'d                   VHD             1 
 been                 VBN             1 
 unable               JK              1 
 view                 VVI             1 
@@ -143,6 +144,5 @@ filtering            VVG             1
 already              RR              1 
 installed            VVN             1 
 across               II              1 
-governments          NN2             1 
 computer             NN1             1 
 network              NN1             1 

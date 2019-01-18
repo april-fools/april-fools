@@ -14,9 +14,10 @@
 0000002 100  NN1     District                 Z1mf[i4.2.2 Z3c[i4.2.2 Z3c Z3c[i5.2.1 Z2[i5.2.1 
 0000002 110  NN1     Court                    G2.1 H3 M7/K5.2 Z3c[i5.2.2 Z2[i5.2.2 
 0000002 120  AT      the                      Z5 
-0000002 130  NN2     sluggers                 Z99 
-0000002 131  NULL    <quote>                  
-0000002 132  -----   -----                    
+0000002 130  NN1     slugger                  Z99 
+0000002 131  GE      's                       Z5 
+0000002 132  NULL    <quote>                  
+0000002 133  -----   -----                    
 0000002 140  NN2     testicles                Z99 
 0000002 150  VBDR    were                     A3+ Z5 
 0000002 160  JJR     smaller                  N3.2-- N3.7-- N5-- T3-- A11.1-- S5--/I2.1 X3.2- A5.1-- 
@@ -45,8 +46,9 @@
 0000004 080  PPH1    it                       Z8 
 0000004 081  .       .                        
 0000005 001  -----   -----                    
-0000006 010  NN2     Thats                    Z5 Z8 A13.3 A6.1+ 
-0000006 020  RR      right                    Z4 A5.3+ A4.2+ M6 A13.3 A13.2 
+0000006 010  DD1     That                     Z8 Z5 
+0000006 011  VBZ     's                       A3+ Z5 
+0000006 020  JJ      right                    A5.3+ A4.2+ A1.2+ G2.2+ M6 N3.2+ A13.3 A13.2 
 0000006 021  ,       ,                        
 0000006 030  JJ      BallHyped                Z99 
 0000006 040  VHZ     has                      Z5 A9+ A2.2 S4 
@@ -110,7 +112,8 @@
 0000008 100  NP1     Kimberly                 Z1mf[i14.2.1 Z3c[i14.2.1 
 0000008 110  NP1     Bell                     Z1mf[i14.2.2 Z3c[i14.2.2 Z3c 
 0000008 111  ,       ,                        
-0000008 120  VVZ@    Bonds                    Z3c 
+0000008 120  NN2     Bonds                    Z3c 
+0000008 121  GE      '                        Z5 
 0000008 130  DA      former                   T2- N4 
 0000008 140  NN1     girlfriend               S3.2/S2.1f S3.1/S2.1f 
 0000008 150  IO      of                       Z5 

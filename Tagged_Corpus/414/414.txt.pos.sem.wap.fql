@@ -1,7 +1,7 @@
-TOTAL              240
+TOTAL              248
 the                  AT             12 
 to                   TO              9 
-i                    PPIS1           6 
+i                    PPIS1           9 
 a                    AT1             5 
 and                  CC              5 
 for                  IF              4 
@@ -15,6 +15,8 @@ people               NN              3
 of                   IO              3 
 partially_sighted    RR              3 
 in                   II              3 
+that                 DD1             3 
+'s                   VBZ             3 
 my                   APPGE           3 
 to                   II              3 
 will                 VM              2 
@@ -29,8 +31,6 @@ have                 VH0             2
 been                 VBN             2 
 if                   CS              2 
 guide                NN1             2 
-thats                VVZ             2 
-i_think              PPIS1           2 
 on                   II              2 
 because              CS              2 
 all                  DB              2 
@@ -54,7 +54,8 @@ help                 VVI             1
 launch               NN1             1 
 sight                NN1             1 
 loss                 NN1             1 
-rnibs                VVZ             1 
+RNIB                 NP1             1 
+'s                   GE              1 
 train                VVI             1 
 thousands            NNO2            1 
 act                  VVI             1 
@@ -78,8 +79,8 @@ positive             JJ              1
 Simon_Williams       NP1             1 
 told                 VVD             1 
 us                   PPIO2           1 
-id                   NN1             1 
-describe             VV0             1 
+'d                   VM              1 
+describe             VVI             1 
 myself               PPX1            1 
 cat_lover            NN1             1 
 definitely           RR              1 
@@ -87,7 +88,8 @@ so                   CS              1
 was                  VBDZ            1 
 delighted            JJ              1 
 take_part            VVI             1 
-youre                NN1             1 
+you                  PPY             1 
+'re                  VBR             1 
 asking               VVG             1 
 me                   PPIO1           1 
 always               RR              1 
@@ -101,9 +103,10 @@ not                  XX              1
 exactly              RR              1 
 part                 NN1             1 
 adventure            NN1             1 
+i_think              PPIS1           1 
 often                RR              1 
-ill                  JJ              1 
-stand_around         NN1             1 
+'ll                  VM              1 
+stand_around         VVI             1 
 street               NN1             1 
 hour                 NNT1            1 
 or                   CC              1 
@@ -111,7 +114,7 @@ more                 RRR             1
 fancied              VVD             1 
 a_little             RR21            1 
 sit_down             VV0             1 
-ok                   RR              1 
+ok                   JJ              1 
 we                   PPIS2           1 
 need                 VV0             1 
 rest                 NN1             1 
@@ -134,8 +137,8 @@ treats               NN2             1
 i_suppose            PPIS1           1 
 have                 VHI             1 
 done_without         VDN             1 
-that                 DD1             1 
-its                  APPGE           1 
+think                VV0             1 
+it                   PPH1            1 
 fair                 JJ              1 
 say                  VVI             1 
 that                 CST             1 

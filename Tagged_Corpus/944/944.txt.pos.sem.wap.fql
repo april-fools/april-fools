@@ -1,4 +1,4 @@
-TOTAL              728
+TOTAL              733
 the                  AT             45 
 and                  CC             29 
 of                   IO             22 
@@ -14,11 +14,11 @@ that                 CST             8
 agilyx               NN1             7 
 with                 IW              7 
 plastics             NN2             6 
+Agilyx               NP1             6 
 management           NN1             6 
-its                  APPGE           6 
+it                   PPH1            6 
 per                  II              6 
 at                   II              6 
-Agilyx               NP1             5 
 total                NN1             5 
 company              NN1             5 
 synthetic            JJ              5 
@@ -37,7 +37,8 @@ downstream           JJ              3
 investors            NN2             3 
 waste                VV0             3 
 as                   II              3 
-it                   PPH1            3 
+'s                   VBZ             3 
+its                  APPGE           3 
 ton                  NNU1            3 
 day                  NNT1            3 
 industrial           JJ              3 
@@ -64,6 +65,7 @@ energy               NN1             2
 ventures             NN2             2 
 scalable             JJ              2 
 sweet                JJ              2 
+'s                   GE              2 
 year                 NNT1            2 
 other                JJ              2 
 10                   MC              2 
@@ -137,7 +139,7 @@ converts             NN2             1
 difficult-to-recycle VV0             1 
 last_year            MD              1 
 received             VVD             1 
-techamericas         NN2             1 
+TechAmerica          NP1             1 
 2010                 MC              1 
 cool                 JJ              1 
 product              NN1             1 
@@ -213,7 +215,6 @@ secondary            JJ              1
 processing_equipment NN1             1 
 comprise             VV0             1 
 progress             NN1             1 
-agilyxs              VVZ             1 
 near                 II              1 
 Portland             NP1             1 
 largest              JJT             1 

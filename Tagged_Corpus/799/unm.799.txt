@@ -6,15 +6,11 @@ disgust-evoking          JJ      Z99
 egalitarian              NN1     Z99 
 eye-tracking             JJ      Z99 
 four-image               JJ      Z99 
-happenweve               VVI     Z99 
+happenwe                 VVI     Z99 
 Hibbing                  NP1     Z99 
 Hibbing                  NP1@    Z99 
 Hibbing                  VVG     Z99 
-Hibbings                 NN2     Z99 
-Hibbings                 NP1     Z99 
-isnt                     VV0     Z99 
 Jefferson                NP1     Z99 
-Jeffersons               NP2     Z99 
 left-hand/right-hand     JJ      Z99 
 left-handed              RR      Z99 
 left-handedness          JJ      Z99 
@@ -31,7 +27,5 @@ stimuliand               NN1     Z99
 top-tier                 JJ      Z99 
 toto                     NN1     Z99 
 underscore               VVI     Z99 
-wasnt                    NN1     Z99 
 Whig                     JJ      Z99 
 Whigs                    NN2     Z99 
-youve                    NN1     Z99 

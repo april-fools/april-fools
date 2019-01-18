@@ -26,9 +26,10 @@
 0000002 230  AT      The                      Z5 
 0000002 240  NN1     Governor                 S7.1+/S2mf G1.1/S2mf O2% 
 0000002 250  II      on                       Z5 
-0000002 260  NN2     AMCs                     Z99 
-0000002 261  NULL    <quote>                  
-0000002 262  -----   -----                    
+0000002 260  NP1     AMC                      Z99 
+0000002 261  GE      's                       Z5 
+0000002 262  NULL    <quote>                  
+0000002 263  -----   -----                    
 0000002 270  AT      The                      Z5 
 0000002 280  VVG     Walking                  M1 L2 X9.2+/A12+ 
 0000002 290  JJ      Dead                     L1- X5.2- A4.2+ A1.1.2 A1.1.1- E3+ B2- 
@@ -126,6 +127,7 @@
 0000004 250  II      in                       Z5 
 0000004 260  AT      the                      Z5 
 0000004 270  NN      series                   N4c Q4.3c 
+0000004 271  GE      '                        Z5 
 0000004 280  MD      fourth                   N4 
 0000004 290  NNT1    season                   T1.3 
 0000004 300  DD1     this                     M6 Z5 Z8 
@@ -170,7 +172,8 @@
 0000004 601  .       .                        
 0000004 602  -----   -----                    
 0000004 610  CS      While                    Z5 
-0000004 620  APPGE   its                      Z8 
+0000004 620  PPH1    it                       Z8 
+0000004 621  VBZ     's                       Z5 A3+ 
 0000004 630  VVG     concerning               E6- A1.8+ S1.1.3+ 
 0000004 640  RR      enough                   N5+ N6+ 
 0000004 650  CST     that                     Z8 Z5 
@@ -182,11 +185,13 @@
 0000004 710  NN      series                   N4c Q4.3c 
 0000004 720  VV0     lead                     S7.1+ A2.2 M2 A1.1.1 
 0000004 721  ,       ,                        
-0000004 730  NN2     theres                   Z5 M6 T1.2 
-0000004 740  VVG     growing                  N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4 
+0000004 730  EX      there                    Z5 
+0000004 731  VBZ     's                       A3+ Z5 
+0000004 740  JJ      growing                  N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4 
 0000004 750  NN1     concern                  E6- I2.1 
 0000004 760  II      inside                   Z5 
-0000004 770  NN2     AMCs                     Z99 
+0000004 770  NP1     AMC                      Z99 
+0000004 771  GE      's                       Z5 
 0000004 780  NN2     offices                  I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+ 
 0000004 790  CST     that                     Z5 Z8 
 0000004 800  JJ      other                    A6.1- 
@@ -244,8 +249,9 @@
 0000006 380  NN1     protagonist              S2mf S8+/S2mf 
 0000006 381  .       .                        
 0000007 001  -----   -----                    
-0000008 010  RR      Well                     A5.1+ A13.3 A7+ B2+ Z4 
-0000008 020  VV0     update                   T1.1.2 
+0000008 010  PPIS2   We                       Z8 
+0000008 011  VM      'll                      T1.1.3 
+0000008 020  VVI     update                   T1.1.2 
 0000008 030  PPY     you                      Z8mf 
 0000008 040  CS31    as                       Z5[i17.3.1 Z5 
 0000008 050  CS32    soon                     Z5[i17.3.2 

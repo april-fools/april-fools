@@ -153,7 +153,7 @@
 0000012 020  IO      of                       Z5 
 0000012 030  AT      the                      Z5 
 0000012 040  NN2     noobs                    Z99 
-0000012 050  NN1     distro                   Z99 
+0000012 050  VV0     distro'                  Z99 
 0000012 060  VV0     tag                      Q1.2 X2.2+ Q2.2 Y2 
 0000014 010  AT1     Every                    N6+[i4.2.1 N5.1+ 
 0000014 020  NNT1    time                     N6+[i4.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
@@ -199,7 +199,7 @@
 0000014 370  JJ      Mint                     F1 I1.1/H1 I1.1 
 0000014 380  NN1     team                     S5+c K5.1/S5+c S5+ 
 0000014 390  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000014 391  XX      nt                       S9/Q4.1 Z3c 
+0000014 391  XX      n't                      Z6 
 0000014 400  VVI     like                     E2+ 
 0000014 410  RR      anymore                  Z5 
 0000014 411  .       .                        
@@ -267,8 +267,9 @@
 0000018 470  VBI     be                       Z5 A3+ 
 0000018 480  VVN     considered               X2.1 X2.4 X6 
 0000018 490  AT1     an                       Z5 
-0000018 500  NN2     experts                  X2.2+/S2mf X9.1+/S2mf 
-0000018 510  VV0     Linux                    Y2 
+0000018 500  NN1     expert                   X2.2+/S2mf X9.1+/S2mf 
+0000018 501  GE      's                       Z5 
+0000018 510  NN1     Linux                    Y2 
 0000018 520  NN1     distribution             A9- N5 
 0000018 530  DD1     this                     Z8 M6 Z5 
 0000018 540  VBZ     is                       A3+ Z5 
@@ -283,7 +284,7 @@
 0000018 620  CCB     but                      Z5 
 0000018 630  PPH1    it                       Z8 
 0000018 640  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000018 641  XX      nt                       S9/Q4.1 Z3c 
+0000018 641  XX      n't                      Z6 
 0000018 650  VVI     change                   A2.1+ I1 B5 
 0000018 660  APPGE   our                      Z8 
 0000018 670  NN1     image                    O4.1 A8 X2.1 C1 
@@ -295,14 +296,16 @@
 0000018 710  RR      still                    T2++ Z4 E3+ 
 0000018 720  VV0     call                     Q2.2 S1.1.1 Q1.3 S9% 
 0000018 730  PPIO2   us                       Z8 
-0000018 740  NN2     beginners                T2+/S2mf 
+0000018 740  NN1     beginner                 T2+/S2mf 
+0000018 741  GE      's                       Z5 
 0000018 750  NN1     distribution             A9- N5 
 0000018 751  .       .                        
 0000018 752  -----   -----                    
 0000018 760  RR      So                       Z5 A13.3 
 0000018 770  PPIS2   we                       Z8 
 0000018 780  VV0     think                    X2.1 
-0000018 790  APPGE   its                      Z8 
+0000018 790  PPH1    it                       Z8 
+0000018 791  VBZ     's                       A3+ Z5 
 0000018 800  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000018 810  TO      to                       Z5 
 0000018 820  VVI     raise                    M2 N5+/A2.1 A5.1+/A2.1 X3.2++ A9+ A1.1.1 A2.2 S1.1.1 F4 Q2.2 S4 
@@ -341,15 +344,17 @@
 0000020 220  NP1     Gentoo                   Z99 
 0000020 230  CC      and                      Z5 
 0000020 240  RT      then                     N4 Z5 T1.2 
-0000020 250  VV0     theyll                   Z99 
-0000020 260  VV0     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000020 250  PPHS2   they                     Z8mfn 
+0000020 251  VM      'll                      T1.1.3 
+0000020 260  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
 0000020 270  RRQ     how                      Z5 A13.3 
 0000020 280  VM      would                    A7+ 
 0000020 290  PN1     anyone                   Z8mfc 
 0000020 300  VVI     call                     Q2.2 S1.1.1 Q1.3 S9% 
 0000020 310  PPH1    it                       Z8 
 0000020 320  AT1     a                        Z5 
-0000020 330  NN2     noobs                    Z99 
+0000020 330  NN1     noob                     Z99 
+0000020 331  GE      's                       Z5 
 0000020 340  NN1     distro                   Z99 
 0000020 350  CS      while                    Z5 
 0000020 360  VVG     compiling                Q1.2 Y2 
@@ -374,9 +379,10 @@
 0000022 131  .       .                        
 0000022 132  -----   -----                    
 0000022 140  RR      Perhaps                  A7 
-0000022 150  RR      well                     A5.1+ A13.3 A7+ B2+ Z4 
+0000022 150  PPIS2   we                       Z8 
+0000022 151  VM      'll                      T1.1.3 
 0000022 160  RT      now                      T1.1.2 Z4 
-0000022 170  VV0     start                    T2+ E5- E3- 
+0000022 170  VVI     start                    T2+ E5- E3- 
 0000022 180  VVG     seeing                   X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ S3.2 
 0000022 190  JJ      random                   A1.4 
 0000022 191  NULL    <quote>                  

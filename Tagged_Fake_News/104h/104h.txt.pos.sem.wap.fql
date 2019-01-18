@@ -1,7 +1,7 @@
 TOTAL               11
 breaking             VVG             1 
-Hillary              NP1             1 
-Clintons             NP2             1 
+Hillary_Clinton      NP1             1 
+'s                   GE              1 
 nomination           NN1             1 
 is                   VBZ             1 
 a                    AT1             1 

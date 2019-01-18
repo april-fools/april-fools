@@ -273,7 +273,8 @@
 0000008 500  II      to                       Z5 
 0000008 510  NN1     coverage                 Q4/N5 A1.8+ N5 
 0000008 520  IO      of                       Z5 
-0000008 530  NP2     Clintons                 Z1mf 
+0000008 530  NP1     Clinton                  Z1mf 
+0000008 531  GE      's                       Z5 
 0000008 540  NN2     emails                   Q1.3/Y2 
 0000008 550  CSN     than                     Z5 
 0000008 560  II      to                       Z5 
@@ -667,7 +668,8 @@
 0000017 150  NN1     issue                    X4.1 Q4.2 S4 A9- 
 0000017 151  ,       ,                        
 0000017 160  CCB     but                      Z5 
-0000017 170  APPGE   its                      Z8 
+0000017 170  PPH1    it                       Z8 
+0000017 171  VBZ     's                       A3+ Z5 
 0000017 180  RR      hardly                   A13.7 
 0000017 190  AT1     a                        Z5 
 0000017 200  NN1     matter                   X4.1 O1 
@@ -703,7 +705,7 @@
 0000019 200  NP1     Madeleine                Z1mf[i39.2.1 Z3c[i39.2.1 
 0000019 210  NP1     Albright                 Z1mf[i39.2.2 Z3c[i39.2.2 
 0000019 220  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000019 221  XX      nt                       S9/Q4.1 Z3c 
+0000019 221  XX      n't                      Z6 
 0000019 230  VVI     use                      A1.5.1 S7.1+ 
 0000019 240  NN1     email                    Q1.3/Y2 
 0000019 241  ,       ,                        
@@ -805,7 +807,7 @@
 0000022 301  ,       ,                        
 0000022 310  PPHS1   he                       Z8m 
 0000022 320  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000022 321  XX      nt                       S9/Q4.1 Z3c 
+0000022 321  XX      n't                      Z6 
 0000022 330  VVI     use                      A1.5.1 S7.1+ 
 0000022 340  AT1     a                        Z5 
 0000022 350  JJ      private                  A10- S5- G1.1- 
@@ -824,8 +826,9 @@
 0000024 081  .       .                        
 0000024 082  -----   -----                    
 0000024 090  CC      And                      Z5 
-0000024 100  APPGE   its                      Z8 
-0000024 110  JJ      proven                   A5.2+ X2.4 
+0000024 100  PPH1    it                       Z8 
+0000024 101  VBZ     's                       Z5 A3+ 
+0000024 110  VVN     proven                   A5.2+ X2.4 
 0000024 120  RR      politically              G1.2 
 0000024 130  JJ      damaging                 A1.1.2 
 0000024 140  CS      because                  Z5/A2.2 
@@ -887,8 +890,9 @@
 0000024 640  APPGE   its                      Z8 
 0000024 650  NN1     report                   Q2.2 X3.2 
 0000024 660  II      on                       Z5 
-0000024 670  NP2     Clintons                 Z1mf 
-0000024 680  VV0     conduct                  A1.1.1 S1.1.1 K2 O4.1 
+0000024 670  NP1     Clinton                  Z1mf 
+0000024 671  GE      's                       Z5 
+0000024 680  NN1     conduct                  S1.1.1 
 0000024 681  ,       ,                        
 0000024 690  AT      the                      Z5 
 0000024 700  NN1     guideline                S8+ 
@@ -957,7 +961,8 @@
 0000028 100  RR      legally                  G2.1+ 
 0000028 110  JJ      irrelevant               A1.2- 
 0000028 111  ,       ,                        
-0000028 120  APPGE   its                      Z8 
+0000028 120  PPH1    it                       Z8 
+0000028 121  VBZ     's                       A3+ Z5 
 0000028 130  RR      certainly                A7+ 
 0000028 140  JJ      unusual                  A6.2- 
 0000028 141  .       .                        
@@ -1036,7 +1041,7 @@
 0000030 440  CS@     so                       Z5 
 0000030 450  PPHS1   he                       Z8m 
 0000030 460  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000030 461  XX      nt                       S9/Q4.1 Z3c 
+0000030 461  XX      n't                      Z6 
 0000030 470  VHI     have                     A9+ Z5 A2.2 S4 
 0000030 480  AT1     a                        Z5 
 0000030 490  JJ      personal                 S5- S1.2.1+ 
@@ -1048,7 +1053,7 @@
 0000030 532  -----   -----                    
 0000030 540  NP1@    Gmail                    Z99 
 0000030 550  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000030 551  XX      nt                       S9/Q4.1 Z3c 
+0000030 551  XX      n't                      Z6 
 0000030 560  VVI     exist                    A3+ 
 0000030 570  RP      back                     T1.1.1[i56.2.1 M6 N6+ T1.1.1 S1.1.2+ 
 0000030 580  RT      then                     T1.1.1[i56.2.2 N4 Z5 T1.2 
@@ -1164,7 +1169,8 @@
 0000032 351  .       .                        
 0000032 352  -----   -----                    
 0000032 360  DDQ     What                     Z8 Z5 
-0000032 370  APPGE   its                      Z8 
+0000032 370  PPH1    it                       Z8 
+0000032 371  VBZ     's                       A3+ Z5 
 0000032 380  XX      not                      Z6 
 0000032 390  VBZ     is                       A3+ Z5 
 0000032 400  JJ      suspicious               X2.1/A5.1- G2.1- 
@@ -1178,8 +1184,9 @@
 0000034 060  AT1     a                        Z5 
 0000034 070  NN1     transparency             Q1.2 O4.3 C1 
 0000034 080  VV0     dodge                    A1.9 M1 
-0000035 010  APPGE   Its                      Z8 
-0000035 020  VV0     become                   A2.1+ O4.2+ 
+0000035 010  PPH1    It                       Z8 
+0000035 011  VBZ     's                       Z5 A3+ 
+0000035 020  VVN@    become                   A2.1+ O4.2+ 
 0000035 030  AT1     a                        Z5 
 0000035 040  NN1     bit                      N5- N5.1- O2 Y2 
 0000035 050  IO      of                       Z5 
@@ -1193,6 +1200,7 @@
 0000035 130  IW      with                     Z5 
 0000035 140  JJ      public                   S5+ A10+ 
 0000035 150  NN2     officials                G1.1/S2mf S7.1+/S2mf 
+0000035 151  GE      '                        Z5 
 0000035 160  JJ      constant                 T2++ A2.1- S6+ 
 0000035 170  NN1     FOIA-dodging             Z99 
 0000035 180  CST     that                     Z5 Z8 
@@ -1248,7 +1256,8 @@
 0000037 270  JJ      silly                    S1.2.6- 
 0000037 271  .       .                        
 0000037 272  -----   -----                    
-0000037 280  NN1     Ive                      Z99 
+0000037 280  PPIS1   I                        Z8mf 
+0000037 281  VH0     've                      Z5 A9+ A2.2 
 0000037 290  VBN     been                     Z5 A3+ 
 0000037 300  VVN     known                    X2.2+ S3.2/B1% 
 0000037 310  TO      to                       Z5 
@@ -1273,7 +1282,7 @@
 0000037 452  -----   -----                    
 0000037 460  DD1     That                     Z8 Z5 
 0000037 470  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000037 471  XX      nt                       S9/Q4.1 Z3c 
+0000037 471  XX      n't                      Z6 
 0000037 480  VVI     mean                     Q1.1 X7+ 
 0000037 490  VVG     needing                  S6+ 
 0000037 500  TO      to                       Z5 
@@ -1296,7 +1305,8 @@
 0000037 660  JJ      personal                 S5- S1.2.1+ 
 0000037 670  NN1     email                    Q1.3/Y2 
 0000037 671  )       )                        
-0000037 680  NN1     wouldnt                  Z99 
+0000037 680  VM      would                    A7+ 
+0000037 681  XX      n't                      Z6 
 0000037 690  VBI     be                       A3+ Z5 
 0000037 700  JJ      inconvenient             A12- S8- 
 0000037 701  .       .                        
@@ -1330,7 +1340,8 @@
 0000037 960  PPH1    it                       Z8 
 0000037 961  .       .                        
 0000038 001  -----   -----                    
-0000039 010  NN1     Id                       X2 
+0000039 010  PPIS1   I                        Z8mf 
+0000039 011  VM      'd                       A7+ 
 0000039 020  VBI     be                       Z5 A3+ 
 0000039 030  VVN     left                     M1 M2 A1.1.1 A1.9 A9- N5.2+ T2- 
 0000039 040  VVG     juggling                 K5.2 A2.1+ A1.1.1 
@@ -1397,7 +1408,8 @@
 0000043 010  II      By                       Z5 
 0000043 020  NN1     contrast                 A6.1- 
 0000043 021  ,       ,                        
-0000043 030  APPGE   its                      Z8 
+0000043 030  PPH1    it                       Z8 
+0000043 031  VBZ     's                       A3+ Z5 
 0000043 040  AT1     a                        Z5 
 0000043 050  JJ      terrible                 A5.1- 
 0000043 060  NN1     solution                 X4.2 O1.2 
@@ -1422,15 +1434,17 @@
 0000043 230  PPY     you                      Z8mf 
 0000043 240  VM      can                      A7+ 
 0000043 250  VVI     tell                     Q2.2 Q2.1 X3 A10+ 
-0000043 260  APPGE   its                      Z8 
+0000043 260  PPH1    it                       Z8 
+0000043 261  VBZ     's                       A3+ Z5 
 0000043 270  AT1     a                        Z5 
 0000043 280  JJ      terrible                 A5.1- 
 0000043 290  NN1     solution                 X4.2 O1.2 
 0000043 300  VBZ     is                       A3+ Z5 
 0000043 310  CST     that                     Z5 Z8 
-0000043 320  NP1     Hillary                  Z99 
-0000043 330  NP2     Clintons                 Z1mf 
-0000043 340  VV0     work                     I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000043 320  NP1     Hillary                  Z1mf[i77.2.1 Z3c[i77.2.1 
+0000043 330  NP1     Clinton                  Z1mf[i77.2.2 Z3c[i77.2.2 Z1mf 
+0000043 331  GE      's                       Z5 
+0000043 340  NN1     work                     I3.1 A1.1.1 Q4 K2 C1 
 0000043 350  NN2     emails                   Q1.3/Y2 
 0000043 360  VH0     have                     Z5 A9+ A2.2 S4 
 0000043 370  VBN     been                     Z5 A3+ 
@@ -1460,7 +1474,8 @@
 0000045 100  II      on                       Z5 
 0000045 110  NP1     Benghazi                 Z99 
 0000045 120  VVD@    requested                Q2.2 Q2.1 
-0000045 130  NP2     Clintons                 Z1mf 
+0000045 130  NP1     Clinton                  Z1mf 
+0000045 131  GE      's                       Z5 
 0000045 140  NN2     emails                   Q1.3/Y2 
 0000045 150  II      in                       Z5 
 0000045 160  AT      the                      Z5 
@@ -1473,8 +1488,8 @@
 0000045 220  VV0@    point                    A10+ M6 H1 
 0000045 230  AT      the                      Z5 
 0000045 240  JJ      relevant                 A1.2+ A1.5.2+ 
-0000045 250  NN1     State                    G1.1/S5+c[i77.2.1 G1.1c O4.1 
-0000045 260  NN1     Department               G1.1/S5+c[i77.2.2 H2/S5+c X2.2 
+0000045 250  NN1     State                    G1.1/S5+c[i78.2.1 G1.1c O4.1 
+0000045 260  NN1     Department               G1.1/S5+c[i78.2.2 H2/S5+c X2.2 
 0000045 270  NN2     personnel                I3.1/S5+ I3.1/H2 
 0000045 280  VVD     realized                 X2.5+ X9.2+ 
 0000045 290  PPHS2   they                     Z8mfn 
@@ -1502,9 +1517,9 @@
 0000045 481  ,       ,                        
 0000045 490  CC      and                      Z5 
 0000045 500  PPHS1   she                      Z8f 
-0000045 510  VVD     handed                   A9-[i78.2.1 A9- 
+0000045 510  VVD     handed                   A9-[i79.2.1 A9- 
 0000045 520  PPHO2   them                     Z8mfn 
-0000045 530  RP      over                     A9-[i78.2.2 T2- M6 
+0000045 530  RP      over                     A9-[i79.2.2 T2- M6 
 0000045 540  RRR     later                    T4-- T1.1.3 N4 
 0000045 550  DD1     that                     Z5 Z8 
 0000045 560  NNT1    year                     T1.3 P1c 
@@ -1519,14 +1534,15 @@
 0000045 630  MC      2015                     N1 T1.2 T3 T1.3 N3.2 
 0000045 640  CST     that                     Z5 Z8 
 0000045 650  AT      the                      Z5 
-0000045 660  NP1     New                      Z3c[i82.3.1 Z1mf[i80.3.1 Z3c[i80.3.1 Z1mf[i79.2.1 Z3c[i79.2.1 Z2[i81.2.1 
-0000045 670  NP1     York                     Z3c[i82.3.2 Z2 Z1mf Z1mf[i80.3.2 Z3c[i80.3.2 Z1mf[i79.2.2 Z3c[i79.2.2 Z2[i81.2.2 Z1mf[i83.2.1 Z3c[i83.2.1 
-0000045 680  NNT2    Times                    Z3c[i82.3.3 Z3 Z3c[i80.3.3 Z1mf[i80.3.3 Z1mf[i83.2.2 Z3c[i83.2.2 
+0000045 660  NP1     New                      Z3c[i83.3.1 Z1mf[i81.3.1 Z3c[i81.3.1 Z1mf[i80.2.1 Z3c[i80.2.1 Z2[i82.2.1 
+0000045 670  NP1     York                     Z3c[i83.3.2 Z2 Z1mf Z1mf[i81.3.2 Z3c[i81.3.2 Z1mf[i80.2.2 Z3c[i80.2.2 Z2[i82.2.2 Z1mf[i84.2.1 Z3c[i84.2.1 
+0000045 680  NNT2    Times                    Z3c[i83.3.3 Z3 Z3c[i81.3.3 Z1mf[i81.3.3 Z1mf[i84.2.2 Z3c[i84.2.2 
 0000045 690  VVD     broke                    A1.1.2 A1.1.1 A1.9 S5- T2- E4.1-/A2.2 A2.1+ T1.3 Q2.1@ 
 0000045 700  AT      the                      Z5 
 0000045 710  NN1     story                    Q2.1 X4.1 Q4 
 0000045 720  IO      of                       Z5 
-0000045 730  NP2     Clintons                 Z1mf 
+0000045 730  NP1     Clinton                  Z1mf 
+0000045 731  GE      's                       Z5 
 0000045 740  JJ      personal                 S5- S1.2.1+ 
 0000045 750  NN1     email                    Q1.3/Y2 
 0000045 760  NN1     account                  I1 I1.3 I2.1 Q2.2 Y2 
@@ -1534,8 +1550,8 @@
 0000045 780  AT1     a                        Z5 
 0000045 790  NN1     scoop                    O2 N5 Q4.2 
 0000045 800  II      by                       Z5 
-0000045 810  NP1     Michael                  Z1mf[i84.2.1 Z3c[i84.2.1 Z1m 
-0000045 820  NP1     Schmidt                  Z1mf[i84.2.2 Z3c[i84.2.2 
+0000045 810  NP1     Michael                  Z1mf[i85.2.1 Z3c[i85.2.1 Z1m 
+0000045 820  NP1     Schmidt                  Z1mf[i85.2.2 Z3c[i85.2.2 
 0000045 821  (       (                        
 0000045 830  AT      the                      Z5 
 0000045 840  NN1     server                   F1/S2mf Y2 
@@ -1558,15 +1574,15 @@
 0000045 990  NN2     emails                   Q1.3/Y2 
 0000045 000  VHD     had                      Z5 A9+ A2.2 S4 
 0000045 010  VBN     been                     Z5 A3+ 
-0000045 020  VVN     handed                   A9-[i85.2.1 A9- 
-0000045 030  RP      over                     A9-[i85.2.2 T2- M6 
+0000045 020  VVN     handed                   A9-[i86.2.1 A9- 
+0000045 030  RP      over                     A9-[i86.2.2 T2- M6 
 0000045 040  II      to                       Z5 
 0000045 050  AT      the                      Z5 
-0000045 060  NN1     State                    G1.1/S5+c[i86.2.1 G1.1c O4.1 
-0000045 070  NN1     Department               G1.1/S5+c[i86.2.2 H2/S5+c X2.2 
-0000045 080  MC      two                      T1.1.1[i87.3.1 N1 T3 T1.2 
-0000045 090  NNT2    months                   T1.1.1[i87.3.2 T1.3 T1.1.1[i88.2.1 
-0000045 100  RA      ago                      T1.1.1[i87.3.3 T1.1.1 T1.1.1[i88.2.2 
+0000045 060  NN1     State                    G1.1/S5+c[i87.2.1 G1.1c O4.1 
+0000045 070  NN1     Department               G1.1/S5+c[i87.2.2 H2/S5+c X2.2 
+0000045 080  MC      two                      T1.1.1[i88.3.1 N1 T3 T1.2 
+0000045 090  NNT2    months                   T1.1.1[i88.3.2 T1.3 T1.1.1[i89.2.1 
+0000045 100  RA      ago                      T1.1.1[i88.3.3 T1.1.1 T1.1.1[i89.2.2 
 0000045 101  .       .                        
 0000046 001  -----   -----                    
 0000047 010  DD1     This                     Z8 M6 Z5 
@@ -1582,38 +1598,39 @@
 0000047 110  NN1     record-keeping           Z99 
 0000047 111  ,       ,                        
 0000047 120  CSA     as                       Z5 
-0000047 130  NP1     Thomas                   Z1mf[i89.2.1 Z3c[i89.2.1 Z1mf 
-0000047 140  NP1     Blanton                  Z1mf[i89.2.2 Z3c[i89.2.2 
+0000047 130  NP1     Thomas                   Z1mf[i90.2.1 Z3c[i90.2.1 Z1mf 
+0000047 140  NP1     Blanton                  Z1mf[i90.2.2 Z3c[i90.2.2 
 0000047 150  IO      of                       Z5 
 0000047 160  AT      the                      Z5 
 0000047 170  JJ      National                 Z3c 
 0000047 180  NN1     Security                 G2.1 A15+ E6+ I1.1 
 0000047 190  NN1     Archive                  Q1.2/A9+ 
 0000047 200  II      at                       Z5 
-0000047 210  NP1     George                   Z1mf[i90.2.1 Z3c[i90.2.1 Z1m 
-0000047 220  NP1     Washington               Z1mf[i90.2.2 Z3c[i90.2.2 Z2 Z1mf Z3c[i91.2.1 
-0000047 230  NN1     University               P1/H1c Z3c[i91.2.2 
+0000047 210  NP1     George                   Z1mf[i91.2.1 Z3c[i91.2.1 Z1m 
+0000047 220  NP1     Washington               Z1mf[i91.2.2 Z3c[i91.2.2 Z2 Z1mf Z3c[i92.2.1 
+0000047 230  NN1     University               P1/H1c Z3c[i92.2.2 
 0000047 240  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
 0000047 250  NP1     Schmidt                  Z99 
-0000047 260  II      at                       T1.1.1[i92.3.1 T1.1.2[i92.3.1 Z5 
-0000047 270  AT      the                      T1.1.1[i92.3.2 T1.1.2[i92.3.2 Z5 
-0000047 280  NNT1    time                     T1.1.1[i92.3.3 T1.1.2[i92.3.3 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000047 260  II      at                       T1.1.1[i93.3.1 T1.1.2[i93.3.1 Z5 
+0000047 270  AT      the                      T1.1.1[i93.3.2 T1.1.2[i93.3.2 Z5 
+0000047 280  NNT1    time                     T1.1.1[i93.3.3 T1.1.2[i93.3.3 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000047 281  :       :                        
-0000049 010  APPGE   Its                      Z8 
+0000049 010  PPH1    It                       Z8 
+0000049 011  VBZ     's                       A3+ Z5 
 0000049 020  AT1     a                        Z5 
 0000049 030  NN1     shame                    G2.2- 
 0000049 040  PPH1    it                       Z8 
 0000049 050  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000049 051  XX      nt                       S9/Q4.1 Z3c 
-0000049 060  VVI     take                     A1.1.1[i93.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ A1.1.1[i94.2.1 
-0000049 070  NN1     place                    A1.1.1[i93.2.2 M7 H1 A1.2 P1 A1.1.1[i94.2.2 
+0000049 051  XX      n't                      Z6 
+0000049 060  VVI     take                     A1.1.1[i94.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ A1.1.1[i95.2.1 
+0000049 070  NN1     place                    A1.1.1[i94.2.2 M7 H1 A1.2 P1 A1.1.1[i95.2.2 
 0000049 080  RR      automatically            O2/S5- X2.1- X7- 
 0000049 090  CS      when                     Z5 
 0000049 100  PPHS1   she                      Z8f 
 0000049 110  VBDZ    was                      A3+ Z5 
-0000049 120  NN1     secretary                G1.1/S2mf[i95.3.1 I3.2/S2mf S7.1+/S2mf 
-0000049 130  IO      of                       G1.1/S2mf[i95.3.2 Z5 
-0000049 140  NN1     state                    G1.1/S2mf[i95.3.3 G1.1c O4.1 
+0000049 120  NN1     secretary                G1.1/S2mf[i96.3.1 I3.2/S2mf S7.1+/S2mf 
+0000049 130  IO      of                       G1.1/S2mf[i96.3.2 Z5 
+0000049 140  NN1     state                    G1.1/S2mf[i96.3.3 G1.1c O4.1 
 0000049 150  CSA     as                       Z5 
 0000049 160  PPH1    it                       Z8 
 0000049 170  VM      should                   S6+ A7+ 
@@ -1623,8 +1640,8 @@
 0000049 190  PN1     Someone                  Z8mfc 
 0000049 200  II      in                       Z5 
 0000049 210  AT      the                      Z5 
-0000049 220  NN1     State                    G1.1/S5+c[i96.2.1 G1.1c O4.1 
-0000049 230  NN1     Department               G1.1/S5+c[i96.2.2 H2/S5+c X2.2 
+0000049 220  NN1     State                    G1.1/S5+c[i97.2.1 G1.1c O4.1 
+0000049 230  NN1     Department               G1.1/S5+c[i97.2.2 H2/S5+c X2.2 
 0000049 240  VVZ     deserves                 S1.1.4+ 
 0000049 250  NN1     credit                   I1.1 A5.1+ X2.1 P1 
 0000049 260  IF      for                      Z5 
@@ -1639,10 +1656,10 @@
 0000049 350  RP      back                     M6 N6+ T1.1.1 S1.1.2+ 
 0000049 351  .       .                        
 0000049 352  -----   -----                    
-0000049 360  DAT     Most                     T1.3+[i97.4.1 N6+[i97.4.1 N5+++ 
-0000049 370  IO      of                       T1.3+[i97.4.2 N6+[i97.4.2 Z5 
-0000049 380  AT      the                      T1.3+[i97.4.3 N6+[i97.4.3 Z5 
-0000049 390  NNT1    time                     T1.3+[i97.4.4 N6+[i97.4.4 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000049 360  DAT     Most                     T1.3+[i98.4.1 N6+[i98.4.1 N5+++ 
+0000049 370  IO      of                       T1.3+[i98.4.2 N6+[i98.4.2 Z5 
+0000049 380  AT      the                      T1.3+[i98.4.3 N6+[i98.4.3 Z5 
+0000049 390  NNT1    time                     T1.3+[i98.4.4 N6+[i98.4.4 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000049 400  PPH1    it                       Z8 
 0000049 410  VVZ     takes                    A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
 0000049 420  AT      the                      Z5 
@@ -1653,12 +1670,13 @@
 0000049 470  NN1     embarrassment            E4.1- E5- 
 0000049 471  .       .                        
 0000050 001  -----   -----                    
-0000050 010  II21    According                Z5[i98.2.1 Z5 
-0000050 020  II22    to                       Z5[i98.2.2 Z5 
+0000050 010  II21    According                Z5[i99.2.1 Z5 
+0000050 020  II22    to                       Z5[i99.2.2 Z5 
 0000050 030  AT      the                      Z5 
-0000050 040  NNB     Inspector                Z1mf[i99.2.1 
-0000050 050  NP1     Generals                 Z1mf[i99.2.2 Z3[i100.2.1 
-0000050 060  NN1     report                   Q2.2 X3.2 Z3[i100.2.2 
+0000050 040  NNB     Inspector                Z1mf[i100.2.1 
+0000050 050  NP1     General                  Z1mf[i100.2.2 
+0000050 051  GE      's                       Z5 
+0000050 060  NN1     report                   Q2.2 X3.2 
 0000050 061  ,       ,                        
 0000050 070  NP1     Clinton                  Z1mf 
 0000050 080  VM      should                   S6+ A7+ 
@@ -1730,7 +1748,8 @@
 0000052 320  JJ      aware                    X2.2+ 
 0000052 330  IO      of                       Z5 
 0000052 340  AT      the                      Z5 
-0000052 350  NN2     servers                  Y2 S9/S2mf 
+0000052 350  NN1     server                   F1/S2mf Y2 
+0000052 351  GE      's                       Z5 
 0000052 360  NN1     existence                A3+ 
 0000052 370  VVN     complied                 A1.1.1[i101.2.1 A6.1+ S7.1- 
 0000052 380  IW      with                     A1.1.1[i101.2.2 Z5 
@@ -1864,7 +1883,8 @@
 0000057 420  VVZ@    emails                   Q1.3/Y2 
 0000057 430  RP      over                     T2- M6 
 0000057 440  CS      because                  Z5/A2.2 
-0000057 450  NN2     thats                    Z5 Z8 A13.3 A6.1+ 
+0000057 450  DD1     that                     Z8 Z5 
+0000057 451  VBZ     's                       A3+ Z5 
 0000057 460  DDQ     what                     Z8 Z5 
 0000057 470  PPHS1   she                      Z8f 
 0000057 480  VBDZ    was                      Z5 A3+ 
@@ -1913,7 +1933,8 @@
 0000059 030  PPH1    it                       Z8 
 0000059 040  JJ      possible                 A7+ 
 0000059 050  CST     that                     Z5 Z8 
-0000059 060  NP2     Clintons                 Z1mf 
+0000059 060  NP1     Clinton                  Z1mf 
+0000059 061  GE      's                       Z5 
 0000059 070  JJ      legal                    G2.1 G2.1+ 
 0000059 080  NN1     team                     S5+c K5.1/S5+c S5+ 
 0000059 090  RR      simply                   A13.6 A14 A12+ 
@@ -1937,7 +1958,8 @@
 0000061 041  .       .                        
 0000061 042  -----   -----                    
 0000061 050  CCB     But                      Z5 
-0000061 060  NN2     theres                   Z5 M6 T1.2 
+0000061 060  EX      there                    Z5 
+0000061 061  VBZ     's                       A3+ Z5 
 0000061 070  AT      no                       Z6 
 0000061 080  NN1     evidence                 A5.2+ X2.2 G2.1 
 0000061 090  CST     that                     Z5 Z8 
@@ -2092,7 +2114,8 @@
 0000063 960  VVZ     means                    Q1.1 X7+ 
 0000063 970  CST     that                     Z8 Z5 
 0000063 980  CS      if                       Z7 
-0000063 990  NP2     Clintons                 Z1mf 
+0000063 990  NP1     Clinton                  Z1mf 
+0000063 991  GE      's                       Z5 
 0000063 000  NN1     copy                     A5.4- Q4.1 Q4.2 Q1.2 
 0000063 010  VBDR    were                     Z5 A3+ 
 0000063 020  VVN     found                    A10+ X2.1 X6+.1 
@@ -2108,7 +2131,8 @@
 0000063 120  VVD     turned                   M2[i121.2.1 M1[i121.2.1 I1[i121.2.1 F1[i121.2.1 G2.1-[i121.2.1 X2.4[i121.2.1 M2 M1 O4.4 A1.1.1 A2.1+ O4.2- 
 0000063 130  RP      over                     M2[i121.2.2 M1[i121.2.2 I1[i121.2.2 F1[i121.2.2 G2.1-[i121.2.2 X2.4[i121.2.2 T2- M6 
 0000063 131  ,       ,                        
-0000063 140  NN1     shed                     H1 
+0000063 140  PPHS1   she                      Z8f 
+0000063 141  VM      'd                       A7+ 
 0000063 150  VBI     be                       Z5 A3+ 
 0000063 160  VVN     caught                   A9+ A1.7+ G2.1 A10+ T2- A1.1.1 X3 T4 M3 
 0000063 170  NN1     red                      O4.3 G1.2/S2mf 
@@ -2124,7 +2148,8 @@
 0000065 070  II      to                       Z5 
 0000065 080  PN1     everyone                 Z8/N5.1+c 
 0000066 010  RT      Now                      T1.1.2 Z4 
-0000066 020  NN2     whats                    Z8 Z5 
+0000066 020  DDQ     what                     Z8 Z5 
+0000066 021  VBZ     's                       A3+ Z5 
 0000066 030  JJ      true                     A5.2+ A5.4+ 
 0000066 040  VBZ     is                       A3+ Z5 
 0000066 050  CST     that                     Z5 Z8 
@@ -2141,7 +2166,8 @@
 0000066 140  NN2     conversations            Q2.1 
 0000066 150  VVG     using                    A1.5.1 S7.1+ 
 0000066 160  DD1     another                  A6.1- N5++ 
-0000066 170  NN2     persons                  S2mfc 
+0000066 170  NN1     person                   S2mfc 
+0000066 171  GE      's                       Z5 
 0000066 180  JJ      personal                 S5- S1.2.1+ 
 0000066 190  NN1     email                    Q1.3/Y2 
 0000066 200  NN1     address                  H4 Q2.2 
@@ -2171,14 +2197,16 @@
 0000068 200  NN1     server                   F1/S2mf Y2 
 0000068 201  .       .                        
 0000068 202  -----   -----                    
-0000068 210  VVN     Wed                      S4 
+0000068 210  PPIS2   We                       Z8 
+0000068 211  VM      'd                       A7+ 
 0000068 220  VBI     be                       A3+ Z5 
 0000068 230  II      in                       X2.2-[i125.3.1 Z5 
 0000068 240  AT      the                      X2.2-[i125.3.2 Z5 
 0000068 250  NN1     dark                     X2.2-[i125.3.3 W2- 
 0000068 260  CC      and                      Z5 
-0000068 270  VV0     shed                     M2 A9- 
-0000068 280  VV0     get                      M1 A9+ Z5 X9.2+ A2.1+ A2.2 M2 X2.5+ E4.1- 
+0000068 270  PPHS1   she                      Z8f 
+0000068 271  VM      'd                       A7+ 
+0000068 280  VVI     get                      M1 A9+ Z5 X9.2+ A2.1+ A2.2 M2 X2.5+ E4.1- 
 0000068 290  RL      away                     M6 A1.1.1% 
 0000068 300  IW      with                     Z5 
 0000068 310  PPH1    it                       Z8 
@@ -2205,7 +2233,8 @@
 0000070 170  TO      to                       A2.2-[i127.4.2 Z5 A2.2[i126.4.2 S1.1.1[i126.4.2 A2.2[i128.3.1 
 0000070 180  VDI     do                       A2.2-[i127.4.3 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 A2.2[i126.4.3 S1.1.1[i126.4.3 A2.2[i128.3.2 
 0000070 190  IW      with                     A2.2-[i127.4.4 Z5 A2.2[i126.4.4 S1.1.1[i126.4.4 A2.2[i128.3.3 
-0000070 200  NP2     Clintons                 Z1mf 
+0000070 200  NP1     Clinton                  Z1mf 
+0000070 201  GE      's                       Z5 
 0000070 210  NN1     decision                 X6+ 
 0000070 220  TO      to                       Z5 
 0000070 230  VVI     use                      A1.5.1 S7.1+ 
@@ -2631,7 +2660,8 @@
 0000083 290  NN1     FOIA                     Z99 
 0000083 300  NN1     office                   I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+ 
 0000083 301  :       :                        
-0000086 010  VV0     Im                       Z99 
+0000086 010  PPIS1   I                        Z8mf 
+0000086 011  VBM     'm                       Z5 A3+ 
 0000086 020  XX      not                      Z6 
 0000086 030  VVG     saying                   Q2.1 Z4% 
 0000086 040  AT      the                      Z5 
@@ -2640,7 +2670,7 @@
 0000086 070  DD1     that                     Z5 Z8 
 0000086 080  NN1     message                  Q1.1 Q1.3/Y2 
 0000086 090  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000086 091  XX      nt                       S9/Q4.1 Z3c 
+0000086 091  XX      n't                      Z6 
 0000086 100  VVI     deserve                  S1.1.4+ 
 0000086 110  TO      to                       Z5 
 0000086 120  VBI     be                       Z5 A3+ 
@@ -2773,7 +2803,8 @@
 0000088 620  NN1     account                  I1 I1.3 I2.1 Q2.2 Y2 
 0000088 630  VVZ     means                    Q1.1 X7+ 
 0000088 640  CST     that                     Z5 Z8 
-0000088 650  NP2     Clintons                 Z1mf 
+0000088 650  NP1     Clinton                  Z1mf 
+0000088 651  GE      's                       Z5 
 0000088 660  JJ      personal                 S5- S1.2.1+ 
 0000088 670  NN1     account                  I1 I1.3 I2.1 Q2.2 Y2 
 0000088 680  VHZ     has                      Z5 A9+ A2.2 S4 
@@ -2793,7 +2824,8 @@
 0000090 050  AT1     a                        Z5 
 0000090 060  JJ      red                      A5.2-[i164.2.1 O4.3 G1.2 
 0000090 070  NN      herring                  A5.2-[i164.2.2 L2mfnc F1 
-0000091 010  APPGE   Its                      Z8 
+0000091 010  PPH1    It                       Z8 
+0000091 011  VBZ     's                       A3+ Z5 
 0000091 020  RR      precisely                A4.2+ A5.3+ 
 0000091 030  CS      because                  Z5/A2.2 
 0000091 040  PN1     nothing                  Z6/Z8 
@@ -2955,8 +2987,9 @@
 0000097 380  AT1     a                        Z5 
 0000097 390  JJ      standard                 A6.2+ 
 0000097 400  CST     that                     Z5 Z8 
-0000097 410  NP2     Clintons                 Z1mf 
-0000097 420  VV0     conduct                  A1.1.1 S1.1.1 K2 O4.1 
+0000097 410  NP1     Clinton                  Z1mf 
+0000097 411  GE      's                       Z5 
+0000097 420  NN1     conduct                  S1.1.1 
 0000097 430  RR      clearly                  A7+ A11.2+ A12+ 
 0000097 440  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
 0000097 450  XX      not                      Z6 
@@ -2997,14 +3030,15 @@
 0000099 080  JJ      top                      M6 N5.1+ A11.1+++ S7.1+++ N4 X9.1+++ A5.1+++ 
 0000099 090  NN2     lawyers                  G2.1/I3.2/S2mf 
 0000099 100  II      in                       Z5 
-0000099 110  NP1     George                   Z1mf[i172.2.1 Z3c[i172.2.1 Z1m 
-0000099 120  NP1     W.                       Z1mf[i172.2.2 Z3c[i172.2.2 
-0000099 130  NP2     Bushs                    Z3c Z1mf 
+0000099 110  NP1     George                   Z1mf[i173.3.1 Z3c[i173.3.1 Z1m Z1mf[i172.2.1 Z3c[i172.2.1 
+0000099 120  NP1     W.                       Z1mf[i173.3.2 Z3c[i173.3.2 Z1mf[i172.2.2 Z3c[i172.2.2 Z1mf[i174.2.1 Z3c[i174.2.1 
+0000099 130  NP1     Bush                     Z3c[i173.3.3 Z1mf[i173.3.3 Z3c Z1mf Z1mf[i174.2.2 Z3c[i174.2.2 
+0000099 131  GE      's                       Z5 
 0000099 140  NN1     administration           S7.1+c A9- 
 0000099 150  VVZ     explains                 Q2.2/A7+ A2.2 
 0000099 151  ,       ,                        
-0000099 160  DA      such                     A13.3[i173.2.1 Z5 Z8 
-0000099 170  AT1     a                        A13.3[i173.2.2 Z5 
+0000099 160  DA      such                     A13.3[i175.2.1 Z5 Z8 
+0000099 170  AT1     a                        A13.3[i175.2.2 Z5 
 0000099 180  NN1     prosecution              G2.1 G2.1/S5+ 
 0000099 190  VM      would                    A7+ 
 0000099 200  VBI     be                       A3+ Z5 
@@ -3024,8 +3058,8 @@
 0000099 330  RRQ     how                      Z5 A13.3 
 0000099 340  NN1     email                    Q1.3/Y2 
 0000099 350  NN2     exchanges                A9/S1.1.2+ Q2.1/E3- G3 M1/S1.1.2+ I2.2/H1 Q1.3/H1 
-0000099 360  VV0     fit                      A1.8+[i174.2.1 A6.1+[i174.2.1 N3.2/A5.1+ N3.2 A1.2+ M2 B2- 
-0000099 370  II      into                     A1.8+[i174.2.2 A6.1+[i174.2.2 Z5 
+0000099 360  VV0     fit                      A1.8+[i176.2.1 A6.1+[i176.2.1 N3.2/A5.1+ N3.2 A1.2+ M2 B2- 
+0000099 370  II      into                     A1.8+[i176.2.2 A6.1+[i176.2.2 Z5 
 0000099 380  NN1     language                 Q3 Y2 
 0000099 390  VVN     written                  Q1.2 I2.1 
 0000099 400  IW      with                     Z5 
@@ -3034,12 +3068,12 @@
 0000099 430  IO      of                       Z5 
 0000099 440  JJ      classified               A10- A4.1 Q4.2 
 0000099 450  NN1     information              X2.2+ 
-0000099 460  II      in                       X2.1[i175.2.1 Z5 
-0000099 470  NN1     mind                     X2.1[i175.2.2 X1 
+0000099 460  II      in                       X2.1[i177.2.1 Z5 
+0000099 470  NN1     mind                     X2.1[i177.2.2 X1 
 0000099 471  .       .                        
 0000100 001  -----   -----                    
-0000101 010  NP1     Ben                      Z1mf[i176.2.1 Z3c[i176.2.1 Z1m 
-0000101 020  NP1     Wittes                   Z1mf[i176.2.2 Z3c[i176.2.2 
+0000101 010  NP1     Ben                      Z1mf[i178.2.1 Z3c[i178.2.1 Z1m 
+0000101 020  NP1     Wittes                   Z1mf[i178.2.2 Z3c[i178.2.2 
 0000101 021  ,       ,                        
 0000101 030  AT1     a                        Z5 
 0000101 040  JJ      veteran                  G3/S2mf T3+/S2mf 
@@ -3063,7 +3097,8 @@
 0000101 211  ,       ,                        
 0000101 220  VVD     wrote                    Q1.2 I2.1 
 0000101 230  CST     that                     Z5 Z8 
-0000101 240  NN2@    Comeys                   Z99 
+0000101 240  NP1     Comey                    Z99 
+0000101 241  GE      's                       Z5 
 0000101 250  NN1     characterization         A4.1 Q2.2 K4 
 0000101 260  VBDZ    was                      A3+ Z5 
 0000101 270  RR      clearly                  A7+ A11.2+ A12+ 
@@ -3071,9 +3106,9 @@
 0000101 281  :       :                        
 0000103 010  IF      For                      Z5 
 0000103 020  AT      the                      Z5 
-0000103 030  MD      last                     T1.1.1[i177.3.1 N4 
-0000103 040  DA2     several                  T1.1.1[i177.3.2 N5 
-0000103 050  NNT2    months                   T1.1.1[i177.3.3 T1.3 
+0000103 030  MD      last                     T1.1.1[i179.3.1 N4 
+0000103 040  DA2     several                  T1.1.1[i179.3.2 N5 
+0000103 050  NNT2    months                   T1.1.1[i179.3.3 T1.3 
 0000103 051  ,       ,                        
 0000103 060  NN      people                   S2mfc 
 0000103 070  VH0     have                     Z5 A9+ A2.2 S4 
@@ -3094,8 +3129,8 @@
 0000103 200  PPIS1   I                        Z8mf 
 0000103 210  VH0     have                     Z5 A9+ A2.2 S4 
 0000103 220  VVN     said                     Q2.1 
-0000103 230  DD1     each                     N6+[i178.2.1 N5.1+ 
-0000103 240  NNT1    time                     N6+[i178.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000103 230  DD1     each                     N6+[i180.2.1 N5.1+ 
+0000103 240  NNT1    time                     N6+[i180.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000103 250  CST     that                     Z5 Z8 
 0000103 260  EX      there                    Z5 
 0000103 270  VBZ     is                       A3+ Z5 
@@ -3136,8 +3171,8 @@
 0000103 560  IF      for                      Z5 
 0000103 570  AT1     a                        Z5 
 0000103 580  RG      very                     A13.3 
-0000103 590  JJ      long                     T1.3+[i179.2.1 N3.7+ T1.3+ N3.3+ N3.2+ 
-0000103 600  NNT1    time                     T1.3+[i179.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000103 590  JJ      long                     T1.3+[i181.2.1 N3.7+ T1.3+ N3.3+ N3.2+ 
+0000103 600  NNT1    time                     T1.3+[i181.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000103 601  ,       ,                        
 0000103 610  RR      both                     Z5 
 0000103 620  II      at                       Z5 
@@ -3173,8 +3208,8 @@
 0000103 900  NN1     information              X2.2+ 
 0000103 901  .       .                        
 0000103 902  -----   -----                    
-0000103 910  NP1     Hillary                  Z1mf[i180.2.1 Z3c[i180.2.1 
-0000103 920  NP1     Clinton                  Z1mf[i180.2.2 Z3c[i180.2.2 Z1mf 
+0000103 910  NP1     Hillary                  Z1mf[i182.2.1 Z3c[i182.2.1 
+0000103 920  NP1     Clinton                  Z1mf[i182.2.2 Z3c[i182.2.2 Z1mf 
 0000103 930  VBZ     is                       A3+ Z5 
 0000103 940  XX      not                      Z6 
 0000103 950  II      above                    Z5 
@@ -3191,8 +3226,8 @@
 0000103 041  ,       ,                        
 0000103 050  PPHS1   she                      Z8f 
 0000103 051  VM      'd                       A7+ 
-0000103 060  VHI     have                     S6+[i181.2.1 A9+ Z5 A2.2 S4 
-0000103 070  TO      to                       S6+[i181.2.2 Z5 
+0000103 060  VHI     have                     S6+[i183.2.1 A9+ Z5 A2.2 S4 
+0000103 070  TO      to                       S6+[i183.2.2 Z5 
 0000103 080  VBI     be                       A3+ Z5 
 0000103 090  RR      significantly            A11.1+ 
 0000103 100  II      below                    Z5 
@@ -3200,7 +3235,8 @@
 0000103 120  NN1     law                      G2.1 S6+ Y1 
 0000103 121  .       .                        
 0000104 001  -----   -----                    
-0000104 010  APPGE   Its                      Z8 
+0000104 010  PPH1    It                       Z8 
+0000104 011  VBZ     's                       A3+ Z5 
 0000104 020  JJ      true                     A5.2+ A5.4+ 
 0000104 030  CST     that                     Z8 Z5 
 0000104 040  II      to                       Z5 
@@ -3208,18 +3244,21 @@
 0000104 060  NN1     layman                   I3.2-/S2mf 
 0000104 070  AT      the                      Z5 
 0000104 080  NN1     Espionage                G3 G1.1 
-0000104 090  NN2     Acts                     A1.1.1 K4 
-0000104 100  VV0@    reference                Q2.2 Q1.2 
+0000104 090  NN1     Act                      A1.1.1 K4 A5.4- G2.1 P1% 
+0000104 091  GE      's                       Z5 
+0000104 100  NN1     reference                Q2.2 Q1.2 
 0000104 110  TO      to                       Z5 
 0000104 120  VVI     gross                    I1.1 
 0000104 130  NN1     negligence               A1.9 G2.2- 
 0000104 140  VVZ     sounds                   X3.2 Q2.2 A8 N3.1% 
 0000104 150  JJ      similar                  A6.1+ 
 0000104 160  II      to                       Z5 
-0000104 170  NP2     Comeys                   Z99 
+0000104 170  NP1     Comey                    Z99 
+0000104 171  GE      's                       Z5 
 0000104 180  NN1     characterization         A4.1 Q2.2 K4 
 0000104 190  IO      of                       Z5 
-0000104 200  NP2     Clintons                 Z1mf 
+0000104 200  NP1     Clinton                  Z1mf 
+0000104 201  GE      's                       Z5 
 0000104 210  NN2     actions                  A1.1.1 G3 
 0000104 220  CSA     as                       Z5 
 0000104 230  RR      extremely                A13.3 
@@ -3228,14 +3267,14 @@
 0000104 242  -----   -----                    
 0000104 250  CCB     But                      Z5 
 0000104 260  CSA     as                       Z5 
-0000104 270  NP1     Philip                   Z1mf[i182.2.1 Z3c[i182.2.1 Z1m 
-0000104 280  NP1     Zelikow                  Z1mf[i182.2.2 Z3c[i182.2.2 
+0000104 270  NP1     Philip                   Z1mf[i184.2.1 Z3c[i184.2.1 Z1m 
+0000104 280  NP1     Zelikow                  Z1mf[i184.2.2 Z3c[i184.2.2 
 0000104 281  ,       ,                        
 0000104 290  AT1     a                        Z5 
 0000104 300  NN1     counselor                S8+/S2mf G2.1/S2@mf 
 0000104 310  II      to                       Z5 
-0000104 320  NP1     Condoleezza              Z1mf[i183.2.1 Z3c[i183.2.1 
-0000104 330  NN1     Rice                     Z1mf[i183.2.2 Z3c[i183.2.2 Z1mf Z3c 
+0000104 320  NP1     Condoleezza              Z1mf[i185.2.1 Z3c[i185.2.1 
+0000104 330  NN1     Rice                     Z1mf[i185.2.2 Z3c[i185.2.2 Z1mf Z3c 
 0000104 340  II      during                   Z5 
 0000104 350  AT      the                      Z5 
 0000104 360  NP1     Bush                     Z3c Z1mf 
@@ -3250,9 +3289,9 @@
 0000104 450  NN1     Center                   M6 H1c M7c G1.2c K5.1mfn 
 0000104 460  II      at                       Z5 
 0000104 470  AT      the                      Z5 
-0000104 480  NN1     University               Z3c[i184.3.1 P1/H1c 
-0000104 490  IO      of                       Z3c[i184.3.2 Z5 
-0000104 500  NP1     Virginia                 Z3c[i184.3.3 Z2 Z1f 
+0000104 480  NN1     University               Z3c[i186.3.1 P1/H1c 
+0000104 490  IO      of                       Z3c[i186.3.2 Z5 
+0000104 500  NP1     Virginia                 Z3c[i186.3.3 Z2 Z1f 
 0000104 510  VVZ     explains                 Q2.2/A7+ A2.2 
 0000104 511  ,       ,                        
 0000104 520  PPHS2   they                     Z8mfn 
@@ -3278,8 +3317,8 @@
 0000104 711  .       .                        
 0000105 001  -----   -----                    
 0000106 010  VDD     Did                      A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
-0000106 020  NP1     Hillary                  Z1mf[i185.2.1 Z3c[i185.2.1 
-0000106 030  NP1     Clinton                  Z1mf[i185.2.2 Z3c[i185.2.2 Z1mf 
+0000106 020  NP1     Hillary                  Z1mf[i187.2.1 Z3c[i187.2.1 
+0000106 030  NP1     Clinton                  Z1mf[i187.2.2 Z3c[i187.2.2 Z1mf 
 0000106 040  VDI     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
 0000106 050  PN1     something                Z8 
 0000106 060  JJ      criminal                 G2.1- A5.1- 
@@ -3288,8 +3327,8 @@
 0000106 090  NN2     emails                   Q1.3/Y2 
 0000106 091  ?       ?                        
 0000106 092  -----   -----                    
-0000106 100  NP1     Philip                   Z1mf[i186.2.1 Z3c[i186.2.1 Z1m 
-0000106 110  NP1     Zelikow                  Z1mf[i186.2.2 Z3c[i186.2.2 
+0000106 100  NP1     Philip                   Z1mf[i188.2.1 Z3c[i188.2.1 Z1m 
+0000106 110  NP1     Zelikow                  Z1mf[i188.2.2 Z3c[i188.2.2 
 0000106 120  VVZ     walks                    M1 
 0000106 130  PPY     you                      Z8mf 
 0000106 140  RP@     through                  M6 
@@ -3304,16 +3343,17 @@
 0000108 021  (       (                        
 0000108 030  FO      @MillerCenter            Z99 
 0000108 031  )       )                        
-0000108 040  NPM1    November                 T1.3[i187.2.1 T1.3 
-0000108 050  MC      3                        T1.3[i187.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000108 040  NPM1    November                 T1.3[i189.2.1 T1.3 
+0000108 050  MC      3                        T1.3[i189.2.2 N1 T1.2 T3 T1.3 N3.2 
 0000108 051  ,       ,                        
 0000108 060  MC      2016                     N1 T1.2 T3 T1.3 N3.2 
 0000109 010  II      As                       Z5 
 0000109 020  AT      the                      Z5 
 0000109 030  NN1     Cato                     Z99 
-0000109 040  NN2     Institutes               P1/S5+c X2.4/S5+c S5+c T2+ 
-0000109 050  NP1     Julian                   Z1mf[i188.2.1 Z3c[i188.2.1 Z1m 
-0000109 060  NP1     Sanchez                  Z1mf[i188.2.2 Z3c[i188.2.2 Z1mf 
+0000109 040  NN1     Institute                P1/S5+c X2.4/S5+c 
+0000109 041  GE      's                       Z5 
+0000109 050  NP1     Julian                   Z1mf[i190.2.1 Z3c[i190.2.1 Z1m 
+0000109 060  NP1     Sanchez                  Z1mf[i190.2.2 Z3c[i190.2.2 Z1mf 
 0000109 070  VVZ     writes                   Q1.2 I2.1 
 0000109 071  ,       ,                        
 0000109 080  VVG     attempting               X8+ 
@@ -3334,13 +3374,14 @@
 0000109 221  :       :                        
 0000109 230  AT      the                      Z5 
 0000109 240  JJ      Supreme                  A5.1+++ S7.1+++ 
-0000109 250  NN2     Courts                   G2.1 H3 M7/K5.2 
+0000109 250  NN1     Court                    G2.1 H3 M7/K5.2 
+0000109 251  GE      's                       Z5 
 0000109 260  NN1     opinion                  X2.1 X2.1/A5 X6+ 
 0000109 270  II      in                       Z5 
 0000109 280  NP1     Gorin                    Z99 
 0000109 290  II      v.                       Z5 
-0000109 300  NP1     United                   Z2c[i191.2.1 Z2c[i190.2.1 Z3c Z1mf[i189.2.1 Z3c[i189.2.1 
-0000109 310  NP1     States                   Z2c[i191.2.2 Z2c[i190.2.2 Z2 Z1mf[i189.2.2 Z3c[i189.2.2 
+0000109 300  NP1     United                   Z2c[i193.2.1 Z2c[i192.2.1 Z3c Z1mf[i191.2.1 Z3c[i191.2.1 
+0000109 310  NP1     States                   Z2c[i193.2.2 Z2c[i192.2.2 Z2 Z1mf[i191.2.2 Z3c[i191.2.2 
 0000109 311  (       (                        
 0000109 320  MC      1941                     N1 T1.2 T3 T1.3 N3.2 
 0000109 321  )       )                        
@@ -3350,7 +3391,8 @@
 0000109 350  CST     that                     Z5 Z8 
 0000109 360  AT      the                      Z5 
 0000109 370  NN1     Espionage                G3 G1.1 
-0000109 380  VVZ     Acts                     A1.1.1 T1.1.2 A8 K4 
+0000109 380  NN1     Act                      A1.1.1 K4 A5.4- G2.1 P1% 
+0000109 381  GE      's                       Z5 
 0000109 390  JJ      intent                   X7+ 
 0000109 400  NN2     requirements             X7+ S6+ 
 0000109 410  VBR     are                      A3+ Z5 
@@ -3372,18 +3414,18 @@
 0000111 050  JJ      important                A11.1+ 
 0000111 060  CS      because                  Z5/A2.2 
 0000111 070  PPH1    it                       Z8 
-0000111 080  VVZ     makes                    X9.2+[i192.2.1 M1[i192.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
-0000111 090  PPH1    it                       X9.2+[i192.2.2 M1[i192.2.2 Z8 
+0000111 080  VVZ     makes                    X9.2+[i194.2.1 M1[i194.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000111 090  PPH1    it                       X9.2+[i194.2.2 M1[i194.2.2 Z8 
 0000111 100  JJ      clear                    A7+ A10+ O4.3 O4.1 N5.1+ W4 
 0000111 110  CST     that                     Z8 Z5 
-0000111 120  CS21    even                     Z7[i193.2.1 
-0000111 130  CS22    if                       Z7[i193.2.2 Z7 
+0000111 120  CS21    even                     Z7[i195.2.1 
+0000111 130  CS22    if                       Z7[i195.2.2 Z7 
 0000111 140  AT      the                      Z5 
 0000111 150  NN1     Weiner                   Z99 
 0000111 160  NN1     laptop                   Y2 
 0000111 170  NN2     emails                   Q1.3/Y2 
-0000111 180  VB0     are                      A3+ Z5 
-0000111 181  XX      nt                       S9/Q4.1 Z3c 
+0000111 180  VBR     are                      A3+ Z5 
+0000111 181  XX      n't                      Z6 
 0000111 190  RR      simply                   A13.6 A14 A12+ 
 0000111 200  JJ      client-side              Z99 
 0000111 210  NN2     copies                   A5.4- Q4.1 Q4.2 Q1.2 
@@ -3412,10 +3454,11 @@
 0000111 410  AT      The                      Z5 
 0000111 420  NN1     reason                   A2.2 X2.1 
 0000111 430  NP1     Clinton                  Z1mf 
-0000111 440  NN1     isnt                     Z99 
+0000111 440  VBZ     is                       Z5 A3+ 
+0000111 441  XX      n't                      Z6 
 0000111 450  VVG     getting                  A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
-0000111 460  VVN     locked                   A1.7+[i194.2.1 G2.1[i194.2.1 H1[i194.2.1 A1.7+ 
-0000111 470  RP      up                       A1.7+[i194.2.2 G2.1[i194.2.2 H1[i194.2.2 
+0000111 460  VVN     locked                   A1.7+[i196.2.1 G2.1[i196.2.1 H1[i196.2.1 A1.7+ 
+0000111 470  RP      up                       A1.7+[i196.2.2 G2.1[i196.2.2 H1[i196.2.2 
 0000111 480  VBZ     is                       A3+ Z5 
 0000111 490  CST     that                     Z5 Z8 
 0000111 500  EX      there                    Z5 
@@ -3433,8 +3476,9 @@
 0000111 600  NN1     information              X2.2+ 
 0000111 610  II      on                       Z5 
 0000111 620  PPH1    it                       Z8 
-0000111 630  JJ      wont                     A6.2+ 
-0000111 640  NN1     change                   A2.1+ I1 B1 
+0000111 630  VM      wo                       T1.1.3 
+0000111 631  XX      n't                      Z6 
+0000111 640  VVI     change                   A2.1+ I1 B5 
 0000111 650  DD1     that                     Z5 Z8 
 0000111 660  NN1     conclusion               X6+ T2- 
 0000111 661  .       .                        
@@ -3458,7 +3502,8 @@
 0000114 080  II      to                       Z5 
 0000114 090  NN1     coverage                 Q4/N5 A1.8+ N5 
 0000114 100  IO      of                       Z5 
-0000114 110  NP2     Clintons                 Z1mf 
+0000114 110  NP1     Clinton                  Z1mf 
+0000114 111  GE      's                       Z5 
 0000114 120  NN2     emails                   Q1.3/Y2 
 0000114 130  CSN     than                     Z5 
 0000114 140  II      to                       Z5 
@@ -3473,8 +3518,8 @@
 0000116 030  VHZ     has                      Z5 A9+ A2.2 S4 
 0000116 040  VBN     been                     A3+ Z5 
 0000116 041  ,       ,                        
-0000116 050  CS      if                       A14[i195.2.1 Z7 
-0000116 060  PN1     anything                 A14[i195.2.2 Z8 
+0000116 050  CS      if                       A14[i197.2.1 Z7 
+0000116 060  PN1     anything                 A14[i197.2.2 Z8 
 0000116 061  ,       ,                        
 0000116 070  JJR     worse                    A5.1-- 
 0000116 071  ,       ,                        
@@ -3524,7 +3569,7 @@
 0000116 470  NN1     phrase                   Q3 K2 K1 
 0000116 480  NP1     Clinton                  Z1mf 
 0000116 490  NN1     email                    Q1.3/Y2 
-0000116 500  NN1     scandal                  G2.2- 
+0000116 500  NN1     scandal''                Z99 
 0000116 510  VH0     have                     Z5 A9+ A2.2 S4 
 0000116 520  RR      firmly                   A1.7+ S1.2.5+ A7+ 
 0000116 530  VVN     implanted                B3 S8+ A2.2 
@@ -3538,8 +3583,8 @@
 0000116 610  II      about                    Z5 
 0000116 620  PN1     anything                 Z8 
 0000116 630  VVG     involving                A1.8+ 
-0000116 640  NP1     Hillary                  Z1mf[i196.2.1 Z3c[i196.2.1 
-0000116 650  NP1     Clinton                  Z1mf[i196.2.2 Z3c[i196.2.2 Z1mf 
+0000116 640  NP1     Hillary                  Z1mf[i198.2.1 Z3c[i198.2.1 
+0000116 650  NP1     Clinton                  Z1mf[i198.2.2 Z3c[i198.2.2 Z1mf 
 0000116 660  CC      and                      Z5 
 0000116 670  NN1     email                    Q1.3/Y2 
 0000116 671  ,       ,                        
@@ -3562,7 +3607,8 @@
 0000116 840  NN1     mail                     Q1.2 
 0000116 850  II      on                       Z5 
 0000116 860  APPGE   her                      Z8f 
-0000116 870  NN2     husbands                 S4m 
+0000116 870  NN1     husband                  S4m 
+0000116 871  GE      's                       Z5 
 0000116 880  NN1     computer                 Y2 
 0000116 881  .       .                        
 0000117 001  -----   -----                    
@@ -3578,8 +3624,8 @@
 0000118 080  VVD     broke                    A1.1.2 A1.1.1 A1.9 S5- T2- E4.1-/A2.2 A2.1+ T1.3 Q2.1@ 
 0000118 090  AT      no                       Z6 
 0000118 100  NN2     laws                     G2.1 S6+ 
-0000118 110  II21    according                Z5[i197.2.1 Z5 
-0000118 120  II22    to                       Z5[i197.2.2 Z5 
+0000118 110  II21    according                Z5[i199.2.1 Z5 
+0000118 120  II22    to                       Z5[i199.2.2 Z5 
 0000118 130  AT      the                      Z5 
 0000118 140  NP1     FBI                      Z99 
 0000118 150  PPX1    itself                   Z8 
@@ -3649,8 +3695,9 @@
 0000118 701  .       .                        
 0000119 001  -----   -----                    
 0000120 010  VVN     Given                    A9- A1.1.1 
-0000120 020  NP2     Powells                  Z1mf 
-0000120 030  VV0     conduct                  A1.1.1 S1.1.1 K2 O4.1 
+0000120 020  NP1     Powell                   Z1mf 
+0000120 021  GE      's                       Z5 
+0000120 030  NN1     conduct                  S1.1.1 
 0000120 031  ,       ,                        
 0000120 040  NP1     Clinton                  Z1mf 
 0000120 050  VBDZ    was                      Z5 A3+ 
@@ -3689,8 +3736,8 @@
 0000120 330  AT1     a                        Z5 
 0000120 340  JJ      personal                 S5- S1.2.1+ 
 0000120 350  NN1     workaround               Z99 
-0000120 360  II21    rather                   Z5[i199.2.1 Z5[i198.2.1 
-0000120 370  II22    than                     Z5[i199.2.2 Z5[i198.2.2 
+0000120 360  II21    rather                   Z5[i201.2.1 Z5[i200.2.1 
+0000120 370  II22    than                     Z5[i201.2.2 Z5[i200.2.2 
 0000120 380  AT1     a                        Z5 
 0000120 390  JJ      systemic                 B3 Q3 X4.2 
 0000120 400  NN1     fix                      A12- X4.2 M6 G2.1- F3 N5 
@@ -3707,8 +3754,8 @@
 0000120 490  DA1     much                     N5+ I1.3+ 
 0000120 500  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000120 510  II      on                       Z5 
-0000120 520  DA      such                     A13.3[i200.2.1 Z5 Z8 
-0000120 530  AT1     a                        A13.3[i200.2.2 Z5 
+0000120 520  DA      such                     A13.3[i202.2.1 Z5 Z8 
+0000120 530  AT1     a                        A13.3[i202.2.2 Z5 
 0000120 540  JJ      trivial                  A11.1- 
 0000120 550  NN1     matter                   X4.1 O1 
 0000120 560  VM      would                    A7+ 
@@ -3716,8 +3763,8 @@
 0000120 580  JJ      absurd                   S1.2.6- 
 0000120 590  II      in                       Z5 
 0000120 600  AT1     a                        Z5 
-0000120 610  NN1     city                     G1.1[i201.2.1 M7c M7/I2.1c 
-0000120 620  NN1     council                  G1.1[i201.2.2 G1.1c S7.1+/S5+c 
+0000120 610  NN1     city                     G1.1[i203.2.1 M7c M7/I2.1c 
+0000120 620  NN1     council                  G1.1[i203.2.2 G1.1c S7.1+/S5+c 
 0000120 630  NN1     race                     K5.1 S7.3+ S5+c 
 0000120 631  ,       ,                        
 0000120 640  RR      much                     A13.3 N6+ 
@@ -3746,9 +3793,9 @@
 0000120 850  VVN     shattered                A1.1.2 
 0000120 860  DB      all                      N5.1+ 
 0000120 870  NN2     precedents               A3+ 
-0000120 880  II31    in                       Z5[i202.3.1 Z5 
-0000120 890  II32    terms                    Z5[i202.3.2 
-0000120 900  II33    of                       Z5[i202.3.3 
+0000120 880  II31    in                       Z5[i204.3.1 Z5 
+0000120 890  II32    terms                    Z5[i204.3.2 
+0000120 900  II33    of                       Z5[i204.3.3 
 0000120 910  VVG     lacking                  A9- 
 0000120 920  NN1     transparency             Q1.2 O4.3 C1 
 0000120 930  CC      or                       Z5 

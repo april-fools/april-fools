@@ -27,8 +27,9 @@
 0000002 250  NN1     stage                    T1.2 N5.1- H2/K4 K4 A4.1 
 0000002 251  .       .                        
 0000003 001  -----   -----                    
-0000004 010  APPGE   Its                      Z8 
-0000004 020  JJ@     understood               X2.5+ 
+0000004 010  PPH1    It                       Z8 
+0000004 011  VBZ     's                       Z5 A3+ 
+0000004 020  VVN     understood               X2.5+ 
 0000004 030  CST     that                     Z8 Z5 
 0000004 040  II      despite                  Z5 
 0000004 050  NN2     denials                  Q2.2/Z6 S7.4- 

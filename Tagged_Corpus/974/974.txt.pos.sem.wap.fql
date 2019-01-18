@@ -1,4 +1,4 @@
-TOTAL              359
+TOTAL              360
 procedures           NN2            23 
 the                  AT             22 
 and                  CC             13 
@@ -20,6 +20,7 @@ since                II              3
 1997                 MC              3 
 nearly               RR              3 
 performed            VVN             3 
+is                   VBZ             3 
 total                NN1             3 
 top_five             NN1             3 
 men                  NN2             3 
@@ -38,7 +39,6 @@ number               NN1             2
 was                  VBDZ            2 
 most                 RGT             2 
 are                  VBR             2 
-is                   VBZ             2 
 accounted_for        VVN             2 
 represented          VVD             2 
 minimally            RR              2 
@@ -112,7 +112,7 @@ true                 JJ              1
 eaves                NN2             1 
 growth               NN1             1 
 in_demand            II              1 
-isnt                 VV0             1 
+n't                  XX              1 
 likely               JJ              1 
 to                   TO              1 
 slow_down            VVI             1 

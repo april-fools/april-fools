@@ -59,7 +59,8 @@
 0000004 010  VV0     NYPD                     Z99 
 0000004 020  NN2     sources                  T2+ Q1.1 X2.2 W3/M4 
 0000004 030  VVD     said                     Q2.1 
-0000004 040  NP2     Clintons                 Z1mf 
+0000004 040  NP1     Clinton                  Z1mf 
+0000004 041  GE      's                       Z5 
 0000004 050  NN1     crew                     M4/S5+c M5/S5+c K4/S5+c Q4.3/S5+c 
 0000004 060  RR      also                     N5++ 
 0000004 070  VVN     included                 A1.8+ 
@@ -233,9 +234,10 @@
 0000017 060  NN1     Chief                    S7.1+ 
 0000017 061  ,       ,                        
 0000017 070  AT      the                      Z5 
-0000017 080  NN2     departments              H2/S5+ X2.2 
-0000017 090  RRT@    highest                  N3.7+++ N5+++ 
-0000017 100  VV0@    rank                     A5.1 S7.1++ 
+0000017 080  NN1     department               H2/S5+c X2.2 
+0000017 081  GE      's                       Z5 
+0000017 090  JJT     highest                  N3.7+++ N5+++ A11.1+++ S7.1+++ A5.1+++ T3--- X3.2 G2.2+++ E4.1+++ I1.3+++ O4.2--- O4.6+++ S9 
+0000017 100  NN1     rank                     S7.1+ S5+ M3 A5.1 
 0000017 110  II      under                    Z5 
 0000017 120  NN1     Commissioner             G1.1/S2mf G2.1/S2mf 
 0000017 121  ,       ,                        
@@ -283,7 +285,8 @@
 0000017 530  NN2     offices                  I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+ 
 0000017 531  .       .                        
 0000018 001  -----   -----                    
-0000019 010  NN2     Whats                    Z8 Z5 
+0000019 010  DDQ     What                     Z8 Z5 
+0000019 011  VBZ     's                       A3+ Z5 
 0000019 020  II      in                       Z5 
 0000019 030  AT      the                      Z5 
 0000019 040  NN2     emails                   Q1.3/Y2 
@@ -430,7 +433,7 @@
 0000027 010  CS      If                       Z7 
 0000027 020  PPHS2   they                     Z8mfn 
 0000027 030  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000027 031  XX      nt                       S9/Q4.1 Z3c 
+0000027 031  XX      n't                      Z6 
 0000027 040  VVI     cooperate                S8+ 
 0000027 050  PPHS2   they                     Z8mfn 
 0000027 060  VBR     are                      Z5 A3+ 
@@ -511,7 +514,8 @@
 0000031 120  AT1     a                        Z5 
 0000031 130  NN1     subpoena                 Z99 
 0000031 140  IF      for                      Z5 
-0000031 150  NP1     Weiners                  Z99 
+0000031 150  NP1     Weiner                   Z99 
+0000031 151  GE      's                       Z5 
 0000031 160  NN1     cell                     B1 G2.1/H2 S9/H2 S5+c O3 
 0000031 170  NN2     phones                   Q1.3 
 0000031 180  CC      and                      Z5 
@@ -640,18 +644,19 @@
 0000033 480  VVD     said                     Q2.1 
 0000033 481  .       .                        
 0000033 482  -----   -----                    
-0000033 490  NP1@    Epsteins                 Z2[i40.2.1 
-0000033 500  NN1     island                   Z2[i40.2.2 W3 
+0000033 490  NP1@    Epstein                  Z99 
+0000033 491  GE      's                       Z5 
+0000033 500  NN1     island                   W3 
 0000033 510  VHZ     has                      Z5 A9+ A2.2 S4 
 0000033 520  RR      also                     N5++ 
 0000033 530  VBN     been                     Z5 A3+ 
 0000033 540  VVN     dubbed                   Q2.2 Q4.3/Q3 
-0000033 550  NP1     Orgy                     Z2[i41.2.1 
-0000033 560  NNL1    Island                   Z2[i41.2.2 W3 
+0000033 550  NP1     Orgy                     Z2[i40.2.1 
+0000033 560  NNL1    Island                   Z2[i40.2.2 W3 
 0000033 570  CC      or                       Z5 
-0000033 580  NP1     Sex                      Z1mf[i42.2.1 Z3c[i42.2.1 
-0000033 590  NP1     Slave                    Z1mf[i42.2.2 Z3c[i42.2.2 Z2[i43.2.1 
-0000033 600  NNL1    Island                   W3 Z2[i43.2.2 
+0000033 580  NP1     Sex                      Z1mf[i41.2.1 Z3c[i41.2.1 
+0000033 590  NP1     Slave                    Z1mf[i41.2.2 Z3c[i41.2.2 Z2[i42.2.1 
+0000033 600  NNL1    Island                   W3 Z2[i42.2.2 
 0000033 610  RRQ     where                    M6 
 0000033 620  NP1     Epstein                  Z99 
 0000033 630  RR      allegedly                Q2.2/A5.2 
@@ -672,23 +677,24 @@
 0000035 040  NP1     FBI                      Z99 
 0000035 050  NN2     sources                  T2+ Q1.1 X2.2 W3/M4 
 0000035 060  VV0     confirm                  A7+ Q2.2 S9@ 
-0000035 070  VVN     based                    A2.2[i44.2.1 T2+ M6 A2.2 
-0000035 080  II      on                       A2.2[i44.2.2 Z5 
+0000035 070  VVN     based                    A2.2[i43.2.1 T2+ M6 A2.2 
+0000035 080  II      on                       A2.2[i43.2.2 Z5 
 0000035 090  AT      the                      Z5 
 0000035 100  JJ      new                      T3- 
 0000035 110  NN2     emails                   Q1.3/Y2 
 0000035 120  PPHS2   they                     Z8mfn 
 0000035 130  RT      now                      T1.1.2 Z4 
 0000035 140  VV0     believe                  X2.1 S9% 
-0000035 150  NP1     Hillary                  Z1mf[i45.2.1 Z3c[i45.2.1 
-0000035 160  NP1     Clinton                  Z1mf[i45.2.2 Z3c[i45.2.2 Z1mf 
+0000035 150  NP1     Hillary                  Z1mf[i44.2.1 Z3c[i44.2.1 
+0000035 160  NP1     Clinton                  Z1mf[i44.2.2 Z3c[i44.2.2 Z1mf 
 0000035 170  VVD     traveled                 M1 
-0000035 180  II@     as                       Z5 
-0000035 190  NP2     Epsteins                 Z99 
+0000035 180  CSA     as                       Z5 
+0000035 190  NP1     Epstein                  Z99 
+0000035 191  GE      's                       Z5 
 0000035 200  NN1     guest                    H4/S2mf S1.2.2-/S2mf 
 0000035 210  II      on                       Z5 
-0000035 220  RR21    at                       A13.7[i46.2.1 
-0000035 230  RR22    least                    A13.7[i46.2.2 A13.7 
+0000035 220  RR21    at                       A13.7[i45.2.1 
+0000035 230  RR22    least                    A13.7[i45.2.2 A13.7 
 0000035 240  MC      six                      N1 T3 T1.2 
 0000035 250  NN2     occasions                T1.2 S1.1.1 
 0000035 251  ,       ,                        
@@ -705,8 +711,8 @@
 0000035 350  VVD     said                     Q2.1 
 0000035 351  .       .                        
 0000035 352  -----   -----                    
-0000035 360  NP1     Bill                     Z1mf[i47.2.1 Z3c[i47.2.1 
-0000035 370  NP1     Clinton                  Z1mf[i47.2.2 Z3c[i47.2.2 Z1mf 
+0000035 360  NP1     Bill                     Z1mf[i46.2.1 Z3c[i46.2.1 
+0000035 370  NP1     Clinton                  Z1mf[i46.2.2 Z3c[i46.2.2 Z1mf 
 0000035 371  ,       ,                        
 0000035 380  PPH1    it                       Z8 
 0000035 390  VHZ     has                      Z5 A9+ A2.2 S4 
@@ -725,9 +731,9 @@
 0000035 510  VVD     traveled                 M1 
 0000035 520  IW      with                     Z5 
 0000035 530  NP1     Epstein                  Z99 
-0000035 540  RG      over                     T3[i48.2.1 N5[i48.2.1 N5.2+ A13.2 
-0000035 550  MC      20                       T3[i48.2.2 N5[i48.2.2 N1 T1.2 T3 T1.3 N3.2 N6+[i49.2.1 A13.3[i49.2.1 
-0000035 560  NNT2    times                    T1 T1.2 T1.3 T1.1.2 N6 N1 N6+[i49.2.2 A13.3[i49.2.2 
+0000035 540  RG      over                     T3[i47.2.1 N5[i47.2.1 N5.2+ A13.2 
+0000035 550  MC      20                       T3[i47.2.2 N5[i47.2.2 N1 T1.2 T3 T1.3 N3.2 N6+[i48.2.1 A13.3[i48.2.1 
+0000035 560  NNT2    times                    T1 T1.2 T1.3 T1.1.2 N6 N1 N6+[i48.2.2 A13.3[i48.2.2 
 0000035 570  II      to                       Z5 
 0000035 580  AT      the                      Z5 
 0000035 590  NN1     island                   W3 
@@ -739,11 +745,11 @@
 0000037 040  RRR     More                     Z3c 
 0000037 050  VVN     Classified               A4.1 A10- 
 0000037 051  ,       ,                        
-0000037 060  JJ      Top                      A10---[i50.2.1 M6 N5.1+ A11.1+++ S7.1+++ N4 X9.1+++ A5.1+++ 
-0000037 070  JJ      Secret                   A10---[i50.2.2 A10- 
+0000037 060  JJ      Top                      A10---[i49.2.1 M6 N5.1+ A11.1+++ S7.1+++ N4 X9.1+++ A5.1+++ 
+0000037 070  JJ      Secret                   A10---[i49.2.2 A10- 
 0000037 080  NN2     Breaches                 A1.9 O2 B1 A1.1.1 
-0000039 010  II21    According                Z5[i51.2.1 Z5 
-0000039 020  II22    to                       Z5[i51.2.2 Z5 
+0000039 010  II21    According                Z5[i50.2.1 Z5 
+0000039 020  II22    to                       Z5[i50.2.2 Z5 
 0000039 030  JJ      other                    A6.1- 
 0000039 040  JJ@     uncovered                A10+ 
 0000039 050  NN2     emails                   Q1.3/Y2 
@@ -759,15 +765,16 @@
 0000039 140  IO      of                       Z5 
 0000039 150  JJ      classified               A10- A4.1 Q4.2 
 0000039 160  CC      and                      Z5 
-0000039 170  JJ      top                      A10---[i52.2.1 M6 N5.1+ A11.1+++ S7.1+++ N4 X9.1+++ A5.1+++ 
-0000039 180  JJ      secret                   A10---[i52.2.2 A10- 
+0000039 170  JJ      top                      A10---[i51.2.1 M6 N5.1+ A11.1+++ S7.1+++ N4 X9.1+++ A5.1+++ 
+0000039 180  JJ      secret                   A10---[i51.2.2 A10- 
 0000039 190  NN2     documents                Q1.2 X2.2+ Y2 
 0000039 200  II      to                       Z5 
 0000039 210  JJ      personal                 S5- S1.2.1+ 
 0000039 220  NN1     email                    Q1.3/Y2 
 0000039 230  NN2     accounts                 I1 I1.3 I2.1 Q2.2 Y2 
 0000039 240  II      including                A1.8+ 
-0000039 250  NP1     Weiners                  Z99 
+0000039 250  NP1     Weiner                   Z99 
+0000039 251  GE      's                       Z5 
 0000039 260  JJ      unsecured                A1.7- 
 0000039 270  NN1     campaign                 X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 G3 
 0000039 280  NN1     web                      Y2 L2 O2 
@@ -780,9 +787,9 @@
 0000039 350  JJ      political                G1.2 
 0000039 360  NN2     consultants              B3/S2mf Q2.1/S8+/S2mf 
 0000039 370  II      in                       Z5 
-0000039 380  NP1     Washington               Z1mf[i54.3.1 Z3c[i54.3.1 Z2 Z1mf Z1mf[i53.2.1 Z3c[i53.2.1 
-0000039 390  NP1     D.C.                     Z1mf[i54.3.2 Z3c[i54.3.2 Z2 Z3c Z1mf[i53.2.2 Z3c[i53.2.2 Z1mf[i55.2.1 Z3c[i55.2.1 
-0000041 010  NP1     Weiner                   Z3c[i54.3.3 Z1mf[i54.3.3 Z1mf[i55.2.2 Z3c[i55.2.2 
+0000039 380  NP1     Washington               Z1mf[i53.3.1 Z3c[i53.3.1 Z2 Z1mf Z1mf[i52.2.1 Z3c[i52.2.1 
+0000039 390  NP1     D.C.                     Z1mf[i53.3.2 Z3c[i53.3.2 Z2 Z3c Z1mf[i52.2.2 Z3c[i52.2.2 Z1mf[i54.2.1 Z3c[i54.2.1 
+0000041 010  NP1     Weiner                   Z3c[i53.3.3 Z1mf[i53.3.3 Z1mf[i54.2.2 Z3c[i54.2.2 
 0000041 020  VVD     maintained               A9+ T2++ S8+ A1.1.1 Q2.2 
 0000041 030  RR      little                   A13.7 
 0000041 040  VVN     known                    X2.2+ S3.2/B1% 
@@ -806,8 +813,8 @@
 0000041 190  JJ      Democratic               G1.2 
 0000041 200  NN1     Congressman              G1.2/S2.2m 
 0000041 210  II      from                     Z5 
-0000041 220  NP1     New                      Z2[i57.2.1 Z1mf[i56.2.1 Z3c[i56.2.1 
-0000041 230  NP1     York                     Z2[i57.2.2 Z2 Z1mf Z1mf[i56.2.2 Z3c[i56.2.2 
+0000041 220  NP1     New                      Z2[i56.2.1 Z1mf[i55.2.1 Z3c[i55.2.1 
+0000041 230  NP1     York                     Z2[i56.2.2 Z2 Z1mf Z1mf[i55.2.2 Z3c[i55.2.2 
 0000041 231  ,       ,                        
 0000041 240  RR      primarily                A13.2 
 0000041 250  VVN     used                     A1.5.1 S7.1+ 
@@ -824,9 +831,9 @@
 0000041 360  JJ      mayoral                  Z99 
 0000041 370  NN1     bid                      I2.2 
 0000041 380  IO      of                       Z5 
-0000041 390  NP1     New                      Z1mf[i59.3.1 Z3c[i59.3.1 Z1mf[i58.2.1 Z3c[i58.2.1 Z2[i60.2.1 
-0000041 400  NP1     York                     Z1mf[i59.3.2 Z3c[i59.3.2 Z2 Z1mf Z1mf[i58.2.2 Z3c[i58.2.2 Z2[i60.2.2 Z2[i61.2.1 Z3c[i61.2.1 Z1mf[i62.2.1 Z3c[i62.2.1 
-0000041 410  NN1     City                     Z3c[i59.3.3 Z1mf[i59.3.3 M7/I2.1c Z3c Z2[i61.2.2 Z3c[i61.2.2 Z1mf[i62.2.2 Z3c[i62.2.2 
+0000041 390  NP1     New                      Z1mf[i58.3.1 Z3c[i58.3.1 Z1mf[i57.2.1 Z3c[i57.2.1 Z2[i59.2.1 
+0000041 400  NP1     York                     Z1mf[i58.3.2 Z3c[i58.3.2 Z2 Z1mf Z1mf[i57.2.2 Z3c[i57.2.2 Z2[i59.2.2 Z2[i60.2.1 Z3c[i60.2.1 Z1mf[i61.2.1 Z3c[i61.2.1 
+0000041 410  NN1     City                     Z3c[i58.3.3 Z1mf[i58.3.3 M7/I2.1c Z3c Z2[i60.2.2 Z3c[i60.2.2 Z1mf[i61.2.2 Z3c[i61.2.2 
 0000041 411  .       .                        
 0000042 001  -----   -----                    
 0000043 010  II      At                       Z5 
@@ -839,20 +846,22 @@
 0000043 061  ,       ,                        
 0000043 070  NP1     Abedin                   Z99 
 0000043 080  CC      and                      Z5 
-0000043 090  NP2     Clintons                 Z1mf 
+0000043 090  NP1     Clinton                  Z1mf 
+0000043 091  GE      's                       Z5 
 0000043 100  JJ      classified               A10- A4.1 Q4.2 
 0000043 110  CC      and                      Z5 
-0000043 120  JJ      top                      A10---[i63.2.1 M6 N5.1+ A11.1+++ S7.1+++ N4 X9.1+++ A5.1+++ 
-0000043 130  JJ      secret                   A10---[i63.2.2 A10- 
-0000043 140  NN1     State                    G1.1/S5+c[i64.2.1 G1.1c O4.1 
-0000043 150  NN1     Department               G1.1/S5+c[i64.2.2 H2/S5+c X2.2 
+0000043 120  JJ      top                      A10---[i62.2.1 M6 N5.1+ A11.1+++ S7.1+++ N4 X9.1+++ A5.1+++ 
+0000043 130  JJ      secret                   A10---[i62.2.2 A10- 
+0000043 140  NN1     State                    G1.1/S5+c[i63.2.1 G1.1c O4.1 
+0000043 150  NN1     Department               G1.1/S5+c[i63.2.2 H2/S5+c X2.2 
 0000043 160  NN2     documents                Q1.2 X2.2+ Y2 
 0000043 170  CC      and                      Z5 
 0000043 180  NN2     emails                   Q1.3/Y2 
 0000043 190  VBDR    were                     Z5 A3+ 
 0000043 200  VVN     stored                   A9+ 
 0000043 210  II      in                       Z5 
-0000043 220  NP1     Weiners                  Z99 
+0000043 220  NP1     Weiner                   Z99 
+0000043 221  GE      's                       Z5 
 0000043 230  NN1     email                    Q1.3/Y2 
 0000043 240  II      on                       Z5 
 0000043 250  AT1     a                        Z5 
@@ -879,13 +888,15 @@
 0000045 041  ,       ,                        
 0000045 050  PNQS    who                      Z8 
 0000045 060  VBZ     is                       A3+ Z5 
-0000045 070  NP1     Hillary                  Z99 
-0000045 080  NP2     Clintons                 Z1mf 
-0000045 090  RRT     closest                  N3.3--- A4.2+++ S5+++ S1.1.3+++ A6.1+++ E2+++ W4 
+0000045 070  NP1     Hillary                  Z1mf[i64.2.1 Z3c[i64.2.1 
+0000045 080  NP1     Clinton                  Z1mf[i64.2.2 Z3c[i64.2.2 Z1mf 
+0000045 081  GE      's                       Z5 
+0000045 090  JJT     closest                  N3.3--- A4.2+++ S5+++ S1.1.3+++ A6.1+++ E2+++ W4 
 0000045 100  JJ      personal                 S5- S1.2.1+ 
 0000045 110  NN1     aide                     S8+/S2mf 
 0000045 111  ,       ,                        
-0000045 120  NN1     werent                   Z99 
+0000045 120  VBDR    were                     A3+ Z5 
+0000045 121  XX      n't                      Z6 
 0000045 130  AT      the                      Z5 
 0000045 140  JJ      only                     A14 
 0000045 150  NN      people                   S2mfc 
@@ -893,7 +904,8 @@
 0000045 170  NN1     access                   M1 A9+ A1.1.1 
 0000045 180  II      to                       Z5 
 0000045 190  AT      the                      Z5 
-0000045 200  NP1     Weiners                  Z99 
+0000045 200  NP1     Weiner                   Z99 
+0000045 201  GE      's                       Z5 
 0000045 210  NN1     email                    Q1.3/Y2 
 0000045 220  NN1     account                  I1 I1.3 I2.1 Q2.2 Y2 
 0000045 221  .       .                        
@@ -906,7 +918,8 @@
 0000045 280  VHD     had                      A9+ Z5 A2.2 S4 
 0000045 290  NN1     access                   M1 A9+ A1.1.1 
 0000045 300  II      to                       Z5 
-0000045 310  NP1     Abedins                  Z99 
+0000045 310  NP1     Abedin                   Z99 
+0000045 311  GE      's                       Z5 
 0000045 320  JJ      sensitive                X2.5+/E1 E6- O4.1 B1 A4.2+ 
 0000045 330  NN1     State                    G1.1/S5+c[i65.2.1 G1.1c O4.1 
 0000045 340  NN1     Department               G1.1/S5+c[i65.2.2 H2/S5+c X2.2 
@@ -915,7 +928,8 @@
 0000045 370  VBDR    were                     Z5 A3+ 
 0000045 380  VVN     stored                   A9+ 
 0000045 390  II      in                       Z5 
-0000045 400  NP1     Weiners                  Z99 
+0000045 400  NP1     Weiner                   Z99 
+0000045 401  GE      's                       Z5 
 0000045 410  NN1     email                    Q1.3/Y2 
 0000045 420  NN1     account                  I1 I1.3 I2.1 Q2.2 Y2 
 0000045 421  ,       ,                        
@@ -990,7 +1004,8 @@
 0000047 580  RR      technically              Y1 I4 X9.1 
 0000047 590  NP1     Weiner                   Z99 
 0000047 600  CC      and                      Z5 
-0000047 610  NP1     Abedins                  Z99 
+0000047 610  NP1     Abedin                   Z99 
+0000047 611  GE      's                       Z5 
 0000047 620  NN2     emails                   Q1.3/Y2 
 0000047 621  ,       ,                        
 0000047 630  II      including                A1.8+ 
@@ -1048,12 +1063,14 @@
 0000049 040  NN2     sources                  T2+ Q1.1 X2.2 W3/M4 
 0000049 041  ,       ,                        
 0000049 050  AT      the                      Z5 
-0000049 060  NN2     bureaus                  G1.1 I2.1 H5 
+0000049 060  NN1     bureau                   G1.1 H5 
+0000049 061  GE      's                       Z5 
 0000049 070  JJ      newly-minted             Z99 
 0000049 080  NN1     probe                    O2 X2.4 A1.1.1 Y1 
 0000049 090  II      into                     Z5 
-0000049 100  NP2     Clintons                 Z1mf 
-0000049 110  VV0     use                      A1.5.1 S7.1+ 
+0000049 100  NP1     Clinton                  Z1mf 
+0000049 101  GE      's                       Z5 
+0000049 110  NN1     use                      A1.5.1 
 0000049 120  CC      and                      Z5 
 0000049 130  NN1     handling                 A1.1.1 S7.1+ X9.2+ 
 0000049 140  IO      of                       Z5 
@@ -1089,7 +1106,8 @@
 0000051 080  NN1     Department               G1.1/S5+c[i76.2.2 H2/S5+c X2.2 
 0000051 090  NN2     emails                   Q1.3/Y2 
 0000051 100  II      to                       Z5 
-0000051 110  NP1     Weiners                  Z99 
+0000051 110  NP1     Weiner                   Z99 
+0000051 111  GE      's                       Z5 
 0000051 120  NN1     email                    Q1.3/Y2 
 0000052 010  NN1     Abedin                   Z99 
 0000052 020  JJ      stored                   A9+ 
@@ -1155,13 +1173,14 @@
 0000055 020  JJ      private                  A10- S5- G1.1- 
 0000055 030  NN1     consultant               B3/S2mf Q2.1/S8+/S2mf 
 0000055 040  VVD     managed                  S7.1+ A1.1.1 X9.2+ 
-0000055 050  NP1     Weiners                  Z2[i81.2.1 
-0000055 060  NN1     site                     Z2[i81.2.2 M7 
+0000055 050  NP1     Weiner                   Z99 
+0000055 051  GE      's                       Z5 
+0000055 060  NN1     site                     M7 
 0000055 070  IF      for                      Z5 
 0000055 080  AT      the                      Z5 
-0000055 090  MD      last                     T1.1.1[i82.3.1 N4 
-0000055 100  MC      six                      T1.1.1[i82.3.2 N1 T3 T1.2 
-0000055 110  NNT2    years                    T1.1.1[i82.3.3 T1.3 
+0000055 090  MD      last                     T1.1.1[i81.3.1 N4 
+0000055 100  MC      six                      T1.1.1[i81.3.2 N1 T3 T1.2 
+0000055 110  NNT2    years                    T1.1.1[i81.3.3 T1.3 
 0000055 111  ,       ,                        
 0000055 120  II      including                A1.8+ 
 0000055 130  MC      three                    N1 T1.2 T3 
@@ -1169,9 +1188,9 @@
 0000055 150  RRQ     when                     Z5 
 0000055 160  NP1     Clinton                  Z1mf 
 0000055 170  VBDZ    was                      A3+ Z5 
-0000055 180  NN1     secretary                G1.1/S2mf[i83.3.1 I3.2/S2mf S7.1+/S2mf 
-0000055 190  IO      of                       G1.1/S2mf[i83.3.2 Z5 
-0000055 200  NN1     state                    G1.1/S2mf[i83.3.3 G1.1c O4.1 
+0000055 180  NN1     secretary                G1.1/S2mf[i82.3.1 I3.2/S2mf S7.1+/S2mf 
+0000055 190  IO      of                       G1.1/S2mf[i82.3.2 Z5 
+0000055 200  NN1     state                    G1.1/S2mf[i82.3.3 G1.1c O4.1 
 0000055 201  ,       ,                        
 0000055 210  CC      and                      Z5 
 0000055 220  RR      therefore                Z5 
@@ -1184,7 +1203,8 @@
 0000055 280  NN2     emails                   Q1.3/Y2 
 0000055 290  II      as                       Z5 
 0000055 300  AT      the                      Z5 
-0000055 310  NN2     domains                  X4.1 A9+ Y2 
+0000055 310  NN1     domain                   X4.1 A9+ Y2 
+0000055 311  GE      's                       Z5 
 0000055 320  JJ      listed                   Q1.2/N4 I2.1 G2.1/H1 
 0000055 330  NN1     registrant               Z99 
 0000055 340  CC      and                      Z5 
@@ -1196,7 +1216,8 @@
 0000055 391  .       .                        
 0000056 001  -----   -----                    
 0000056 010  CS      Because                  Z5/A2.2 
-0000056 020  NP1     Weiners                  Z99 
+0000056 020  NP1     Weiner                   Z99 
+0000056 021  GE      's                       Z5 
 0000056 030  NN1     campaign                 X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 G3 
 0000056 040  NN1     website                  Y2 
 0000056 050  VBZ     is                       Z5 A3+ 
@@ -1228,7 +1249,8 @@
 0000056 300  VHD     had                      A9+ Z5 A2.2 S4 
 0000056 310  NN1     access                   M1 A9+ A1.1.1 
 0000056 320  II      to                       Z5 
-0000056 330  NP1     Weiners                  Z99 
+0000056 330  NP1     Weiner                   Z99 
+0000056 331  GE      's                       Z5 
 0000056 340  NN1     server                   F1/S2mf Y2 
 0000056 350  CC      and                      Z5 
 0000056 360  NN2     emails                   Q1.3/Y2 
@@ -1265,7 +1287,7 @@
 0000058 090  CST     that                     Z8 Z5 
 0000058 100  PPHS1   she                      Z8f 
 0000058 110  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000058 111  XX      nt                       S9/Q4.1 Z3c 
+0000058 111  XX      n't                      Z6 
 0000058 120  VVI     know                     X2.2+ S3.2/B1% 
 0000058 130  RRQ     how                      Z5 A13.3 
 0000058 140  TO      to                       Z5 
@@ -1307,8 +1329,8 @@
 0000060 010  NP1@    Abedin                   Z99 
 0000060 020  VVD     said                     Q2.1 
 0000060 021  ,       ,                        
-0000060 030  II21    according                Z5[i84.2.1 Z5 
-0000060 040  II22    to                       Z5[i84.2.2 Z5 
+0000060 030  II21    according                Z5[i83.2.1 Z5 
+0000060 040  II22    to                       Z5[i83.2.2 Z5 
 0000060 050  NP1     FBI                      Z99 
 0000060 060  NN2     documents                Q1.2 X2.2+ Y2 
 0000060 061  ,       ,                        
@@ -1324,8 +1346,8 @@
 0000060 160  II      from                     Z5 
 0000060 170  AT1     an                       Z5 
 0000060 180  JJ      unclassified             Z99 
-0000060 190  NN1     computer                 Y2[i85.2.1 Y2 
-0000060 200  NN1     system                   Y2[i85.2.2 X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c 
+0000060 190  NN1     computer                 Y2[i84.2.1 Y2 
+0000060 200  NN1     system                   Y2[i84.2.2 X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c 
 0000060 210  II      at                       Z5 
 0000060 220  AT      the                      Z5 
 0000060 230  NN1     State                    G1.1c O4.1 
@@ -1380,8 +1402,8 @@
 0000062 260  CS      unless                   Z5 
 0000062 270  PPH1    it                       Z8 
 0000062 280  VBDZ    was                      Z5 A3+ 
-0000062 290  VVN     printed                  Q1.2[i86.2.1 Q1.2 
-0000062 300  RP      out                      Q1.2[i86.2.2 M6 
+0000062 290  VVN     printed                  Q1.2[i85.2.1 Q1.2 
+0000062 300  RP      out                      Q1.2[i85.2.2 M6 
 0000062 310  IF      for                      Z5 
 0000062 320  PPHO1   her                      Z8f 
 0000062 321  ,       ,                        
@@ -1400,8 +1422,8 @@
 0000062 430  JJ      secure                   A7+ A15+ A1.7+ E6+ 
 0000062 440  NN1     State                    G1.1c O4.1 
 0000062 450  NN1     Dept.                    S5+c 
-0000062 460  NN1     fax                      Q1.3[i87.2.1 Q1.3 
-0000062 470  NN1     machine                  Q1.3[i87.2.2 O2 Y2 
+0000062 460  NN1     fax                      Q1.3[i86.2.1 Q1.3 
+0000062 470  NN1     machine                  Q1.3[i86.2.2 O2 Y2 
 0000062 480  VVN     installed                A1.1.1 S1.1.1 
 0000062 490  II      in                       Z5 
 0000062 500  APPGE   her                      Z8f 
@@ -1417,10 +1439,11 @@
 0000064 020  RGR     more                     A13.3 
 0000064 030  JJ      alarming                 E5- E6- 
 0000064 031  ,       ,                        
-0000064 040  II21    according                Z5[i88.2.1 Z5 
-0000064 050  II22    to                       Z5[i88.2.2 Z5 
+0000064 040  II21    according                Z5[i87.2.1 Z5 
+0000064 050  II22    to                       Z5[i87.2.2 Z5 
 0000064 060  AT      the                      Z5 
-0000064 070  NP2     FBIs                     Z99 
+0000064 070  NP1     FBI                      Z99 
+0000064 071  GE      's                       Z5 
 0000064 080  MC      302                      N1 T1.2 T3 T1.3 N3.2 
 0000064 090  NN1     Report                   Q2.2 X3.2 
 0000064 100  VVG     detailing                Q2.2 
@@ -1436,8 +1459,8 @@
 0000064 190  NP1     FBI                      Z99 
 0000064 200  NN2     agents                   I2.1/S2mf G3/S2mf K4/S2mf 
 0000064 210  CC      and                      Z5 
-0000064 220  NN1     Justice                  G2.1+/S5+c[i89.2.1 G2.1+ G2.2+ 
-0000064 230  NN1     Department               G2.1+/S5+c[i89.2.2 H2/S5+c X2.2 
+0000064 220  NN1     Justice                  G2.1+/S5+c[i88.2.1 G2.1+ G2.2+ 
+0000064 230  NN1     Department               G2.1+/S5+c[i88.2.2 H2/S5+c X2.2 
 0000064 240  NN2     officials                G1.1/S2mf S7.1+/S2mf 
 0000064 250  PNQS    who                      Z8 
 0000064 260  VVD     conducted                A1.1.1 S1.1.1 K2 O4.1 
@@ -1460,11 +1483,11 @@
 0000064 410  VBDZ    was                      A3+ Z5 
 0000064 420  RR      never                    T1/Z6 
 0000064 430  AT1     a                        Z5 
-0000064 440  NN121@  follow                   N4[i90.2.1 
-0000064 450  NN122   up                       N4[i90.2.2 
+0000064 440  NN121@  follow                   N4[i89.2.1 
+0000064 450  NN122   up                       N4[i89.2.2 
 0000064 451  ,       ,                        
-0000064 460  II21    according                Z5[i91.2.1 Z5 
-0000064 470  II22    to                       Z5[i91.2.2 Z5 
+0000064 460  II21    according                Z5[i90.2.1 Z5 
+0000064 470  II22    to                       Z5[i90.2.2 Z5 
 0000064 480  AT      the                      Z5 
 0000064 490  MC      302                      N1 T1.2 T3 T1.3 N3.2 
 0000064 500  NN1     report                   Q2.2 X3.2 
@@ -1480,7 +1503,8 @@
 0000066 061  ,       ,                        
 0000066 070  IW      with                     Z5 
 0000066 080  AT      the                      Z5 
-0000066 090  NP2     FBIs                     Z99 
+0000066 090  NP1     FBI                      Z99 
+0000066 091  GE      's                       Z5 
 0000066 100  NN1     decision                 X6+ 
 0000066 110  TO      to                       Z5 
 0000066 120  VVI     reopen                   A10+/N6+ T2+/N6+ 
@@ -1500,15 +1524,16 @@
 0000066 260  VVI     testify                  G2.1 A5.2+ 
 0000066 270  II      against                  Z5 
 0000066 280  NP1     Clinton                  Z1mf 
-0000066 290  CC      and                      S2mf[i92.2.1 Z5 
-0000066 300  JJ      other                    S2mf[i92.2.2 A6.1- 
+0000066 290  CC      and                      S2mf[i91.2.1 Z5 
+0000066 300  JJ      other                    S2mf[i91.2.2 A6.1- 
 0000066 310  NN2     associates               S3.1/S2mf 
 0000066 320  II      about                    Z5 
 0000066 330  AT      the                      Z5 
 0000066 340  NN2     contents                 A1.8+ Q2.1 
 0000066 350  IO      of                       Z5 
 0000066 360  AT      the                      Z5 
-0000066 370  NN2     laptops                  Y2 
+0000066 370  NN1     laptop                   Y2 
+0000066 371  GE      's                       Z5 
 0000066 380  NN2     emails                   Q1.3/Y2 
 0000066 381  .       .                        
 0000068 001  NULL    **8;7;text               

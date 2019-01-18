@@ -1,13 +1,13 @@
-TOTAL              486
+TOTAL              491
 the                  AT             44 
 of                   IO             17 
 and                  CC             15 
 to                   TO             13 
 will                 VM             12 
 six                  MC             11 
+world                NN1            11 
 be                   VBI            11 
 flags                NN2            10 
-world                NN1            10 
 in                   II             10 
 games                NN2             9 
 hunger               NN1             7 
@@ -16,11 +16,12 @@ for                  IF              7
 Panem                NP1             6 
 a                    AT1             6 
 Lionsgate            NP1             5 
-panem                NN1             5 
 fans                 NN2             5 
+'                    GE              4 
 great                JJ              4 
 adventure            NN1             4 
 entertainment        NN1             4 
+panem                NN1             4 
 guests               NN2             4 
 district_12          NN1             4 
 today                RT              3 
@@ -56,7 +57,7 @@ experience           NN1             2
 said                 VVD             2 
 our                  APPGE           2 
 do                   VD0             2 
-nt                   XX              2 
+n't                  XX              2 
 or                   CC              2 
 think                VV0             2 
 it                   PPH1            2 
@@ -66,6 +67,7 @@ news                 NN1             1
 earlier              RRR             1 
 that                 CST             1 
 go                   NN1             1 
+Panem'               NP1             1 
 located              VVN             1 
 NJ                   NP1             1 
 check_out            VV0             1 
@@ -85,7 +87,7 @@ an                   AT1             1
 expansion            NN1             1 
 New_Jersey           NP1             1 
 already              RR              1 
-worlds               NN2             1 
+'s                   GE              1 
 largest              JJT             1 
 making               VVG             1 
 room                 NN1             1 
@@ -129,7 +131,7 @@ attractions          NN2             1
 coming_to            VVG             1 
 include              VV0             1 
 mine                 NN1             1 
-train                NN1             1 
+train'               VVG             1 
 rollercoaster        NN1             1 
 Capitol_Tours        NP1             1 
 themselves           PPX2            1 

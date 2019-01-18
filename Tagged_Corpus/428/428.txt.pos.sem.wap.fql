@@ -1,14 +1,15 @@
-TOTAL              273
+TOTAL              275
 the                  AT             14 
 a                    AT1             8 
 of                   IO              5 
 he                   PPHS1           5 
-for                  IF              4 
 in                   II              4 
 is                   VBZ             4 
+i                    PPIS1           4 
 to                   TO              4 
 from                 II              4 
 his                  APPGE           4 
+for                  IF              3 
 ugly                 JJ              3 
 was                  VBDZ            3 
 beautifulpeople      NN1             3 
@@ -18,11 +19,10 @@ has                  VHZ             2
 online               JJ              2 
 move                 NN1             2 
 dating               NN1             2 
+Hintze               NP1             2 
 said                 VVD             2 
-nt                   XX              2 
+n't                  XX              2 
 that                 DD1             2 
-im                   VV0             2 
-i                    PPIS1           2 
 shower               NN1             2 
 its                  APPGE           2 
 service              NN1             2 
@@ -34,6 +34,7 @@ who                  PNQS            2
 hintze               NN1             2 
 career               NN1             2 
 with                 IW              2 
+'s                   GE              2 
 BeautifulPeople.com  NP1             1 
 Robert_Hintze        NP1             1 
 been                 VBN             1 
@@ -52,7 +53,6 @@ after                II              1
 97%                  NNU             1 
 users                NN2             1 
 gave                 VVD             1 
-Hintze               NP1             1 
 thumbs               NN2             1 
 down                 RP              1 
 voting               VVG             1 
@@ -75,9 +75,10 @@ makes                VVZ             1
 me                   PPIO1           1 
 nervous              JJ              1 
 because              CS              1 
-up                   RP              1 
+'m_up_for            VBM             1 
 vote                 NN1             1 
 next                 MD              1 
+'m                   VBM             1 
 most                 RGT             1 
 handsome             JJ              1 
 guy                  NN1             1 
@@ -114,7 +115,7 @@ wan                  VV0             1
 na                   TO              1 
 marry                VV0             1 
 Harry                NP1             1 
-s                    VBZ             1 
+'s                   VBZ             1 
 claims               VVZ             1 
 have                 VHI             1 
 rejected             VVN             1 
@@ -166,7 +167,6 @@ group                NN1             1
 work                 VVI             1 
 on                   II              1 
 image                NN1             1 
-hintzes              VVZ             1 
 musical              JJ              1 
 stalled              VVD             1 
 after                CS              1 
@@ -183,7 +183,7 @@ other                JJ              1
 middle_school        JJ              1 
 kids                 NN2             1 
 rendition            NN1             1 
-Madonnas             NP2             1 
+Madonna              NP1             1 
 like                 II              1 
 virgin               NN1             1 
 apparently           RR              1 

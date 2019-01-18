@@ -1,11 +1,12 @@
-TOTAL              721
-the                  AT             43 
+TOTAL              736
+the                  AT             42 
 a                    AT1            22 
 and                  CC             20 
 of                   IO             12 
 to                   TO             11 
 from                 II             10 
 at                   II             10 
+'s                   GE              9 
 in                   II              8 
 as                   CSA             7 
 kraken               NN1             7 
@@ -13,23 +14,25 @@ on                   II              7
 was                  VBDZ            7 
 it                   PPH1            7 
 is                   VBZ             6 
+there                EX              6 
 with                 IW              6 
 this                 DD1             5 
 movie                NN1             5 
 also                 RR              5 
+you                  PPY             4 
 monster              NN1             4 
 his                  APPGE           4 
-theres               NN2             4 
+film                 NN1             4 
+'s                   VBZ             4 
+creature             NN1             4 
 says                 VVZ             4 
 to                   II              4 
 p.m.                 RA              4 
-you                  PPY             3 
 he                   PPHS1           3 
-films                NN2             3 
-creature             NN1             3 
 sea                  NN1             3 
 that                 DD1             3 
 Sims                 NP1             3 
+they                 PPHS2           3 
 then                 RT              3 
 get                  VV0             3 
 festival             NN1             3 
@@ -37,10 +40,11 @@ will                 VM              3
 guitar               NN1             3 
 go                   VV0             2 
 release              VV0             2 
-weekends             NNT2            2 
+'ll                  VM              2 
 titans               NN2             2 
 gods                 NN2             2 
 Zeus                 NP1             2 
+beast                NN1             2 
 does                 VDZ             2 
 how                  RRQ             2 
 including            II              2 
@@ -51,14 +55,12 @@ one                  MC1             2
 squid                NN              2 
 hulk                 NN1             2 
 because              CS              2 
-there                EX              2 
 reference            NN1             2 
 original             JJ              2 
 1981                 MC              2 
 who                  PNQS            2 
 by                   II              2 
 wanted               VVD             2 
-they                 PPHS2           2 
 four                 MC              2 
 went                 VVD             2 
 through              II              2 
@@ -76,7 +78,6 @@ Thursday             NPD1            2
 week                 NNT1            2 
 Gen                  NNB             2 
 Art                  NP1             2 
-film                 NN1             2 
 its                  APPGE           2 
 your                 APPGE           2 
 tickets              NN2             2 
@@ -94,12 +95,11 @@ trumps               VVZ             1
 everything           PN1             1 
 else                 RR              1 
 out_there            RP              1 
-youll                VV0             1 
-hear                 VV0             1 
+hear                 VVI             1 
 my                   APPGE           1 
 lawyer               NN1             1 
 do                   VD0             1 
-nt                   XX              1 
+n't                  XX              1 
 make                 VVI             1 
 me                   PPIO1           1 
 turn                 NN1             1 
@@ -110,6 +110,7 @@ comparison           NN1             1
 skyscraper-size      JJ              1 
 mythical             JJ              1 
 released             VVN             1 
+weekend              NNT1            1 
 clash                NN1             1 
 starring_Sam         VVG             1 
 Worthington          NP1             1 
@@ -131,7 +132,6 @@ imagine              VVI             1
 nothing              PN1             1 
 good                 RR              1 
 comes_from           VVZ             1 
-beasts               NN2             1 
 liberation           NN1             1 
 not                  XX              1 
 use                  VVI             1 
@@ -206,7 +206,7 @@ designer             NN1             1
 Aaron_Sims           NP1             1 
 worked               VVN             1 
 director             NN1             1 
-Louis_Leterriers     NP1             1 
+Louis_Leterrier      NP1             1 
 incredible           JJ              1 
 first                MD              1 
 created              VVN             1 
@@ -215,8 +215,7 @@ legend               NN1             1
 Ray_Harryhausen      NP1             1 
 team                 NN1             1 
 update               VVI             1 
-creatures            NN2             1 
-look                 VV0             1 
+look                 NN1             1 
 while                CS              1 
 preserving           JJ              1 
 traits               NN2             1 
@@ -254,7 +253,6 @@ ultimately           RR              1
 wound_up             VVN             1 
 on-screen            JJ              1 
 tentacled            JJ              1 
-beast                NN1             1 
 turtle-like          JJ              1 
 mouth                NN1             1 
 full                 JJ              1 
@@ -278,7 +276,7 @@ choppers             NN2             1
 were                 VBDR            1 
 meant                VVN             1 
 recall               VVI             1 
-oceans               NN2             1 
+the_ocean            AT              1 
 most                 RGT             1 
 fearsome             JJ              1 
 Greenpeace           NP1             1 
@@ -311,12 +309,14 @@ author               NN1             1
 Ian_McEwan           NP1             1 
 solar                JJ              1 
 92nd_street          MD              1 
-Ys                   NP2             1 
+y                    ZZ221           1 
+'s                   ZZ222           1 
 poetry               NN1             1 
 center               NN1             1 
 Tuesday              NPD1            1 
 8                    MC              1 
 3                    MC              1 
+films                NN2             1 
 hand-in-hand         JJ              1 
 fiestas              NN2             1 
 weeklong             NN1             1 
@@ -346,7 +346,7 @@ right                RR              1
 Tanner_hall          NP1             1 
 Tatiana_von_Furstenberg NP1             1 
 yes                  UH              1 
-Dianes               NP2             1 
+Diane                NP1             1 
 daughter             NN1             1 
 others               NN2             1 
 use                  VV0             1 
@@ -378,7 +378,6 @@ pitting              VVG             1
 would-be             JJ              1 
 against              II              1 
 each_other           PPX221          1 
-theyll               NN1             1 
 judged               VVN             1 
 technical            JJ              1 
 merit                NN1             1 
@@ -435,7 +434,7 @@ owl                  NN1             1
 vintage              NN1             1 
 Birdhouse            NP1             1 
 jewelry              NN1             1 
-McClures             NP2             1 
+McClure              NP1             1 
 pickles              NN2             1 
 more                 DAR             1 
 hawk                 VVI             1 
@@ -443,6 +442,7 @@ crafty               JJ              1
 wares                NN2             1 
 yummy                JJ              1 
 snacks               NN2             1 
+weekends             NNT2            1 
 10                   MC              1 
 a.m.                 RA              1 
 brooklynflea.com     NNU             1 

@@ -1,12 +1,12 @@
-TOTAL              792
+TOTAL              801
 the                  AT             41 
 and                  CC             33 
 a                    AT1            24 
 of                   IO             16 
 in                   II             15 
+KAABOO               NP1            15 
 at                   II             13 
 for                  IF             13 
-KAABOO               NP1            11 
 with                 IW             11 
 is                   VBZ            11 
 an                   AT1            10 
@@ -18,6 +18,7 @@ its                  APPGE           7
 event                NN1             7 
 cowboys              NN2             7 
 stadium              NN1             7 
+'s                   GE              7 
 has                  VHZ             7 
 will                 VM              6 
 brand                NN1             6 
@@ -46,7 +47,6 @@ energy               NN1             3
 on                   II              3 
 partnership          NN1             3 
 as                   CSA             3 
-KAABOOs              NP2             3 
 festival             NN1             3 
 international        JJ              3 
 multi-day            JJ              3 
@@ -56,6 +56,7 @@ mar                  VV0             3
 more                 DAR             3 
 visit                VV0             3 
 Arlington            NP1             2 
+San_Diego            NP1             2 
 recently             RR              2 
 announced            VVN             2 
 destination          NN1             2 
@@ -71,6 +72,7 @@ libations            NN2             2
 curated              JJ              2 
 host                 NN1             2 
 amenities            NN2             2 
+'                    GE              2 
 as                   II              2 
 world                NN1             2 
 both                 DB2             2 
@@ -110,7 +112,6 @@ entering             VVG             1
 into                 II              1 
 fourth_year          MD              1 
 successful           JJ              1 
-San_Diego            NP1             1 
 continues            VVZ             1 
 time                 NNT1            1 
 coming_to            VVG             1 
@@ -122,7 +123,6 @@ legendary            JJ              1
 will                 NN1             1 
 debut                NN1             1 
 May_2019             NPM1            1 
-kaaboos              NN2             1 
 distinctive          JJ              1 
 provides             VVZ             1 
 five-star            JJ              1 
@@ -213,7 +213,7 @@ February_2011        NPM1            1
 ncaa                 NN1             1 
 final                NN1             1 
 four                 MC              1 
-mens                 NN2             1 
+men                  NN2             1 
 basketball           NN1             1 
 April_2014           NPM1            1 
 college              NN1             1 
@@ -352,7 +352,6 @@ located              VVN             1
 Del                  NP1             1 
 racetrack            NN1             1 
 celebrated           VVN             1 
-San_Diegos           NP1             1 
 largest              JJT             1 
 set                  VV0             1 
 September            NPM1            1 
@@ -362,7 +361,7 @@ Mar                  NPM1            1
 was                  VBDZ            1 
 nominated            VVN             1 
 pollstar             NN1             1 
-magazines            NN2             1 
+magazine             NN1             1 
 2017                 MC              1 
 only                 RR              1 
 third_year           MD              1 
@@ -390,7 +389,7 @@ high                 JJ              1
 found                VVN             1 
 home_base            NN1             1 
 celebrates           VVZ             1 
-elevated             VVD             1 
+elevated             JJ              1 
 lone                 JJ              1 
 star_state           NN1             1 
 www.kaabootexas.com  NNU             1 

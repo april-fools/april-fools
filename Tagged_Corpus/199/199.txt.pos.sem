@@ -1,7 +1,8 @@
 0000001 001  NULL    **6;0;START              
 0000001 002  -----   -----                    
-0000004 010  APPGE   Its                      Z8 
-0000004 020  NN1%    no                       S8- 
+0000004 010  PPH1    It                       Z8 
+0000004 011  VBZ     's                       A3+ Z5 
+0000004 020  AT      no                       Z6 
 0000004 030  NN1     secret                   A10- 
 0000004 040  CST     that                     Z5 Z8 
 0000004 050  RR      ever                     T2++[i1.2.1 T1.1 N6+++ A13 
@@ -45,8 +46,9 @@
 0000004 390  DA2     few                      T1.1.1[i3.3.2 N5- 
 0000004 400  NNT2    days                     T1.1.1[i3.3.3 T1.3 
 0000004 401  ,       ,                        
-0000004 410  NN1     weve                     Z99 
-0000004 420  VVD     received                 A9+ S5+ 
+0000004 410  PPIS2   we                       Z8 
+0000004 411  VH0     've                      Z5 A9+ A2.2 
+0000004 420  VVN     received                 A9+ S5+ 
 0000004 430  DA2     several                  N5 
 0000004 440  NN1     spy                      G3/S2mf 
 0000004 450  VVZ     reports                  Q2.2 S7.1- 
@@ -76,7 +78,8 @@
 0000004 670  VVI     leak                     M1[i4.2.1 A10+[i4.2.1 A1.7- A1.1.2 A10+/Q2.2 
 0000004 680  RP      out                      M1[i4.2.2 A10+[i4.2.2 M6 
 0000004 690  CC      and                      Z5 
-0000004 700  APPGE   its                      Z8 
+0000004 700  PPH1    it                       Z8 
+0000004 701  VBZ     's                       A3+ Z5 
 0000004 710  RR      officially               G1.1 S7.4+ 
 0000004 720  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000004 730  TO      to                       Z5 
@@ -151,9 +154,10 @@
 0000007 510  VH0     have                     Z5 A9+ A2.2 S4 
 0000007 520  VVN     gathered                 S5+ A9+ N5+/A2.1 X2.5+ A1.1.1% 
 0000007 530  II      from                     Z5 
-0000007 540  VVG     talking                  Q2.1 
+0000007 540  NN1     talking                  Q2.1 
 0000007 550  II      to                       Z5 
-0000007 560  NN2     P.A.s                    K4 
+0000007 560  NN1     P.A.                     I2.1/S2mf 
+0000007 561  GE      's                       Z5 
 0000007 570  CC      and                      Z5 
 0000007 580  NN1     Craft                    C1 I3.1 X9.1+ M4fn 
 0000007 590  NN2     Services                 S8+ S7.1- A1.1.1 S9 G3@ G2.1@ M3/M7@ 
@@ -318,8 +322,9 @@
 0000009 650  II      into                     Z5 
 0000009 660  AT      the                      Z2[i24.2.1 Z5 
 0000009 670  NN1     ocean                    Z2[i24.2.2 W3/M4 
-0000009 680  APPGE   its                      Z8 
-0000009 690  JJ%     said                     Q1.1 Q2.1 
+0000009 680  PPH1    it                       Z8 
+0000009 681  VBZ     's                       Z5 A3+ 
+0000009 690  VVN@    said                     Q2.1 
 0000009 700  TO      to                       Z5 
 0000009 710  VBI     be                       A3+ Z5 
 0000009 720  AT1     a                        Z5 
@@ -356,7 +361,8 @@
 0000009 020  NN1     sea                      W3/M4 
 0000009 021  .       .                        
 0000010 001  -----   -----                    
-0000011 010  VV0     Weve                     Z99 
+0000011 010  PPIS2   We                       Z8 
+0000011 011  VH0     've                      Z5 A9+ A2.2 
 0000011 020  RR      also                     N5++ 
 0000011 030  VVN     heard                    X3.2 X2.3+ G2.1@ 
 0000011 040  CST     that                     Z5 Z8 
@@ -489,7 +495,8 @@
 0000015 170  RR      yet                      T1.1.2 
 0000015 171  ,       ,                        
 0000015 180  CCB     but                      Z5 
-0000015 190  VBDR    were                     Z5 A3+ 
+0000015 190  PPIS2   we                       Z8 
+0000015 191  VBR     're                      Z5 A3+ 
 0000015 200  VVG     hearing                  X3.2 X2.3+ G2.1@ 
 0000015 210  DD1     this                     Z8 M6 Z5 
 0000015 220  II      from                     Z5 

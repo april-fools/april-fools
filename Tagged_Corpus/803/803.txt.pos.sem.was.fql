@@ -1,10 +1,10 @@
-TOTAL              335
+TOTAL              339
 the                  Z5                  37 
 and                  Z5                  14 
 of                   Z5                  13 
 to                   Z5                  13 
-team                 S5+                 10 
-car                  M3                  10 
+team                 S5+                 12 
+car                  M3                  11 
 hp                   Z3                   8 
 for                  Z5                   7 
 luczo                Z99                  5 
@@ -19,6 +19,7 @@ using                A1.5.1               3
 technology           Y1                   3 
 every                N5.1+                3 
 a                    Z5                   3 
+'s                   Z5                   3 
 will                 T1.1.3               3 
 in                   Z5                   3 
 is                   A3+                  3 
@@ -29,11 +30,9 @@ is                   Z5                   2
 at                   Z5                   2 
 hp                   I2.2                 2 
 design               C1                   2 
-cars                 M3                   2 
 from                 Z5                   2 
 telemetry            Q1.3                 2 
 engine               O2                   2 
-teams                S5+                  2 
 during               Z5                   2 
 be                   A3+                  2 
 aspect               A4.1                 2 
@@ -55,6 +54,7 @@ officejet            Z99                  1
 printers             Q1.2                 1 
 are                  Z5                   1 
 used_to              T1.1.1               1 
+cars                 M3                   1 
 manage               S7.1+                1 
 everything           Z8                   1 
 Raphael_Matos        Z1                   1 
@@ -153,7 +153,8 @@ it                   Z8                   1
 critical             Q2.2                 1 
 analyze              X2.4                 1 
 information          X2.2+                1 
-theyre               Z99                  1 
+they                 Z8                   1 
+'re                  Z5                   1 
 receiving            A9+                  1 
 sensors              O3                   1 
 immediately          N3.8+                1 

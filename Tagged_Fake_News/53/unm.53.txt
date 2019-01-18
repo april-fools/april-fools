@@ -8,6 +8,8 @@ Obama                    NP1     Z99
 Obama                    NP1@    Z99 
 Platte                   NP1     Z99 
 Podesta                  NP1     Z99 
+president'               NN1     Z99 
+private'                 JJ      Z99 
 State.gov                NP1     Z99 
 subpoena                 NN1     Z99 
 subpoenaed               VVN     Z99 

@@ -1,4 +1,4 @@
-TOTAL              687
+TOTAL              702
 the                  AT             51 
 and                  CC             24 
 band                 NN1            16 
@@ -11,27 +11,29 @@ of                   IO             11
 partridge            NN             10 
 songs                NN2            10 
 family               NN1            10 
+'s                   GE             10 
 with                 IW              9 
+game                 NN1             8 
 will                 VM              8 
 be                   VBI             7 
-game                 NN1             7 
+we                   PPIS2           7 
+show                 NN1             7 
 for                  IF              6 
 on                   II              6 
-shows                NN2             5 
 they                 PPHS2           4 
 their                APPGE           4 
 so                   RG              4 
 more                 DAR             4 
 than                 CSN             4 
 first                MD              4 
-get                  VV0             4 
-games                NN2             4 
-we                   PPIS2           4 
 to                   II              4 
 was                  VBDZ            3 
-were                 VBDR            3 
+it                   PPH1            3 
 come_on              VV0             3 
+get                  VV0             3 
 happy                JJ              3 
+MTV                  NP1             3 
+games                NN2             3 
 HARMONIX             NP1             3 
 entertainment        NN1             3 
 music                NN1             3 
@@ -41,6 +43,7 @@ from                 II              3
 artists              NN2             3 
 fans                 NN2             3 
 never                RR              2 
+were                 VBDR            2 
 my                   APPGE           2 
 did                  VDD             2 
 hearing              VVG             2 
@@ -50,7 +53,6 @@ want                 VV0             2
 that                 DD1             2 
 said                 VVD             2 
 familiar             JJ              2 
-it                   PPH1            2 
 soon                 RR              2 
 half                 NN1             2 
 next_year            MD              2 
@@ -61,9 +63,9 @@ you                  PPY             2
 this                 DD1             2 
 ARISTA               NP1             2 
 records              NN2             2 
-MTV                  NP1             2 
 SONY                 NP1             2 
 musical              JJ              2 
+sitcom               NN1             2 
 fortieth             MD              2 
 anniversary          NN1             2 
 1                    MC1             2 
@@ -71,13 +73,13 @@ together             RL              2
 music-based          JJ              2 
 part                 NN1             2 
 television           NN1             2 
-show                 NN1             2 
 David_Cassidy        NP1             2 
 as                   II              2 
 kids                 NN2             2 
 have                 VHI             2 
 video                NN1             2 
 players              NN2             2 
+like                 CS              2 
 favorite             JJ              2 
 bands                NN2             2 
 Danny_Bonaduce       NP1             2 
@@ -86,7 +88,6 @@ xbox                 NN1             2
 360                  MC              2 
 playstation3         FO              2 
 giving               VVG             2 
-its                  APPGE           2 
 been                 VBN             2 
 at                   II              2 
 albums               NN2             2 
@@ -112,8 +113,9 @@ them                 PPHO2           1
 loud                 JJ              1 
 often                RR              1 
 house                NN1             1 
-couldnt              VV0             1 
-help                 NN1             1 
+could                VM              1 
+n't                  XX              1 
+help                 VVI             1 
 but                  CCB             1 
 avoid                VVI             1 
 already              RR              1 
@@ -140,11 +142,11 @@ out                  RP              1
 later                RRR             1 
 year                 NNT1            1 
 do_you_think         VD0             1 
-well                 RR              1 
+'ll                  VM              1 
+get                  VVI             1 
 tambourine           NN1             1 
 pictures             NN2             1 
 announce             VV0             1 
-sitcom               NN1             1 
 featured             VVN             1 
 brand_new            JJ21            1 
 commemorating        VVG             1 
@@ -171,7 +173,7 @@ now                  RT              1
 along_with           II21            1 
 leading              JJ              1 
 developer            NN1             1 
-Viacoms_MTV          NP1             1 
+Viacom               NP1             1 
 networks             NN2             1 
 nyse                 NN1             1 
 via                  FW              1 
@@ -197,6 +199,7 @@ heartthrob           NN1             1
 Keith_partridge      NP1             1 
 role_models          NN1             1 
 70s                  MC2             1 
+'re                  VBR             1 
 hoping               VVG             1 
 same                 DA              1 
 impact               NN1             1 
@@ -204,7 +207,6 @@ gamers               NN2             1
 today                RT              1 
 sing_along           VVI             1 
 just                 RR              1 
-like                 CS              1 
 would                VM              1 
 featured             JJ              1 
 in-game              NN1             1 
@@ -218,8 +220,7 @@ Suzanne_Crough       NP1             1
 occasional           JJ              1 
 appearances          NN2             1 
 by                   II              1 
-Dave                 NP1             1 
-Madddens             NP2             1 
+Dave_Maddden         NP1             1 
 character            NN1             1 
 Reuben_Kincaid       NP1             1 
 title                NN1             1 
@@ -240,6 +241,7 @@ opportunity          NN1             1
 play                 VVI             1 
 2                    MC              1 
 upcoming             JJ              1 
+'s                   VBZ             1 
 complete             JJ              1 
 honor                NN1             1 
 us                   PPIO2           1 
@@ -256,7 +258,7 @@ great                JJ              1
 willing              JJ              1 
 bring                VVI             1 
 back                 RP              1 
-peoples              NN2             1 
+people               NN              1 
 homes                NN2             1 
 everyone             PN1             1 
 enjoy                VVI             1 
@@ -267,8 +269,7 @@ too                  RR              1
 makes                VVZ             1 
 me                   PPIO1           1 
 feel                 NN1             1 
-like                 NN1             1 
-were_back            VBDR            1 
+'re_back             VBR             1 
 playing              VVG             1 
 as_if                CS21            1 
 stopped              VVN             1 
@@ -277,7 +278,7 @@ catalog              NN1             1
 spanned              VVD             1 
 ten                  MC              1 
 during               II              1 
-run                  VV0             1 
+run                  NN1             1 
 including            II              1 
 hits                 NN2             1 
 such_as              II21            1 
@@ -293,13 +294,13 @@ mere                 JJ              1
 two                  MC              1 
 months               NNT2            1 
 after                II              1 
-sitcoms              NN2             1 
 premiere             NN1             1 
 managed              VVD             1 
 peak                 VVI             1 
 4                    MC              1 
 chart                NN1             1 
 included             VVN             1 
+its                  APPGE           1 
 entirety             NN1             1 
 disc                 NN1             1 
 stands               VVZ             1 

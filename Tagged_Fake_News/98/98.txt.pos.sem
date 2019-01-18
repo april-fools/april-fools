@@ -75,8 +75,10 @@
 0000013 110  NN2     generations              T1.3 S5+c 
 0000013 111  .       .                        
 0000014 001  -----   -----                    
-0000014 010  APPGE   Its                      Z8 
-0000014 020  NP2     Obamas                   Z99 
+0000014 010  PPH1    It                       Z8 
+0000014 011  VBZ     's                       A3+ Z5 
+0000014 020  NP1     Obama                    Z99 
+0000014 021  GE      's                       Z5 
 0000014 030  NN1     fault                    A5.3- A2.2 W3% 
 0000014 031  .       .                        
 0000015 001  -----   -----                    
@@ -97,7 +99,8 @@
 0000016 150  NN2     Americans                Z2/S2mf 
 0000016 160  IF      for                      Z5 
 0000016 170  APPGE   his                      Z8m 
-0000016 180  NN2     partys                   K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c 
+0000016 180  NN1     party                    K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c 
+0000016 181  GE      's                       Z5 
 0000016 190  NN2     woes                     E4.1- 
 0000016 191  .       .                        
 0000017 001  -----   -----                    
@@ -136,7 +139,8 @@
 0000019 261  .       .                        
 0000020 001  -----   -----                    
 0000021 010  CS      If                       Z7 
-0000021 020  VBDR    were                     A3+ Z5 
+0000021 020  PPIS2   we                       Z8 
+0000021 021  VBR     're                      A3+ Z5 
 0000021 030  XX      not                      Z6 
 0000021 040  RR      actually                 A1.1.1[i14.2.1 K4[i14.2.1 A5.4+ A14 
 0000021 050  RP      out                      A1.1.1[i14.2.2 K4[i14.2.2 M6 M6[i15.2.1 
@@ -160,8 +164,9 @@
 0000021 220  NN2     communities              S5+ 
 0000021 221  ,       ,                        
 0000021 230  DDQ     what                     Z8 Z5 
-0000021 240  NN1     theyre                   Z99 
-0000021 250  NN1     hearing                  B1/X3.2 G2.1 
+0000021 240  PPHS2   they                     Z8mfn 
+0000021 241  VBR     're                      Z5 A3+ 
+0000021 250  VVG     hearing                  X3.2 X2.3+ G2.1@ 
 0000021 260  VBZ     is                       A3+ Z5 
 0000021 270  NP1     Obama                    Z99 
 0000021 280  VVZ     wants                    X7+ S6+ A7+ S3.2 A9- 
@@ -198,9 +203,10 @@
 0000021 530  NN1     problem                  A12- X4.1 N2 B2- 
 0000021 540  VBDZ    was                      A3+ Z5 
 0000021 550  PPY     you                      Z8mf 
-0000021 560  VV0     couldnt                  Z99 
+0000021 560  VM      could                    A7+ 
+0000021 561  XX      n't                      Z6 
 0000021 570  RR      mindlessly               S1.2.6- X5.2- 
-0000021 580  VV0     brainwash                X4.1/A2.1+ 
+0000021 580  VVI     brainwash                X4.1/A2.1+ 
 0000021 590  AT      the                      Z5 
 0000021 600  NN1     country                  G1.1c W3 F4/M7 K2 
 0000021 610  NN1     Barack                   Z99 

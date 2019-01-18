@@ -1,14 +1,14 @@
-TOTAL             1515
+TOTAL             1526
 you                  Z8                  77 
 the                  Z5                  60 
 to                   Z5                  45 
 a                    Z5                  38 
 and                  Z5                  36 
 your                 Z8                  30 
+it                   Z8                  29 
 will                 T1.1.3              28 
 is                   A3+                 27 
 for                  Z5                  25 
-it                   Z8                  24 
 of                   Z5                  22 
 if                   Z7                  19 
 are                  A3+                 19 
@@ -16,6 +16,7 @@ in                   Z5                  17
 all                  N5.1+               14 
 modeling             A5.4-               13 
 have                 A9+                 12 
+n't                  Z6                   8 
 models               O2                   8 
 this                 Z8                   8 
 photographer         C1                   8 
@@ -33,7 +34,6 @@ be                   A3+                  6
 are                  Z5                   6 
 not                  Z6                   6 
 as                   Z5                   6 
-its                  Z8                   6 
 agencies             I2.2                 6 
 including            A1.8+                5 
 fashion              B5                   5 
@@ -44,6 +44,7 @@ do                   Z5                   5
 even                 A13.1                5 
 pictures             C1                   5 
 with                 Z5                   5 
+'s                   A3+                  5 
 be                   Z5                   5 
 should               S6+                  5 
 an                   Z5                   5 
@@ -58,7 +59,7 @@ ask                  Q2.2                 4
 that                 Z8                   4 
 great                A5.1+                4 
 need                 S6+                  4 
-cant                 Q2.1                 4 
+ca                   A7+                  4 
 how                  Z5                   4 
 someone              Z8                   4 
 top                  M6                   4 
@@ -67,6 +68,7 @@ model                O2                   4
 really               A13.3                4 
 may                  A7+                  4 
 way                  X4.2                 4 
+manager              S7.1+                4 
 say                  Q2.1                 4 
 following            N4                   3 
 nudes                B5-                  3 
@@ -82,7 +84,6 @@ that                 Z5                   3
 only                 A14                  3 
 thing                O2                   3 
 which                Z8                   3 
-nt                   S9                   3 
 part                 N5.1-                3 
 at                   Z5                   3 
 look                 A8                   3 
@@ -111,7 +112,6 @@ escorts              S3.1                 3
 he                   Z8                   3 
 shoot                K5.1                 3 
 them                 Z8                   3 
-manager              S7.1+                3 
 see                  X3.4                 3 
 beauty               O4.2+                3 
 bring                M2                   3 
@@ -145,6 +145,7 @@ multiple             N5+                  2
 give                 A9-                  2 
 jobs                 I3.1                 2 
 expenses             I1.3                 2 
+'s                   Z5                   2 
 check                X2.4                 2 
 might                A7+                  2 
 work                 I3.1                 2 
@@ -251,7 +252,7 @@ traveling            M1                   1
 priority             A11.1+               1 
 any                  N5                   1 
 usually              A6.2+                1 
-cashiers             I1                   1 
+cashier              I1                   1 
 hotel                H4                   1 
 airfare              I1.3                 1 
 permit               S7.4+                1 
@@ -281,6 +282,7 @@ over                 Z5                   1
 arms                 B1                   1 
 make_up_for          S1.1.2+              1 
 natural              A6.2+                1 
+its                  Z8                   1 
 slimmest             N3.5-                1 
 approximately        A13.4                1 
 2                    N1                   1 
@@ -367,7 +369,7 @@ lots                 N5+                  1
 through              Z5                   1 
 new                  T3-                  1 
 get_on               S3.1                 1 
-wont                 A6.2+                1 
+wo                   T1.1.3               1 
 anything_but         Z6                   1 
 lead_to              A2.2                 1 
 things               O2                   1 
@@ -508,7 +510,6 @@ wings                L2                   1
 become               A2.1+                1 
 scenario             K4                   1 
 hope                 X2.6+                1 
-managers             S7.1+                1 
 of_course            Z4                   1 
 required             X7+                  1 
 nude                 B5-                  1 
@@ -599,8 +600,7 @@ a_little             A13.6                1
 know                 X2.2+                1 
 come_in              M1                   1 
 challenge            A6.1-                1 
-no                   S8-                  1 
-big_deal             A11.1+               1 
+no_big_deal          A11.1-               1 
 goes                 M1                   1 
 started              T2+                  1 
 views                X2.1                 1 

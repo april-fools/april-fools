@@ -1,7 +1,9 @@
-TOTAL              121
+TOTAL              124
 the                  AT              5 
 to                   TO              4 
 a                    AT1             4 
+'s                   VBZ             3 
+it                   PPH1            3 
 celebrities          NN2             2 
 to                   II              2 
 of                   IO              2 
@@ -10,9 +12,8 @@ he                   PPHS1           2
 if                   CS              2 
 i                    PPIS1           2 
 do                   VD0             2 
-nt                   XX              2 
+n't                  XX              2 
 America              NP1             2 
-it                   PPH1            2 
 and                  CC              2 
 trump                NN1             2 
 these                DD2             1 
@@ -28,7 +29,6 @@ Rev.                 NNB             1
 Al_Sharpton          NP1             1 
 has                  VHZ             1 
 said                 VVN             1 
-s                    VBZ             1 
 reserving            VVG             1 
 my                   APPGE           1 
 ticket               NN1             1 
@@ -36,15 +36,15 @@ get                  VVI             1
 out_of               II21            1 
 here                 RL              1 
 wins                 VVZ             1 
-views                NN2             1 
+view                 NN1             1 
+'s                   GE              1 
 Whoopi_Goldberg      NP1             1 
 said                 VVD             1 
 think                VVI             1 
-thats                NN2             1 
+that                 DD1             1 
 want                 VVI             1 
 be                   VBI             1 
 maybe                RR              1 
-its                  APPGE           1 
 time                 NNT1            1 
 for                  IF              1 
 me                   PPIO1           1 

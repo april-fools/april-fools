@@ -15,12 +15,10 @@ Monetisation             NP1@    Z99
 MySpace                  NP1     Z99 
 republishing             NN1@    Z99 
 second-most              RGT     Z99 
-theyd                    VV0     Z99 
 tweet                    NN1     Z99 
 tweets                   NN2     Z99 
 tweets                   VVZ     Z99 
 Twitter                  NN1     Z99 
 Twitter                  VV0     Z99 
-Twitters                 NN2     Z99 
 user-pays                VVZ     Z99 
 userbase                 NN1     Z99 

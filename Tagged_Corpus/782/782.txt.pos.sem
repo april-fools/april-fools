@@ -7,12 +7,14 @@
 0000002 050  TO      to                       Z5 
 0000002 060  VVI     honour                   S7.2+ 
 0000002 070  NN2     WikiLeaks                Z99 
-0000002 080  NN2     founders                 T2+/S2mf 
+0000002 080  NN1     founder                  T2+/S2mf 
+0000002 081  GE      's                       Z5 
 0000002 090  NN1     asylum                   G1.1 B3/H1c 
 0000002 100  CCB     but                      Z5 
-0000002 110  VVZ     Assanges                 Z99 
+0000002 110  NP1     Assange                  Z99 
+0000002 111  GE      's                       Z5 
 0000002 120  JJ      cordial                  S1.2.1+ 
-0000002 130  NN1     invitation               Q2.2 
+0000002 130  NN1     invitation'              Z99 
 0000002 140  IF      for                      Z5 
 0000002 150  NN1     election                 G1.2/X7+ 
 0000002 160  NN1     loser                    X9.2-/S2mf 
@@ -35,7 +37,8 @@
 0000004 100  II      by                       Z5 
 0000004 110  JJ      new                      T3- 
 0000004 120  NN1     president                G1.1/S7.1+/S2mf 
-0000006 010  NP2     Ecuadors                 Z2 
+0000006 010  NP1     Ecuador                  Z2 
+0000006 011  GE      's                       Z5 
 0000006 020  NNB     president-elect          G1.1/S7.1+/S2mf 
 0000006 021  ,       ,                        
 0000006 030  NP1     Lenn                     Z1mf[i4.2.1 Z3c[i4.2.1 
@@ -50,7 +53,8 @@
 0000006 110  VVI     meddle                   S1.1.3+++ 
 0000006 120  II      in                       Z5 
 0000006 130  AT      the                      Z5 
-0000006 140  NN2     countrys                 G1.1c W3 F4/M7 K2 
+0000006 140  NN1     country                  G1.1c W3 F4/M7 K2 
+0000006 141  GE      's                       Z5 
 0000006 150  NN1     politics                 G1.2c 
 0000006 160  II      after                    Z5 
 0000006 170  AT      the                      Z5 
@@ -65,7 +69,8 @@
 0000006 260  NN1     loss                     I1.2 A9- S8- L1- 
 0000006 261  .       .                        
 0000007 001  -----   -----                    
-0000010 010  NP1@    Morenos                  Z99 
+0000010 010  NP1@    Moreno                   Z99 
+0000010 011  GE      's                       Z5 
 0000010 020  NN1     election                 G1.2/X7+ 
 0000010 030  NN1     victory                  X9.2+ 
 0000010 040  II      on                       Z5 
@@ -82,7 +87,8 @@
 0000010 140  VVN     holed                    A1.1.1 K5.2 A1.1.2/G3 
 0000010 150  RP      up                       Z5 X9.1+ M6 N4 N5++ T2- A1.1.1 N5+/A2.1 
 0000010 160  II      in                       Z5 
-0000010 170  NP2     Ecuadors                 Z2 
+0000010 170  NP1     Ecuador                  Z2 
+0000010 171  GE      's                       Z5 
 0000010 180  NP1     London                   Z2 
 0000010 190  NN1     embassy                  G1.1c 
 0000010 200  II      since                    Z5 
@@ -94,7 +100,8 @@
 0000011 001  -----   -----                    
 0000012 010  AT      The                      Z5 
 0000012 020  JJ      socialist                G1.2 
-0000012 030  NN2     president-elects         G1.1/S7.1+/S2mf 
+0000012 030  NNB     president-elect          G1.1/S7.1+/S2mf 
+0000012 031  GE      's                       Z5 
 0000012 040  JJ      conservative             G1.2 A6.2+ A1.3+ A9+ 
 0000012 050  NN1     rival                    S7.3+/S2mf 
 0000012 051  ,       ,                        
@@ -125,7 +132,8 @@
 0000014 110  NN1     Twitter                  Z99 
 0000014 120  TO      to                       Z5 
 0000014 130  VVI     celebrate                E4.1+ S9 
-0000014 140  NP1     Lassos                   Z99 
+0000014 140  NP1     Lasso                    Z99 
+0000014 141  GE      's                       Z5 
 0000014 150  NN1     loss                     I1.2 A9- S8- L1- 
 0000014 151  .       .                        
 0000016 001  NULL    <quote>                  
@@ -175,7 +183,8 @@
 0000018 110  RP      around                   M1[i15.2.2 M2[i15.2.2 A2.1+[i15.2.2 M6 
 0000018 120  AT      the                      Z5 
 0000018 130  JJ      rightwing                G1.2 
-0000018 140  NN2     candidates               G1.2/S2mf I3.1/S2mf P1/S2mf A7+ A1.2+ 
+0000018 140  NN1     candidate                G1.2/S2mf I3.1/S2mf P1/S2mf A7+ A1.2+ 
+0000018 141  GE      's                       Z5 
 0000018 150  NN1     threat                   E3-/Q2.2 A15- X2.6+/O4.2- A7+ 
 0000018 160  TO      to                       Z5 
 0000018 170  VVI     expel                    P1/G2.1 M2 
@@ -282,7 +291,8 @@
 0000024 350  MC      2010                     N1 T1.2 T3 T1.3 N3.2 
 0000024 351  .       .                        
 0000025 001  -----   -----                    
-0000026 010  NP2     Ecuadors                 Z2 
+0000026 010  NP1     Ecuador                  Z2 
+0000026 011  GE      's                       Z5 
 0000026 020  JJ      outgoing                 S1.2.1+ T2- 
 0000026 030  NN1     president                G1.1/S7.1+/S2mf 
 0000026 031  ,       ,                        
@@ -308,7 +318,8 @@
 0000026 210  PPH1    it                       Z8 
 0000026 211  .       .                        
 0000027 001  -----   -----                    
-0000028 010  NP1@    Assanges                 Z99 
+0000028 010  NP1@    Assange                  Z99 
+0000028 011  GE      's                       Z5 
 0000028 020  NN1     case                     A4.1 O2 G2.1 B3 X4.1 Q3 
 0000028 030  VHZ     has                      Z5 A9+ A2.2 S4 
 0000028 040  VVN     returned                 M1 A9- N6 
@@ -337,8 +348,9 @@
 0000028 270  II      from                     Z5 
 0000028 280  JJ      presidential             G1.1/S7.1+ 
 0000028 290  NN1     candidate                G1.2/S2mf I3.1/S2mf P1/S2mf A7+ A1.2+ 
-0000028 300  NP1     Hillary                  Z99 
-0000028 310  NP2     Clintons                 Z1mf 
+0000028 300  NP1     Hillary                  Z1mf[i22.2.1 Z3c[i22.2.1 
+0000028 310  NP1     Clinton                  Z1mf[i22.2.2 Z3c[i22.2.2 Z1mf 
+0000028 311  GE      's                       Z5 
 0000028 320  NN1     campaign                 X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 G3 
 0000028 330  CC      and                      Z5 
 0000028 340  APPGE   her                      Z8f 
@@ -361,7 +373,8 @@
 0000030 120  II      by                       Z5 
 0000030 130  RR      temporarily              T1.3 
 0000030 140  VVG     restricting              A1.7+ 
-0000030 150  NP1     Assanges                 Z99 
+0000030 150  NP1     Assange                  Z99 
+0000030 151  GE      's                       Z5 
 0000030 160  NN1     internet                 Y2 
 0000030 170  NN1     access                   M1 A9+ A1.1.1 
 0000030 171  .       .                        

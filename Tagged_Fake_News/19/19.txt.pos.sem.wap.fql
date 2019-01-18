@@ -1,4 +1,4 @@
-TOTAL              451
+TOTAL              454
 the                  AT             32 
 to                   TO             16 
 Sanders              NP1            15 
@@ -7,10 +7,10 @@ of                   IO             11
 that                 CST             9 
 independent          JJ              9 
 an                   AT1             8 
+campaign             NN1             7 
 in                   II              6 
 democratic           JJ              6 
 a                    AT1             5 
-campaign             NN1             5 
 run                  VVI             5 
 as                   II              5 
 this                 DD1             5 
@@ -32,6 +32,7 @@ for                  IF              3
 have                 VH0             3 
 candidate            NN1             3 
 against              II              3 
+'s                   GE              3 
 with                 IW              3 
 polling              NN1             3 
 by                   II              3 
@@ -46,9 +47,9 @@ time                 NNT1            2
 convention           NN1             2 
 nominee              NN1             2 
 Donald_trump         NP1             2 
+Hillary_Clinton      NP1             2 
 were                 VBDR            2 
 his                  APPGE           2 
-campaigns            NN2             2 
 actions              NN2             2 
 could                VM              2 
 Clinton              NP1             2 
@@ -71,6 +72,7 @@ cycle                NN1             1
 all                  DB              1 
 across               II              1 
 country              NN1             1 
+'                    GE              1 
 core                 NN1             1 
 infrastructure       NN1             1 
 volunteers           NN2             1 
@@ -112,15 +114,12 @@ putting              VVG             1
 position             NN1             1 
 being                VBG             1 
 able                 JK              1 
-Hillary_Clinton      NP1             1 
 as                   CSA             1 
 evidence             NN1             1 
 point                VV0             1 
 disastrously         RR              1 
 impact               VVI             1 
 frontrunner          NN1             1 
-Hillary              NP1             1 
-Clintons             NP2             1 
 ability              NN1             1 
 win                  VVI             1 
 presumptive          JJ              1 

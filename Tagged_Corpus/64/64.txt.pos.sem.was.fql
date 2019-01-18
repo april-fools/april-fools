@@ -1,4 +1,4 @@
-TOTAL              304
+TOTAL              307
 the                  Z5                  21 
 and                  Z5                  12 
 in                   Z5                   9 
@@ -20,6 +20,7 @@ is                   A3+                  3
 that                 Z8                   3 
 on                   Z5                   2 
 an                   Z5                   2 
+were                 Z5                   2 
 included             A1.8+                2 
 representatives      Q2.1                 2 
 Brazil               Z2                   2 
@@ -35,6 +36,8 @@ common               A6.2+                2
 other                A6.1-                2 
 speaking             Q2.1                 2 
 it                   Z8                   2 
+Mexico               Z2                   2 
+'s                   Z5                   2 
 vocabulary           Q3                   2 
 adopted              A9+                  2 
 Friday               T1.3                 1 
@@ -56,7 +59,6 @@ galician             Z99                  1
 basque               Z2                   1 
 spoken               Q2.1                 1 
 northwestern_Spain   Z2                   1 
-were                 Z5                   1 
 prominent            A11.1+               1 
 official             G1.1                 1 
 catalonian           Z99                  1 
@@ -119,8 +121,7 @@ hispanophone         Z99                  1
 embrace              S3.2                 1 
 progressive          G1.2                 1 
 thinking             X2.1                 1 
-Mexico               Z2                   1 
-worlds               W1                   1 
+world                W1                   1 
 largest              N3.2+++              1 
 country              G1.1                 1 
 in_terms_of          Z5                   1 
@@ -130,7 +131,6 @@ great                A5.1+                1
 impact               A2.2                 1 
 success              X9.2+                1 
 measure              N3.1                 1 
-Mexicos              Z2                   1 
 national             Z3                   1 
 autonomous           S5-                  1 
 university           P1                   1 
@@ -145,7 +145,7 @@ next_week            T1.1.3               1
 interesting          X5.2+                1 
 note                 Q2.1                 1 
 they                 Z8                   1 
-werent               Z99                  1 
+n't                  Z6                   1 
 original             T3-                  1 
 estimated            X6                   1 
 88%                  N5                   1 

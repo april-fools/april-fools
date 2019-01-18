@@ -59,7 +59,8 @@
 0000006 210  AT      the                      Z5 
 0000006 220  NN1     desert                   W3 
 0000006 230  IF      for                      Z5 
-0000006 240  NPD2    Sundays                  T1.3 
+0000006 240  NPD1    Sunday                   T1.3 
+0000006 241  GE      's                       Z5 
 0000006 250  NP1     Bahrain                  Z2 
 0000006 260  NN121   Grand                    K5.1/M3[i13.2.1 N1 I1 
 0000006 270  NN122   Prix                     K5.1/M3[i13.2.2 Z3 
@@ -139,6 +140,7 @@
 0000010 200  II      in                       Z5 
 0000010 210  AT      the                      Z5 
 0000010 220  NN2     drivers                  M3/S2mf O2 
+0000010 221  GE      '                        Z5 
 0000010 230  NN1     championship             K5/S7.3+ S7.1+/K5 S8+@ 
 0000010 240  CC      and                      Z5 
 0000010 250  VV0     leave                    M1 M2 A1.1.1 A1.9 A9- T2- 
@@ -311,8 +313,9 @@
 0000018 490  MC      2013                     N1 T1.2 T3 T1.3 N3.2 
 0000018 491  .       .                        
 0000019 001  -----   -----                    
-0000020 010  NP2     Hamiltons                Z1mf Z2 Z3c 
-0000020 020  VV0@    last                     T2++ T1.3 
+0000020 010  NP1     Hamilton                 Z1mf Z2 Z3c 
+0000020 011  GE      's                       Z5 
+0000020 020  MD      last                     N4 
 0000020 030  JJ      non-scoring              Z99 
 0000020 040  NN1     race                     K5.1 S7.3+ S5+c 
 0000020 050  VVD     came                     E3-[i25.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
@@ -556,7 +559,7 @@
 0000034 320  CST     that                     Z8 Z5 
 0000034 330  PPIS2   we                       Z8 
 0000034 340  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000034 341  XX      nt                       S9/Q4.1 Z3c 
+0000034 341  XX      n't                      Z6 
 0000034 350  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
 0000034 360  AT1     a                        Z5 
 0000034 370  JJ      similar                  A6.1+ 
@@ -640,7 +643,8 @@
 0000042 100  CC      and                      Z5 
 0000042 110  VVZ     hopes                    X2.6+ E4.1+ X9.2+ A5.1+ 
 0000042 120  APPGE   his                      Z8m 
-0000042 130  NN2     cars                     M3fn 
+0000042 130  NN1     car                      M3fn 
+0000042 131  GE      's                       Z5 
 0000042 140  JJ      new                      T3- 
 0000042 150  NP1     Renault                  Z3c 
 0000042 160  NN1     power                    S7.1+ O3 S1.2.5+ N2@ 

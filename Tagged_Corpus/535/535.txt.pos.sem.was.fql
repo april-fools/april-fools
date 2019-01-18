@@ -1,8 +1,9 @@
-TOTAL             1115
+TOTAL             1142
 the                  Z5                  74 
 and                  Z5                  37 
 to                   Z5                  31 
 of                   Z5                  31 
+'s                   Z5                  20 
 in                   Z5                  17 
 political            G1.2                17 
 a                    Z5                  14 
@@ -12,33 +13,34 @@ american             Z2                  11
 that                 Z5                  10 
 with                 Z5                  10 
 was                  A3+                 10 
+Sinclair             Z1                   9 
 commentary           Q2.1                 9 
 broadcast            Q4.3                 8 
 on                   Z5                   8 
 for                  Z5                   8 
-its                  Z8                   7 
 from                 Z5                   7 
+broadcasting         Q4.3                 7 
+it                   Z8                   7 
 more                 A13.3                7 
 radio                Q4.3                 7 
+its                  Z8                   6 
 but                  Z5                   6 
 administration       S7.1+                6 
-it                   Z8                   6 
 airwaves             Q4.3                 6 
+CBS                  Q1.3                 6 
 he                   Z8                   6 
-Sinclair             Z1                   5 
-broadcasting         Q4.3                 5 
+that                 Z8                   5 
+America              Z2                   5 
 by                   Z5                   5 
-CBS                  Q1.3                 5 
 media                Q4                   4 
-that                 Z8                   4 
 so                   Z5                   4 
-Sinclairs            Z1                   4 
+i                    Z8                   4 
 politics             G1.2                 4 
 like                 Z5                   4 
 his                  Z8                   4 
 show                 A8                   4 
 who                  Z8                   4 
-Americas             Z2                   3 
+'s                   A3+                  3 
 offered              A9-                  3 
 interest             X5.2+                3 
 biased               E2++                 3 
@@ -47,7 +49,6 @@ fairness             G2.2+                3
 doctrine             S9                   3 
 broadcasters         Q4.3                 3 
 was                  Z5                   3 
-i                    Z8                   3 
 have                 Z5                   3 
 has                  Z5                   3 
 content              Q2.1                 3 
@@ -58,6 +59,8 @@ journalism           Q4.2                 3
 all                  N5.1+                3 
 their                Z8                   3 
 aired                B4                   3 
+Roosevelt            Z99                  3 
+Carter               Z1                   3 
 not                  Z6                   3 
 now                  T1.1.2               3 
 this                 M6                   3 
@@ -66,6 +69,7 @@ local                M7                   2
 television           Q4.3                 2 
 viewers              Q4.3                 2 
 United_States        Z2                   2 
+group                S5+                  2 
 warning              X2.2+                2 
 audiences            K1                   2 
 stories              Q2.1                 2 
@@ -95,6 +99,7 @@ commercial           I2.1                 2
 advertisers          I2.2                 2 
 White_house          Z3                   2 
 such                 Z5                   2 
+'                    Z5                   2 
 journalist           Q4.2                 2 
 numerous             N5+                  2 
 scholars             P1                   2 
@@ -107,7 +112,6 @@ for_example          Z5                   2
 early                T4+                  2 
 combined             A2.2                 2 
 pressure             N3.5                 2 
-groups               S5+                  2 
 politicians          G1.2                 2 
 speech               Q2.1                 2 
 range                N3.3                 2 
@@ -117,11 +121,8 @@ programs             Y2                   2
 like                 E2+                  2 
 commentator          Q2.2                 2 
 criticized           Q2.2                 2 
-Roosevelts           Z99                  2 
 policies             X7+                  2 
-Carters              Z1                   2 
 popular              E2+                  2 
-broadcastings        Q4.3                 2 
 at                   Z5                   2 
 world_war_ii         Z3                   2 
 center               M6                   2 
@@ -132,6 +133,7 @@ fly                  L2                   2
 be                   A3+                  2 
 believe              X2.1                 2 
 throughout           Z5                   2 
+there                Z5                   2 
 Pyne                 Z99                  2 
 is                   Z5                   2 
 people               S2                   2 
@@ -147,11 +149,9 @@ recently             T3---                1
 alerted              X2.2+                1 
 troubling            Z99                  1 
 trend                A6.2+                1 
-thats                Z5                   1 
 extremely            A13.3                1 
 dangerous            A15-                 1 
 democracy            G1.2                 1 
-group                S5+                  1 
 one                  N1                   1 
 dominant             S7.1+                1 
 television_station   Q4.3                 1 
@@ -169,7 +169,7 @@ outlets              Q2.1                 1
 publish              Q4                   1 
 fake                 A5.4-                1 
 just                 A14                  1 
-nt                   S9                   1 
+n't                  Z6                   1 
 true                 A5.2+                1 
 this                 Z8                   1 
 might                A7+                  1 
@@ -224,7 +224,7 @@ supposedly           X2.1                 1
 sustained            T2++                 1 
 responsible          A2.2                 1 
 debate               Q2.2                 1 
-nations              G1.1                 1 
+nation               G1.1                 1 
 until                Z5                   1 
 disappearance        A10-                 1 
 Reagan               Z1                   1 
@@ -278,6 +278,7 @@ uncertain            A7-                  1
 nature               W5                   1 
 regulation           G2.1                 1 
 organized            S7.1+                1 
+groups               S5+                  1 
 made                 A1.1.1               1 
 exact                A5.3+                1 
 parameters           A1.7+                1 
@@ -300,7 +301,7 @@ long                 N3.7+                1
 union                I3.1                 1 
 leaders              S7.1+                1 
 federation           S5+                  1 
-labors               A1.1.1               1 
+labor                A1.1.1               1 
 William_Green        Z2                   1 
 Douglas_Craig        Z1                   1 
 David_Goodman        Z1                   1 
@@ -321,12 +322,11 @@ they                 Z8                   1
 also                 N5++                 1 
 live                 L1+                  1 
 communist_party      G1.2                 1 
-America              Z2                   1 
 nominating           X7+                  1 
 convention           A6.2+                1 
 university_of_Chicago Z3                   1 
 Roundtable           S1.1.3+              1 
-Americas_town        Z2                   1 
+Town                 M7                   1 
 meeting              S1.1.3+              1 
 air                  O1.3                 1 
 provocative          X5.2+                1 
@@ -341,7 +341,6 @@ in                   M6                   1
 war                  G3                   1 
 neared               M1                   1 
 narrowed             N3.7-                1 
-Roosevelt            Z99                  1 
 began                T2+                  1 
 carefully            A1.3+                1 
 police               G2.1                 1 
@@ -352,7 +351,7 @@ President            G1.1                 1
 when                 Z5                   1 
 applauded            E2+                  1 
 anschluss            Z99                  1 
-Germanys             Z2                   1 
+Germany              Z2                   1 
 annexation           A9+                  1 
 Austria              Z2                   1 
 1938                 N1                   1 
@@ -370,7 +369,6 @@ sponsor              A9-                  1
 general              N5+                  1 
 foods                F1                   1 
 silence              X3.2-                1 
-Carter               Z1                   1 
 despite              Z5                   1 
 high                 N3.7+                1 
 ratings              A5.1                 1 
@@ -405,7 +403,6 @@ occurred             A2.1+                1
 1943                 N1                   1 
 year                 T1.3                 1 
 Cecil_Brown          Z1                   1 
-CBSs                 Z99                  1 
 top-rated            Z99                  1 
 analyst              Y2                   1 
 author               Q4.1                 1 
@@ -465,7 +462,6 @@ discourse            Q2.1                 1
 remained             T2++                 1 
 broadcasts           Q4.3                 1 
 regularly            N6+                  1 
-there                Z5                   1 
 Joe_Pyne             Z1                   1 
 whose                Z8                   1 
 zenith               W1                   1 
@@ -490,11 +486,10 @@ law-and-order        Z99                  1
 patriotic            S6+                  1 
 message              Q1.1                 1 
 then                 N4                   1 
-theres               Z5                   1 
 Bob_Grant            Z1                   1 
 New_York_city        Z1                   1 
 1970s                T1.3                 1 
-grants               I1.1                 1 
+Grant                Z1                   1 
 arch                 X9.1+                1 
 disdain              S7.2-                1 
 liberals             G1.2                 1 
@@ -522,7 +517,7 @@ providing            A9-                  1
 daily                T1.1.2               1 
 each                 N5.1+                1 
 weeknight            Z99                  1 
-im                   Z99                  1 
+'m                   Z5                   1 
 equating             A6.1+                1 
 well-reasoned        Z99                  1 
 brilliant            A5.1+++              1 

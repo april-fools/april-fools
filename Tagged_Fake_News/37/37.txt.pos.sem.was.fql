@@ -1,21 +1,22 @@
-TOTAL              561
+TOTAL              569
 the                  Z5                  40 
 of                   Z5                  25 
-to                   Z5                  23 
+to                   Z5                  22 
 in                   Z5                  18 
 and                  Z5                  12 
-Hillary_Clinton      Z1                   9 
+Hillary_Clinton      Z1                  11 
 a                    Z5                   7 
 emails               Q1.3                 7 
 Syria                Z2                   7 
 from                 Z5                   6 
+'s                   A3+                  5 
+'s                   Z5                   5 
+that                 Z8                   5 
 wikileaks            Z99                  4 
 is                   A3+                  4 
 which                Z8                   4 
 ISIS                 Z3                   4 
 Clinton              Z1                   4 
-Hillary              Z99                  4 
-that                 Z8                   4 
 have                 Z5                   4 
 we                   Z8                   4 
 Julian_Assange       Z1                   3 
@@ -34,7 +35,7 @@ how                  Z5                   3
 so                   Z5                   3 
 our                  Z8                   3 
 but                  Z5                   2 
-theres               Z5                   2 
+there                Z5                   2 
 islamic              S9                   2 
 jihadists            Z99                  2 
 state                G1.1                 2 
@@ -48,6 +49,7 @@ U.S.                 Z8                   2
 then                 N4                   2 
 fund                 I1.1                 2 
 secretary_of_state   G1.1                 2 
+Hillary              Z99                  2 
 country              G1.1                 2 
 an                   Z5                   2 
 topple               M1                   2 
@@ -64,11 +66,13 @@ connect              A2.2                 2
 you                  Z8                   2 
 email                Q1.3                 2 
 sent                 M2                   2 
-Clintons             Z1                   2 
 department           H2                   2 
 as                   Z5                   2 
 information          X2.2+                2 
+what                 Z8                   2 
+it                   Z8                   2 
 collection           A9+                  2 
+n't                  Z6                   2 
 into                 Z5                   2 
 termination          T2-                  2 
 disastrous           A5.1---              2 
@@ -83,10 +87,8 @@ democrat             G1.2                 1
 party                K1                   1 
 are                  A3+                  1 
 real                 A3+                  1 
-s                    T1.3                 1 
 willing              X7+                  1 
 expose               A10+                 1 
-s                    Z5                   1 
 announcing           Q2.2                 1 
 her                  Z8                   1 
 state_department     G1.1                 1 
@@ -122,7 +124,7 @@ contras              G1.2                 1
 Nicaragua            Z2                   1 
 sounds               X3.2                 1 
 familiar             A6.2+                1 
-obamas               Z99                  1 
+Obama                Z99                  1 
 second               N4                   1 
 term                 Q3                   1 
 authorized           S7.4+                1 
@@ -164,6 +166,7 @@ terrorist            G2.1-                1
 attack               E3-                  1 
 interview            Q2.1                 1 
 democracy            G1.2                 1 
+'                    Z5                   1 
 is                   Z5                   1 
 stating              Q2.1                 1 
 contained            A1.8+                1 
@@ -210,7 +213,6 @@ why                  A2.2                 1
 did                  Z5                   1 
 do                   A1.1.1               1 
 this                 Z8                   1 
-whats                Z8                   1 
 importance           A11.1+               1 
 your                 Z8                   1 
 perspective          X4.1                 1 
@@ -223,12 +225,10 @@ become               A2.1+                1
 rebel                G3                   1 
 library              Q4.1                 1 
 Alexandria           Z1                   1 
-it                   Z8                   1 
 single               N5---                1 
 most                 A13.2                1 
 significant          A11.1+               1 
 does                 Z5                   1 
-nt                   S9                   1 
 exist                A3+                  1 
 elsewhere            M6                   1 
 accessible           S1.2.1+              1 
@@ -238,9 +238,9 @@ modern               T3-                  1
 institutions         S5+                  1 
 actually             A5.4+                1 
 behave               S1.1.1               1 
-its                  Z8                   1 
-gone_on              T2++                 1 
-set                  M2                   1 
+gone                 M1                   1 
+on_to                Z5                   1 
+set                  N5                   1 
 people               S2                   1 
 free                 S6-                  1 
 prison               G2.1                 1 
@@ -277,9 +277,8 @@ be                   A3+                  1
 as                   A13                  1 
 good                 A5.1+                1 
 knowledge            X2.2+                1 
-what                 Z8                   1 
 civilisation         S1.1.1               1 
-cant                 Q2.1                 1 
+ca                   A7+                  1 
 possibly             A7+                  1 
 hope                 X2.6+                1 
 reform               A2.1+                1 
@@ -313,7 +312,6 @@ over                 T2-                  1
 being                Z5                   1 
 pushed               M2                   1 
 within               Z5                   1 
-thats                Z5                   1 
 there                M6                   1 
 more                 N5++                 1 
 than                 Z5                   1 

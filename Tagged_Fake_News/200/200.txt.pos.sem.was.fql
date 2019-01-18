@@ -5,7 +5,7 @@ to                   Z5                  18
 a                    Z5                  15 
 and                  Z5                  14 
 he                   Z8                  14 
-swamp                W3                  12 
+swamp                W3                  11 
 in                   Z5                  11 
 i                    Z8                  11 
 that                 Z8                  10 
@@ -19,8 +19,8 @@ drain                M2                   7
 's                   A3+                  7 
 phrase               Q3                   7 
 but                  Z5                   7 
+n't                  Z6                   7 
 was                  A3+                  6 
-n't                  Z6                   6 
 Washington           Z2                   6 
 just                 A14                  5 
 now                  T1.1.2               5 
@@ -33,13 +33,13 @@ with                 Z5                   4
 Gingrich             Z99                  4 
 what                 Z8                   4 
 as                   Z5                   4 
-like                 E2+                  4 
 campaign             X7+                  3 
 from                 Z5                   3 
 'm                   Z5                   3 
 on                   Z5                   3 
 'drain               Z99                  3 
 did                  Z5                   3 
+like                 E2+                  3 
 at                   Z5                   3 
 Donald_trump         Z1                   3 
 post                 Q1.2                 3 
@@ -195,7 +195,8 @@ starting             T2+                  1
 hot                  O4.6+                1 
 explains             Q2.2                 1 
 why                  A2.2                 1 
-nt                   S9                   1 
+like'                Z99                  1 
+swamp'               Z99                  1 
 does                 A1.1.1               1 
 video0:39            Z99                  1 
 Kinston              Z99                  1 

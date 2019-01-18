@@ -1,6 +1,6 @@
-TOTAL         293
-NN1            48 
-NN2            35 
+TOTAL         299
+NN1            52 
+NN2            32 
 II             28 
 JJ             24 
 AT             15 
@@ -12,6 +12,7 @@ NP1             7
 CC              7 
 IW              6 
 VVG             6 
+GE              5 
 VVZ             4 
 APPGE           4 
 VM              4 

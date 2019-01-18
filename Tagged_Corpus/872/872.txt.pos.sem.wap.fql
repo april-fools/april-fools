@@ -1,4 +1,4 @@
-TOTAL              384
+TOTAL              390
 the                  AT             27 
 a                    AT1            11 
 is                   VBZ            10 
@@ -11,20 +11,24 @@ hotel                NN1             7
 with                 IW              7 
 will                 VM              6 
 for                  IF              6 
+Portsmouth           NP1             5 
 in                   II              4 
 people               NN              4 
-Portsmouth           NP1             4 
 this                 DD1             4 
+building             NN1             3 
 regeneration         NN1             3 
 that                 DD1             3 
 was                  VBDZ            3 
 city                 NN1             3 
+could                VM              3 
 said                 VVD             3 
 what                 DDQ             3 
+we                   PPIS2           3 
 are                  VBR             3 
 something            PN1             3 
-building             NN1             2 
+i                    PPIS1           3 
 into                 II              2 
+'s                   GE              2 
 biggest              JJT             2 
 hard                 JJ              2 
 news                 NN1             2 
@@ -40,19 +44,17 @@ around               RG              2
 at                   II              2 
 Gunwharf             NP1             2 
 when                 CS              2 
-could                VM              2 
 area                 NN1             2 
-we                   PPIS2           2 
 here                 RL              2 
 our                  APPGE           2 
+so                   CS              2 
 added                VVD             2 
 who                  PNQS            2 
-im                   VV0             2 
+'m                   VBM             2 
 more                 DAR             2 
 landmark             NN1             1 
 set                  VVN             1 
 transformed          VVN             1 
-Portsmouths          NP2             1 
 kick-starting        NN1             1 
 can                  VM              1 
 reveal               VVI             1 
@@ -81,7 +83,6 @@ aims                 VVZ             1
 spend                VVI             1 
 1m                   NNU             1 
 on                   II              1 
-buildings            NN2             1 
 car_park             NN1             1 
 alone                RR              1 
 hope                 NN1             1 
@@ -133,11 +134,10 @@ new                  JJ              1
 rather_than          CS21            1 
 just                 RR              1 
 knocking_down        VVG             1 
-i                    PPIS1           1 
 hope                 VV0             1 
 happy                JJ              1 
-weve                 VV0             1 
-come_up_with         VV0             1 
+'ve                  VH0             1 
+come_up_with         VVN             1 
 woefully             RR              1 
 short_of             JJ              1 
 accommodation        NN1             1 
@@ -147,7 +147,6 @@ inn                  NN1             1
 express              NN1             1 
 94_per_cent          MC              1 
 occupancy            NN1             1 
-so                   CS              1 
 help                 VVI             1 
 solve                VVI             1 
 problem              NN1             1 
@@ -172,7 +171,7 @@ absolutely           RR              1
 delighted            JJ              1 
 significant          JJ              1 
 milestone            NN1             1 
-couldnt              NN1             1 
+n't                  XX              1 
 better               JJR             1 
 location             NN1             1 
 have                 VHI             1 
@@ -202,7 +201,6 @@ most                 DAT             1
 money                NN1             1 
 were                 VBDR            1 
 operators            NN2             1 
-so                   RR              1 
 not                  XX              1 
 surprised            JJ              1 
 works                VVZ             1 

@@ -5,7 +5,6 @@ deniability              NN1     Z99
 Erdogan                  NP1     Z99 
 Erdogan                  NP1@    Z99 
 Obama                    NP1     Z99 
-Obamas                   NN2@    Z99 
 PYD                      NP1     Z99 
 US-led                   JJ      Z99 
 Western-made             JJ      Z99 

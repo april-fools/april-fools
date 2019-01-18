@@ -38,7 +38,7 @@
 0000002 260  CST     that                     Z5 Z8 
 0000002 270  NP1     Cambria                  Z99 
 0000002 280  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000002 281  XX      nt                       S9/Q4.1 Z3c 
+0000002 281  XX      n't                      Z6 
 0000002 290  VHI     have                     A9+ Z5 A2.2 S4 
 0000002 300  AT      the                      Z5 
 0000002 310  NN1     traffic                  M3 M4 G2.1-/I2.2 M1 S1.1.2+ 
@@ -149,7 +149,8 @@
 0000008 051  ,       ,                        
 0000008 060  CS21    given                    Z5 A4.2+ A9- A1.1.1 
 0000008 070  CS22    that                     Z5 Z8 
-0000008 080  APPGE   its                      Z8 
+0000008 080  PPH1    it                       Z8 
+0000008 081  VBZ     's                       A3+ Z5 
 0000008 090  AT      the                      Z5 
 0000008 100  MC1     one                      N1 T3 T1.2 
 0000008 110  NN1     road                     M3 X4.2 
@@ -405,8 +406,9 @@
 0000016 370  NN2     rocks                    O2 O1.1 K2 F1 
 0000016 371  ,       ,                        
 0000016 380  CS      when                     Z5 
-0000016 390  NN1     youre                    Z99 
-0000016 400  VVD     swaddled                 Z99 
+0000016 390  PPY     you                      Z8mf 
+0000016 391  VBR     're                      Z5 A3+ 
+0000016 400  VVN     swaddled                 Z99 
 0000016 410  II      by                       Z5 
 0000016 420  AT      the                      Z5 
 0000016 430  NN1     bellow                   Q2.2/E3- X3.2+ 
@@ -458,7 +460,7 @@
 0000020 243  -----   -----                    
 0000020 250  PPIS2   We                       Z8 
 0000020 260  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000020 261  XX      nt                       S9/Q4.1 Z3c 
+0000020 261  XX      n't                      Z6 
 0000020 270  RR      even                     A13.1 
 0000020 280  VVI     know                     X2.2+ S3.2/B1% 
 0000020 290  PPH1    it                       Z8 
@@ -517,7 +519,7 @@
 0000022 353  -----   -----                    
 0000022 360  PPIS2   We                       Z8 
 0000022 370  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000022 371  XX      nt                       S9/Q4.1 Z3c 
+0000022 371  XX      n't                      Z6 
 0000022 380  VVI     know                     X2.2+ S3.2/B1% 
 0000022 390  PN1     anybody                  Z8mfc 
 0000022 391  ,       ,                        
@@ -650,7 +652,7 @@
 0000028 330  DDQ     what                     Z8 Z5 
 0000028 340  PPIS2   we                       Z8 
 0000028 350  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000028 351  XX      nt                       S9/Q4.1 Z3c 
+0000028 351  XX      n't                      Z6 
 0000028 360  VHI     have                     A9+ Z5 A2.2 S4 
 0000028 370  CSN     than                     Z5 
 0000028 380  DDQ     what                     Z8 Z5 
@@ -676,9 +678,10 @@
 0000030 010  CC      And                      Z5 
 0000030 020  NP1     Cambria                  Z99 
 0000030 030  RR      probably                 A7+ 
-0000030 040  JJ      wont                     A6.2+ 
-0000030 050  VV0     lose                     X9.2- A9- M6/A5.3- L1- 
-0000030 060  CST     that                     Z5 Z8 
+0000030 040  VM      wo                       T1.1.3 
+0000030 041  XX      n't                      Z6 
+0000030 050  VVI     lose                     X9.2- A9- M6/A5.3- L1- 
+0000030 060  DD1     that                     Z5 Z8 
 0000030 070  JJ      small-town               Z99 
 0000030 080  NN1     feeling                  X2.1 E1 X3 
 0000030 090  CS      because                  Z5/A2.2 
@@ -750,7 +753,7 @@
 0000034 263  -----   -----                    
 0000034 270  PPIS1   I                        Z8mf 
 0000034 280  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000034 281  XX      nt                       S9/Q4.1 Z3c 
+0000034 281  XX      n't                      Z6 
 0000034 290  VVI     think                    X2.1 
 0000034 300  PPIS1   I                        Z8mf 
 0000034 310  VM      would                    A7+ 
@@ -801,7 +804,8 @@
 0000036 340  NN1     Census                   G1.1 
 0000036 350  NN1     Bureau                   G1.1 H5 
 0000036 360  VVZ     puts                     M2 Q2.1 Q2.2 A1.1.1 
-0000036 370  NP2     Cambrias                 Z99 
+0000036 370  NP1     Cambria                  Z99 
+0000036 371  GE      's                       Z5 
 0000036 380  JJ      median                   N2 
 0000036 390  NN1     age                      T3 T1.3 
 0000036 400  II      at                       Z5 
@@ -821,7 +825,7 @@
 0000038 100  AT      the                      Z5 
 0000038 110  NN1     town                     M7 
 0000038 120  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000038 121  XX      nt                       S9/Q4.1 Z3c 
+0000038 121  XX      n't                      Z6 
 0000038 130  VHI     have                     A9+ Z5 A2.2 S4 
 0000038 140  DA1     much                     N5+ I1.3+ 
 0000038 150  II      in                       M6[i41.3.1 S8-[i41.3.1 Z5 
@@ -1040,7 +1044,8 @@
 0000052 111  ,       ,                        
 0000052 112  NULL    <quote>                  
 0000052 113  -----   -----                    
-0000052 120  NN2     Cambrias                 Z99 
+0000052 120  NN1     Cambria                  Z99 
+0000052 121  VBZ     's                       A3+ Z5 
 0000052 130  AT1     a                        Z5 
 0000052 140  NN1     bargain                  I1.3- 
 0000052 141  .       .                        
@@ -1191,8 +1196,9 @@
 0000066 040  NNU2    miles                    N3.3 N3.3+ N3.7 N5+ A13.2 
 0000066 041  .       .                        
 0000067 001  -----   -----                    
-0000068 010  NP2     WHOS                     Z3 
-0000068 020  VVG     BUYING                   I2.2 
+0000068 010  NP1     WHO                      Z3 
+0000068 011  VBZ     'S                       A3+ Z5 
+0000068 020  NN1     BUYING                   I2.2 
 0000068 030  JJ      Second-home              Z99 
 0000068 040  NN2     owners                   A9+/S2mf 
 0000068 050  CC      and                      Z5 
@@ -1241,7 +1247,8 @@
 0000070 321  .       .                        
 0000071 001  -----   -----                    
 0000072 010  CS      WHILE                    Z5 
-0000072 020  NP1     YOURE                    Z99 
+0000072 020  PPY     YOU                      Z8mf 
+0000072 021  VBR     'RE                      Z5 A3+ 
 0000072 030  VVG     LOOKING                  A8 X3.4 X2.4 X7+ Z4 
 0000072 040  AT      The                      Z5 
 0000072 050  NP1     Squibb                   Z3c[i112.2.1 Z2[i112.2.1 

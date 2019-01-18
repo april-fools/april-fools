@@ -40,7 +40,7 @@
 0000004 080  NN1     recovery                 B2+ A5.1+/A2.1 A9+ 
 0000004 090  VHD     had                      Z5 A9+ A2.2 S4 
 0000004 100  VBN     been                     A3+ Z5 
-0000004 110  JJ      insufficient             N5- 
+0000004 110  JJ      insufficient'            Z99 
 0000004 120  CS      since                    Z5 
 0000004 130  AT      the                      Z5 
 0000004 140  JJ      harsh                    O4.2- 
@@ -164,7 +164,8 @@
 0000012 051  ,       ,                        
 0000012 060  AT      The                      Z5 
 0000012 070  JJ@     Daily                    T1.1.2 N6+ 
-0000012 080  NN2     Sports                   K5.1 
+0000012 080  NN1     Sport                    K5.1 
+0000012 081  GE      's                       Z5 
 0000012 090  NN1     readership               Q4.1/S2c Q4.2/S2c P1 
 0000012 100  VVD     reached                  M1 N3.3 Q2.1 X9.2+ 
 0000012 110  MC      189,473                  N1 T1.2 T3 T1.3 N3.2 
@@ -263,7 +264,7 @@
 0000016 490  VVI     laugh                    E4.1+/X3.2 
 0000016 500  RT      then                     N4 Z5 T1.2 
 0000016 510  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000016 511  XX      nt                       A1.9[i25.2.1 E6-[i25.2.1 
+0000016 511  XX      n't                      A1.9[i25.2.1 E6-[i25.2.1 Z6 
 0000016 520  VVI     bother                   A1.9[i25.2.2 E6-[i25.2.2 E6- A1.1.1 E3- 
 0000016 521  .       .                        
 0000016 522  NULL    </quote>                 

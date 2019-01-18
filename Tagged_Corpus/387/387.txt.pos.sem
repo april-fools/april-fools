@@ -178,7 +178,8 @@
 0000012 090  VHZ     has                      S6+[i11.2.1 A9+ Z5 A2.2 S4 
 0000012 100  TO      to                       S6+[i11.2.2 Z5 
 0000012 110  VBI     be                       A3+ Z5 
-0000012 120  NP2     Disneys                  Z3c Z1mf 
+0000012 120  NP1     Disney                   Z3c Z1mf 
+0000012 121  GE      's                       Z5 
 0000012 130  RGT     least                    A13.7 
 0000012 140  JJ      favorite                 E2+++ 
 0000012 150  NN2     Fireworks                G3/K1 

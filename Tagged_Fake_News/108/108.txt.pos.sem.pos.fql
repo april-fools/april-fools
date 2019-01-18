@@ -1,9 +1,9 @@
-TOTAL         328
+TOTAL         330
 NN1            47 
 AT             29 
 II             25 
+NP1            25 
 NN2            23 
-NP1            23 
 JJ             22 
 VVN            14 
 IO             14 
@@ -28,7 +28,7 @@ VBZ             3
 APPGE           3 
 VBI             2 
 NNT1            2 
-NP2             2 
+GE              2 
 PNQS            2 
 NPM1            2 
 VH0             2 

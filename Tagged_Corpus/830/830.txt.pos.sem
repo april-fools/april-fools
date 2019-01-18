@@ -15,7 +15,8 @@
 0000002 120  CCB     but                      Z5 
 0000002 130  AT      the                      Z5 
 0000002 140  NN1     change                   A2.1+ I1 B1 
-0000002 150  VV0     isnt                     Z99 
+0000002 150  VBZ     is                       A3+ Z5 
+0000002 151  XX      n't                      Z6 
 0000002 160  RG      as                       A13 
 0000002 170  JJ      drastic                  N5+++ 
 0000002 180  CSA     as                       Z5 
@@ -153,9 +154,10 @@
 0000006 350  VBDZ    was                      A3+ Z5 
 0000006 351  .       .                        
 0000006 352  -----   -----                    
-0000006 360  NN2     Thats                    Z5 Z8 A13.3 A6.1+ 
-0000006 370  RR      OK                       A5.1+ 
-0000006 380  JJ      --                       Z99 
+0000006 360  DD1     That                     Z8 Z5 
+0000006 361  VBZ     's                       A3+ Z5 
+0000006 370  JJ      OK                       A5.1+ 
+0000006 380  NN1     --                       Z99 
 0000006 390  AT      the                      Z5 
 0000006 400  NN2     improvements             A5.1+/A2.1 
 0000006 410  VBR     are                      A3+ Z5 
@@ -286,7 +288,8 @@
 0000012 170  NN1     reader                   Q1.2/Q4.1mf[i12.2.2 Q4.1/S2mf Q4.2/S2mf P1/S2mf Q4.1 
 0000012 171  .       .                        
 0000012 172  -----   -----                    
-0000012 180  APPGE   Its                      Z8 
+0000012 180  PPH1    It                       Z8 
+0000012 181  VBZ     's                       A3+ Z5 
 0000012 190  AT1     a                        Z5 
 0000012 200  JJ      welcome                  Q2.2 S1.1.1 
 0000012 210  NN1     trade                    I2.2 I2.1 I3.1 I2.2/N5 
@@ -411,7 +414,8 @@
 0000016 340  AT      the                      Z5 
 0000016 350  NN1     WiiShop                  Z99 
 0000016 351  ,       ,                        
-0000016 360  NP2     Nintendos                Z3 
+0000016 360  NP1     Nintendo                 Z3 
+0000016 361  GE      's                       Z5 
 0000016 370  JJ      online                   Y2 
 0000016 380  NN1     store                    I2.2/H1c A9+ A9+/H1 
 0000016 390  IF      for                      Z5 
@@ -465,8 +469,9 @@
 0000018 400  NN1     photo                    C1 
 0000018 410  NN1     editing                  Q1.2 Q4 
 0000018 420  NN1     software                 Y2 
-0000018 430  NN2     thats                    Z5 Z8 A13.3 A6.1+ 
-0000018 440  VVD     included                 A1.8+ 
+0000018 430  CST     that                     Z8 Z5 
+0000018 431  VBZ     's                       Z5 A3+ 
+0000018 440  VVN     included                 A1.8+ 
 0000018 450  TO      to                       Z5 
 0000018 460  VVI     manipulate               A2.1+/G2.2- S7.1+ A1.1.1 
 0000018 470  AT      the                      Z5 
@@ -549,11 +554,13 @@
 0000024 020  CS      while                    Z5 
 0000024 030  AT      the                      Z5 
 0000024 040  NN2     cameras                  C1 Q4.3 
+0000024 041  GE      '                        Z5 
 0000024 050  NN1     resolution               X6+ X9.2+ 
 0000024 060  VBZ     is                       A3+ Z5 
 0000024 070  JJ      tiny                     N3.2- 
 0000024 080  II      by                       Z5 
-0000024 090  NN2     todays                   T1.1.2 
+0000024 090  RT      today                    T1.1.2 
+0000024 091  GE      's                       Z5 
 0000024 100  NN2     standards                A5.1 G2.2 Q1.1 O2@ 
 0000024 110  II      at                       Z5 
 0000024 120  RR      only                     A14 
@@ -699,7 +706,8 @@
 0000026 891  .       .                        
 0000026 892  -----   -----                    
 0000026 893  (       (                        
-0000026 900  RR      Well                     A5.1+ A13.3 A7+ B2+ Z4 
+0000026 900  PPIS2   We                       Z8 
+0000026 901  VM      'll                      T1.1.3 
 0000026 910  VBI     be                       Z5 A3+ 
 0000026 920  VVG     using                    A1.5.1 S7.1+ 
 0000026 930  APPGE   our                      Z8 
@@ -851,7 +859,8 @@
 0000030 510  JJ      economic                 I1.3- I2.1 
 0000030 520  NNT2    times                    T1 T1.2 T1.3 T1.1.2 N6 N1 
 0000030 521  ,       ,                        
-0000030 530  VV0     youre                    Z99 
+0000030 530  PPY     you                      Z8mf 
+0000030 531  VBR     're                      Z5 A3+ 
 0000030 540  XX      not                      Z6 
 0000030 550  VVG     missing                  A5.3- X3.4- A11.2- X2.5- X9.2- E4.1- T4- S1.1.3- 
 0000030 560  RG      too                      N5.2+[i28.2.1 N5.2+ A13.3 

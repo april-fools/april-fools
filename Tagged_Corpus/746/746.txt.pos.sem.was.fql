@@ -1,4 +1,4 @@
-TOTAL             2474
+TOTAL             2498
 the                  Z5                 186 
 of                   Z5                 102 
 to                   Z5                  58 
@@ -9,6 +9,7 @@ jews                 S9                  47
 russian              Z2                  45 
 from                 Z5                  21 
 is                   A3+                 20 
+it                   Z8                  19 
 for                  Z5                  18 
 their                Z8                  17 
 they                 Z8                  17 
@@ -16,34 +17,36 @@ on                   Z5                  17
 jewish               S9                  16 
 says                 Q2.1                16 
 with                 Z5                  15 
+'s                   Z5                  15 
+that                 Z8                  14 
 by                   Z5                  13 
 but                  Z5                  13 
-that                 Z5                  13 
 american             Z2                  13 
 not                  Z6                  13 
-that                 Z8                  13 
+that                 Z5                  12 
 as                   Z5                  11 
 who                  Z8                  11 
 Israel               Z2                  11 
-its                  Z8                  11 
-it                   Z8                  11 
 was                  A3+                 10 
 have                 Z5                  10 
 an                   Z5                   9 
+'s                   A3+                  9 
+we                   Z8                   8 
 Brooklyn             Z99                  7 
-we                   Z8                   7 
+lower                N3.7--               7 
 his                  Z8                   7 
 this                 M6                   7 
 at                   Z5                   7 
+there                Z5                   7 
 more                 A13.3                6 
 you                  Z8                   6 
 he                   Z8                   6 
 one                  N1                   6 
-lower                N3.7--               6 
 east_side            M7                   6 
 Brighton_beach       Z2                   6 
 right-wing           Z99                  6 
 would                A7+                  6 
+America              Z2                   6 
 when                 Z5                   6 
 among                Z5                   6 
 some                 N5                   6 
@@ -58,14 +61,14 @@ her                  Z8                   5
 are                  Z5                   5 
 United_States        Z2                   5 
 first                N4                   5 
-America              Z2                   5 
+cahan                Z99                  5 
 do                   Z5                   5 
-there                Z5                   5 
+New_York             Z2                   5 
 USSR                 Z2                   4 
-new                  T3-                  4 
 were                 Z5                   4 
 community            S5+                  4 
 my                   Z8                   4 
+Bela                 Z99                  4 
 now                  T1.1.2               4 
 so                   Z5                   4 
 republicans          G1.2                 4 
@@ -78,17 +81,15 @@ Russia               Z2                   4
 white                O4.3                 4 
 against              Z5                   4 
 had                  Z5                   4 
-cahan                Z99                  4 
 be                   A3+                  4 
-New_York             Z2                   4 
 this                 Z8                   4 
 before               Z5                   4 
 during               Z5                   4 
 many                 N5+                  4 
 wave                 W3                   4 
+n't                  Z6                   4 
 did                  Z5                   4 
 emigrated            M1                   4 
-say                  Q2.1                 4 
 election             G1.2                 4 
 1991                 N1                   3 
 made                 A1.1.1               3 
@@ -98,9 +99,9 @@ arrived              M1                   3
 most                 A13.2                3 
 do                   A1.1.1               3 
 around               Z5                   3 
+new                  T3-                  3 
 young                T3-                  3 
 english              Z1                   3 
-Bela                 Z99                  3 
 could                A7+                  3 
 family               S4                   3 
 different            A6.1-                3 
@@ -109,6 +110,7 @@ them                 Z8                   3
 patriotic            S6+                  3 
 becoming             A2.1+                3 
 immigration          M1                   3 
+its                  Z8                   3 
 jew                  S9                   3 
 war                  G3                   3 
 Atlantic             Z2                   3 
@@ -120,10 +122,10 @@ mind                 X1                   3
 one                  Z8                   3 
 all                  N5.1+                3 
 is                   Z5                   3 
+government           G1.1                 3 
 or                   Z5                   3 
 even                 A13.1                3 
 conservative         G1.2                 3 
-nt                   S9                   3 
 born                 B1                   3 
 Jewry                S9                   3 
 democrats            Z3                   3 
@@ -139,6 +141,7 @@ no                   Z6                   3
 very                 A13.3                3 
 Salita               Z99                  3 
 liberal              A1.7-                3 
+say                  Q2.1                 3 
 thousands            N1                   2 
 known                X2.2+                2 
 soviet_union         Z2                   2 
@@ -157,6 +160,7 @@ political            G1.2                 2
 grandparents         S4                   2 
 became               A2.1+                2 
 radio                Q4.3                 2 
+father               S4                   2 
 left                 M6                   2 
 flag                 Q1.1                 2 
 picture              C1                   2 
@@ -218,11 +222,13 @@ number               N5                   2
 second               T1.3                 2 
 1980s                T1.3                 2 
 great                A5.1+                2 
+Manhattan            Z2                   2 
 began                T2+                  2 
 reasons              A2.2                 2 
 may                  A7+                  2 
 world                W1                   2 
 see                  X3.4                 2 
+Reagan               Z1                   2 
 administration       S7.1+                2 
 weakness             S1.2.5-              2 
 president            G1.1                 2 
@@ -231,7 +237,6 @@ stronger             S1.2.5++             2
 likely               A7+                  2 
 nature               W5                   2 
 activist             G1.2                 2 
-government           G1.1                 2 
 Branovan             Z99                  2 
 i                    Z8                   2 
 through              Z5                   2 
@@ -254,7 +259,7 @@ will                 T1.1.3               2
 candidates           G1.2                 2 
 crime                G2.1-                2 
 be                   Z5                   2 
-nations              G1.1                 2 
+nation               G1.1                 2 
 majority             N5+++                2 
 these                Z5                   2 
 average              A6.2+                2 
@@ -264,7 +269,6 @@ found                A10+                 2
 within               Z5                   2 
 idea                 X4.1                 2 
 things               O2                   2 
-theres               Z5                   2 
 russians             Z2                   2 
 really               A13.3                2 
 a_lot                N5+                  2 
@@ -338,7 +342,6 @@ Shayevich            Z99                  1
 settled_in           T2+                  1 
 across               Z5                   1 
 spectrum             A6.3+                1 
-Belas                Z99                  1 
 little               N5-                  1 
 remained             T2++                 1 
 dependent            A2.2                 1 
@@ -349,7 +352,6 @@ right                S7.4+                1
 citing               Q2.2                 1 
 after                Z5                   1 
 Sept._11             T1.3                 1 
-father               S4                   1 
 veered               M1                   1 
 to_the_point         A4.2+                1 
 criticizing          Q2.2                 1 
@@ -398,7 +400,6 @@ loved                E2+                  1
 love                 E2+                  1 
 July_1898            T1.3                 1 
 midst                M6                   1 
-Americas             Z2                   1 
 brief                T1.3-                1 
 lithuanian-born      Z99                  1 
 Abraham_Cahan        Z1                   1 
@@ -423,7 +424,7 @@ backlash             A5.1-                1
 building             H1                   1 
 eastern_Europe       Z2                   1 
 fever                B2-                  1 
-98                   N1                   1 
+'98                  N1                   1 
 fueled               A1.1.1               1 
 yellow               O4.3                 1 
 press                Q4.2                 1 
@@ -482,7 +483,7 @@ asiatics             Z2                   1
 did                  A1.1.1               1 
 wartime              G3                   1 
 waved                Q1.1                 1 
-til                  Z5                   1 
+'til                 Z5                   1 
 hurt                 B2-                  1 
 look                 A8                   1 
 now_that             Z5                   1 
@@ -529,7 +530,6 @@ Emma                 Z1                   1
 Goldmans             Z1                   1 
 contribute           A9-                  1 
 U.S.                 Z8                   1 
-governments          G1.1                 1 
 decision             X6+                  1 
 tighten              A1.7+                1 
 spigot               Z99                  1 
@@ -550,7 +550,6 @@ socialist            G1.2                 1
 assemblymen          Z99                  1 
 plus                 Z5                   1 
 judge                G2.1                 1 
-Cahans               Z99                  1 
 plea                 Q2.2                 1 
 reads                Q3                   1 
 journalistic         Q4.2                 1 
@@ -575,7 +574,7 @@ wide                 N3.7+                1
 enough               N5+                  1 
 supply               A9-                  1 
 Adam_Sandler         Z1                   1 
-albums               K2                   1 
+album                K2                   1 
 material             O1                   1 
 without              Z5                   1 
 mentioning           Q2.1                 1 
@@ -588,7 +587,7 @@ slavic               Z99                  1
 dish/and             Z99                  1 
 forget               X2.2-                1 
 sly                  A10-                 1 
-stallones            Z1                   1 
+stallone             Z1                   1 
 mama                 S4                   1 
 Jacqueline_Labofish  Z1                   1 
 overall              A14                  1 
@@ -622,15 +621,12 @@ turn                 N4                   1
 last_century         T1.1.1               1 
 popular              E2+                  1 
 entertainments       K1                   1 
-Pawnee               Z99                  1 
-bills                I1.3                 1 
+Pawnee_Bill          Z1                   1 
 far_east             Z2                   1 
 show                 A8                   1 
 featured             A10+                 1 
 costumed             Z99                  1 
 cossacks             Z99                  1 
-Manhattans           Z2                   1 
-lower                M2                   1 
 Brownsville          Z99                  1 
 area                 M7                   1 
 settling             M8                   1 
@@ -648,7 +644,7 @@ music_hall           K2                   1
 seem                 A8                   1 
 self-evident         A10+                 1 
 resettled            H4                   1 
-90s                  T1.3                 1 
+'90s                 T1.3                 1 
 viewed               X2.1                 1 
 differently          A6.1-                1 
 pinko                Z99                  1 
@@ -680,7 +676,6 @@ Karl_Marx            Z1                   1
 Ronald_Reagan        Z1                   1 
 came_around          A1.1.1               1 
 time                 T1                   1 
-Reagan               Z1                   1 
 compare              A6.1                 1 
 stand                I2.2                 1 
 favorably            A5.1+                1 
@@ -693,7 +688,6 @@ stand                M6                   1
 up_to                Z5                   1 
 tyranny              S7.1+                1 
 gratitude            S1.2.4+              1 
-Reagans              Z1                   1 
 aggressive           E3-                  1 
 foreign              M7                   1 
 policy               X7+                  1 
@@ -732,7 +726,7 @@ hardworking          X8+                  1
 here                 M6                   1 
 hungry               F1-                  1 
 make                 A1.1.1               1 
-id                   X2                   1 
+i_'d_say             Z4                   1 
 1_percent            N5                   1 
 liberals             G1.2                 1 
 in_terms_of          Z5                   1 
@@ -785,7 +779,7 @@ consistently         A6.1+                1
 tough                S1.2.5+              1 
 moral                G2.2+                1 
 notably              A14                  1 
-Yorks_Mayor_Rudolph  Z1                   1 
+Mayor_Rudolph_Giuliani Z1                   1 
 Jonathan_Sarna       Z1                   1 
 professor            P1                   1 
 Brandeis             Z99                  1 
@@ -852,7 +846,7 @@ active               X5.2+                1
 Lubavitcher          Z99                  1 
 youth                T3-                  1 
 program              Y2                   1 
-wed                  S4                   1 
+'d                   A7+                  1 
 listen               X3.2                 1 
 about                Z5                   1 
 whatever             Z8                   1 
@@ -876,7 +870,7 @@ understand           X2.5+                1
 dovish               Z99                  1 
 position             M6                   1 
 nave                 H2                   1 
-wont                 A6.2+                1 
+wo                   T1.1.3               1 
 Gennady_Katsov       Z1                   1 
 journalist           Q4.2                 1 
 cable                O3                   1 
@@ -926,8 +920,7 @@ search               X2.4                 1
 hard                 O4.1                 1 
 finding              A10+                 1 
 subscribed           X2.1                 1 
-Sarah                Z1                   1 
-Palins               Z1                   1 
+Sarah_Palin          Z1                   1 
 view                 X4.1                 1 
 fake                 A5.4-                1 
 implicitly           A10-                 1 
@@ -963,7 +956,7 @@ Evreiskii_Mir        Z1                   1
 am                   Z5                   1 
 routinely            A6.2+                1 
 everything           Z8                   1 
-scumbag              Z99                  1 
+scumbag'             Z99                  1 
 fag                  S7.1-                1 
 lover                S3.2                 1 
 style                X4.2                 1 
@@ -1055,7 +1048,6 @@ form                 A4.1                 1
 controversy          Q2.2                 1 
 over                 Z5                   1 
 lower                M6                   1 
-Manhattan            Z2                   1 
 islamic              S9                   1 
 mosque               S9                   1 
 last_summer          T1.1.1               1 
@@ -1090,7 +1082,7 @@ civic                G1.1                 1
 psychological        X1                   1 
 luxury               O4.2+                1 
 degree               A13.1                1 
-fathers              S4                   1 
+'                    Z5                   1 
 convictions          X2.1                 1 
 come_out             M1                   1 
 trauma               E4.1-                1 

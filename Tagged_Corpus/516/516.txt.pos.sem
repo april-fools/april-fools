@@ -81,12 +81,14 @@
 0000006 410  VVI     happen                   A2.1+ A3+ X7- 
 0000006 411  .       .                        
 0000006 412  -----   -----                    
-0000006 420  APPGE   Its                      Z8 
+0000006 420  PPH1    It                       Z8 
+0000006 421  VHZ     's                       Z5 A9+ A2.2 
 0000006 430  VBN     been                     Z5 A3+ 
 0000006 440  VVG     moving                   M2 M1 A2.1+ E1 H4/A2.1 
 0000006 450  JJ      fast                     N3.8+ 
 0000006 460  CC      and                      Z5 
-0000006 470  VBDR    were                     Z5 A3+ 
+0000006 470  PPIS2   we                       Z8 
+0000006 471  VBR     're                      Z5 A3+ 
 0000006 480  VVG     expecting                X2.6+ B1 
 0000006 490  AT1     a                        Z5 
 0000006 500  NN1     release                  A1.7- A9- I2.2 K3 Q4 E6+ 
@@ -130,7 +132,8 @@
 0000008 320  NP1     Denny                    Z1mf 
 0000008 330  NN1     side                     A4.1 M6 N5.1- S7.3+/S5+c B1 S5+c S4c F1 S1.2 
 0000008 340  NN1     quest                    X2.4 
-0000008 350  VVZ     thats                    Z5 Z8 A13.3 A6.1+ 
+0000008 350  CST     that                     Z8 Z5 
+0000008 351  VBZ     's                       A3+ Z5 
 0000008 360  RR      twice                    N6 
 0000008 370  RG      as                       A13 
 0000008 380  JJ      big                      N3.2+ N5+ A11.1+ S1.2.5+ X5.2+ 
@@ -140,7 +143,8 @@
 0000008 420  NN1     game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
 0000008 421  !       !                        
 0000008 422  -----   -----                    
-0000008 430  APPGE   Its                      Z8 
+0000008 430  PPH1    It                       Z8 
+0000008 431  VBZ     's                       A3+ Z5 
 0000008 440  II      like                     Z5 
 0000008 450  AT1     an                       Z5 
 0000008 460  JJ      entire                   N5.1+ 
@@ -184,7 +188,8 @@
 0000010 040  RG      so                       A13.3 
 0000010 050  RR      well                     A5.1+ A13.3 A7+ B2+ Z4 
 0000010 060  CST     that                     Z8 Z5 
-0000010 070  VBDR    were                     Z5 A3+ 
+0000010 070  PPIS2   we                       Z8 
+0000010 071  VBR     're                      Z5 A3+ 
 0000010 080  VVG     talking                  Q2.1 
 0000010 090  II      to                       Z5 
 0000010 100  PPHO2   them                     Z8mfn 
@@ -261,7 +266,8 @@
 0000010 740  VVI     try                      X8+ X2.4 Q2.2 G2.1 A12- 
 0000010 750  PPH1    it                       Z8 
 0000010 760  RR      so                       Z5 A13.3 
-0000010 770  VBDR    were                     Z5 A3+ 
+0000010 770  PPIS2   we                       Z8 
+0000010 771  VBR     're                      Z5 A3+ 
 0000010 780  VVG     waiting                  T1.3 A3+ A11.1+ S1.1.1% 
 0000010 790  TO      to                       Z5 
 0000010 800  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
@@ -329,7 +335,8 @@
 0000010 360  NN2     housewares               H5 
 0000010 361  .       .                        
 0000010 362  -----   -----                    
-0000010 370  NN2     Theres                   Z5 M6 T1.2 
+0000010 370  EX      There                    Z5 
+0000010 371  VBZ     's                       A3+ Z5 
 0000010 380  RR      just                     A14 T3--- T1.3- N3.3--- 
 0000010 390  RG      so                       A13.3 
 0000010 400  DA1     much                     N5+ I1.3+ 
@@ -347,7 +354,8 @@
 0000010 520  NN1     stuff                    O1 O2 
 0000010 521  .       .                        
 0000011 001  -----   -----                    
-0000012 010  NN2     Heres                    M6 T1.1.2 T1.2 
+0000012 010  RL      Here                     M6 T1.1.2 T1.2 
+0000012 011  VBZ     's                       A3+ Z5 
 0000012 020  AT1     a                        Z5 
 0000012 030  NN1     picture                  C1 Q4.3 X4.1 
 0000012 040  IO      of                       Z5 
@@ -356,9 +364,10 @@
 0000012 070  NN1     art                      C1 X9.1+ 
 0000012 071  !       !                        
 0000012 072  -----   -----                    
-0000012 080  PPIS1   I                        Z4[i23.2.1 Z8mf 
-0000012 090  VV0     think                    Z4[i23.2.2 X2.1 
-0000012 100  VBDR    were                     Z5 A3+ 
+0000012 080  PPIS1   I                        Z8mf 
+0000012 090  VV0     think                    X2.1 
+0000012 100  PPIS2   we                       Z8 
+0000012 101  VBR     're                      Z5 A3+ 
 0000012 110  VVG     making                   A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
 0000012 120  PN1     something                Z8 
 0000012 130  RR      really                   A13.3 A5.2+ 
@@ -367,7 +376,8 @@
 0000012 160  AT      the                      Z5 
 0000012 170  NN1     Switch                   O3 A2.1+ 
 0000012 180  CC      and                      Z5 
-0000012 190  APPGE   its                      Z8 
+0000012 190  PPH1    it                       Z8 
+0000012 191  VBZ     's                       Z5 A3+ 
 0000012 200  VVGK    gon                      T1.1.3 
 0000012 201  TO      na                       Z5 
 0000012 210  VVI     introduce                S1.1.1 T2+ 
@@ -380,7 +390,8 @@
 0000012 280  CC      and                      Z5 
 0000012 290  NN2     Newgrounds               Z99 
 0000012 300  CC      and                      Z5 
-0000012 310  VVZ     thats                    Z5 Z8 A13.3 A6.1+ 
+0000012 310  DD1     that                     Z8 Z5 
+0000012 311  VBZ     's                       A3+ Z5 
 0000012 320  RR      always                   N6+++ 
 0000012 330  JJ      good                     A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
 0000012 331  .       .                        

@@ -1,16 +1,17 @@
-TOTAL              567
-the                  AT             41 
+TOTAL              572
+the                  AT             37 
 will                 VM             13 
 in                   II             13 
 of                   IO             12 
+the_sun              AT             11 
 be                   VBI            10 
 and                  CC             10 
+earth                NN1            10 
 to                   II              8 
 to                   TO              8 
 a                    AT1             7 
-the_sun              AT              7 
-earth                NN1             7 
 time                 NNT1            6 
+'s                   GE              6 
 from                 II              6 
 that                 CST             6 
 our                  APPGE           6 
@@ -28,17 +29,15 @@ leap                 NN1             4
 global               JJ              4 
 extra                JJ              4 
 at                   II              4 
+orbit                NN1             4 
 has                  VHZ             4 
 days                 NNT2            4 
 have                 VH0             4 
 influence            NN1             4 
 longer               JJR             4 
-suns                 NN2             4 
 research             NN1             4 
 can                  VM              4 
 scientists           NN2             3 
-earths               NN2             3 
-orbit                NN1             3 
 nearly               RR              3 
 seconds              NNT2            3 
 more                 DAR             3 
@@ -48,6 +47,7 @@ an                   AT1             3
 planet               NN1             3 
 now                  RT              3 
 change               NN1             3 
+we                   PPIS2           3 
 also                 RR              3 
 real                 JJ              3 
 learn                VV0             3 
@@ -58,6 +58,7 @@ replaced             VVN             2
 university_of_Surrey NN1             2 
 discover             VV0             2 
 changes              NN2             2 
+reduced              VVN             2 
 365.25               MC              2 
 need                 NN1             2 
 for                  IF              2 
@@ -68,14 +69,15 @@ mass                 NN1             2
 orbit                VVI             2 
 reduced              JJ              2 
 is                   VBZ             2 
-we                   PPIS2           2 
 automatically        RR              2 
 each_day             DD1             2 
 day                  NNT1            2 
 2017                 MC              2 
 affected             VVN             2 
+'s                   VBZ             2 
 space                NN1             2 
 impact               NN1             2 
+Surrey               NP1             2 
 expertise            NN1             2 
 more                 RRR             2 
 on                   II              2 
@@ -85,10 +87,8 @@ are                  VBR             2
 scrapped             VVN             1 
 dubbed               VVN             1 
 after                CS              1 
-reduced              VVN             1 
 pull                 NN1             1 
 extended             VVN             1 
-orbit                VV0             1 
 just                 RR              1 
 under_365.5          RG              1 
 add                  VVI             1 
@@ -178,7 +178,6 @@ future               NN1             1
 sister               NN1             1 
 planets              NN2             1 
 been                 VBN             1 
-reduced              VVD             1 
 sadly                RR              1 
 Neptune              NP1             1 
 one                  MC1             1 
@@ -196,7 +195,6 @@ not                  XX              1
 within               II              1 
 next                 MD              1 
 150                  MC              1 
-Surrey               NP1             1 
 combine              VV0             1 
 across               II              1 
 university           NN1             1 
@@ -216,7 +214,7 @@ making               VVG             1
 world                NN1             1 
 read                 VV0             1 
 3d-printed           JJ              1 
-sneezometer          NN1             1 
+sneezometer'         NN1             1 
 help                 VVI             1 
 diagnosis            NN1             1 
 respiratory          JJ              1 
@@ -233,7 +231,7 @@ boost                VVI             1
 memory               NN1             1 
 recall               VV0             1 
 explore              VV0             1 
-were                 VBDR            1 
+'re                  VBR             1 
 working              VVG             1 
 european             JJ              1 
 agency               NN1             1 
@@ -258,7 +256,7 @@ develop              VVI             1
 technologies         NN2             1 
 such_as              II21            1 
 smart                JJ              1 
-wallpaper            NN1             1 
+wallpaper'           NN1             1 
 find_out             VV0             1 
 test                 NN1             1 
 detect               VVI             1 
@@ -280,7 +278,6 @@ read                 VVI             1
 news                 NN1             1 
 stories              NN2             1 
 features             NN2             1 
-Surreys              NP2             1 
 research_environment NN1             1 
 fields               NN2             1 
 website              NN1             1 

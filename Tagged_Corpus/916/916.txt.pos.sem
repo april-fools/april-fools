@@ -1,9 +1,11 @@
 0000001 001  NULL    **6;0;START              
 0000001 002  -----   -----                    
-0000002 010  NN2     Techies                  Y2/S2mf 
+0000002 010  NP1@    Techies                  Y2/S2mf 
+0000002 011  GE      '                        Z5 
 0000002 020  VBZ     is                       A3+ Z5 
-0000002 030  MC1     one                      T3 N1 T1.2 
-0000002 040  VVZ     photographers            C1/S2mf 
+0000002 030  MC1     one                      N1 T3 T1.2 
+0000002 040  NN1     photographer             C1/S2mf 
+0000002 041  GE      's                       Z5 
 0000002 050  NN1     mission                  X7+ G3 S9 S9/H1 
 0000002 060  TO      to                       Z5 
 0000002 070  VVI     tell                     Q2.2 Q2.1 X3 A10+ 
@@ -11,7 +13,8 @@
 0000002 090  NN2     stories                  Q2.1 X4.1 
 0000002 100  IO      of                       Z5 
 0000002 110  NN1     Silicon                  O1.1 
-0000002 120  NN2     Valleys                  W3 
+0000002 120  NN1     Valley                   W3 
+0000002 121  GE      's                       Z5 
 0000002 130  NN2     minorities               N5-/S5+ 
 0000002 131  ,       ,                        
 0000002 140  CC      and                      Z5 
@@ -69,7 +72,7 @@
 0000004 340  DDQ     What                     Z8 Z5 
 0000004 350  PPHS1   he                       Z8m 
 0000004 360  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000004 361  XX      nt                       S9/Q4.1 Z3c 
+0000004 361  XX      n't                      Z6 
 0000004 370  VVI     notice                   X3.4+ A11.2+ Q2.2 X2.2+ S1.2.4+ G2.1 
 0000004 371  :       :                        
 0000004 380  AT      the                      Z5 
@@ -157,16 +160,17 @@
 0000008 261  ,       ,                        
 0000008 270  II21    such                     Z5[i7.2.1 
 0000008 280  II22    as                       Z5[i7.2.2 Z5 
-0000008 290  NP1     Pinterests               Z1mf[i9.3.1 Z3c[i9.3.1 Z1mf[i8.2.1 Z3c[i8.2.1 
-0000008 300  NP1     Tracy                    Z1mf[i9.3.2 Z3c[i9.3.2 Z1mf Z1mf[i8.2.2 Z3c[i8.2.2 Z1mf[i10.2.1 Z3c[i10.2.1 
-0000008 310  NP1     Chou                     Z3c[i9.3.3 Z1mf[i9.3.3 Z1 Z1mf[i10.2.2 Z3c[i10.2.2 
+0000008 290  NP1     Pinterest                Z99 
+0000008 291  GE      's                       Z5 
+0000008 300  NP1     Tracy                    Z1mf[i8.2.1 Z3c[i8.2.1 Z1mf 
+0000008 310  NP1     Chou                     Z1mf[i8.2.2 Z3c[i8.2.2 Z1 
 0000008 320  CC      and                      Z5 
 0000008 330  NN2     investors                I1.1/S2mf 
 0000008 340  NN1     Om                       Z99 
 0000008 350  NN1     Malik                    Z99 
 0000008 360  CC      and                      Z5 
-0000008 370  NP1     Tristan                  Z1mf[i11.2.1 Z3c[i11.2.1 
-0000008 380  NP1     Walker                   Z1mf[i11.2.2 Z3c[i11.2.2 Z1mf 
+0000008 370  NP1     Tristan                  Z1mf[i9.2.1 Z3c[i9.2.1 
+0000008 380  NP1     Walker                   Z1mf[i9.2.2 Z3c[i9.2.2 Z1mf 
 0000008 390  PNQS    who                      Z8 
 0000008 400  VH0     have                     Z5 A9+ A2.2 S4 
 0000008 410  VVN     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
@@ -181,15 +185,17 @@
 0000010 020  VVD     chose                    X7+ 
 0000010 030  AT      the                      Z5 
 0000010 040  NN1     title                    Q4 S7.1+ A9+ Q2.2 
-0000010 050  NN1     techie                   Y2/S2mf 
+0000010 050  NN1     techie'                  Z99 
 0000010 060  CS      because                  Z5/A2.2 
-0000010 070  APPGE   its                      Z8 
+0000010 070  PPH1    it                       Z8 
+0000010 071  VBZ     's                       A3+ Z5 
 0000010 080  JJ      negative                 Z6 S8- A5.1- 
 0000010 081  .       .                        
 0000010 082  -----   -----                    
-0000010 090  APPGE   Its                      Z8 
-0000010 100  NN1     kind                     A4.1 
-0000010 110  IO      of                       Z5 
+0000010 090  PPH1    It                       Z8 
+0000010 091  VBZ     's                       A3+ Z5 
+0000010 100  RR21%   kind                     Z4[i10.2.1 A13.4[i10.2.1 
+0000010 110  RR22    of                       Z4[i10.2.2 A13.4[i10.2.2 
 0000010 120  JJ      derogatory               A5.1- 
 0000010 121  .       .                        
 0000010 122  -----   -----                    
@@ -234,8 +240,8 @@
 0000010 421  .       .                        
 0000010 422  NULL    </quote>                 
 0000010 423  -----   -----                    
-0000012 010  NP1     Nancy                    Z1mf[i12.2.1 Z3c[i12.2.1 Z1f Z2 
-0000012 020  NP1     Douyon                   Z1mf[i12.2.2 Z3c[i12.2.2 
+0000012 010  NP1     Nancy                    Z1mf[i11.2.1 Z3c[i11.2.1 Z1f Z2 
+0000012 020  NP1     Douyon                   Z1mf[i11.2.2 Z3c[i11.2.2 
 0000012 021  ,       ,                        
 0000012 030  NP1     UX                       Z99 
 0000012 040  NN1     researcher               X2.4/S2mf 
@@ -245,7 +251,8 @@
 0000012 070  II      in                       Z5 
 0000012 080  NN1     tech                     Y1/P1 Y1 
 0000012 081  :       :                        
-0000012 090  VV0     Im                       Z99 
+0000012 090  PPIS1   I                        Z8mf 
+0000012 091  VBM     'm                       A3+ Z5 
 0000012 100  AT1     a                        Z5 
 0000012 110  NN1     User                     A1.5.1/S2mf 
 0000012 120  NN1     Experience               X2.2+ X9.1+ I3.2 A2.1+/A3+ X3 
@@ -276,8 +283,8 @@
 0000012 350  PPIS1   I                        Z8mf 
 0000012 360  RR      also                     N5++ 
 0000012 370  VH0     have                     A9+ Z5 A2.2 S4 
-0000012 380  APPGE   my                       Z8[i13.2.1 Z8 
-0000012 390  DA      own                      Z8[i13.2.2 A9+ S5- 
+0000012 380  APPGE   my                       Z8[i12.2.1 Z8 
+0000012 390  DA      own                      Z8[i12.2.2 A9+ S5- 
 0000012 400  NN1     mentorship               Z99 
 0000012 410  NN1     program                  Y2 X7+ Q4.3 Q1.2 P1 
 0000012 420  CS      where                    M6 
@@ -291,11 +298,12 @@
 0000012 500  II      in                       Z5 
 0000012 510  NN1     Tech                     Y1/P1 Y1 
 0000012 511  .       .                        
-0000012 512  -----   -----                    
+0000012 512  "@      '                        
+0000012 513  -----   -----                    
 0000012 520  NN1     Photograph               C1 
 0000012 521  :       :                        
-0000012 530  NP1     Helena                   Z1mf[i14.2.1 Z3c[i14.2.1 Z1f 
-0000012 540  NP1     Price                    Z1mf[i14.2.2 Z3c[i14.2.2 
+0000012 530  NP1     Helena                   Z1mf[i13.2.1 Z3c[i13.2.1 Z1f 
+0000012 540  NP1     Price                    Z1mf[i13.2.2 Z3c[i13.2.2 
 0000014 010  AT      The                      Z5 
 0000014 020  NN2     stories                  Q2.1 X4.1 
 0000014 030  VBR     are                      A3+ Z5 
@@ -317,11 +325,12 @@
 0000016 001  NULL    <quote>                  
 0000016 002  -----   -----                    
 0000016 010  RR      Apparently               A8 
-0000016 020  APPGE   its                      Z8 
+0000016 020  PPH1    it                       Z8 
+0000016 021  VBZ     's                       A3+ Z5 
 0000016 030  JJ      impossible               A7- A12- 
 0000016 040  TO      to                       Z5 
-0000016 050  VHI     have                     S4[i15.2.1 A9+ Z5 A2.2 S4 
-0000016 060  NN2     kids                     S4[i15.2.2 S2mf/T3- S4mf L2 
+0000016 050  VHI     have                     S4[i14.2.1 A9+ Z5 A2.2 S4 
+0000016 060  NN2     kids                     S4[i14.2.2 S2mf/T3- S4mf L2 
 0000016 070  CC      and                      Z5 
 0000016 080  VV0     continue                 T2++ 
 0000016 090  TO      to                       Z5 
@@ -332,8 +341,8 @@
 0000016 122  NULL    </quote>                 
 0000016 123  -----   -----                    
 0000016 130  VVD     said                     Q2.1 
-0000016 140  NP1     Lisa                     Z1mf[i16.2.1 Z3c[i16.2.1 Z1f 
-0000016 150  NP1     Dusseault                Z1mf[i16.2.2 Z3c[i16.2.2 
+0000016 140  NP1     Lisa                     Z1mf[i15.2.1 Z3c[i15.2.1 Z1f 
+0000016 150  NP1     Dusseault                Z1mf[i15.2.2 Z3c[i15.2.2 
 0000016 151  ,       ,                        
 0000016 160  AT1     a                        Z5 
 0000016 170  NN1     lead                     S7.1+ O2/L2 O3 S8+ O1.1 K4/S2mf 
@@ -368,11 +377,12 @@
 0000016 400  NN1     man                      S2.2m 
 0000016 410  II      in                       Z5 
 0000016 420  AT1     a                        Z5 
-0000016 430  NN2     womans                   S2.1f 
+0000016 430  NN1     woman                    S2.1f 
+0000016 431  GE      's                       Z5 
 0000016 440  NN1     body                     B1 O2 S5+c O4.1 S2mf 
 0000016 450  CS      because                  Z5/A2.2 
-0000016 460  NN1     look                     X3.4[i17.2.1 X2.4[i17.2.1 X2.1[i17.2.1 A8 X3.4 X2.4 O4.1 
-0000016 470  II      at                       X3.4[i17.2.2 X2.4[i17.2.2 X2.1[i17.2.2 Z5 
+0000016 460  NN1     look                     X3.4[i16.2.1 X2.4[i16.2.1 X2.1[i16.2.1 A8 X3.4 X2.4 O4.1 
+0000016 470  II      at                       X3.4[i16.2.2 X2.4[i16.2.2 X2.1[i16.2.2 Z5 
 0000016 480  RGQ@    how                      Z5 A13.3 
 0000016 490  DA1     much                     N5+ I1.3+ 
 0000016 500  PPHS1   she                      Z8f 
@@ -385,7 +395,8 @@
 0000016 550  CC      and                      Z5 
 0000016 560  NN2     systems                  X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 
 0000016 561  .       .                        
-0000016 562  -----   -----                    
+0000016 562  "@      '                        
+0000016 563  -----   -----                    
 0000016 570  CCB     But                      Z5 
 0000016 580  RT      then                     N4 Z5 T1.2 
 0000016 590  CS      when                     Z5 
@@ -413,7 +424,8 @@
 0000016 782  NULL    </quote>                 
 0000018 001  NULL    <quote>                  
 0000018 002  -----   -----                    
-0000018 010  NP1@    Theres                   Z5 M6 T1.2 
+0000018 010  EX      There                    Z5 
+0000018 011  VBZ     's                       A3+ Z5 
 0000018 020  NN1     sexism                   S2/S1.2.3+ 
 0000018 030  CC      and                      Z5 
 0000018 040  NN1     racism                   S5+/Z2 
@@ -429,9 +441,9 @@
 0000018 140  AT      the                      Z5 
 0000018 150  DAT     fewest                   N5--- 
 0000018 160  NN2     excuses                  A2.2 Q2.2 
-0000018 170  II31    in                       Z5[i18.3.1 Z5 
-0000018 180  II32    terms                    Z5[i18.3.2 
-0000018 190  II33    of                       Z5[i18.3.3 
+0000018 170  II31    in                       Z5[i17.3.1 Z5 
+0000018 180  II32    terms                    Z5[i17.3.2 
+0000018 190  II33    of                       Z5[i17.3.3 
 0000018 200  VVG     blaming                  Q2.2/G2.2- G2.1 
 0000018 210  NN1     history                  T1.1.1 P1/T1.1.1 Q2.1 B2 
 0000018 220  CC      or                       Z5 
@@ -448,8 +460,8 @@
 0000018 300  II      at                       Z5 
 0000018 310  APPGE   her                      Z8f 
 0000018 320  JJ      downtown                 M6 
-0000018 330  NP1     San                      Z2[i22.2.1 Z3c[i22.2.1 Z2[i20.2.1 Z2/S2mf Z2[i21.2.1 Z3c[i21.2.1 Z1mf[i19.2.1 Z3c[i19.2.1 
-0000018 340  NP1     Francisco                Z2[i22.2.2 Z3c[i22.2.2 Z2[i20.2.2 Z1m Z2[i21.2.2 Z3c[i21.2.2 Z1mf[i19.2.2 Z3c[i19.2.2 
+0000018 330  NP1     San                      Z2[i21.2.1 Z3c[i21.2.1 Z2[i19.2.1 Z2/S2mf Z2[i20.2.1 Z3c[i20.2.1 Z1mf[i18.2.1 Z3c[i18.2.1 
+0000018 340  NP1     Francisco                Z2[i21.2.2 Z3c[i21.2.2 Z2[i19.2.2 Z1m Z2[i20.2.2 Z3c[i20.2.2 Z1mf[i18.2.2 Z3c[i18.2.2 
 0000018 350  VV0     live/work                Z99 
 0000018 360  NN1     studio                   C1/H2 Q4.3/H1c H1 
 0000018 361  .       .                        
@@ -465,7 +477,8 @@
 0000018 431  .       .                        
 0000018 432  -----   -----                    
 0000018 440  RR      So                       Z5 A13.3 
-0000018 450  APPGE   its                      Z8 
+0000018 450  PPH1    it                       Z8 
+0000018 451  VBZ     's                       A3+ Z5 
 0000018 460  JJ@     like                     Z5 A6.1+ Z4 E2+ 
 0000018 461  ,       ,                        
 0000018 470  PPY     you                      Z8mf 
@@ -476,12 +489,12 @@
 0000018 520  VVI     set                      M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3 
 0000018 530  APPGE   your                     Z8 
 0000018 540  NN2     values                   A11.1+ I1.3 G2.2 A4.1 N1 
-0000018 550  RR      right                    N3.8+[i23.2.1 Z4 A5.3+ A4.2+ M6 A13.3 A13.2 
-0000018 560  RL      away                     N3.8+[i23.2.2 M6 A1.1.1% 
+0000018 550  RR      right                    N3.8+[i22.2.1 Z4 A5.3+ A4.2+ M6 A13.3 A13.2 
+0000018 560  RL      away                     N3.8+[i22.2.2 M6 A1.1.1% 
 0000018 570  CC      and                      Z5 
 0000018 580  PPY     you                      Z8mf 
 0000018 590  VDD     did                      A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
-0000018 591  XX      nt                       S9/Q4.1 Z3c 
+0000018 591  XX      n't                      Z6 
 0000018 592  .       .                        
 0000018 593  -----   -----                    
 0000018 600  CC      And                      Z5 
@@ -492,15 +505,16 @@
 0000018 650  NN      people                   S2mfc 
 0000018 660  PNQS    who                      Z8 
 0000018 670  VV0     believe                  X2.1 S9% 
-0000018 680  APPGE   its                      Z8 
+0000018 680  PPH1    it                       Z8 
+0000018 681  VBZ     's                       A3+ Z5 
 0000018 690  AT1     a                        Z5 
 0000018 700  NN1     meritocracy              X9.1+/S7.1+ 
 0000018 710  RL      here                     M6 T1.1.2 T1.2 
 0000018 711  .       .                        
 0000018 712  NULL    </quote>                 
 0000018 713  -----   -----                    
-0000020 010  NP1     Tiffany                  Z1mf[i24.2.1 Z3c[i24.2.1 Z3c 
-0000020 020  NP1     Taylor                   Z1mf[i24.2.2 Z3c[i24.2.2 Z1mf 
+0000020 010  NP1     Tiffany                  Z1mf[i23.2.1 Z3c[i23.2.1 Z3c 
+0000020 020  NP1     Taylor                   Z1mf[i23.2.2 Z3c[i23.2.2 Z1mf 
 0000020 021  ,       ,                        
 0000020 030  NN1     product                  O2 A1.1.1 A2.2 N2% 
 0000020 040  NN1     designer                 C1/S2mf B5/S2mf 
@@ -510,7 +524,8 @@
 0000020 070  II      in                       Z5 
 0000020 080  NN1     tech                     Y1/P1 Y1 
 0000020 081  :       :                        
-0000020 090  VV0     Im                       Z99 
+0000020 090  PPIS1   I                        Z8mf 
+0000020 091  VBM     'm                       A3+ Z5 
 0000020 100  AT1     a                        Z5 
 0000020 110  JJ      self-taught              P1/S5- 
 0000020 120  NN1     designer                 C1/S2mf B5/S2mf 
@@ -521,23 +536,24 @@
 0000020 150  PPIS1   I                        Z8mf 
 0000020 160  RR      never                    T1/Z6 
 0000020 170  VVD     thought                  X2.1 
-0000020 180  NN1     Id                       X2 
+0000020 180  PPIS1   I                        Z8mf 
+0000020 181  VM      'd                       A7+ 
 0000020 190  VBI     be                       A3+ Z5 
 0000020 200  JK      able                     X9.1+ 
 0000020 210  TO      to                       Z5 
 0000020 220  VVI     take                     A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
 0000020 230  APPGE   my                       Z8 
 0000020 240  JJ      geeky                    Z99 
-0000020 250  JJ      high                     P1/H1c[i25.2.1 N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9 
-0000020 260  NN1     school                   P1/H1c[i25.2.2 P1/H1c S5+c L2%c 
+0000020 250  JJ      high                     P1/H1c[i24.2.1 N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9 
+0000020 260  NN1     school                   P1/H1c[i24.2.2 P1/H1c S5+c L2%c 
 0000020 270  NN1     hobby                    K1 
 0000020 280  IO      of                       Z5 
 0000020 290  VVG     making                   A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
 0000020 300  NN2     websites                 Y2 
 0000020 310  CC      and                      Z5 
-0000020 320  VV0     turn                     A2.1+[i26.2.1 M2 M1 O4.4 A1.1.1 A2.1+ O4.2- 
+0000020 320  VV0     turn                     A2.1+[i25.2.1 M2 M1 O4.4 A1.1.1 A2.1+ O4.2- 
 0000020 330  PPH1    it                       Z8 
-0000020 340  II      into                     A2.1+[i26.2.2 Z5 
+0000020 340  II      into                     A2.1+[i25.2.2 Z5 
 0000020 350  AT1     a                        Z5 
 0000020 360  NN1     career                   I3.1 
 0000020 361  .       .                        
@@ -555,8 +571,8 @@
 0000020 460  NN1     perspective              X4.1 C1 
 0000020 470  CS      when                     Z5 
 0000020 480  PPH1    it                       Z8 
-0000020 490  VVZ     comes                    A4.1[i27.2.1 M1[i27.2.1 B1[i27.2.1 N5[i27.2.1 X6+[i27.2.1 X2.1[i27.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
-0000020 500  II      to                       A4.1[i27.2.2 M1[i27.2.2 B1[i27.2.2 N5[i27.2.2 X6+[i27.2.2 X2.1[i27.2.2 Z5 
+0000020 490  VVZ     comes                    A4.1[i26.2.1 M1[i26.2.1 B1[i26.2.1 N5[i26.2.1 X6+[i26.2.1 X2.1[i26.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000020 500  II      to                       A4.1[i26.2.2 M1[i26.2.2 B1[i26.2.2 N5[i26.2.2 X6+[i26.2.2 X2.1[i26.2.2 Z5 
 0000020 510  VVG     designing                C1 X7+ 
 0000020 520  NN2     experiences              X2.2+ X9.1+ I3.2 A2.1+/A3+ X3 
 0000020 521  .       .                        
@@ -581,11 +597,12 @@
 0000020 690  MC      six                      N1 T3 T1.2 
 0000020 700  NNT2    years                    T1.3 
 0000020 701  .       .                        
-0000020 702  -----   -----                    
+0000020 702  "@      '                        
+0000020 703  -----   -----                    
 0000020 710  NN1     Photograph               C1 
 0000020 711  :       :                        
-0000020 720  NP1     Helena                   Z1mf[i28.2.1 Z3c[i28.2.1 Z1f 
-0000020 730  NP1     Price                    Z1mf[i28.2.2 Z3c[i28.2.2 
+0000020 720  NP1     Helena                   Z1mf[i27.2.1 Z3c[i27.2.1 Z1f 
+0000020 730  NP1     Price                    Z1mf[i27.2.2 Z3c[i27.2.2 
 0000022 010  DA      Former                   T2- N4 
 0000022 020  NN1     Googler                  Z99 
 0000022 030  CC      and                      Z5 
@@ -597,8 +614,8 @@
 0000022 090  VVN     called                   Q2.2 S1.1.1 Q1.3 S9% 
 0000022 100  NP1     Mixmax                   Z99 
 0000022 101  ,       ,                        
-0000022 110  NP1     Chanpory                 Z1mf[i29.2.1 Z3c[i29.2.1 
-0000022 120  NP1     Rith                     Z1mf[i29.2.2 Z3c[i29.2.2 
+0000022 110  NP1     Chanpory                 Z1mf[i28.2.1 Z3c[i28.2.1 
+0000022 120  NP1     Rith                     Z1mf[i28.2.2 Z3c[i28.2.2 
 0000022 121  ,       ,                        
 0000022 130  AT1     a                        Z5 
 0000022 140  JJ      gay                      S3.2/B1 O4.2+ E4.1+ 
@@ -614,30 +631,32 @@
 0000022 230  IF      for                      Z5 
 0000022 240  DD      some                     N5 Z5 
 0000022 250  NN1     place                    M7 H1 A1.2 P1 
-0000022 260  RR21    a                        A13.6[i30.2.1 N6-[i30.2.1 
-0000022 270  RR22    little                   A13.6[i30.2.2 N6-[i30.2.2 A13.7 
+0000022 260  RR21    a                        A13.6[i29.2.1 N6-[i29.2.1 
+0000022 270  RR22    little                   A13.6[i29.2.2 N6-[i29.2.2 A13.7 
 0000022 280  RGR     more                     A13.3 
 0000022 290  JJ      diverse                  A6.3+ 
 0000022 291  .       .                        
 0000024 001  NULL    <quote>                  
 0000024 002  -----   -----                    
 0000024 010  PPIS1   I                        Z8mf 
-0000024 020  VMK     used                     T1.1.1[i31.2.1 A6.2+[i31.2.1 
-0000024 030  TO      to                       T1.1.1[i31.2.2 A6.2+[i31.2.2 Z5 
+0000024 020  VMK     used                     T1.1.1[i30.2.1 A6.2+[i30.2.1 
+0000024 030  TO      to                       T1.1.1[i30.2.2 A6.2+[i30.2.2 Z5 
 0000024 040  VVI     think                    X2.1 
-0000024 050  NN1     Id                       X2 
-0000024 060  VV0     live                     H4 L1+ A3 
+0000024 050  PPIS1   I                        Z8mf 
+0000024 051  VM      'd                       A7+ 
+0000024 060  VVI     live                     H4 L1+ A3 
 0000024 070  II      in                       Z5 
-0000024 080  NP1     San                      Z2[i35.2.1 Z3c[i35.2.1 Z2[i33.2.1 Z2/S2mf Z2[i34.2.1 Z3c[i34.2.1 Z1mf[i32.2.1 Z3c[i32.2.1 
-0000024 090  NP1     Francisco                Z2[i35.2.2 Z3c[i35.2.2 Z2[i33.2.2 Z1m Z2[i34.2.2 Z3c[i34.2.2 Z1mf[i32.2.2 Z3c[i32.2.2 
-0000024 100  IF      for                      T1.3+[i36.6.1 Z5 
-0000024 110  AT      the                      T1.3+[i36.6.2 Z5 
-0000024 120  NN1     rest                     T1.3+[i36.6.3 E3+ K1 T2-/T1.3 O2 N5.1- 
-0000024 130  IO      of                       T1.3+[i36.6.4 Z5 
-0000024 140  APPGE   my                       T1.3+[i36.6.5 Z8 
-0000024 150  NN1     life                     T1.3+[i36.6.6 L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1 
+0000024 080  NP1     San                      Z2[i34.2.1 Z3c[i34.2.1 Z2[i32.2.1 Z2/S2mf Z2[i33.2.1 Z3c[i33.2.1 Z1mf[i31.2.1 Z3c[i31.2.1 
+0000024 090  NP1     Francisco                Z2[i34.2.2 Z3c[i34.2.2 Z2[i32.2.2 Z1m Z2[i33.2.2 Z3c[i33.2.2 Z1mf[i31.2.2 Z3c[i31.2.2 
+0000024 100  IF      for                      T1.3+[i35.6.1 Z5 
+0000024 110  AT      the                      T1.3+[i35.6.2 Z5 
+0000024 120  NN1     rest                     T1.3+[i35.6.3 E3+ K1 T2-/T1.3 O2 N5.1- 
+0000024 130  IO      of                       T1.3+[i35.6.4 Z5 
+0000024 140  APPGE   my                       T1.3+[i35.6.5 Z8 
+0000024 150  NN1     life                     T1.3+[i35.6.6 L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1 
 0000024 160  CS      because                  Z5/A2.2 
-0000024 170  APPGE   its                      Z8 
+0000024 170  PPH1    it                       Z8 
+0000024 171  VBZ     's                       A3+ Z5 
 0000024 180  RR      just                     A14 T3--- T1.3- N3.3--- 
 0000024 190  RG      so                       A13.3 
 0000024 200  JJ      open                     A10+ S1.2.1+ X6- X5.2+ A7+ 
@@ -661,7 +680,8 @@
 0000024 340  VBZ     is                       A3+ Z5 
 0000024 350  NNU     $5                       Z99 
 0000024 351  ,       ,                        
-0000024 360  APPGE   its                      Z8 
+0000024 360  PPH1    it                       Z8 
+0000024 361  VBZ     's                       A3+ Z5 
 0000024 370  RR      kinda                    A13.4 
 0000024 380  JJ      crazy                    B2-/X1 S1.2.6- X5.2++ A1.1.1/N5+++ 
 0000024 381  ,       ,                        
@@ -681,7 +701,8 @@
 0000024 461  ,       ,                        
 0000024 470  CCB     but                      Z5 
 0000024 480  RRQ     when                     Z5 
-0000024 490  VVZ     thats                    Z5 Z8 A13.3 A6.1+ 
+0000024 490  DD1     that                     Z8 Z5 
+0000024 491  VBZ     's                       A3+ Z5 
 0000024 500  AT      the                      Z5 
 0000024 510  NN1     norm                     A6.2+ 
 0000024 511  ,       ,                        
@@ -692,23 +713,25 @@
 0000024 560  DA1     much                     N5+ I1.3+ 
 0000024 570  NN1     deviation                A6.1- 
 0000024 571  ,       ,                        
-0000024 580  APPGE   its                      Z8 
+0000024 580  PPH1    it                       Z8 
+0000024 581  VBZ     's                       A3+ Z5 
 0000024 590  JJ      obscene                  S1.2.4- G2.2- 
 0000024 591  .       .                        
 0000024 592  NULL    </quote>                 
 0000024 593  -----   -----                    
-0000026 010  NP1     Rachel                   Z1mf[i37.2.1 Z3c[i37.2.1 Z1f 
-0000026 020  NP1     Miller                   Z1mf[i37.2.2 Z3c[i37.2.2 Z1mf 
+0000026 010  NP1     Rachel                   Z1mf[i36.2.1 Z3c[i36.2.1 Z1f 
+0000026 020  NP1     Miller                   Z1mf[i36.2.2 Z3c[i36.2.2 Z1mf 
 0000026 021  ,       ,                        
-0000026 030  NN1     software                 Y2/S2mf[i38.2.1 Y2 
-0000026 040  NN1     engineer                 Y2/S2mf[i38.2.2 Y1/I3.2/S2mf 
+0000026 030  NN1     software                 Y2/S2mf[i37.2.1 Y2 
+0000026 040  NN1     engineer                 Y2/S2mf[i37.2.2 Y1/I3.2/S2mf 
 0000026 041  ,       ,                        
 0000026 050  MC      four                     N1 T3 T1.2 
 0000026 060  NNT2    years                    T1.3 
 0000026 070  II      in                       Z5 
 0000026 080  NN1     tech                     Y1/P1 Y1 
 0000026 081  :       :                        
-0000026 090  VV0     Im                       Z99 
+0000026 090  PPIS1   I                        Z8mf 
+0000026 091  VBM     'm                       A3+ Z5 
 0000026 100  AT1     a                        Z5 
 0000026 110  JJ      queer                    A6.2- S3.2 
 0000026 120  NN1     programmer               Y2/S2mf Q4.3/S2mf 
@@ -719,8 +742,8 @@
 0000026 161  .       .                        
 0000026 162  -----   -----                    
 0000026 170  PPIS1   I                        Z8mf 
-0000026 180  VVD     grew                     T3+/A2.1[i39.2.1 N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4 
-0000026 190  RP      up                       T3+/A2.1[i39.2.2 
+0000026 180  VVD     grew                     T3+/A2.1[i38.2.1 N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4 
+0000026 190  RP      up                       T3+/A2.1[i38.2.2 
 0000026 200  II      in                       Z5 
 0000026 210  NP1     Virginia                 Z2 Z1f 
 0000026 220  CC      and                      Z5 
@@ -747,18 +770,19 @@
 0000026 410  II      in                       Z5 
 0000026 420  NN1     SF                       Z99 
 0000026 421  .       .                        
-0000026 422  -----   -----                    
+0000026 422  "@      '                        
+0000026 423  -----   -----                    
 0000026 430  NN1     Photograph               C1 
 0000026 431  :       :                        
-0000026 440  NP1     Helena                   Z1mf[i40.2.1 Z3c[i40.2.1 Z1f 
-0000026 450  NP1     Price                    Z1mf[i40.2.2 Z3c[i40.2.2 
+0000026 440  NP1     Helena                   Z1mf[i39.2.1 Z3c[i39.2.1 Z1f 
+0000026 450  NP1     Price                    Z1mf[i39.2.2 Z3c[i39.2.2 
 0000028 010  RR      Originally               T1.1.1 
 0000028 020  II      from                     Z5 
 0000028 030  JJ      New                      T3- 
 0000028 040  NP1     Bern                     Z2 
 0000028 041  ,       ,                        
-0000028 050  ND1     North                    Z2[i41.2.1 M6 
-0000028 060  NP1     Carolina                 Z2[i41.2.2 Z2 
+0000028 050  ND1     North                    Z2[i40.2.1 M6 
+0000028 060  NP1     Carolina                 Z2[i40.2.2 Z2 
 0000028 061  ,       ,                        
 0000028 070  NP1     Price                    I1.3 
 0000028 080  VDZ     does                     A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
@@ -789,7 +813,8 @@
 0000028 280  RGT     most                     A13.2 
 0000028 290  JJ%     discriminated            Z99 
 0000028 300  NN2     groups                   S5+ A4.1 B3% 
-0000028 310  NN2     shes                     Z8f 
+0000028 310  PPHS1   she                      Z8f 
+0000028 311  VBZ     's                       Z5 A3+ 
 0000028 320  VVN     found                    A10+ X2.1 X6+.1 
 0000028 330  VBR     are                      A3+ Z5 
 0000028 340  JJR     older                    T3++ 
@@ -799,14 +824,14 @@
 0000030 002  -----   -----                    
 0000030 010  NN2     Guys                     S2.2m O2 
 0000030 020  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000030 021  XX      nt                       S9/Q4.1 Z3c 
+0000030 021  XX      n't                      Z6 
 0000030 030  VVI     want                     X7+ S6+ A7+ S3.2 A9- 
 0000030 040  TO      to                       Z5 
 0000030 050  VVI     hire                     I2.2 I3.1 
 0000030 060  PN1     someone                  Z8mfc 
 0000030 070  PNQS    who                      Z8 
-0000030 080  VVZ     looks                    A6.1+[i42.2.1 A8 X3.4 X2.4 X7+ Z4 
-0000030 090  II      like                     A6.1+[i42.2.2 Z5 
+0000030 080  VVZ     looks                    A6.1+[i41.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000030 090  II      like                     A6.1+[i41.2.2 Z5 
 0000030 100  APPGE   their                    Z8 
 0000030 110  NN1     mom                      S4/S2.1f 
 0000030 111  ,       ,                        
@@ -818,18 +843,19 @@
 0000030 132  NULL    <quote>                  
 0000030 133  -----   -----                    
 0000030 140  CS      If                       Z7 
-0000030 150  VV0     youre                    Z99 
+0000030 150  PPY     you                      Z8mf 
+0000030 151  VBR     're                      A3+ Z5 
 0000030 160  DB      all                      N5.1+ 
-0000030 170  MC      22                       T3[i44.3.1 N1 T1.2 T3 T1.3 N3.2 T3/S2mf[i43.3.1 T3[i43.3.1 T3[i45.3.1 
-0000030 180  NNT2    years                    T3[i44.3.2 T1.3 T3/S2mf[i43.3.2 T3[i43.3.2 T3[i45.3.2 
-0000030 190  JJ      old                      T3[i44.3.3 T3+ Z4 T3/S2mf[i43.3.3 T3[i43.3.3 T3[i45.3.3 
+0000030 170  MC      22                       T3[i43.3.1 N1 T1.2 T3 T1.3 N3.2 T3/S2mf[i42.3.1 T3[i42.3.1 T3[i44.3.1 
+0000030 180  NNT2    years                    T3[i43.3.2 T1.3 T3/S2mf[i42.3.2 T3[i42.3.2 T3[i44.3.2 
+0000030 190  JJ      old                      T3[i43.3.3 T3+ Z4 T3/S2mf[i42.3.3 T3[i42.3.3 T3[i44.3.3 
 0000030 191  ,       ,                        
 0000030 200  VHG     having                   A9+ Z5 A2.2 S4 
 0000030 210  APPGE   your                     Z8 
 0000030 220  NN1     mom                      S4/S2.1f 
 0000030 230  RP      around                   M6 
 0000030 240  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000030 241  XX      nt                       S9/Q4.1 Z3c 
+0000030 241  XX      n't                      Z6 
 0000030 250  VVI     sound                    X3.2 Q2.2 A8 N3.1% 
 0000030 260  NN1     fun                      E4.1+ 
 0000030 261  ,       ,                        
@@ -837,22 +863,23 @@
 0000030 271  ?       ?                        
 0000030 272  NULL    </quote>                 
 0000030 273  -----   -----                    
-0000032 010  NP1     Kanyi                    Z1mf[i46.2.1 Z3c[i46.2.1 
-0000032 020  NP1     Maqubela                 Z1mf[i46.2.2 Z3c[i46.2.2 
+0000032 010  NP1     Kanyi                    Z1mf[i45.2.1 Z3c[i45.2.1 
+0000032 020  NP1     Maqubela                 Z1mf[i45.2.2 Z3c[i45.2.2 
 0000032 021  ,       ,                        
 0000032 030  NNA     VC                       S7.1+/S2mf P1/S2mf 
 0000032 040  VV0@    partner                  S3.1 
 0000032 041  :       :                        
-0000032 050  VV0     Im                       Z99 
+0000032 050  PPIS1   I                        Z8mf 
+0000032 051  VBM     'm                       A3+ Z5 
 0000032 060  AT1     a                        Z5 
-0000032 070  NP1     South                    Z2mfn[i47.2.1 
-0000032 080  JJ      African                  Z2mfn[i47.2.2 Z2 
+0000032 070  NP1     South                    Z2mfn[i46.2.1 
+0000032 080  JJ      African                  Z2mfn[i46.2.2 Z2 
 0000032 090  JJ      American                 Z2 
 0000032 100  NN1     living                   H4 L1+ I3.1 I1.1 S9% 
 0000032 110  II      in                       Z5 
-0000032 120  NP1     New                      Z1mf[i49.3.1 Z3c[i49.3.1 Z1mf[i48.2.1 Z3c[i48.2.1 Z2[i50.2.1 
-0000032 130  NP1     York                     Z1mf[i49.3.2 Z3c[i49.3.2 Z2 Z1mf Z1mf[i48.2.2 Z3c[i48.2.2 Z2[i50.2.2 Z2[i51.2.1 Z3c[i51.2.1 Z1mf[i52.2.1 Z3c[i52.2.1 
-0000032 140  NN1     City                     Z3c[i49.3.3 Z1mf[i49.3.3 M7/I2.1c Z3c Z2[i51.2.2 Z3c[i51.2.2 Z1mf[i52.2.2 Z3c[i52.2.2 
+0000032 120  NP1     New                      Z1mf[i48.3.1 Z3c[i48.3.1 Z1mf[i47.2.1 Z3c[i47.2.1 Z2[i49.2.1 
+0000032 130  NP1     York                     Z1mf[i48.3.2 Z3c[i48.3.2 Z2 Z1mf Z1mf[i47.2.2 Z3c[i47.2.2 Z2[i49.2.2 Z2[i50.2.1 Z3c[i50.2.1 Z1mf[i51.2.1 Z3c[i51.2.1 
+0000032 140  NN1     City                     Z3c[i48.3.3 Z1mf[i48.3.3 M7/I2.1c Z3c Z2[i50.2.2 Z3c[i50.2.2 Z1mf[i51.2.2 Z3c[i51.2.2 
 0000032 141  .       .                        
 0000032 142  -----   -----                    
 0000032 150  PPIS1   I                        Z8mf 
@@ -874,35 +901,36 @@
 0000032 290  VBM     am                       A3+ Z5 
 0000032 300  RT      now                      T1.1.2 Z4 
 0000032 310  AT1     a                        Z5 
-0000032 320  NN1     venture                  I1.1/S2mf[i53.2.1 X8+ A15- I2.1 
-0000032 330  NN1     capitalist               I1.1/S2mf[i53.2.2 
+0000032 320  NN1     venture                  I1.1/S2mf[i52.2.1 X8+ A15- I2.1 
+0000032 330  NN1     capitalist               I1.1/S2mf[i52.2.2 
 0000032 331  ,       ,                        
 0000032 340  VVG     investing                I1.1 
 0000032 350  II      in                       Z5 
 0000032 360  JJ      mission-driven           Z99 
-0000032 370  NN1     consumer                 I2.2/I2.1c[i54.2.1 I2.2/S2mf 
-0000032 380  NN2     companies                I2.2/I2.1c[i54.2.2 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000032 370  NN1     consumer                 I2.2/I2.1c[i53.2.1 I2.2/S2mf 
+0000032 380  NN2     companies                I2.2/I2.1c[i53.2.2 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
 0000032 381  .       .                        
-0000032 382  -----   -----                    
+0000032 382  "@      '                        
+0000032 383  -----   -----                    
 0000032 390  NN1     Photograph               C1 
 0000032 391  :       :                        
-0000032 400  NP1     Helena                   Z1mf[i55.2.1 Z3c[i55.2.1 Z1f 
-0000032 410  NP1     Price                    Z1mf[i55.2.2 Z3c[i55.2.2 
+0000032 400  NP1     Helena                   Z1mf[i54.2.1 Z3c[i54.2.1 Z1f 
+0000032 410  NP1     Price                    Z1mf[i54.2.2 Z3c[i54.2.2 
 0000034 010  II      In                       Z5 
 0000034 020  AT      the                      Z5 
 0000034 030  NN1     span                     T1.3 N3.3 N3.7 H1 
-0000034 040  IO      of                       N6+[i56.3.1 T1.2[i56.3.1 Z5 
-0000034 050  AT1     a                        N6+[i56.3.2 T1.2[i56.3.2 Z5 
-0000034 060  NNT1    week                     N6+[i56.3.3 T1.2[i56.3.3 T1.3 
+0000034 040  IO      of                       N6+[i55.3.1 T1.2[i55.3.1 Z5 
+0000034 050  AT1     a                        N6+[i55.3.2 T1.2[i55.3.2 Z5 
+0000034 060  NNT1    week                     N6+[i55.3.3 T1.2[i55.3.3 T1.3 
 0000034 070  PPIS1   I                        Z8mf 
 0000034 080  VVD     moved                    M2 M1 A2.1+ E1 H4/A2.1 
 0000034 090  II      across                   Z5 
 0000034 100  AT      the                      Z5 
 0000034 110  NN1     country                  G1.1c W3 F4/M7 K2 
 0000034 111  ,       ,                        
-0000034 120  VVD     came                     M1[i57.2.1 A10-[i57.2.1 A10+[i57.2.1 A1.1.1[i57.2.1 T2-[i57.2.1 S3.2/B1@[i57.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
-0000034 130  II21    out                      M1[i57.2.2 A10-[i57.2.2 A10+[i57.2.2 A1.1.1[i57.2.2 T2-[i57.2.2 S3.2/B1@[i57.2.2 Z5 Z5[i58.2.1 Z5[i59.2.1 A9-[i59.2.1 
-0000034 140  II22    of                       Z5 Z5[i58.2.2 Z5[i59.2.2 A9-[i59.2.2 
+0000034 120  VVD     came                     M1[i56.2.1 A10-[i56.2.1 A10+[i56.2.1 A1.1.1[i56.2.1 T2-[i56.2.1 S3.2/B1@[i56.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000034 130  II21    out                      M1[i56.2.2 A10-[i56.2.2 A10+[i56.2.2 A1.1.1[i56.2.2 T2-[i56.2.2 S3.2/B1@[i56.2.2 Z5 Z5[i57.2.1 Z5[i58.2.1 A9-[i58.2.1 
+0000034 140  II22    of                       Z5 Z5[i57.2.2 Z5[i58.2.2 A9-[i58.2.2 
 0000034 150  AT      the                      Z5 
 0000034 160  NN1     closet                   H5 
 0000034 161  ,       ,                        
@@ -911,8 +939,8 @@
 0000034 190  AT1     a                        Z5 
 0000034 200  JJ      new                      T3- 
 0000034 210  NN1     job                      I3.1 A1.1.1 A12- 
-0000036 010  NP1     Lydia                    Z1mf[i60.2.1 Z3c[i60.2.1 Z1f Z2 
-0000036 020  NP1     Fernandez                Z1mf[i60.2.2 Z3c[i60.2.2 Z1mf 
+0000036 010  NP1     Lydia                    Z1mf[i59.2.1 Z3c[i59.2.1 Z1f Z2 
+0000036 020  NP1     Fernandez                Z1mf[i59.2.2 Z3c[i59.2.2 Z1mf 
 0000036 021  ,       ,                        
 0000036 030  NN1     engineer                 Y1/I3.2/S2mf 
 0000036 031  ,       ,                        
@@ -921,7 +949,8 @@
 0000036 060  II      in                       Z5 
 0000036 070  NN1     tech                     Y1/P1 Y1 
 0000036 071  :       :                        
-0000036 080  VV0     Im                       Z99 
+0000036 080  PPIS1   I                        Z8mf 
+0000036 081  VBM     'm                       A3+ Z5 
 0000036 090  AT1     a                        Z5 
 0000036 100  NN2     trans                    Z5 I2.2 
 0000036 110  NN1     woman                    S2.1f 
@@ -940,8 +969,8 @@
 0000036 210  VVD     began                    T2+ 
 0000036 220  APPGE   my                       Z8 
 0000036 230  MD      first                    N4 
-0000036 240  JJ      full                     T1.3+[i61.2.1 N5.1+ I3.2+ 
-0000036 250  NNT1    time                     T1.3+[i61.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000036 240  JJ      full                     T1.3+[i60.2.1 N5.1+ I3.2+ 
+0000036 250  NNT1    time                     T1.3+[i60.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000036 260  NN1     job                      I3.1 A1.1.1 A12- 
 0000036 270  II      at                       Z5 
 0000036 280  FW      Uber                     Z99 
@@ -950,18 +979,18 @@
 0000036 290  II      In                       Z5 
 0000036 300  AT      the                      Z5 
 0000036 310  NN1     span                     T1.3 N3.3 N3.7 H1 
-0000036 320  IO      of                       N6+[i62.3.1 T1.2[i62.3.1 Z5 
-0000036 330  AT1     a                        N6+[i62.3.2 T1.2[i62.3.2 Z5 
-0000036 340  NNT1    week                     N6+[i62.3.3 T1.2[i62.3.3 T1.3 
+0000036 320  IO      of                       N6+[i61.3.1 T1.2[i61.3.1 Z5 
+0000036 330  AT1     a                        N6+[i61.3.2 T1.2[i61.3.2 Z5 
+0000036 340  NNT1    week                     N6+[i61.3.3 T1.2[i61.3.3 T1.3 
 0000036 350  PPIS1   I                        Z8mf 
 0000036 360  VVD     moved                    M2 M1 A2.1+ E1 H4/A2.1 
 0000036 370  II      across                   Z5 
 0000036 380  AT      the                      Z5 
 0000036 390  NN1     country                  G1.1c W3 F4/M7 K2 
 0000036 391  ,       ,                        
-0000036 400  VVD     came                     M1[i63.2.1 A10-[i63.2.1 A10+[i63.2.1 A1.1.1[i63.2.1 T2-[i63.2.1 S3.2/B1@[i63.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
-0000036 410  II21    out                      M1[i63.2.2 A10-[i63.2.2 A10+[i63.2.2 A1.1.1[i63.2.2 T2-[i63.2.2 S3.2/B1@[i63.2.2 Z5 Z5[i64.2.1 Z5[i65.2.1 A9-[i65.2.1 
-0000036 420  II22    of                       Z5 Z5[i64.2.2 Z5[i65.2.2 A9-[i65.2.2 
+0000036 400  VVD     came                     M1[i62.2.1 A10-[i62.2.1 A10+[i62.2.1 A1.1.1[i62.2.1 T2-[i62.2.1 S3.2/B1@[i62.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000036 410  II21    out                      M1[i62.2.2 A10-[i62.2.2 A10+[i62.2.2 A1.1.1[i62.2.2 T2-[i62.2.2 S3.2/B1@[i62.2.2 Z5 Z5[i63.2.1 Z5[i64.2.1 A9-[i64.2.1 
+0000036 420  II22    of                       Z5 Z5[i63.2.2 Z5[i64.2.2 A9-[i64.2.2 
 0000036 430  AT      the                      Z5 
 0000036 440  NN1     closet                   H5 
 0000036 441  ,       ,                        
@@ -986,13 +1015,14 @@
 0000036 630  VBN     been                     A3+ Z5 
 0000036 640  RR      publicly                 A10+ 
 0000036 641  .       .                        
-0000036 642  -----   -----                    
+0000036 642  "@      '                        
+0000036 643  -----   -----                    
 0000036 650  NN1     Photograph               C1 
 0000036 651  :       :                        
-0000036 660  NP1     Helena                   Z1mf[i67.3.1 Z3c[i67.3.1 Z1f Z1mf[i66.2.1 Z3c[i66.2.1 
-0000036 670  NP1     Price                    Z1mf[i67.3.2 Z3c[i67.3.2 Z1mf[i69.3.1 Z3c[i69.3.1 Z1mf[i66.2.2 Z3c[i66.2.2 Z1mf[i68.2.1 Z3c[i68.2.1 
-0000038 010  NP1     Amy                      Z3c[i67.3.3 Z1mf[i67.3.3 Z1mf[i69.3.2 Z3c[i69.3.2 Z1f Z1mf[i68.2.2 Z3c[i68.2.2 Z1mf[i70.2.1 Z3c[i70.2.1 
-0000038 020  NP1     Wibowo                   Z3c[i69.3.3 Z1mf[i69.3.3 Z1mf[i70.2.2 Z3c[i70.2.2 
+0000036 660  NP1     Helena                   Z1mf[i66.3.1 Z3c[i66.3.1 Z1f Z1mf[i65.2.1 Z3c[i65.2.1 
+0000036 670  NP1     Price                    Z1mf[i66.3.2 Z3c[i66.3.2 Z1mf[i68.3.1 Z3c[i68.3.1 Z1mf[i65.2.2 Z3c[i65.2.2 Z1mf[i67.2.1 Z3c[i67.2.1 
+0000038 010  NP1     Amy                      Z3c[i66.3.3 Z1mf[i66.3.3 Z1mf[i68.3.2 Z3c[i68.3.2 Z1f Z1mf[i67.2.2 Z3c[i67.2.2 Z1mf[i69.2.1 Z3c[i69.2.1 
+0000038 020  NP1     Wibowo                   Z3c[i68.3.3 Z1mf[i68.3.3 Z1mf[i69.2.2 Z3c[i69.2.2 
 0000038 021  ,       ,                        
 0000038 030  NN1     founder                  T2+/S2mf 
 0000038 031  ,       ,                        
@@ -1001,7 +1031,8 @@
 0000038 060  II      in                       Z5 
 0000038 070  NN1     tech                     Y1/P1 Y1 
 0000038 071  :       :                        
-0000038 080  VV0     Im                       Z99 
+0000038 080  PPIS1   I                        Z8mf 
+0000038 081  VBM     'm                       A3+ Z5 
 0000038 090  JJ      Indonesian-American      Z99 
 0000038 100  CC      and                      Z5 
 0000038 110  VVD     moved                    M2 M1 A2.1+ E1 H4/A2.1 
@@ -1030,9 +1061,9 @@
 0000038 310  NN1     research                 X2.4 
 0000038 320  II      at                       Z5 
 0000038 330  AT      the                      Z5 
-0000038 340  NN1     University               Z3c[i71.3.1 P1/H1c 
-0000038 350  IO      of                       Z3c[i71.3.2 Z5 
-0000038 360  NP1     Tokyo                    Z3c[i71.3.3 Z2 
+0000038 340  NN1     University               Z3c[i70.3.1 P1/H1c 
+0000038 350  IO      of                       Z3c[i70.3.2 Z5 
+0000038 360  NP1     Tokyo                    Z3c[i70.3.3 Z2 
 0000038 370  CC      and                      Z5 
 0000038 380  NN1     web                      Y2 L2 O2 
 0000038 390  NN1     development              A2.1+ A5.1+/A2.1 H1 
@@ -1040,32 +1071,33 @@
 0000038 410  NP1     Airbnb                   Z99 
 0000038 411  ,       ,                        
 0000038 420  II      before                   Z5 
-0000038 430  VVG     going                    T2++[i72.2.1 M1[i72.2.1 Q2.1/N5+[i72.2.1 A1.1.1[i72.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
-0000038 440  RP      on                       T2++[i72.2.2 M1[i72.2.2 Q2.1/N5+[i72.2.2 A1.1.1[i72.2.2 M6 A1.1.1 
+0000038 430  VVG     going                    T2++[i71.2.1 M1[i71.2.1 Q2.1/N5+[i71.2.1 A1.1.1[i71.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000038 440  RP      on                       T2++[i71.2.2 M1[i71.2.2 Q2.1/N5+[i71.2.2 A1.1.1[i71.2.2 M6 A1.1.1 
 0000038 450  TO      to                       Z5 
 0000038 460  VVI     start                    T2+ E5- E3- 
-0000038 470  APPGE   my                       Z8[i73.2.1 Z8 
-0000038 480  DA      own                      Z8[i73.2.2 A9+ S5- 
-0000038 490  NN1     computer                 Y2[i74.2.1 Y2 
-0000038 500  NN1     science                  Y2[i74.2.2 Y1 
-0000038 510  NN1     education                P1/I2.1c[i75.2.1 P1 X2.3+ 
-0000038 520  NN1     company                  P1/I2.1c[i75.2.2 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000038 470  APPGE   my                       Z8[i72.2.1 Z8 
+0000038 480  DA      own                      Z8[i72.2.2 A9+ S5- 
+0000038 490  NN1     computer                 Y2[i73.2.1 Y2 
+0000038 500  NN1     science                  Y2[i73.2.2 Y1 
+0000038 510  NN1     education                P1/I2.1c[i74.2.1 P1 X2.3+ 
+0000038 520  NN1     company                  P1/I2.1c[i74.2.2 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
 0000038 521  .       .                        
 0000038 522  -----   -----                    
 0000038 530  RR      Currently                T1.1.2 
 0000038 531  ,       ,                        
-0000038 540  VV0     Im                       Z99 
+0000038 540  PPIS1   I                        Z8mf 
+0000038 541  VBM     'm                       Z5 A3+ 
 0000038 550  VVG     writing                  Q1.2 I2.1 
 0000038 560  AT      the                      Z5 
-0000038 570  NN1     computer                 Y2[i76.2.1 Y2 
-0000038 580  NN1     science                  Y2[i76.2.2 Y1 
+0000038 570  NN1     computer                 Y2[i75.2.1 Y2 
+0000038 580  NN1     science                  Y2[i75.2.2 Y1 
 0000038 590  NN1     textbook                 Q4.1/P1 
 0000038 600  PPIS1   I                        Z8mf 
 0000038 610  VV0     wish                     X7+ 
 0000038 620  PPIS1   I                        Z8mf 
 0000038 630  VHD     had                      A9+ Z5 A2.2 S4 
-0000038 640  VVG     growing                  T3+/A2.1[i77.2.1 N3.2+/A2.1[i77.2.1 S1.2.6+/A2.1[i77.2.1 N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4 
-0000038 650  RP      up                       T3+/A2.1[i77.2.2 N3.2+/A2.1[i77.2.2 S1.2.6+/A2.1[i77.2.2 
+0000038 640  VVG     growing                  T3+/A2.1[i76.2.1 N3.2+/A2.1[i76.2.1 S1.2.6+/A2.1[i76.2.1 N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4 
+0000038 650  RP      up                       T3+/A2.1[i76.2.2 N3.2+/A2.1[i76.2.2 S1.2.6+/A2.1[i76.2.2 
 0000038 651  ,       ,                        
 0000038 660  JJ      full                     N5.1+ I3.2+ 
 0000038 670  IO      of                       Z5 
@@ -1073,9 +1105,10 @@
 0000038 690  IO      of                       Z5 
 0000038 700  NN2     cats                     L2mfn 
 0000038 701  .       .                        
-0000038 702  -----   -----                    
+0000038 702  "@      '                        
+0000038 703  -----   -----                    
 0000038 710  NN1     Photograph               C1 
 0000038 711  :       :                        
-0000038 720  NP1     Helena                   Z1mf[i78.2.1 Z3c[i78.2.1 Z1f 
-0000038 730  NP1     Price                    Z1mf[i78.2.2 Z3c[i78.2.2 
+0000038 720  NP1     Helena                   Z1mf[i77.2.1 Z3c[i77.2.1 Z1f 
+0000038 730  NP1     Price                    Z1mf[i77.2.2 Z3c[i77.2.2 
 0000042 001  NULL    **8;7;text               

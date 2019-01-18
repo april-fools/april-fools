@@ -1,19 +1,18 @@
-TOTAL              265
+TOTAL              269
 the                  AT             26 
 a                    AT1             7 
+is                   VBZ             7 
 to                   TO              6 
-is                   VBZ             6 
 rage                 NN1             5 
 against              II              5 
 album                NN1             5 
+trump                NN1             5 
 machine              NN1             4 
 in                   II              4 
 about                II              4 
-trump                NN1             4 
 has                  VHZ             3 
 than                 CSN             3 
 have                 VH0             3 
-music                NN1             3 
 band                 NN1             3 
 their                APPGE           3 
 and                  CC              3 
@@ -21,6 +20,7 @@ outside_of           II21            3
 now                  RT              3 
 here                 RL              3 
 been                 VBN             2 
+music                NN1             2 
 of                   IO              2 
 but                  CCB             2 
 statement            NN1             2 
@@ -30,9 +30,10 @@ we                   PPIS2           2
 on                   II              2 
 convention           NN1             2 
 this                 DD1             2 
+n't                  XX              2 
 time                 NNT1            2 
+you                  PPY             2 
 not                  XX              2 
-nt                   XX              2 
 what                 DDQ             2 
 better               JJR             2 
 it                   PPH1            1 
@@ -97,7 +98,6 @@ national             JJ              1
 Cleveland            NP1             1 
 Ohio_on_July         NP1             1 
 18th                 MD              1 
-isnt                 NN1             1 
 first                MD              1 
 showed_up            VVD             1 
 political            JJ              1 
@@ -111,12 +111,11 @@ DNC                  NP1             1
 video                NN1             1 
 for                  IF              1 
 sleep                NN1             1 
-fire                 NN1             1 
+Fire'                NP1             1 
 famously             RR              1 
 predicted            VVN             1 
 presidential         JJ              1 
 run                  NN1             1 
-you                  PPY             1 
 will                 VM              1 
 able                 JK              1 
 pre-order            NN1             1 
@@ -133,13 +132,15 @@ official             JJ              1
 track                NN1             1 
 listing              NN1             1 
 sleep                VV0             1 
-trump_Youre          VV0             1 
-fired                VVD             1 
-trumps               NN2             1 
+trump                VV0             1 
+'re                  VBR             1 
+fired                VVN             1 
+'s                   GE              1 
 bullshit             NN1             1 
 parade               NN1             1 
 there                RL              1 
 ai                   FU              1 
+nt                   XX              1 
 no                   AT              1 
 spray-tan            NN1             1 
 trumpify             VV0             1 
@@ -156,6 +157,7 @@ others               NN2             1
 spread               VVI             1 
 word                 NN1             1 
 disgusting           JJ              1 
+music'               NN1             1 
 clearly              RR              1 
 he                   PPHS1           1 
 does                 VDZ             1 

@@ -1,4 +1,4 @@
-TOTAL              176
+TOTAL              180
 the                  AT              9 
 will                 VM              6 
 of                   IO              5 
@@ -17,6 +17,8 @@ has                  VHZ             2
 announced            VVN             2 
 them                 PPHO2           2 
 is                   VBZ             2 
+band                 NN1             2 
+'s                   GE              2 
 been                 VBN             2 
 group                NN1             2 
 it                   PPH1            2 
@@ -33,7 +35,8 @@ girls                NN2             1
 who                  PNQS            1 
 are                  VBR             1 
 probably             RR              1 
-mid-20s              MC2             1 
+mid-20               MC              1 
+'s                   VBZ             1 
 now                  RT              1 
 popular              JJ              1 
 boy_band             NN1             1 
@@ -44,7 +47,8 @@ take                 VVI             1
 across               II              1 
 north_America        ND1             1 
 2012                 MC              1 
-were                 VBDR            1 
+we                   PPIS2           1 
+'re                  VBR             1 
 too                  RG              1 
 old                  JJ              1 
 in_support_of        II31            1 
@@ -66,7 +70,6 @@ concert              NN1             1
 insider              NN1             1 
 April_Sciocchi       NP1             1 
 said                 VVD             1 
-bands                NN2             1 
 first                MD              1 
 since                CS              1 
 PopOdyssey_Tour      NP1             1 
@@ -76,7 +79,6 @@ bigger               JJR             1
 than                 CSN             1 
 any                  DD              1 
 other                JJ              1 
-band                 NN1             1 
 out_there            RP              1 
 right_now            RR              1 
 fans                 NN2             1 
@@ -90,7 +92,7 @@ formed               VVN             1
 1995                 MC              1 
 but                  CCB             1 
 did                  VDD             1 
-nt                   XX              1 
+n't                  XX              1 
 hit                  VVI             1 
 big                  JJ              1 
 until                CS              1 
@@ -106,7 +108,7 @@ hits                 NN2             1
 like                 VV0             1 
 want                 VV0             1 
 back                 RP              1 
-tearin_up            NN1             1 
+tearin'_up           VVG             1 
 my                   APPGE           1 
 heart                NN1             1 
 drive_crazy          VV0             1 
@@ -121,7 +123,7 @@ open                 VVI             1
 at                   II              1 
 Springfield_stadium  NP1             1 
 home                 NN1             1 
-baseballs            NN2             1 
+baseball             NN1             1 
 Springfield_Isotopes NP1             1 
 on                   II              1 
 June_31              NPM1            1 

@@ -1,21 +1,23 @@
-TOTAL             1138
+TOTAL             1161
 the                  Z5                  64 
 a                    Z5                  28 
 of                   Z5                  26 
 and                  Z5                  24 
 to                   Z5                  23 
+'s                   Z5                  20 
 tournament           S7.3                19 
-in                   Z5                  17 
+in                   Z5                  18 
 was                  A3+                 17 
+England              Z2                  15 
 for                  Z5                  14 
-England              Z2                  12 
+India                Z2                  13 
 but                  Z5                  12 
-it                   Z8                  11 
-India                Z2                  10 
+it                   Z8                  12 
 Yuvraj_Singh         Z1                   9 
 have                 Z5                   9 
 that                 Z8                   8 
 should               S6+                  8 
+dhoni                Z99                  8 
 final                K5.1                 8 
 be                   Z5                   8 
 his                  Z8                   7 
@@ -39,7 +41,6 @@ with                 Z5                   5
 game                 K5.1                 5 
 most                 N5+++                5 
 memorable            X2.2+                5 
-dhoni                Z99                  5 
 had                  Z5                   5 
 biggest              N3.2+++              5 
 disappointment       E4.2-                5 
@@ -63,6 +64,7 @@ Zaheer_Khan          Z1                   4
 six                  N1                   4 
 that                 Z5                   4 
 4                    N1                   4 
+Mahela_Jayawardene   Z1                   4 
 5                    N1                   4 
 player               K6                   4 
 against              Z5                   4 
@@ -73,42 +75,37 @@ he                   Z8                   3
 runs                 M1                   3 
 only                 A14                  3 
 Tim_Southee          Z1                   3 
-Englands             Z2                   3 
 winning              X9.2+                3 
 will                 T1.1.3               3 
 innings              K5.1                 3 
 Ireland              Z2                   3 
 teams                S5+                  3 
 Kumar_Sangakkara     Z1                   3 
-Mahela_Jayawardene   Z1                   3 
 not                  Z6                   3 
 more                 A13.3                3 
 than                 Z5                   3 
 be                   A3+                  3 
 Sri_Lanka            Z2                   3 
-dhonis               Z99                  3 
 win                  X9.2+                3 
 then                 N4                   3 
 by                   Z5                   3 
 like                 Z5                   3 
 two                  N1                   3 
-well                 A5.1+                3 
 first                N4                   3 
 West_Indies          Z2                   3 
 one                  N1                   3 
 no                   Z6                   3 
 bangladesh           Z2                   3 
 bowling              K5.1                 2 
-Indias               Z2                   2 
 managed              S7.1+                2 
+tie                  B5                   2 
 cricket              K5.1                 2 
 could                A7+                  2 
 won                  S7.1+                2 
-'s                   Z5                   2 
 shot                 G3                   2 
-captains             G3                   2 
+captain              G3                   2 
 you                  Z8                   2 
-Kevin_OBrien         Z1                   2 
+Kevin_O'Brien        Z1                   2 
 huge                 N3.2+++              2 
 i                    Z8                   2 
 shorter              T1.3                 2 
@@ -118,7 +115,7 @@ been                 Z5                   2
 Angelo_Mathews       Z1                   2 
 too                  N5++                 2 
 thrilling            E4.1+++              2 
-sides                A4.1                 2 
+side                 A4.1                 2 
 when                 Z5                   2 
 chased               M1                   2 
 91                   N1                   2 
@@ -142,6 +139,7 @@ sehwag               Z99                  2
 *ms                  Z99                  2 
 Lasith_Malinga       Z1                   2 
 yuvraj               Z99                  2 
+well                 A5.1+                2 
 there                Z5                   2 
 very                 A13.3                2 
 Pakistan             Z2                   2 
@@ -157,6 +155,8 @@ so                   A13.3                2
 consistent           A6.1+                2 
 *kumar               Z99                  2 
 zaheer               Z99                  2 
+bowler               K5.1                 2 
+we                   Z8                   2 
 both                 Z5                   1 
 crucial              A11.1+               1 
 success              X9.2+                1 
@@ -172,7 +172,6 @@ took                 A9+                  1
 15                   N1                   1 
 wickets              K5.1                 1 
 victims              A1.1.2               1 
-tie                  A2.2                 1 
 fantastic            A5.1+                1 
 50-over              Z99                  1 
 ebbed                W3                   1 
@@ -187,7 +186,7 @@ end                  T2-                  1
 live                 H4                   1 
 forever              T2+++                1 
 memory               X2                   1 
-Indias_fans          Z2                   1 
+fans                 S2                   1 
 played               K1                   1 
 perfect              A5.1+++              1 
 losing               X9.2-                1 
@@ -205,7 +204,10 @@ too_many             N5.2+                1
 mismatches           A6.1-                1 
 fewer                N5--                 1 
 event                A3+                  1 
-in_four_years_time   T1.1.3               1 
+four                 N1                   1 
+years                T1.3                 1 
+'                    Z5                   1 
+time                 T1                   1 
 show                 A10+                 1 
 lessons              P1                   1 
 learned              X2.3+                1 
@@ -228,7 +230,6 @@ attack               E3-                  1
 proved               A5.2+                1 
 anything_but         Z6                   1 
 had                  A9+                  1 
-tie                  B5                   1 
 group                S5+                  1 
 stage                T1.2                 1 
 home                 H4                   1 
@@ -243,8 +244,6 @@ meandering           Z99                  1
 needed               S6+                  1 
 fate                 S9                   1 
 aesthete             Z99                  1 
-Mahela               Z99                  1 
-Jayawardenes         Z99                  1 
 clinched             X6+                  1 
 instead              A6.1-                1 
 brilliant            A5.1+++              1 
@@ -254,7 +253,7 @@ mass                 N5+                  1
 ecstasy              E4.1++               1 
 narrow               N3.7-                1 
 substance            O1                   1 
-Andrew_Strausss      Z1                   1 
+Andrew_Strauss       Z1                   1 
 knew                 X2.2+                1 
 expect               X2.6+                1 
 in_terms_of          Z5                   1 
@@ -292,6 +291,7 @@ quadrangular         Z99                  1
 qualifier            Z99                  1 
 top_two              A5.1+++              1 
 associate            S5+                  1 
+sides                A4.1                 1 
 available            A3+                  1 
 public               S5+                  1 
 Dale_Steyn           Z1                   1 
@@ -314,7 +314,7 @@ flowing              M1                   1
 certainly            A7+                  1 
 best                 A5.1+++              1 
 since                Z5                   1 
-lords                G1.1                 1 
+Lord                 S7.1+                1 
 1975                 N1                   1 
 organised            S7.1+                1 
 television           Q4.3                 1 
@@ -368,7 +368,7 @@ scored               K5                   1
 nobody               Z8                   1 
 had_to               S6+                  1 
 handle               A1.1.1               1 
-nations              G1.1                 1 
+nation               G1.1                 1 
 expectation          X2.6+                1 
 Tendulkar            Z99                  1 
 wonderfully          A13.3                1 
@@ -383,8 +383,7 @@ fluctuated           A2.1+                1
 wildly               A13.3                1 
 run                  M1                   1 
 different            A6.1-                1 
-ajmal                Z99                  1 
-shahzads             Z99                  1 
+Ajmal_Shahzad        Z1                   1 
 double-take          Z99                  1 
 no10                 Z99                  1 
 straight             O4.4                 1 
@@ -393,7 +392,7 @@ ball                 O2                   1
 under_pressure       E6-                  1 
 enormous             N3.2+++              1 
 tied                 A2.2                 1 
-defeat               X9.2+                1 
+defeat               X9.2-                1 
 Chittagong           Z99                  1 
 felt_like            X7+                  1 
 exercise             K5.1                 1 
@@ -401,7 +400,6 @@ self-pity            Z99                  1
 dew                  O1.2                 1 
 hard                 O4.1                 1 
 poor                 I1.1-                1 
-side                 A4.1                 1 
 look_like            A6.1+                1 
 genuine              A5.4+                1 
 quarter-final        S7.3                 1 
@@ -437,7 +435,6 @@ outstanding          A5.1++               1
 batsman              K5.1                 1 
 this                 M6                   1 
 most                 A13.2                1 
-bowler               K5.1                 1 
 illogical            S1.2.6-              1 
 counter-intuitive    Z99                  1 
 totally              A13.2                1 
@@ -453,7 +450,6 @@ horribly             O4.2-                1
 victory              X9.2+                1 
 theirs               Z8                   1 
 think                X2.1                 1 
-we                   Z8                   1 
 might                A7+                  1 
 hearing_about        X2.3+                1 
 grand                O4.2+                1 
@@ -461,8 +457,7 @@ finale               K4                   1
 cleanly              B4                   1 
 struck               I3.1                 1 
 back                 B1                   1 
-bowlers              K5.1                 1 
-head                 S7.1+                1 
+head                 B1                   1 
 finish               T2-                  1 
 high                 N3.7+                1 
 man                  S2.2                 1 
@@ -487,7 +482,7 @@ motif                Q1.1                 1
 seems                A8                   1 
 come_on              M1                   1 
 every_15_minutes     N6+                  1 
-its                  Z8                   1 
+'s                   A3+                  1 
 annoying             E3-                  1 
 mariachi             Z99                  1 
 trumpet              X3.2                 1 
@@ -495,6 +490,7 @@ thing                O2                   1
 mind_you             Z4                   1 
 staged_Down          Z2                   1 
 Under                Z5                   1 
+'ll                  T1.1.3               1 
 probably             A7+                  1 
 get                  A9+                  1 
 didgeridoo           Z99                  1 

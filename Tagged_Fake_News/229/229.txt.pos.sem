@@ -69,7 +69,8 @@
 0000004 330  JJ      brazen                   S1.2.3+ O1.1 
 0000004 340  NN1     shooting                 G3 K5.1 M1 M2 Q4.3 Q1.2 
 0000004 350  IO      of                       Z5 
-0000004 360  NP2     Russias                  Z2 
+0000004 360  NP1     Russia                   Z2 
+0000004 361  GE      's                       Z5 
 0000004 370  NN1     ambassador               G1.1/S2mf S1.1.1/S2mf 
 0000004 380  II      to                       Z5 
 0000004 390  NP1     Turkey                   Z2 
@@ -112,7 +113,8 @@
 0000006 100  AT1     a                        Z5 
 0000006 110  NN1     member                   S5+/S2mf B1 
 0000006 120  IO      of                       Z5 
-0000006 130  NP2     Ankaras                  Z2 
+0000006 130  NP1     Ankara                   Z2 
+0000006 131  GE      's                       Z5 
 0000006 140  NN1     riot                     E3- 
 0000006 150  NN2     police                   G2.1 
 0000006 160  NN1     squad                    G3/S5+c S5+c 
@@ -237,7 +239,8 @@
 0000009 710  NN1     incident                 A3+/A5.1- 
 0000009 711  .       .                        
 0000010 001  -----   -----                    
-0000011 010  NN2     Trumps                   K5.2 S7.1+ 
+0000011 010  NN1     Trump                    Z1mf K5.2 
+0000011 011  VBZ     's                       Z5 A3+ 
 0000011 020  VVG     meeting                  S3.1 M6 A1.1.1 X9.2+ A6.1+ 
 0000011 030  JJ      scheduled                X7+/T1 
 0000011 040  NPD1    Wednesday                T1.3 
@@ -301,7 +304,8 @@
 0000013 080  NP1     John                     Z1mf[i13.2.1 Z3c[i13.2.1 Z1m S9/O1.2 
 0000013 090  NP1     Kelly                    Z1mf[i13.2.2 Z3c[i13.2.2 Z1mf 
 0000013 091  ,       ,                        
-0000013 100  VVZ     Trumps                   K5.2 
+0000013 100  NN1     Trump                    Z1mf 
+0000013 101  GE      's                       Z5 
 0000013 110  NN1     nominee                  X7+/S2mf 
 0000013 120  IF      for                      Z5 
 0000013 130  NN1     head                     B1 S7.1+/S2mf P1/S2mf X1 M6 A4.1 S2mf F2 H5/M4% 
@@ -373,7 +377,8 @@
 0000015 262  -----   -----                    
 0000015 270  DD      Some                     N5 Z5 
 0000015 280  IO      of                       Z5 
-0000015 290  NN2     Trumps                   K5.2 S7.1+ 
+0000015 290  NN1     Trump                    Z1mf 
+0000015 291  GE      's                       Z5 
 0000015 300  JJT     earliest                 N4 T1.1.1 T4+++ 
 0000015 310  NN2     advisers                 S8+/S2mf 
 0000015 320  VH0     have                     Z5 A9+ A2.2 S4 
@@ -425,7 +430,8 @@
 0000017 100  NP1     Corey                    Z1mf[i25.2.1 Z3c[i25.2.1 
 0000017 110  NP1     Lewandowski              Z1mf[i25.2.2 Z3c[i25.2.2 
 0000017 111  ,       ,                        
-0000017 120  VVZ     Trumps                   K5.2 
+0000017 120  NN1     Trump                    Z1mf 
+0000017 121  GE      's                       Z5 
 0000017 130  JJ      controversial            A6.2- 
 0000017 140  MD      first                    N4 
 0000017 150  NN1     campaign                 X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 G3 
@@ -437,7 +443,8 @@
 0000017 210  VVG     clashing                 E3- A6.1- X3.2- A1.1.1 
 0000017 220  IW      with                     Z5 
 0000017 230  AT      the                      Z5 
-0000017 240  NN2     president-elects         G1.1/S7.1+/S2mf 
+0000017 240  NNB     president-elect          G1.1/S7.1+/S2mf 
+0000017 241  GE      's                       Z5 
 0000017 250  NN1     family                   S4c A4.1c 
 0000017 251  .       .                        
 0000017 252  -----   -----                    
@@ -450,7 +457,8 @@
 0000017 310  JJ      Jared                    Z99 
 0000017 320  NP1     Kushner                  Z99 
 0000017 321  ,       ,                        
-0000017 330  VVZ     Trumps                   K5.2 
+0000017 330  NN1     Trump                    Z1mf 
+0000017 331  GE      's                       Z5 
 0000017 340  JJ      influential              S7.1+ A2.2 
 0000017 350  NN1     son-in-law               S4m 
 0000017 351  ,       ,                        
@@ -486,7 +494,8 @@
 0000017 621  .       .                        
 0000018 001  -----   -----                    
 0000019 010  AT      The                      Z5 
-0000019 020  NN2     president-elects         G1.1/S7.1+/S2mf 
+0000019 020  NNB     president-elect          G1.1/S7.1+/S2mf 
+0000019 021  GE      's                       Z5 
 0000019 030  NN1     transition               A2.1+ 
 0000019 040  NN1     team                     S5+c K5.1/S5+c S5+ 
 0000019 050  VHZ     has                      Z5 A9+ A2.2 S4 
@@ -554,7 +563,8 @@
 0000024 010  II      At                       Z5 
 0000024 020  NP1     Mar-a-Lago               Z99 
 0000024 021  ,       ,                        
-0000024 030  VVZ     Trumps                   K5.2 
+0000024 030  NN1     Trump                    Z1mf 
+0000024 031  GE      's                       Z5 
 0000024 040  JJ      palatial                 Z99 
 0000024 050  NP1     Florida                  Z2[i30.2.1 Z2 
 0000024 060  NN1     estate                   Z2[i30.2.2 M7/F4 H4 I1.1 M3 
@@ -675,7 +685,7 @@
 0000026 440  JJ      strong                   S1.2.5+ N5+ A5.1+ X5.2+ S7.1+ X9.1+ O4.1 S1.2.3+ 
 0000026 450  NN2     veterans                 G3/S2mf T3+/S2mf 
 0000026 460  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000026 461  XX      nt                       S9/Q4.1 Z3c 
+0000026 461  XX      n't                      Z6 
 0000026 470  VVI     need                     S6+ 
 0000026 480  NN1     treatment                B3 S1.1.1 A1.1.1 X4.2 
 0000026 490  IF      for                      Z5 
@@ -731,9 +741,10 @@
 0000030 080  VVD     worked                   I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
 0000030 090  II      in                       Z5 
 0000030 100  NNB     President                G1.1/S7.1+/S2mf 
-0000030 110  NP1     George                   Z1mf[i45.2.1 Z3c[i45.2.1 Z1m 
-0000030 120  NP1     W.                       Z1mf[i45.2.2 Z3c[i45.2.2 
-0000030 130  NP2     Bushs                    Z3c Z1mf 
+0000030 110  NP1     George                   Z1mf[i46.3.1 Z3c[i46.3.1 Z1m Z1mf[i45.2.1 Z3c[i45.2.1 
+0000030 120  NP1     W.                       Z1mf[i46.3.2 Z3c[i46.3.2 Z1mf[i45.2.2 Z3c[i45.2.2 Z1mf[i47.2.1 Z3c[i47.2.1 
+0000030 130  NP1     Bush                     Z3c[i46.3.3 Z1mf[i46.3.3 Z3c Z1mf Z1mf[i47.2.2 Z3c[i47.2.2 
+0000030 131  GE      's                       Z5 
 0000030 140  NN1     administration           S7.1+c A9- 
 0000030 141  ,       ,                        
 0000030 150  CSA     as                       Z5 
@@ -753,8 +764,8 @@
 0000030 270  IO      of                       Z5 
 0000030 280  AT      the                      Z5 
 0000030 290  JJ@     Small                    N3.2- N3.7- N5- T3- A11.1- S5-/I2.1 X3.2- A5.1- 
-0000030 300  NN1     Business                 I2.1[i46.2.1 I2.1 A1.1.1 A5.1+++ 
-0000030 310  NN1     Administration           I2.1[i46.2.2 
+0000030 300  NN1     Business                 I2.1[i48.2.1 I2.1 A1.1.1 A5.1+++ 
+0000030 310  NN1     Administration           I2.1[i48.2.2 
 0000030 320  II      under                    Z5 
 0000030 330  NP1     Bush                     Z3c Z1mf 
 0000030 331  .       .                        
@@ -823,7 +834,8 @@
 0000032 560  AT1     a                        Z5 
 0000032 570  NN1     member                   S5+/S2mf B1 
 0000032 580  IO      of                       Z5 
-0000032 590  NN2     Trumps                   K5.2 S7.1+ 
+0000032 590  NN1     Trump                    Z1mf 
+0000032 591  GE      's                       Z5 
 0000032 600  JJ      Hispanic                 Z2 
 0000032 610  JJ      advisory                 S8+ 
 0000032 620  NN1     council                  G1.1c S7.1+/S5+c 
@@ -864,8 +876,8 @@
 0000034 250  TO      to                       Z5 
 0000034 260  VVI     fill                     N5.1+ I3.1 Q1.2@ 
 0000034 270  AT      the                      Z5 
-0000034 280  NN1     Agriculture              F4/S5+c[i47.2.1 F4 
-0000034 290  NN1     Department               F4/S5+c[i47.2.2 H2/S5+c X2.2 
+0000034 280  NN1     Agriculture              F4/S5+c[i49.2.1 F4 
+0000034 290  NN1     Department               F4/S5+c[i49.2.2 H2/S5+c X2.2 
 0000034 300  NN1     slot                     O2 T1.3 I3.1 
 0000034 301  .       .                        
 0000034 302  -----   -----                    
@@ -877,9 +889,9 @@
 0000034 360  VVI     confirm                  A7+ Q2.2 S9@ 
 0000034 370  CSW@    if                       Z7 
 0000034 380  NN2     Combs                    B4 X2.4 
-0000034 390  VBZ     is                       G2.1-[i48.3.1 S1.1.4[i48.3.1 A3+ Z5 T2-[i49.2.1 M6[i49.2.1 A5.1-[i49.2.1 
-0000034 400  RP      up                       G2.1-[i48.3.2 S1.1.4[i48.3.2 T2-[i49.2.2 M6[i49.2.2 A5.1-[i49.2.2 
-0000034 410  IF      for                      G2.1-[i48.3.3 S1.1.4[i48.3.3 Z5 
+0000034 390  VBZ     is                       G2.1-[i50.3.1 S1.1.4[i50.3.1 A3+ Z5 T2-[i51.2.1 M6[i51.2.1 A5.1-[i51.2.1 
+0000034 400  RP      up                       G2.1-[i50.3.2 S1.1.4[i50.3.2 T2-[i51.2.2 M6[i51.2.2 A5.1-[i51.2.2 
+0000034 410  IF      for                      G2.1-[i50.3.3 S1.1.4[i50.3.3 Z5 
 0000034 420  DD1     that                     Z5 Z8 
 0000034 430  NN1     post                     Q1.2 O2 I3.1 M6 
 0000034 431  .       .                        

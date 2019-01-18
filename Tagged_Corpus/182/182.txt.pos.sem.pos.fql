@@ -1,12 +1,12 @@
-TOTAL         343
+TOTAL         345
 NN1            71 
 JJ             28 
 II             28 
+NP1            19 
 AT             18 
 VM             18 
-NP1            17 
 VVI            17 
-NN2            15 
+NN2            14 
 AT1            12 
 VVZ            11 
 VVN             8 
@@ -27,6 +27,7 @@ VVD             3
 VVG             3 
 NNT1            2 
 VBR             2 
+GE              2 
 PPH1            2 
 XX              2 
 RG              2 
@@ -43,7 +44,6 @@ RT31            1
 CS              1 
 CCB             1 
 DDQV            1 
-NP2             1 
 PPY             1 
 PPIS1           1 
 VBM             1 

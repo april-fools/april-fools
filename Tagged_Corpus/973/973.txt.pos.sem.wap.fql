@@ -1,14 +1,14 @@
-TOTAL              391
+TOTAL              397
 the                  AT             14 
 a                    AT1            12 
 to                   II             10 
 of                   IO             10 
 in                   II              9 
 and                  CC              9 
+Sarah                NP1             8 
 Charlie              NP1             7 
 dog                  NN1             6 
 to                   TO              6 
-Sarah                NP1             6 
 her                  APPGE           6 
 his                  APPGE           5 
 with                 IW              5 
@@ -16,19 +16,22 @@ she                  PPHS1           5
 for                  IF              4 
 he                   PPHS1           4 
 is                   VBZ             4 
+'s                   GE              4 
 Read                 NP1             4 
 or                   CC              4 
 their                APPGE           4 
 be                   VBI             3 
 one                  MC1             3 
+reading              NN1             3 
 as                   CSA             3 
 children             NN2             3 
 reading              VVG             3 
+it                   PPH1            3 
 has                  VHZ             3 
+scheme               NN1             3 
 when                 CS              2 
 six-year-old         NN1             2 
 from                 II              2 
-Sarahs               NP2             2 
 pet                  NN1             2 
 assistance           NN1             2 
 dogs                 NN2             2 
@@ -39,7 +42,6 @@ who                  PNQS            2
 was                  VBDZ            2 
 qualify              VVI             2 
 where                RRQ             2 
-it                   PPH1            2 
 several              DA2             2 
 her                  PPHO1           2 
 Pembrokeshire        NP1             2 
@@ -47,8 +49,7 @@ Saffron              NP1             2
 read                 VVD             2 
 book                 NN1             2 
 i                    PPIS1           2 
-scheme               NN1             2 
-reading              NN1             2 
+'s                   VBZ             2 
 gets                 VVZ             1 
 dressed_up           VVN             1 
 work                 NN1             1 
@@ -67,9 +68,8 @@ neck                 NN1             1
 transformed          VVN             1 
 lovable              JJ              1 
 rescued              JJ              1 
-britains             NN2             1 
-pioneering           VVG             1 
-Reading              NP1             1 
+Britain              NP1             1 
+pioneering           JJ              1 
 education            NN1             1 
 job                  NN1             1 
 sit                  VVI             1 
@@ -93,10 +93,11 @@ when                 RRQ             1
 are                  VBR             1 
 they                 PPHS2           1 
 know                 VV0             1 
-wont                 JJ              1 
-judge                NN1             1 
-laugh                VV0             1 
-criticise            VV0             1 
+wo                   VM              1 
+n't                  XX              1 
+judge                VVI             1 
+laugh                VVI             1 
+criticise            VVI             1 
 grows                VVZ             1 
 enormously           RR              1 
 last_year            MD              1 
@@ -161,8 +162,7 @@ day                  NNT1            1
 brought              VVD             1 
 absolute             JJ              1 
 proof                NN1             1 
-schemes              NN2             1 
-worth                II              1 
+worth                NN1             1 
 teenage              JJ              1 
 girl                 NN1             1 
 sat_down             VVD             1 
@@ -199,10 +199,9 @@ pupil                NN1             1
 Sol_Doble            NP1             1 
 confided             VVD             1 
 love                 VV0             1 
-s                    VBZ             1 
 so                   RG              1 
 cute                 JJ              1 
-venture              VV0             1 
+venture              NN1             1 
 named                VVN             1 
 shaggy               JJ              1 
 tales                NN2             1 
@@ -219,7 +218,6 @@ see                  VVI             1
 visiting             VVG             1 
 every                AT1             1 
 school               NN1             1 
-its                  APPGE           1 
 magical              JJ              1 
 how                  RRQ             1 
 presence             NN1             1 

@@ -1,10 +1,11 @@
-TOTAL              284
+TOTAL              289
 the                  AT             27 
 in                   II             10 
 and                  CC              8 
 color                NN1             6 
 a                    AT1             6 
 of                   IO              6 
+Soros                NP1             5 
 purple               JJ              5 
 on                   II              4 
 wore                 VVD             4 
@@ -12,8 +13,9 @@ for                  IF              4
 while                CS              3 
 purple               NN1             3 
 Clinton              NP1             3 
-Soros                NP1             3 
 her                  APPGE           3 
+'s                   GE              3 
+it                   PPH1            3 
 Donald_trump         NP1             2 
 who                  PNQS            2 
 has                  VHZ             2 
@@ -23,10 +25,11 @@ speech               NN1             2
 known                VVN             2 
 as                   II              2 
 revolutions          NN2             2 
+'s                   VBZ             2 
+Hillary              NP1             2 
 from                 II              2 
 blue                 JJ              2 
 purple_revolution    JJ              2 
-it                   PPH1            2 
 unification          NN1             2 
 election             NN1             2 
 Bill_Clinton         NP1             2 
@@ -44,6 +47,7 @@ once_again           RR21            1
 which                DDQ             1 
 signifies            VVZ             1 
 George_Soros         NP1             1 
+'                    GE              1 
 color_revolution     NN1             1 
 against              II              1 
 presidency           NN1             1 
@@ -73,7 +77,6 @@ middle_east          JJ              1
 north_Africa         ND1             1 
 now                  RT              1 
 he                   PPHS1           1 
-s                    VBZ             1 
 trying               VVG             1 
 to                   TO              1 
 do                   VDI             1 
@@ -83,7 +86,6 @@ far-left             NN1             1
 radicals             NN2             1 
 U.S.                 NP1             1 
 if                   CS              1 
-Hillarys             NP2             1 
 recent               JJ              1 
 penchant             NN1             1 
 is                   VBZ             1 
@@ -91,7 +93,6 @@ any                  DD              1
 indication           NN1             1 
 but                  CCB             1 
 why                  RRQ             1 
-its                  APPGE           1 
 resulting            VVG             1 
 mixing               VVG             1 
 red                  JJ              1 
@@ -125,10 +126,9 @@ that                 CST             1
 propelled            VVD             1 
 into                 II              1 
 White_house          NP1             1 
-Hillary              NP1             1 
 entered              VVD             1 
 ballroom             NN1             1 
-moonie               JJ              1 
+moonie'              JJ              1 
 church-owned         JJ              1 
 new                  JJ              1 
 Yorker_hotel         NP1             1 
@@ -164,7 +164,6 @@ added                VVD             1
 called               VVD             1 
 uniting              VVG             1 
 nation               NN1             1 
-soross               VV0             1 
 minions              NN2             1 
 took                 VVD             1 
 streets              NN2             1 
@@ -182,4 +181,3 @@ real                 JJ              1
 intentions           NN2             1 
 signaling            VVG             1 
 start                NN1             1 
-Soross               NP1             1 

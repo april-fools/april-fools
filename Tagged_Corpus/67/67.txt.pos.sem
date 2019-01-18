@@ -137,8 +137,9 @@
 0000004 280  AT1     a                        Z5 
 0000004 290  NN1     handle                   O2 
 0000004 300  II      on                       Z5 
-0000004 310  DD1     that                     Z8 Z5 
-0000004 320  VVZ%    groups                   S5+ A4.1 B3% 
+0000004 310  DD1     that                     Z5 Z8 
+0000004 320  NN1     group                    S5+c A4.1c B3% 
+0000004 321  GE      's                       Z5 
 0000004 330  JJ      revolving                H5[i8.2.1 M1 
 0000004 340  NN1     door                     H5[i8.2.2 H2 H1@ 
 0000004 350  IO      of                       Z5 
@@ -174,7 +175,7 @@
 0000004 581  ,       ,                        
 0000004 590  NP1     AFD                      Z1mf[i10.2.1 Z3c[i10.2.1 
 0000004 600  NP1     NION                     Z1mf[i10.2.2 Z3c[i10.2.2 
-0000004 610  NN1     expert                   X2.2+/S2mf X9.1+/S2mf 
+0000004 610  NN1     expert'                  Z99 
 0000004 611  ,       ,                        
 0000004 620  II      before                   Z5 
 0000004 630  VVG     lapsing                  T2+ T2- S9 
@@ -221,9 +222,10 @@
 0000006 290  JJ      leaked                   A1.7- A1.1.2 A10+/Q2.2 
 0000006 300  NN2     records                  Q1.2 K3 T1.1.1 N5+ 
 0000006 310  VV0     show                     A10+ S1.1.1 
-0000006 320  DD1     that                     Z5 Z8 
-0000006 330  NN1     theyve                   Z99 
-0000006 340  VVD     spent                    I1.2 A1.5.1 T1.3 
+0000006 320  CST     that                     Z8 Z5 
+0000006 330  PPHS2   they                     Z8mfn 
+0000006 331  VH0     've                      Z5 A9+ A2.2 
+0000006 340  VVN     spent                    I1.2 A1.5.1 T1.3 
 0000006 350  DA2     several                  N5 
 0000006 360  NNT2    months                   T1.3 
 0000006 370  CC      and                      Z5 
@@ -302,7 +304,8 @@
 0000008 400  JJ      excessive                N5.2+ 
 0000008 410  NN2     amounts                  N5 
 0000008 420  IO      of                       Z5 
-0000008 430  NN2     taxpayers                I1.1/S2mf 
+0000008 430  NN1     taxpayer                 I1.1/S2mf 
+0000008 431  GE      's                       Z5 
 0000008 440  NN1     money                    I1 
 0000008 450  VVG     trying                   X8+ X2.4 Q2.2 G2.1 A12- 
 0000008 460  TO      to                       Z5 
@@ -318,14 +321,16 @@
 0000008 560  VVG     going                    T1.1.3[i15.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
 0000008 570  II      to                       T1.1.3[i15.2.2 Z5 
 0000008 580  DD1     that                     Z5 Z8 
-0000008 590  NN2     organizations            S5+c S7.1+ 
-0000008 600  NN1     home                     H4/H1c M6 
+0000008 590  NN1     organization             S5+c S7.1+ 
+0000008 591  GE      's                       Z5 
+0000008 600  NN1@    home                     H4/H1c M6 
 0000008 610  NN1     page                     Q1.2 T1.3 S7.1-/S2.2m 
 0000008 611  .       .                        
 0000008 612  NULL    <quote>                  
 0000008 613  -----   -----                    
 0000008 620  PPHS2   They                     Z8mfn 
-0000008 630  VV0     couldnt                  Z99 
+0000008 630  VM      could                    A7+ 
+0000008 631  XX      n't                      Z6 
 0000008 640  VBI     be                       Z5 A3+ 
 0000008 650  VVG     hiding                   A10- 
 0000008 660  DDQ     what                     Z8 Z5 
@@ -335,8 +340,9 @@
 0000008 700  APPGE   their                    Z8 
 0000008 710  NN1     website                  Y2 
 0000008 711  ,       ,                        
-0000008 720  RR      so                       Z5 A13.3 
-0000008 730  VBDR    were                     Z5 A3+ 
+0000008 720  CS@     so                       Z5 
+0000008 730  PPIS2   we                       Z8 
+0000008 731  VBR     're                      Z5 A3+ 
 0000008 740  VVG     analyzing                X2.4 Y1 
 0000008 750  AT1     every                    N5.1+ 
 0000008 760  NN1     email                    Q1.3/Y2 
@@ -349,7 +355,8 @@
 0000008 810  CC      and                      Z5 
 0000008 820  AT1     every                    N5.1+ 
 0000008 830  NN1     meeting                  S1.1.3+ S3.1 K5.1 S9 A1.1.1 X9.2+ A6.1+ 
-0000008 840  NN1     theyve                   Z99 
+0000008 840  PPHS2   they                     Z8mfn 
+0000008 841  VH0     've                      Z5 A9+ A2.2 
 0000008 850  VBN     been                     A3+ Z5 
 0000008 860  II      to                       Z5 
 0000008 870  II      in                       Z5 

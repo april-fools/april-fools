@@ -1,15 +1,17 @@
-TOTAL              126
+TOTAL              130
 the                  AT             14 
 to                   II              6 
 of                   IO              5 
 QR                   NP1             5 
 on                   II              4 
-trains               NN2             4 
-trains               VVZ             3 
+train                NN1             4 
+'s                   GE              4 
 a                    AT1             3 
 timetable            NN1             3 
 code                 NN1             3 
+trains               VVZ             2 
 codes                NN2             2 
+trains               NN2             2 
 has                  VHZ             2 
 reader               NN1             2 
 me                   PPIO1           2 
@@ -41,7 +43,6 @@ showing              VVG             1
 front                NN1             1 
 Barry_Island         NP1             1 
 Merthyr_Tydfil       NP1             1 
-train                NN1             1 
 particular           JJ              1 
 for                  IF              1 
 totally              RR              1 
@@ -56,7 +57,7 @@ pointed              VVD             1
 out                  RP              1 
 they                 PPHS2           1 
 said                 VVD             1 
-companys             NN2             1 
+company              NN1             1 
 rolling              JJ              1 
 stock                NN1             1 
 was                  VBDZ            1 

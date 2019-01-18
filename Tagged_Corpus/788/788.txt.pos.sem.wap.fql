@@ -1,7 +1,7 @@
-TOTAL              225
+TOTAL              226
 the                  AT             18 
+sport                NN1             8 
 of                   IO              8 
-sport                NN1             7 
 in                   II              7 
 group                NN1             5 
 daily                JJ              4 
@@ -40,7 +40,7 @@ warned               VVN             1
 that                 CST             1 
 recovery             NN1             1 
 been                 VBN             1 
-insufficient         JJ              1 
+insufficient'        JJ              1 
 since                CS              1 
 harsh                JJ              1 
 weather              NN1             1 
@@ -93,7 +93,7 @@ six                  MC              1
 months               NNT2            1 
 at_its_peak          II              1 
 2005                 MC              1 
-sports               NN2             1 
+'s                   GE              1 
 readership           NN1             1 
 reached              VVD             1 
 189,473              MC              1 
@@ -136,7 +136,7 @@ you                  PPY             1
 laugh                VVI             1 
 then                 RT              1 
 do                   VD0             1 
-nt_bother            XX              1 
+n't_bother           XX              1 
 reported             VVD             1 
 losses               NN2             1 
 29.16_million        MC              1 

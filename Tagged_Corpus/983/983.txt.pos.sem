@@ -75,7 +75,8 @@
 0000006 200  NN1     game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
 0000006 201  ,       ,                        
 0000006 210  II      via                      Z5 
-0000006 220  NN2     Apples                   L3 F1 
+0000006 220  NN1     Apple                    Z3c 
+0000006 221  GE      's                       Z5 
 0000006 230  NN2     iTunes                   Z99 
 0000006 240  NN1     store                    I2.2/H1c A9+ A9+/H1 
 0000006 241  .       .                        
@@ -86,7 +87,8 @@
 0000006 280  VVI     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
 0000006 290  PPHO2   them                     Z8mfn 
 0000006 300  AT      the                      Z5 
-0000006 310  NN2     worlds                   W1 S5+c A4.1 N5+ 
+0000006 310  NN1     world                    W1 S5+c A4.1 N5+ 
+0000006 311  GE      's                       Z5 
 0000006 320  RGT     most                     A13.2 
 0000006 330  JJ      successful               X9.2+ 
 0000006 340  NN1     iPhone                   Z99 
@@ -109,6 +111,7 @@
 0000009 001  -----   -----                    
 0000010 010  AT      The                      Z5 
 0000010 020  NP2     Pusenjaks                Z99 
+0000010 021  GE      '                        Z5 
 0000010 030  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
 0000010 031  ,       ,                        
 0000010 040  NP1     Lima                     Z1mf[i6.2.1 Z3c[i6.2.1 Z2 
@@ -139,9 +142,10 @@
 0000010 260  RP      out                      S8+[i12.2.2 M6 
 0000010 261  ,       ,                        
 0000010 270  CC      and                      Z5 
-0000010 280  VV0     theyve                   Z99 
+0000010 280  PPHS2   they                     Z8mfn 
+0000010 281  VH0     've                      Z5 A9+ A2.2 
 0000010 290  RR      recently                 T3--- 
-0000010 300  VVD     started                  T2+ E5- E3- 
+0000010 300  VVN     started                  T2+ E5- E3- 
 0000010 310  VVG     contracting              Q2.2 N3.2-/A2.1 A9+ I2.1 
 0000010 320  IW      with                     Z5 
 0000010 330  DD      some                     N5 Z5 
@@ -156,7 +160,8 @@
 0000010 411  .       .                        
 0000010 412  -----   -----                    
 0000010 420  CCB     But                      Z5 
-0000010 430  VVZ     thats                    Z5 Z8 A13.3 A6.1+ 
+0000010 430  DD1     that                     Z8 Z5 
+0000010 431  VBZ     's                       A3+ Z5 
 0000010 440  II      about                    Z5 
 0000010 450  PPH1    it                       Z8 
 0000010 460  IF      for                      Z5 
@@ -189,9 +194,10 @@
 0000012 200  NN2     taxes                    I1.1/G1.1 
 0000012 201  .       .                        
 0000013 001  -----   -----                    
-0000014 010  VV0     Howd                     Z99 
+0000014 010  RRQ     How                      Z5 A13.3 
+0000014 011  VM      'd                       A7+ 
 0000014 020  PPHS2   they                     Z8mfn 
-0000014 030  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000014 030  VDI     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
 0000014 040  PPH1    it                       Z8 
 0000014 041  ?       ?                        
 0000015 001  -----   -----                    
@@ -223,6 +229,7 @@
 0000016 220  VVG     competing                S7.3+ 
 0000016 230  IF      for                      Z5 
 0000016 240  NN2     users                    A1.5.1/S2mf 
+0000016 241  GE      '                        Z5 
 0000016 250  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000016 260  CC      and                      Z5 
 0000016 270  NN2     wallets                  B5/I1 
@@ -266,7 +273,8 @@
 0000018 250  NN1     post                     Q1.2 O2 I3.1 M6 
 0000018 251  .       .                        
 0000018 252  -----   -----                    
-0000018 260  APPGE   Its                      Z8 
+0000018 260  PPH1    It                       Z8 
+0000018 261  VBZ     's                       A3+ Z5 
 0000018 270  AT1     a                        Z5 
 0000018 280  JJ      long                     N3.7+ T1.3+ N3.3+ N3.2+ 
 0000018 290  NN1     clip                     O2 Q4.3 E3-@ 
@@ -282,7 +290,8 @@
 0000018 362  -----   -----                    
 0000018 370  CCB     But                      Z5 
 0000018 380  CS      if                       Z7 
-0000018 390  NN1     youre                    Z99 
+0000018 390  PPY     you                      Z8mf 
+0000018 391  VBR     're                      Z5 A3+ 
 0000018 400  VVG     rushing                  N3.8+ M1/N3.8+ M2/N3.8+ 
 0000018 410  TO      to                       Z5 
 0000018 420  VVI     crank                    A1.1.1 
@@ -316,7 +325,8 @@
 0000020 080  NN1     part                     N5.1- O2 M7 I3.1 S1.1.3+ K4 
 0000020 090  IO      of                       Z5 
 0000020 100  AT1     a                        Z5 
-0000020 110  NN2     developers               H1/S2mf C1/O1.2 
+0000020 110  NN1     developer                H1/S2mf C1/O1.2@@ 
+0000020 111  GE      's                       Z5 
 0000020 120  NN1     job                      I3.1 A1.1.1 A12- 
 0000020 121  .       .                        
 0000020 122  -----   -----                    
@@ -365,7 +375,8 @@
 0000020 490  NN1     mention                  Q2.1 
 0000020 500  II      in                       Z5 
 0000020 510  NP1     Gawker                   Z99 
-0000020 520  NN2     Medias                   Q4 
+0000020 520  NN      Media                    Q4c 
+0000020 521  GE      's                       Z5 
 0000020 530  NN1     Gizmodo                  Z99 
 0000020 540  VBDZ    was                      A3+ Z5 
 0000020 550  RR      particularly             A13.3 A14 
@@ -421,9 +432,10 @@
 0000022 220  NN1     top                      M6 N4 N5.1+ O2 B5 K6 N5.1- 
 0000022 230  IO      of                       Z5 
 0000022 240  AT      the                      Z5 
-0000022 250  NN2     stores                   I2.2/H1 A9+ A9+/H1 F1 
-0000022 251  NULL    <quote>                  
-0000022 252  -----   -----                    
+0000022 250  NN1     store                    I2.2/H1c A9+ A9+/H1 
+0000022 251  GE      's                       Z5 
+0000022 252  NULL    <quote>                  
+0000022 253  -----   -----                    
 0000022 260  DAT     most                     N5+++ 
 0000022 270  JJ      recent                   T3- 
 0000022 271  NULL    </quote>                 
@@ -485,7 +497,8 @@
 0000022 720  NN1     feature                  O4.1 Q4.2 Q4.3 W3 
 0000022 730  NN2     characters               S2mf K4/S2mf S1.2 S2mf/A6.2- Q1.2 A4.1 O4.2+ 
 0000022 740  II      from                     Z5 
-0000022 750  NN2     Bolts                    O2 
+0000022 750  NN1     Bolt                     O2 W4@ 
+0000022 751  GE      's                       Z5 
 0000022 760  NN1     game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
 0000022 770  II      in                       Z5 
 0000022 780  PPGE    theirs                   Z8 
@@ -545,9 +558,10 @@
 0000024 341  (       (                        
 0000024 350  NP2     ERTS                     Z99 
 0000024 351  )       )                        
-0000024 360  NN1     cant                     Q2.1 
+0000024 360  VM      ca                       A7+ 
+0000024 361  XX      n't                      Z6 
 0000024 370  RR      simply                   A13.6 A14 A12+ 
-0000024 380  VV0     buy                      I2.2 
+0000024 380  VVI     buy                      I2.2 
 0000024 390  JJ      preferred                E2++ 
 0000024 400  NN1     placement                M2 I3.1 
 0000024 410  II      in                       Z5 
@@ -558,7 +572,7 @@
 0000024 440  AT      The                      Z5 
 0000024 450  NN2     brothers                 S4m S2.2m S9/S2.2m 
 0000024 460  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000024 461  XX      nt                       S9/Q4.1 Z3c 
+0000024 461  XX      n't                      Z6 
 0000024 470  VVI     know                     X2.2+ S3.2/B1% 
 0000024 480  PN1     anyone                   Z8mfc 
 0000024 490  II      at                       Z5 
@@ -613,7 +627,7 @@
 0000026 040  CS      Though                   Z5 
 0000026 050  NN1     Apple                    Z3c 
 0000026 060  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000026 061  XX      nt                       S9/Q4.1 Z3c 
+0000026 061  XX      n't                      Z6 
 0000026 070  VVI     reward                   A5.1+/A2.2 I1.1+ S1.1.4+ 
 0000026 080  NN2     developers               H1/S2mf C1/O1.2 
 0000026 090  IF      for                      Z5 
@@ -622,6 +636,7 @@
 0000026 111  ,       ,                        
 0000026 120  AT      the                      Z5 
 0000026 130  NP2     Pusenjaks                Z99 
+0000026 131  GE      '                        Z5 
 0000026 140  NN2     customers                I2.2/S2mf 
 0000026 150  VD0     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
 0000026 151  .       .                        
@@ -657,8 +672,8 @@
 0000026 392  -----   -----                    
 0000026 400  AT      The                      Z5 
 0000026 410  NN2     brothers                 S4m S2.2m S9/S2.2m 
-0000026 420  VB0     are                      A3+ Z5 
-0000026 421  XX      nt                       S9/Q4.1 Z3c 
+0000026 420  VBR     are                      A3+ Z5 
+0000026 421  XX      n't                      Z6 
 0000026 430  RR      exactly                  A4.2+ A5.3+ 
 0000026 440  JJ      sure                     A7+ Z4 
 0000026 450  RRQ     why                      A2.2 
@@ -714,9 +729,10 @@
 0000028 110  NN1     game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
 0000028 111  ,       ,                        
 0000028 120  CC      and                      Z5 
-0000028 130  VV0     theyd                    Z99 
-0000028 140  II      like                     Z5 
-0000028 150  II      to                       Z5 
+0000028 130  PPHS2   they                     Z8mfn 
+0000028 131  VM      'd                       A7+ 
+0000028 140  VVI     like                     E2+ 
+0000028 150  TO      to                       Z5 
 0000028 160  NN1     port                     Z2[i31.2.1 M4/M7 F2 
 0000028 170  NN1     Doodle                   Z2[i31.2.2 
 0000028 180  NN1     Jump                     M1 N5+/A2.1 A2.1+ 
@@ -725,8 +741,9 @@
 0000028 210  NN2     platforms                M3/M7 M4/H1 H5 X7+ B5 Y2 
 0000028 211  ,       ,                        
 0000028 220  II      like                     Z5 
-0000028 230  NP1     Googles                  Z3c/Y2 
-0000028 231  (       (                        
+0000028 230  NP1     Google                   Z3c/Y2 
+0000028 231  GE      's                       Z5 
+0000028 232  (       (                        
 0000028 240  NP1     GOOG                     Z99 
 0000028 241  )       )                        
 0000028 250  NN1     Android                  O3 
@@ -734,13 +751,15 @@
 0000028 270  NN1     operating                Y2[i32.2.1 A1.1.1 B3 
 0000028 280  NN1     system                   Y2[i32.2.2 X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 G1.1c 
 0000028 290  CC      and                      Z5 
-0000028 300  NP2     Microsofts               Z3c 
-0000028 301  (       (                        
+0000028 300  NP1     Microsoft                Z3c 
+0000028 301  GE      's                       Z5 
+0000028 302  (       (                        
 0000028 310  NP1     MSFT                     Z99 
 0000028 311  )       )                        
 0000028 320  CC      and                      Z5 
-0000028 330  NP2     Sonys                    Z3c 
-0000028 331  (       (                        
+0000028 330  NP1     Sony                     Z3c 
+0000028 331  GE      's                       Z5 
+0000028 332  (       (                        
 0000028 340  NP1     SNE                      Z99 
 0000028 341  )       )                        
 0000028 350  NN1     game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
@@ -749,7 +768,8 @@
 0000028 362  -----   -----                    
 0000028 370  CCB     But                      Z5 
 0000028 380  PPHS2   they                     Z8mfn 
-0000028 390  VV0     havent                   Z99 
+0000028 390  VH0     have                     Z5 A9+ A2.2 S4 
+0000028 391  XX      n't                      Z6 
 0000028 400  VDN     done                     A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
 0000028 410  DD      any                      N5.1+ N5 
 0000028 420  IO      of                       Z5 
@@ -795,8 +815,9 @@
 0000028 791  ,       ,                        
 0000028 800  NP1     Igor                     Z99 
 0000028 810  NN1     notesthey                Z99 
-0000028 820  NN1     cant                     Q2.1 
-0000028 830  VV0     justify                  G2.2+ A2.2 O4.1 
+0000028 820  VM      ca                       A7+ 
+0000028 821  XX      n't                      Z6 
+0000028 830  VVI     justify                  G2.2+ A2.2 O4.1 
 0000028 840  VVG     moving                   M1[i37.2.1 M2[i37.2.1 A2.1+[i37.2.1 M2 M1 A2.1+ E1 H4/A2.1 
 0000028 850  RP      on                       M1[i37.2.2 M2[i37.2.2 A2.1+[i37.2.2 M6 A1.1.1 
 0000028 860  II      to                       Z5 
@@ -814,7 +835,7 @@
 0000030 070  NP2     Jonas                    Z99 
 0000030 080  NN2     Brothers                 S4m S2.2m S9/S2.2m 
 0000030 090  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000030 091  XX      nt                       S9/Q4.1 Z3c 
+0000030 091  XX      n't                      Z6 
 0000030 100  VVI     hurt                     B2- E4.1- A1.1.2 
 0000030 101  .       .                        
 0000030 102  -----   -----                    
@@ -822,7 +843,7 @@
 0000030 120  CS22    if                       Z7[i38.2.2 Z7 
 0000030 130  PPY     you                      Z8mf 
 0000030 140  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000030 141  XX      nt                       S9/Q4.1 Z3c 
+0000030 141  XX      n't                      Z6 
 0000030 150  VVI     know                     X2.2+ S3.2/B1% 
 0000030 160  PNQS    who                      Z8 
 0000030 170  AT      the                      Z5 

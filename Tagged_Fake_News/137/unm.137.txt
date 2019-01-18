@@ -20,10 +20,7 @@ GOP                      NN1     Z99
 GOP                      VVI     Z99 
 gubernatorial            JJ      Z99 
 Hillary                  NP1     Z99 
-Im                       NN1     Z99 
-Im                       VV0     Z99 
 in-person                NN1     Z99 
-Ive                      NN1     Z99 
 leaders/donors           NN2     Z99 
 Meyers                   NP2     Z99 
 Mitt                     NP1     Z99 
@@ -45,4 +42,3 @@ three-term               JJ      Z99
 thunderingly             RR      Z99 
 undersecretary           NN1     Z99 
 Video2:14                FO      Z99 
-wouldnt                  VV0     Z99 

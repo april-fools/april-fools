@@ -1,10 +1,10 @@
-TOTAL              990
+TOTAL              998
 the                  Z5                  81 
 of                   Z5                  42 
 a                    Z5                  34 
 and                  Z5                  22 
 in                   Z5                  21 
-is                   A3+                 18 
+is                   A3+                 20 
 that                 Z8                  12 
 to                   Z5                  11 
 it                   Z8                  10 
@@ -12,8 +12,10 @@ there                Z5                   9
 from                 Z5                   8 
 that                 Z5                   8 
 is                   Z5                   7 
+'s                   Z5                   7 
 as                   Z5                   7 
 by                   Z5                   6 
+n't                  Z6                   6 
 for                  Z5                   6 
 but                  Z5                   6 
 when                 Z5                   6 
@@ -23,7 +25,6 @@ are                  A3+                  6
 with                 Z5                   5 
 was                  Z5                   5 
 about                Z5                   4 
-nt                   S9                   4 
 at                   Z5                   4 
 which                Z8                   4 
 political            G1.2                 4 
@@ -38,6 +39,7 @@ politics             G1.2                 3
 over                 Z5                   3 
 years                T1.3                 3 
 past                 T1.1.1               3 
+EU                   Z3                   3 
 more                 A13.3                3 
 might                A7+                  3 
 recent               T3-                  3 
@@ -74,8 +76,6 @@ frozen               O4.6-                2
 are                  Z5                   2 
 air                  O1.3                 2 
 current              T1.1.2               2 
-isnt                 Z99                  2 
-EU                   Z3                   2 
 has                  Z5                   2 
 than                 Z5                   2 
 their                Z8                   2 
@@ -104,7 +104,7 @@ french               Z2                   1
 under                Z5                   1 
 heading              Q1.2                 1 
 truth                A5.2+                1 
-Macrons              Z99                  1 
+Macron               Z99                  1 
 galaxy               W1                   1 
 take                 A9+                  1 
 much                 N5+                  1 
@@ -115,7 +115,7 @@ going_on             T2++                 1
 here                 M6                   1 
 liberal              A1.7-                1 
 candidate            G1.2                 1 
-Frances              Z2                   1 
+France               Z2                   1 
 presidential         G1.1                 1 
 archetypal           A4.1                 1 
 jewish               S9                   1 
@@ -168,8 +168,7 @@ studying             P1                   1
 Moscow               Z2                   1 
 conspiracy_theory    X2.1                 1 
 doing_the_rounds     N6+                  1 
-Boris                Z99                  1 
-Yeltsins             Z1                   1 
+Boris_Yeltsin        Z1                   1 
 real                 A3+                  1 
 name                 Q2.2                 1 
 Baruch_Yeltzer       Z1                   1 
@@ -219,7 +218,7 @@ spiral               O4.4                 1
 expulsions           P1                   1 
 plunder              G2.1-                1 
 genocide             L1-                  1 
-Yugoslavias          Z2                   1 
+Yugoslavia           Z2                   1 
 national             M7                   1 
 scars                B2-                  1 
 split                A6.1-                1 
@@ -393,7 +392,7 @@ shadowy              O4.1                 1
 Israel               Z2                   1 
 lobby                H2                   1 
 dictates             Q2.2                 1 
-medias               Q4                   1 
+media                Q4                   1 
 script               K4                   1 
 worth                I1.3                 1 
 pondering            X2.1                 1 
@@ -451,7 +450,6 @@ posters              Q1.2                 1
 suggesting           Q2.2                 1 
 turks                Z2                   1 
 massing              N5+                  1 
-EUs                  Z3                   1 
 gates                H5                   1 
 probing              X2.4                 1 
 dark                 W2-                  1 
@@ -510,7 +508,7 @@ defrosts             O4.6+                1
 taking               A9+                  1 
 evidence             A5.2+                1 
 irish                Z2                   1 
-parliaments          G1.1                 1 
+parliament           G1.1                 1 
 select               X7+                  1 
 committee            S7.1+                1 
 heard                X3.2                 1 

@@ -1,4 +1,4 @@
-TOTAL              394
+TOTAL              397
 the                  AT             25 
 and                  CC             10 
 to                   TO             10 
@@ -17,7 +17,7 @@ is                   VBZ             4
 urban                JJ              4 
 system               NN1             4 
 city                 NN1             4 
-farmers              NN2             4 
+market               NN1             4 
 simple               JJ              3 
 store                NN1             3 
 or                   CC              3 
@@ -40,21 +40,22 @@ competition          NN1             2
 designers            NN2             2 
 an                   AT1             2 
 mobile               JJ              2 
-market               NN1             2 
 farms                NN2             2 
 centers              NN2             2 
+farmers              NN2             2 
 get                  VVI             2 
 location             NN1             2 
 fresh                JJ              2 
 meals                NN2             2 
 customers            NN2             2 
 do                   VD0             2 
-nt                   XX              2 
+n't                  XX              2 
 bring                VVI             2 
 cell                 NN1             2 
 phone                NN1             2 
 nearby               JJ              2 
-market               VV0             2 
+farmer               NN1             2 
+'s                   GE              2 
 stores               NN2             2 
 who                  PNQS            2 
 be                   VBI             2 
@@ -119,7 +120,8 @@ attempted            VVD             1
 solve                VVI             1 
 issue                NN1             1 
 distribution         NN1             1 
-were                 VBDR            1 
+we                   PPIS2           1 
+'re                  VBR             1 
 proposing            VVG             1 
 new                  JJ              1 
 way                  NN1             1 
@@ -164,7 +166,7 @@ allows               VVZ             1
 easy                 JJ              1 
 access               NN1             1 
 produceno            NN1             1 
-required             JJ              1 
+required             VVN             1 
 empowers             VVZ             1 
 distribute           VVI             1 
 consists             VVZ             1 

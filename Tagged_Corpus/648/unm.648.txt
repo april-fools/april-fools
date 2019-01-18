@@ -8,6 +8,7 @@ Haye                     NP1@    Z99
 Haye                     VV0     Z99 
 Haye-Valuev              NP1     Z99 
 Hayemaker                NP1     Z99 
+hit'                     JJ      Z99 
 homecoming               NN1     Z99 
 iron-clad                JJ      Z99 
 Klitschko                NN1     Z99 

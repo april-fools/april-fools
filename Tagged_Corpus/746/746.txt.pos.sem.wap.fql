@@ -1,4 +1,4 @@
-TOTAL             2474
+TOTAL             2498
 the                  AT            186 
 of                   IO            101 
 a                    AT1            52 
@@ -11,6 +11,7 @@ to                   II             28
 that                 CST            24 
 is                   VBZ            23 
 from                 II             21 
+it                   PPH1           19 
 for                  IF             18 
 their                APPGE          17 
 they                 PPHS2          17 
@@ -20,6 +21,7 @@ says                 VVZ            16
 with                 IW             15 
 by                   II             13 
 but                  CCB            13 
+'s                   GE             13 
 american             JJ             13 
 not                  XX             13 
 was                  VBDZ           12 
@@ -27,24 +29,25 @@ have                 VH0            12
 who                  PNQS           11 
 Israel               NP1            11 
 are                  VBR            11 
-its                  APPGE          11 
-it                   PPH1           11 
 this                 DD1            11 
+'s                   VBZ            11 
 were                 VBDR            9 
 an                   AT1             9 
+we                   PPIS2           8 
 Brooklyn             NP1             7 
-we                   PPIS2           7 
+lower                RRR             7 
 his                  APPGE           7 
 at                   II              7 
+there                EX              7 
 as                   CSA             6 
 you                  PPY             6 
 he                   PPHS1           6 
 one                  MC1             6 
-lower                RRR             6 
 east_side            ND1             6 
 Brighton_beach       NP1             6 
 right-wing           JJ              6 
 would                VM              6 
+America              NP1             6 
 among                II              6 
 be                   VBI             6 
 some                 DD              6 
@@ -55,16 +58,14 @@ also                 RR              5
 her                  APPGE           5 
 United_States        NP1             5 
 first                MD              5 
-America              NP1             5 
 which                DDQ             5 
 had                  VHD             5 
 when                 CS              5 
 did                  VDD             5 
 do                   VD0             5 
+New_York             NP1             5 
 like                 II              5 
-there                EX              5 
 USSR                 NP1             4 
-new                  JJ              4 
 community            NN1             4 
 my                   APPGE           4 
 now                  RT              4 
@@ -78,13 +79,13 @@ Odessa               NP1             4
 Russia               NP1             4 
 white                JJ              4 
 against              II              4 
-New_York             NP1             4 
+Cahan                NP1             4 
 before               II              4 
 during               II              4 
 many                 DA2             4 
 wave                 NN1             4 
+n't                  XX              4 
 emigrated            VVD             4 
-say                  VV0             4 
 election             NN1             4 
 1991                 MC              3 
 made                 VVD             3 
@@ -93,7 +94,9 @@ former               DA              3
 most                 RGT             3 
 do                   VDI             3 
 around               II              3 
+new                  JJ              3 
 young                JJ              3 
+Bela                 NP1             3 
 so                   RR              3 
 could                VM              3 
 family               NN1             3 
@@ -104,6 +107,7 @@ patriotic            JJ              3
 immigrant            NN1             3 
 becoming             VVG             3 
 immigration          NN1             3 
+its                  APPGE           3 
 jew                  NN1             3 
 war                  NN1             3 
 Atlantic             NP1             3 
@@ -114,10 +118,9 @@ national             JJ              3
 mind                 NN1             3 
 one                  PN1             3 
 all                  DB              3 
-Cahan                NP1             3 
+government           NN1             3 
 or                   CC              3 
 even                 RR              3 
-nt                   XX              3 
 born                 VVN             3 
 Jewry                NP1             3 
 democrats            NN2             3 
@@ -131,6 +134,7 @@ no                   AT              3
 very                 RG              3 
 liberal              JJ              3 
 being                VBG             3 
+say                  VV0             3 
 thousands            NNO2            2 
 known                VVN             2 
 soviet_union         JJ              2 
@@ -142,13 +146,13 @@ spoke                VVD             2
 english              NN1             2 
 daughter             NN1             2 
 wanted               VVD             2 
-Bela                 NP1             2 
 then                 RT              2 
 cities               NN2             2 
 political            JJ              2 
 grandparents         NN2             2 
 became               VVD             2 
 radio                NN1             2 
+father               NN1             2 
 left                 JJ              2 
 flag                 NN1             2 
 picture              NN1             2 
@@ -200,18 +204,19 @@ today                RT              2
 people               NN              2 
 conservative         JJ              2 
 legacy               NN1             2 
-worth                NN1             2 
 most                 DAT             2 
 other                JJ              2 
 number               NN1             2 
 second               NNT1            2 
 1980s                MC2             2 
 great                JJ              2 
+Manhattan            NP1             2 
 began                VVD             2 
 reasons              NN2             2 
 may                  VM              2 
 world                NN1             2 
 see                  VVI             2 
+Reagan               NP1             2 
 administration       NN1             2 
 weakness             NN1             2 
 president            NN1             2 
@@ -221,7 +226,6 @@ likely               JJ              2
 form                 NN1             2 
 nature               NN1             2 
 activist             NN1             2 
-government           NN1             2 
 Branovan             NP1             2 
 i                    PPIS1           2 
 through              II              2 
@@ -236,14 +240,13 @@ cultural             JJ              2
 issues               NN2             2 
 expressed            VVD             2 
 opposition           NN1             2 
-support              NN1             2 
 numbers              NN2             2 
 local                JJ              2 
 will                 VM              2 
 vote                 VVI             2 
 candidates           NN2             2 
 crime                NN1             2 
-nations              NN2             2 
+nation               NN1             2 
 majority             NN1             2 
 these                DD2             2 
 average              JJ              2 
@@ -252,7 +255,6 @@ subject              NN1             2
 within               II              2 
 idea                 NN1             2 
 things               NN2             2 
-theres               NN2             2 
 russians             NN2             2 
 really               RR              2 
 a_lot                AT1             2 
@@ -325,7 +327,6 @@ settled_in           VVN             1
 settled              VVN             1 
 across               II              1 
 spectrum             NN1             1 
-Belas                NP1             1 
 little               DA1             1 
 remained             VVD             1 
 dependent            JJ              1 
@@ -336,7 +337,6 @@ right                NN1             1
 citing               VVG             1 
 after                II              1 
 Sept._11             NPM1            1 
-father               NN1             1 
 veered               VVD             1 
 to_the_point         II              1 
 criticizing          VVG             1 
@@ -387,7 +387,6 @@ loved                VVD             1
 love                 VV0             1 
 July_1898            NPM1            1 
 midst                NN1             1 
-Americas             NP2             1 
 brief                JJ              1 
 lithuanian-born      NN1             1 
 Abraham_Cahan        NP1             1 
@@ -413,7 +412,7 @@ backlash             VV0             1
 building             VVG             1 
 eastern_Europe       JJ              1 
 fever                NN1             1 
-98                   MC              1 
+'98                  MC              1 
 fueled               VVN             1 
 yellow               JJ              1 
 press                NN1             1 
@@ -475,7 +474,7 @@ asiatics             NN2             1
 advocate             NN1             1 
 wartime              NN1             1 
 waved                VVD             1 
-til                  VV0             1 
+'til                 VV0             1 
 hurt                 VVD             1 
 look                 VV0             1 
 now_that             CS21            1 
@@ -521,7 +520,6 @@ Emma                 NP1             1
 Goldmans             NP2             1 
 contribute           VVI             1 
 U.S.                 NP1             1 
-governments          NN2             1 
 decision             NN1             1 
 tighten              VVI             1 
 spigot               NN1             1 
@@ -543,7 +541,6 @@ socialist            JJ              1
 assemblymen          NN2             1 
 plus                 II              1 
 judge                NN1             1 
-Cahans               NP1             1 
 plea                 NN1             1 
 reads                VVZ             1 
 journalistic         JJ              1 
@@ -568,7 +565,8 @@ wide                 JJ              1
 enough               RR              1 
 supply               VVI             1 
 Adam_Sandler         NP1             1 
-albums               NN2             1 
+album                NN1             1 
+worth                NN1             1 
 material             NN1             1 
 without              IW              1 
 mentioning           VVG             1 
@@ -581,7 +579,7 @@ slavic               JJ              1
 dish/and             FU              1 
 forget               VVI             1 
 sly                  JJ              1 
-stallones            NN2             1 
+stallone             NN1             1 
 mama                 NN1             1 
 Jacqueline_Labofish  NP1             1 
 overall              RR              1 
@@ -616,15 +614,12 @@ turn                 NN1             1
 last_century         MD              1 
 popular              JJ              1 
 entertainments       NN2             1 
-Pawnee               NP1             1 
-bills                NN2             1 
+Pawnee_Bill          NP1             1 
 far_east             JJ              1 
 show                 NN1             1 
 featured             VVD             1 
 costumed             JJ              1 
 cossacks             NN2             1 
-Manhattans           NP2             1 
-lower                VV0             1 
 Brownsville          NP1             1 
 area                 NN1             1 
 settling             VVG             1 
@@ -642,7 +637,7 @@ music_hall           NN1             1
 seem                 VVI             1 
 self-evident         JJ              1 
 resettled            VVD             1 
-90s                  MC2             1 
+'90s                 MC2             1 
 viewed               VVD             1 
 differently          RR              1 
 pinko                NN1             1 
@@ -674,7 +669,6 @@ Karl_Marx            NP1             1
 Ronald_Reagan        NP1             1 
 came_around          VVD             1 
 time                 NNT1            1 
-Reagan               NP1             1 
 compare              VV0             1 
 stand                NN1             1 
 favorably            RR              1 
@@ -687,7 +681,6 @@ stand                VVI             1
 up_to                II21            1 
 tyranny              NN1             1 
 gratitude            NN1             1 
-Reagans              NP2             1 
 aggressive           JJ              1 
 foreign              JJ              1 
 policy               NN1             1 
@@ -725,7 +718,7 @@ hardworking          JJ              1
 here                 RL              1 
 hungry               JJ              1 
 make                 VVI             1 
-id                   NN1             1 
+i_'d_say             PPIS1           1 
 1_percent            MC1             1 
 liberals             NN2             1 
 in_terms_of          II31            1 
@@ -766,6 +759,7 @@ marriagesnearly      RR              1
 inverse              JJ              1 
 nationally           RR              1 
 affirmative_action   JJ              1 
+support              NN1             1 
 on-demand            JJ              1 
 abortion             NN1             1 
 according_to         II21            1 
@@ -783,7 +777,7 @@ tough                JJ              1
 conservative         NN1             1 
 moral                JJ              1 
 notably              RR              1 
-Yorks_Mayor_Rudolph  NP1             1 
+Mayor_Rudolph_Giuliani NNB             1 
 Jonathan_Sarna       NP1             1 
 professor            NN1             1 
 Brandeis             NP1             1 
@@ -853,8 +847,8 @@ active               JJ              1
 Lubavitcher          NP1             1 
 youth                NN1             1 
 program              NN1             1 
-wed                  VV0             1 
-listen               VV0             1 
+'d                   VM              1 
+listen               VVI             1 
 about                II              1 
 whatever             DDQV            1 
 good                 JJ              1 
@@ -879,7 +873,8 @@ dovish               JJ              1
 position             NN1             1 
 nave                 NN1             1 
 so                   CS              1 
-wont                 JJ              1 
+wo                   VM              1 
+support              VVI             1 
 Gennady_Katsov       NP1             1 
 journalist           NN1             1 
 cable                NN1             1 
@@ -934,8 +929,7 @@ search               VVI             1
 hard                 RR              1 
 finding              VVG             1 
 subscribed           VVD             1 
-Sarah                NP1             1 
-Palins               NP2             1 
+Sarah_Palin          NP1             1 
 view                 NN1             1 
 fake                 JJ              1 
 implicitly           RR              1 
@@ -974,7 +968,7 @@ Evreiskii_Mir        NP1             1
 am                   VBM             1 
 routinely            RR              1 
 everything           PN1             1 
-scumbag              NN1             1 
+scumbag'             NN1             1 
 fag                  VVI             1 
 lover                NN1             1 
 style                NN1             1 
@@ -1049,6 +1043,7 @@ Mark_Krotov          NP1             1
 book                 NN1             1 
 Moscow               NP1             1 
 Atlanta              NP1             1 
+worth                II              1 
 fighting             VVG             1 
 thingsthey           NN1             1 
 feminine             JJ              1 
@@ -1070,7 +1065,6 @@ noxious              JJ              1
 controversy          NN1             1 
 over                 II              1 
 lower                JJR             1 
-Manhattan            NP1             1 
 islamic              JJ              1 
 mosque               NN1             1 
 last_summer          MD              1 
@@ -1106,7 +1100,7 @@ civic                JJ              1
 psychological        JJ              1 
 luxury               NN1             1 
 degree               NN1             1 
-fathers              NN2             1 
+'                    GE              1 
 convictions          NN2             1 
 come_out             VV0             1 
 of                   II22            1 

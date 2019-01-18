@@ -60,8 +60,6 @@ urns                     NN2     Z99
 Vinylmation              NN1     Z99 
 WalMart                  NN1     Z99 
 WDI                      NP1     Z99 
-weve                     NN1     Z99 
 Wham-O                   NP1     Z99 
 Winnie                   NP1     Z99 
 wisks                    VVZ     Z99 
-youll                    VV0     Z99 

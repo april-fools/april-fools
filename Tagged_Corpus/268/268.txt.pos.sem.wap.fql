@@ -1,10 +1,11 @@
-TOTAL              217
+TOTAL              221
 the                  AT             10 
 of                   IO              9 
+you                  PPY             7 
 and                  CC              6 
 to                   TO              6 
-you                  PPY             6 
 a                    AT1             5 
+it                   PPH1            4 
 video                NN1             4 
 YouTube              NP1             4 
 our                  APPGE           4 
@@ -13,21 +14,20 @@ are                  VBR             3
 to                   II              3 
 so                   RR              3 
 in                   II              3 
+TEXTp                NP1             3 
 for                  IF              3 
 videos               NN2             3 
 on                   II              3 
-it                   PPH1            3 
+'s                   VBZ             2 
+we                   PPIS2           2 
 also                 RR              2 
 is                   VBZ             2 
 or                   CC              2 
-TEXTp                NP1             2 
-textp                NN1             2 
 by                   II              2 
 who                  PNQS            2 
 have                 VH0             2 
 can                  VM              2 
 most                 DAT             2 
-its                  APPGE           1 
 great                JJ              1 
 news                 NN1             1 
 there                EX              1 
@@ -35,7 +35,6 @@ there                EX              1
 hours                NNT2            1 
 uploaded             VVD             1 
 every_minute         AT1             1 
-we                   PPIS2           1 
 support              VV0             1 
 1080p                NNU             1 
 HD                   NP1             1 
@@ -43,8 +42,8 @@ uploads              NN2             1
 rising               VVG             1 
 quickly              RR              1 
 but                  CCB             1 
-thats                VVZ             1 
-meant                VVD             1 
+that                 DD1             1 
+meant                VVN             1 
 increasing           JJ              1 
 bandwidth            NN1             1 
 costs                NN2             1 
@@ -56,8 +55,8 @@ keep                 VVI             1
 expenses             NN2             1 
 under                II              1 
 control              NN1             1 
-weve                 NN1             1 
-decided              VVD             1 
+'ve                  VH0             1 
+decided              VVN             1 
 April                NPM1            1 
 1                    MC1             1 
 perfect              JJ              1 
@@ -71,6 +70,7 @@ way                  NN1             1
 experience           VVI             1 
 text-only            JJ              1 
 mode                 NN1             1 
+textp                NN1             1 
 result               NN1             1 
 months               NNT2            1 
 intense              JJ              1 
@@ -140,6 +140,6 @@ us                   PPIO2           1
 if                   CS              1 
 care                 VV0             1 
 about                II              1 
-youll                VV0             1 
-use                  NN1             1 
+'ll                  VM              1 
+use                  VVI             1 
 today                RT              1 

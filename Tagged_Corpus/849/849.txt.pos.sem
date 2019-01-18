@@ -95,7 +95,8 @@
 0000006 010  VVG     Working                  I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
 0000006 020  IW      with                     Z5 
 0000006 030  JJ      Sungkyungkwan            Z99 
-0000006 040  NN2     Universitys              P1/H1c 
+0000006 040  NN1     University               P1/H1c 
+0000006 041  GE      's                       Z5 
 0000006 050  NN1     School                   P1/H1c S5+c L2%c 
 0000006 060  IO      of                       Z5 
 0000006 070  JJ      Advanced                 T3- A5.1+ Y1 A12- T4- T3+ 
@@ -219,8 +220,9 @@
 0000010 400  VM      could                    A7+ 
 0000010 410  VVI     displace                 A2.1+ M2 
 0000010 420  AT      the                      Z5 
-0000010 430  NN1     tech                     Y1/P1 Y1 
-0000010 440  NN2     industrys                I4c I2.1c 
+0000010 430  NN1     tech                     I4/Y1c[i5.2.1 Y1/P1 Y1 
+0000010 440  NN1     industry                 I4/Y1c[i5.2.2 I4c I2.1c 
+0000010 441  GE      's                       Z5 
 0000010 450  NN1     reliance                 S7.1- 
 0000010 460  II      on                       Z5 
 0000010 470  NN1     silicon                  O1.1 
@@ -249,7 +251,8 @@
 0000012 160  NN1     laboratory               Y1/H1c 
 0000012 170  NN2     leaders                  S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
 0000012 180  II      at                       Z5 
-0000012 190  NP2     SAITs                    Z99 
+0000012 190  NP1     SAIT                     Z99 
+0000012 191  GE      's                       Z5 
 0000012 200  NN1     Lab                      Y1/H1 
 0000012 201  .       .                        
 0000012 202  NULL    <quote>                  
@@ -287,8 +290,8 @@
 0000014 060  VVN     published                Q4 
 0000014 070  II      in                       Z5 
 0000014 080  AT      the                      Z5 
-0000014 090  NPM1    April                    T1.3[i5.2.1 T1.3 
-0000014 100  MC      4                        T1.3[i5.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000014 090  NPM1    April                    T1.3[i6.2.1 T1.3 
+0000014 100  MC      4                        T1.3[i6.2.2 N1 T1.2 T3 T1.3 N3.2 
 0000014 110  NN1     issue                    X4.1 Q4.2 S4 A9- 
 0000014 120  IO      of                       Z5 
 0000014 130  NN1     Science                  Y1 
@@ -343,8 +346,8 @@
 0000016 400  NN1     electronics              O3 
 0000016 401  .       .                        
 0000017 001  -----   -----                    
-0000018 010  MD      Last                     T1.1.1[i7.2.1 N4 T1.3[i6.2.1 P1/S2mf[i6.2.1 
-0000018 020  NNT1    year                     T1.1.1[i7.2.2 T1.3 P1c T1.3[i6.2.2 P1/S2mf[i6.2.2 
+0000018 010  MD      Last                     T1.1.1[i8.2.1 N4 T1.3[i7.2.1 P1/S2mf[i7.2.1 
+0000018 020  NNT1    year                     T1.1.1[i8.2.2 T1.3 P1c T1.3[i7.2.2 P1/S2mf[i7.2.2 
 0000018 021  ,       ,                        
 0000018 030  AT      the                      Z5 
 0000018 040  NP1     UK                       Z2 
@@ -353,8 +356,8 @@
 0000018 070  AT1     a                        Z5 
 0000018 080  NN1     total                    N5.1+ 
 0000018 090  IO      of                       Z5 
-0000018 100  MC      21.5                     N1[i8.2.1 T1.3[i8.2.1 I1[i8.2.1 N1 T1.2 T3 T1.3 N3.2 
-0000018 110  NNO     million                  N1[i8.2.2 T1.3[i8.2.2 I1[i8.2.2 N1 I1 
+0000018 100  MC      21.5                     N1[i9.2.1 T1.3[i9.2.1 I1[i9.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000018 110  NNO     million                  N1[i9.2.2 T1.3[i9.2.2 I1[i9.2.2 N1 I1 
 0000018 120  II      in                       Z5 
 0000018 130  AT      the                      Z5 
 0000018 140  NN1     commercialisation        I2.1 
@@ -368,16 +371,16 @@
 0000018 210  II      in                       Z5 
 0000018 220  NP1     Britain                  Z2 
 0000018 230  II      by                       Z5 
-0000018 240  NP1     Andre                    Z1mf[i9.2.1 Z3c[i9.2.1 Z1m 
-0000018 250  NP1     Geim                     Z1mf[i9.2.2 Z3c[i9.2.2 
+0000018 240  NP1     Andre                    Z1mf[i10.2.1 Z3c[i10.2.1 Z1m 
+0000018 250  NP1     Geim                     Z1mf[i10.2.2 Z3c[i10.2.2 
 0000018 260  CC      and                      Z5 
-0000018 270  NP1     Konstantin               Z1mf[i10.2.1 Z3c[i10.2.1 
-0000018 280  NP1     Novoselov                Z1mf[i10.2.2 Z3c[i10.2.2 
+0000018 270  NP1     Konstantin               Z1mf[i11.2.1 Z3c[i11.2.1 
+0000018 280  NP1     Novoselov                Z1mf[i11.2.2 Z3c[i11.2.2 
 0000018 290  II      from                     Z5 
 0000018 300  AT      the                      Z5 
-0000018 310  NN1     University               Z3c[i11.3.1 P1/H1c 
-0000018 320  IO      of                       Z3c[i11.3.2 Z5 
-0000018 330  NP1     Manchester               Z3c[i11.3.3 Z2 Z3c 
+0000018 310  NN1     University               Z3c[i12.3.1 P1/H1c 
+0000018 320  IO      of                       Z3c[i12.3.2 Z5 
+0000018 330  NP1     Manchester               Z3c[i12.3.3 Z2 Z3c 
 0000018 331  ,       ,                        
 0000018 340  CC      and                      Z5 
 0000018 350  VBZ     is                       Z5 A3+ 
@@ -398,12 +401,12 @@
 0000018 491  .       .                        
 0000019 001  -----   -----                    
 0000020 010  NNB     Chancellor               G1.1/S2mf P1/S2mf S7.1+/S2mf 
-0000020 020  NP1     George                   Z1mf[i12.2.1 Z3c[i12.2.1 Z1m 
-0000020 030  NP1     Osborne                  Z1mf[i12.2.2 Z3c[i12.2.2 Z1mf Z2 
+0000020 020  NP1     George                   Z1mf[i13.2.1 Z3c[i13.2.1 Z1m 
+0000020 030  NP1     Osborne                  Z1mf[i13.2.2 Z3c[i13.2.2 Z1mf Z2 
 0000020 040  VVD     said                     Q2.1 
-0000020 050  II      at                       T1.1.1[i13.3.1 T1.1.2[i13.3.1 Z5 
-0000020 060  AT      the                      T1.1.1[i13.3.2 T1.1.2[i13.3.2 Z5 
-0000020 070  NNT1    time                     T1.1.1[i13.3.3 T1.1.2[i13.3.3 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000020 050  II      at                       T1.1.1[i14.3.1 T1.1.2[i14.3.1 Z5 
+0000020 060  AT      the                      T1.1.1[i14.3.2 T1.1.2[i14.3.2 Z5 
+0000020 070  NNT1    time                     T1.1.1[i14.3.3 T1.1.2[i14.3.3 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000020 080  CST     that                     Z5 Z8 
 0000020 090  AT      the                      Z5 
 0000020 100  NN1     investment               I1.1 
@@ -416,8 +419,8 @@
 0000020 170  IO      of                       Z5 
 0000020 180  NP1     Cambridge                Z2 
 0000020 181  ,       ,                        
-0000020 190  NP1     London                   Z1mf[i14.2.1 Z3c[i14.2.1 Z2 
-0000020 200  JJ      Imperial                 Z1mf[i14.2.2 Z3c[i14.2.2 Z3c 
+0000020 190  NP1     London                   Z1mf[i15.2.1 Z3c[i15.2.1 Z2 
+0000020 200  JJ      Imperial                 Z1mf[i15.2.2 Z3c[i15.2.2 Z3c 
 0000020 201  ,       ,                        
 0000020 210  NP1     Durham                   Z2 Z1mf 
 0000020 211  ,       ,                        
@@ -441,8 +444,8 @@
 0000020 350  II      to                       Z5 
 0000020 360  AT      the                      Z5 
 0000020 370  JJ      British                  Z2 Z2/S2mfnc 
-0000020 380  NN1     factory                  I4/H2[i15.2.1 I4/H1c 
-0000020 390  NN1     floor                    I4/H2[i15.2.2 H2 S5+ 
+0000020 380  NN1     factory                  I4/H2[i16.2.1 I4/H1c 
+0000020 390  NN1     floor                    I4/H2[i16.2.2 H2 S5+ 
 0000020 391  "       "                        
 0000020 392  NULL    </quote>                 
 0000020 393  -----   -----                    

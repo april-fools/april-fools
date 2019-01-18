@@ -118,7 +118,8 @@
 0000004 040  JJ      British                  Z2 Z2/S2mfnc 
 0000004 050  NN2     conservatives            G1.2/S2mf A2.1-/S2mf 
 0000004 060  IO      of                       Z5 
-0000004 070  NP2     Jeffersons               Z99 
+0000004 070  NP1     Jefferson                Z99 
+0000004 071  GE      's                       Z5 
 0000004 080  NNT1    day                      T1.3 
 0000004 081  ,       ,                        
 0000004 090  CC      and                      Z5 
@@ -177,7 +178,8 @@
 0000004 550  RR      also                     N5++ 
 0000004 560  VVG     suggesting               Q2.2 Q1.1 
 0000004 570  CST     that                     Z5 Z8 
-0000004 580  NN2     theres                   Z5 M6 T1.2 
+0000004 580  EX      there                    Z5 
+0000004 581  VBZ     's                       A3+ Z5 
 0000004 590  PN1     something                Z8 
 0000004 600  RG      pretty                   A13.5 
 0000004 610  JJ      fundamental              A11.1+ 
@@ -223,11 +225,12 @@
 0000004 903  -----   -----                    
 0000006 010  NP1     Jefferson                Z99 
 0000006 020  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000006 021  XX      nt                       S9/Q4.1 Z3c 
+0000006 021  XX      n't                      Z6 
 0000006 030  VHI     have                     A9+ Z5 A2.2 S4 
 0000006 040  NN1     access                   M1 A9+ A1.1.1 
 0000006 050  II      to                       Z5 
-0000006 060  NN2     todays                   T1.1.2 
+0000006 060  RT      today                    T1.1.2 
+0000006 061  GE      's                       Z5 
 0000006 070  JJ      scientific               Y1 
 0000006 080  NN1     machineryeye             Z99 
 0000006 090  NN1     tracker                  X2.4/S2mf 
@@ -409,8 +412,9 @@
 0000010 051  :       :                        
 0000010 060  MC1     One                      N1 T3 T1.2 
 0000010 070  IO      of                       Z5 
-0000010 080  NN2     Hibbings                 Z99 
-0000010 090  VVG     pioneering               T2+ 
+0000010 080  NP1     Hibbing                  Z99 
+0000010 081  GE      's                       Z5 
+0000010 090  JJ      pioneering               T2+ 
 0000010 100  NN2     papers                   Q4.2c O1.1 Q1.2 P1/Q1.2 H5 
 0000010 110  II      on                       Z5 
 0000010 120  AT      the                      Z5 
@@ -541,7 +545,8 @@
 0000010 190  DDQ     which                    Z8 Z5 
 0000010 200  VVZ     manages                  S7.1+ A1.1.1 X9.2+ 
 0000010 210  AT      the                      Z5 
-0000010 220  NN2     bodys                    B1 O2 S5+c O4.1 S2mf 
+0000010 220  NN1     body                     B1 O2 S5+c O4.1 S2mf 
+0000010 221  GE      's                       Z5 
 0000010 230  JJ      fight-or-flight          B1/E5- 
 0000010 240  NN1     response                 Q2.1 S1.1.2+ 
 0000010 241  .       .                        
@@ -573,7 +578,8 @@
 0000012 172  -----   -----                    
 0000012 180  NN2     Conservatives            G1.2/S2mf A2.1-/S2mf 
 0000012 181  ,       ,                        
-0000012 190  NP1     Hibbings                 Z99 
+0000012 190  NP1     Hibbing                  Z99 
+0000012 191  GE      's                       Z5 
 0000012 200  NN1     research                 X2.4 
 0000012 210  VVZ     suggests                 Q2.2 Q1.1 
 0000012 211  ,       ,                        
@@ -728,7 +734,8 @@
 0000014 950  NN2     images                   O4.1 A8 X2.1 C1 
 0000014 951  .       .                        
 0000015 001  -----   -----                    
-0000016 010  NN2     Heres                    M6 T1.1.2 T1.2 
+0000016 010  RL      Here                     M6 T1.1.2 T1.2 
+0000016 011  VBZ     's                       A3+ Z5 
 0000016 020  AT1     an                       Z5 
 0000016 030  NN1     example                  A4.1 
 0000016 040  IO      of                       Z5 
@@ -764,7 +771,8 @@
 0000016 244  (       (                        
 0000016 250  DD1     This                     M6 Z5 Z8 
 0000016 260  NN1     picture                  C1 Q4.3 X4.1 
-0000016 270  NN1     wasnt                    Z99 
+0000016 270  VBDZ    was                      Z5 A3+ 
+0000016 271  XX      n't                      Z6 
 0000016 280  RR      actually                 A5.4+ A14 
 0000016 290  VVN     used                     A1.5.1 S7.1+ 
 0000016 300  II      in                       Z5 
@@ -837,7 +845,8 @@
 0000020 010  AT      The                      Z5 
 0000020 020  NN2     results                  A2.2 X9.2 N2 A5.1 K5 Q1.1/A2.2 
 0000020 030  IO      of                       Z5 
-0000020 040  NP1     Hibbings                 Z99 
+0000020 040  NP1     Hibbing                  Z99 
+0000020 041  GE      's                       Z5 
 0000020 050  NN1     study                    P1 X2.4 H2 Q1.2 C1 
 0000020 060  VBDR    were                     A3+ Z5 
 0000020 070  JJ      clear                    A7+ A10+ O4.3 O4.1 N5.1+ W4 
@@ -906,8 +915,9 @@
 0000022 001  NULL    <quote>                  
 0000022 002  -----   -----                    
 0000022 010  RR      Maybe                    A7 
-0000022 020  NN1     youve                    Z99 
-0000022 030  VHD     had                      A9+ Z5 A2.2 S4 
+0000022 020  PPY     you                      Z8mf 
+0000022 021  VH0     've                      Z5 A9+ A2.2 
+0000022 030  VHN     had                      A9+ Z5 A2.2 S4 
 0000022 040  DD1     this                     M6 Z5 Z8 
 0000022 050  NN1     experience               X2.2+ X9.1+ I3.2 A2.1+/A3+ X3 
 0000022 051  ,       ,                        
@@ -937,7 +947,8 @@
 0000022 221  .       .                        
 0000022 222  -----   -----                    
 0000022 230  CC      And                      Z5 
-0000022 240  APPGE   its                      Z8 
+0000022 240  PPH1    it                       Z8 
+0000022 241  VBZ     's                       A3+ Z5 
 0000022 250  JJ@     like                     Z5 A6.1+ Z4 E2+ 
 0000022 251  ,       ,                        
 0000022 260  VDD     Did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
@@ -947,7 +958,8 @@
 0000022 300  DA      same                     A6.1+++ 
 0000022 310  NN1     debate                   Q2.2 
 0000022 311  ?       ?                        
-0000022 312  -----   -----                    
+0000022 312  "@      '                        
+0000022 313  -----   -----                    
 0000022 320  CC      And                      Z5 
 0000022 330  II      in                       Z4[i34.3.1 Z5 
 0000022 340  DD      some                     Z4[i34.3.2 N5 Z5 
@@ -955,13 +967,14 @@
 0000022 351  ,       ,                        
 0000022 360  PPY     you                      Z8mf 
 0000022 370  VDD     did                      A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
-0000022 371  XX      nt                       S9/Q4.1 Z3c 
+0000022 371  XX      n't                      Z6 
 0000022 372  .       .                        
 0000022 373  -----   -----                    
 0000022 380  CC      And                      Z5 
 0000022 390  PPIS1   I                        Z8mf 
 0000022 400  VV0     think                    X2.1 
-0000022 410  NN2     thats                    Z5 Z8 A13.3 A6.1+ 
+0000022 410  DD1     that                     Z8 Z5 
+0000022 411  VBZ     's                       A3+ Z5 
 0000022 420  DDQ     what                     Z8 Z5 
 0000022 430  DD1     this                     M6 Z5 Z8 
 0000022 440  NN1     research                 X2.4 
@@ -983,7 +996,8 @@
 0000024 111  .       .                        
 0000024 112  -----   -----                    
 0000024 120  NP1@    Hibbing                  Z99 
-0000024 130  VV0     isnt                     Z99 
+0000024 130  VBZ     is                       A3+ Z5 
+0000024 131  XX      n't                      Z6 
 0000024 140  AT      the                      Z5 
 0000024 150  JJ      only                     N5-/S2mf[i35.2.1 A14 
 0000024 160  PN1     one                      N5-/S2mf[i35.2.2 Z8 
@@ -1309,7 +1323,8 @@
 0000030 020  CS      when                     Z5 
 0000030 030  PPY     you                      Z8mf 
 0000030 040  VV0     combine                  A2.2 A1.8+ S5+c F4 
-0000030 050  NP1     Hibbings                 Z99 
+0000030 050  NP1     Hibbing                  Z99 
+0000030 051  GE      's                       Z5 
 0000030 060  NN1     research                 X2.4 
 0000030 070  II      on                       Z5 
 0000030 080  AT      the                      Z5 
@@ -1396,7 +1411,7 @@
 0000032 300  CST     that                     Z8 Z5 
 0000032 310  PPY     you                      Z8mf 
 0000032 320  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000032 321  XX      nt                       S9/Q4.1 Z3c 
+0000032 321  XX      n't                      Z6 
 0000032 330  RR      fully                    A13.2 N5.1+ 
 0000032 340  VVI     control                  S7.1+ A1.7+ 
 0000032 350  APPGE   your                     Z8 
@@ -1460,7 +1475,8 @@
 0000032 770  DD1     that                     Z8 Z5 
 0000032 780  VM      would                    A7+ 
 0000032 790  RR      never                    T1/Z6 
-0000032 800  VVI     happenweve               Z99 
+0000032 800  VVI     happenwe                 Z99 
+0000032 801  VH0     've                      Z5 A9+ A2.2 
 0000032 810  VVN     grown                    N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4 
 0000032 820  RR      much                     A13.3 N6+ 
 0000032 830  RGR     more                     A13.3 
@@ -1499,7 +1515,8 @@
 0000034 150  NN1     hope                     X2.6+ E4.1+ X9.2+ A5.1+ 
 0000034 151  ,       ,                        
 0000034 160  RR      maybe                    A7 
-0000034 170  APPGE   its                      Z8 
+0000034 170  PPH1    it                       Z8 
+0000034 171  VBZ     's                       A3+ Z5 
 0000034 180  DAR     more                     N5++ 
 0000034 190  CSN     than                     Z5 
 0000034 200  DD1     that                     Z8 Z5 

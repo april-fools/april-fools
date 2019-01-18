@@ -1,4 +1,4 @@
-TOTAL              112
+TOTAL              113
 the                  AT              5 
 a                    AT1             4 
 was                  VBDZ            4 
@@ -16,6 +16,7 @@ her                  APPGE           2
 cell                 NN1             2 
 killing              VVG             2 
 car                  NN1             2 
+'s                   GE              2 
 REDDING              NP1             1 
 Calif                NP1             1 
 who                  PNQS            1 
@@ -66,10 +67,9 @@ transactions         NN2             1
 when                 RRQ             1 
 hit                  VVD             1 
 46-year-old          JJ              1 
-Petra                NP1             1 
-Winns                NP2             1 
+Petra_Winn           NP1             1 
 her                  PPHO1           1 
-Matis-Engles         NP1             1 
+Matis-Engle          NP1             1 
 attorney             NN1             1 
 Jeffrey_Stotter      NP1             1 
 he                   PPHS1           1 

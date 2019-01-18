@@ -12,6 +12,6 @@
 0000002 100  NP1     Mac                      Z1m Z3 
 0000002 110  NP2     OS                       Z5 
 0000002 120  II%     X                        Z5 
-0000002 130  NN1     Tiger                    Z3 
+0000002 130  NP1     Tiger'                   Z99 
 0000002 140  NN1     spokesperson             Q2.2/S2mf 
 0000004 001  NULL    **8;7;text               

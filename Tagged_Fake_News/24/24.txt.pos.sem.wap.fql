@@ -1,17 +1,18 @@
-TOTAL              240
+TOTAL              246
 the                  AT              7 
 his                  APPGE           7 
 he                   PPHS1           6 
 is                   VBZ             5 
 as                   CSA             5 
+trump                NN1             5 
 for                  IF              5 
+we                   PPIS2           5 
 a                    AT1             4 
-trump                NN1             4 
 and                  CC              4 
-we                   PPIS2           4 
 gave                 VVD             4 
 us                   PPIO2           4 
 to                   TO              3 
+'s                   GE              3 
 this                 DD1             3 
 has                  VHZ             3 
 it                   PPH1            3 
@@ -32,8 +33,10 @@ Vince_McMahon        NP1             2
 i                    PPIS1           2 
 had                  VHD             2 
 guy                  NN1             2 
+you                  PPY             2 
 said                 VVD             2 
 say                  VV0             2 
+'re                  VBR             2 
 you_know             PPY             2 
 who                  PNQS            2 
 be                   VBI             2 
@@ -68,7 +71,6 @@ two                  MC              1
 hours                NNT2            1 
 earlier              RRR             1 
 at                   II              1 
-trumps               NN2             1 
 New_York             NP1             1 
 headquarters         NN              1 
 not                  XX              1 
@@ -90,7 +92,7 @@ notoriety            NN1             1
 offer                VVI             1 
 boost                NN1             1 
 to                   II              1 
-Donalds              NP2             1 
+Donald               NP1             1 
 campaign             NN1             1 
 toughest             JJT             1 
 battle               NN1             1 
@@ -103,10 +105,10 @@ deeply               RR              1
 admire               VV0             1 
 discussion           NN1             1 
 think                VV0             1 
-s                    VBZ             1 
+'s                   VBZ             1 
 listen               VV0             1 
 our                  APPGE           1 
-countrys             NN2             1 
+country              NN1             1 
 future               NN1             1 
 stone                NN1             1 
 cold                 NN1             1 
@@ -114,7 +116,6 @@ rock                 NN1             1
 DX                   NP1             1 
 how                  RRQ             1 
 can                  VM              1 
-you                  PPY             1 
 argue                VVI             1 
 with                 IW              1 
 record               NN1             1 
@@ -130,9 +131,7 @@ event                NN1             1
 part                 NN1             1 
 a_lot                AT1             1 
 common               JJ              1 
-youre                NN1             1 
-fired                VVD             1 
-were                 VBDR            1 
+fired'               JJ              1 
 businessmen          NN2             1 
 love                 VV0             1 
 else                 RR              1 
@@ -155,6 +154,7 @@ potential            JJ              1
 experts              NN2             1 
 wont                 NN1             1 
 long                 RR              1 
-theyve               NN1             1 
+they                 PPHS2           1 
+'ve                  VH0             1 
 already              RR              1 
 met                  VVN             1 

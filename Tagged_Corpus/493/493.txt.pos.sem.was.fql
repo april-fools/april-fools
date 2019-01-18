@@ -1,4 +1,4 @@
-TOTAL              316
+TOTAL              318
 the                  Z5                  16 
 and                  Z5                  11 
 new                  T3-                 10 
@@ -7,10 +7,10 @@ of                   Z5                   8
 a                    Z5                   7 
 his                  Z8                   6 
 characters           S2                   5 
+blizzard             W4                   4 
 to                   Z5                   4 
 is                   Z5                   4 
 this                 M6                   4 
-blizzard             W4                   3 
 released             A1.7-                3 
 twitter              Z99                  3 
 as                   Z5                   3 
@@ -22,8 +22,9 @@ amazing              O4.2+                3
 all                  N5.1+                3 
 either               Z5                   3 
 their                Z8                   2 
-its                  Z8                   2 
+it                   Z8                   2 
 beautiful            O4.2+                2 
+'s                   Z5                   2 
 also                 N5++                 2 
 in                   Z5                   2 
 we                   Z8                   2 
@@ -68,6 +69,7 @@ April_2nd            T1.3                 1
 based_on             A2.2                 1 
 again                N6+                  1 
 earth                W3                   1 
+'s                   A3+                  1 
 mightiest            S1.2.5+              1 
 heroes               Q4.1                 1 
 must                 S6+                  1 
@@ -81,7 +83,6 @@ or_whatever          Z4                   1
 maps                 Q1.2                 1 
 include              A1.8+                1 
 Los_Angeles_New      Z1                   1 
-Stewarts             Z1                   1 
 bald                 B1                   1 
 head                 B1                   1 
 many                 N5+                  1 
@@ -94,7 +95,6 @@ ones                 Z8                   1
 as_well              N5++                 1 
 for                  Z5                   1 
 shown                A10+                 1 
-blizzards            W4                   1 
 official             G1.1                 1 
 page                 Q1.2                 1 
 Roaghog              Z99                  1 
@@ -124,13 +124,13 @@ fire                 O4.6+                1
 ultimate             T2-                  1 
 move                 M1                   1 
 called               Q2.2                 1 
+its                  Z8                   1 
 where                M6                   1 
 yells                Q2.2                 1 
 really               A13.3                1 
 loudly               X3.2+                1 
 usually              A6.2+                1 
 gibberish            S1.2.6-              1 
-it                   Z8                   1 
 propels              M2                   1 
 into                 Z5                   1 
 depending_on         A2.2                 1 

@@ -1,9 +1,9 @@
-TOTAL              338
+TOTAL              340
 the                  AT             22 
 of                   IO              9 
 that                 CST             9 
+Clinton              NP1             7 
 in                   II              6 
-Clinton              NP1             6 
 email                NN1             6 
 to                   TO              6 
 was                  VBDZ            6 
@@ -24,7 +24,6 @@ points_out           VVZ             3
 with                 IW              3 
 emails               NN2             3 
 government           NN1             3 
-president            NN1             3 
 when                 CS              3 
 and                  CC              3 
 also                 RR              3 
@@ -40,7 +39,7 @@ did                  VDD             2
 she                  PPHS1           2 
 saying               VVG             2 
 everybody_else       PN1             2 
-Clintons             NP2             2 
+president'           NN1             2 
 Podesta              NP1             2 
 despite              II              2 
 FBI                  NP1             2 
@@ -65,7 +64,7 @@ be                   VBI             1
 pivotal              JJ              1 
 scandal              NN1             1 
 use                  NN1             1 
-private              JJ              1 
+private'             JJ              1 
 state_department     NN1             1 
 communicating        VVG             1 
 New_York_times       NP1             1 
@@ -92,6 +91,7 @@ business.            NNU             1
 interview            NN1             1 
 asked                VVN             1 
 Mr.                  NNB             1 
+president            NN1             1 
 when                 RRQ             1 
 you                  PPY             1 
 first                MD              1 
@@ -115,9 +115,10 @@ reports              NN2             1
 Mr._Dobbs            NNB             1 
 fact                 NN1             1 
 however              RR              1 
-nt                   XX              1 
+n't                  XX              1 
 believe              VVI             1 
 said                 VVD             1 
+'s                   GE              1 
 top                  JJ              1 
 aide                 NN1             1 
 Cheryl_Mills         NP1             1 
@@ -131,6 +132,7 @@ need                 VV0             1
 clean                VVI             1 
 this                 DD1             1 
 up                   RP              1 
+'                    GE              1 
 noting               VVG             1 
 from                 II              1 
 Hillary              NP1             1 
@@ -192,6 +194,7 @@ are                  VBR             1
 no                   AT              1 
 coincidences         NN2             1 
 comes_to             VVZ             1 
+Clintons             NP2             1 
 these                DD2             1 
 revelations          NN2             1 
 show                 VV0             1 

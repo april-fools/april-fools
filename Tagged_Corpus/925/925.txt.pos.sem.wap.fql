@@ -1,4 +1,4 @@
-TOTAL             1527
+TOTAL             1529
 the                  AT            110 
 and                  CC             40 
 of                   IO             38 
@@ -11,10 +11,10 @@ was                  VBDZ           19
 with                 IW             18 
 it                   PPH1           17 
 that                 CST            17 
+'s                   GE             17 
+club                 NN1            16 
 Uzbekistan           NP1            15 
 are                  VBR            15 
-club                 NN1            15 
-'s                   GE             15 
 by                   II             14 
 their                APPGE          14 
 Barcelona            NP1            13 
@@ -39,7 +39,6 @@ one                  MC1             6
 many                 DA2             6 
 years                NNT2            6 
 he                   PPHS1           6 
-clubs                NN2             5 
 but                  CCB             5 
 world                NN1             5 
 players              NN2             5 
@@ -50,6 +49,7 @@ had                  VHD             5
 Bunyodkor            NP1             5 
 our                  APPGE           5 
 deal                 NN1             4 
+clubs                NN2             4 
 worst                JJT             4 
 human_rights         JJ              4 
 at                   II              4 
@@ -87,6 +87,7 @@ change               NN1             3
 international        JJ              3 
 as                   II              3 
 these                DD2             3 
+country              NN1             3 
 Karimov              NP1             3 
 human                JJ              3 
 found                VVN             3 
@@ -163,7 +164,6 @@ life                 NN1             2
 become               VVN             2 
 recently             RR              2 
 record               NN1             2 
-country              NN1             2 
 studies              NN2             2 
 them                 PPHO2           2 
 rise                 NN1             2 
@@ -374,7 +374,6 @@ whereas              CS              1
 companies            NN2             1 
 creative             JJ              1 
 sector               NN1             1 
-countrys             NN2             1 
 economy              NN1             1 
 why                  RRQ             1 
 builder              NN1             1 

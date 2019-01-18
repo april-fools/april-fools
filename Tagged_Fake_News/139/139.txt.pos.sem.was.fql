@@ -1,8 +1,10 @@
-TOTAL              331
+TOTAL              342
 the                  Z5                  23 
 to                   Z5                   9 
 and                  Z5                   8 
+'s                   Z5                   7 
 of                   Z5                   7 
+we                   Z8                   6 
 for                  Z5                   5 
 each                 N5.1+                5 
 below                M6                   5 
@@ -12,11 +14,11 @@ a                    Z5                   4
 as                   Z5                   4 
 our                  Z8                   4 
 estimates            X6                   4 
-we                   Z8                   4 
 that                 Z5                   3 
 win                  X9.2+                3 
 state                G1.1                 3 
 victory              X9.2+                3 
+Mr._Trump            Z1                   3 
 have                 Z5                   3 
 which                Z8                   3 
 like                 Z5                   3 
@@ -24,15 +26,17 @@ model                O2                   2
 favored              Z99                  2 
 based_on             A2.2                 2 
 by                   Z5                   2 
-Mr._Trump            Z1                   2 
+Mrs._Clinton         Z1                   2 
 chance               A1.4                 2 
 is                   A3+                  2 
-weve                 Z99                  2 
+'ve                  Z5                   2 
 been                 Z5                   2 
+'s                   A3+                  2 
 will                 T1.1.3               2 
 you                  Z8                   2 
 chart                Q1.2                 2 
 paths                M3                   2 
+here                 M6                   2 
 how                  Z5                   2 
 forecast             Q2.2                 2 
 vote                 G1.2                 2 
@@ -43,7 +47,6 @@ nation               G1.1                 2
 since                Z5                   2 
 2004                 N1                   2 
 that                 Z8                   2 
-organizations        S5+                  2 
 election             G1.2                 2 
 ratings              A5.1                 2 
 or                   Z5                   2 
@@ -54,7 +57,7 @@ more                 A13.3                2
 outcome              X9.2                 2 
 diagram              Q1.2                 2 
 illustrates          A4.1                 2 
-upshots              A2.2                 1 
+upshot               A2.2                 1 
 elections            G1.2                 1 
 suggests             Q2.2                 1 
 Hillary_Clinton      Z1                   1 
@@ -64,7 +67,6 @@ national             M7                   1
 polls                G1.2                 1 
 remains              T2++                 1 
 possible             A7+                  1 
-Mrs._Clintons        Z1                   1 
 losing               X9.2-                1 
 about                Z5                   1 
 same                 A6.1+++              1 
@@ -82,10 +84,10 @@ with                 Z5                   1
 new                  T3-                  1 
 poll                 G1.2                 1 
 today                T1.1.2               1 
-its                  Z8                   1 
+it                   Z8                   1 
 election_day         G1.2                 1 
 what                 Z8                   1 
-all                  N5.1+                1 
+all                  A13.2                1 
 waiting              T1.3                 1 
 there                Z5                   1 
 be                   A3+                  1 
@@ -94,11 +96,10 @@ more                 N5++                 1
 updates              T1.1.2               1 
 can                  A7+                  1 
 different            A6.1-                1 
-heres                M6                   1 
 changed_over         A2.1+                1 
 time                 T1                   1 
 State-by-State       Z99                  1 
-partys               K1                   1 
+party                K1                   1 
 winning              X9.2+                1 
 calculates           N2                   1 
 district             Z3                   1 
@@ -114,7 +115,7 @@ table                H5                   1
 divided              A6.1-                1 
 country              G1.1                 1 
 groups               S5+                  1 
-areas                M7                   1 
+area                 M7                   1 
 voting               G1.2                 1 
 history              T1.1.1               1 
 relative_to          Z5                   1 
@@ -124,6 +125,7 @@ New_York_times       Z3                   1
 one                  T3                   1 
 many                 N5+                  1 
 news                 X2.2+                1 
+organizations        S5+                  1 
 publish              Q4                   1 
 forecasts            Q2.2                 1 
 FiveThirtyEight      Z99                  1 
@@ -142,6 +144,7 @@ on                   Z5                   1
 reporting            Q2.2                 1 
 knowledgeable        X2.2+                1 
 experts              X2.2+                1 
+'                    Z5                   1 
 opinions             X2.1                 1 
 predictwise          Z99                  1 
 uses                 A1.5.1               1 
@@ -158,6 +161,7 @@ scoreboard           Z99                  1
 comparison           A6.1                 1 
 first                N4                   1 
 every                N5.1+                1 
+organization         S5+                  1 
 estimate             X6                   1 
 who                  Z8                   1 
 combinations         A6.3+                1 
@@ -168,10 +172,8 @@ shows                A10+                 1
 estimated            X6                   1 
 likelihood           A7                   1 
 interactive          S1.1.2+              1 
-Mr._Trumps           Z1                   1 
 challenging          A12-                 1 
 path                 M3                   1 
-here                 M6                   1 
 let                  S7.4+                1 
 control              S7.1+                1 
 nine                 N1                   1 
@@ -186,7 +188,6 @@ in_the_past_decade   T1.1.1               1
 competitive          S7.3+                1 
 then                 N4                   1 
 assume               X2.1                 1 
-Mrs._Clinton         Z1                   1 
 other                A6.1-                1 
 states               G1.1                 1 
 they                 Z8                   1 
@@ -204,4 +205,3 @@ the_states           Z2                   1
 see                  X3.4                 1 
 either               Z5                   1 
 candidate            G1.2                 1 
-'s                   Z5                   1 

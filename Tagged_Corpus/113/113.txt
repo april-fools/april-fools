@@ -4,7 +4,7 @@ Speaking from Apple's Headquarters in Cupertino, CA, Apple's CEO, Steve Jobs sai
 
 Jobs added that running Windows Vista and OS X along each other was a logical next step since it allowed Mac users to benefit from the best of both worlds; this has been made easier as Windows and Mac computer now share the same microarchitecture.
 
-Philip Schiller, Apple’s senior vice president of Worldwide Product Marketing, added that  <quote> "Many customers have expressed their interest to run Windows on Apple’s superior hardware now that we use Intel processors and we think that the move will make the Mac even more appealing to Windows users considering making the switch" </quote> .
+Philip Schiller, Apple's senior vice president of Worldwide Product Marketing, added that  <quote> "Many customers have expressed their interest to run Windows on Apple's superior hardware now that we use Intel processors and we think that the move will make the Mac even more appealing to Windows users considering making the switch" </quote> .
 
 He downplayed security issues saying that both Operating system would be running separately and that any malware would have a tough time trying to migrate from one platform to another.
 

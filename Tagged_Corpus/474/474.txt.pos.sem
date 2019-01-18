@@ -15,21 +15,23 @@
 0000002 130  VV0     compete                  S7.3+ 
 0000002 140  II      in                       Z5 
 0000002 150  MD      next                     N4 
-0000002 160  NPD2    Saturdays                T1.3 
-0000002 170  NN@     Grand                    N1 I1 
-0000002 180  JJ      National                 Z3c 
+0000002 160  NPD1    Saturday                 T1.3 
+0000002 161  GE      's                       Z5 
+0000002 170  JJ      Grand                    Z3[i1.2.1 O4.2+ A11.1+ A5.1+ N3.2+ S1.2.3+ 
+0000002 180  JJ      National                 Z3[i1.2.2 Z3c 
 0000002 181  .       .                        
 0000003 001  -----   -----                    
-0000004 010  NN1     Race                     K5.1/E2+mf[i1.2.1 K5.1 S7.3+ S5+c 
-0000004 020  NN2     fans                     K5.1/E2+mf[i1.2.2 S2/E2+mf O2 
+0000004 010  NN1     Race                     K5.1/E2+mf[i2.2.1 K5.1 S7.3+ S5+c 
+0000004 020  NN2     fans                     K5.1/E2+mf[i2.2.2 S2/E2+mf O2 
 0000004 030  VM      might                    A7+ 
 0000004 040  VVI     exclaim                  Q2.2 
 0000004 041  :       :                        
 0000004 050  NP1     Hoof                     L2 B1@ 
-0000004 060  VD0     do                       Z4[i2.3.1 Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000004 070  PPY     you                      Z4[i2.3.2 Z8mf 
-0000004 080  VVI     think                    Z4[i2.3.3 X2.1 
-0000004 090  NN1     youre                    Z99 
+0000004 060  VD0     do                       Z4[i3.3.1 Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000004 070  PPY     you                      Z4[i3.3.2 Z8mf 
+0000004 080  VVI     think                    Z4[i3.3.3 X2.1 
+0000004 090  PPY     you                      Z8mf 
+0000004 091  VBR     're                      Z5 A3+ 
 0000004 100  VVG     kidding                  A5.2-/E4.1+ 
 0000004 101  ?       ?                        
 0000005 001  -----   -----                    
@@ -60,15 +62,15 @@
 0000008 120  IF      for                      Z5 
 0000008 130  NNT2    months                   T1.3 
 0000008 131  ,       ,                        
-0000008 140  II41    with                     X7+[i4.4.1 X7+[i3.4.1 
-0000008 150  II42    a                        X7+[i4.4.2 X7+[i3.4.2 
-0000008 160  II43    view                     X7+[i4.4.3 X7+[i3.4.3 
-0000008 170  II44    to                       X7+[i4.4.4 Z5 X7+[i3.4.4 
+0000008 140  II41    with                     X7+[i5.4.1 X7+[i4.4.1 
+0000008 150  II42    a                        X7+[i5.4.2 X7+[i4.4.2 
+0000008 160  II43    view                     X7+[i5.4.3 X7+[i4.4.3 
+0000008 170  II44    to                       X7+[i5.4.4 Z5 X7+[i4.4.4 
 0000008 180  VVG     using                    A1.5.1 S7.1+ 
 0000008 190  AT      the                      Z5 
 0000008 200  NN1     technology               Y1 
-0000008 210  MD      next                     T1.1.3[i5.2.1 N4 
-0000008 220  NNT1    season                   T1.1.3[i5.2.2 T1.3 
+0000008 210  MD      next                     T1.1.3[i6.2.1 N4 
+0000008 220  NNT1    season                   T1.1.3[i6.2.2 T1.3 
 0000008 230  TO      to                       Z5 
 0000008 240  VVI     give                     A9- A1.1.1 
 0000008 250  NN2     horses                   L2mfn 
@@ -84,8 +86,8 @@
 0000010 020  NN1     spokesman                Q2.2/S2.2m 
 0000010 030  IF      for                      Z5 
 0000010 040  AT      the                      Z5 
-0000010 050  NN1     Jockey                   K5.1/S5+c[i6.2.1 K5.1 S7.3+ 
-0000010 060  NN1     Club                     K5.1/S5+c[i6.2.2 S5+c O2 
+0000010 050  NN1     Jockey                   K5.1/S5+c[i7.2.1 K5.1 S7.3+ 
+0000010 060  NN1     Club                     K5.1/S5+c[i7.2.2 S5+c O2 
 0000010 070  XX      not                      Z6 
 0000010 080  AT      the                      Z5 
 0000010 090  JJ      Jokey                    E4.1+ 
@@ -97,7 +99,8 @@
 0000010 120  PPIS2   We                       Z8 
 0000010 130  RR      always                   N6+++ 
 0000010 140  VV0     think                    X2.1 
-0000010 150  NN2     theres                   Z5 M6 T1.2 
+0000010 150  EX      there                    Z5 
+0000010 151  VBZ     's                       A3+ Z5 
 0000010 160  AT1     a                        Z5 
 0000010 170  NN1     place                    M7 H1 A1.2 P1 
 0000010 180  IF      for                      Z5 
@@ -127,8 +130,9 @@
 0000012 171  :       :                        
 0000012 172  NULL    <quote>                  
 0000012 173  -----   -----                    
-0000012 180  VBDR    Were                     Z5 A3+ 
-0000012 190  VVN@    delighted                E4.1+ 
+0000012 180  PPIS2   We                       Z8 
+0000012 181  VBR     're                      A3+ Z5 
+0000012 190  JJ      delighted                E4.1+ 
 0000012 191  .       .                        
 0000012 192  NULL    </quote>                 
 0000012 193  -----   -----                    
@@ -142,7 +146,7 @@
 0000014 080  AT1     a                        Z5 
 0000014 090  NN1     success                  X9.2+ 
 0000014 091  ,       ,                        
-0000014 100  NN2     phones                   Q1.3 
+0000014 100  NN2     'phones                  Z99 
 0000014 110  VM      could                    A7+ 
 0000014 120  VVI     become                   A2.1+ O4.2+ 
 0000014 130  RG@     as                       A13 
@@ -163,8 +167,8 @@
 0000016 041  ,       ,                        
 0000016 050  VVN     trained                  P1 K5.1 
 0000016 060  II      by                       Z5 
-0000016 070  NP1     Fergal                   Z1mf[i7.2.1 Z3c[i7.2.1 
-0000016 080  NP1     OBrien                   Z1mf[i7.2.2 Z3c[i7.2.2 
+0000016 070  NP1     Fergal                   Z1mf[i8.2.1 Z3c[i8.2.1 
+0000016 080  NP1     O'Brien                  Z1mf[i8.2.2 Z3c[i8.2.2 Z1 
 0000016 081  ,       ,                        
 0000016 090  VBZ     is                       A3+ Z5 
 0000016 100  TO      to                       Z5 
@@ -173,7 +177,8 @@
 0000016 130  MD      first                    N4 
 0000016 140  NN1     horse                    L2mfn 
 0000016 150  II      in                       Z5 
-0000016 160  NP2     Aintrees                 Z1m 
+0000016 160  NP1     Aintree                  Z1m 
+0000016 161  GE      's                       Z5 
 0000016 170  JJ      178-year                 Z99 
 0000016 180  NN1     history                  T1.1.1 P1/T1.1.1 Q2.1 B2 
 0000016 190  II      to                       Z5 
@@ -229,9 +234,10 @@
 0000020 023  -----   -----                    
 0000020 030  RT      Now                      T1.1.2 Z4 
 0000020 040  DB      all                      N5.1+ 
-0000020 050  NP1     Ive                      Z99 
-0000020 060  VVD     got                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
-0000020 070  TO      to                       Z5 
+0000020 050  PPIS1   I                        Z8mf 
+0000020 051  VH0     've                      S6+[i9.3.1 Z5 A9+ A2.2 
+0000020 060  VVN     got                      S6+[i9.3.2 A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- S6+[i10.2.1 
+0000020 070  TO      to                       S6+[i9.3.3 Z5 S6+[i10.2.2 
 0000020 080  VDI     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
 0000020 090  VBZ     is                       A3+ Z5 
 0000020 100  VVI     finalise                 X6+ 
@@ -248,10 +254,12 @@
 0000022 060  APPGE   his                      Z8m 
 0000022 070  NN1     steed                    Z99 
 0000022 080  VVZ     nears                    M1/N3.3- 
-0000022 090  NP1     Bechers                  Z1mf[i8.2.1 Z3c[i8.2.1 
-0000022 100  NP1     Brook                    Z1mf[i8.2.2 Z3c[i8.2.2 Z1mf 
+0000022 090  NP1     Becher                   Z99 
+0000022 091  GE      's                       Z5 
+0000022 100  NP1     Brook                    Z1mf 
 0000022 101  ,       ,                        
-0000022 110  NP2     Aintrees                 Z1m 
+0000022 110  NP1     Aintree                  Z1m 
+0000022 111  GE      's                       Z5 
 0000022 120  JJ      famed                    X2.2+ 
 0000022 130  NN1     hurdle                   O2 A12- K5.1 
 0000022 131  ,       ,                        
@@ -267,8 +275,8 @@
 0000022 220  II      by                       Z5 
 0000022 230  NP1     US                       Z8 
 0000022 240  NN2     rockers                  H5 O2 K2/S2mf 
-0000022 250  NP1     Van                      Z1mf[i9.2.1 Z3c[i9.2.1 Z1m 
-0000022 260  NP1     Halen                    Z1mf[i9.2.2 Z3c[i9.2.2 Z1mf 
+0000022 250  NP1     Van                      Z1mf[i11.2.1 Z3c[i11.2.1 Z1m 
+0000022 260  NP1     Halen                    Z1mf[i11.2.2 Z3c[i11.2.2 Z1mf 
 0000022 261  .       .                        
 0000023 001  -----   -----                    
 0000024 010  AT      THE                      Z5 
@@ -303,8 +311,8 @@
 0000032 030  IO      Of                       Z5 
 0000032 040  JJ      Pale                     O4.3 
 0000032 041  -       -                        
-0000032 050  NP1     Procul                   Z1mf[i10.2.1 Z3c[i10.2.1 
-0000032 060  NP1     Harredrum                Z1mf[i10.2.2 Z3c[i10.2.2 
+0000032 050  NP1     Procul                   Z1mf[i12.2.1 Z3c[i12.2.1 
+0000032 060  NP1     Harredrum                Z1mf[i12.2.2 Z3c[i12.2.2 
 0000034 010  PPIS2   We                       Z8 
 0000034 020  VBR     Are                      A3+ Z5 
 0000034 030  AT      The                      Z5 
@@ -315,6 +323,7 @@
 0000036 010  PN1     Anything                 Z8 
 0000036 020  II      by                       Z5 
 0000036 030  AT      the                      Z5 
-0000036 040  NP1     Bechers                  Z99 
+0000036 040  NP1     Becher                   Z99 
+0000036 041  GE      's                       Z5 
 0000036 050  NN2     Boys                     S2.2m 
 0000039 001  NULL    **8;7;text               

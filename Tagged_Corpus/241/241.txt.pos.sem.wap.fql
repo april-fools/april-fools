@@ -1,4 +1,4 @@
-TOTAL              134
+TOTAL              136
 the                  AT             15 
 of                   IO              6 
 pinnacle             NN1             3 
@@ -6,6 +6,7 @@ in                   II              3
 a                    AT1             3 
 as                   II              3 
 and                  CC              3 
+'s                   GE              2 
 Munro                NP1             2 
 after                II              2 
 yesterday            RT              2 
@@ -17,7 +18,7 @@ Sgurr_Dearg          NP1             2
 are                  VBR             2 
 which                DDQ             2 
 will                 VM              2 
-Scotlands            NP2             1 
+Scotland             NP1             1 
 hardest              JJT             1 
 inaccessible         JJ              1 
 on                   II              1 
@@ -41,7 +42,7 @@ evening              NNT1            1
 appalling            JJ              1 
 weather_conditions   NN1             1 
 one                  MC1             1 
-islands              NN2             1 
+island               NN1             1 
 mountain             NN1             1 
 guides               NN2             1 
 walkers              NN2             1 
@@ -88,7 +89,7 @@ around               II              1
 helping              VVG             1 
 clients              NN2             1 
 ascend               VVI             1 
-Pinn                 NP1             1 
+Pinn'                NP1             1 
 as                   CSA             1 
 it                   PPH1            1 
 was                  VBDZ            1 

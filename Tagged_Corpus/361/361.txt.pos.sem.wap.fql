@@ -1,4 +1,4 @@
-TOTAL               95
+TOTAL               97
 water                NN1             7 
 to                   TO              3 
 boiled               JJ              3 
@@ -7,6 +7,7 @@ a                    AT1             3
 or                   CC              3 
 the                  AT              3 
 video                NN1             2 
+you                  PPY             2 
 how                  RRQ             2 
 make                 VVI             2 
 it                   PPH1            2 
@@ -14,8 +15,8 @@ to                   II              2
 and                  CC              2 
 in                   II              1 
 this                 DD1             1 
-youll                VV0             1 
-find_out             VV0             1 
+'ll                  VM              1 
+find_out             VVI             1 
 traditional          JJ              1 
 homemade             JJ              1 
 discover             VV0             1 
@@ -60,9 +61,9 @@ Seth                 NP1             1
 recipe               NN1             1 
 for                  IF              1 
 if                   CS              1 
-you                  PPY             1 
-cant                 JJ              1 
-find                 VV0             1 
+ca                   VM              1 
+n't                  XX              1 
+find                 VVI             1 
 filtered             JJ              1 
 tap                  VV0             1 
 great                JJ              1 

@@ -1,8 +1,8 @@
 TOTAL              869
 the                  AT             59 
 of                   IO             19 
+USAID                NP1            17 
 and                  CC             17 
-USAID                NP1            16 
 in                   II             15 
 that                 CST            15 
 to                   TO             15 
@@ -11,22 +11,23 @@ facilities           NN2            13
 were                 VBDR           13 
 is                   VBZ            12 
 to                   II             11 
-for                  IF             10 
 a                    AT1            10 
+for                  IF              9 
 coordinates          NN2             9 
 health               NN1             8 
 will                 VM              8 
 funding              NN1             7 
-agency               NN1             6 
 it                   PPH1            6 
 not                  XX              6 
 be                   VBI             6 
 was                  VBDZ            6 
 country              NN1             5 
+agency               NN1             5 
 has                  VHZ             5 
 located              VVN             5 
 more                 DAR             5 
 are                  VBR             5 
+Afghanistan          NP1             4 
 afghan               JJ              4 
 they                 PPHS2           4 
 program              NN1             4 
@@ -42,7 +43,7 @@ given                VVN             4
 would                VM              4 
 he                   PPHS1           4 
 U.S.                 NP1             3 
-Afghanistan          NP1             3 
+'s                   GE              3 
 Obama                NP1             3 
 seems                VVZ             3 
 by                   II              3 
@@ -62,6 +63,7 @@ as                   CSA             3
 location             NN1             3 
 government           NN1             3 
 should               VM              3 
+agency_for_international_development NN1             2 
 from                 II              2 
 through              II              2 
 administration       NN1             2 
@@ -113,8 +115,6 @@ clinics              NN2             2
 or                   CC              2 
 his                  APPGE           2 
 american             JJ              2 
-international        JJ              1 
-developments         NN2             1 
 worked               VVD             1 
 July_2008            NPM1            1 
 June_2015            NPM1            1 
@@ -163,7 +163,6 @@ John_Sopko           NP1             1
 stating              VVG             1 
 Afghanistan_hospital NP1             1 
 funded               VVN             1 
-agency_for_international_development NN1             1 
 430_miles            MC              1 
 11                   MC              1 
 letter               NN1             1 
@@ -212,8 +211,7 @@ recent               JJ              1
 available            JJ              1 
 two                  MC              1 
 Pakistan             NP1             1 
-Afghanistans         NP2             1 
-neighboring          VVG             1 
+neighboring          JJ              1 
 southeast            ND1             1 
 being                VBG             1 
 Mediterranean_Sea    NP1             1 
@@ -255,7 +253,6 @@ unwilling            JJ              1
 make                 VVI             1 
 countered            VVD             1 
 statement            NN1             1 
-USAIDs               NP2             1 
 position             NN1             1 
 regarding            II              1 
 monitoring           NN1             1 

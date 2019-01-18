@@ -1,4 +1,4 @@
-TOTAL              389
+TOTAL              392
 the                  AT             20 
 in                   II             12 
 a                    AT1            11 
@@ -21,11 +21,13 @@ case                 NN1             3
 who                  PNQS            3 
 but                  CCB             3 
 she                  PPHS1           3 
+judge                NN1             3 
 our                  APPGE           3 
 to                   II              3 
 have                 VH0             3 
 no                   AT              3 
 house                NN1             3 
+there                EX              3 
 FBI                  NP1             2 
 local                JJ              2 
 police               NN2             2 
@@ -35,6 +37,7 @@ dead                 JJ              2
 this                 DD1             2 
 him                  PPHO1           2 
 for                  IF              2 
+'s                   GE              2 
 family               NN1             2 
 very                 RG              2 
 investigation        NN1             2 
@@ -44,7 +47,6 @@ voters               NN2             2
 name                 NN1             2 
 Richard_Allen_Claybrook NP1             2 
 son                  NN1             2 
-judge                NN1             2 
 he                   PPHS1           2 
 Harrisonburg         NP1             2 
 they                 PPHS2           2 
@@ -55,10 +57,10 @@ group                NN1             2
 not                  XX              2 
 republicans          NN2             2 
 that                 DD1             2 
+'s                   VBZ             2 
 proof                NN1             2 
 elections            NN2             2 
 vote                 NN1             2 
-there                EX              2 
 evidence             NN1             2 
 RICHMOND             NP1             1 
 investigating        VVG             1 
@@ -80,7 +82,7 @@ note                 NN1             1
 congratulating       VVG             1 
 registering          VVG             1 
 Rockingham_county    NP1             1 
-commonwealths        NN2             1 
+commonwealth         NN1             1 
 attorney             NN1             1 
 Marsha_Garst         NP1             1 
 Thursday             NPD1            1 
@@ -117,7 +119,6 @@ age                  NN1             1
 well-known           JJ              1 
 happened_to          VVD             1 
 recall               VVI             1 
-judges               NN2             1 
 father               NN1             1 
 died                 VVN             1 
 retired              JJ              1 
@@ -151,7 +152,7 @@ view                 NN1             1
 graphic              NN1             1 
 amid                 II              1 
 fight                NN1             1 
-misleading           JJ              1 
+misleading'          JJ              1 
 mailings             NN2             1 
 voting               VVG             1 
 begin                VVI             1 
@@ -168,8 +169,7 @@ campus               NN1             1
 James_Madison        NP1             1 
 university           NN1             1 
 according_to         II21            1 
-registrars           NN2             1 
-office               NN1             1 
+registrar_'s_office  NN1             1 
 identified           VVN             1 
 charges              NN2             1 
 filed                VVN             1 
@@ -192,11 +192,11 @@ democratic           JJ              1
 colleagues           NN2             1 
 suggest              VV0             1 
 does                 VDZ             1 
-nt                   XX              1 
+n't                  XX              1 
 exist                VVI             1 
 Virginia             NP1             1 
 or                   CC              1 
-its                  APPGE           1 
+it                   PPH1            1 
 myth                 NN1             1 
 speaker              NN1             1 
 William_J._Howell    NP1             1 
@@ -219,7 +219,6 @@ caught               VVD             1
 Toscano              NP1             1 
 nobody               PN1             1 
 cast                 VVN             1 
-Theres               NP1             1 
 still                RR              1 
 going                VVG             1 
 on                   RP              1 

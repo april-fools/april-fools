@@ -1,11 +1,11 @@
-TOTAL              335
+TOTAL              339
 the                      37 
 and                      14 
 of                       13 
 to                       13 
-team                     10 
+team                     12 
+car                      11 
 hp                       10 
-car                      10 
 for                       7 
 luczo                     5 
 dragon                    5 
@@ -20,6 +20,7 @@ using                     3
 technology                3 
 every                     3 
 a                         3 
+'s                        3 
 will                      3 
 be                        3 
 in                        3 
@@ -28,11 +29,9 @@ on                        3
 understand                3 
 at                        2 
 design                    2 
-cars                      2 
 from                      2 
 telemetry                 2 
 engine                    2 
-teams                     2 
 during                    2 
 aspect                    2 
 reliability               2 
@@ -53,6 +52,7 @@ officejet                 1
 printers                  1 
 are                       1 
 used_to                   1 
+cars                      1 
 manage                    1 
 everything                1 
 Raphael_Matos             1 
@@ -150,7 +150,8 @@ it                        1
 critical                  1 
 analyze                   1 
 information               1 
-theyre                    1 
+they                      1 
+'re                       1 
 receiving                 1 
 sensors                   1 
 immediately               1 

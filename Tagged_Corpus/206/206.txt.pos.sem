@@ -27,12 +27,13 @@
 0000002 231  .       .                        
 0000002 232  -----   -----                    
 0000002 240  VVG     Following                M1 N4 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 X3.4 
-0000002 250  NP1     George                   Z1m 
-0000002 260  NP2     Osbornes                 Z1mf Z2 
+0000002 250  NP1     George                   Z1mf[i1.2.1 Z3c[i1.2.1 Z1m 
+0000002 260  NP1     Osborne                  Z1mf[i1.2.2 Z3c[i1.2.2 Z1mf Z2 
+0000002 261  GE      's                       Z5 
 0000002 270  NN1     announcement             Q2.2 
 0000002 280  II      on                       Z5 
-0000002 290  JJ      National                 I1.2/G1.1[i2.2.1 Z3c Z3c[i1.2.1 
-0000002 300  NN1     Insurance                I1.2/G1.1[i2.2.2 I1/A15- Z3c[i1.2.2 
+0000002 290  JJ      National                 I1.2/G1.1[i3.2.1 Z3c Z3c[i2.2.1 
+0000002 300  NN1     Insurance                I1.2/G1.1[i3.2.2 I1/A15- Z3c[i2.2.2 
 0000002 301  ,       ,                        
 0000002 310  RT      today                    T1.1.2 
 0000002 320  AT      the                      Z5 
@@ -106,8 +107,8 @@
 0000004 320  VVG     decentralising           S5- 
 0000004 330  NN1     justice                  G2.1+ G2.2+ 
 0000004 331  ,       ,                        
-0000004 340  VVN     based                    A2.2[i3.2.1 T2+ M6 A2.2 
-0000004 350  II      on                       A2.2[i3.2.2 Z5 
+0000004 340  VVN     based                    A2.2[i4.2.1 T2+ M6 A2.2 
+0000004 350  II      on                       A2.2[i4.2.2 Z5 
 0000004 360  AT      the                      Z5 
 0000004 370  NN2     results                  A2.2 X9.2 N2 A5.1 K5 Q1.1/A2.2 
 0000004 380  IO      of                       Z5 
@@ -117,13 +118,14 @@
 0000004 411  NULL    <quote>                  
 0000004 412  -----   -----                    
 0000004 420  NN2     citizens                 G1.1/S2mf S5+/S2mf 
+0000004 421  GE      '                        Z5 
 0000004 430  NN2     juries                   G2.1c X6+/S5+c 
 0000004 431  NULL    </quote>                 
 0000004 432  -----   -----                    
 0000004 433  .       .                        
 0000005 001  -----   -----                    
-0000006 010  II21    According                Z5[i4.2.1 Z5 
-0000006 020  II22    to                       Z5[i4.2.2 Z5 
+0000006 010  II21    According                Z5[i5.2.1 Z5 
+0000006 020  II22    to                       Z5[i5.2.2 Z5 
 0000006 030  NP1     Whitehall                Z2 
 0000006 040  NN2     insiders                 A1.8+/X2.2+/S2mf 
 0000006 041  ,       ,                        
@@ -132,8 +134,8 @@
 0000006 070  VVI     allow                    S7.4+ S8+ X2.1 
 0000006 080  PN1     anyone                   Z8mfc 
 0000006 090  TO      to                       Z5 
-0000006 100  VVI     set                      T2+[i5.2.1 S7.1+[i5.2.1 O2[i5.2.1 A1.1.1[i5.2.1 M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3 
-0000006 110  RP      up                       T2+[i5.2.2 S7.1+[i5.2.2 O2[i5.2.2 A1.1.1[i5.2.2 
+0000006 100  VVI     set                      T2+[i6.2.1 S7.1+[i6.2.1 O2[i6.2.1 A1.1.1[i6.2.1 M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3 
+0000006 110  RP      up                       T2+[i6.2.2 S7.1+[i6.2.2 O2[i6.2.2 A1.1.1[i6.2.2 
 0000006 120  AT1     a                        Z5 
 0000006 130  JJ      local                    M7 
 0000006 140  NN1     court                    G2.1 H3 M7/K5.2 
@@ -152,6 +154,7 @@
 0000006 240  NN2     groups                   S5+ A4.1 B3% 
 0000006 250  CC      and                      Z5 
 0000006 260  NN2     residents                H4/S2mf 
+0000006 261  GE      '                        Z5 
 0000006 270  NN2     associations             S5+c A6.1+/X2.1 
 0000006 280  VBR     are                      Z5 A3+ 
 0000006 290  VVN     expected                 X2.6+ B1 
@@ -160,9 +163,9 @@
 0000006 320  AT      the                      Z5 
 0000006 330  MD      first                    N4 
 0000006 340  TO      to                       Z5 
-0000006 350  VVI     take                     S8+[i7.3.1 G2.2-[i7.3.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ S1.2.2+[i6.2.1 
-0000006 360  NN1     advantage                S8+[i7.3.2 G2.2-[i7.3.2 A5.1+ K5.2 S1.2.2+[i6.2.2 
-0000006 370  IO      of                       G2.2-[i7.3.3 S8+[i7.3.3 Z5 
+0000006 350  VVI     take                     S8+[i8.3.1 G2.2-[i8.3.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ S1.2.2+[i7.2.1 
+0000006 360  NN1     advantage                S8+[i8.3.2 G2.2-[i8.3.2 A5.1+ K5.2 S1.2.2+[i7.2.2 
+0000006 370  IO      of                       G2.2-[i8.3.3 S8+[i8.3.3 Z5 
 0000006 380  AT      the                      Z5 
 0000006 390  JJ      proposed                 Q2.2/X7+ X4.1 G1.2 Q2.2/S4 
 0000006 400  NN1     scheme                   X7+ X4.2 
@@ -175,8 +178,8 @@
 0000006 460  NN2     courts                   G2.1 H3 M7/K5.2 
 0000006 470  TO      to                       Z5 
 0000006 480  VVI     develop                  A2.1+ T2+ A5.1+/A2.1 N3.2+/A2.1 H1 A9+ C1 
-0000006 490  APPGE   their                    Z8[i8.2.1 Z8 
-0000006 500  DA      own                      Z8[i8.2.2 A9+ S5- 
+0000006 490  APPGE   their                    Z8[i9.2.1 Z8 
+0000006 500  DA      own                      Z8[i9.2.2 A9+ S5- 
 0000006 510  JJ      distinctive              A11.2+ 
 0000006 511  NULL    <quote>                  
 0000006 512  -----   -----                    
@@ -194,6 +197,7 @@
 0000006 590  AT      the                      Z5 
 0000006 600  MC      20                       N1 T1.2 T3 T1.3 N3.2 
 0000006 610  NN2     Magistrates              G2.1/S2mf 
+0000006 611  GE      '                        Z5 
 0000006 620  NN2     Courts                   G2.1 H3 M7/K5.2 
 0000006 630  NP1     Jack                     Z1m 
 0000006 640  NN1     Straw                    L3 O2 
@@ -205,10 +209,11 @@
 0000006 700  NN1     part                     N5.1- O2 M7 I3.1 S1.1.3+ K4 
 0000006 710  IO      of                       Z5 
 0000006 720  AT      the                      Z5 
-0000006 730  NN1     Ministry                 G1.1c S9 
-0000006 740  IO      of                       Z5 
-0000006 750  NN2     Justices                 G2.1/S2.2m 
-0000006 760  VVZ     cuts                     A1.1.1 N5-/A2.1 T2- M1 Q4.3 K5.1 B1 F3 
+0000006 730  NN1     Ministry                 Z3c[i10.3.1 G1.1c S9 
+0000006 740  IO      of                       Z3c[i10.3.2 Z5 
+0000006 750  NN1     Justice                  Z3c[i10.3.3 G2.1+ G2.2+ 
+0000006 751  GE      's                       Z5 
+0000006 760  NN2     cuts                     A1.1.1 N5-/A2.1 T2- B2- B5 Q4.3 S1.1.2+ F1 K5.1 F3 
 0000006 761  .       .                        
 0000006 762  -----   -----                    
 0000006 770  JJ      Labour                   A1.1.1 A12- I3.1/S5+ B1 G1.2/Z3c A1.1.1/A12- A11.1+/N5.2+ 
@@ -220,16 +225,16 @@
 0000006 830  NN2     courts                   G2.1 H3 M7/K5.2 
 0000006 840  VM      should                   S6+ A7+ 
 0000006 850  VBI     be                       A3+ Z5 
-0000006 860  II21    subject                  S7.1-[i9.2.1 Z5[i10.2.1 
-0000006 870  II22    to                       S7.1-[i9.2.2 Z5 Z5[i10.2.2 
+0000006 860  II21    subject                  S7.1-[i11.2.1 Z5[i12.2.1 
+0000006 870  II22    to                       S7.1-[i11.2.2 Z5 Z5[i12.2.2 
 0000006 880  AT1     a                        Z5 
 0000006 890  JJ      stringent                A1.7+ 
 0000006 900  NN1     regime                   G1.1 S7.1+ B3 
 0000006 910  IO      of                       Z5 
 0000006 920  NN2     targets                  X7+ G3 K5.1 
 0000006 921  ,       ,                        
-0000006 930  NN1     league                   S7.3+[i11.2.1 S5+c K5.1/S5+c S7.3+ N3.3% 
-0000006 940  NN2     tables                   S7.3+[i11.2.2 H5 Q1.2 N2 
+0000006 930  NN1     league                   S7.3+[i13.2.1 S5+c K5.1/S5+c S7.3+ N3.3% 
+0000006 940  NN2     tables                   S7.3+[i13.2.2 H5 Q1.2 N2 
 0000006 950  CC      and                      Z5 
 0000006 960  NN2     guidelines               S8+ 
 0000006 970  VVN     set                      M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3 
@@ -256,19 +261,19 @@
 0000008 110  CC      and                      Z5 
 0000008 120  VVI     enter                    M1 S5+ Q1.2 T2+ A1.8+ Y2 
 0000008 130  II      into                     Z5 
-0000008 140  NN2     partnerships             A9-[i12.2.1 S5+c S4 S3.2 
-0000008 150  IW      with                     A9-[i12.2.2 Z5 
+0000008 140  NN2     partnerships             A9-[i14.2.1 S5+c S4 S3.2 
+0000008 150  IW      with                     A9-[i14.2.2 Z5 
 0000008 160  JJ      commercial               I2.1 
 0000008 170  NN2     sponsors                 A9-/I1.1/S2mf S8+/S2mf 
 0000008 171  ,       ,                        
-0000008 180  REX21   for                      Z5[i13.2.1 
-0000008 190  REX22   instance                 Z5[i13.2.2 
+0000008 180  REX21   for                      Z5[i15.2.1 
+0000008 190  REX22   instance                 Z5[i15.2.2 
 0000008 200  VVG     hosting                  S1.1.1 
 0000008 210  NN2     courtrooms               G2.1/H2 
 0000008 220  II      in                       Z5 
 0000008 230  JJ      popular                  E2+ S5+ 
-0000008 240  NN1     shopping                 I2.2/H1c[i14.2.1 I2.2/O2 I2.2 G2.1@ 
-0000008 250  NN2     centres                  I2.2/H1c[i14.2.2 M6 H1c M7c G1.2c K5.1mfn 
+0000008 240  NN1     shopping                 I2.2/H1c[i16.2.1 I2.2/O2 I2.2 G2.1@ 
+0000008 250  NN2     centres                  I2.2/H1c[i16.2.2 M6 H1c M7c G1.2c K5.1mfn 
 0000008 260  II      like                     Z5 
 0000008 270  NP1     Tesco                    Z3c 
 0000008 271  .       .                        
@@ -280,16 +285,16 @@
 0000008 320  JJ      new                      T3- 
 0000008 330  NN2     courts                   G2.1 H3 M7/K5.2 
 0000008 340  VM      could                    A7+ 
-0000008 350  VVI     crack                    A1.7+[i15.2.1 A1.1.2 X3.2 X9.2+ B2-/X1 Q2.2/E4.1+ 
-0000008 360  RP      down                     A1.7+[i15.2.2 
+0000008 350  VVI     crack                    A1.7+[i17.2.1 A1.1.2 X3.2 X9.2+ B2-/X1 Q2.2/E4.1+ 
+0000008 360  RP      down                     A1.7+[i17.2.2 
 0000008 370  RR      effectively              A5.4+ X9.2+ 
 0000008 380  II      on                       Z5 
 0000008 390  JJ      anti-social              S1.2.1- G2.1 G2.2- 
 0000008 400  NN1     behaviour                S1.1.1 A1.1.1 
 0000008 410  CC      and                      Z5 
 0000008 420  VV0     help                     S8+ 
-0000008 430  VVI     bring                    M2/N6+[i16.2.1 T2+/N6+[i16.2.1 M2[i16.2.1 M2 A2.2 
-0000008 440  RP      back                     M2/N6+[i16.2.2 T2+/N6+[i16.2.2 M2[i16.2.2 M6 N6+ T1.1.1 S1.1.2+ 
+0000008 430  VVI     bring                    M2/N6+[i18.2.1 T2+/N6+[i18.2.1 M2[i18.2.1 M2 A2.2 
+0000008 440  RP      back                     M2/N6+[i18.2.2 T2+/N6+[i18.2.2 M2[i18.2.2 M6 N6+ T1.1.1 S1.1.2+ 
 0000008 450  AT      the                      Z5 
 0000008 460  JJ      orderly                  O4.2+ G2.2+ 
 0000008 470  NP1     Britain                  Z2 
@@ -314,8 +319,9 @@
 0000008 640  JJ      low-level                M6 S7.1- A11.1- 
 0000008 650  NN1     crime                    G2.1- 
 0000008 651  ,       ,                        
-0000008 660  APPGE   its                      Z8 
-0000008 670  JJ@     understood               X2.5+ 
+0000008 660  PPH1    it                       Z8 
+0000008 661  VBZ     's                       Z5 A3+ 
+0000008 670  VVN     understood               X2.5+ 
 0000008 680  PPHS2   they                     Z8mfn 
 0000008 690  VM      could                    A7+ 
 0000008 700  VBI     be                       Z5 A3+ 
@@ -324,10 +330,10 @@
 0000008 730  NN2     powers                   S7.1+ O3 S1.2.5+ N2@ 
 0000008 740  CS      though                   Z5 
 0000008 750  VVG     falling                  M1 N5-/A2.1 S7.1- L1- A1.8+ G2.2- X9.2- K5.2 
-0000008 760  JJ      short                    N5-[i17.2.1 T1.3- N3.7- N3.3- N5- S1.2.4- N3.8+@ F1% 
-0000008 770  IO      of                       N5-[i17.2.2 Z5 
-0000008 780  NN1     capital                  G2.1/L1-[i18.2.1 I1.1 M7/G1.1 Q1.2 
-0000008 790  NN1     punishment               G2.1/L1-[i18.2.2 G2.1 
+0000008 760  JJ      short                    N5-[i19.2.1 T1.3- N3.7- N3.3- N5- S1.2.4- N3.8+@ F1% 
+0000008 770  IO      of                       N5-[i19.2.2 Z5 
+0000008 780  NN1     capital                  G2.1/L1-[i20.2.1 I1.1 M7/G1.1 Q1.2 
+0000008 790  NN1     punishment               G2.1/L1-[i20.2.2 G2.1 
 0000008 791  .       .                        
 0000009 001  -----   -----                    
 0000010 010  DD1     Neither                  Z8/Z6 Z5/Z6 
@@ -342,9 +348,9 @@
 0000010 100  NN1     stage                    T1.2 N5.1- H2/K4 K4 A4.1 
 0000010 101  ,       ,                        
 0000010 110  CCB     but                      Z5 
-0000010 120  NN1     Church                   Z3c[i19.3.1 Z2 Z1mf 
-0000010 130  IO      of                       Z3c[i19.3.2 Z5 
-0000010 140  NP1     England                  Z3c[i19.3.3 Z2 
+0000010 120  NN1     Church                   Z3c[i21.3.1 Z2 Z1mf 
+0000010 130  IO      of                       Z3c[i21.3.2 Z5 
+0000010 140  NP1     England                  Z3c[i21.3.3 Z2 
 0000010 150  NN2     sources                  T2+ Q1.1 X2.2 W3/M4 
 0000010 160  VH0     have                     Z5 A9+ A2.2 S4 
 0000010 170  VVN     declined                 N5-/A2.1 Q2.2 
@@ -354,9 +360,9 @@
 0000010 210  NN1     speculation              X2.6+ I2.1 
 0000010 220  CST     that                     Z5 Z8 
 0000010 230  AT      the                      Z5 
-0000010 240  NN1     Archbishop               Z1mf[i20.3.1 S9/S2mf 
-0000010 250  IO      of                       Z1mf[i20.3.2 Z5 
-0000010 260  NP1     Canterbury               Z1mf[i20.3.3 Z2 Z1mf 
+0000010 240  NN1     Archbishop               Z1mf[i22.3.1 S9/S2mf 
+0000010 250  IO      of                       Z1mf[i22.3.2 Z5 
+0000010 260  NP1     Canterbury               Z1mf[i22.3.3 Z2 Z1mf 
 0000010 270  VHZ     has                      Z5 A9+ A2.2 S4 
 0000010 280  VBN     been                     Z5 A3+ 
 0000010 290  VVN     approached               M1 A1.1.1 Q2.2 
@@ -377,15 +383,15 @@
 0000010 430  NN1@    Sharia                   Z99 
 0000010 440  NN2     courts                   G2.1 H3 M7/K5.2 
 0000010 450  II      in                       Z5 
-0000010 460  AT1     a                        N5+[i21.3.1 Z5 
-0000010 470  NN1     number                   N5+[i21.3.2 N5 N1 Q1.3 K2 Q4.2 
-0000010 480  IO      of                       N5+[i21.3.3 Z5 
+0000010 460  AT1     a                        N5+[i23.3.1 Z5 
+0000010 470  NN1     number                   N5+[i23.3.2 N5 N1 Q1.3 K2 Q4.2 
+0000010 480  IO      of                       N5+[i23.3.3 Z5 
 0000010 490  JJ      English                  Z1mf 
 0000010 500  NN2     cities                   M7 
 0000010 501  .       .                        
 0000011 001  -----   -----                    
-0000012 010  RR21    In                       N5++[i22.2.1 
-0000012 020  RR22    addition                 N5++[i22.2.2 
+0000012 010  RR21    In                       N5++[i24.2.1 
+0000012 020  RR22    addition                 N5++[i24.2.2 
 0000012 021  ,       ,                        
 0000012 030  NN1@    Labour                   G1.2/Z3c 
 0000012 040  VBZ     is                       Z5 A3+ 
@@ -394,12 +400,12 @@
 0000012 070  NN1     idea                     X4.1 X7+ 
 0000012 080  IF      for                      Z5 
 0000012 090  AT      the                      Z5 
-0000012 100  NN1     trade                    I3.1/S5+c[i23.2.1 I2.2 I2.1 I3.1 I2.2/N5 
-0000012 110  NN1     union                    I3.1/S5+c[i23.2.2 
+0000012 100  NN1     trade                    I3.1/S5+c[i25.2.1 I2.2 I2.1 I3.1 I2.2/N5 
+0000012 110  NN1     union                    I3.1/S5+c[i25.2.2 
 0000012 120  VV0     UNITE                    S5+ 
 0000012 130  TO      to                       Z5 
-0000012 140  VVI     take                     S7.1+/A2.1[i24.2.1 M2[i24.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
-0000012 150  II      over                     S7.1+/A2.1[i24.2.2 M2[i24.2.2 Z5 
+0000012 140  VVI     take                     S7.1+/A2.1[i26.2.1 M2[i26.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000012 150  II      over                     S7.1+/A2.1[i26.2.2 M2[i26.2.2 Z5 
 0000012 160  AT      the                      Z5 
 0000012 170  NN1     running                  M1/N3.8+ K5.1 G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3.3 A6.3+ K4 
 0000012 180  IO      of                       Z5 
@@ -416,8 +422,9 @@
 0000012 280  NN1     purse                    B5/I1 
 0000012 281  .       .                        
 0000012 282  -----   -----                    
-0000012 290  APPGE   Its                      Z8 
-0000012 300  JJ@     understood               X2.5+ 
+0000012 290  PPH1    It                       Z8 
+0000012 291  VBZ     's                       Z5 A3+ 
+0000012 300  VVN     understood               X2.5+ 
 0000012 310  AT      the                      Z5 
 0000012 320  NN2     Tories                   G1.2 
 0000012 330  VBR     are                      Z5 A3+ 
@@ -442,8 +449,9 @@
 0000012 520  NN1     bidder                   I2.2/S2mf Q2.2/S2mf 
 0000012 521  .       .                        
 0000012 522  -----   -----                    
-0000012 530  APPGE   Its                      Z8 
-0000012 540  NN1     thought                  X4.1 
+0000012 530  PPH1    It                       Z8 
+0000012 531  VBZ     's                       Z5 A3+ 
+0000012 540  VVN     thought                  X2.1 
 0000012 550  AT      the                      Z5 
 0000012 560  NN1     foremanship              Z99 
 0000012 570  IO      of                       Z5 
@@ -454,36 +462,37 @@
 0000012 620  NN1     trial                    G2.1 X2.4 E6- A12- K5.1 
 0000012 630  VM      could                    A7+ 
 0000012 640  VVI     fetch                    M2 I1.3 
-0000012 650  RG21    up                       A13.4[i25.3.1 
-0000012 660  RG22    to                       A13.4[i25.3.2 
-0000012 670  MC      50,000                   A13.4[i25.3.3 N1 T1.2 T3 T1.3 N3.2 
+0000012 650  RG21    up                       A13.4[i27.3.1 
+0000012 660  RG22    to                       A13.4[i27.3.2 
+0000012 670  MC      50,000                   A13.4[i27.3.3 N1 T1.2 T3 T1.3 N3.2 
 0000012 671  .       .                        
 0000013 001  -----   -----                    
 0000014 010  AT      The                      Z5 
 0000014 020  NN2     LibDems                  Z99 
 0000014 030  VBR     are                      Z5 A3+ 
 0000014 040  VVG     working                  I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
-0000014 050  II      on                       S5-[i26.3.1 Z5 
-0000014 060  APPGE   their                    S5-[i26.3.2 Z8 Z8[i27.2.1 
-0000014 070  DA      own                      S5-[i26.3.3 A9+ S5- Z8[i27.2.2 
+0000014 050  II      on                       S5-[i28.3.1 Z5 
+0000014 060  APPGE   their                    S5-[i28.3.2 Z8 Z8[i29.2.1 
+0000014 070  DA      own                      S5-[i28.3.3 A9+ S5- Z8[i29.2.2 
 0000014 080  JJ      distinctive              A11.2+ 
 0000014 090  NN1     scheme                   X7+ X4.2 
 0000014 091  ,       ,                        
 0000014 100  VVN     backed                   S8+ K5.1/I1 M1 M6 K2 
 0000014 110  II      by                       Z5 
-0000014 120  NP1     Simon                    Z1mf[i28.2.1 Z3c[i28.2.1 Z1m 
-0000014 130  NP1     Cowell                   Z1mf[i28.2.2 Z3c[i28.2.2 Z1mf 
+0000014 120  NP1     Simon                    Z1mf[i30.2.1 Z3c[i30.2.1 Z1m 
+0000014 130  NP1     Cowell                   Z1mf[i30.2.2 Z3c[i30.2.2 Z1mf 
 0000014 131  ,       ,                        
 0000014 140  II      in                       Z5 
 0000014 150  DDQ     which                    Z8 Z5 
-0000014 160  NNB     Lord                     Z1m[i29.2.1 
-0000014 170  NP1     Lester                   Z1m[i29.2.2 Z1m 
+0000014 160  NNB     Lord                     Z1m[i31.2.1 
+0000014 170  NP1     Lester                   Z1m[i31.2.2 Z1m 
 0000014 180  VM      will                     T1.1.3 
 0000014 190  VVI     chair                    S7.1+ 
 0000014 200  AT1     a                        Z5 
 0000014 201  NULL    <quote>                  
 0000014 202  -----   -----                    
-0000014 210  NN2     Dragons                  S9/L2mfn S2.1f 
+0000014 210  NN1     Dragon                   S9 O4.2-/S2.1f 
+0000014 211  GE      's                       Z5 
 0000014 220  NN1     Den                      Z1m 
 0000014 221  NULL    </quote>                 
 0000014 222  -----   -----                    
@@ -498,8 +507,9 @@
 0000014 310  NN1     country                  G1.1c W3 F4/M7 K2 
 0000014 311  .       .                        
 0000014 312  -----   -----                    
-0000014 320  APPGE   Its                      Z8 
-0000014 330  VVD     hoped                    X2.6+ E4.1+ X9.2+ A5.1+ 
+0000014 320  PPH1    It                       Z8 
+0000014 321  VBZ     's                       Z5 A3+ 
+0000014 330  VVN     hoped                    X2.6+ E4.1+ X9.2+ A5.1+ 
 0000014 340  AT      the                      Z5 
 0000014 350  NN1     idea                     X4.1 X7+ 
 0000014 351  ,       ,                        
@@ -510,8 +520,8 @@
 0000014 400  NN2     advocates                Q2.2/S2mf G2.1/S2mf 
 0000014 410  VVN     coached                  K5.1 P1 M2 
 0000014 420  II      by                       Z5 
-0000014 430  NP1     Clive                    Z1mf[i30.2.1 Z3c[i30.2.1 Z1mf 
-0000014 440  NP1     Anderson                 Z1mf[i30.2.2 Z3c[i30.2.2 Z1mf 
+0000014 430  NP1     Clive                    Z1mf[i32.2.1 Z3c[i32.2.1 Z1mf 
+0000014 440  NP1     Anderson                 Z1mf[i32.2.2 Z3c[i32.2.2 Z1mf 
 0000014 441  ,       ,                        
 0000014 450  AT1     a                        Z5 
 0000014 460  NN1     TV                       Q4.3 S2.1/S2.2m 

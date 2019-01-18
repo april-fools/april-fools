@@ -7,7 +7,6 @@ Joycon                   NN1     Z99
 lifegems                 NN2     Z99 
 Lockstones               NP2     Z99 
 Miyazaki                 NP1     Z99 
-Miyazakis                NP2     Z99 
 Nintendo-only            JJ      Z99 
 parry                    VVI     Z99 
 sendoff                  NN1     Z99 

@@ -1,4 +1,4 @@
-TOTAL         160
+TOTAL         162
 NN1            33 
 II             13 
 NP1            12 
@@ -8,14 +8,15 @@ AT1             7
 CC              7 
 AT              7 
 VBZ             5 
+NN2             5 
 PPHS1           5 
 VV0             5 
 IF              4 
 IO              4 
-NN2             4 
 FO              4 
 NN              3 
 RR              3 
+GE              2 
 PPIS2           2 
 VHZ             2 
 APPGE           2 
@@ -26,7 +27,6 @@ II21            1
 VBDZ            1 
 NP2             1 
 MD              1 
-VVZ             1 
 PPH1            1 
 VM              1 
 VVI             1 

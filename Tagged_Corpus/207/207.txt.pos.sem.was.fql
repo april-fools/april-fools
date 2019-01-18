@@ -1,5 +1,6 @@
-TOTAL              358
+TOTAL              366
 the                  Z5                  20 
+'s                   Z5                  12 
 and                  Z5                  10 
 to                   Z5                  10 
 a                    Z5                   8 
@@ -30,6 +31,7 @@ more                 A13.3                3
 game                 K5.1                 3 
 is                   Z5                   2 
 now                  T1.1.2               2 
+you                  Z8                   2 
 option               X7+                  2 
 really               A13.3                2 
 into                 Z5                   2 
@@ -39,18 +41,13 @@ fail                 X9.2-                2
 one                  N1                   2 
 additionally         N5++                 2 
 including            A1.8+                2 
-George               Z1                   2 
-Washingtons          Z2                   2 
+George_Washington    Z1                   2 
 wooden               O1.1                 2 
 tooth                B1                   2 
 chomp                F1                   2 
 attack               E3-                  2 
-Cleopatras           Z1                   2 
+Cleopatra            Z1                   2 
 phalanx              Z99                  2 
-Leopard              L2                   2 
-army                 G3                   2 
-Genghis              Z99                  2 
-Khans                Z1                   2 
 arrow                G3                   2 
 shower               B4                   2 
 mongol               Z99                  2 
@@ -62,7 +59,7 @@ arcade_game          K1                   2
 feel                 X2.1                 2 
 2010                 N1                   2 
 games                K5.1                 2 
-Sid_Meiers           Z1                   2 
+Sid_Meier            Z1                   2 
 strategy             X7+                  2 
 empires              G1.1                 2 
 leader               S7.1+                2 
@@ -84,7 +81,6 @@ system               X4.2                 1
 comes                M1                   1 
 word                 Q3                   1 
 if                   Z7                   1 
-you                  Z8                   1 
 think                X2.1                 1 
 that                 Z8                   1 
 means                Q1.1                 1 
@@ -92,7 +88,7 @@ your                 Z8                   1
 be                   A3+                  1 
 nice                 O4.2+                1 
 each_other           Z8                   1 
-youre                Z99                  1 
+'re                  A3+                  1 
 wrong                A5.3-                1 
 nope                 Z4                   1 
 getting              A9+                  1 
@@ -111,6 +107,9 @@ send                 M2                   1
 ring                 Q1.3                 1 
 only                 A14                  1 
 leaves               M1                   1 
+Leopard              L2                   1 
+army                 G3                   1 
+Genghis_Khan         Z1                   1 
 Bow                  Z2                   1 
 also                 N5++                 1 
 come                 M1                   1 
@@ -151,7 +150,7 @@ victor               Z1                   1
 obtain               A9+                  1 
 complete             N5.1+                1 
 control              S7.1+                1 
-challengers          S7.3+                1 
+challenger           S7.3+                1 
 include              A1.8+                1 
 optional             S6-                  1 
 eight-button         Z99                  1 
@@ -161,9 +160,11 @@ diplomacybattles     Z99                  1
 each                 N5.1+                1 
 unique               N5---                1 
 Attack_Otto_von      Z1                   1 
+hurricane            Z3                   1 
 helmet               B5                   1 
 spike                Z1                   1 
-Bow_Julius_Caesars   Z1                   1 
+Leopard_Army_Genghis Z1                   1 
+Bow_Julius_Caesar    Z1                   1 
 reverse              A6.1-                1 
 assassination        L1-                  1 
 in_addition_to       N5++                 1 
@@ -182,7 +183,7 @@ as                   Z5                   1
 they                 Z8                   1 
 expand               N3.2+                1 
 their                Z8                   1 
-Diplomacygives_Sid_Meiers Z1                   1 
+Diplomacygives_Sid_Meier Z1                   1 
 yet                  T1.1.2               1 
 another              A6.1-                1 
 way                  X4.2                 1 

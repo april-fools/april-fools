@@ -1,9 +1,9 @@
-TOTAL               99
+TOTAL              102
 the                  Z5                   6 
+'                    Z5                   3 
 photos               C1                   3 
 by                   Z5                   3 
 of                   Z5                   3 
-'                    Z5                   2 
 before               Z5                   2 
 testicles            Z99                  2 
 his                  Z8                   2 
@@ -21,7 +21,8 @@ testified            G2.1                 1
 a                    Z5                   1 
 U.S._district        Z1                   1 
 court                G2.1                 1 
-sluggers             Z99                  1 
+slugger              Z99                  1 
+'s                   Z5                   1 
 were                 A3+                  1 
 smaller              N3.2--               1 
 unusual              A6.2-                1 
@@ -36,8 +37,9 @@ has                  A9+                  1
 to                   Z5                   1 
 prove                A5.2+                1 
 it                   Z8                   1 
-thats                Z5                   1 
-right                Z4                   1 
+that                 Z8                   1 
+'s                   A3+                  1 
+right                A5.3+                1 
 ballhyped            Z99                  1 
 has                  Z5                   1 
 lived_up_to          X9.2+                1 

@@ -3,7 +3,6 @@
 13-year                  JJ      Z99 
 14-year-old              JJ      Z99 
 Ahmadinejad              NP1     Z99 
-Ahmadinejads             NP2     Z99 
 anti-Americanism         NN1     Z99 
 arms-for-hostages        NN2     Z99 
 Bam                      NN1     Z99 
@@ -19,7 +18,7 @@ kneejerk                 NN1     Z99
 Lausanne                 NP1     Z99 
 photoshopped             VVD     Z99 
 Qom                      NP1     Z99 
-Quran                    NN1     Z99 
+Qur'an                   NN1     Z99 
 reformists               NN2     Z99 
 Rezaian                  JJ      Z99 
 ROUHANI                  JJ      Z99 
@@ -30,7 +29,6 @@ Sahebeh                  NP1     Z99
 Savak                    NP1     Z99 
 Shariah                  NP1     Z99 
 Shias                    NN2@    Z99 
-shouldnt                 VV0     Z99 
 Sorkheh                  NP1     Z99 
 strictures               NN2     Z99 
 Tehran-based             JJ      Z99 

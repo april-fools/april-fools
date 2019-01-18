@@ -58,7 +58,7 @@ def get_ap_numbers(text):
         # print("Bad Number Hyphen: " + m.group(0))
         bad_numbers += 1
 
-    return bad_numbers == 0
+    return int(bad_numbers == 0)
 
 
 def get_ap_dates(text):
@@ -79,7 +79,7 @@ def get_ap_dates(text):
         bad_dates += 1
         # print("Bad Date: " + m.group(0))
 
-    return bad_dates == 0
+    return int(bad_dates == 0)
 
 
 def get_ap_months(text):
@@ -110,7 +110,7 @@ def get_ap_titles(text):
             bad_title += 1
             # print("Bad Title: %s" % (word))
 
-    return int(bad_title > 0)
+    return int(bad_title == 0)
 
 
 if __name__ == "__main__":

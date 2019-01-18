@@ -1,4 +1,4 @@
-TOTAL              298
+TOTAL              301
 the                  AT             20 
 of                   IO             10 
 Wales                NP1             8 
@@ -19,12 +19,13 @@ centre               NN1             4
 that                 CST             4 
 musical              JJ              3 
 which                DDQ             3 
+we                   PPIS2           3 
 than                 CSN             3 
-Abba                 NP1             3 
 ANA                  NP1             3 
 has                  VHZ             3 
 campaigners          NN2             2 
 are                  VBR             2 
+'                    GE              2 
 towns                NN2             2 
 cities               NN2             2 
 villages             NN2             2 
@@ -32,12 +33,10 @@ Aberystwyth          NP1             2
 Abergavenny          NP1             2 
 Aberdare             NP1             2 
 places               NN2             2 
-we                   PPIS2           2 
 prefix               NN1             2 
-aber                 NN1             2 
+Abba                 NP1             2 
 it                   PPH1            2 
 Abertridwr           NP1             2 
-Aber                 NP1             2 
 box_office           NN1             2 
 tickets              NN2             2 
 any                  DD              2 
@@ -48,7 +47,7 @@ said                 VVD             2
 calling              VVG             1 
 names                NN2             1 
 some                 DD              1 
-most                 DAT             1 
+most                 RGT             1 
 historic             JJ              1 
 changed              VVN             1 
 tribute              NN1             1 
@@ -69,6 +68,7 @@ plans                NN2             1
 want                 VV0             1 
 replace              VVI             1 
 celtic               JJ              1 
+aber                 NN1             1 
 abba                 NN1             1 
 more                 DAR             1 
 60                   MC              1 
@@ -101,6 +101,7 @@ Caerphilly           NP1             1
 group                NN1             1 
 stands_for           VVZ             1 
 not                  XX              1 
+Aber                 NP1             1 
 already              RR              1 
 tried_out            VVN             1 
 modified             JJ              1 
@@ -130,6 +131,7 @@ who                  PNQS            1
 lives                VVZ             1 
 full                 JJ              1 
 begin                VV0             1 
+Aber'                NP1             1 
 renowned             JJ              1 
 across               II              1 
 world                NN1             1 
@@ -142,6 +144,8 @@ on                   II              1
 April                NPM1            1 
 1                    MC1             1 
 replace              VV0             1 
+aber'                NN1             1 
+Abba'                NP1             1 
 show                 VVI             1 
 our                  APPGE           1 
 appreciation         NN1             1 
@@ -151,8 +155,8 @@ basis                NN1             1
 spokesman            NN1             1 
 sold                 VVN             1 
 quicker              RRR             1 
-weve                 NN1             1 
-had                  VHD             1 
+'ve                  VH0             1 
+had                  VHN             1 
 here                 RL              1 
 so_far               RG              1 
 mania                NN1             1 

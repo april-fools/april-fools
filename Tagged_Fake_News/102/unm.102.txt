@@ -7,7 +7,6 @@ Kool-Aid                 NP1     Z99
 Obama                    NP1     Z99 
 Pac                      NP1     Z99 
 Reid                     NP1     Z99 
-Reids                    NP2     Z99 
 Republican-controlled    JJ      Z99 
 Schumer                  NN1     Z99 
 Shelby                   NP1     Z99 

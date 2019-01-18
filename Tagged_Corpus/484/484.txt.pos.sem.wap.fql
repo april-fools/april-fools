@@ -1,4 +1,4 @@
-TOTAL              208
+TOTAL              211
 the                  AT             14 
 independence         NN1             7 
 and                  CC              5 
@@ -6,11 +6,14 @@ for                  IF              5
 Charlotte            NP1             4 
 a                    AT1             4 
 he                   PPHS1           4 
+Saturday             NPD1            3 
 will                 VM              3 
 is                   VBZ             3 
 that                 CST             3 
+i                    PPIS1           3 
 Moss                 NP1             3 
 at                   II              3 
+'s                   GE              2 
 season               NNT1            2 
 versus               II              2 
 Charleston           NP1             2 
@@ -26,11 +29,9 @@ sport                NN1             2
 an                   AT1             2 
 in                   II              2 
 to                   II              2 
-Saturday             NPD1            2 
 their                APPGE           2 
 N.C                  NP1             1 
 ahead_of             II21            1 
-Saturdays            NPD2            1 
 opener               NN1             1 
 announced            VVD             1 
 signing              NN1             1 
@@ -53,19 +54,18 @@ renewing             VVG             1
 my                   APPGE           1 
 career               NN1             1 
 something            PN1             1 
-Ive                  NP1             1 
-thought              VVD             1 
+'ve                  VH0             1 
+thought              VVN             1 
 about                II              1 
 long_time            JJ              1 
 said                 VVD             1 
-im                   VV0             1 
+'m                   VBM             1 
 excited              JJ              1 
 get                  VVI             1 
 started              VVN             1 
 with                 IW              1 
 show                 VV0             1 
 world                NN1             1 
-i                    PPIS1           1 
 can                  VM              1 
 two-sport            JJ              1 
 athlete              NN1             1 
@@ -100,7 +100,7 @@ head                 NN1             1
 coach                NN1             1 
 Mike_Jeffries        NP1             1 
 obviously            RR              1 
-s                    VBZ             1 
+'s                   VBZ             1 
 proven               JJ              1 
 winner               NN1             1 
 his                  APPGE           1 
@@ -112,8 +112,7 @@ plays                VVZ             1
 looking_to           VVG             1 
 build                VVI             1 
 off                  RP              1 
-last                 MD              1 
-seasons              NNT2            1 
+last_season          MD              1 
 fifth-place          JJ              1 
 eastern              JJ              1 
 conference           NN1             1 

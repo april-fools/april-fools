@@ -1,4 +1,4 @@
-TOTAL              229
+TOTAL              232
 the                  Z5                  17 
 cable                O3                  10 
 theft                G2.1-                6 
@@ -7,16 +7,18 @@ of                   Z5                   4
 on                   Z5                   4 
 and                  Z5                   4 
 copper               O1.1                 4 
+SEACOM               Z99                  4 
+telkom               Z99                  3 
 said                 Q2.1                 3 
 is                   Z5                   3 
 to                   Z5                   3 
+'s                   Z5                   3 
 infrastructure       I2.1                 3 
 fibre                O1.1                 3 
 thieves              G2.1-                3 
 loof                 Z99                  3 
 that                 Z5                   3 
 will                 T1.1.3               3 
-telkom               Z99                  2 
 impact               A2.2                 2 
 that                 Z8                   2 
 it                   Z8                   2 
@@ -25,10 +27,8 @@ many                 N5+                  2
 however              Z4                   2 
 not                  Z6                   2 
 but                  Z5                   2 
-seacoms              Z99                  2 
 cabling              O3                   2 
 at                   Z5                   2 
-seacom               Z99                  2 
 landing              H2                   2 
 station              M3                   2 
 Mtunzini             Z99                  2 
@@ -89,7 +89,6 @@ latest               T3---                1
 incident             A3+                  1 
 does                 Z5                   1 
 involve              A1.8+                1 
-Telkoms              Z99                  1 
 rather               Z4                   1 
 terrestrial          W1                   1 
 removed              M2                   1 

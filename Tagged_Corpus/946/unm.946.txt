@@ -4,11 +4,12 @@ ActionAid                NP1     Z99
 AFP                      VV0     Z99 
 anti-poverty             JJ      Z99 
 Butterworth              NP1     Z99 
-Dyantyis                 NN1     Z99 
+Dyantyi                  NP1@    Z99 
 Etholeni                 NP1     Z99 
 Gauteng                  NN1     Z99 
 Mantakana                NP1     Z99 
 Mdlalana                 NN1@    Z99 
+Peddie                   NP1     Z99 
 reverberated             VVD     Z99 
 second-highest           JJT     Z99 
 six-year-old             NN1     Z99 

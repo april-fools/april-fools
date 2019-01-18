@@ -1,12 +1,12 @@
-TOTAL              505
+TOTAL              509
 the                  AT             19 
 of                   IO             15 
 to                   TO             14 
+people               NN             12 
 in                   II             12 
 a                    AT1            12 
 and                  CC             11 
 be                   VBI            11 
-people               NN             11 
 they                 PPHS2           9 
 with                 IW              8 
 pre-existing         JJ              8 
@@ -27,6 +27,7 @@ their                APPGE           4
 more                 DAR             4 
 could                VM              4 
 about                II              3 
+'s                   GE              3 
 is                   VBZ             3 
 likely               JJ              3 
 how                  RRQ             3 
@@ -38,8 +39,7 @@ them                 PPHO2           3
 which                DDQ             3 
 before               II              3 
 as                   CSA             2 
-future               NN1             2 
-moves                VVZ             2 
+Obamacare            NP1             2 
 from                 II              2 
 partisan             JJ              2 
 views                NN2             2 
@@ -70,7 +70,6 @@ however              RR              2
 most                 DAT             2 
 such_as              II21            2 
 americans            NN2             2 
-said                 VVD             2 
 condition            NN1             2 
 through              II              2 
 again                RT              2 
@@ -82,11 +81,13 @@ this                 DD1             2
 issue                NN1             2 
 changes              NN2             2 
 has                  VHZ             2 
+said                 VVN             2 
 but                  CCB             2 
+it                   PPH1            2 
 legislative          JJ              2 
 debate               NN1             1 
-Obamacares           NP1             1 
-peoples              NN2             1 
+future               JJ              1 
+moves                NN2             1 
 general              NN1             1 
 mostly               RR              1 
 affordable           JJ              1 
@@ -106,7 +107,7 @@ serious              JJ              1
 sick                 JJ              1 
 members              NN2             1 
 able                 JK              1 
-Obamacare            NP1             1 
+future               NN1             1 
 quickly              RR              1 
 supplanted           VVN             1 
 practical            JJ              1 
@@ -164,7 +165,7 @@ feel                 VVI             1
 stake                NN1             1 
 policies             NN2             1 
 regarding            II              1 
-kaisers              NN2             1 
+kaiser               NN1             1 
 monthly              JJ              1 
 tracking             NN1             1 
 poll                 NN1             1 
@@ -172,6 +173,7 @@ found                VVN             1
 August               NPM1            1 
 that                 DD1             1 
 53%                  NNU             1 
+said                 VVD             1 
 member               NN1             1 
 had                  VHD             1 
 after                II              1 
@@ -208,7 +210,6 @@ immediately          RR              1
 policy               NN1             1 
 President-elect      NNB             1 
 Donald_trump         NP1             1 
-said                 VVN             1 
 he                   PPHS1           1 
 wants                VVZ             1 
 protect              VVI             1 
@@ -226,7 +227,6 @@ among                II              1
 measures             NN2             1 
 without              IW              1 
 plan                 NN1             1 
-it                   PPH1            1 
 hard                 JJ              1 
 say                  VVI             1 
 how                  RGQ             1 
@@ -236,11 +236,12 @@ millions             NNO2            1
 influential          JJ              1 
 groups               NN2             1 
 represent            VV0             1 
-its                  APPGE           1 
+'s                   VBZ             1 
 sometimes            RT              1 
 become               VVN             1 
 post-factual         JJ              1 
 health_care          NN1             1 
+moves                VVZ             1 
 campaign             NN1             1 
 agenda               NN1             1 
 affect               VVI             1 

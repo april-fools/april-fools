@@ -1,4 +1,4 @@
-TOTAL              542
+TOTAL              545
 the                  AT             44 
 of                   IO             21 
 in                   II             14 
@@ -31,6 +31,7 @@ an                   AT1             3
 word                 NN1             3 
 for                  IF              3 
 do                   VD0             2 
+n't                  XX              2 
 today                RT              2 
 33                   MC              2 
 rather               RR              2 
@@ -47,6 +48,8 @@ resolution           NN1             2
 from                 II              2 
 2007                 MC              2 
 russian_federation   JJ              2 
+ministry             NN1             2 
+'s                   GE              2 
 spokesperson         NN1             2 
 decision             NN1             2 
 one                  MC1             2 
@@ -71,6 +74,7 @@ were                 VBDR            2
 official             JJ              2 
 documents            NN2             2 
 expected             VVN             2 
+there                EX              2 
 all                  DB              2 
 song                 NN1             2 
 already              RR              2 
@@ -81,9 +85,8 @@ list                 NN1             2
 rules                NN2             2 
 two                  MC              2 
 always               RR              2 
-lets                 VVZ             2 
+let_'s               VM21            2 
 i                    PPIS1           1 
-nt                   XX              1 
 post                 NN1             1 
 blog                 NN1             1 
 weekends             NNT2            1 
@@ -111,7 +114,6 @@ science              NN1             1
 decided              VVD             1 
 eliminate            VVI             1 
 according_to         II21            1 
-ministrys            NN2             1 
 difficult            JJ              1 
 hand                 NN1             1 
 present              JJ              1 
@@ -137,7 +139,6 @@ infrequently         RR              1
 statistically        RR              1 
 average              JJ              1 
 text                 NN1             1 
-s                    ZZ1             1 
 less                 DAR             1 
 than                 CSN             1 
 0.5%                 FO              1 
@@ -184,7 +185,6 @@ public               JJ              1
 media                NN              1 
 customarily          RR              1 
 replace              VV0             1 
-ministry             NN1             1 
 emphasizes           VVZ             1 
 although             CS              1 
 being                VBG             1 
@@ -200,7 +200,6 @@ monumental           JJ              1
 practical            JJ              1 
 implications         NN2             1 
 minor                JJ              1 
-there                EX              1 
 initial              JJ              1 
 expense              NN1             1 
 confusion            NN1             1 
@@ -274,12 +273,12 @@ stressed             VVN             1
 of_course            RR21            1 
 history              NN1             1 
 shown                VVN             1 
-theres               NN2             1 
+'s                   VBZ             1 
 possibility          NN1             1 
 another              DD1             1 
 dramatic             JJ              1 
 hope                 VVI             1 
-wont                 NN1             1 
+wo                   VM              1 
 kind                 NN1             1 
 resurrects           VVZ             1 
 as                   II              1 

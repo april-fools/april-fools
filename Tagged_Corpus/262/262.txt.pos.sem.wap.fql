@@ -1,4 +1,4 @@
-TOTAL              160
+TOTAL              164
 the                  AT             11 
 that                 CST             5 
 gay                  JJ              4 
@@ -8,13 +8,13 @@ will                 VM              4
 for                  IF              4 
 in                   II              4 
 not                  XX              4 
+church               NN1             4 
+i                    PPIS1           4 
 Westboro_Baptist_church NP1             3 
 a                    AT1             3 
 set_an_example       VVI             3 
 others               NN2             3 
 to                   TO              3 
-church               NN1             3 
-i                    PPIS1           3 
 of                   IO              3 
 Kansas               NP1             2 
 has                  VHZ             2 
@@ -24,9 +24,11 @@ James_Arrington      NP1             2
 hopes                VVZ             2 
 is                   VBZ             2 
 an                   AT1             2 
+Arrington            NP1             2 
 said                 VVD             2 
 be                   VBI             2 
 it                   PPH1            2 
+'s                   GE              2 
 God                  NP1             2 
 topeka               NN1             1 
 made                 VVN             1 
@@ -41,12 +43,11 @@ Topeka               NP1             1
 interview            NN1             1 
 with                 IW              1 
 Equalitopia          NP1             1 
-Arrington            NP1             1 
 did                  VDD             1 
 expect               VVI             1 
 appointed            VVN             1 
 into                 II              1 
-im                   VV0             1 
+'m                   VBM             1 
 sure                 JJ              1 
 exactly              RR              1 
 what                 DDQ             1 
@@ -55,13 +56,13 @@ explained            VVD             1
 but                  CCB             1 
 felt                 VVD             1 
 like                 CS              1 
-wouldnt              VV0             1 
+would                VM              1 
+n't                  XX              1 
 really               RR              1 
-fit_into             VV0             1 
+fit_into             VVI             1 
 arrington            NN1             1 
 that                 DD1             1 
 being                VBG             1 
-churchs              NN2             1 
 members              NN2             1 
 accepting            VVG             1 
 everyone             PN1             1 
@@ -88,7 +89,6 @@ movement             NN1             1
 hoping               VVG             1 
 disclosed            VVN             1 
 when                 CS              1 
-arringtons           NN2             1 
 church_service       NN1             1 
 take_place           VVI             1 
 fear                 NN1             1 

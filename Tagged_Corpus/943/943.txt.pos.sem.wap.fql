@@ -1,4 +1,4 @@
-TOTAL              416
+TOTAL              420
 the                  AT             28 
 and                  CC             22 
 of                   IO             11 
@@ -7,10 +7,11 @@ is                   VBZ             8
 korean               JJ              7 
 to                   TO              7 
 food                 NN1             6 
-its                  APPGE           5 
 in                   II              5 
 restaurant           NN1             5 
+its                  APPGE           4 
 has                  VHZ             4 
+Park                 NP1             4 
 that                 CST             3 
 for                  IF              3 
 this                 DD1             3 
@@ -18,8 +19,10 @@ culinary             JJ              3
 lounge               NN1             3 
 grills               NN2             3 
 bar                  NN1             3 
+'s                   GE              3 
 musical              JJ              2 
 been                 VBN             2 
+'s                   VBZ             2 
 at                   II              2 
 wave                 NN1             2 
 group                NN1             2 
@@ -37,9 +40,7 @@ really               RR              2
 crystal              NN1             2 
 customers            NN2             2 
 or                   CC              2 
-Park                 NP1             2 
 beef                 NN1             2 
-parks                NN2             2 
 upstairs             NN1             2 
 area                 NN1             2 
 meant                VVN             2 
@@ -64,7 +65,8 @@ k-pop                NN1             1
 undergoing           VVG             1 
 years                NNT2            1 
 so                   RR              1 
-only                 JJ              1 
+it                   PPH1            1 
+only                 RR              1 
 appropriate          JJ              1 
 jyp                  VV0             1 
 entertainment        NN1             1 
@@ -109,7 +111,7 @@ just                 RR              1
 few                  DA2             1 
 blocks               NN2             1 
 north                ND1             1 
-citys                NN2             1 
+city                 NN1             1 
 designated           VVN             1 
 koreatown            NN1             1 
 all                  DB              1 
@@ -164,7 +166,7 @@ such                 DA              1
 nyc                  NN1             1 
 staples              NN2             1 
 as                   CSA             1 
-LAtelier_de_Joel     NP1             1 
+L'Atelier_de_Joel    NP1             1 
 Gramercy_tavern      NP1             1 
 use                  VV0             1 
 infrared             JJ              1 
@@ -215,8 +217,7 @@ well                 JJ              1
 on_its_way           II              1 
 counts               VVZ             1 
 Horace_Madison       NP1             1 
-Lil                  NP1             1 
-Waynes               NP2             1 
+Lil_Wayne            NP1             1 
 business_manager     NN1             1 
 investors            NN2             1 
 industry             NN1             1 

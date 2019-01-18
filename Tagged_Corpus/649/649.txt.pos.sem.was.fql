@@ -1,10 +1,10 @@
-TOTAL              416
+TOTAL              420
 the                  Z5                  38 
 her                  Z8                  17 
 and                  Z5                  14 
+woman                S2.1                10 
 he                   Z8                  10 
 she                  Z8                   8 
-woman                S2.1                 8 
 was                  Z5                   8 
 to                   Z5                   8 
 a                    Z5                   7 
@@ -15,6 +15,8 @@ from                 Z5                   5
 on                   Z5                   5 
 that                 Z5                   5 
 had                  Z5                   5 
+man                  S2.2                 5 
+'s                   Z5                   4 
 throat               B1                   4 
 yesterday            T1.1.1               4 
 who                  Z8                   4 
@@ -22,7 +24,6 @@ told                 Q2.1                 4
 with                 Z5                   4 
 police               G2.1                 4 
 after                Z5                   4 
-man                  S2.2                 4 
 Limerick             Z2                   4 
 body                 B1                   3 
 Stabroek             Z99                  3 
@@ -58,8 +59,7 @@ him                  Z8                   2
 operated             A1.1.1               2 
 leave                M1                   2 
 door                 H2                   2 
-womans               S2.1                 2 
-Pamela_Mangrus       Z1                   1 
+Pamela_Mangru        Z1                   1 
 killer               L1-                  1 
 stabbed              E3-                  1 
 turning              M2                   1 
@@ -110,7 +110,6 @@ most                 N5+++                1
 all                  N5.1+                1 
 did                  Z5                   1 
 know                 X2.2+                1 
-mans                 S2.2                 1 
 whereabouts          M6                   1 
 received             A9+                  1 
 information          X2.2+                1 

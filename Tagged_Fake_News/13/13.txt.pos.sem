@@ -33,7 +33,8 @@
 0000002 250  NN1     theme                    X4.1 K2 Q1.2 Q3 
 0000002 260  IF      for                      Z5 
 0000002 270  DD1     this                     M6 Z5 Z8 
-0000002 280  NNT2    years                    T1.3 
+0000002 280  NNT1    year                     T1.3 P1c 
+0000002 281  GE      's                       Z5 
 0000002 290  NN1     convention               A6.2+ S1.1.3+ A6.1+/G1.1 
 0000002 300  VBZ     is                       A3+ Z5 
 0000002 310  NN1     Vote                     G1.2 

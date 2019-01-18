@@ -15,7 +15,6 @@ home-delivery            NN1     Z99
 Houseplans               NP1     Z99 
 Houseplans               NP1@    Z99 
 impronounceably          RR      Z99 
-Ive                      NP1@    Z99 
 Luther                   NP1     Z99 
 Mandible                 NN1     Z99 
 Odwalla                  NP1     Z99 
@@ -24,4 +23,4 @@ Spaeth                   NP1     Z99
 stick-built              NN1     Z99 
 Williamson               NP1     Z99 
 world-famous             JJ      Z99 
-Zep                      VV0     Z99 
+Zep'                     VV0@    Z99 

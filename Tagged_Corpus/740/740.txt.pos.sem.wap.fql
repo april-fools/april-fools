@@ -1,7 +1,7 @@
-TOTAL              510
+TOTAL              511
 the                  AT             38 
 and                  CC             18 
-blockchain           NN1            16 
+blockchain           NN1            17 
 to                   TO             13 
 of                   IO             10 
 business             NN1            10 
@@ -241,7 +241,7 @@ speed                NN1             1
 cost                 NN1             1 
 efficiency           NN1             1 
 among                II              1 
-blockchains          NN2             1 
+'s                   GE              1 
 most                 RGT             1 
 significant          JJ              1 
 benefits             NN2             1 

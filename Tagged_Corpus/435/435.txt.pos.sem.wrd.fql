@@ -1,4 +1,4 @@
-TOTAL              332
+TOTAL              334
 the                      19 
 and                      12 
 a                         9 
@@ -7,16 +7,18 @@ in                        7
 to                        7 
 for                       6 
 Dr.                       5 
+'s                        5 
 Shelley                   5 
 procedure                 5 
 at                        4 
 surgery                   4 
+Harvard                   3 
 was                       3 
 according_to              3 
 with                      3 
+TEOF                      3 
 this                      3 
-Harvard                   2 
-medical                   2 
+medical_school            2 
 promethean                2 
 laboratories              2 
 that                      2 
@@ -25,6 +27,7 @@ head                      2
 transplant                2 
 patient                   2 
 is                        2 
+mass_general_hospital      2 
 has                       2 
 his                       2 
 body                      2 
@@ -34,7 +37,6 @@ tissues                   2
 techniques                2 
 severed                   2 
 humans                    2 
-TEOF                      2 
 darpa                     2 
 challenge                 2 
 be                        2 
@@ -48,7 +50,6 @@ robotic                   2
 yesterday                 1 
 Mary_Shelley              1 
 director                  1 
-schools                   1 
 announced                 1 
 first                     1 
 ever                      1 
@@ -60,7 +61,6 @@ now                       1
 resting                   1 
 stable                    1 
 condition                 1 
-mass_general_hospital      1 
 already                   1 
 begun                     1 
 moving                    1 
@@ -68,10 +68,10 @@ extremities               1
 sitting_up                1 
 bed                       1 
 interacting               1 
+medical                   1 
 staff                     1 
 family                    1 
 took_place                1 
-Harvards                  1 
 Concord_Field             1 
 station                   1 
 facility                  1 
@@ -118,9 +118,6 @@ making                    1
 real                      1 
 possibility               1 
 2012                      1 
-mass                      1 
-general                   1 
-hospitals                 1 
 laboratory                1 
 tissue                    1 
 engineering               1 
@@ -139,7 +136,6 @@ connect                   1
 nerves                    1 
 between                   1 
 donar                     1 
-teofs                     1 
 stem                      1 
 cell                      1 
 biologists                1 
@@ -168,7 +164,7 @@ image                     1
 courtesy                  1 
 www.semanto.me            1 
 today_Harvard             1 
-universitys               1 
+university                1 
 scheduled                 1 
 an                        1 
 3:30pm                    1 
@@ -184,7 +180,6 @@ about                     1
 latest                    1 
 breakthrough              1 
 spokesperson              1 
-medical_school            1 
 indicated                 1 
 identities                1 
 would                     1 

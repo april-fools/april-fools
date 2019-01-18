@@ -29,14 +29,16 @@
 0000004 060  JJ      roofless                 Z99 
 0000004 070  NP1     Honda                    Z3c 
 0000004 080  JJ      CR-V                     Z99 
-0000004 090  NN1     youre                    Z99 
+0000004 090  PPY     you                      Z8mf 
+0000004 091  VBR     're                      Z5 A3+ 
 0000004 100  VVG     looking                  X3.4[i5.2.1 X2.4[i5.2.1 X2.1[i5.2.1 A8 X3.4 X2.4 X7+ Z4 
 0000004 110  II      at                       X3.4[i5.2.2 X2.4[i5.2.2 X2.1[i5.2.2 Z5 
 0000004 111  .       .                        
 0000004 112  -----   -----                    
 0000004 120  UH      No                       Z4 
 0000004 121  ,       ,                        
-0000004 130  APPGE   its                      Z8 
+0000004 130  PPH1    it                       Z8 
+0000004 131  VBZ     's                       A3+ Z5 
 0000004 140  XX      not                      Z6 
 0000004 150  AT      the                      Z5 
 0000004 160  NN1     work                     I3.1 A1.1.1 Q4 K2 C1 
@@ -57,7 +59,8 @@
 0000004 310  AT      The                      Z5 
 0000004 320  JJ      Grand                    O4.2+ A11.1+ A5.1+ N3.2+ S1.2.3+ 
 0000004 330  NN1@    Tour                     M1 G3@ 
-0000004 340  APPGE   its                      Z8 
+0000004 340  PPH1    it                       Z8 
+0000004 341  VBZ     's                       A3+ Z5 
 0000004 350  AT1     a                        Z5 
 0000004 360  JJ      new                      T3- 
 0000004 370  JJ      official                 G1.1 S7.4+ 
@@ -76,7 +79,8 @@
 0000004 470  VVN     based                    A2.2[i8.2.1 T2+ M6 A2.2 
 0000004 480  II      on                       A2.2[i8.2.2 Z5 
 0000004 490  AT      the                      Z5 
-0000004 500  NP2     SUVs                     Z99 
+0000004 500  NP1     SUV                      Z99 
+0000004 501  GE      's                       Z5 
 0000004 510  JJ      current                  T1.1.2 
 0000004 520  NN1     platform                 M3/M7 M4/H1 H5 X7+ Y2 
 0000004 530  CC      and                      Z5 
@@ -126,11 +130,13 @@
 0000006 050  NPM1    April                    T1.3 
 0000006 060  MC1     1                        N1 T1.2 T3 T1.3 N3.2 
 0000006 061  ,       ,                        
-0000006 070  NP2     Hondas                   Z3c 
+0000006 070  NP1     Honda                    Z3c 
+0000006 071  GE      's                       Z5 
 0000006 080  JJ      new                      T3- 
 0000006 090  JJ      topless                  B5- 
 0000006 100  NN1     SUV                      Z99 
-0000006 110  NN1     isnt                     Z99 
+0000006 110  VBZ     is                       A3+ Z5 
+0000006 111  XX      n't                      Z6 
 0000006 120  RR      technically              Y1 I4 X9.1 
 0000006 130  AT1     a                        Z5 
 0000006 140  NN1     drop-top                 Z99 

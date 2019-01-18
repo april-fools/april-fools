@@ -1,4 +1,4 @@
-TOTAL              573
+TOTAL              584
 the                  AT             51 
 of                   IO             26 
 a                    AT1            13 
@@ -11,6 +11,7 @@ this                 DD1             8
 scientists           NN2             7 
 particle             NN1             7 
 was                  VBDZ            7 
+'s                   GE              6 
 by                   II              6 
 in                   II              6 
 pyramids             NN2             6 
@@ -20,14 +21,17 @@ is                   VBZ             5
 which                DDQ             5 
 for                  IF              4 
 with                 IW              4 
+CERN                 NP1             4 
 be                   VBI             4 
 ancient              JJ              4 
 might                VM              4 
+we                   PPIS2           4 
 water                NN1             3 
 has                  VHZ             3 
 been                 VBN             3 
-CERN                 NP1             3 
+NASA                 NP1             3 
 new                  JJ              3 
+probe                NN1             3 
 an                   AT1             3 
 team                 NN1             3 
 previously           RR              3 
@@ -36,11 +40,11 @@ system               NN1             3
 as                   CSA             3 
 would                VM              3 
 powerful             JJ              3 
+it                   PPH1            3 
 egyptian             JJ              3 
 served               VVN             3 
 also                 RR              3 
 said                 VVD             3 
-we                   PPIS2           3 
 even                 RR              2 
 planet               NN1             2 
 exploration          NN1             2 
@@ -49,8 +53,7 @@ major                JJ              2
 discovery            NN1             2 
 images               NN2             2 
 surface              NN1             2 
-NASAs                NP2             2 
-probe                NN1             2 
+archaeology          NN1             2 
 have                 VH0             2 
 presence             NN1             2 
 largest              JJT             2 
@@ -68,7 +71,6 @@ used                 VVN             2
 large                JJ              2 
 LHC                  NP1             2 
 around               RG              2 
-it                   PPH1            2 
 particles            NN2             2 
 such_a               DA              2 
 hieroglyphs          NN2             2 
@@ -89,11 +91,9 @@ portal               NN1             2
 highly               RR              2 
 advanced             JJ              2 
 civilisation         NN1             2 
-were                 VBDR            2 
-its                  APPGE           2 
 lava                 NN1             2 
 flows                NN2             2 
-Eilert_ONeil         NP1             2 
+Eilert_O'Neil        NP1             2 
 search               NN1             1 
 or                   CC              1 
 signs                NN2             1 
@@ -101,9 +101,8 @@ life                 NN1             1
 ongoing              JJ              1 
 for_some_time        IF              1 
 but                  CCB             1 
-todays               NN2             1 
+today                RT              1 
 announcement         NN1             1 
-NASA                 NP1             1 
 red                  JJ              1 
 taken                VVN             1 
 reconnaissance       NN1             1 
@@ -114,7 +113,6 @@ experts              NN2             1
 from                 II              1 
 fields               NN2             1 
 geology              NN1             1 
-archaeology          NN1             1 
 physics              NN1             1 
 ever                 RR              1 
 built                VVN             1 
@@ -129,10 +127,10 @@ landslide            NN1             1
 stretching           VVG             1 
 over                 RP              1 
 spotted              JJ              1 
-probes               NN2             1 
 high-resolution      JJ              1 
 camera               NN1             1 
 sparked              VVD             1 
+'                    GE              1 
 attention            NN1             1 
 apparently           RR              1 
 event                NN1             1 
@@ -169,7 +167,6 @@ dominguez/           VV0             1
 help                 VVI             1 
 explain              VVI             1 
 one                  MC1             1 
-archaeologys         NN2             1 
 oldest               JJT             1 
 mysteries            NN2             1 
 heavily              RR              1 
@@ -188,7 +185,7 @@ controlled           VVN             1
 remotely             RR              1 
 control_room         NN1             1 
 under                II              1 
-CERNs_head           NP2             1 
+head                 NN1             1 
 technical            JJ              1 
 design               NN1             1 
 veritable            JJ              1 
@@ -205,6 +202,7 @@ indicates            VVZ             1
 magnetic             JJ              1 
 field                NN1             1 
 movement             NN1             1 
+were                 VBDR            1 
 such                 DA              1 
 they                 PPHS2           1 
 create               VVI             1 
@@ -212,11 +210,13 @@ through              II              1
 spacetime            NNT1            1 
 Fadela_Emmerich      NP1             1 
 leader               NN1             1 
+'s                   VBZ             1 
 phenomenon           NN1             1 
 completely           RR              1 
 to                   II              1 
-cant                 NN1             1 
-wait                 VV0             1 
+ca                   VM              1 
+n't                  XX              1 
+wait                 VVI             1 
 study                VVI             1 
 technology           NN1             1 
 revolutionise        VVI             1 
@@ -230,6 +230,7 @@ now                  RT              1
 considered           VVN             1 
 biggest              JJT             1 
 volcano              NN1             1 
+its                  APPGE           1 
 most                 RGT             1 
 estimated            VVD             1 
 about                RG              1 
@@ -273,6 +274,7 @@ assume               VVI             1
 at_the_time          II              1 
 cool                 VVI             1 
 machines             NN2             1 
+'re                  VBR             1 
 talking              VVG             1 
 about                II              1 
 forgotten            JJ              1 

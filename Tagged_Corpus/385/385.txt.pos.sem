@@ -3,7 +3,8 @@
 0000002 010  VV0     Move                     M1[i2.2.1 M2[i2.2.1 A2.1+[i2.2.1 M2 M1 A2.1+ E1 H4/A2.1 M1[i1.2.1 M2[i1.2.1 A2.1+[i1.2.1 
 0000002 020  RP      over                     M1[i2.2.2 M2[i2.2.2 A2.1+[i2.2.2 T2- M6 M1[i1.2.2 M2[i1.2.2 A2.1+[i1.2.2 
 0000002 021  ,       ,                        
-0000002 030  NN2     K-9theres                Z99 
+0000002 030  NN1     K-9there                 Z99 
+0000002 031  VBZ     's                       A3+ Z5 
 0000002 040  AT1     a                        Z5 
 0000002 050  JJ      new                      T3- 
 0000002 060  JJ      four-legged              O4.1 
@@ -15,7 +16,8 @@
 0000002 111  !       !                        
 0000003 001  -----   -----                    
 0000004 010  NP1     Peter                    Z1mf[i4.2.1 Z3c[i4.2.1 Z1m 
-0000004 020  NP1     Capaldis                 Z1mf[i4.2.2 Z3c[i4.2.2 
+0000004 020  NP1     Capaldi                  Z1mf[i4.2.2 Z3c[i4.2.2 
+0000004 021  GE      's                       Z5 
 0000004 030  NN1     love                     S3.2 E2+ E2+/S2mf 
 0000004 040  IO      of                       Z5 
 0000004 050  JJ      classic                  A4.1 A5.1+ T3+ 
@@ -33,8 +35,9 @@
 0000004 160  VHZ     has                      Z5 A9+ A2.2 S4 
 0000004 170  VVN     convinced                A7+/Q2.2 
 0000004 180  AT      the                      Z5 
-0000004 190  NN2     shows                    A8 K4 S1.1.1 I2.2/S1.1.1 
-0000004 200  VVZ@    bosses                   S7.1+ 
+0000004 190  NN1     show                     A8 K4 S1.1.1 I2.2/S1.1.1 
+0000004 191  GE      's                       Z5 
+0000004 200  NN2     bosses                   S7.1+/S2mf 
 0000004 210  TO      to                       Z5 
 0000004 220  VVI     give                     A9- A1.1.1 
 0000004 230  APPGE   his                      Z8m 
@@ -82,7 +85,8 @@
 0000009 170  II      in                       Z5 
 0000009 180  AT1     a                        Z5 
 0000009 190  JJ      New                      T1.3/K1[i6.2.1 T3- 
-0000009 200  NNT2    Years                    T1.3/K1[i6.2.2 T1.3 
+0000009 200  NNT1    Year                     T1.3/K1[i6.2.2 T1.3 P1c 
+0000009 201  GE      's                       Z5 
 0000009 210  JJ      Special                  A4.2+ A6.2- 
 0000009 220  CC      and                      Z5 
 0000009 230  VM      will                     T1.1.3 
@@ -232,7 +236,8 @@
 0000015 380  DAT     most                     N5+++ 
 0000015 390  IO      of                       Z5 
 0000015 400  AT      the                      Z5 
-0000015 410  NN2     cats                     L2mfn 
+0000015 410  NN1     cat                      L2 M3 
+0000015 411  GE      's                       Z5 
 0000015 420  NN1     dialogue                 Q2.1 
 0000015 430  VM      will                     T1.1.3 
 0000015 440  VBI     be                       Z5 A3+ 
@@ -254,7 +259,8 @@
 0000015 530  VVN@    asked                    Q2.2 
 0000015 540  II      about                    Z5 
 0000015 550  AT      the                      Z5 
-0000015 560  NN2     shows                    A8 K4 S1.1.1 I2.2/S1.1.1 
+0000015 560  NN1     show                     A8 K4 S1.1.1 I2.2/S1.1.1 
+0000015 561  GE      's                       Z5 
 0000015 570  JJ      new                      T3- 
 0000015 580  JJ      four-legged              O4.1 
 0000015 590  NN1     companion                S3.1/S2mf 
@@ -299,7 +305,8 @@
 0000017 163  -----   -----                    
 0000019 010  AT      The                      Z5 
 0000019 020  JJ      New                      T1.3/K1[i17.2.1 T3- 
-0000019 030  NNT2    Years                    T1.3/K1[i17.2.2 T1.3 
+0000019 030  NNT1    Year                     T1.3/K1[i17.2.2 T1.3 P1c 
+0000019 031  GE      's                       Z5 
 0000019 040  JJ      special                  A4.2+ A6.2- 
 0000019 041  ,       ,                        
 0000019 050  RR      tentatively              A7- 
@@ -351,8 +358,9 @@
 0000019 440  II      on                       Z5 
 0000019 450  NN1     Earth                    W3 W1 O1.1 O3 N5++ 
 0000019 460  II      during                   Z5 
-0000019 470  NPM1    April                    T1.3 
-0000019 480  NN2     Fools                    S1.2.6- E4.1+ E4.1+/S2mf F1 G2.2- 
-0000019 490  NP1     Day                      T1.3 
+0000019 470  NPM1    April                    T1.3/E4.1+[i19.4.1 T1.3 
+0000019 480  NN1     Fool                     T1.3/E4.1+[i19.4.2 E4.1+/S2mf F1 
+0000019 481  GE      's                       T1.3/E4.1+[i19.4.3 Z5 
+0000019 490  NNT1    Day                      T1.3/E4.1+[i19.4.4 T1.3 
 0000019 491  .       .                        
 0000022 001  NULL    **8;7;text               

@@ -70,7 +70,8 @@
 0000004 040  AT      the                      Z5 
 0000004 050  NN1     start                    T2+ E5- 
 0000004 060  IO      of                       Z5 
-0000004 070  NP2     Nevadas                  Z2 Z3c 
+0000004 070  NP1     Nevada                   Z2 Z3c 
+0000004 071  GE      's                       Z5 
 0000004 080  NN1     Republican               G1.2/S2mf 
 0000004 090  NN1     caucus                   Z99 
 0000004 091  ,       ,                        
@@ -125,7 +126,8 @@
 0000004 510  VVI     report                   Q2.2 S7.1- 
 0000004 520  II      to                       Z5 
 0000004 530  APPGE   your                     Z8 
-0000004 540  NN2     precincts                I2.2/H1c M7/G2.1 H1 H3 
+0000004 540  NN1     precinct                 I2.2/H1c M7/G2.1 H1 H3 
+0000004 541  GE      's                       Z5 
 0000004 550  JJ      designated               Q2.2 X7+ 
 0000004 560  NN1     polling                  G1.2 
 0000004 570  NN1     center                   M6 H1c M7c G1.2c K5.1mfn 
@@ -142,8 +144,9 @@
 0000006 060  PNQS    who                      Z8 
 0000006 070  VVD     received                 A9+ S5+ 
 0000006 080  NPD1    Tuesday                  T1.3[i15.2.1 T1.3 
-0000006 090  NNT2    afternoons               T1.3[i15.2.2 T1.3 
-0000006 100  VV0     robocall                 Z99 
+0000006 090  NNT1    afternoon                T1.3[i15.2.2 T1.3 
+0000006 091  GE      's                       Z5 
+0000006 100  NN1     robocall                 Z99 
 0000006 110  RR      -perhaps                 Z99 
 0000006 120  II21    out                      Z5[i16.2.1 Z5 Z5[i17.2.1 A9-[i17.2.1 
 0000006 130  II22    of                       Z5[i16.2.2 Z5[i17.2.2 A9-[i17.2.2 
@@ -152,7 +155,7 @@
 0000006 160  JJ      nuclear                  Y1 B1 S5+% 
 0000006 170  NN1     annihilation-            Z99 
 0000006 180  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000006 181  XX      nt                       S9/Q4.1 Z3c 
+0000006 181  XX      n't                      Z6 
 0000006 190  VVI     stay                     M8 T2++ H4 
 0000006 200  II      on                       Z5 
 0000006 210  AT      the                      Z5 
@@ -180,7 +183,8 @@
 0000006 420  II22    to                       Z5[i20.2.2 Z5 
 0000006 430  AT      the                      Z5 
 0000006 440  NP1     Texas                    Z2 Z3c 
-0000006 450  NN2     senators                 G1.2/S2mf 
+0000006 450  NN1     senator                  G1.2/S2mf 
+0000006 451  GE      's                       Z5 
 0000006 460  NN1     campaign                 X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 G3 
 0000006 470  NN1     manager                  S7.1+/S2mf K1/S7.1+/S2mf K5/S7.1+/S2mf 
 0000006 471  ,       ,                        
@@ -203,9 +207,10 @@
 0000008 020  AT1     an                       Z5 
 0000008 030  NN1     interview                Q2.1 
 0000008 040  IW      with                     Z5 
-0000008 050  NP1     MSNBCs                   Z1mf[i22.3.1 Z3c[i22.3.1 Z1mf[i21.2.1 Z3c[i21.2.1 
-0000008 060  NP1     Chuck                    Z1mf[i22.3.2 Z3c[i22.3.2 Z1mf[i21.2.2 Z3c[i21.2.2 Z1mf[i23.2.1 Z3c[i23.2.1 
-0000008 070  NP1     Todd                     Z3c[i22.3.3 Z1mf[i22.3.3 Z1mf[i23.2.2 Z3c[i23.2.2 
+0000008 050  NP1     MSNBC                    Z99 
+0000008 051  GE      's                       Z5 
+0000008 060  NP1     Chuck                    Z1mf[i21.2.1 Z3c[i21.2.1 
+0000008 070  NP1     Todd                     Z1mf[i21.2.2 Z3c[i21.2.2 
 0000008 071  ,       ,                        
 0000008 080  NNB     Senator                  G1.2/S2mf 
 0000008 090  NP1     Cruz                     Z2 
@@ -226,11 +231,11 @@
 0000008 240  IO      of                       Z5 
 0000008 250  VVG     forming                  T2+ A2.1+ A1.8+ A3+ A1.1.1 
 0000008 260  AT1     a                        Z5 
-0000008 270  JJ      behind-the-scenes        S5+[i24.2.1 A10- 
-0000008 280  NN1     alliance                 S5+[i24.2.2 S5+c 
-0000008 290  BCL21   in                       Z5[i25.3.1 Z5[i26.2.1 
-0000008 300  BCL22   order                    Z5[i25.3.2 Z5[i26.2.2 
-0000008 310  TO      to                       Z5[i25.3.3 Z5 
+0000008 270  JJ      behind-the-scenes        S5+[i22.2.1 A10- 
+0000008 280  NN1     alliance                 S5+[i22.2.2 S5+c 
+0000008 290  BCL21   in                       Z5[i23.3.1 Z5[i24.2.1 
+0000008 300  BCL22   order                    Z5[i23.3.2 Z5[i24.2.2 
+0000008 310  TO      to                       Z5[i23.3.3 Z5 
 0000008 320  VVI     conduct                  A1.1.1 S1.1.1 K2 O4.1 
 0000008 330  AT1     a                        Z5 
 0000008 340  JJ      dishonest                A5.2- 
@@ -251,8 +256,8 @@
 0000008 470  JJ      tragic                   E4.1- 
 0000008 480  NN1     loss                     I1.2 A9- S8- L1- 
 0000008 490  IO      of                       Z5 
-0000008 500  RR21    at                       A13.7[i27.2.1 
-0000008 510  RR22    least                    A13.7[i27.2.2 A13.7 
+0000008 500  RR21    at                       A13.7[i25.2.1 
+0000008 510  RR22    least                    A13.7[i25.2.2 A13.7 
 0000008 520  MC      two-dozen                N1 T1.2 T3 T1.3 N3.2 
 0000008 530  JJ      potential                A7+ 
 0000008 540  NN2     voters                   G1.2/S2mf 
@@ -263,8 +268,8 @@
 0000008 590  VVI     flee                     M1 
 0000008 600  AT1     a                        Z5 
 0000008 610  JJ      fictitious               A5.2- 
-0000008 620  NP1     Nevadan                  Z1mf[i28.2.1 Z3c[i28.2.1 
-0000008 630  NP1     Hiroshima                Z1mf[i28.2.2 Z3c[i28.2.2 Z2 
+0000008 620  NP1     Nevadan                  Z1mf[i26.2.1 Z3c[i26.2.1 
+0000008 630  NP1     Hiroshima                Z1mf[i26.2.2 Z3c[i26.2.2 Z2 
 0000008 640  CCB     but                      Z5 
 0000008 650  VVD     blamed                   Q2.2/G2.2- G2.1 
 0000008 660  APPGE   his                      Z8m 
@@ -275,12 +280,12 @@
 0000008 710  IO      of                       Z5 
 0000008 720  AT      the                      Z5 
 0000008 730  NN1     call                     Q2.2 S1.1.1 Q1.3 X7+ S9% 
-0000008 740  II21    out                      Z5[i29.2.1 Z5 Z5[i30.2.1 A9-[i30.2.1 
-0000008 750  II22    of                       Z5[i29.2.2 Z5[i30.2.2 A9-[i30.2.2 
+0000008 740  II21    out                      Z5[i27.2.1 Z5 Z5[i28.2.1 A9-[i28.2.1 
+0000008 750  II22    of                       Z5[i27.2.2 Z5[i28.2.2 A9-[i28.2.2 
 0000008 760  NN1     context                  O4.1/A3+ A2.2 Q3 
-0000008 770  BCL21   in                       Z5[i31.3.1 Z5[i32.2.1 
-0000008 780  BCL22   order                    Z5[i31.3.2 Z5[i32.2.2 
-0000008 790  TO      to                       Z5[i31.3.3 Z5 
+0000008 770  BCL21   in                       Z5[i29.3.1 Z5[i30.2.1 
+0000008 780  BCL22   order                    Z5[i29.3.2 Z5[i30.2.2 
+0000008 790  TO      to                       Z5[i29.3.3 Z5 
 0000008 800  VVI     discredit                Q2.2/G2.2- 
 0000008 810  PPHO1   him                      Z8m 
 0000008 820  II      at                       Z5 
@@ -327,11 +332,12 @@
 0000010 280  JJ      constitutional           G1.1 
 0000010 290  NN2     rights                   S7.4+ G2.2+ M6 G1.2 
 0000010 291  ;       ;                        
-0000010 300  NP1     Donald                   Z1mf[i33.2.1 Z3c[i33.2.1 Z1mf 
-0000010 310  NN1     Trump                    Z1mf[i33.2.2 Z3c[i33.2.2 Z1mf 
+0000010 300  NP1     Donald                   Z1mf[i31.2.1 Z3c[i31.2.1 Z1mf 
+0000010 310  NN1     Trump                    Z1mf[i31.2.2 Z3c[i31.2.2 Z1mf 
 0000010 320  VVD     complained               Q2.2/E2- 
 0000010 330  CST     that                     Z5 Z8 
-0000010 340  NP2     Cruzs                    Z2 
+0000010 340  NP1     Cruz                     Z2 
+0000010 341  GE      's                       Z5 
 0000010 350  JJ      deceptive                A5.2- 
 0000010 360  NN2     tactics                  X4.2 
 0000010 370  VHD     had                      Z5 A9+ A2.2 S4 
@@ -352,12 +358,12 @@
 0000012 070  NN1     GOP                      Z99 
 0000012 080  NN1     primary                  G1.2 P1 B2- 
 0000012 090  VVG     leading                  S7.1+ A2.2 M2 A1.1.1 
-0000012 100  II21    up                       Z5[i34.2.1 Z5 Z5[i35.2.1 X6+[i35.2.1 
-0000012 110  II22    to                       Z5[i34.2.2 Z5 Z5[i35.2.2 X6+[i35.2.2 
+0000012 100  II21    up                       Z5[i32.2.1 Z5 Z5[i33.2.1 X6+[i33.2.1 
+0000012 110  II22    to                       Z5[i32.2.2 Z5 Z5[i33.2.2 X6+[i33.2.2 
 0000012 120  JJ      Super                    A5.1+ 
-0000012 130  NPD1    Tuesday                  Z2[i36.3.1 T1.3 
-0000012 140  II      on                       Z2[i36.3.2 Z5 
-0000012 150  NPM1    March                    Z2[i36.3.3 T1.3 T1.3[i37.2.1 
-0000012 160  MD      1st                      N4 T1.3 T1.3[i37.2.2 
+0000012 130  NPD1    Tuesday                  Z2[i34.3.1 T1.3 
+0000012 140  II      on                       Z2[i34.3.2 Z5 
+0000012 150  NPM1    March                    Z2[i34.3.3 T1.3 T1.3[i35.2.1 
+0000012 160  MD      1st                      N4 T1.3 T1.3[i35.2.2 
 0000012 161  .       .                        
 0000014 001  NULL    **8;7;text               

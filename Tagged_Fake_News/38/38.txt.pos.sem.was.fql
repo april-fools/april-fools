@@ -1,9 +1,10 @@
-TOTAL              317
+TOTAL              329
 terrible             A5.1-               14 
 the                  Z5                  13 
 i                    Z8                  12 
+it                   Z8                   9 
 a                    Z5                   8 
-its                  Z8                   8 
+'s                   A3+                  8 
 in                   Z5                   7 
 and                  Z5                   7 
 to                   Z5                   7 
@@ -14,10 +15,10 @@ some                 N5                   4
 this                 M6                   4 
 girl                 S2.1                 4 
 he                   Z8                   4 
-Donald               Z1                   3 
+Donald_trump         Z1                   3 
 dirty                O4.2-                3 
 about                Z5                   3 
-Lyin_Ted_Cruz        Z1                   3 
+lyin'                Z99                  3 
 with                 Z5                   3 
 of                   Z5                   3 
 call                 Q2.2                 3 
@@ -32,18 +33,20 @@ are                  Z5                   2
 calling              Q2.2                 2 
 very                 A13.3                2 
 this_morning         Z3                   2 
-Donald_trump         Z1                   2 
 beans                F1                   2 
 wife                 S4                   2 
 scooper              Z99                  2 
 was                  A3+                  2 
 Cruz                 Z2                   2 
+Ted_Cruz             Z1                   2 
 former               T2-                  2 
+Donald               Z1                   2 
 that                 Z5                   2 
 want                 X7+                  2 
 just                 A14                  2 
 Mr._Trump            Z1                   2 
 how                  Z5                   2 
+n't                  Z6                   2 
 but                  Z5                   2 
 GOP                  Z99                  2 
 why                  A2.2                 2 
@@ -54,13 +57,12 @@ these                Z5                   2
 have                 A9+                  2 
 poor                 I1.1-                2 
 Indianapolis         Z2                   1 
-trumps               K5.2                 1 
+'s                   Z5                   1 
 recent               T3-                  1 
 revelation           A10+                 1 
 low                  N3.7-                1 
 blow                 S8-                  1 
 politics             G1.2                 1 
-it                   Z8                   1 
 fair                 G2.2+                1 
 play                 K4                   1 
 game                 K5.1                 1 
@@ -71,6 +73,7 @@ promised             S6+                  1
 spilled              A1.1.1               1 
 his                  Z8                   1 
 opponent             S7.3                 1 
+Ted_Cruz'            Z1                   1 
 Heidi                Z1                   1 
 skype                Z99                  1 
 interview            Q2.1                 1 
@@ -95,7 +98,6 @@ in_possession_of     A9+                  1
 information          X2.2+                1 
 responded            S1.1.2+              1 
 did                  Z5                   1 
-nt                   S9                   1 
 have_to              S6+                  1 
 spill                A1.1.1               1 
 not                  Z6                   1 
@@ -154,8 +156,8 @@ endure               A1.1.1               1
 unsolicited          X7-                  1 
 calls                Q2.2                 1 
 from                 Z5                   1 
-wouldnt              Z99                  1 
-stop                 M3                   1 
+would                A7+                  1 
+stop                 T2-                  1 
 things               O2                   1 
 says                 Q2.1                 1 
 voters               G1.2                 1 

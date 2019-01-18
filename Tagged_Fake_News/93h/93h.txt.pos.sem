@@ -12,8 +12,9 @@
 0000002 080  II32    Support                  S8+[i1.3.2 
 0000002 090  II33    of                       S8+[i1.3.3 
 0000002 100  NN2     Christians               S9/S2mf 
-0000002 110  NP1     Obama                    Z1mf[i2.2.1 Z3c[i2.2.1 
-0000002 120  NP1     Isnt                     Z1mf[i2.2.2 Z3c[i2.2.2 
+0000002 110  NP1     Obama                    Z99 
+0000002 120  VBZ     Is                       A3+ Z5 
+0000002 121  XX      n't                      Z6 
 0000002 130  JJ      Happy                    E4.1+ E4.2+ 
 0000002 140  II      About                    Z5 
 0000002 150  DD1     This                     M6 Z5 Z8 

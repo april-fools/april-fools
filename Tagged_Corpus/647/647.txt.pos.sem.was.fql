@@ -1,14 +1,14 @@
-TOTAL              170
+TOTAL              172
 the                  Z5                  15 
 to                   Z5                   8 
 and                  Z5                   7 
 in                   Z5                   6 
 a                    Z5                   4 
 country              G1.1                 4 
+JAPAN                Z2                   3 
 it                   Z8                   3 
 of                   Z5                   3 
 aid                  S8+                  3 
-JAPAN                Z2                   2 
 quake                E5-                  2 
 magnitude            N3.2                 2 
 9.0                  N1                   2 
@@ -33,6 +33,7 @@ sultanate            Z99                  2
 Oman                 Z2                   2 
 red_cross            Z3                   2 
 efforts              X8+                  2 
+'s                   Z5                   2 
 disaster             A5.1---              2 
 AFP/Getty            Z99                  1 
 images               O4.1                 1 
@@ -47,7 +48,6 @@ said                 Q2.1                 1
 Monday               T1.3                 1 
 aftermath            N4                   1 
 sparked              O4.6+                1 
-Japans               Z2                   1 
 biggest              N3.2+++              1 
 humanitarian         S8+                  1 
 crisis               A12-                 1 
@@ -60,7 +60,7 @@ $300m                N3.3                 1
 damages              I1.1+                1 
 ranking              A5.1                 1 
 among                Z5                   1 
-worlds               W1                   1 
+world                W1                   1 
 costliest            I1.3+                1 
 natural              A6.2+                1 
 disasters            A5.1---              1 

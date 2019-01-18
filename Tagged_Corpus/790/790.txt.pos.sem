@@ -75,12 +75,14 @@
 0000004 340  MC      2007                     N1 T1.2 T3 T1.3 N3.2 
 0000004 341  .       .                        
 0000005 001  -----   -----                    
-0000006 010  JJ      Al-Mashhadanis           Z99 
+0000006 010  NN1     Al-Mashhadani            Z99 
+0000006 011  GE      's                       Z5 
 0000006 020  NN1     arrest                   G2.1 
 0000006 030  VBZ     is                       A3+ Z5 
 0000006 040  AT      the                      Z5 
 0000006 050  NP1     Iraq                     Z2 Z3c 
-0000006 060  NN2     governments              G1.1c 
+0000006 060  NN1     government               G1.1c 
+0000006 061  GE      's                       Z5 
 0000006 070  MD      first                    N4 
 0000006 080  NN1     stab                     E3- A1.1.1 X8+ B2- 
 0000006 090  II      at                       Z5 
@@ -150,7 +152,8 @@
 0000010 040  MD      73rd                     N4 T1.3 
 0000010 050  NP1     U.S.                     Z8 
 0000010 060  NN      Cavalry                  G3c 
-0000010 070  NN2     Regiments                G3/S5+c S5+c A1.7+ 
+0000010 070  NN1     Regiment                 G3/S5+c S5+c 
+0000010 071  GE      's                       Z5 
 0000010 080  NN1     Alpha                    Z5 
 0000010 090  NN1     Troop                    G3/S5+c G3/S2mf S5+c 
 0000010 100  VVD     arrived                  M1 T2- 
@@ -269,9 +272,10 @@
 0000014 270  JJ      Iraqi                    Z2 
 0000014 280  NN1     army                     G3c N5+ 
 0000014 281  ,       ,                        
-0000014 282  "       "                        
-0000014 283  NULL    </quote>                 
-0000014 284  -----   -----                    
+0000014 282  "@      '                        
+0000014 283  "       "                        
+0000014 284  NULL    </quote>                 
+0000014 285  -----   -----                    
 0000014 290  PPHS1   he                       Z8m 
 0000014 300  VVD     said                     Q2.1 
 0000014 310  MD      last                     T1.1.1[i15.2.1 N4 
@@ -280,7 +284,8 @@
 0000015 001  -----   -----                    
 0000016 010  NN1     Intelligence             X9.1+ X2.2+ S1.2.6+ 
 0000016 020  VVD     indicated                A10+ M6 Q1.1/M3 
-0000016 030  JJ      al-Mashhadanis           Z99 
+0000016 030  NN1     al-Mashhadani            Z99 
+0000016 031  GE      's                       Z5 
 0000016 040  NN1     part                     N5.1- O2 M7 I3.1 S1.1.3+ K4 
 0000016 050  II      in                       Z5 
 0000016 060  AT1     a                        Z5 
@@ -333,7 +338,8 @@
 0000020 100  NN1     Sunni                    S9/S2mf 
 0000020 110  NN1     neighborhood             N3.3-/H3c N3.3-/S2mf M7/N3.3- 
 0000020 120  CS      since                    Z5 
-0000020 130  JJ      al-Mashhadanis           Z99 
+0000020 130  NN1     al-Mashhadani            Z99 
+0000020 131  GE      's                       Z5 
 0000020 140  NN1     arrest                   G2.1 
 0000020 141  .       .                        
 0000020 142  -----   -----                    
@@ -390,7 +396,8 @@
 0000022 290  MC      eight                    N1 T1.2 T3 T1.3 N3.2 
 0000022 300  NNT2    hours                    T1.3 
 0000022 310  II      after                    Z5 
-0000022 320  JJ      al-Mashhadanis           Z99 
+0000022 320  NN1     al-Mashhadani            Z99 
+0000022 321  GE      's                       Z5 
 0000022 330  NN1     arrest                   G2.1 
 0000022 331  ,       ,                        
 0000022 340  VVG     taking                   A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
@@ -538,6 +545,7 @@
 0000030 182  NULL    </quote>                 
 0000030 183  -----   -----                    
 0000030 190  NN2     members                  S5+/S2mf B1 
+0000030 191  GE      '                        Z5 
 0000030 200  NN2     houses                   H1 P1/S5+c G1.1c 
 0000030 210  II      in                       T1.1.1[i23.4.1 Z5 
 0000030 220  AT      the                      T1.1.1[i23.4.2 Z5 
@@ -547,15 +555,17 @@
 0000030 250  NN2     weapons                  G3 X4.1 
 0000030 260  II      beyond                   Z5 
 0000030 270  AT      the                      Z5 
-0000030 280  NN2     groups                   S5+ A4.1 B3% 
+0000030 280  NN1     group                    S5+c A4.1c B3% 
+0000030 281  GE      's                       Z5 
 0000030 290  JJ      standard                 A6.2+ 
 0000030 300  MC2     AK-47s                   T1.3 N1 T3 
 0000030 301  .       .                        
 0000031 001  -----   -----                    
-0000032 010  NN2     Fadhils                  Z99 
-0000032 011  NULL    <quote>                  
-0000032 012  -----   -----                    
-0000032 013  "       "                        
+0000032 010  NP1@    Fadhil                   Z99 
+0000032 011  GE      's                       Z5 
+0000032 012  NULL    <quote>                  
+0000032 013  -----   -----                    
+0000032 014  "       "                        
 0000032 020  NN2     Sons                     S4m 
 0000032 030  IO      of                       Z5 
 0000032 040  NP1     Iraq                     Z2 Z3c 
@@ -586,7 +596,8 @@
 0000032 230  NN1     Squadron                 M5/S5+c G3/S5+c S5+c 
 0000032 240  NN2     officials                G1.1/S2mf S7.1+/S2mf 
 0000032 250  VV0     say                      Q2.1 Z4% 
-0000032 260  JJ      al-Mashhadanis           Z99 
+0000032 260  NN1     al-Mashhadani            Z99 
+0000032 261  GE      's                       Z5 
 0000032 270  JJ      senior                   S7.1++ T3++ 
 0000032 280  NN2     aides                    S8+/S2mf 
 0000032 290  VBDR    were                     Z5 A3+ 
@@ -599,7 +610,8 @@
 0000032 360  NN1     arrest                   G2.1 
 0000032 361  .       .                        
 0000033 001  -----   -----                    
-0000034 010  JJ      Al-Mashhadanis           Z99 
+0000034 010  NN1     Al-Mashhadani            Z99 
+0000034 011  GE      's                       Z5 
 0000034 020  NN1     arrest                   G2.1 
 0000034 030  CC      and                      Z5 
 0000034 040  AT      the                      Z5 
@@ -618,7 +630,8 @@
 0000034 131  "       "                        
 0000034 132  NULL    </quote>                 
 0000034 133  -----   -----                    
-0000034 140  NN2     members                  S5+/S2mf B1 
+0000034 140  NN1     member                   S5+/S2mf B1 
+0000034 141  GE      's                       Z5 
 0000034 150  JJ      daily                    T1.1.2 N6+ 
 0000034 160  NN2     duties                   S6+ G1.1/I1.3 T1.3/I3.1 
 0000034 170  VV0     highlight                X5.1+ 
@@ -629,7 +642,8 @@
 0000034 220  DD      some                     N5 Z5 
 0000034 230  IO      of                       Z5 
 0000034 240  AT      the                      Z5 
-0000034 250  NN2     groups                   S5+ A4.1 B3% 
+0000034 250  NN1     group                    S5+c A4.1c B3% 
+0000034 251  GE      's                       Z5 
 0000034 260  NN2     leaders                  S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
 0000034 270  CC      and                      Z5 
 0000034 280  NN2     members                  S5+/S2mf B1 
@@ -690,7 +704,8 @@
 0000036 480  VVN     folded                   A1.1.1 T2- 
 0000036 490  II      into                     Z5 
 0000036 500  AT      the                      Z5 
-0000036 510  NN2     governments              G1.1c 
+0000036 510  NN1     government               G1.1c 
+0000036 511  GE      's                       Z5 
 0000036 520  NN1     security                 G2.1 A15+ E6+ I1.1 
 0000036 530  NN2     forces                   G3 G2.1 E3- S7.1+ N3 S5+ 
 0000036 531  ,       ,                        
@@ -824,7 +839,8 @@
 0000042 510  NN1     Russo                    Z99 
 0000042 520  IO      of                       Z5 
 0000042 530  NN1     Alpha                    Z5 
-0000042 540  NN2     Troops                   G3/S5+ G3/S2mf S5+ 
+0000042 540  NN1     Troop                    G3/S5+c G3/S2mf S5+c 
+0000042 541  GE      's                       Z5 
 0000042 550  MD      2nd                      N4 T1.3 
 0000042 560  NN1     Platoon                  G3/S5+c 
 0000042 561  .       .                        
@@ -855,7 +871,8 @@
 0000044 162  NULL    <quote>                  
 0000044 163  -----   -----                    
 0000044 164  "       "                        
-0000044 170  NP1     Theres                   Z5 M6 T1.2 
+0000044 170  EX      There                    Z5 
+0000044 171  VBZ     's                       A3+ Z5 
 0000044 180  AT1     a                        Z5 
 0000044 190  NNO     million                  N1 I1 
 0000044 200  JJ      different                A6.1- 
@@ -874,7 +891,8 @@
 0000046 040  VVD     seemed                   A8 
 0000046 050  VVN     torn                     A1.1.1 
 0000046 060  II      about                    Z5 
-0000046 070  JJ      al-Mashhadanis           Z99 
+0000046 070  NN1     al-Mashhadani            Z99 
+0000046 071  GE      's                       Z5 
 0000046 080  NN1     removal                  M2 
 0000046 081  .       .                        
 0000047 001  -----   -----                    
@@ -983,7 +1001,7 @@
 0000052 080  AT      the                      Z5 
 0000052 090  NN1     army                     G3c N5+ 
 0000052 100  VDZ     does                     A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
-0000052 101  XX      nt                       S9/Q4.1 Z3c 
+0000052 101  XX      n't                      Z6 
 0000052 110  NN1     man                      S2.2m 
 0000052 120  CSA     as                       Z5 
 0000052 130  DA2     many                     N5+ 
@@ -1122,7 +1140,8 @@
 0000062 002  -----   -----                    
 0000062 003  "       "                        
 0000062 010  PPIS1   I                        Z8mf 
-0000062 020  VV0     havent                   Z99 
+0000062 020  VH0     have                     Z5 A9+ A2.2 S4 
+0000062 021  XX      n't                      Z6 
 0000062 030  RR      even                     A13.1 
 0000062 040  VVN     seen                     X3.4 X2.1 S1.1.1 X2.5+ A7+ 
 0000062 050  PPHO2   them                     Z8mfn 

@@ -1,4 +1,4 @@
-TOTAL              481
+TOTAL              486
 the                  Z5                  34 
 to                   Z5                  11 
 in                   Z5                  10 
@@ -22,6 +22,7 @@ again                N6+                  4
 vote                 G1.2                 4 
 said                 Q2.1                 4 
 box                  O2                   4 
+it                   Z8                   3 
 election             G1.2                 3 
 been                 Z5                   3 
 as                   Z5                   3 
@@ -40,7 +41,6 @@ these                Z5                   3
 has                  Z5                   3 
 were                 A3+                  3 
 was                  A3+                  3 
-it                   Z8                   2 
 that                 Z5                   2 
 have                 Z5                   2 
 do                   A1.1.1               2 
@@ -58,6 +58,7 @@ but                  Z5                   2
 so                   Z5                   2 
 perhaps              A7                   2 
 we                   Z8                   2 
+'s                   Z5                   2 
 Crider               Z99                  2 
 facebook             Z3                   2 
 an                   Z5                   2 
@@ -75,12 +76,13 @@ from                 Z5                   2
 turns_out            A1.1.1               1 
 rigged               G2.2-                1 
 after_all            Z4                   1 
-its                  Z8                   1 
-just                 S1.2                 1 
+'s                   A3+                  1 
+just                 A14                  1 
 Hillary_Clinton      Z1                   1 
 her                  Z8                   1 
 democrats            Z3                   1 
-cant                 Q2.1                 1 
+ca                   A7+                  1 
+n't                  Z6                   1 
 any                  N5.1+                1 
 job                  I3.1                 1 
 right                S7.4+                1 
@@ -118,6 +120,7 @@ quite                A13.5                1
 old                  T3+                  1 
 in_fact              A5.2+                1 
 87                   N1                   1 
+'                    Z5                   1 
 optical              X3.4                 1 
 scanners             O3                   1 
 broke                A1.1.2               1 
@@ -190,10 +193,10 @@ Ken_Crider           Z1                   1
 keeping_a_eye_on     X3.4                 1 
 close                N3.3-                1 
 his                  Z8                   1 
-districts            M7                   1 
+district             Z3                   1 
 process              A1.1.1               1 
 post                 Q1.2                 1 
-Pennys               I1                   1 
+Penny                I1                   1 
 #152                 I1                   1 
 had                  A9+                  1 
 everything           Z8                   1 

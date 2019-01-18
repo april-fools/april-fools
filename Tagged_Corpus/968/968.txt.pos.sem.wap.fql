@@ -1,4 +1,4 @@
-TOTAL              532
+TOTAL              537
 the                  AT             39 
 in                   II             15 
 of                   IO             14 
@@ -6,6 +6,7 @@ a                    AT1            13
 real                 JJ             11 
 at                   II             11 
 and                  CC              8 
+'s                   GE              8 
 to                   TO              7 
 with                 IW              6 
 Madrid               NP1             6 
@@ -44,7 +45,6 @@ memorable            JJ              2
 english              JJ              2 
 stage                NN1             2 
 positive             JJ              2 
-'s                   GE              2 
 last                 MD              2 
 16                   MC              2 
 2006                 MC              2 
@@ -62,6 +62,7 @@ solitary             JJ              2
 strike               NN1             2 
 simply               RR              2 
 united               JJ              2 
+who                  PNQS            2 
 before               RT              2 
 1962                 MC              2 
 big                  JJ              1 
@@ -131,7 +132,7 @@ Thierry_Henry        NP1             1
 other                JJ              1 
 ideas                NN2             1 
 minutes              NNT2            1 
-frenchmans           NN2             1 
+frenchman            NN1             1 
 magnificent          JJ              1 
 solo                 NN1             1 
 slaloming            VVG             1 
@@ -179,7 +180,7 @@ outclassed           VVN             1
 still                RR              1 
 packed               VVN             1 
 full                 JJ              1 
-worlds               NN2             1 
+world                NN1             1 
 brightest            JJT             1 
 talent               NN1             1 
 executing            VVG             1 
@@ -230,7 +231,7 @@ celebrating          VVG             1
 destruction          NN1             1 
 Manchester_united    NP1             1 
 4-3                  MCMC            1 
-George_Bests         NP1             1 
+George_Best          NP1             1 
 old_Trafford         JJ              1 
 given                VVN             1 
 united               VVD             1 
@@ -249,8 +250,8 @@ showed               VVD             1
 grit                 NN1             1 
 endemic              JJ              1 
 club                 NN1             1 
-whod                 NN1             1 
-had_to               VHD             1 
+'d                   VHD             1 
+had_to               VHN             1 
 rebuild              VVI             1 
 following            VVG             1 
 Munich               NP1             1 
@@ -265,10 +266,8 @@ Foulkes              NP2             1
 secured              VVD             1 
 draw                 NN1             1 
 night                NNT1            1 
-Sir_Matt             NNB             1 
-Busbys               NP2             1 
+Sir_Matt_Busby       NNB             1 
 men                  NN2             1 
-who                  PNQS            1 
 lift                 VVI             1 
 trophy               NN1             1 
 Wembley              NP1             1 
@@ -288,7 +287,7 @@ last-16              MC              1
 only                 RR              1 
 once                 RR              1 
 dined                VVN             1 
-Europes              NP2             1 
+Europe               NP1             1 
 top                  JJ              1 
 table                NN1             1 
 class                NN1             1 
@@ -302,8 +301,7 @@ double               NN1             1
 defeat               VV0             1 
 Prague               NP1             1 
 thanks               NN2             1 
-Rudolf               NP1             1 
-Kuceras              NP2             1 
+Rudolf_Kucera        NP1             1 
 rendered             VVN             1 
 meaningless          JJ              1 
 within               II              1 

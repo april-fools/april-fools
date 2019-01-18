@@ -1,4 +1,4 @@
-TOTAL              112
+TOTAL              113
 the                  Z5                   5 
 a                    Z5                   4 
 she                  Z8                   4 
@@ -18,6 +18,7 @@ killing              L1-                  2
 car                  M3                   2 
 was                  A3+                  2 
 when                 Z5                   2 
+'s                   Z5                   2 
 REDDING              Z99                  1 
 Calif                Z2                   1 
 who                  Z8                   1 
@@ -66,9 +67,8 @@ those                Z5                   1
 transactions         I2.2                 1 
 hit                  E3-                  1 
 46-year-old          Z99                  1 
-Petra                Z3                   1 
-Winns                Z99                  1 
-Matis-Engles         Z99                  1 
+Petra_Winn           Z1                   1 
+Matis-Engle          Z99                  1 
 attorney             G2.1                 1 
 Jeffrey_Stotter      Z1                   1 
 he                   Z8                   1 

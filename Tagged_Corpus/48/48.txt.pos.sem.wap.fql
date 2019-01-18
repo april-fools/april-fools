@@ -1,4 +1,4 @@
-TOTAL              177
+TOTAL              179
 the                  AT             11 
 i                    PPIS1           7 
 and                  CC              4 
@@ -11,6 +11,9 @@ a                    AT1             3
 here                 RL              3 
 to                   TO              3 
 your                 APPGE           3 
+n't                  XX              3 
+it                   PPH1            2 
+'s                   VBZ             2 
 that                 CST             2 
 major                JJ              2 
 his                  APPGE           2 
@@ -19,13 +22,11 @@ settle_down          VV0             2
 'm                   VBM             2 
 q                    ZZ1             2 
 Q.                   NP1             2 
-n't                  XX              2 
 do                   VDI             2 
 would                VM              2 
 if                   CS              2 
 answer               NN1             2 
 'll                  VM              2 
-its                  APPGE           1 
 about                II              1 
 time                 NNT1            1 
 finally              RR              1 
@@ -54,7 +55,8 @@ telling              VVG             1
 excerpts             NN2             1 
 from                 II              1 
 press_conference     NN1             1 
-Mr._Rumsfelds        NNB             1 
+Mr._Rumsfeld         NNB             1 
+'s                   GE              1 
 responses            NN2             1 
 inimitable_style     JJ              1 
 Rumsfeld             NP1             1 
@@ -63,8 +65,6 @@ hell                 NN1             1
 an                   AT1             1 
 old                  JJ              1 
 man                  NN1             1 
-it                   PPH1            1 
-'s                   VBZ             1 
 early                JJ              1 
 morning              NNT1            1 
 gathering            VVG             1 
@@ -104,7 +104,6 @@ ii                   MC              1
 instrumental         JJ              1 
 decision             NN1             1 
 resign               VVI             1 
-nt                   XX              1 
 book_reviews         NN1             1 
 how                  RRQ             1 
 sum_up               VVI             1 

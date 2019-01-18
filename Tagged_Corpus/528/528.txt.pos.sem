@@ -162,14 +162,15 @@
 0000008 001  NULL    <quote>                  
 0000008 002  -----   -----                    
 0000008 010  PPY     You                      Z8mf 
-0000008 020  JJ      cant                     Q2.1 Z1mf Z1 
-0000008 030  VV0     take                     A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000008 020  VM      ca                       A7+ 
+0000008 021  XX      n't                      Z6 
+0000008 030  VVI     take                     A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
 0000008 040  AT1     a                        Z5 
 0000008 050  JJ      cheap                    I1.3- O4.2- 
 0000008 060  NN1     plywood                  O2 
 0000008 070  NN1     guitar                   K2 
 0000008 080  CC      and                      Z5 
-0000008 090  VV0     turn                     A2.1+[i5.2.1 M2 M1 O4.4 A1.1.1 A2.1+ O4.2- 
+0000008 090  VVI     turn                     A2.1+[i5.2.1 M2 M1 O4.4 A1.1.1 A2.1+ O4.2- 
 0000008 100  PPH1    it                       Z8 
 0000008 110  II      into                     A2.1+[i5.2.2 Z5 
 0000008 120  AT1     a                        Z5 
@@ -382,15 +383,17 @@
 0000018 060  RL      together                 A1.1.1[i25.2.2 M2[i25.2.2 A9+[i25.2.2 S5+ T1.1.2 M6 A1.1.1[i26.2.2 
 0000018 070  VVD     improved                 A5.1+/A2.1 
 0000018 080  AT      the                      Z5 
-0000018 090  NN2     instruments              O2 K2 X4.2 B3 Y1 
-0000018 100  VV0@    tone                     B4 O4.3 A2.1+ B1 
+0000018 090  NN1     instrument               O2 K2 X4.2 B3 Y1 
+0000018 091  GE      's                       Z5 
+0000018 100  NN1     tone                     E1 X3.2 K2 A4.1 O4.3 B1 
 0000018 110  RR      enough                   N5+ N6+ 
 0000018 120  II      after                    Z5 
 0000018 130  AT1     a                        Z5 
 0000018 140  NNT1    month                    T1.3 
 0000018 150  CST     that                     Z5 Z8 
 0000018 160  AT      the                      Z5 
-0000018 170  NN2     cellos                   K2 
+0000018 170  NN1     cello                    K2 
+0000018 171  GE      's                       Z5 
 0000018 180  NN1     maker                    A1.1.1/S2mf 
 0000018 181  ,       ,                        
 0000018 190  CC      or                       Z5 
@@ -654,7 +657,7 @@
 0000030 151  ,       ,                        
 0000030 160  PPH1    it                       Z8 
 0000030 170  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000030 171  XX      nt                       S9/Q4.1 Z3c 
+0000030 171  XX      n't                      Z6 
 0000030 180  VVI     simulate                 A6.1+ 
 0000030 190  NN1     practice                 A1.1.1 I3.1/S5+c 
 0000030 191  ,       ,                        

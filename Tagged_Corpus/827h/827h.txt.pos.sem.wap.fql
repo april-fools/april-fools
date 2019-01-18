@@ -1,6 +1,6 @@
 TOTAL                6
-Gordon               NP1             1 
-browns               VVZ             1 
+Gordon_Brown         NP1             1 
+'s                   GE              1 
 poisonous            JJ              1 
 legacy               NN1             1 
 lives                VVZ             1 

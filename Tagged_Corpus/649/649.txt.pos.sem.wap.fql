@@ -1,11 +1,11 @@
-TOTAL              416
+TOTAL              420
 the                  AT             38 
 her                  APPGE          15 
 and                  CC             14 
+woman                NN1            10 
 he                   PPHS1          10 
 was                  VBDZ            9 
 she                  PPHS1           8 
-woman                NN1             8 
 a                    AT1             7 
 had                  VHD             7 
 of                   IO              7 
@@ -14,6 +14,8 @@ from                 II              5
 said                 VVD             5 
 on                   II              5 
 that                 CST             5 
+man                  NN1             5 
+'s                   GE              4 
 throat               NN1             4 
 yesterday            RT              4 
 who                  PNQS            4 
@@ -21,7 +23,6 @@ to                   II              4
 with                 IW              4 
 police               NN2             4 
 to                   TO              4 
-man                  NN1             4 
 Limerick             NP1             4 
 body                 NN1             3 
 news                 NN1             3 
@@ -58,8 +59,7 @@ her                  PPHO1           2
 him                  PPHO1           2 
 leave                VVI             2 
 door                 NN1             2 
-womans               NN2             2 
-Pamela_Mangrus       NP1             1 
+Pamela_Mangru        NP1             1 
 killer               NN1             1 
 stabbed              VVD             1 
 turning              VVG             1 
@@ -111,8 +111,7 @@ most                 DAT             1
 all                  DB              1 
 did                  VDD             1 
 know                 VVI             1 
-mans                 NN2             1 
-whereabouts          RRQ             1 
+whereabouts          NN2             1 
 stabroek             VV0             1 
 received             VVD             1 
 information          NN1             1 

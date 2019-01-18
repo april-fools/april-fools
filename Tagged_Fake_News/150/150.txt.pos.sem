@@ -2,7 +2,8 @@
 0000001 002  -----   -----                    
 0000002 010  PPH1    It                       Z8 
 0000002 020  VVZ     seems                    A8 
-0000002 030  VBDR    were                     Z5 A3+ 
+0000002 030  PPIS2   we                       Z8 
+0000002 031  VBR     're                      Z5 A3+ 
 0000002 040  VVG     entering                 M1 S5+ Q1.2 T2+ A1.8+ 
 0000002 050  DD1     another                  A6.1- N5++ 
 0000002 060  IO      of                       Z5 
@@ -48,6 +49,7 @@
 0000004 220  CST     that                     Z5 Z8 
 0000004 230  DAT     most                     N5+++ 
 0000004 240  NN2     peoples                  S2mf 
+0000004 241  GE      '                        Z5 
 0000004 250  NN1     perspective              X4.1 C1 
 0000004 260  IO      of                       Z5 
 0000004 270  NN1     history                  T1.1.1 P1/T1.1.1 Q2.1 B2 
@@ -108,7 +110,7 @@
 0000004 750  CS      if                       Z7 
 0000004 760  PPIS1   I                        Z8mf 
 0000004 770  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000004 771  XX      nt                       S9/Q4.1 Z3c 
+0000004 771  XX      n't                      Z6 
 0000004 780  VVI     compare                  A6.1 A5.1 Q3 
 0000004 790  RR21    at                       A13.7[i4.2.1 
 0000004 800  RR22    least                    A13.7[i4.2.2 A13.7 
@@ -132,7 +134,7 @@
 0000004 950  CSA     as                       Z5 
 0000004 960  NN1     gospel                   S9/Q4.1 A5.2+ K2 
 0000004 970  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000004 971  XX      nt                       S9/Q4.1 Z3c 
+0000004 971  XX      n't                      Z6 
 0000004 980  VVI     wash                     B4 
 0000004 990  II      in                       Z5 
 0000004 000  AT      the                      Z5 
@@ -151,15 +153,17 @@
 0000004 121  .       .                        
 0000004 122  -----   -----                    
 0000004 123  (       (                        
-0000004 130  MC1@    I                        Z8 
-0000004 140  NN1     cant                     Q2.1 
-0000004 150  VV0     speak                    Q2.1 
+0000004 130  PPIS1   I                        Z8mf 
+0000004 140  VM      ca                       A7+ 
+0000004 141  XX      n't                      Z6 
+0000004 150  VVI     speak                    Q2.1 
 0000004 160  IF      for                      Z5 
 0000004 170  JJ      other                    A6.1- 
 0000004 180  NN2     systems                  X4.2 O3 M3 M4 Q1.3 Y2 B1 N2 
 0000004 181  ,       ,                        
 0000004 190  CCB     but                      Z5 
-0000004 200  NN1     theyre                   Z99 
+0000004 200  PPHS2   they                     Z8mfn 
+0000004 201  VBR     're                      A3+ Z5 
 0000004 210  RR      definitely               A7+++ 
 0000004 220  XX      not                      Z6 
 0000004 230  DB      all                      N5.1+ 
@@ -242,7 +246,8 @@
 0000006 580  AT      The                      Z5 
 0000006 590  NN1     opening                  A1.1.1 T2+ O2 I3.1 
 0000006 600  IO      of                       Z5 
-0000006 610  NP2     Boccaccios               Z99 
+0000006 610  NP1     Boccaccio                Z99 
+0000006 611  GE      's                       Z5 
 0000006 620  NN1     Decameron                Z99 
 0000006 630  VVZ     describes                Q2.2 
 0000006 640  NP1     Florence                 Z2 Z1f 
@@ -275,12 +280,13 @@
 0000006 850  PPY     you                      Z8mf 
 0000006 860  RG      quite                    A13.5 A13.6 A13.2 
 0000006 870  RR      literally                A13.2 Q3 
-0000006 880  NN1     cant                     Q2.1 
-0000006 890  VVD     put                      M2 Q2.1 Q2.2 A1.1.1 
+0000006 880  VM      ca                       A7+ 
+0000006 881  XX      n't                      Z6 
+0000006 890  VVI     put                      M2 Q2.1 Q2.2 A1.1.1 
 0000006 900  PPX1    yourself                 Z8 
 0000006 910  RL      there                    M6 T1.2 
 0000006 920  CC      and                      Z5 
-0000006 930  VV0     imagine                  X2.1 A5.2- 
+0000006 930  VVI     imagine                  X2.1 A5.2- 
 0000006 940  DDQ     what                     Z8 Z5 
 0000006 950  PPH1    it                       Z8 
 0000006 960  VBDZ    was                      A3+ Z5 
@@ -576,7 +582,8 @@
 0000013 460  JJ      Civil                    G3[i34.2.1 G1.1 S1.2.4+ G2.1 H1% 
 0000013 470  NN1     War                      G3[i34.2.2 G3 S7.3 
 0000013 471  ...     ...                      
-0000013 480  APPGE   its                      Z8 
+0000013 480  PPH1    it                       Z8 
+0000013 481  VBZ     's                       A3+ Z5 
 0000013 490  AT1     a                        Z5 
 0000013 500  JJ      long                     N3.7+ T1.3+ N3.3+ N3.2+ 
 0000013 510  NN1     list                     Q1.2 N4 M4 
@@ -761,11 +768,12 @@
 0000017 240  NN1     perspective              X4.1 C1 
 0000017 250  PPHS2   they                     Z8mfn 
 0000017 260  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000017 261  XX      nt                       S9/Q4.1 Z3c 
+0000017 261  XX      n't                      Z6 
 0000017 270  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
-0000017 280  CST     that                     Z5 Z8 
-0000017 290  APPGE   its                      Z8 
-0000017 300  NN1     happening                A2.1+ A3+/X2.6- 
+0000017 280  CST     that                     Z8 Z5 
+0000017 290  PPH1    it                       Z8 
+0000017 291  VBZ     's                       Z5 A3+ 
+0000017 300  VVG     happening                A2.1+ A3+ X7- 
 0000017 310  RT      again                    N6+ Z4 
 0000017 311  .       .                        
 0000017 312  -----   -----                    
@@ -858,7 +866,8 @@
 0000019 120  VBN     been                     Z5 A3+ 
 0000019 130  VVN     prevented                S8- 
 0000019 140  CS      if                       Z7 
-0000019 150  NN1     youd                     Z99 
+0000019 150  PPY     you                      Z8mf 
+0000019 151  VHD     'd                       Z5 
 0000019 160  VVN     listened                 X3.2 
 0000019 170  CC      and                      Z5 
 0000019 180  VVN     thought                  X2.1 
@@ -1124,9 +1133,10 @@
 0000024 040  NNT1    time                     T1.1.1[i69.3.3 T1.1.2[i69.3.3 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000024 050  NN      people                   S2mfc 
 0000024 060  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000024 061  XX      nt                       S9/Q4.1 Z3c 
+0000024 061  XX      n't                      Z6 
 0000024 070  VVI     realize                  X2.5+ X9.2+ 
-0000024 080  NN1     theyre                   Z99 
+0000024 080  PPHS2   they                     Z8mfn 
+0000024 081  VBR     're                      Z5 A3+ 
 0000024 090  VVG     embarking                T2+[i70.2.1 M1 T2+ 
 0000024 100  II      on                       T2+[i70.2.2 Z5 
 0000024 110  AT1     a                        Z5 
@@ -1142,11 +1152,13 @@
 0000024 192  -----   -----                    
 0000024 200  PPHS2   They                     Z8mfn 
 0000024 210  VV0     think                    X2.1 
-0000024 220  NN1     theyre                   Z99 
-0000024 230  NN1     right                    S7.4+ G2.2+ M6 G1.2 
+0000024 220  PPHS2   they                     Z8mfn 
+0000024 221  VBR     're                      A3+ Z5 
+0000024 230  JJ      right                    A5.3+ A4.2+ A1.2+ G2.2+ M6 N3.2+ A13.3 A13.2 
 0000024 231  ,       ,                        
-0000024 240  NN1     theyre                   Z99 
-0000024 250  VVD     cheered                  Q2.2[i72.2.1 Q2.2 E4.1+ 
+0000024 240  PPHS2   they                     Z8mfn 
+0000024 241  VBR     're                      Z5 A3+ 
+0000024 250  VVN     cheered                  Q2.2[i72.2.1 Q2.2 E4.1+ 
 0000024 260  RP@     on                       Q2.2[i72.2.2 M6 A1.1.1 
 0000024 270  II      by                       Z5 
 0000024 280  VVG     jeering                  S7.2- S1.2.4- 
@@ -1245,7 +1257,7 @@
 0000030 020  DAT     Most                     N5+++ 
 0000030 030  NN      people                   S2mfc 
 0000030 040  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000030 041  XX      nt                       S9/Q4.1 Z3c 
+0000030 041  XX      n't                      Z6 
 0000030 050  VVI     read                     Q3 Q1.2 X3.2+ X2.5+ P1 A10+ 
 0000030 051  ,       ,                        
 0000030 060  VV0     think                    X2.1 
@@ -1383,8 +1395,9 @@
 0000032 070  II      to                       A4.2+[i81.3.1 Z5 
 0000032 080  AT      the                      A4.2+[i81.3.2 Z5 
 0000032 090  NN1     point                    A4.2+[i81.3.3 Q2.1 X4.1 A5.1 A1.5.2 M7 T1.2 O4.4 O3 K5 
-0000032 100  CST     that                     Z5 Z8 
-0000032 110  APPGE   its                      Z8 
+0000032 100  CST     that                     Z8 Z5 
+0000032 110  PPH1    it                       Z8 
+0000032 111  VBZ     's                       A3+ Z5 
 0000032 120  JJ      ready                    O4.1 A1.2+ X7+ T2+ A9+/A12+ X9.1+ 
 0000032 130  IF      for                      Z5 
 0000032 140  NN1     Trump                    Z1mf 
@@ -1557,7 +1570,8 @@
 0000036 521  ,       ,                        
 0000036 530  UH      Oh                       Z4 
 0000036 531  ,       ,                        
-0000036 540  VV0     youre                    Z99 
+0000036 540  PPY     you                      Z8mf 
+0000036 541  VBR     're                      Z5 A3+ 
 0000036 550  VVGK    going                    T1.1.3[i89.2.1 
 0000036 560  TO      to                       T1.1.3[i89.2.2 Z5 
 0000036 570  VVI     blame                    Q2.2/G2.2- G2.1 
@@ -1571,7 +1585,7 @@
 0000036 620  CCB     But                      Z5 
 0000036 630  PPHS2   they                     Z8mfn 
 0000036 640  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000036 641  XX      nt                       S9/Q4.1 Z3c 
+0000036 641  XX      n't                      Z6 
 0000036 650  VVI     realize                  X2.5+ X9.2+ 
 0000036 660  CST     that                     Z8 Z5 
 0000036 670  RR      actually                 A5.4+ A14 
@@ -1821,7 +1835,8 @@
 0000042 520  NN1     force                    E3- S7.1+ G2.1c N3 S5+c 
 0000042 530  II      in                       Z5 
 0000042 540  VVG     suppressing              S7.4- A10- 
-0000042 550  NN2@    Putins                   Z99 
+0000042 550  NP1     Putin                    Z99 
+0000042 551  GE      's                       Z5 
 0000042 560  JJ      military                 G3 
 0000042 570  NN2     ambitions                X7+ 
 0000042 571  .       .                        
@@ -1838,7 +1853,8 @@
 0000042 660  CC      and                      Z5 
 0000042 670  VVD     helped                   S8+ 
 0000042 680  NN1     temper                   E1 E3- 
-0000042 690  NP2     Russias                  Z2 
+0000042 690  NP1     Russia                   Z2 
+0000042 691  GE      's                       Z5 
 0000042 700  NN2     attacks                  E3- G3 B2- A1.1.2 Q2.2 
 0000042 710  II      on                       Z5 
 0000042 720  NP1     Ukraine                  Z2 Z3c 
@@ -2250,8 +2266,9 @@
 0000050 040  II      in                       M1[i110.2.2 A1.5.2+[i110.2.2 O4.2+[i110.2.2 S1.1.3+[i110.2.2 T2+[i110.2.2 Z5 
 0000050 050  NN2     ways                     X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
 0000050 060  PPIS2   we                       Z8 
-0000050 070  NN1     cant                     Q2.1 
-0000050 080  VV0     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000050 070  VM      ca                       A7+ 
+0000050 071  XX      n't                      Z6 
+0000050 080  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
 0000050 090  VVG     coming                   M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
 0000050 091  ,       ,                        
 0000050 100  CC      and                      Z5 
@@ -2263,7 +2280,8 @@
 0000050 160  RG      so                       A13.3 
 0000050 170  JJ      fast                     N3.8+ 
 0000050 180  NN      people                   S2mfc 
-0000050 190  NN1     wont                     A6.2+ 
+0000050 190  VM      wo                       T1.1.3 
+0000050 191  XX      n't                      Z6 
 0000050 200  VBI     be                       A3+ Z5 
 0000050 210  JK      able                     X9.1+ 
 0000050 220  TO      to                       Z5 
@@ -2336,8 +2354,9 @@
 0000050 800  CC      and                      Z5 
 0000050 810  RRQ     how                      Z5 A13.3 
 0000050 820  PPIS2   we                       Z8 
-0000050 830  VV0     shouldnt                 Z99 
-0000050 840  VV0     blame                    Q2.2/G2.2- G2.1 
+0000050 830  VM      should                   S6+ A7+ 
+0000050 831  XX      n't                      Z6 
+0000050 840  VVI     blame                    Q2.2/G2.2- G2.1 
 0000050 850  PN1     everything               Z8/N5.1+ 
 0000050 860  II      on                       Z5 
 0000050 870  NP1     Brexit                   Z99 
@@ -2370,7 +2389,8 @@
 0000050 100  CC      and                      Z5 
 0000050 110  UH      yes                      Z4 
 0000050 111  ,       ,                        
-0000050 120  NP2     Godwins                  Z99 
+0000050 120  NP1     Godwin                   Z99 
+0000050 121  GE      's                       Z5 
 0000050 130  NN1     Law                      G2.1 S6+ Y1 
 0000050 131  .       .                        
 0000050 132  -----   -----                    
@@ -2397,7 +2417,8 @@
 0000050 321  )       )                        
 0000050 322  .       .                        
 0000050 323  -----   -----                    
-0000050 330  APPGE   Its                      Z8 
+0000050 330  PPH1    It                       Z8 
+0000050 331  VBZ     's                       A3+ Z5 
 0000050 340  JJ      easy                     A12+ 
 0000050 350  TO      to                       Z5 
 0000050 360  VVI     jump                     M1 N5+/A2.1 A1.9 
@@ -2438,7 +2459,8 @@
 0000050 690  PPHO2   them                     Z8mfn 
 0000050 691  .       .                        
 0000050 692  -----   -----                    
-0000050 700  APPGE   Its                      Z8 
+0000050 700  PPH1    It                       Z8 
+0000050 701  VBZ     's                       A3+ Z5 
 0000050 710  AT1     an                       Z5 
 0000050 720  JJ      easy                     A12+ 
 0000050 730  NN1     route                    M6 X4.2 
@@ -2461,7 +2483,8 @@
 0000052 100  II      around                   Z5 
 0000052 110  NP1     Brexit                   Z99 
 0000052 120  CC      and                      Z5 
-0000052 130  VVZ     Trumps                   K5.2 
+0000052 130  NN1     Trump                    Z1mf 
+0000052 131  GE      's                       Z5 
 0000052 140  NN1     campaign                 X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 G3 
 0000052 141  ,       ,                        
 0000052 150  VBZ     is                       A3+ Z5 
@@ -2482,8 +2505,9 @@
 0000052 290  RT      then                     N4 Z5 T1.2 
 0000052 300  VVG     finding                  A10+ X2.1 X6+ 
 0000052 310  JJR     later                    T4-- T1.1.3 N4 
-0000052 320  NN1     youve                    Z99 
-0000052 330  VVD     developed                A2.1+ T2+ A5.1+/A2.1 N3.2+/A2.1 H1 A9+ C1 
+0000052 320  PPY     you                      Z8mf 
+0000052 321  VH0     've                      Z5 A9+ A2.2 
+0000052 330  VVN     developed                A2.1+ T2+ A5.1+/A2.1 N3.2+/A2.1 H1 A9+ C1 
 0000052 340  JJ      incurable                B2- 
 0000052 350  NN1     cancer                   B2- 
 0000052 351  .       .                        
@@ -2502,7 +2526,8 @@
 0000052 470  VBN     been                     Z5 A3+ 
 0000052 480  VVN     prevented                S8- 
 0000052 490  CS      if                       Z7 
-0000052 500  NN1     youd                     Z99 
+0000052 500  PPY     you                      Z8mf 
+0000052 501  VHD     'd                       Z5 
 0000052 510  VVN     listened                 X3.2 
 0000052 520  CC      and                      Z5 
 0000052 530  VVN     thought                  X2.1 
@@ -2560,14 +2585,15 @@
 0000055 010  RR      So                       Z5 A13.3 
 0000055 020  PPIS1   I                        Z8mf 
 0000055 030  VV0     feel                     X2.1 E1 X3 
-0000055 040  APPGE   its                      Z8 
+0000055 040  PPH1    it                       Z8 
+0000055 041  VBZ     's                       A3+ Z5 
 0000055 050  DB      all                      N5.1+ 
 0000055 060  JJ      inevitable               A7+++ 
 0000055 061  .       .                        
 0000055 062  -----   -----                    
 0000055 070  PPIS1   I                        Z8mf 
 0000055 080  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000055 081  XX      nt                       S9/Q4.1 Z3c 
+0000055 081  XX      n't                      Z6 
 0000055 090  VVI     know                     X2.2+ S3.2/B1% 
 0000055 100  DDQ     what                     Z8 Z5 
 0000055 110  PPH1    it                       Z8 
@@ -2720,7 +2746,8 @@
 0000057 192  -----   -----                    
 0000057 200  VV0     See                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
 0000057 210  NP1@    Clay                     Z1mf[i129.2.1 Z3c[i129.2.1 
-0000057 220  NP1     Shirkys                  Z1mf[i129.2.2 Z3c[i129.2.2 
+0000057 220  NP1     Shirky                   Z1mf[i129.2.2 Z3c[i129.2.2 
+0000057 221  GE      's                       Z5 
 0000057 230  NN1     Twitter                  Z99 
 0000057 240  NN1     Storm                    W4 E3- A12- 
 0000057 250  II      on                       Z5 
@@ -2768,7 +2795,7 @@
 0000057 582  -----   -----                    
 0000057 590  PPHS2   They                     Z8mfn 
 0000057 600  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000057 601  XX      nt                       S9/Q4.1 Z3c 
+0000057 601  XX      n't                      Z6 
 0000057 610  VVI     fight                    S8- X8+ E3- G1.2 
 0000057 620  JJ      dirty                    O4.2- G2.2- S1.2.4- 
 0000057 621  .       .                        
@@ -2876,7 +2903,7 @@
 0000059 171  ,       ,                        
 0000059 180  CCB     but                      Z5 
 0000059 190  VDD     did                      A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
-0000059 191  XX      nt                       S9/Q4.1 Z3c 
+0000059 191  XX      n't                      Z6 
 0000059 192  .       .                        
 0000059 193  -----   -----                    
 0000059 200  PPIS2   We                       Z8 
@@ -2894,7 +2921,7 @@
 0000059 300  NP1     Putin                    Z3/S2mf[i138.2.1 
 0000059 310  NN2     supporters               Z3/S2mf[i138.2.2 S8+/S2mf K5.1/S2mf Q1.1% 
 0000059 320  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000059 321  XX      nt                       S9/Q4.1 Z3c 
+0000059 321  XX      n't                      Z6 
 0000059 330  VVI     read                     Q3 Q1.2 X3.2+ X2.5+ P1 A10+ 
 0000059 340  AT      the                      Z5 
 0000059 350  NN1     Guardian                 Z3c 
@@ -2938,7 +2965,8 @@
 0000060 001  -----   -----                    
 0000061 001  (       (                        
 0000061 010  RR      Perhaps                  A7 
-0000061 020  VV0     Im                       Z99 
+0000061 020  PPIS1   I                        Z8mf 
+0000061 021  VBM     'm                       Z5 A3+ 
 0000061 030  RR      just                     A14 T3--- T1.3- N3.3--- 
 0000061 040  VVG     writing                  Q1.2 I2.1 
 0000061 050  DD1     this                     M6 Z5 Z8 

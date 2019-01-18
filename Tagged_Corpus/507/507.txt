@@ -30,7 +30,7 @@ And as such, we are seeking programmers and data scientists to develop this crit
 
 Requirements
 
-To score the job, you will need five or more years’ experience working with Perl, TensorFlow, and Python, plus familiarity with recurrent neural networks, Keras, and the United Kingdom's esoteric libel laws. And no, that's not a typo. Perl is because the site is powered by Perl.
+To score the job, you will need five or more years' experience working with Perl, TensorFlow, and Python, plus familiarity with recurrent neural networks, Keras, and the United Kingdom's esoteric libel laws. And no, that's not a typo. Perl is because the site is powered by Perl.
 
 Applicants must also display high-level punning and rhyming mastery, familiarity with the difference between alliteration and tautological tautologies, and the ability to quote at length the minor works of Monty Python or Ed Sheeran, or whatever the youth of today are following.
 

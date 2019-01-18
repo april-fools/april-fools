@@ -1,4 +1,4 @@
-TOTAL              596
+TOTAL              603
 the                  AT             40 
 of                   IO             22 
 in                   II             17 
@@ -8,19 +8,21 @@ crime                NN1             9
 by                   II              9 
 her                  APPGE           8 
 said                 VVD             8 
+'s                   GE              7 
 to                   TO              7 
 was                  VBDZ            6 
 were                 VBDR            6 
 with                 IW              6 
 is                   VBZ             6 
+women                NN2             6 
 crimes               NN2             6 
-women                NN2             5 
 but                  CCB             4 
 police               NN2             4 
 that                 CST             4 
 most                 DAT             4 
 rural                JJ              4 
 are                  VBR             4 
+South_Africa         NP1             3 
 on                   II              3 
 Eastern_Cape         NP1             3 
 killings             NN2             3 
@@ -39,8 +41,6 @@ centre               NN1             3
 village              NN1             2 
 death                NN1             2 
 province             NN1             2 
-south                ND1             2 
-Africas              NP2             2 
 gruesome             JJ              2 
 rate                 NN1             2 
 body                 NN1             2 
@@ -62,6 +62,7 @@ how                  RRQ             2
 another              DD1             2 
 he                   PPHS1           2 
 no                   AT              2 
+country              NN1             2 
 many                 DA2             2 
 murder               NN1             2 
 them                 PPHO2           2 
@@ -78,7 +79,7 @@ their                APPGE           2
 most                 RGT             2 
 this                 DD1             2 
 from                 II              2 
-Norah_Dyantyis       NP1             1 
+Norah_Dyantyi        NP1             1 
 life                 NN1             1 
 never                RR              1 
 extended             VVN             1 
@@ -112,7 +113,7 @@ numb                 JJ              1
 shock                NN1             1 
 brutality            NN1             1 
 my                   APPGE           1 
-aunts                NN2             1 
+aunt                 NN1             1 
 killing              NN1             1 
 blood                NN1             1 
 chilling             JJ              1 
@@ -132,7 +133,6 @@ people               NN              1
 meet                 VV0             1 
 deaths               NN2             1 
 every_day            AT1             1 
-South_Africa         NP1             1 
 making               VVG             1 
 law                  NN1             1 
 enforcement          NN1             1 
@@ -187,17 +187,17 @@ plans                VVZ             1
 tackle               VVI             1 
 67-year-old          JJ              1 
 mdlalana             NN1             1 
-dyantyis             NN1             1 
+Dyantyi              NP1             1 
 family               NN1             1 
 fear                 VV0             1 
 killers              NN2             1 
-wont                 NN1             1 
+wo                   VM              1 
+n't                  XX              1 
 caught               VVN             1 
 turning              VVG             1 
 into                 II              1 
 statistic            NN1             1 
 among                II              1 
-countrys             NN2             1 
 unpunished           JJ              1 
 2008                 MC              1 
 Mzamba_village       NP1             1 
@@ -242,7 +242,6 @@ recorded             VVD             1
 2006                 MC              1 
 2007                 MC              1 
 second-highest       JJT             1 
-country              NN1             1 
 also                 RR              1 
 ranked               VVN             1 
 high                 JJ              1 
@@ -321,7 +320,7 @@ bottle               NN1             1
 brandy               NN1             1 
 Fezeka_Mantakana     NP1             1 
 director             NN1             1 
-Peddie_Womens        NP1             1 
+Peddie               NP1             1 
 support              NN1             1 
 about                RG              1 
 120km                NNU             1 

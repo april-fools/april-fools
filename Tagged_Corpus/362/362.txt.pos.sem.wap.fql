@@ -1,4 +1,4 @@
-TOTAL              296
+TOTAL              303
 the                  AT             13 
 a                    AT1             9 
 you                  PPY             8 
@@ -9,6 +9,8 @@ to                   TO              6
 line                 NN1             5 
 and                  CC              5 
 but                  CCB             4 
+is                   VBZ             4 
+n't                  XX              4 
 no                   AT              4 
 your                 APPGE           4 
 park                 NN1             4 
@@ -19,6 +21,7 @@ new                  JJ              3
 wristband            NN1             3 
 waiting              VVG             3 
 when                 CS              3 
+there                EX              3 
 at                   II              3 
 are                  VBR             3 
 get                  VVI             3 
@@ -26,24 +29,23 @@ have                 VH0             2
 passholders          NN2             2 
 line                 VV0             2 
 free                 JJ              2 
-isnt                 NN1             2 
 of                   IO              2 
+it                   PPH1            2 
+'s                   VBZ             2 
 guests               NN2             2 
 line_free            NN1             2 
 any                  DD              2 
 in_line              II              2 
 want                 VV0             2 
-there                EX              2 
 just                 RR              2 
 walk                 VV0             2 
 work                 VVI             2 
 food                 NN1             2 
 locations            NN2             2 
 in                   II              2 
-is                   VBZ             2 
 off                  II              2 
 even                 RR              2 
-wont                 NN1             2 
+wo                   VM              2 
 selected             VVN             2 
 invited              VVN             2 
 participate          VVI             2 
@@ -65,7 +67,6 @@ test                 VV0             1
 service              NN1             1 
 version              NN1             1 
 FASTPASS             NP1             1 
-its                  APPGE           1 
 an                   AT1             1 
 entirely             RR              1 
 system               NN1             1 
@@ -94,7 +95,6 @@ on                   II              1
 waiting              NN1             1 
 as_well              RR21            1 
 churro               NN1             1 
-theres               NN2             1 
 popcorn              VV0             1 
 dinner               NN1             1 
 blue                 JJ              1 
@@ -111,8 +111,9 @@ step                 VV0             1
 in_front_of          II31            1 
 other                JJ              1 
 get                  VV0             1 
-Alices               NP2             1 
-autograph            VV0             1 
+Alice                NP1             1 
+'s                   GE              1 
+autograph            NN1             1 
 while                CS              1 
 curses               NN2             1 
 less                 RGR             1 
@@ -129,7 +130,6 @@ leaves               VVZ             1
 becomes              VVZ             1 
 generally            RR              1 
 available            JJ              1 
-it                   PPH1            1 
 entry                NN1             1 
 retail               JJ              1 
 parades              NN2             1 
@@ -137,7 +137,7 @@ hotel_rooms          NN1             1
 restrooms            NN2             1 
 posted               VVN             1 
 hours                NNT2            1 
-apply                VV0             1 
+apply                VVI             1 
 no_way               AT              1 
 sign_up              VVI             1 
 ahead_of_time        II21            1 

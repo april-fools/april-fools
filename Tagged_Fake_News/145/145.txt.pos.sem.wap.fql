@@ -1,4 +1,4 @@
-TOTAL             1309
+TOTAL             1321
 the                  AT             70 
 and                  CC             43 
 of                   IO             32 
@@ -8,13 +8,14 @@ is                   VBZ            24
 to                   TO             23 
 in                   II             22 
 has                  VHZ            18 
+Mr._Trump            NNB            18 
 be                   VBI            17 
 that                 CST            15 
-Mr._Trump            NNB            15 
+it                   PPH1           14 
 his                  APPGE          13 
-it                   PPH1           13 
 for                  IF             12 
 not                  XX             11 
+'s                   GE             11 
 we                   PPIS2          11 
 but                  CCB            11 
 are                  VBR             9 
@@ -22,9 +23,10 @@ would                VM              9
 who                  PNQS            9 
 this                 DD1             8 
 have                 VH0             8 
+republican           NN1             7 
 to                   II              7 
 by                   II              7 
-republican           NN1             6 
+nation               NN1             6 
 campaign             NN1             6 
 on                   II              6 
 with                 IW              6 
@@ -36,8 +38,8 @@ muslims              NN2             5
 when                 CS              5 
 americans            NN2             5 
 experience           NN1             4 
+America              NP1             4 
 could                VM              4 
-nations              NN2             4 
 than                 CSN             4 
 year                 NNT1            4 
 democratic           JJ              4 
@@ -51,21 +53,21 @@ whether              CSW             4
 which                DDQ             4 
 United_States        NP1             4 
 number               NN1             4 
-nation               NN1             3 
 must                 VM              3 
 president            NN1             3 
 views                NN2             3 
 their                APPGE           3 
 dangerous            JJ              3 
-Mr._Trumps           NNB             3 
 contempt             NN1             3 
 might                VM              3 
 more                 RGR             3 
 any                  DD              3 
 nominee              NN1             3 
 candidates           NN2             3 
+trump                NN1             3 
 so                   RR              3 
 years                NNT2            3 
+party                NN1             3 
 that                 DD1             3 
 was                  VBDZ            3 
 nothing              PN1             3 
@@ -76,10 +78,10 @@ know                 VVI             3
 should               VM              3 
 immigrants           NN2             3 
 most                 DAT             3 
-America              NP1             3 
 about                II              3 
 constitution         NN1             3 
 now                  RT              2 
+week                 NNT1            2 
 became               VVD             2 
 real                 JJ              2 
 estate               NN1             2 
@@ -95,12 +97,10 @@ an                   AT1             2
 convention           NN1             2 
 other                JJ              2 
 voters               NN2             2 
-trump                NN1             2 
 world                NN1             2 
 why                  RRQ             2 
 been                 VBN             2 
 major                JJ              2 
-party                NN1             2 
 anyone               PN1             2 
 from                 II              2 
 father               NN1             2 
@@ -133,8 +133,7 @@ how                  RGQ             2
 upon                 II              2 
 system               NN1             2 
 depends              VVZ             2 
-nt                   XX              2 
-its                  APPGE           2 
+n't                  XX              2 
 those                DD2             2 
 vowed                VVN             2 
 relatives            NN2             2 
@@ -146,7 +145,6 @@ do                   VD0             2
 DONALD_J._trump      NP1             1 
 until                II              1 
 problem              NN1             1 
-week                 NNT1            1 
 challenge            NN1             1 
 confront             VVI             1 
 overcome             VVI             1 
@@ -160,7 +158,6 @@ snarl                NN1             1
 sneer                NN1             1 
 extent               NN1             1 
 diagnosis            NN1             1 
-Americas             NP2             1 
 problems             NN2             1 
 proposed             JJ              1 
 solutions            NN2             1 
@@ -197,6 +194,7 @@ following            JJ              1
 months               NNT2            1 
 like                 II              1 
 evaluating           VVG             1 
+'                    GE              1 
 performance          NN1             1 
 debates              NN2             1 
 stump                NN1             1 
@@ -427,7 +425,6 @@ military             JJ              1
 as                   RG              1 
 patriotic            JJ              1 
 Fareed_Zakaria       NP1             1 
-trumps               NN2             1 
 banana_republic      NN1             1 
 litany               NN1             1 
 victimization        NN1             1 
@@ -466,6 +463,7 @@ abandoning           VVG             1
 NATO                 NP1             1 
 encouraging          VVG             1 
 more                 DAR             1 
+nations              NN2             1 
 obtain               VVI             1 
 nuclear_weapons      JJ              1 
 cozying              VVG             1 
@@ -518,6 +516,7 @@ i                    PPIS1           1
 am                   VBM             1 
 going_to             VVGK            1 
 abide_by             VVI             1 
+'s                   VBZ             1 
 1                    MC1             1 
 2                    MC              1 
 12                   MC              1 
@@ -526,6 +525,7 @@ charter              NN1             1
 seven                MC              1 
 articles             NN2             1 
 seem                 VVI             1 
+its                  APPGE           1 
 limitations          NN2             1 
 executive            NN1             1 
 power                NN1             1 
@@ -576,8 +576,7 @@ insult               NN1             1
 insinuation          NN1             1 
 wild                 JJ              1 
 accusation           NN1             1 
-Ted                  NP1             1 
-Cruzs                NP2             1 
+Ted_Cruz             NP1             1 
 involved             JJ              1 
 assassination        NN1             1 
 John_F._Kennedy      NP1             1 
@@ -610,8 +609,6 @@ heavily              RR              1
 testimonials         NN2             1 
 employees            NN2             1 
 during               II              1 
-weeks                NNT2            1 
-republican           JJ              1 
 exception            NN1             1 
 Bob_Dole             NP1             1 
 living               JJ              1 
@@ -631,7 +628,6 @@ months_ago           NNT2            1
 lost                 VVN             1 
 courage              NN1             1 
 speak_out            VVI             1 
-partys               NN2             1 
 failure              NN1             1 
 judgment             NN1             1 
 leaves               VVZ             1 

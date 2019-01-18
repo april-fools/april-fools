@@ -42,7 +42,8 @@
 0000002 340 served                                      97 VVN
 0000002 350 as                                          93 [CSA/64] II@/36 RG@/0
 0000002 360 Donald                                      93 NP1
-0000002 370 Trumps                                      04 [VVZ/100] NN2/0
+0000002 370 Trump                     >                 93 [NN1/99] VV0/1
+0000002 371 's                        <                 98 GE
 0000002 380 strictest                                   06 JJT
 0000002 390 competitor                                  93 NN1
 0000002 400 in                                          93 [II/99] RP@/1

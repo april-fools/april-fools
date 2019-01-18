@@ -161,7 +161,8 @@
 0000006 452  -----   -----                    
 0000006 453  (       (                        
 0000006 460  NNB     Mr.                      Z1m[i12.2.1 S2.2m Z1m[i11.2.1 
-0000006 470  NP1     Trumps                   Z1m[i12.2.2 Z1mf Z1m[i11.2.2 
+0000006 470  NP1     Trump                    Z1m[i12.2.2 Z1mf Z1m[i11.2.2 
+0000006 471  GE      's                       Z5 
 0000006 480  NN1     lawyer                   G2.1/I3.2/S2mf 
 0000006 490  VVZ     says                     Q2.1 
 0000006 500  AT      the                      Z5 
@@ -217,7 +218,8 @@
 0000006 890  TO      to                       Z5 
 0000006 900  VVI     analyze                  X2.4 
 0000006 910  AT      the                      Z5 
-0000006 920  NN2     cases                    A4.1 O2 G2.1 B3 X4.1 Q3 
+0000006 920  NN1     case                     A4.1 O2 G2.1 B3 X4.1 Q3 
+0000006 921  GE      's                       Z5 
 0000006 930  NN1     viability                A7+ L1% 
 0000006 940  RT      now                      T1.1.2 Z4 
 0000006 941  .       .                        
@@ -322,7 +324,8 @@
 0000010 210  JJ      Mainstream               A6.2+ 
 0000010 220  NN      media                    Q4c 
 0000010 221  ,       ,                        
-0000010 230  VV0     Im                       Z99 
+0000010 230  PPIS1   I                        Z8mf 
+0000010 231  VBM     'm                       Z5 A3+ 
 0000010 240  VVG     looking                  X3.4[i21.2.1 X2.4[i21.2.1 X2.1[i21.2.1 A8 X3.4 X2.4 X7+ Z4 
 0000010 250  II      at                       X3.4[i21.2.2 X2.4[i21.2.2 X2.1[i21.2.2 Z5 
 0000010 260  PPY     you                      Z8mf 
@@ -336,7 +339,8 @@
 0000012 040  NN1     context                  O4.1/A3+ A2.2 Q3 
 0000012 041  :       :                        
 0000012 050  NNB     Mr.                      Z1m[i22.2.1 S2.2m 
-0000012 060  NP1     Trumps                   Z1m[i22.2.2 Z1mf 
+0000012 060  NP1     Trump                    Z1m[i22.2.2 Z1mf 
+0000012 061  GE      's                       Z5 
 0000012 070  JJ      overt                    A10+ 
 0000012 071  ,       ,                        
 0000012 080  RR      even                     A13.1 
@@ -355,7 +359,8 @@
 0000014 090  NN1     lens                     O2 B1 
 0000014 100  IO      of                       Z5 
 0000014 110  NNB     Mr.                      Z1m[i23.2.1 S2.2m 
-0000014 120  NP1     Trumps                   Z1m[i23.2.2 Z1mf 
+0000014 120  NP1     Trump                    Z1m[i23.2.2 Z1mf 
+0000014 121  GE      's                       Z5 
 0000014 130  JJ      current                  T1.1.2 
 0000014 131  ,       ,                        
 0000014 140  JJ      longstanding             Z99 
@@ -457,7 +462,7 @@
 0000016 471  .       .                        
 0000016 472  -----   -----                    
 0000016 480  PPHS1   He                       Z8m 
-0000016 481  VBZ     s                        Z5 
+0000016 481  VBZ     's                       Z5 A3+ 
 0000016 490  RR      cruelly                  E3- 
 0000016 500  VVN     ridiculed                Q2.2/S1.2.4- S7.2- 
 0000016 510  AT      the                      Z5 
@@ -472,7 +477,8 @@
 0000016 581  )       )                        
 0000016 590  CC      and                      Z5 
 0000016 600  AT1     an                       Z5 
-0000016 610  NN2     opponents                S7.3/S2mf 
+0000016 610  NN1     opponent                 S7.3/S2mf 
+0000016 611  GE      's                       Z5 
 0000016 620  NN1     wife                     S4f 
 0000016 621  (       (                        
 0000016 630  NP1     Heidi                    Z1mf[i30.2.1 Z3c[i30.2.1 Z1f Z3 
@@ -507,7 +513,7 @@
 0000018 080  VVG     debasing                 I1.1-/A2.1 G2.2- 
 0000018 090  NN2     women                    S2.1f 
 0000018 100  PPHS1   he                       Z8m 
-0000018 101  VBZ     s                        Z5 
+0000018 101  VBZ     's                       Z5 A3+ 
 0000018 110  VVN     worked                   I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
 0000018 120  IW      with                     Z5 
 0000018 121  ,       ,                        
@@ -521,7 +527,7 @@
 0000018 191  .       .                        
 0000018 192  -----   -----                    
 0000018 200  PPHS1   He                       Z8m 
-0000018 201  VBZ     s                        Z5 
+0000018 201  VBZ     's                       Z5 A3+ 
 0000018 210  VVN     taken                    A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
 0000018 220  JJ      lifelong                 T1.3+ 
 0000018 230  NN1     joy                      E4.1+ 
@@ -690,8 +696,9 @@
 0000028 030  NP1     Ivana                    Z1mf[i48.2.1 Z3c[i48.2.1 
 0000028 040  NN1     Trump                    Z1mf[i48.2.2 Z3c[i48.2.2 Z1mf 
 0000028 041  ,       ,                        
-0000028 050  NP1     Donald                   Z1mf 
-0000028 060  VVZ     Trumps                   K5.2 
+0000028 050  NP1     Donald                   Z1mf[i49.2.1 Z3c[i49.2.1 Z1mf 
+0000028 060  NN1     Trump                    Z1mf[i49.2.2 Z3c[i49.2.2 Z1mf 
+0000028 061  GE      's                       Z5 
 0000028 070  MD      first                    N4 
 0000028 080  NN1     wife                     S4f 
 0000028 081  ,       ,                        
@@ -710,8 +717,8 @@
 0000028 210  VVN     attacked                 E3- G3 B2- A1.1.2 Q2.2 
 0000028 220  PPHO1   her                      Z8f 
 0000028 221  ,       ,                        
-0000028 230  VVD     ripped                   M2[i49.2.1 A1.1.2 M2 E3- G2.2- 
-0000028 240  RP      out                      M2[i49.2.2 M6 
+0000028 230  VVD     ripped                   M2[i50.2.1 A1.1.2 M2 E3- G2.2- 
+0000028 240  RP      out                      M2[i50.2.2 M6 
 0000028 250  APPGE   her                      Z8f 
 0000028 260  NN1     hair                     B1 
 0000028 270  CC      and                      Z5 
@@ -723,8 +730,8 @@
 0000028 330  NN1     consent                  S7.4+ Q2.2 
 0000028 331  .       .                        
 0000028 332  -----   -----                    
-0000028 340  II21    According                Z5[i50.2.1 Z5 
-0000028 350  II22    to                       Z5[i50.2.2 Z5 
+0000028 340  II21    According                Z5[i51.2.1 Z5 
+0000028 350  II22    to                       Z5[i51.2.2 Z5 
 0000028 360  AT      the                      Z5 
 0000028 370  JJ@     Daily                    T1.1.2 N6+ 
 0000028 380  NN1     Beast                    L2mfn E3-/S2mf 
@@ -735,9 +742,10 @@
 0000028 420  VBDZ    was                      A3+ Z5 
 0000028 430  RR      wildly                   A13.3 A1.7- 
 0000028 440  JJ      angry                    E3- W4 
-0000028 450  CST     that                     Z5 Z8 
-0000028 460  NN1     shed                     H1 
-0000028 470  VVD     referred                 Q2.2 Q1.2 
+0000028 450  CST     that                     Z8 Z5 
+0000028 460  PPHS1   she                      Z8f 
+0000028 461  VHD     'd                       Z5 
+0000028 470  VVN     referred                 Q2.2 Q1.2 
 0000028 480  PPHO1   him                      Z8m 
 0000028 490  II      to                       Z5 
 0000028 500  AT1     a                        Z5 
@@ -773,9 +781,9 @@
 0000028 770  NN1     hair                     B1 
 0000028 771  .       .                        
 0000028 772  -----   -----                    
-0000028 780  II      At                       T1.1.1[i51.3.1 T1.1.2[i51.3.1 Z5 
-0000028 790  AT      the                      T1.1.1[i51.3.2 T1.1.2[i51.3.2 Z5 
-0000028 800  NNT1    time                     T1.1.1[i51.3.3 T1.1.2[i51.3.3 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000028 780  II      At                       T1.1.1[i52.3.1 T1.1.2[i52.3.1 Z5 
+0000028 790  AT      the                      T1.1.1[i52.3.2 T1.1.2[i52.3.2 Z5 
+0000028 800  NNT1    time                     T1.1.1[i52.3.3 T1.1.2[i52.3.3 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000028 810  NNB     Ms.                      S2.1f B2- 
 0000028 820  NP1     Trump                    Z1mf 
 0000028 830  VVD     said                     Q2.1 
@@ -828,8 +836,8 @@
 0000032 070  NN1     case                     A4.1 O2 G2.1 B3 X4.1 Q3 
 0000032 080  VVG     involving                A1.8+ 
 0000032 090  AT1     a                        Z5 
-0000032 100  JJ      high                     A11.2+[i52.2.1 N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9 
-0000032 110  NN1     profile                  A11.2+[i52.2.2 B1 Q1.1 
+0000032 100  JJ      high                     A11.2+[i53.2.1 N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9 
+0000032 110  NN1     profile                  A11.2+[i53.2.2 B1 Q1.1 
 0000032 120  NN1     person                   S2mfc 
 0000032 130  VVG     paying                   I1.2 A9- I1.1/I3.1 
 0000032 140  NN1     money                    I1 
@@ -882,9 +890,9 @@
 0000032 542  -----   -----                    
 0000032 550  DD1     This                     Z8 M6 Z5 
 0000032 560  VHZ     has                      Z5 A9+ A2.2 S4 
-0000032 570  VBN     been                     A5.2+[i53.3.1 A3+ Z5 
-0000032 580  AT      the                      A5.2+[i53.3.2 Z5 
-0000032 590  NN1     case                     A5.2+[i53.3.3 A4.1 O2 G2.1 B3 X4.1 Q3 
+0000032 570  VBN     been                     A5.2+[i54.3.1 A3+ Z5 
+0000032 580  AT      the                      A5.2+[i54.3.2 Z5 
+0000032 590  NN1     case                     A5.2+[i54.3.3 A4.1 O2 G2.1 B3 X4.1 Q3 
 0000032 600  II      in                       Z5 
 0000032 610  NNO2    hundreds                 N5+ 
 0000032 620  IO      of                       Z5 
@@ -894,9 +902,9 @@
 0000032 660  VH0     have                     Z5 A9+ A2.2 S4 
 0000032 670  VVN     worked                   I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
 0000032 680  RP@     on                       M6 A1.1.1 
-0000032 690  II      over                     T1.1.1[i54.3.1 Z5 
-0000032 700  AT      the                      T1.1.1[i54.3.2 Z5 
-0000032 710  NNT2    years                    T1.1.1[i54.3.3 T1.3 
+0000032 690  II      over                     T1.1.1[i55.3.1 Z5 
+0000032 700  AT      the                      T1.1.1[i55.3.2 Z5 
+0000032 710  NNT2    years                    T1.1.1[i55.3.3 T1.3 
 0000032 711  .       .                        
 0000032 712  -----   -----                    
 0000032 720  NNB     Ms.                      S2.1f B2- 
@@ -914,8 +922,8 @@
 0000032 840  PN1     anything                 Z8 
 0000032 850  JJ      negative                 Z6 S8- A5.1- 
 0000032 860  II      about                    Z5 
-0000032 870  NNB     Mr.                      Z1m[i55.2.1 S2.2m 
-0000032 880  NP1     Trump                    Z1m[i55.2.2 Z1mf 
+0000032 870  NNB     Mr.                      Z1m[i56.2.1 S2.2m 
+0000032 880  NP1     Trump                    Z1m[i56.2.2 Z1mf 
 0000032 881  .       .                        
 0000032 882  -----   -----                    
 0000032 890  CC      And                      Z5 
@@ -939,7 +947,7 @@
 0000032 051  ,       ,                        
 0000032 060  PPIS1   I                        Z8mf 
 0000032 070  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000032 071  XX      nt                       S9/Q4.1 Z3c 
+0000032 071  XX      n't                      Z6 
 0000032 080  VVI     mean                     Q1.1 X7+ 
 0000032 090  PPH1    it                       Z8 
 0000032 100  RR      literally                A13.2 Q3 
@@ -948,7 +956,7 @@
 0000032 103  (       (                        
 0000032 110  PPY     You                      Z8mf 
 0000032 120  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000032 121  XX      nt                       S9/Q4.1 Z3c 
+0000032 121  XX      n't                      Z6 
 0000032 130  VVI     mean                     Q1.1 X7+ 
 0000032 140  JJ      forcible                 E6+ S1.2.5+ S7.1+ 
 0000032 150  NN1     penetration              M1/A10- A1.8+ X2.5+ 
@@ -960,11 +968,11 @@
 0000034 020  NN1     business                 I2.1 A1.1.1 A5.1+++ 
 0000034 030  NN1     acquaintance             S3.1/S2mf X2.2+ 
 0000034 040  VVD     accused                  Q2.2 G2.1 
-0000034 050  NNB     Mr.                      Z1m[i56.2.1 S2.2m 
-0000034 060  NP1     Trump                    Z1m[i56.2.2 Z1mf 
+0000034 050  NNB     Mr.                      Z1m[i57.2.1 S2.2m 
+0000034 060  NP1     Trump                    Z1m[i57.2.2 Z1mf 
 0000034 070  IO      of                       Z5 
-0000034 080  JJ      sexual                   S3.2/G2.2-[i57.2.1 S3.2 
-0000034 090  NN1     harassment               S3.2/G2.2-[i57.2.2 G2.2- E6- 
+0000034 080  JJ      sexual                   S3.2/G2.2-[i58.2.1 S3.2 
+0000034 090  NN1     harassment               S3.2/G2.2-[i58.2.2 G2.2- E6- 
 0000034 100  CC      and                      Z5 
 0000034 110  JJ      attempted                X8+ 
 0000034 120  NN1     rape                     G2.1-/S3.2 A1.1.2 
@@ -974,8 +982,8 @@
 0000036 020  MD      second                   N4 
 0000036 030  NN1     woman                    S2.1f 
 0000036 040  VVD     accused                  Q2.2 G2.1 
-0000036 050  NP1     Donald                   Z1mf[i58.2.1 Z3c[i58.2.1 Z1mf 
-0000036 060  NN1     Trump                    Z1mf[i58.2.2 Z3c[i58.2.2 Z1mf 
+0000036 050  NP1     Donald                   Z1mf[i59.2.1 Z3c[i59.2.1 Z1mf 
+0000036 060  NN1     Trump                    Z1mf[i59.2.2 Z3c[i59.2.2 Z1mf 
 0000036 070  IO      of                       Z5 
 0000036 080  JJ      sexual                   S3.2 
 0000036 090  NN1     assault                  E3- X8+ 
@@ -984,15 +992,15 @@
 0000036 110  MC      1997                     N1 T1.2 T3 T1.3 N3.2 
 0000036 111  .       .                        
 0000036 112  -----   -----                    
-0000036 120  II21    According                Z5[i59.2.1 Z5 
-0000036 130  II22    to                       Z5[i59.2.2 Z5 
+0000036 120  II21    According                Z5[i60.2.1 Z5 
+0000036 130  II22    to                       Z5[i60.2.2 Z5 
 0000036 140  AT      The                      Z5 
 0000036 150  NN1     Guardian                 Z3c 
 0000036 151  ,       ,                        
 0000036 160  RT      then                     N4 Z5 T1.2 
 0000036 170  JJ      34-year-old              T3 
-0000036 180  NP1     Jill                     Z1mf[i60.2.1 Z3c[i60.2.1 
-0000036 190  NP1     Harth                    Z1mf[i60.2.2 Z3c[i60.2.2 
+0000036 180  NP1     Jill                     Z1mf[i61.2.1 Z3c[i61.2.1 
+0000036 190  NP1     Harth                    Z1mf[i61.2.2 Z3c[i61.2.2 
 0000036 200  VVD     alleged                  Q2.2/A5.2 
 0000036 210  II      in                       Z5 
 0000036 220  AT1     a                        Z5 
@@ -1016,8 +1024,8 @@
 0000036 400  II      after                    Z5 
 0000036 410  APPGE   her                      Z8f 
 0000036 420  NN1     husband                  S4m 
-0000036 430  VVD     went                     M1[i61.2.1 X2.4[i61.2.1 T2+[i61.2.1 N2[i61.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
-0000036 440  II      into                     M1[i61.2.2 X2.4[i61.2.2 T2+[i61.2.2 N2[i61.2.2 Z5 
+0000036 430  VVD     went                     M1[i62.2.1 X2.4[i62.2.1 T2+[i62.2.1 N2[i62.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000036 440  II      into                     M1[i62.2.2 X2.4[i62.2.2 T2+[i62.2.2 N2[i62.2.2 Z5 
 0000036 450  NN1     business                 I2.1 A1.1.1 A5.1+++ 
 0000036 460  IW      with                     Z5 
 0000036 470  PPHO1   him                      Z8m 
@@ -1054,8 +1062,8 @@
 0000036 710  JJ      parallel                 A6.1+ T1.1.2 M6 
 0000036 720  NN1     suit                     B5 G2.1 K5.2 
 0000036 730  II      against                  Z5 
-0000036 740  NNB     Mr.                      Z1m[i62.2.1 S2.2m 
-0000036 750  NP1     Trump                    Z1m[i62.2.2 Z1mf 
+0000036 740  NNB     Mr.                      Z1m[i63.2.1 S2.2m 
+0000036 750  NP1     Trump                    Z1m[i63.2.2 Z1mf 
 0000036 760  VVD     brought                  M2 A2.2 
 0000036 770  II      by                       Z5 
 0000036 780  APPGE   her                      Z8f 
@@ -1094,8 +1102,8 @@
 0000038 030  NN1     court                    G2.1 H3 M7/K5.2 
 0000038 040  NN1     filing                   Q1.2 A1.1.1 
 0000038 041  ,       ,                        
-0000038 050  II21    according                Z5[i63.2.1 Z5 
-0000038 060  II22    to                       Z5[i63.2.2 Z5 
+0000038 050  II21    according                Z5[i64.2.1 Z5 
+0000038 060  II22    to                       Z5[i64.2.2 Z5 
 0000038 070  AT1     a                        Z5 
 0000038 080  NN1     report                   Q2.2 X3.2 
 0000038 081  ,       ,                        
@@ -1116,12 +1124,12 @@
 0000038 230  NN1     business                 I2.1 A1.1.1 A5.1+++ 
 0000038 240  NN1     deal                     N5 Q2.2 A1.1.1 I2.2 K5.2 F3/I2.2 
 0000038 250  IW      with                     Z5 
-0000038 260  NNB     Mr.                      Z1m[i64.2.1 S2.2m 
-0000038 270  NP1     Trump                    Z1m[i64.2.2 Z1mf 
+0000038 260  NNB     Mr.                      Z1m[i65.2.1 S2.2m 
+0000038 270  NP1     Trump                    Z1m[i65.2.2 Z1mf 
 0000038 280  II      regarding                Z5 
 0000038 290  AT1     a                        Z5 
-0000038 300  NN1     beauty                   S7.3+/O4.2[i65.2.1 O4.2+ B4 
-0000038 310  NN1     pageant                  S7.3+/O4.2[i65.2.2 S1.1.1 A1.1.1 
+0000038 300  NN1     beauty                   S7.3+/O4.2[i66.2.1 O4.2+ B4 
+0000038 310  NN1     pageant                  S7.3+/O4.2[i66.2.2 S1.1.1 A1.1.1 
 0000038 311  ,       ,                        
 0000038 320  PPHS1   he                       Z8m 
 0000038 330  RR      repeatedly               N6+ 
@@ -1150,9 +1158,9 @@
 0000040 060  JJ      public                   S5+ A10+ 
 0000040 070  NN2     areas                    M7 A4.1 N3.6 
 0000040 080  IO      of                       Z5 
-0000040 090  NP1     Mar-A-Lago               Z2[i66.3.1 Z2[i67.3.1 
-0000040 100  II      in                       Z2[i66.3.2 Z5 Z2[i67.3.2 
-0000040 110  NP1     Florida                  Z2[i66.3.3 Z2 Z2[i67.3.3 
+0000040 090  NP1     Mar-A-Lago               Z2[i67.3.1 Z2[i68.3.1 
+0000040 100  II      in                       Z2[i67.3.2 Z5 Z2[i68.3.2 
+0000040 110  NP1     Florida                  Z2[i67.3.3 Z2 Z2[i68.3.3 
 0000040 120  CC      and                      Z5 
 0000040 130  VVN     forced                   S7.1+ A1.1.1 E3- 
 0000040 131  (       (                        
@@ -1163,7 +1171,8 @@
 0000040 170  NN1     bedroom                  H2 
 0000040 180  VVG     belonging                A9+ A1.2+ S5+ 
 0000040 190  II      to                       Z5 
-0000040 200  NN2     defendants               G2.1/S2 
+0000040 200  NN1     defendant                G2.1/S2mf 
+0000040 201  GE      's                       Z5 
 0000040 210  NN1     daughter                 S4f 
 0000040 220  NP1     Ivanka                   Z99 
 0000040 221  ,       ,                        
@@ -1218,45 +1227,47 @@
 0000040 581  .       .                        
 0000041 001  -----   -----                    
 0000042 010  RR      Recently                 T3--- 
-0000042 020  NP1     Donald                   Z1mf[i68.2.1 Z3c[i68.2.1 Z1mf 
-0000042 030  NN1     Trump                    Z1mf[i68.2.2 Z3c[i68.2.2 Z1mf 
+0000042 020  NP1     Donald                   Z1mf[i69.2.1 Z3c[i69.2.1 Z1mf 
+0000042 030  NN1     Trump                    Z1mf[i69.2.2 Z3c[i69.2.2 Z1mf 
 0000042 040  VVD     issued                   A9- 
 0000042 050  AT1     a                        Z5 
 0000042 060  NN1     statement                Q2.1 I1/Q1.2 
-0000042 070  CST     that                     Z8 Z5 
-0000042 080  VVZ     womens                   S2.1f 
+0000042 070  CST     that                     Z5 Z8 
+0000042 080  NN2     women                    S2.1f 
+0000042 081  GE      's                       Z5 
 0000042 090  NN2     claims                   Q2.2 A9+ G2.1 
 0000042 100  IO      of                       Z5 
-0000042 110  JJ      sexual                   S3.2/G2.2-[i69.2.1 S3.2 
-0000042 120  NN1     harassment               S3.2/G2.2-[i69.2.2 G2.2- E6- 
+0000042 110  JJ      sexual                   S3.2/G2.2-[i70.2.1 S3.2 
+0000042 120  NN1     harassment               S3.2/G2.2-[i70.2.2 G2.2- E6- 
 0000042 121  ,       ,                        
 0000042 130  VVN     documented               Q1.2 X2.2+ A5.2+ 
 0000042 140  II      in                       Z5 
 0000042 150  AT1     a                        Z5 
 0000042 160  JJ      lengthy                  T1.3+ N3.7+ 
-0000042 170  NP1     New                      Z3c[i73.3.1 Z1mf[i71.3.1 Z3c[i71.3.1 Z1mf[i70.2.1 Z3c[i70.2.1 Z2[i72.2.1 
-0000042 180  NP1     York                     Z3c[i73.3.2 Z2 Z1mf Z1mf[i71.3.2 Z3c[i71.3.2 Z1mf[i70.2.2 Z3c[i70.2.2 Z2[i72.2.2 Z1mf[i74.2.1 Z3c[i74.2.1 
-0000042 190  NNT2    Times                    Z3c[i73.3.3 Z3 Z3c[i71.3.3 Z1mf[i71.3.3 Z1mf[i74.2.2 Z3c[i74.2.2 
+0000042 170  NP1     New                      Z3c[i74.3.1 Z1mf[i72.3.1 Z3c[i72.3.1 Z1mf[i71.2.1 Z3c[i71.2.1 Z2[i73.2.1 
+0000042 180  NP1     York                     Z3c[i74.3.2 Z2 Z1mf Z1mf[i72.3.2 Z3c[i72.3.2 Z1mf[i71.2.2 Z3c[i71.2.2 Z2[i73.2.2 Z1mf[i75.2.1 Z3c[i75.2.1 
+0000042 190  NNT2    Times                    Z3c[i74.3.3 Z3 Z3c[i72.3.3 Z1mf[i72.3.3 Z1mf[i75.2.2 Z3c[i75.2.2 
 0000042 200  NN1     investigation            X2.4 B3 
 0000042 210  DDQ     which                    Z8 Z5 
 0000042 220  VVD     included                 A1.8+ 
 0000042 230  NNB     Ms.                      S2.1f B2- 
-0000042 240  NP1     Harths                   Z99 
+0000042 240  NP1     Harth                    Z99 
+0000042 241  GE      's                       Z5 
 0000042 250  NN1     lawsuit                  G2.1 
 0000042 251  ,       ,                        
 0000042 260  VBDR    were                     Z5 A3+ 
-0000042 270  VVN     made                     A5.2-[i75.2.1 B4[i75.2.1 N5[i75.2.1 S3.1[i75.2.1 A1.8+[i75.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
-0000042 280  RP      up                       A5.2-[i75.2.2 B4[i75.2.2 N5[i75.2.2 S3.1[i75.2.2 A1.8+[i75.2.2 
+0000042 270  VVN     made                     A5.2-[i76.2.1 B4[i76.2.1 N5[i76.2.1 S3.1[i76.2.1 A1.8+[i76.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000042 280  RP      up                       A5.2-[i76.2.2 B4[i76.2.2 N5[i76.2.2 S3.1[i76.2.2 A1.8+[i76.2.2 
 0000042 281  .       .                        
 0000043 001  -----   -----                    
-0000044 010  NP1     Jill                     Z1mf[i76.2.1 Z3c[i76.2.1 
-0000044 020  NP1     Harth                    Z1mf[i76.2.2 Z3c[i76.2.2 
+0000044 010  NP1     Jill                     Z1mf[i77.2.1 Z3c[i77.2.1 
+0000044 020  NP1     Harth                    Z1mf[i77.2.2 Z3c[i77.2.2 
 0000044 030  VVD     responded                S1.1.2+ Q2.2 
 0000044 040  RR      angrily                  E3- 
 0000044 050  II      on                       Z5 
 0000044 060  NN1     Twitter                  Z99 
-0000044 070  MD      last                     T1.1.1[i77.2.1 N4 
-0000044 080  NNT1    week                     T1.1.1[i77.2.2 T1.3 
+0000044 070  MD      last                     T1.1.1[i78.2.1 N4 
+0000044 080  NNT1    week                     T1.1.1[i78.2.2 T1.3 
 0000044 081  :       :                        
 0000044 090  APPGE   My                       Z8 
 0000044 100  NN1     part                     N5.1- O2 M7 I3.1 S1.1.3+ K4 
@@ -1266,27 +1277,27 @@
 0000044 122  -----   -----                    
 0000044 130  PPIS1   I                        Z8mf 
 0000044 140  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000044 141  XX      nt                       S9/Q4.1 Z3c 
+0000044 141  XX      n't                      Z6 
 0000044 150  VVI     talk                     Q2.1 
 0000044 151  .       .                        
 0000044 152  -----   -----                    
-0000044 160  RR21    As                       A6.2+[i78.2.1 
-0000044 170  RR22    usual                    A6.2+[i78.2.2 
+0000044 160  RR21    As                       A6.2+[i79.2.1 
+0000044 170  RR22    usual                    A6.2+[i79.2.2 
 0000044 180  PPY     you                      Z8mf 
 0000044 190  VVD     opened                   A1.1.1 T2+ 
 0000044 200  APPGE   your                     Z8 
-0000044 210  JJ      big                      Q2.1/N5+[i79.2.1 N3.2+ N5+ A11.1+ S1.2.5+ X5.2+ 
-0000044 220  NN1     mouth                    Q2.1/N5+[i79.2.2 B1 Q2.2 M7/W3 W3/M4 O2 
+0000044 210  JJ      big                      Q2.1/N5+[i80.2.1 N3.2+ N5+ A11.1+ S1.2.5+ X5.2+ 
+0000044 220  NN1     mouth                    Q2.1/N5+[i80.2.2 B1 Q2.2 M7/W3 W3/M4 O2 
 0000044 221  .       .                        
 0000044 222  -----   -----                    
-0000046 010  II      In                       Z4[i80.3.1 Z5 
-0000046 020  JJ      other                    Z4[i80.3.2 A6.1- 
-0000046 030  NN2     words                    Z4[i80.3.3 Q3 
+0000046 010  II      In                       Z4[i81.3.1 Z5 
+0000046 020  JJ      other                    Z4[i81.3.2 A6.1- 
+0000046 030  NN2     words                    Z4[i81.3.3 Q3 
 0000046 031  ,       ,                        
 0000046 040  PPHS1   she                      Z8f 
 0000046 050  VBZ     is                       Z5 A3+ 
-0000046 060  VVG     standing                 A1.1.1[i81.2.1 S8+[i81.2.1 M8[i81.2.1 M6 M2 M8 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2. 
-0000046 070  II      by                       A1.1.1[i81.2.2 S8+[i81.2.2 M8[i81.2.2 Z5 
+0000046 060  VVG     standing                 A1.1.1[i82.2.1 S8+[i82.2.1 M8[i82.2.1 M6 M2 M8 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2. 
+0000046 070  II      by                       A1.1.1[i82.2.2 S8+[i82.2.2 M8[i82.2.2 Z5 
 0000046 080  APPGE   her                      Z8f 
 0000046 090  NN1     story                    Q2.1 X4.1 Q4 
 0000046 091  .       .                        
@@ -1296,27 +1307,27 @@
 0000048 012  -----   -----                    
 0000048 020  AT      The                      Z5 
 0000048 030  JJ      new                      T3- 
-0000048 040  NP1     Jane                     Z1mf[i82.2.1 Z3c[i82.2.1 Z1f 
-0000048 050  NP1     Doe                      Z1mf[i82.2.2 Z3c[i82.2.2 
+0000048 040  NP1     Jane                     Z1mf[i83.2.1 Z3c[i83.2.1 Z1f 
+0000048 050  NP1     Doe                      Z1mf[i83.2.2 Z3c[i83.2.2 
 0000048 060  NN1     child                    S2mf/T3- S4mf 
 0000048 070  NN1     rape                     G2.1-/S3.2 A1.1.2 
 0000048 080  NN1     claim                    Q2.2 A9+ 
 0000048 090  II      against                  Z5 
-0000048 100  NNB     Mr.                      Z1m[i83.2.1 S2.2m 
-0000048 110  NP1     Trump                    Z1m[i83.2.2 Z1mf 
+0000048 100  NNB     Mr.                      Z1m[i84.2.1 S2.2m 
+0000048 110  NP1     Trump                    Z1m[i84.2.2 Z1mf 
 0000048 120  VBZ     is                       A3+ Z5 
 0000048 130  JJ      consistent               A6.1+ 
 0000048 140  IW      with                     Z5 
 0000048 150  JJ      verifiable               Z99 
 0000048 160  NN2     facts                    A5.2+ X2.2 
 0000048 170  II      about                    Z5 
-0000048 180  NNB     Mr.                      Z1m[i84.2.1 S2.2m 
-0000048 190  NP1     Trump                    Z1m[i84.2.2 Z1mf 
+0000048 180  NNB     Mr.                      Z1m[i85.2.1 S2.2m 
+0000048 190  NP1     Trump                    Z1m[i85.2.2 Z1mf 
 0000048 200  CC      and                      Z5 
 0000048 210  APPGE   his                      Z8m 
 0000048 220  NN1     friend                   S3.1/S2mf 
-0000048 230  NP1     Jeffrey                  Z1mf[i85.2.1 Z3c[i85.2.1 Z1m 
-0000048 240  NP1     Epstein                  Z1mf[i85.2.2 Z3c[i85.2.2 
+0000048 230  NP1     Jeffrey                  Z1mf[i86.2.1 Z3c[i86.2.1 Z1m 
+0000048 240  NP1     Epstein                  Z1mf[i86.2.2 Z3c[i86.2.2 
 0000048 241  ,       ,                        
 0000048 250  CC      and                      Z5 
 0000048 260  VHZ     has                      A9+ Z5 A2.2 S4 
@@ -1333,26 +1344,26 @@
 0000050 020  MD      third                    N4 N5 N1 
 0000050 030  NN1     woman                    S2.1f 
 0000050 040  VVD     accused                  Q2.2 G2.1 
-0000050 050  NNB     Mr.                      Z1m[i86.2.1 S2.2m 
-0000050 060  NP1     Trump                    Z1m[i86.2.2 Z1mf 
+0000050 050  NNB     Mr.                      Z1m[i87.2.1 S2.2m 
+0000050 060  NP1     Trump                    Z1m[i87.2.2 Z1mf 
 0000050 070  IO      of                       Z5 
 0000050 080  NN1     rape                     G2.1-/S3.2 A1.1.2 
 0000050 090  RG      very                     A13.3 
 0000050 100  RR      recently                 T3--- 
 0000050 101  .       .                        
 0000050 102  -----   -----                    
-0000050 110  II21    According                Z5[i87.2.1 Z5 
-0000050 120  II22    to                       Z5[i87.2.2 Z5 
+0000050 110  II21    According                Z5[i88.2.1 Z5 
+0000050 120  II22    to                       Z5[i88.2.2 Z5 
 0000050 130  AT      the                      Z5 
-0000050 140  JJ      Daily                    Z3c[i88.2.1 T1.1.2 N6+ 
-0000050 150  NN1     Mail                     Z3c[i88.2.2 Z3c 
+0000050 140  JJ      Daily                    Z3c[i89.2.1 T1.1.2 N6+ 
+0000050 150  NN1     Mail                     Z3c[i89.2.2 Z3c 
 0000050 151  ,       ,                        
 0000050 160  AT1     a                        Z5 
 0000050 170  NN1     woman                    S2.1f 
 0000050 180  VVD     filed                    Q1.2 A1.1.1 
 0000050 190  AT1     an                       Z5 
-0000050 200  NPM1    April                    T1.3[i89.2.1 T1.3 
-0000050 210  MC      2016                     T1.3[i89.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000050 200  NPM1    April                    T1.3[i90.2.1 T1.3 
+0000050 210  MC      2016                     T1.3[i90.2.2 N1 T1.2 T3 T1.3 N3.2 
 0000050 220  NN1     lawsuit                  G2.1 
 0000050 230  VVG     claiming                 Q2.2 A9+ 
 0000050 240  CST     that                     Z8 Z5 
@@ -1370,13 +1381,13 @@
 0000050 360  NN1     sex                      S2 S3.2 
 0000050 370  NN1     slave                    S7.1-/S2mf 
 0000050 380  II      to                       Z5 
-0000050 390  NNB     Mr.                      Z1m[i90.2.1 S2.2m 
-0000050 400  NP1     Trump                    Z1m[i90.2.2 Z1mf 
+0000050 390  NNB     Mr.                      Z1m[i91.2.1 S2.2m 
+0000050 400  NP1     Trump                    Z1m[i91.2.2 Z1mf 
 0000050 410  CC      and                      Z5 
 0000050 420  APPGE   his                      Z8m 
 0000050 430  NN1     friend                   S3.1/S2mf 
-0000050 440  NP1     Jeffrey                  Z1mf[i91.2.1 Z3c[i91.2.1 Z1m 
-0000050 450  NP1     Epstein                  Z1mf[i91.2.2 Z3c[i91.2.2 
+0000050 440  NP1     Jeffrey                  Z1mf[i92.2.1 Z3c[i92.2.1 Z1m 
+0000050 450  NP1     Epstein                  Z1mf[i92.2.2 Z3c[i92.2.2 
 0000050 451  .       .                        
 0000050 452  -----   -----                    
 0000050 460  AT      The                      Z5 
@@ -1387,8 +1398,8 @@
 0000050 510  AT1     a                        Z5 
 0000050 520  NN1     witness                  G2.1/S2mf X3.4/S2mf S9/S2mf S9 A10+@ 
 0000050 521  ,       ,                        
-0000050 530  NP1     Tiffany                  Z1mf[i92.2.1 Z3c[i92.2.1 Z3c 
-0000050 540  NP1     Doe                      Z1mf[i92.2.2 Z3c[i92.2.2 
+0000050 530  NP1     Tiffany                  Z1mf[i93.2.1 Z3c[i93.2.1 Z3c 
+0000050 540  NP1     Doe                      Z1mf[i93.2.2 Z3c[i93.2.2 
 0000050 541  ,       ,                        
 0000050 550  II      to                       Z5 
 0000050 560  AT      the                      Z5 
@@ -1440,20 +1451,21 @@
 0000052 220  CC      and                      Z5 
 0000052 230  VVN     refiled                  Z99 
 0000052 240  II      in                       Z5 
-0000052 250  NP1     New                      Z2[i94.2.1 Z1mf[i93.2.1 Z3c[i93.2.1 
-0000052 260  NP1     York                     Z2[i94.2.2 Z2 Z1mf Z1mf[i93.2.2 Z3c[i93.2.2 
+0000052 250  NP1     New                      Z2[i95.2.1 Z1mf[i94.2.1 Z3c[i94.2.1 
+0000052 260  NP1     York                     Z2[i95.2.2 Z2 Z1mf Z1mf[i94.2.2 Z3c[i94.2.2 
 0000052 270  JJ      federal                  S5+ 
 0000052 280  NN1     court                    G2.1 H3 M7/K5.2 
 0000052 281  ,       ,                        
 0000052 290  II      against                  Z5 
-0000052 300  NNB     Mr.                      Z1m[i95.2.1 S2.2m 
-0000052 310  NP1     Trump                    Z1m[i95.2.2 Z1mf 
+0000052 300  NNB     Mr.                      Z1m[i96.2.1 S2.2m 
+0000052 310  NP1     Trump                    Z1m[i96.2.2 Z1mf 
 0000052 320  CC      and                      Z5 
-0000052 330  NNB     Mr.                      Z1m[i96.2.1 S2.2m 
-0000052 340  NP1     Epstein                  Z1m[i96.2.2 
+0000052 330  NNB     Mr.                      Z1m[i97.2.1 S2.2m 
+0000052 340  NP1     Epstein                  Z1m[i97.2.2 
 0000052 341  .       .                        
 0000053 001  -----   -----                    
-0000054 010  VV0     Ive                      Z99 
+0000054 010  PPIS1   I                        Z8mf 
+0000054 011  VH0     've                      Z5 A9+ A2.2 
 0000054 020  RR      carefully                A1.3+ 
 0000054 030  VVN     reviewed                 X2.4/A5 P1 Q4 G3 
 0000054 040  DD1     this                     M6 Z5 Z8 
@@ -1471,13 +1483,13 @@
 0000054 140  PN1     one                      Z8 
 0000054 150  PPHS1   she                      Z8f 
 0000054 160  VVD     filed                    Q1.2 A1.1.1 
-0000054 170  II      on                       S5-[i97.3.1 Z5 
-0000054 180  APPGE   her                      S5-[i97.3.2 Z8f Z8[i98.2.1 
-0000054 190  DA      own                      S5-[i97.3.3 A9+ S5- Z8[i98.2.2 
+0000054 170  II      on                       S5-[i98.3.1 Z5 
+0000054 180  APPGE   her                      S5-[i98.3.2 Z8f Z8[i99.2.1 
+0000054 190  DA      own                      S5-[i98.3.3 A9+ S5- Z8[i99.2.2 
 0000054 191  ,       ,                        
 0000054 200  DDQ     which                    Z8 Z5 
-0000054 210  VVZ     makes                    X2.5+[i99.2.1 S1.2.6+[i99.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
-0000054 220  NN1     sense                    X2.5+[i99.2.2 S1.2.6+[i99.2.2 A4.1 Q3 X3 S1.2.6+ E1 X2.1 X9.1+ A8 
+0000054 210  VVZ     makes                    X2.5+[i100.2.1 S1.2.6+[i100.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000054 220  NN1     sense                    X2.5+[i100.2.2 S1.2.6+[i100.2.2 A4.1 Q3 X3 S1.2.6+ E1 X2.1 X9.1+ A8 
 0000054 230  CS      because                  Z5/A2.2 
 0000054 240  PPHS1   she                      Z8f 
 0000054 250  RT      now                      T1.1.2 Z4 
@@ -1489,8 +1501,8 @@
 0000054 310  PPHO1   her                      Z8f 
 0000054 311  .       .                        
 0000054 312  -----   -----                    
-0000054 320  NP1     Jane                     Z1mf[i100.2.1 Z3c[i100.2.1 Z1f 
-0000054 330  NP1     Doe                      Z1mf[i100.2.2 Z3c[i100.2.2 
+0000054 320  NP1     Jane                     Z1mf[i101.2.1 Z3c[i101.2.1 Z1f 
+0000054 330  NP1     Doe                      Z1mf[i101.2.2 Z3c[i101.2.2 
 0000054 340  VVZ     says                     Q2.1 
 0000054 350  CST     that                     Z8 Z5 
 0000054 360  II      as                       Z5 
@@ -1507,19 +1519,19 @@
 0000054 460  AT      the                      Z5 
 0000054 470  NN1     home                     H4/H1c M6 
 0000054 480  IO      of                       Z5 
-0000054 490  NP1     Jeffrey                  Z1mf[i101.2.1 Z3c[i101.2.1 Z1m 
-0000054 500  NP1     Epstein                  Z1mf[i101.2.2 Z3c[i101.2.2 
+0000054 490  NP1     Jeffrey                  Z1mf[i102.2.1 Z3c[i102.2.1 Z1m 
+0000054 500  NP1     Epstein                  Z1mf[i102.2.2 Z3c[i102.2.2 
 0000054 510  IW      with                     Z5 
 0000054 520  AT      the                      Z5 
 0000054 530  NN1     promise                  S6+ A7+ X9.1+ 
 0000054 540  IO      of                       Z5 
 0000054 550  NN1     money                    I1 
-0000054 560  NN1     modeling                 A5.4-/I3.1[i102.2.1 A5.4- A10+ C1 
-0000054 570  NN2     jobs                     A5.4-/I3.1[i102.2.2 I3.1 A1.1.1 
+0000054 560  NN1     modeling                 A5.4-/I3.1[i103.2.1 A5.4- A10+ C1 
+0000054 570  NN2     jobs                     A5.4-/I3.1[i103.2.2 I3.1 A1.1.1 
 0000054 571  .       .                        
 0000054 572  -----   -----                    
-0000054 580  NNB     Mr.                      Z1m[i104.2.1 S2.2m Z1m[i103.2.1 
-0000054 590  NP1     Epstein                  Z1m[i104.2.2 Z1m[i103.2.2 
+0000054 580  NNB     Mr.                      Z1m[i105.2.1 S2.2m Z1m[i104.2.1 
+0000054 590  NP1     Epstein                  Z1m[i105.2.2 Z1m[i104.2.2 
 0000054 600  VBZ     is                       A3+ Z5 
 0000054 610  AT1     a                        Z5 
 0000054 620  JJ      notorious                X2.2+/G2.2- 
@@ -1528,9 +1540,9 @@
 0000054 650  PNQS    who                      Z8 
 0000054 660  VBZ     is                       A3+ Z5 
 0000054 670  RT      now                      T1.1.2 Z4 
-0000054 680  AT1     a                        P1[i105.2.1 Z5 
-0000054 690  NN1     Level                    P1[i105.2.2 N3.7 N5 S5+ A5.1 X9.1 A4.1 S7.1 A4.1[i106.2.1 H2[i106.2.1 
-0000054 700  MC      3                        N1 T1.2 T3 T1.3 N3.2 A4.1[i106.2.2 H2[i106.2.2 
+0000054 680  AT1     a                        P1[i106.2.1 Z5 
+0000054 690  NN1     Level                    P1[i106.2.2 N3.7 N5 S5+ A5.1 X9.1 A4.1 S7.1 A4.1[i107.2.1 H2[i107.2.1 
+0000054 700  MC      3                        N1 T1.2 T3 T1.3 N3.2 A4.1[i107.2.2 H2[i107.2.2 
 0000054 710  JJ      registered               Q1.2/G1.1 I3.2+ 
 0000054 720  NN1     sex                      S2 S3.2 
 0000054 730  NN1     offender                 G2.1-/S2mf A2.2 
@@ -1555,12 +1567,12 @@
 0000054 910  NN1     girl                     S2.1f L2f@ 
 0000054 911  .       .                        
 0000055 001  -----   -----                    
-0000056 010  NP1     Jane                     Z1mf[i107.2.1 Z3c[i107.2.1 Z1f 
-0000056 020  NP1     Doe                      Z1mf[i107.2.2 Z3c[i107.2.2 
+0000056 010  NP1     Jane                     Z1mf[i108.2.1 Z3c[i108.2.1 Z1f 
+0000056 020  NP1     Doe                      Z1mf[i108.2.2 Z3c[i108.2.2 
 0000056 030  VVZ     says                     Q2.1 
 0000056 040  CST     that                     Z5 Z8 
-0000056 050  NNB     Mr.                      Z1m[i108.2.1 S2.2m 
-0000056 060  NP1     Trump                    Z1m[i108.2.2 Z1mf 
+0000056 050  NNB     Mr.                      Z1m[i109.2.1 S2.2m 
+0000056 060  NP1     Trump                    Z1m[i109.2.2 Z1mf 
 0000056 070  VVD     initiated                T2+ 
 0000056 080  JJ      sexual                   S3.2 
 0000056 090  NN1     contact                  S1.1.1 S2mf Q2.2 O3 
@@ -1577,9 +1589,9 @@
 0000056 180  PPHS1   she                      Z8f 
 0000056 190  VBDZ    was                      A3+ Z5 
 0000056 200  MC      thirteen                 T3 N1 T1.2 T1.3 N3.2 
-0000056 210  II      at                       T1.1.1[i109.3.1 T1.1.2[i109.3.1 Z5 
-0000056 220  AT      the                      T1.1.1[i109.3.2 T1.1.2[i109.3.2 Z5 
-0000056 230  NNT1    time                     T1.1.1[i109.3.3 T1.1.2[i109.3.3 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000056 210  II      at                       T1.1.1[i110.3.1 T1.1.2[i110.3.1 Z5 
+0000056 220  AT      the                      T1.1.1[i110.3.2 T1.1.2[i110.3.2 Z5 
+0000056 230  NNT1    time                     T1.1.1[i110.3.3 T1.1.2[i110.3.3 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000056 231  ,       ,                        
 0000056 240  NN1     consent                  S7.4+ Q2.2 
 0000056 250  VBZ     is                       A3+ Z5 
@@ -1589,8 +1601,8 @@
 0000056 281  .       .                        
 0000056 282  -----   -----                    
 0000056 290  CS      If                       Z7 
-0000056 300  NNB     Mr.                      Z1m[i111.2.1 S2.2m Z1m[i110.2.1 
-0000056 310  NP1     Trump                    Z1m[i111.2.2 Z1mf Z1m[i110.2.2 
+0000056 300  NNB     Mr.                      Z1m[i112.2.1 S2.2m Z1m[i111.2.1 
+0000056 310  NP1     Trump                    Z1m[i112.2.2 Z1mf Z1m[i111.2.2 
 0000056 320  VHD     had                      A9+ Z5 A2.2 S4 
 0000056 330  DD      any                      N5.1+ N5 
 0000056 340  NN1     type                     A4.1 A6.2+ S1.2 Q1.2 
@@ -1615,8 +1627,8 @@
 0000058 041  ,       ,                        
 0000058 050  PPHS1   she                      Z8f 
 0000058 060  VVZ     says                     Q2.1 
-0000058 070  NNB     Mr.                      Z1m[i112.2.1 S2.2m 
-0000058 080  NP1     Trump                    Z1m[i112.2.2 Z1mf 
+0000058 070  NNB     Mr.                      Z1m[i113.2.1 S2.2m 
+0000058 080  NP1     Trump                    Z1m[i113.2.2 Z1mf 
 0000058 090  VVD     tied                     A2.2 A1.1.1 S5+ S6+ A1.7+ 
 0000058 100  PPHO1   her                      Z8f 
 0000058 110  II      to                       Z5 
@@ -1644,8 +1656,8 @@
 0000058 292  -----   -----                    
 0000058 300  PPHS1   She                      Z8f 
 0000058 310  VVZ     says                     Q2.1 
-0000058 320  NNB     Mr.                      Z1m[i114.2.1 S2.2m Z1m[i113.2.1 
-0000058 330  NP1     Trump                    Z1m[i114.2.2 Z1mf Z1m[i113.2.2 
+0000058 320  NNB     Mr.                      Z1m[i115.2.1 S2.2m Z1m[i114.2.1 
+0000058 330  NP1     Trump                    Z1m[i115.2.2 Z1mf Z1m[i114.2.2 
 0000058 340  RR      violently                E3- A13.3 
 0000058 350  VVD     struck                   I3.1 E3- A1.1.1 A11.2+ A8 E2+ X3.2 A9+ 
 0000058 360  PPHO1   her                      Z8f 
@@ -1668,8 +1680,8 @@
 0000058 500  VHD     had                      Z5 A9+ A2.2 S4 
 0000058 510  VDN     done                     A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
 0000058 511  ,       ,                        
-0000058 520  NNB     Mr.                      Z1m[i115.2.1 S2.2m 
-0000058 530  NP1     Trump                    Z1m[i115.2.2 Z1mf 
+0000058 520  NNB     Mr.                      Z1m[i116.2.1 S2.2m 
+0000058 530  NP1     Trump                    Z1m[i116.2.2 Z1mf 
 0000058 540  VVD     threatened               E3-/Q2.2 A15- X2.6+/O4.2- A7+ 
 0000058 550  CST     that                     Z8 Z5 
 0000058 560  PPHS1   she                      Z8f 
@@ -1694,13 +1706,14 @@
 0000058 730  NN1     fear                     E5- 
 0000058 740  IO      of                       Z5 
 0000058 750  PPHO1   him                      Z8m 
-0000058 760  RR      ever                     T2++[i116.2.1 T1.1 N6+++ A13 
-0000058 770  RR@     since                    T2++[i116.2.2 N4 
+0000058 760  RR      ever                     T2++[i117.2.1 T1.1 N6+++ A13 
+0000058 770  RR@     since                    T2++[i117.2.2 N4 
 0000058 771  .       .                        
 0000059 001  -----   -----                    
-0000060 010  JJ      New                      T3- 
-0000060 020  NP1     Yorks                    Z2[i117.2.1 Z1mf[i117.2.1 Z2 Z1mf 
-0000060 030  MC      five                     Z2[i117.2.2 Z1mf[i117.2.2 N1 T3 T1.2 
+0000060 010  NP1     New                      Z2[i119.2.1 Z1mf[i118.2.1 Z3c[i118.2.1 
+0000060 020  NP1     York                     Z2[i119.2.2 Z2 Z1mf Z1mf[i118.2.2 Z3c[i118.2.2 
+0000060 021  GE      's                       Z5 
+0000060 030  MC      five                     N1 T3 T1.2 
 0000060 040  NNT1    year                     T1.3 P1c 
 0000060 050  NN1     statute                  G2.1 
 0000060 060  IO      of                       Z5 
@@ -1721,12 +1734,13 @@
 0000060 192  -----   -----                    
 0000060 200  RR      However                  Z4 
 0000060 201  ,       ,                        
-0000060 210  NP1     Jane                     Z1f 
-0000060 220  VDZ     Does                     A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000060 210  NP1     Jane                     Z1mf[i120.2.1 Z3c[i120.2.1 Z1f 
+0000060 220  NP1     Doe                      Z1mf[i120.2.2 Z3c[i120.2.2 
+0000060 221  GE      's                       Z5 
 0000060 230  NN1     attorney                 G2.1/S2mf 
 0000060 231  ,       ,                        
-0000060 240  NP1     Thomas                   Z1mf[i118.2.1 Z3c[i118.2.1 Z1mf 
-0000060 250  NP1     Meagher                  Z1mf[i118.2.2 Z3c[i118.2.2 
+0000060 240  NP1     Thomas                   Z1mf[i121.2.1 Z3c[i121.2.1 Z1mf 
+0000060 250  NP1     Meagher                  Z1mf[i121.2.2 Z3c[i121.2.2 
 0000060 251  ,       ,                        
 0000060 260  VVZ     argues                   Q2.1 Q2.1/A6.1- Q2.1/E3- Q2.1/A2.2 
 0000060 270  II      in                       Z5 
@@ -1739,14 +1753,14 @@
 0000060 340  VBDZ    was                      Z5 A3+ 
 0000060 350  VVN     threatened               E3-/Q2.2 A15- X2.6+/O4.2- A7+ 
 0000060 360  II      by                       Z5 
-0000060 370  NNB     Mr.                      Z1m[i119.2.1 S2.2m 
-0000060 380  NP1     Trump                    Z1m[i119.2.2 Z1mf 
+0000060 370  NNB     Mr.                      Z1m[i122.2.1 S2.2m 
+0000060 380  NP1     Trump                    Z1m[i122.2.2 Z1mf 
 0000060 381  ,       ,                        
 0000060 390  PPHS1   she                      Z8f 
 0000060 400  VHZ     has                      Z5 A9+ A2.2 S4 
 0000060 410  VBN     been                     A3+ Z5 
-0000060 420  II      under                    S6+[i120.2.1 Z5 
-0000060 430  NN1     duress                   S6+[i120.2.2 
+0000060 420  II      under                    S6+[i123.2.1 Z5 
+0000060 430  NN1     duress                   S6+[i123.2.2 
 0000060 440  DB      all                      N5.1+ 
 0000060 450  DD1     this                     M6 Z5 Z8 
 0000060 460  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
@@ -1760,8 +1774,8 @@
 0000060 530  JJ      additional               N5++ 
 0000060 540  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000060 550  TO      to                       Z5 
-0000060 560  VVI     come                     M1[i121.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
-0000060 570  RL      forward                  M1[i121.2.2 M6 T1.1.3 
+0000060 560  VVI     come                     M1[i124.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000060 570  RL      forward                  M1[i124.2.2 M6 T1.1.3 
 0000060 571  .       .                        
 0000060 572  -----   -----                    
 0000060 580  RR      Legally                  G2.1+ 
@@ -1791,8 +1805,8 @@
 0000060 770  NN1     complaint                Q2.2/E2- B2-@ 
 0000060 780  VVZ     alleges                  Q2.2/A5.2 
 0000060 781  ,       ,                        
-0000060 790  NP1     Jane                     Z1mf[i122.2.1 Z3c[i122.2.1 Z1f 
-0000060 800  NP1     Doe                      Z1mf[i122.2.2 Z3c[i122.2.2 
+0000060 790  NP1     Jane                     Z1mf[i125.2.1 Z3c[i125.2.1 Z1f 
+0000060 800  NP1     Doe                      Z1mf[i125.2.2 Z3c[i125.2.2 
 0000060 810  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
 0000060 820  XX      not                      Z6 
 0000060 830  VHI     have                     A9+ Z5 A2.2 S4 
@@ -1803,15 +1817,15 @@
 0000060 880  NN1     institute                P1/S5+c X2.4/S5+c 
 0000060 890  NN1     suit                     B5 G2.1 K5.2 
 0000060 900  RRR     earlier                  N4 T1.1.1 T4++ 
-0000060 910  II      in                       N3.8[i123.2.1 T4[i123.2.1 Z5 
-0000060 920  NNT1    time                     N3.8[i123.2.2 T4[i123.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000060 910  II      in                       N3.8[i126.2.1 T4[i126.2.1 Z5 
+0000060 920  NNT1    time                     N3.8[i126.2.2 T4[i126.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000060 921  .       .                        
 0000060 922  -----   -----                    
 0000060 930  PPHS1   He                       Z8m 
 0000060 940  VVZ     cites                    Q2.2 Q1.2 G2.1 
 0000060 950  MC      two                      N1 T3 T1.2 
-0000060 960  NP1     New                      Z2[i125.2.1 Z1mf[i124.2.1 Z3c[i124.2.1 
-0000060 970  NP1     York                     Z2[i125.2.2 Z2 Z1mf Z1mf[i124.2.2 Z3c[i124.2.2 
+0000060 960  NP1     New                      Z2[i128.2.1 Z1mf[i127.2.1 Z3c[i127.2.1 
+0000060 970  NP1     York                     Z2[i128.2.2 Z2 Z1mf Z1mf[i127.2.2 Z3c[i127.2.2 
 0000060 980  NN2     cases                    A4.1 O2 G2.1 B3 X4.1 Q3 
 0000060 990  DDQ     which                    Z8 Z5 
 0000060 000  PPIS1   I                        Z8mf 
@@ -1828,8 +1842,9 @@
 0000062 040  VBR     are                      Z5 A3+ 
 0000062 050  VVN     attached                 A1.7+ A2.2 
 0000062 060  II      to                       Z5 
-0000062 070  NP1     Jane                     Z1f 
-0000062 080  VDZ     Does                     A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000062 070  NP1     Jane                     Z1mf[i129.2.1 Z3c[i129.2.1 Z1f 
+0000062 080  NP1     Doe                      Z1mf[i129.2.2 Z3c[i129.2.2 
+0000062 081  GE      's                       Z5 
 0000062 090  NN2     complaints               Q2.2/E2- B2-@ 
 0000062 100  VVN     sworn                    Q2.2/S1.2.4- Q2.2 
 0000062 110  NN2     declarations             Q2.2 
@@ -1843,8 +1858,8 @@
 0000062 170  MD      first                    N4 
 0000062 180  VBZ     is                       A3+ Z5 
 0000062 190  II      from                     Z5 
-0000062 200  NP1     Jane                     Z1mf[i126.2.1 Z3c[i126.2.1 Z1f 
-0000062 210  NP1     Doe                      Z1mf[i126.2.2 Z3c[i126.2.2 
+0000062 200  NP1     Jane                     Z1mf[i130.2.1 Z3c[i130.2.1 Z1f 
+0000062 210  NP1     Doe                      Z1mf[i130.2.2 Z3c[i130.2.2 
 0000062 220  PPX1    herself                  Z8f 
 0000062 221  ,       ,                        
 0000062 230  VVG     telling                  Q2.2 Q2.1 X3 A10+ 
@@ -1856,8 +1871,8 @@
 0000062 280  AT      the                      Z5 
 0000062 290  NN1     allegation               Q2.2/A5.2- 
 0000062 300  CST     that                     Z5 Z8 
-0000062 310  NP1     Jeffrey                  Z1mf[i127.2.1 Z3c[i127.2.1 Z1m 
-0000062 320  NP1     Epstein                  Z1mf[i127.2.2 Z3c[i127.2.2 
+0000062 310  NP1     Jeffrey                  Z1mf[i131.2.1 Z3c[i131.2.1 Z1m 
+0000062 320  NP1     Epstein                  Z1mf[i131.2.2 Z3c[i131.2.2 
 0000062 330  RR      also                     N5++ 
 0000062 340  VVN     raped                    G2.1-/S3.2 
 0000062 350  PPHO1   her                      Z8f 
@@ -1923,14 +1938,15 @@
 0000068 030  VVD     stated                   Q2.1 
 0000068 040  CST     that                     Z8 Z5 
 0000068 050  PPIS1   I                        Z8mf 
-0000068 060  VV0     shouldnt                 Z99 
-0000068 070  RR      ever                     T1.1 N6+++ A13 
-0000068 080  VV0     say                      Q2.1 Z4% 
+0000068 060  VM      should                   S6+ A7+ 
+0000068 061  XX      n't                      N6/Z6[i132.2.1 Z6 
+0000068 070  RR      ever                     N6/Z6[i132.2.2 T1.1 N6+++ A13 
+0000068 080  VVI     say                      Q2.1 Z4% 
 0000068 090  PN1     anything                 Z8 
 0000068 100  CS      if                       Z7 
 0000068 110  PPIS1   I                        Z8mf 
 0000068 120  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000068 121  XX      nt                       S9/Q4.1 Z3c 
+0000068 121  XX      n't                      Z6 
 0000068 130  VVI     want                     X7+ S6+ A7+ S3.2 A9- 
 0000068 140  TO      to                       Z5 
 0000068 150  VVI     disappear                A10- M1 A3- 
@@ -1990,19 +2006,20 @@
 0000070 100  VBZ     is                       Z5 A3+ 
 0000070 110  VVN     signed                   Q1.2 Q1.1 G2.1 I3.1 S9 
 0000070 120  II      by                       Z5 
-0000070 130  NP1     Tiffany                  Z1mf[i128.2.1 Z3c[i128.2.1 Z3c 
-0000070 140  NP1     Doe                      Z1mf[i128.2.2 Z3c[i128.2.2 
+0000070 130  NP1     Tiffany                  Z1mf[i133.2.1 Z3c[i133.2.1 Z3c 
+0000070 140  NP1     Doe                      Z1mf[i133.2.2 Z3c[i133.2.2 
 0000070 141  ,       ,                        
-0000070 150  NNB     Mr.                      Z1m[i129.2.1 S2.2m 
-0000070 160  NP1     Epsteins                 Z1m[i129.2.2 
+0000070 150  NNB     Mr.                      Z1m[i134.2.1 S2.2m 
+0000070 160  NP1     Epstein                  Z1m[i134.2.2 
+0000070 161  GE      's                       Z5 
 0000070 170  NN1     party                    K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c 
 0000070 180  NN1     planner                  S7.1+/I3.2/S2mf 
 0000070 190  II      from                     Z5 
 0000070 200  MCMC    1991-2000                N1 T1.2 T3 T1.3 N3.2 
 0000070 201  .       .                        
 0000070 202  -----   -----                    
-0000070 210  NP1     Tiffany                  Z1mf[i130.2.1 Z3c[i130.2.1 Z3c 
-0000070 220  NP1     Doe                      Z1mf[i130.2.2 Z3c[i130.2.2 
+0000070 210  NP1     Tiffany                  Z1mf[i135.2.1 Z3c[i135.2.1 Z3c 
+0000070 220  NP1     Doe                      Z1mf[i135.2.2 Z3c[i135.2.2 
 0000070 230  VVZ     says                     Q2.1 
 0000070 240  CST     that                     Z5 Z8 
 0000070 250  APPGE   her                      Z8f 
@@ -2028,28 +2045,29 @@
 0000070 400  NN2     children                 S2mf/T3- S4mf 
 0000070 401  .       .                        
 0000071 001  -----   -----                    
-0000072 010  NP1     Tiffany                  Z1mf[i131.2.1 Z3c[i131.2.1 Z3c 
-0000072 020  NP1     Doe                      Z1mf[i131.2.2 Z3c[i131.2.2 
+0000072 010  NP1     Tiffany                  Z1mf[i136.2.1 Z3c[i136.2.1 Z3c 
+0000072 020  NP1     Doe                      Z1mf[i136.2.2 Z3c[i136.2.2 
 0000072 030  VVZ     says                     Q2.1 
 0000072 040  CST     that                     Z8 Z5 
 0000072 050  PPHS1   she                      Z8f 
 0000072 060  VVD@    recruited                I3.1/A9+ 
-0000072 070  NP1     Jane                     Z1mf[i132.2.1 Z3c[i132.2.1 Z1f 
-0000072 080  NP1     Doe                      Z1mf[i132.2.2 Z3c[i132.2.2 
+0000072 070  NP1     Jane                     Z1mf[i137.2.1 Z3c[i137.2.1 Z1f 
+0000072 080  NP1     Doe                      Z1mf[i137.2.2 Z3c[i137.2.2 
 0000072 090  II      at                       Z5 
 0000072 100  AT      the                      Z5 
-0000072 110  NP1     Port                     Z2[i134.2.1 Z1mf[i133.2.1 Z3c[i133.2.1 
-0000072 120  NP1     Authority                Z2[i136.3.1 Z2[i135.3.1 Z2[i134.2.2 Z1mf[i133.2.2 Z3c[i133.2.2 
-0000072 130  II      in                       Z2[i136.3.2 Z2[i135.3.2 Z5 
-0000072 140  NP1     New                      Z2[i136.3.3 Z2[i135.3.3 Z2[i138.2.1 Z1mf[i137.2.1 Z3c[i137.2.1 
-0000072 150  NP1     York                     Z2[i138.2.2 Z2 Z1mf Z1mf[i137.2.2 Z3c[i137.2.2 
+0000072 110  NP1     Port                     Z2[i139.2.1 Z1mf[i138.2.1 Z3c[i138.2.1 
+0000072 120  NP1     Authority                Z2[i141.3.1 Z2[i140.3.1 Z2[i139.2.2 Z1mf[i138.2.2 Z3c[i138.2.2 
+0000072 130  II      in                       Z2[i141.3.2 Z2[i140.3.2 Z5 
+0000072 140  NP1     New                      Z2[i141.3.3 Z2[i140.3.3 Z2[i143.2.1 Z1mf[i142.2.1 Z3c[i142.2.1 
+0000072 150  NP1     York                     Z2[i143.2.2 Z2 Z1mf Z1mf[i142.2.2 Z3c[i142.2.2 
 0000072 151  ,       ,                        
 0000072 160  VVD     persuaded                Q2.2 
 0000072 170  PPHO1   her                      Z8f 
 0000072 180  TO      to                       Z5 
 0000072 190  VVI     attend                   S1.1.3+ 
-0000072 200  NNB     Mr.                      Z1m[i139.2.1 S2.2m 
-0000072 210  NP1     Epsteins                 Z1m[i139.2.2 
+0000072 200  NNB     Mr.                      Z1m[i144.2.1 S2.2m 
+0000072 210  NP1     Epstein                  Z1m[i144.2.2 
+0000072 211  GE      's                       Z5 
 0000072 220  NN2     parties                  S1.1.3+ G1.2 S1.1.3+/S2mf S5+ 
 0000072 221  ,       ,                        
 0000072 230  CC      and                      Z5 
@@ -2059,8 +2077,8 @@
 0000072 270  JJ      sexual                   S3.2 
 0000072 280  NN2     assaults                 E3- X8+ 
 0000072 290  II      on                       Z5 
-0000072 300  NP1     Jane                     Z1mf[i140.2.1 Z3c[i140.2.1 Z1f 
-0000072 310  NP1     Doe                      Z1mf[i140.2.2 Z3c[i140.2.2 
+0000072 300  NP1     Jane                     Z1mf[i145.2.1 Z3c[i145.2.1 Z1f 
+0000072 310  NP1     Doe                      Z1mf[i145.2.2 Z3c[i145.2.2 
 0000072 311  :       :                        
 0000074 010  PPIS1   I                        Z8mf 
 0000074 020  RR      personally               S5- 
@@ -2075,20 +2093,20 @@
 0000074 110  JJ      sexual                   S3.2 
 0000074 120  NN2     acts                     A1.1.1 K4 
 0000074 130  IW      with                     Z5 
-0000074 140  NP1     Donald                   Z1mf[i142.3.1 Z3c[i142.3.1 Z1mf Z1mf[i141.2.1 Z3c[i141.2.1 
-0000074 150  NP1     J.                       Z1mf[i142.3.2 Z3c[i142.3.2 Z1mf[i141.2.2 Z3c[i141.2.2 Z1mf[i143.2.1 Z3c[i143.2.1 
-0000074 160  NN1     Trump                    Z3c[i142.3.3 Z1mf[i142.3.3 Z1mf Z1mf[i143.2.2 Z3c[i143.2.2 
+0000074 140  NP1     Donald                   Z1mf[i147.3.1 Z3c[i147.3.1 Z1mf Z1mf[i146.2.1 Z3c[i146.2.1 
+0000074 150  NP1     J.                       Z1mf[i147.3.2 Z3c[i147.3.2 Z1mf[i146.2.2 Z3c[i146.2.2 Z1mf[i148.2.1 Z3c[i148.2.1 
+0000074 160  NN1     Trump                    Z3c[i147.3.3 Z1mf[i147.3.3 Z1mf Z1mf[i148.2.2 Z3c[i148.2.2 
 0000074 170  CC      and                      Z5 
-0000074 180  NNB     Mr.                      Z1m[i144.2.1 S2.2m 
-0000074 190  NP1     Epstein                  Z1m[i144.2.2 
+0000074 180  NNB     Mr.                      Z1m[i149.2.1 S2.2m 
+0000074 190  NP1     Epstein                  Z1m[i149.2.2 
 0000074 191  .       .                        
 0000074 192  -----   -----                    
 0000074 200  RR      Both                     Z5 
-0000074 210  NNB     Mr.                      Z1m[i146.2.1 S2.2m Z1m[i145.2.1 
-0000074 220  NP1     Trump                    Z1m[i146.2.2 Z1mf Z1m[i145.2.2 
+0000074 210  NNB     Mr.                      Z1m[i151.2.1 S2.2m Z1m[i150.2.1 
+0000074 220  NP1     Trump                    Z1m[i151.2.2 Z1mf Z1m[i150.2.2 
 0000074 230  CC      and                      Z5 
-0000074 240  NNB     Mr.                      Z1m[i147.2.1 S2.2m 
-0000074 250  NP1     Epstein                  Z1m[i147.2.2 
+0000074 240  NNB     Mr.                      Z1m[i152.2.1 S2.2m 
+0000074 250  NP1     Epstein                  Z1m[i152.2.2 
 0000074 260  VBDR    were                     Z5 A3+ 
 0000074 270  VVN     advised                  Q2.2/S8+ Q2.1/X2.2+ 
 0000074 280  CST     that                     Z8 Z5 
@@ -2115,8 +2133,8 @@
 0000076 131  .       .                        
 0000076 132  -----   -----                    
 0000076 140  CCB     But                      Z5 
-0000076 150  NP1     Tiffany                  Z1mf[i148.2.1 Z3c[i148.2.1 Z3c 
-0000076 160  NP1     Doe                      Z1mf[i148.2.2 Z3c[i148.2.2 
+0000076 150  NP1     Tiffany                  Z1mf[i153.2.1 Z3c[i153.2.1 Z3c 
+0000076 160  NP1     Doe                      Z1mf[i153.2.2 Z3c[i153.2.2 
 0000076 170  VVZ     says                     Q2.1 
 0000076 171  :       :                        
 0000078 010  PPIS1   I                        Z8mf 
@@ -2133,8 +2151,8 @@
 0000078 120  TO      to                       Z5 
 0000078 130  VHI     have                     A9+ Z5 A2.2 S4 
 0000078 140  IW      with                     Z5 
-0000078 150  NNB     Mr.                      Z1m[i149.2.1 S2.2m 
-0000078 160  NP1     Trump                    Z1m[i149.2.2 Z1mf 
+0000078 150  NNB     Mr.                      Z1m[i154.2.1 S2.2m 
+0000078 160  NP1     Trump                    Z1m[i154.2.2 Z1mf 
 0000078 170  II      during                   Z5 
 0000078 180  DD1     this                     M6 Z5 Z8 
 0000078 190  NN1     period                   T1.3 B1 Q3 P1/T1.3 
@@ -2146,8 +2164,8 @@
 0000078 240  DD2     these                    Z5 Z8 
 0000078 250  NN2     encounters               S3.1 A1.1.1 
 0000078 260  CS      where                    M6 
-0000078 270  NNB     Mr.                      Z1m[i150.2.1 S2.2m 
-0000078 280  NP1     Trump                    Z1m[i150.2.2 Z1mf 
+0000078 270  NNB     Mr.                      Z1m[i155.2.1 S2.2m 
+0000078 280  NP1     Trump                    Z1m[i155.2.2 Z1mf 
 0000078 290  RR      forcibly                 E6+ S1.2.5+ S7.1+ 
 0000078 300  VVN     raped                    G2.1-/S3.2 
 0000078 310  PPHO1   her                      Z8f 
@@ -2158,23 +2176,24 @@
 0000078 360  VVI     stop                     T2- S8- M8 H4 A1.1.1@ 
 0000078 361  .       .                        
 0000079 001  -----   -----                    
-0000080 010  NP1     Tiffany                  Z1mf[i151.2.1 Z3c[i151.2.1 Z3c 
-0000080 020  NP1     Doe                      Z1mf[i151.2.2 Z3c[i151.2.2 
+0000080 010  NP1     Tiffany                  Z1mf[i156.2.1 Z3c[i156.2.1 Z3c 
+0000080 020  NP1     Doe                      Z1mf[i156.2.2 Z3c[i156.2.2 
 0000080 030  VVZ     corroborates             A10+ A7+ Q2.2 
 0000080 031  ,       ,                        
-0000080 040  VVN     based                    T2+ M6 A2.2 A2.2[i152.2.1 
-0000080 050  II      on                       S5-[i153.3.1 Z5 A2.2[i152.2.2 
-0000080 060  APPGE   her                      S5-[i153.3.2 Z8f Z8[i154.2.1 
-0000080 070  DA      own                      S5-[i153.3.3 A9+ S5- Z8[i154.2.2 
+0000080 040  VVN     based                    T2+ M6 A2.2 A2.2[i157.2.1 
+0000080 050  II      on                       S5-[i158.3.1 Z5 A2.2[i157.2.2 
+0000080 060  APPGE   her                      S5-[i158.3.2 Z8f Z8[i159.2.1 
+0000080 070  DA      own                      S5-[i158.3.3 A9+ S5- Z8[i159.2.2 
 0000080 080  JJ      personal                 S5- S1.2.1+ 
 0000080 090  NN2     observations             X3.4 Q2.1/X2.4 X2.1 
 0000080 091  ,       ,                        
-0000080 100  RR21    just                     A13.4[i155.2.1 A14 T3--- T1.3- N3.3--- 
-0000080 110  RR22    about                    A13.4[i155.2.2 
+0000080 100  RR21    just                     A13.4[i160.2.1 A14 T3--- T1.3- N3.3--- 
+0000080 110  RR22    about                    A13.4[i160.2.2 
 0000080 120  PN1     everything               Z8/N5.1+ 
 0000080 130  II      in                       Z5 
-0000080 140  NP1     Jane                     Z1f 
-0000080 150  VDZ     Does                     A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000080 140  NP1     Jane                     Z1mf[i161.2.1 Z3c[i161.2.1 Z1f 
+0000080 150  NP1     Doe                      Z1mf[i161.2.2 Z3c[i161.2.2 
+0000080 151  GE      's                       Z5 
 0000080 160  NN1     complaint                Q2.2/E2- B2-@ 
 0000080 161  :       :                        
 0000080 170  DD1     that                     Z5 Z8 
@@ -2187,18 +2206,18 @@
 0000080 240  NN1     sex                      S2 S3.2 
 0000080 250  NN1     act                      A1.1.1 K4 A5.4- G2.1 P1% 
 0000080 260  IW      with                     Z5 
-0000080 270  NNB     Mr.                      Z1m[i156.2.1 S2.2m 
-0000080 280  NP1     Trump                    Z1m[i156.2.2 Z1mf 
+0000080 270  NNB     Mr.                      Z1m[i162.2.1 S2.2m 
+0000080 280  NP1     Trump                    Z1m[i162.2.2 Z1mf 
 0000080 281  ,       ,                        
 0000080 290  CST     that                     Z5 Z8 
-0000080 300  NNB     Mr.                      Z1m[i157.2.1 S2.2m 
-0000080 310  NP1     Trump                    Z1m[i157.2.2 Z1mf 
+0000080 300  NNB     Mr.                      Z1m[i163.2.1 S2.2m 
+0000080 310  NP1     Trump                    Z1m[i163.2.2 Z1mf 
 0000080 320  VVD     threatened               E3-/Q2.2 A15- X2.6+/O4.2- A7+ 
 0000080 330  AT      the                      Z5 
 0000080 340  NN1     life                     L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1 
 0000080 350  IO      of                       Z5 
-0000080 360  NP1     Jane                     Z1mf[i158.2.1 Z3c[i158.2.1 Z1f 
-0000080 370  NP1     Doe                      Z1mf[i158.2.2 Z3c[i158.2.2 
+0000080 360  NP1     Jane                     Z1mf[i164.2.1 Z3c[i164.2.1 Z1f 
+0000080 370  NP1     Doe                      Z1mf[i164.2.2 Z3c[i164.2.2 
 0000080 380  CS      if                       Z7 
 0000080 390  PPHS1   she                      Z8f 
 0000080 400  RR      ever                     T1.1 N6+++ A13 
@@ -2218,8 +2237,8 @@
 0000080 530  VDD     did                      A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
 0000080 531  .       .                        
 0000081 001  -----   -----                    
-0000082 010  NP1     Tiffany                  Z1mf[i159.2.1 Z3c[i159.2.1 Z3c 
-0000082 020  NP1     Doe                      Z1mf[i159.2.2 Z3c[i159.2.2 
+0000082 010  NP1     Tiffany                  Z1mf[i165.2.1 Z3c[i165.2.1 Z3c 
+0000082 020  NP1     Doe                      Z1mf[i165.2.2 Z3c[i165.2.2 
 0000082 030  PPX1    herself                  Z8f 
 0000082 040  VVZ     says                     Q2.1 
 0000082 050  CST     that                     Z8 Z5 
@@ -2229,17 +2248,17 @@
 0000082 090  JJ      mortal                   L1- A13.3 
 0000082 100  NN1     fear                     E5- 
 0000082 110  IO      of                       Z5 
-0000082 120  NNB     Mr.                      Z1m[i160.2.1 S2.2m 
-0000082 130  NP1     Trump                    Z1m[i160.2.2 Z1mf 
-0000082 140  II      to                       T1.1.2[i161.3.1 Z5 
-0000082 150  DD1     this                     T1.1.2[i161.3.2 M6 Z5 Z8 
-0000082 160  NNT1    day                      T1.1.2[i161.3.3 T1.3 
+0000082 120  NNB     Mr.                      Z1m[i166.2.1 S2.2m 
+0000082 130  NP1     Trump                    Z1m[i166.2.2 Z1mf 
+0000082 140  II      to                       T1.1.2[i167.3.1 Z5 
+0000082 150  DD1     this                     T1.1.2[i167.3.2 M6 Z5 Z8 
+0000082 160  NNT1    day                      T1.1.2[i167.3.3 T1.3 
 0000082 161  :       :                        
 0000083 010  PPIS1   I                        Z8mf 
 0000083 020  VBM     am                       Z5 A3+ 
-0000083 030  VVG     coming                   M1[i162.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 A4.1[i163.2.1 M1[i163.2.1 B1[i163.2.1 N5[i163.2.1 X6+[i163.2.1 X2.1[i163.2.1 
-0000083 040  RL      forward                  M1[i162.2.2 M6 T1.1.3 
-0000083 050  TO      to                       Z5 A4.1[i163.2.2 M1[i163.2.2 B1[i163.2.2 N5[i163.2.2 X6+[i163.2.2 X2.1[i163.2.2 
+0000083 030  VVG     coming                   M1[i168.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 A4.1[i169.2.1 M1[i169.2.1 B1[i169.2.1 N5[i169.2.1 X6+[i169.2.1 X2.1[i169.2.1 
+0000083 040  RL      forward                  M1[i168.2.2 M6 T1.1.3 
+0000083 050  TO      to                       Z5 A4.1[i169.2.2 M1[i169.2.2 B1[i169.2.2 N5[i169.2.2 X6+[i169.2.2 X2.1[i169.2.2 
 0000083 060  VVI     swear                    Q2.2/S1.2.4- Q2.2 
 0000083 070  II      to                       Z5 
 0000083 080  AT      the                      Z5 
@@ -2261,11 +2280,11 @@
 0000083 240  AT      the                      Z5 
 0000083 250  NN2     hands                    B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf 
 0000083 260  IO      of                       Z5 
-0000083 270  NNB     Mr.                      Z1m[i164.2.1 S2.2m 
-0000083 280  NP1     Trump                    Z1m[i164.2.2 Z1mf 
+0000083 270  NNB     Mr.                      Z1m[i170.2.1 S2.2m 
+0000083 280  NP1     Trump                    Z1m[i170.2.2 Z1mf 
 0000083 290  CC      and                      Z5 
-0000083 300  NNB     Mr.                      Z1m[i165.2.1 S2.2m 
-0000083 310  NP1     Epstein                  Z1m[i165.2.2 
+0000083 300  NNB     Mr.                      Z1m[i171.2.1 S2.2m 
+0000083 310  NP1     Epstein                  Z1m[i171.2.2 
 0000083 311  .       .                        
 0000083 312  -----   -----                    
 0000083 313  .       .                        
@@ -2280,8 +2299,8 @@
 0000083 390  NN1     penalty                  G2.1 I1.3 K5.1 
 0000083 400  IF      for                      Z5 
 0000083 410  NN1     perjury                  A5.2-/G2.1- 
-0000083 420  CS21    even                     Z5[i166.2.1 
-0000083 430  CS22    though                   Z5[i166.2.2 Z5 
+0000083 420  CS21    even                     Z5[i172.2.1 
+0000083 430  CS22    though                   Z5[i172.2.2 Z5 
 0000083 440  PPIS1   I                        Z8mf 
 0000083 450  RR      fully                    A13.2 N5.1+ 
 0000083 460  VV0     understand               X2.5+ 
@@ -2305,28 +2324,30 @@
 0000085 030  DD1     this                     Z8 M6 Z5 
 0000085 031  ,       ,                        
 0000085 040  CC      and                      Z5 
-0000085 050  VVN     based                    A2.2[i167.2.1 T2+ M6 A2.2 
-0000085 060  II      on                       A2.2[i167.2.2 Z5 
+0000085 050  VVN     based                    A2.2[i173.2.1 T2+ M6 A2.2 
+0000085 060  II      on                       A2.2[i173.2.2 Z5 
 0000085 070  AT      the                      Z5 
 0000085 080  NN1     record                   Q1.2 K3 T1.1.1 A5.1+++ 
 0000085 090  RR      thus                     Z5/A2.2 
 0000085 100  RR      far                      A13.3 N3.3+ X9.2+ 
 0000085 101  ,       ,                        
-0000085 110  NP1     Jane                     Z1f 
-0000085 120  VDZ     Does                     A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
-0000085 130  VVZ     claims                   Q2.2 A9+ 
-0000085 140  VVI     appear                   A8 A10+ A3+ G2.1 K4 Q4 
+0000085 110  NP1     Jane                     Z1mf[i174.2.1 Z3c[i174.2.1 Z1f 
+0000085 120  NP1     Doe                      Z1mf[i174.2.2 Z3c[i174.2.2 
+0000085 121  GE      's                       Z5 
+0000085 130  NN2     claims                   Q2.2 A9+ G2.1 
+0000085 140  VV0     appear                   A8 A10+ A3+ G2.1 K4 Q4 
 0000085 150  JJ      credible                 A5.2+/A8 
 0000085 151  .       .                        
 0000085 152  -----   -----                    
-0000085 160  NNB     Mr.                      Z1m[i169.2.1 S2.2m Z1m[i168.2.1 
-0000085 170  NP1     Epsteins                 Z1m[i169.2.2 Z1m[i168.2.2 
+0000085 160  NNB     Mr.                      Z1m[i176.2.1 S2.2m Z1m[i175.2.1 
+0000085 170  NP1     Epstein                  Z1m[i176.2.2 Z1m[i175.2.2 
+0000085 171  GE      's                       Z5 
 0000085 180  DA      own                      A9+ S5- 
 0000085 190  JJ      sexual                   S3.2 
 0000085 200  NN2     crimes                   G2.1- 
 0000085 210  CC      and                      Z5 
-0000085 220  NN2     parties                  A9-[i170.2.1 S1.1.3+ G1.2 S1.1.3+/S2mf S5+ 
-0000085 230  IW      with                     A9-[i170.2.2 Z5 
+0000085 220  NN2     parties                  A9-[i177.2.1 S1.1.3+ G1.2 S1.1.3+/S2mf S5+ 
+0000085 230  IW      with                     A9-[i177.2.2 Z5 
 0000085 240  JJ      underage                 T3- 
 0000085 250  NN2     girls                    S2.1f L2f@ 
 0000085 260  VBR     are                      Z5 A3+ 
@@ -2335,32 +2356,34 @@
 0000085 281  ,       ,                        
 0000085 290  CSA     as                       Z5 
 0000085 300  VBZ     is                       A3+ Z5 
-0000085 310  NNB     Mr.                      Z1m[i171.2.1 S2.2m 
-0000085 320  NP1     Trumps                   Z1m[i171.2.2 Z1mf 
+0000085 310  NNB     Mr.                      Z1m[i178.2.1 S2.2m 
+0000085 320  NP1     Trump                    Z1m[i178.2.2 Z1mf 
+0000085 321  GE      's                       Z5 
 0000085 330  NN1     relationship             S3.1 S3.2 A2.2 S4 
 0000085 340  IW      with                     Z5 
 0000085 350  PPHO1   him                      Z8m 
-0000085 360  MC      two                      T1.1.1[i172.3.1 N1 T3 T1.2 
-0000085 370  NNT2    decades                  T1.1.1[i172.3.2 T1.3 T1.1.1[i173.2.1 
-0000085 380  RA      ago                      T1.1.1[i172.3.3 T1.1.1 T1.1.1[i173.2.2 
+0000085 360  MC      two                      T1.1.1[i179.3.1 N1 T3 T1.2 
+0000085 370  NNT2    decades                  T1.1.1[i179.3.2 T1.3 T1.1.1[i180.2.1 
+0000085 380  RA      ago                      T1.1.1[i179.3.3 T1.1.1 T1.1.1[i180.2.2 
 0000085 390  II      in                       Z5 
-0000085 400  NP1     New                      Z1mf[i175.3.1 Z3c[i175.3.1 Z1mf[i174.2.1 Z3c[i174.2.1 Z2[i176.2.1 
-0000085 410  NP1     York                     Z1mf[i175.3.2 Z3c[i175.3.2 Z2 Z1mf Z1mf[i174.2.2 Z3c[i174.2.2 Z2[i176.2.2 Z2[i177.2.1 Z3c[i177.2.1 Z1mf[i178.2.1 Z3c[i178.2.1 
-0000085 420  NN1     City                     Z3c[i175.3.3 Z1mf[i175.3.3 M7/I2.1c Z3c Z2[i177.2.2 Z3c[i177.2.2 Z1mf[i178.2.2 Z3c[i178.2.2 
+0000085 400  NP1     New                      Z1mf[i182.3.1 Z3c[i182.3.1 Z1mf[i181.2.1 Z3c[i181.2.1 Z2[i183.2.1 
+0000085 410  NP1     York                     Z1mf[i182.3.2 Z3c[i182.3.2 Z2 Z1mf Z1mf[i181.2.2 Z3c[i181.2.2 Z2[i183.2.2 Z2[i184.2.1 Z3c[i184.2.1 Z1mf[i185.2.1 Z3c[i185.2.1 
+0000085 420  NN1     City                     Z3c[i182.3.3 Z1mf[i182.3.3 M7/I2.1c Z3c Z2[i184.2.2 Z3c[i184.2.2 Z1mf[i185.2.2 Z3c[i185.2.2 
 0000085 421  .       .                        
 0000085 422  -----   -----                    
-0000085 430  NNB     Mr.                      Z1m[i180.2.1 S2.2m Z1m[i179.2.1 
-0000085 440  NP1     Trump                    Z1m[i180.2.2 Z1mf Z1m[i179.2.2 
+0000085 430  NNB     Mr.                      Z1m[i187.2.1 S2.2m Z1m[i186.2.1 
+0000085 440  NP1     Trump                    Z1m[i187.2.2 Z1mf Z1m[i186.2.2 
 0000085 450  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
 0000085 460  AT1     a                        Z5 
 0000085 470  NN1     reporter                 Q4.2/S2mf 
 0000085 480  AT1     a                        Z5 
-0000085 490  DA2     few                      T1.1.1[i181.3.1 N5- 
-0000085 500  NNT2    years                    T1.1.1[i181.3.2 T1.3 T1.1.1[i182.2.1 
-0000085 510  RA      ago                      T1.1.1[i181.3.3 T1.1.1 T1.1.1[i182.2.2 
+0000085 490  DA2     few                      T1.1.1[i188.3.1 N5- 
+0000085 500  NNT2    years                    T1.1.1[i188.3.2 T1.3 T1.1.1[i189.2.1 
+0000085 510  RA      ago                      T1.1.1[i188.3.3 T1.1.1 T1.1.1[i189.2.2 
 0000085 511  :       :                        
-0000085 520  VV0     Ive                      Z99 
-0000085 530  JJ@     known                    X2.2+ 
+0000085 520  PPIS1   I                        Z8mf 
+0000085 521  VH0     've                      Z5 A9+ A2.2 
+0000085 530  VVN     known                    X2.2+ S3.2/B1% 
 0000085 540  NP1     Jeff                     Z1m 
 0000085 550  IF      for                      Z5 
 0000085 560  MC      15                       N1 T1.2 T3 T1.3 N3.2 
@@ -2372,9 +2395,9 @@
 0000085 591  .       .                        
 0000085 592  -----   -----                    
 0000085 600  PPHS1   He                       Z8m 
-0000085 601  VBZ     s                        T1.3 I1.1 Z5 
-0000085 610  AT1     a                        N5+[i183.2.1 N6+[i183.2.1 A13.3[i183.2.1 Z5 
-0000085 620  NN1     lot                      N5+[i183.2.2 N6+[i183.2.2 A13.3[i183.2.2 
+0000085 601  VBZ     's                       A3+ Z5 
+0000085 610  AT1     a                        N5+[i190.2.1 N6+[i190.2.1 A13.3[i190.2.1 Z5 
+0000085 620  NN1     lot                      N5+[i190.2.2 N6+[i190.2.2 A13.3[i190.2.2 
 0000085 630  IO      of                       Z5 
 0000085 640  JJ      fun                      E4.1+ 
 0000085 650  TO      to                       Z5 
@@ -2391,9 +2414,9 @@
 0000085 740  VVZ     likes                    E2+ 
 0000085 750  JJ      beautiful                O4.2+ 
 0000085 760  NN2     women                    S2.1f 
-0000085 770  RG      as                       A13.4[i184.3.1 A13 
-0000085 780  DA1     much                     A13.4[i184.3.2 N5+ I1.3+ 
-0000085 790  CSA     as                       A13.4[i184.3.3 Z5 
+0000085 770  RG      as                       A13.4[i191.3.1 A13 
+0000085 780  DA1     much                     A13.4[i191.3.2 N5+ I1.3+ 
+0000085 790  CSA     as                       A13.4[i191.3.3 Z5 
 0000085 800  PPIS1   I                        Z8mf 
 0000085 810  VD0     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
 0000085 811  ,       ,                        
@@ -2402,10 +2425,10 @@
 0000085 840  IO      of                       Z5 
 0000085 850  PPHO2   them                     Z8mfn 
 0000085 860  VBR     are                      A3+ Z5 
-0000085 870  II      on                       T3--[i185.4.1 Z5 
-0000085 880  AT      the                      T3--[i185.4.2 Z5 
-0000085 890  JJR     younger                  T3--[i185.4.3 T3-- 
-0000085 900  NN1     side                     T3--[i185.4.4 A4.1 M6 N5.1- S7.3+/S5+c B1 S5+c S4c F1 S1.2 
+0000085 870  II      on                       T3--[i192.4.1 Z5 
+0000085 880  AT      the                      T3--[i192.4.2 Z5 
+0000085 890  JJR     younger                  T3--[i192.4.3 T3-- 
+0000085 900  NN1     side                     T3--[i192.4.4 A4.1 M6 N5.1- S7.3+/S5+c B1 S5+c S4c F1 S1.2 
 0000085 901  .       .                        
 0000085 902  -----   -----                    
 0000085 910  AT      No                       Z6 
@@ -2416,14 +2439,14 @@
 0000085 950  NP1     Jeffrey                  Z1m 
 0000085 960  VVZ     enjoys                   E2+ A9+ E4.1+ 
 0000085 970  APPGE   his                      Z8m 
-0000085 980  JJ      social                   S1.1.1[i186.2.1 S1.1.1 
-0000085 990  NN1     life                     S1.1.1[i186.2.2 L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1 
+0000085 980  JJ      social                   S1.1.1[i193.2.1 S1.1.1 
+0000085 990  NN1     life                     S1.1.1[i193.2.2 L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1 
 0000085 991  .       .                        
 0000086 001  -----   -----                    
 0000087 010  RR      Powerfully               S7.1+ S1.2.5+ 
 0000087 011  ,       ,                        
-0000087 020  NP1     Jane                     Z1mf[i187.2.1 Z3c[i187.2.1 Z1f 
-0000087 030  NP1     Doe                      Z1mf[i187.2.2 Z3c[i187.2.2 
+0000087 020  NP1     Jane                     Z1mf[i194.2.1 Z3c[i194.2.1 Z1f 
+0000087 030  NP1     Doe                      Z1mf[i194.2.2 Z3c[i194.2.2 
 0000087 040  VVZ     appears                  A8 A10+ A3+ G2.1 K4 Q4 
 0000087 050  TO      to                       Z5 
 0000087 060  VHI     have                     A9+ Z5 A2.2 S4 
@@ -2448,23 +2471,23 @@
 0000087 240  JJ      substantial              N3.2+ O4.1% 
 0000087 250  NN1     danger                   A15- A7+ 
 0000087 260  II      by                       Z5 
-0000087 270  VVG     coming                   M1[i188.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
-0000087 280  RL      forward                  M1[i188.2.2 M6 T1.1.3 
+0000087 270  VVG     coming                   M1[i195.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000087 280  RL      forward                  M1[i195.2.2 M6 T1.1.3 
 0000087 281  ,       ,                        
 0000087 290  CS      because                  Z5/A2.2 
 0000087 300  II      at                       Z5 
 0000087 310  AT1     a                        Z5 
 0000087 320  JJ      minimum                  N5--- 
-0000087 330  NNB     Mr.                      Z1m[i189.2.1 S2.2m 
-0000087 340  NP1     Epstein                  Z1m[i189.2.2 
+0000087 330  NNB     Mr.                      Z1m[i196.2.1 S2.2m 
+0000087 340  NP1     Epstein                  Z1m[i196.2.2 
 0000087 350  VVZ     knows                    X2.2+ S3.2/B1% 
 0000087 360  APPGE   her                      Z8f 
 0000087 370  JJ      true                     A5.2+ A5.4+ 
 0000087 380  NN1     identity                 S2 A6.1+ Q1.2 
 0000087 381  .       .                        
 0000088 001  -----   -----                    
-0000089 010  NP1     Jane                     Z1mf[i190.2.1 Z3c[i190.2.1 Z1f 
-0000089 020  NP1     Doe                      Z1mf[i190.2.2 Z3c[i190.2.2 
+0000089 010  NP1     Jane                     Z1mf[i197.2.1 Z3c[i197.2.1 Z1f 
+0000089 020  NP1     Doe                      Z1mf[i197.2.2 Z3c[i197.2.2 
 0000089 030  VHZ     has                      Z5 A9+ A2.2 S4 
 0000089 040  XX      not                      Z6 
 0000089 050  VVN     granted                  A9+ 
@@ -2474,7 +2497,7 @@
 0000089 080  CC      and                      Z5 
 0000089 090  PPIS2   we                       Z8 
 0000089 100  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000089 101  XX      nt                       S9/Q4.1 Z3c 
+0000089 101  XX      n't                      Z6 
 0000089 110  VVI     know                     X2.2+ S3.2/B1% 
 0000089 120  PN1     anything                 Z8 
 0000089 130  II      about                    Z5 
@@ -2482,9 +2505,10 @@
 0000089 150  NN1     background               T1.1.1 A2.2 M6 S1.1.1 P1 A11.1- A1.8- 
 0000089 151  ,       ,                        
 0000089 160  CC      or                       Z5 
-0000089 170  NP1     Tiffany                  Z3c 
-0000089 180  VDZ     Does                     A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
-0000089 181  ,       ,                        
+0000089 170  NP1     Tiffany                  Z1mf[i198.2.1 Z3c[i198.2.1 Z3c 
+0000089 180  NP1     Doe                      Z1mf[i198.2.2 Z3c[i198.2.2 
+0000089 181  GE      's                       Z5 
+0000089 182  ,       ,                        
 0000089 190  CC      or                       Z5 
 0000089 200  AT      the                      Z5 
 0000089 210  NN2     details                  A4.2+ S5+c B5 
@@ -2523,12 +2547,13 @@
 0000089 462  -----   -----                    
 0000089 470  CCB     But                      Z5 
 0000089 480  CS      if                       Z7 
-0000089 490  VBDR    were                     Z5 A3+ 
-0000089 500  VVGK    going                    T1.1.3[i191.2.1 
-0000089 510  TO      to                       T1.1.3[i191.2.2 Z5 
+0000089 490  PPIS2   we                       Z8 
+0000089 491  VBR     're                      Z5 A3+ 
+0000089 500  VVGK    going                    T1.1.3[i199.2.1 
+0000089 510  TO      to                       T1.1.3[i199.2.2 Z5 
 0000089 520  VVI     speculate                X2.6+ I2.1 
-0000089 530  II      in                       Z5[i192.2.1 Z5 
-0000089 540  DD1     that                     Z5[i192.2.2 Z5 Z8 
+0000089 530  II      in                       Z5[i200.2.1 Z5 
+0000089 540  DD1     that                     Z5[i200.2.2 Z5 Z8 
 0000089 550  NN1     direction                M6 Q2.2 S7.1+ X4.2 K4 
 0000089 551  ,       ,                        
 0000089 560  PPIS2   we                       Z8 
@@ -2538,13 +2563,13 @@
 0000089 600  AT      the                      Z5 
 0000089 610  JJ      other                    A6.1- 
 0000089 620  NN1     direction                M6 Q2.2 S7.1+ X4.2 K4 
-0000089 630  RR21    as                       N5++[i193.2.1 
-0000089 640  RR22    well                     N5++[i193.2.2 A5.1+ A13.3 A7+ B2+ Z4 
+0000089 630  RR21    as                       N5++[i201.2.1 
+0000089 640  RR22    well                     N5++[i201.2.2 A5.1+ A13.3 A7+ B2+ Z4 
 0000089 641  .       .                        
 0000089 642  -----   -----                    
 0000089 650  RR      Perhaps                  A7 
-0000089 660  NP1     Jane                     Z1mf[i194.2.1 Z3c[i194.2.1 Z1f 
-0000089 670  NP1     Doe                      Z1mf[i194.2.2 Z3c[i194.2.2 
+0000089 660  NP1     Jane                     Z1mf[i202.2.1 Z3c[i202.2.1 Z1f 
+0000089 670  NP1     Doe                      Z1mf[i202.2.2 Z3c[i202.2.2 
 0000089 680  CC      and                      Z5 
 0000089 690  APPGE   her                      Z8f 
 0000089 700  NN1     lawyer                   G2.1/I3.2/S2mf 
@@ -2563,50 +2588,54 @@
 0000089 810  RR      Perhaps                  A7 
 0000089 820  VVZ@    witnesses                X3.4 G2.1 A10+@ S9 
 0000089 830  II      from                     Z5 
-0000089 840  NNB     Mr.                      Z1m[i195.2.1 S2.2m 
-0000089 850  NP1     Epsteins                 Z1m[i195.2.2 
+0000089 840  NNB     Mr.                      Z1m[i203.2.1 S2.2m 
+0000089 850  NP1     Epstein                  Z1m[i203.2.2 
+0000089 851  GE      's                       Z5 
 0000089 860  JJ      notorious                X2.2+/G2.2- 
 0000089 870  NN2     parties                  S1.1.3+ G1.2 S1.1.3+/S2mf S5+ 
 0000089 880  VM      will                     T1.1.3 
-0000089 890  VVI     come                     M1[i196.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
-0000089 900  RL      forward                  M1[i196.2.2 M6 T1.1.3 
+0000089 890  VVI     come                     M1[i204.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000089 900  RL      forward                  M1[i204.2.2 M6 T1.1.3 
 0000089 901  .       .                        
 0000089 902  -----   -----                    
 0000089 910  PPIS2   We                       Z8 
 0000089 920  RR      just                     A14 T3--- T1.3- N3.3--- 
-0000089 930  JJ      cant                     Q2.1 Z1mf Z1 
-0000089 940  VV0     know                     X2.2+ S3.2/B1% 
+0000089 930  VM      ca                       A7+ 
+0000089 931  XX      n't                      Z6 
+0000089 940  VVI     know                     X2.2+ S3.2/B1% 
 0000089 950  DD      any                      N5.1+ N5 
 0000089 960  IO      of                       Z5 
 0000089 970  DD1     that                     Z8 Z5 
-0000089 980  II      at                       T1.1.2[i197.3.1 Z5 
-0000089 990  DD1     this                     T1.1.2[i197.3.2 M6 Z5 Z8 
-0000089 000  NN1     point                    T1.1.2[i197.3.3 Q2.1 X4.1 A5.1 A1.5.2 M7 T1.2 O4.4 O3 K5 
+0000089 980  II      at                       T1.1.2[i205.3.1 Z5 
+0000089 990  DD1     this                     T1.1.2[i205.3.2 M6 Z5 Z8 
+0000089 000  NN1     point                    T1.1.2[i205.3.3 Q2.1 X4.1 A5.1 A1.5.2 M7 T1.2 O4.4 O3 K5 
 0000089 001  .       .                        
 0000090 001  -----   -----                    
 0000091 010  CCB     But                      Z5 
-0000091 020  VVN     based                    A2.2[i198.2.1 T2+ M6 A2.2 
-0000091 030  II      on                       A2.2[i198.2.2 Z5 
+0000091 020  VVN     based                    A2.2[i206.2.1 T2+ M6 A2.2 
+0000091 030  II      on                       A2.2[i206.2.2 Z5 
 0000091 040  DDQ     what                     Z8 Z5 
 0000091 050  PPIS2   we                       Z8 
 0000091 060  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
 0000091 070  VVI     know                     X2.2+ S3.2/B1% 
 0000091 080  RT      now                      T1.1.2 Z4 
 0000091 081  ,       ,                        
-0000091 090  NP1     Jane                     Z1f 
-0000091 100  VDZ     Does                     A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
-0000091 110  VVZ     claims                   Q2.2 A9+ 
-0000091 120  VVI     fall                     G2.2-[i199.2.1 M1 N5-/A2.1 S7.1- L1- A1.8+ G2.2- X9.2- K5.2 
+0000091 090  NP1     Jane                     Z1mf[i207.2.1 Z3c[i207.2.1 Z1f 
+0000091 100  NP1     Doe                      Z1mf[i207.2.2 Z3c[i207.2.2 
+0000091 101  GE      's                       Z5 
+0000091 110  NN2     claims                   Q2.2 A9+ G2.1 
+0000091 120  VV0     fall                     G2.2-[i208.2.1 M1 N5-/A2.1 S7.1- L1- A1.8+ G2.2- X9.2- K5.2 
 0000091 130  RR      squarely                 A7+++ M6 N3 A10+ 
-0000091 140  II      into                     G2.2-[i199.2.2 Z5 
+0000091 140  II      into                     G2.2-[i208.2.2 Z5 
 0000091 150  AT      the                      Z5 
 0000091 160  JJ      long                     N3.7+ T1.3+ N3.3+ N3.2+ 
 0000091 161  ,       ,                        
 0000091 170  JJ      ugly                     O4.2- 
 0000091 180  NN1     context                  O4.1/A3+ A2.2 Q3 
 0000091 190  IO      of                       Z5 
-0000091 200  NNB     Mr.                      Z1m[i200.2.1 S2.2m 
-0000091 210  NP1     Trumps                   Z1m[i200.2.2 Z1mf 
+0000091 200  NNB     Mr.                      Z1m[i209.2.1 S2.2m 
+0000091 210  NP1     Trump                    Z1m[i209.2.2 Z1mf 
+0000091 211  GE      's                       Z5 
 0000091 220  NN1     life                     L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1 
 0000091 230  IO      of                       Z5 
 0000091 240  NN1     misogyny                 Z99 
@@ -2620,8 +2649,8 @@
 0000091 310  NN2     claims                   Q2.2 A9+ G2.1 
 0000091 311  ,       ,                        
 0000091 320  VBR     are                      Z5 A3+ 
-0000091 330  VVN     backed                   S8+[i201.2.1 M1[i201.2.1 A9+[i201.2.1 Y2/A5.4-[i201.2.1 S8+ K5.1/I1 M1 M6 K2 S8+[i202.2.1 M1[i202.2.1 A9+[i202.2.1 
-0000091 340  RP      up                       S8+[i201.2.2 M1[i201.2.2 A9+[i201.2.2 Y2/A5.4-[i201.2.2 S8+[i202.2.2 M1[i202.2.2 A9+[i202.2.2 
+0000091 330  VVN     backed                   S8+[i210.2.1 M1[i210.2.1 A9+[i210.2.1 Y2/A5.4-[i210.2.1 S8+ K5.1/I1 M1 M6 K2 S8+[i211.2.1 M1[i211.2.1 A9+[i211.2.1 
+0000091 340  RP      up                       S8+[i210.2.2 M1[i210.2.2 A9+[i210.2.2 Y2/A5.4-[i210.2.2 S8+[i211.2.2 M1[i211.2.2 A9+[i211.2.2 
 0000091 350  II      by                       Z5 
 0000091 360  AT1     an                       Z5 
 0000091 370  NN1     eyewitness               G2.1/S2mf X3.4/S2mf 
@@ -2630,8 +2659,8 @@
 0000091 390  RR      thus                     Z5/A2.2 
 0000091 400  VM      should                   S6+ A7+ 
 0000091 410  VBI     be                       Z5 A3+ 
-0000091 420  VVN     taken                    E4.1-[i204.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ X2.1/A13.3[i203.2.1 
-0000091 430  RR      seriously                E4.1-[i204.2.2 A13.3 Z4 E4.1- X2.1/A13.3[i203.2.2 
+0000091 420  VVN     taken                    E4.1-[i213.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ X2.1/A13.3[i212.2.1 
+0000091 430  RR      seriously                E4.1-[i213.2.2 A13.3 Z4 E4.1- X2.1/A13.3[i212.2.2 
 0000091 431  .       .                        
 0000091 432  -----   -----                    
 0000091 440  APPGE   Her                      Z8f 
@@ -2679,8 +2708,8 @@
 0000093 300  JJ      sexual                   S3.2 
 0000093 310  NN1     abuse                    E3- Q2.2 G2.2- A1.5.1/A5.1- 
 0000093 320  NN2     cases                    A4.1 O2 G2.1 B3 X4.1 Q3 
-0000093 330  AT1     every                    N6+[i205.2.1 N5.1+ 
-0000093 340  NNT1    day                      N6+[i205.2.2 T1.3 
+0000093 330  AT1     every                    N6+[i214.2.1 N5.1+ 
+0000093 340  NNT1    day                      N6+[i214.2.2 T1.3 
 0000093 341  ,       ,                        
 0000093 350  PPIS1   I                        Z8mf 
 0000093 360  VM      can                      A7+ 
@@ -2696,8 +2725,9 @@
 0000093 440  CSA     as                       Z5 
 0000093 450  VBZ     is                       A3+ Z5 
 0000093 460  AT1     an                       Z5 
-0000093 470  NN2     accusers                 G2.1/S2mf 
-0000093 480  VV0@    desire                   X7+ S3.2 
+0000093 470  NN1     accuser                  G2.1/S2mf 
+0000093 471  GE      's                       Z5 
+0000093 480  NN1     desire                   X7+ S3.2 
 0000093 490  TO      to                       Z5 
 0000093 500  VVI     remain                   T2++ M8 N5.2+ 
 0000093 510  JJ      anonymous                A10- 
@@ -2706,8 +2736,8 @@
 0000093 530  APPGE   her                      Z8f 
 0000093 540  NN1     terror                   E5- G2.2-/S2mf 
 0000093 550  II      in                       Z5 
-0000093 560  VVG     coming                   M1[i206.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
-0000093 570  RL      forward                  M1[i206.2.2 M6 T1.1.3 
+0000093 560  VVG     coming                   M1[i215.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000093 570  RL      forward                  M1[i215.2.2 M6 T1.1.3 
 0000093 571  .       .                        
 0000094 001  -----   -----                    
 0000095 010  DDQ     What                     Z8 Z5 
@@ -2720,8 +2750,8 @@
 0000095 080  VVZ     refuses                  Q2.2/Z6 S7.4- X7- 
 0000095 090  TO      to                       Z5 
 0000095 100  RR      even                     A13.1 
-0000095 110  VVI     look                     X3.4[i207.2.1 X2.4[i207.2.1 X2.1[i207.2.1 A8 X3.4 X2.4 X7+ Z4 
-0000095 120  II      at                       X3.4[i207.2.2 X2.4[i207.2.2 X2.1[i207.2.2 Z5 
+0000095 110  VVI     look                     X3.4[i216.2.1 X2.4[i216.2.1 X2.1[i216.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000095 120  II      at                       X3.4[i216.2.2 X2.4[i216.2.2 X2.1[i216.2.2 Z5 
 0000095 130  JJ      sexual                   S3.2 
 0000095 140  NN1     assault                  E3- X8+ 
 0000095 150  VVZ     claims                   Q2.2 A9+ 

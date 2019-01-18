@@ -1,4 +1,4 @@
-TOTAL              214
+TOTAL              216
 the                  AT             13 
 of                   IO              6 
 this                 DD1             6 
@@ -28,6 +28,8 @@ all                  DB              2
 holidays             NN2             2 
 observed             VVN             2 
 day                  NNT1            2 
+'s                   GE              2 
+Washington           NP1             2 
 actual               JJ              2 
 Friday               NPD1            2 
 secret               JJ              1 
@@ -61,18 +63,16 @@ take                 VVI             1
 time_off             NNT1            1 
 three                MC              1 
 weekend              NNT1            1 
-Martin_Luther_Kings  NP1             1 
+Martin_Luther_King   NP1             1 
 Columbus_Day         NP1             1 
 labor                NN1             1 
 memorial             NN1             1 
 Day                  NP1             1 
-Washingtons          NP2             1 
 Mondays              NPD2            1 
 though               CS              1 
 some                 DD              1 
 is                   VBZ             1 
 not                  XX              1 
-Washington           NP1             1 
 post                 NN1             1 
 decided              VVD             1 
 move                 VVI             1 
@@ -126,7 +126,7 @@ collectively         RR              1
 known                VVN             1 
 as                   II              1 
 poisson              NN1             1 
-davril               NN1             1 
+d'avril              NN1             1 
 coincide             VV0             1 
 corroborate          VV0             1 
 one_another          PPX121          1 

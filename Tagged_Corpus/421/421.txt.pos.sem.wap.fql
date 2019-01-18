@@ -1,9 +1,9 @@
-TOTAL              152
+TOTAL              157
 the                  AT              8 
+we                   PPIS2           5 
 a                    AT1             5 
 gas                  NN1             3 
 new                  JJ              3 
-we                   PPIS2           3 
 an                   AT1             3 
 with                 IW              3 
 in                   II              3 
@@ -16,6 +16,7 @@ Pro-Line             NP1             2
 .81                  MC              2 
 pro-2                JJ              2 
 truck                NN1             2 
+'re                  VBR             2 
 this                 DD1             2 
 that                 CST             2 
 is                   VBZ             2 
@@ -28,10 +29,10 @@ stuffed              VVN             1
 8ight                FO              1 
 buggy                NN1             1 
 never                RR              1 
-thought              VVN             1 
-wed                  VV0             1 
+thought              VVD             1 
+'d                   VM              1 
 ever                 RR              1 
-see                  VV0             1 
+see                  VVI             1 
 1/8                  MF              1 
 scale                NN1             1 
 car                  NN1             1 
@@ -55,7 +56,7 @@ scale                VV0             1
 short                JJ              1 
 course               NN1             1 
 while                CS              1 
-theyre               NN1             1 
+they                 PPHS2           1 
 keeping              VVG             1 
 full                 JJ              1 
 details              NN2             1 
@@ -67,7 +68,8 @@ guys                 NN2             1
 at                   II              1 
 tell                 VV0             1 
 us                   PPIO2           1 
-its                  APPGE           1 
+it                   PPH1            1 
+'s                   VBZ             1 
 absolute             JJ              1 
 wheelie              NN1             1 
 monster              NN1             1 
@@ -82,9 +84,9 @@ pumping_out          VVG             1
 claimed              JJ              1 
 6.7                  MC              1 
 horsepower           NN1             1 
-cant                 JJ              1 
-say                  NN1             1 
-were                 VBDR            1 
+ca                   VM              1 
+n't                  XX              1 
+say                  VVI             1 
 surprised            JJ              1 
 pro-line             NN1             1 
 expected             VVN             1 

@@ -12,8 +12,6 @@ https                    NNU     Z99
 immersive                JJ      Z99 
 KAABOO                   NN1     Z99 
 KAABOO                   NP1     Z99 
-KAABOOs                  NN2     Z99 
-KAABOOs                  NP2     Z99 
 libations                NN2     Z99 
 lineup                   NN1     Z99 
 multi-day                JJ      Z99 

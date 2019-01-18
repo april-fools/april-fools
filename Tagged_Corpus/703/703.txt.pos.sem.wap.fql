@@ -1,4 +1,4 @@
-TOTAL              218
+TOTAL              217
 in                   II             12 
 and                  CC             10 
 the                  AT             10 
@@ -17,13 +17,12 @@ children             NN2             2
 across               II              2 
 competitions         NN2             2 
 at                   II              2 
-schools              NN2             2 
+Beechwood_primary_school NP1             2 
 Bracknell            NP1             2 
 teams                NN2             2 
 into                 II              2 
 with                 IW              2 
 each                 DD1             2 
-Beechwood            NP1             2 
 really               RR              2 
 we                   PPIS2           2 
 is                   VBZ             2 
@@ -53,10 +52,10 @@ festival             NN1             1
 of                   IO              1 
 hosted               VVN             1 
 by                   II              1 
-Beechwood_primary_school NP1             1 
 Woodley              NP1             1 
 youngsters           NN2             1 
 13                   MC              1 
+schools              NN2             1 
 Wokingham            NP1             1 
 west_Berkshire       ND1             1 
 Oxfordshire          NP1             1 
@@ -84,6 +83,7 @@ overcoming           VVG             1
 Harmans              NP2             1 
 water                NN1             1 
 5-3                  MCMC            1 
+Beechwood            NP1             1 
 4-2                  MCMC            1 
 pupils               NN2             1 
 forest_school        NN1             1 
@@ -91,7 +91,7 @@ Winnersh             NP1             1
 helped_out           VVD             1 
 refereeing           VVG             1 
 while                CS              1 
-primary              JJ              1 
+'s                   GE              1 
 PTA                  NP1             1 
 sold                 VVD             1 
 refreshments         NN2             1 

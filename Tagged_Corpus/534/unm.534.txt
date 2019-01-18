@@ -1,5 +1,11 @@
 $28,000                  NNU     Z99 
 ''                       VV0     Z99 
+''For                    NN1     Z99 
+''In                     NN1     Z99 
+''It                     NN1     Z99 
+''psychological          JJ      Z99 
+''serious                JJ      Z99 
+''We                     VV0     Z99 
 AAP                      VV0     Z99 
 child-abuse              JJ      Z99 
 injury''                 NN1     Z99 

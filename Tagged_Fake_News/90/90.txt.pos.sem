@@ -6,7 +6,7 @@
 0000002 040  VV0     Make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
 0000002 050  NP1     America                  Z2 
 0000002 060  JJ      Great                    A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3 
-0000002 070  RT      Again                    N6+ Z4 
+0000002 070  JJ@     Again'                   Z99 
 0000002 080  NN1     baseball                 B5[i1.2.1 K5.2 
 0000002 090  NN2     caps                     B5[i1.2.2 B5 O2 
 0000002 100  VHZ     has                      Z5 A9+ A2.2 S4 
@@ -156,7 +156,7 @@
 0000010 170  VV0     Make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
 0000010 180  NP1     Merica                   Z99 
 0000010 190  VV0     Eat                      F1/B1 A1.5.1/N5+ 
-0000010 200  RT      Again                    N6+ Z4 
+0000010 200  NP1     Again'                   Z99 
 0000010 201  ,       ,                        
 0000010 210  APPGE   our                      Z8 
 0000010 220  NN1     correspondent            Q4.2/S2mf Q1.2/S2mf 
@@ -177,7 +177,8 @@
 0000012 090  PPIO1   me                       Z8mf 
 0000012 091  .       .                        
 0000012 092  -----   -----                    
-0000012 100  APPGE   Its                      Z8 
+0000012 100  PPH1    It                       Z8 
+0000012 101  VBZ     's                       A3+ Z5 
 0000012 110  DDQ     what                     Z8 Z5 
 0000012 120  PPIS1   I                        Z8mf 
 0000012 130  RR%     sure                     A7+ 
@@ -192,9 +193,9 @@
 0000014 012  -----   -----                    
 0000014 020  DDQ     What                     Z8 Z5 
 0000014 030  VBR     are                      Z5 A3+ 
-0000014 040  NN1     yall                     Z99 
+0000014 040  NN1     y'all                    Z99 
 0000014 050  RR      still                    T2++ Z4 E3+ 
-0000014 060  VVG     talkin                   Z99 
+0000014 060  VVG     talkin'                  Q2.1 
 0000014 070  II      about                    Z5 
 0000014 080  DD1     that                     Z8 Z5 
 0000014 090  IF      for                      Z5 

@@ -150,9 +150,10 @@
 0000006 450  JJ      Fact-Checking            Z99 
 0000006 460  NN2     Snopes                   Z99 
 0000006 461  :       :                        
-0000006 470  NN2     Websites                 Y2 
+0000006 470  NN1     Website                  Y2 
+0000006 471  GE      's                       Z5 
 0000006 480  JJ      Political                G1.2 
-0000006 490  NP1     Fact-Checker             Z99 
+0000006 490  NN1     Fact-Checker'            Z99 
 0000006 500  VBZ     Is                       A3+ Z5 
 0000006 510  RR      Just                     A14 T3--- T1.3- N3.3--- 
 0000006 520  AT1@    A                        Z5 
@@ -338,25 +339,27 @@
 0000014 310  NN2     Details                  A4.2+ S5+c B5 Q2.2 
 0000014 320  TO      To                       Z5 
 0000014 330  VV0     Protect                  S8+/A15+ A10- 
-0000014 340  NP2     Kerrys                   Z2[i16.2.1 Z3c[i16.2.1 Z2 Z1mf 
-0000014 350  NN1     State                    Z2[i16.2.2 Z3c[i16.2.2 G1.1c O4.1 G1.1/S5+c[i17.2.1 
-0000014 360  NN1     Department               H2/S5+c X2.2 G1.1/S5+c[i17.2.2 
+0000014 340  NP1     Kerry                    Z2 Z1mf 
+0000014 341  GE      's                       Z5 
+0000014 350  NN1     State                    G1.1/S5+c[i16.2.1 G1.1c O4.1 
+0000014 360  NN1     Department               G1.1/S5+c[i16.2.2 H2/S5+c X2.2 
 0000014 361  )       )                        
 0000016 010  RR      Neither                  Z6 
 0000016 020  VVZ     Snopes                   Z99 
 0000016 030  CC      nor                      Z6 
 0000016 040  NP1     Facebook                 Z3c/Y2 
 0000016 050  VVD     returned                 M1 A9- N6 
-0000016 060  NP2     TheDCs                   Z99 
-0000016 070  VV0     request                  Q2.2 Q2.1 
+0000016 060  NP1     TheDC                    Z99 
+0000016 061  GE      's                       Z5 
+0000016 070  NN1     request                  Q2.1 Q2.2 
 0000016 080  IF      for                      Z5 
 0000016 090  NN1     comment                  Q2.1 
 0000016 100  II      regarding                Z5 
 0000016 110  AT      the                      Z5 
 0000016 120  NN2     accusations              Q2.2 G2.1 
 0000016 130  CST     that                     Z5 Z8 
-0000016 140  NP1     David                    Z1mf[i18.2.1 Z3c[i18.2.1 Z1m 
-0000016 150  NP1     Mikkelson                Z1mf[i18.2.2 Z3c[i18.2.2 
+0000016 140  NP1     David                    Z1mf[i17.2.1 Z3c[i17.2.1 Z1m 
+0000016 150  NP1     Mikkelson                Z1mf[i17.2.2 Z3c[i17.2.2 
 0000016 160  VVD     embezzled                A9+/G2.1- 
 0000016 170  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
 0000016 180  NN1     money                    I1 

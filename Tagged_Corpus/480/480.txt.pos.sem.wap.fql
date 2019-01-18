@@ -1,4 +1,4 @@
-TOTAL             1155
+TOTAL             1156
 the                  AT             91 
 of                   IO             47 
 wall                 NN1            36 
@@ -14,10 +14,10 @@ design               NN1            11
 shall                VM             11 
 feet                 NN2             9 
 with                 IW              9 
+'s                   GE              8 
 to                   II              8 
 proposal             NN1             8 
 or                   CC              8 
-'s                   GE              7 
 requirements         NN2             7 
 is                   VBZ             7 
 from                 II              7 
@@ -449,7 +449,7 @@ reinforced           VVN             1
 concrete             NN1             1 
 physically           RR              1 
 imposing             VVG             1 
-governments          NN2             1 
+government           NN1             1 
 nominal              JJ              1 
 concept              NN1             1 
 30-foot              JJ              1 

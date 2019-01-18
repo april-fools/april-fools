@@ -1,4 +1,4 @@
-TOTAL              233
+TOTAL              235
 the                  AT             17 
 Witcher_3            NP1             5 
 that                 CST             5 
@@ -8,6 +8,7 @@ cd                   NN1             4
 said                 VVD             4 
 we                   PPIS2           4 
 projekt              NN1             3 
+red                  NN1             3 
 it                   PPH1            3 
 to                   II              3 
 in                   II              3 
@@ -16,7 +17,6 @@ game                 NN1             3
 will                 VM              3 
 to                   TO              3 
 our                  APPGE           3 
-red                  NN1             2 
 for                  IF              2 
 xbox                 NN1             2 
 one                  MC1             2 
@@ -26,6 +26,7 @@ i                    PPIS1           2
 are                  VBR             2 
 a                    AT1             2 
 or                   CC              2 
+'s                   GE              2 
 is                   VBZ             2 
 maxing               VVG             2 
 out                  RP              2 
@@ -60,7 +61,6 @@ performance          NN1             1
 either               RR              1 
 consoles             VVZ             1 
 now                  RT              1 
-reds                 NN2             1 
 global               JJ              1 
 head                 NN1             1 
 marketing            NN1             1 
@@ -81,7 +81,7 @@ only                 RR              1
 future               NN1             1 
 tell                 VVI             1 
 if                   CSW             1 
-consoles             NN2             1 
+console              NN1             1 
 technical            JJ              1 
 capabilities         NN2             1 
 noting               VVG             1 

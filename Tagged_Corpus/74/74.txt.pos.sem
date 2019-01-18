@@ -86,15 +86,17 @@
 0000006 360  XX      not                      Z6 
 0000006 370  VVI     overload                 N5.2+ 
 0000006 380  AT      the                      Z5 
-0000006 390  NN2     satellites               W1 Y1 Q1.3 S7.1- 
+0000006 390  NN1     satellite                W1 Y1 Q1.3 S7.1- 
+0000006 391  GE      's                       Z5 
 0000006 400  JJ      built-in                 O4.1 A6.2+ 
 0000006 410  NN1     web                      Y2 L2 O2 
 0000006 420  NN1     server                   F1/S2mf Y2 
 0000006 421  .       .                        
 0000007 001  -----   -----                    
 0000008 010  CS      If                       Z7 
-0000008 020  NN1     youd                     Z99 
-0000008 030  VV0@    like                     E2+ 
+0000008 020  PPY     you                      Z8mf 
+0000008 021  VM      'd                       A7+ 
+0000008 030  VVI     like                     E2+ 
 0000008 040  TO      to                       Z5 
 0000008 050  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
 0000008 060  AT      the                      Z5 
@@ -139,7 +141,8 @@
 0000010 240  NN2     clouds                   W4 
 0000010 241  .       .                        
 0000011 001  -----   -----                    
-0000012 010  VBDR    Were                     Z5 A3+ 
+0000012 010  PPIS2   We                       Z8 
+0000012 011  VBR     're                      Z5 A3+ 
 0000012 020  VVN     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
 0000012 030  CST     that                     Z8 Z5 
 0000012 040  CSA     as                       Z5 

@@ -5,13 +5,14 @@
 0000002 030  JJ      recent                   T3- 
 0000002 040  NN1     interview                Q2.1 
 0000002 050  IW      with                     Z5 
-0000002 060  NP1     Pat                      Z1mf 
-0000002 070  NP2     Robertsons               Z1mf 
+0000002 060  NP1     Pat                      Z1mf[i1.2.1 Z3c[i1.2.1 Z1mf 
+0000002 070  NP1     Robertson                Z1mf[i1.2.2 Z3c[i1.2.2 Z1mf 
+0000002 071  GE      's                       Z5 
 0000002 080  NN1     television               Q4.3 
 0000002 090  NN1     network                  S5+c Q4.3 Y2 
 0000002 091  ,       ,                        
-0000002 100  NP1     Donald                   Z1mf[i1.2.1 Z3c[i1.2.1 Z1mf 
-0000002 110  NN1     Trump                    Z1mf[i1.2.2 Z3c[i1.2.2 Z1mf 
+0000002 100  NP1     Donald                   Z1mf[i2.2.1 Z3c[i2.2.1 Z1mf 
+0000002 110  NN1     Trump                    Z1mf[i2.2.2 Z3c[i2.2.2 Z1mf 
 0000002 120  VVD     blathered                Q2.1/T2++ 
 0000002 130  CST     that                     Z8 Z5 
 0000002 140  VV0     antigay                  Z99 
@@ -25,18 +26,19 @@
 0000002 220  VVG     knowing                  X2.2+ S3.2/B1% 
 0000002 230  CST     that                     Z8 Z5 
 0000002 240  PPHS1   he                       Z8m 
-0000002 241  VBZ     s                        Z5 
+0000002 241  VBZ     's                       Z5 A3+ 
 0000002 250  VVN     committed                A1.1.1 S6+ A1.7+/G2.1 
 0000002 260  II      to                       Z5 
 0000002 270  VVG     overturning              A2.1+ M2 
 0000002 280  AT      the                      Z5 
 0000002 290  JJ      Supreme                  A5.1+++ S7.1+++ 
-0000002 300  NN2     Courts                   G2.1 H3 M7/K5.2 
+0000002 300  NN1     Court                    G2.1 H3 M7/K5.2 
+0000002 301  GE      's                       Z5 
 0000002 310  NN1     landmark                 M7/A11.2+ A11.1+ 
 0000002 320  NN1     decision                 X6+ 
 0000002 330  CST     that                     Z8 Z5 
-0000002 340  VVD     struck                   B2-[i2.2.1 E3-[i2.2.1 I3.1 E3- A1.1.1 A11.2+ A8 E2+ X3.2 A9+ 
-0000002 350  RP      down                     B2-[i2.2.2 E3-[i2.2.2 
+0000002 340  VVD     struck                   B2-[i3.2.1 E3-[i3.2.1 I3.1 E3- A1.1.1 A11.2+ A8 E2+ X3.2 A9+ 
+0000002 350  RP      down                     B2-[i3.2.2 E3-[i3.2.2 
 0000002 360  NN1     state                    G1.1c O4.1 
 0000002 370  VVZ     bans                     S7.4- 
 0000002 380  II      on                       Z5 
@@ -48,9 +50,10 @@
 0000004 010  AT      The                      Z5 
 0000004 020  JJ      Christian                Z1mf 
 0000004 030  NN1     Broadcasting             Q4.3 
-0000004 040  NN2     Networks                 S5+ Q4.3 Y2 
-0000004 050  NP1     David                    Z1mf[i3.2.1 Z3c[i3.2.1 Z1m 
-0000004 060  NP1     Brody                    Z1mf[i3.2.2 Z3c[i3.2.2 
+0000004 040  NN1     Network                  S5+c Q4.3 Y2 
+0000004 041  GE      's                       Z5 
+0000004 050  NP1     David                    Z1mf[i4.2.1 Z3c[i4.2.1 Z1m 
+0000004 060  NP1     Brody                    Z1mf[i4.2.2 Z3c[i4.2.2 
 0000004 070  VVD     asked                    Q2.2 
 0000004 080  AT      the                      Z5 
 0000004 090  NN1     GOP                      Z99 
@@ -116,11 +119,11 @@
 0000008 111  ,       ,                        
 0000008 120  PPIS1   I                        Z8mf 
 0000008 130  VBDZ    was                      A3+ Z5 
-0000008 140  RG      very                     A13.3[i4.2.1 A13.3 
-0000008 150  DA1     much                     A13.3[i4.2.2 N5+ I1.3+ 
-0000008 160  II31    in                       S8+[i5.3.1 Z5 
-0000008 170  II32    favor                    S8+[i5.3.2 
-0000008 180  II33    of                       S8+[i5.3.3 
+0000008 140  RG      very                     A13.3[i5.2.1 A13.3 
+0000008 150  DA1     much                     A13.3[i5.2.2 N5+ I1.3+ 
+0000008 160  II31    in                       S8+[i6.3.1 Z5 
+0000008 170  II32    favor                    S8+[i6.3.2 
+0000008 180  II33    of                       S8+[i6.3.3 
 0000008 190  VHG     having                   A9+ Z5 A2.2 S4 
 0000008 200  AT      the                      Z5 
 0000008 210  NN1     court                    G2.1 H3 M7/K5.2 
@@ -133,8 +136,8 @@
 0000008 271  ,       ,                        
 0000008 280  CC      and                      Z5 
 0000008 290  VV0     let                      S7.4+ I2.2/H1 T2- 
-0000008 300  AT      the                      Z2[i6.2.1 Z5 
-0000008 310  NN2     states                   Z2[i6.2.2 G1.1c O4.1 
+0000008 300  AT      the                      Z2[i7.2.1 Z5 
+0000008 310  NN2     states                   Z2[i7.2.2 G1.1c O4.1 
 0000008 320  VVI     decide                   X6+ 
 0000008 321  .       .                        
 0000008 322  -----   -----                    
@@ -151,8 +154,8 @@
 0000008 430  PPIO1   me                       Z8mf 
 0000008 440  CC      and                      Z5 
 0000008 450  IF      for                      Z5 
-0000008 460  AT1     a                        N5+[i7.2.1 N6+[i7.2.1 A13.3[i7.2.1 Z5 
-0000008 470  NN1     lot                      N5+[i7.2.2 N6+[i7.2.2 A13.3[i7.2.2 
+0000008 460  AT1     a                        N5+[i8.2.1 N6+[i8.2.1 A13.3[i8.2.1 Z5 
+0000008 470  NN1     lot                      N5+[i8.2.2 N6+[i8.2.2 A13.3[i8.2.2 
 0000008 480  IO      of                       Z5 
 0000008 490  JJ      other                    A6.1- 
 0000008 500  NN      people                   S2mfc 
@@ -160,17 +163,18 @@
 0000008 510  CCB     but                      Z5 
 0000008 520  PPIS1   I                        Z8mf 
 0000008 530  VBDZ    was                      A3+ Z5 
-0000008 540  RG      very                     A13.3[i8.2.1 A13.3 
-0000008 550  DA1     much                     A13.3[i8.2.2 N5+ I1.3+ 
-0000008 560  II31    in                       S8+[i9.3.1 Z5 
-0000008 570  II32    favor                    S8+[i9.3.2 
-0000008 580  II33    of                       S8+[i9.3.3 
+0000008 540  RG      very                     A13.3[i9.2.1 A13.3 
+0000008 550  DA1     much                     A13.3[i9.2.2 N5+ I1.3+ 
+0000008 560  II31    in                       S8+[i10.3.1 Z5 
+0000008 570  II32    favor                    S8+[i10.3.2 
+0000008 580  II33    of                       S8+[i10.3.3 
 0000008 590  VVG     letting                  S7.4+ I2.2/H1 
-0000008 600  AT      the                      Z2[i10.2.1 Z5 
-0000008 610  NN2     states                   Z2[i10.2.2 G1.1c O4.1 
+0000008 600  AT      the                      Z2[i11.2.1 Z5 
+0000008 610  NN2     states                   Z2[i11.2.2 G1.1c O4.1 
 0000008 620  VVI     decide                   X6+ 
 0000008 630  CC      and                      Z5 
-0000008 640  VVZ     thats                    Z5 Z8 A13.3 A6.1+ 
+0000008 640  DD1     that                     Z8 Z5 
+0000008 641  VBZ     's                       A3+ Z5 
 0000008 650  AT      the                      Z5 
 0000008 660  NN1     way                      X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
 0000008 670  PPH1    it                       Z8 
@@ -180,12 +184,12 @@
 0000008 710  VVG     going                    M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
 0000008 720  CC      and                      Z5 
 0000008 730  RT      then                     N4 Z5 T1.2 
-0000008 740  RR41    all                      N3.8+[i11.4.1 A13.2 
-0000008 750  RR42    of                       N3.8+[i11.4.2 
-0000008 760  RR43    a                        N3.8+[i11.4.3 
-0000008 770  RR44    sudden                   N3.8+[i11.4.4 
-0000008 780  II21    out                      Z5[i12.2.1 Z5 Z5[i13.2.1 A9-[i13.2.1 
-0000008 790  II22    of                       Z5[i12.2.2 Z5[i13.2.2 A9-[i13.2.2 
+0000008 740  RR41    all                      N3.8+[i12.4.1 A13.2 
+0000008 750  RR42    of                       N3.8+[i12.4.2 
+0000008 760  RR43    a                        N3.8+[i12.4.3 
+0000008 770  RR44    sudden                   N3.8+[i12.4.4 
+0000008 780  II21    out                      Z5[i13.2.1 Z5 Z5[i14.2.1 A9-[i14.2.1 
+0000008 790  II22    of                       Z5[i13.2.2 Z5[i14.2.2 A9-[i14.2.2 
 0000008 800  RL      nowhere                  M6/Z6 
 0000008 810  VVD     came                     M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
 0000008 820  DD1     this                     M6 Z5 Z8 
@@ -203,10 +207,11 @@
 0000008 920  PPIS1   I                        Z8mf 
 0000008 930  VBDZ    was                      A3+ Z5 
 0000008 940  RR      always                   N6+++ 
-0000008 950  II31    in                       S8+[i14.3.1 Z5 
-0000008 960  II32    favor                    S8+[i14.3.2 
-0000008 970  II33    of                       S8+[i14.3.3 
-0000008 980  NN2     states                   G1.1c O4.1 
+0000008 950  II31    in                       S8+[i15.3.1 Z5 
+0000008 960  II32    favor                    S8+[i15.3.2 
+0000008 970  II33    of                       S8+[i15.3.3 
+0000008 980  NN1     state                    G1.1c O4.1 
+0000008 981  GE      's                       Z5 
 0000008 990  NN2     rights                   S7.4+ G2.2+ M6 G1.2 
 0000008 991  ;       ;                        
 0000008 000  NN2     states                   G1.1c O4.1 

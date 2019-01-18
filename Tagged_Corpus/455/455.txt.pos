@@ -7,8 +7,9 @@
 0000002 050 with                                        93 IW
 0000002 060 the                                         93 AT
 0000002 070 announcement                                93 NN1
-0000002 080 Huddersfields                               04 NP2
-0000002 090 most                                        93 [RGT/83] DAT/16 RRT@/1
+0000002 080 Huddersfield              >                 93 NP1
+0000002 081 's                        <                 98 GE
+0000002 090 most                                        97 RGT
 0000002 100 famous                                      03 JJ
 0000002 110 feline                                      93 [NN1@/87] JJ/13
 0000002 120 is                                          93 VBZ
@@ -67,8 +68,9 @@
 0000006 170 taking                                      93 [VVG/100] JJ%/0 NN1%/0
 0000006 180 her                                         93 [PPHO1/100] APPGE/0
 0000006 190 from                                        93 II
-0000006 200 Huddersfields                               04 NP2
-0000006 210 clutches                                    93 [VVZ/92] NN2/8
+0000006 200 Huddersfield              >                 93 NP1
+0000006 201 's                        <                 98 GE
+0000006 210 clutches                                    93 [NN2/94] VVZ/6
 0000006 220 to                                          97 TO
 0000006 230 deal                                        97 VVI
 0000006 240 with                                        93 IW
@@ -439,8 +441,8 @@
 0000036 060 I                                           93 [PPIS1/100] MC1@/0 ZZ1@/0
 0000036 070 wish                                        03 [VV0/100] NN1/0
 0000036 080 I                                           93 [PPIS1/100] ZZ1%/0 MC1%/0
-0000036 090 did                       >                 56 VDD
-0000036 091 nt                        <                 56 XX
+0000036 090 did                       >                 93 VDD
+0000036 091 n't                       <                 03 XX
 0000036 100 have                                        97 VHI
 0000036 110 to                                          97 TO
 0000036 120 leave                                       97 VVI

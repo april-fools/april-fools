@@ -1,6 +1,6 @@
-TOTAL         510
-NN1           112 
-NN2            51 
+TOTAL         511
+NN1           113 
+NN2            50 
 JJ             41 
 AT             38 
 II             32 
@@ -57,6 +57,7 @@ VBG             1
 RGR             1 
 CSA             1 
 PPH1            1 
+GE              1 
 RGT             1 
 RT              1 
 PPIS2           1 

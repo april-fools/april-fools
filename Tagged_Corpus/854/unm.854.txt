@@ -16,5 +16,4 @@ Mercedes-driving         NN1     Z99
 Nkansah                  NP1     Z99 
 Nkansah                  UH      Z99 
 Pritchard                NP1     Z99 
-Pritchards               NP2     Z99 
 swanky                   JJ      Z99 

@@ -1,4 +1,4 @@
-TOTAL              326
+TOTAL              328
 the                  AT             29 
 of                   IO             13 
 and                  CC             10 
@@ -45,7 +45,8 @@ an                   AT1             2
 data                 NN              2 
 but                  CCB             2 
 not                  XX              2 
-CERNs                NP2             1 
+CERN                 NP1             1 
+'s                   GE              1 
 large                JJ              1 
 Hadron_Collider      NP1             1 
 LHC                  NP1             1 
@@ -108,8 +109,8 @@ photons              NN2             1
 feature              NN1             1 
 prompted             VVD             1 
 inspired             VVN             1 
-Lewis                NP1             1 
-Carrolls             NP2             1 
+Lewis_Carroll        NP1             1 
+'s                   VBZ             1 
 through              II              1 
 looking-glass        NN1             1 
 what                 DDQ             1 
@@ -173,8 +174,9 @@ poaching             VVG             1
 end                  NN1             1 
 of_the_day           IO              1 
 you                  PPY             1 
-cant                 JJ              1 
-make                 VV0             1 
+ca                   VM              1 
+n't                  XX              1 
+make                 VVI             1 
 omelette             NN1             1 
 without              IW              1 
 breaking             VVG             1 

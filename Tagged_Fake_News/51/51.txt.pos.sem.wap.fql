@@ -1,19 +1,19 @@
-TOTAL              320
+TOTAL              322
 the                  AT             15 
 you                  PPY            15 
 he                   PPHS1           8 
 that                 CST             8 
 this                 DD1             8 
 Michael_Reagan       NP1             7 
+father               NN1             7 
+is                   VBZ             6 
 of                   IO              6 
 not                  XX              6 
 for                  IF              6 
-father               NN1             6 
+are                  VBR             6 
 and                  CC              6 
-is                   VBZ             5 
 would                VM              5 
 a                    AT1             5 
-are                  VBR             5 
 like                 II              5 
 Michael              NP1             4 
 your                 APPGE           4 
@@ -33,7 +33,7 @@ have                 VHI             2
 Reagan               NP1             2 
 at                   II              2 
 to                   II              2 
-Shaquille_ONeil      NP1             2 
+Shaquille_O'Neil     NP1             2 
 being                VBG             2 
 worthless            JJ              2 
 me                   PPIO1           2 
@@ -50,6 +50,7 @@ these                DD2             2
 so-called            JJ              2 
 republicans          NN2             2 
 get                  VVI             2 
+n't                  XX              2 
 anymore              RR              2 
 campaign             NN1             2 
 make                 VVI             2 
@@ -125,10 +126,7 @@ much                 DA1             1
 say                  VVI             1 
 on_board             RL21            1 
 guys                 NN2             1 
-are                  VB0             1 
-nt                   XX              1 
 relevant             JJ              1 
-isnt                 NN1             1 
 America              NP1             1 
 again                RT              1 
 we                   PPIS2           1 
@@ -137,7 +135,7 @@ president            NN1             1
 foundation           NN1             1 
 spends               VVZ             1 
 celebrating          VVG             1 
-fathers              NN2             1 
+'s                   GE              1 
 accomplishments      NN2             1 
 advocates            NN2             1 
 issues               NN2             1 

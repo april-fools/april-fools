@@ -1,4 +1,4 @@
-TOTAL               16
+TOTAL               17
 how                  RRQ             1 
 Obama                NP1             1 
 used                 VVD             1 
@@ -6,8 +6,9 @@ the                  AT              1
 DOJ                  NP1             1 
 to                   TO              1 
 destroy              VV0             1 
-a                    ZZ1             1 
-reporters            NN2             1 
+a                    AT1             1 
+reporter             NN1             1 
+'s                   GE              1 
 life                 NN1             1 
 and                  CC              1 
 blanket              VV0             1 

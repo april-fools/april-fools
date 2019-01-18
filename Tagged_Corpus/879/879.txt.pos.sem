@@ -74,7 +74,8 @@
 0000004 180  AT      the                      Z5 
 0000004 190  NP1     U.S.                     Z8 
 0000004 200  NN1     Trade                    I2.2 I2.1 I3.1 I2.2/N5 
-0000004 210  NN2     Representatives          A6.2+ G1.1 A4.1 S1.1.3 Q2.1/S2mf G1.1/S2mf I2.2/S2mf 
+0000004 210  NN1     Representative           Q2.1/S2mf G1.1/S2mf I2.2/S2mf A4.1 
+0000004 211  GE      's                       Z5 
 0000004 220  NN1     Office                   I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+ 
 0000004 221  ,       ,                        
 0000004 230  VVD     said                     Q2.1 
@@ -109,7 +110,8 @@
 0000006 010  NP1     Indonesia                Z2 Z3c 
 0000006 011  ,       ,                        
 0000006 020  AT      the                      Z5 
-0000006 030  NN2     worlds                   W1 S5+c A4.1 N5+ 
+0000006 030  NN1     world                    W1 S5+c A4.1 N5+ 
+0000006 031  GE      's                       Z5 
 0000006 040  JJ      top                      M6 N5.1+ A11.1+++ S7.1+++ N4 X9.1+++ A5.1+++ 
 0000006 050  NN1     producer                 K4/S7.1+/S2mf A1.1.1/S2mf 
 0000006 060  IO      of                       Z5 
@@ -148,10 +150,11 @@
 0000008 050  NN1     legislation              G2.1 
 0000008 060  II      during                   Z5 
 0000008 070  NNB     President                G1.1/S7.1+/S2mf 
-0000008 080  NP1     Barack                   Z99 
-0000008 090  NN2@    Obamas                   Z99 
-0000008 100  MD      first                    T1.3[i13.2.1 P1/S2mf[i13.2.1 N4 
-0000008 110  NNT1    year                     T1.3[i13.2.2 P1/S2mf[i13.2.2 T1.3 P1c 
+0000008 080  NP1     Barack                   Z1mf[i13.2.1 Z3c[i13.2.1 
+0000008 090  NP1     Obama                    Z1mf[i13.2.2 Z3c[i13.2.2 
+0000008 091  GE      's                       Z5 
+0000008 100  MD      first                    T1.3[i14.2.1 P1/S2mf[i14.2.1 N4 
+0000008 110  NNT1    year                     T1.3[i14.2.2 P1/S2mf[i14.2.2 T1.3 P1c 
 0000008 120  II      in                       Z5 
 0000008 130  NN1     office                   I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+ 
 0000008 140  II      in                       Z5 
@@ -165,8 +168,8 @@
 0000008 220  NN2     cigarettes               F3 
 0000008 230  IW      with                     Z5 
 0000008 240  NN2     flavors                  X3.1 O4.1 
-0000008 250  II21    such                     Z5[i14.2.1 
-0000008 260  II22    as                       Z5[i14.2.2 Z5 
+0000008 250  II21    such                     Z5[i15.2.1 
+0000008 260  II22    as                       Z5[i15.2.2 Z5 
 0000008 270  NN1     clove                    L3 
 0000008 271  ,       ,                        
 0000008 280  NN1     cinnamon                 F1 
@@ -211,12 +214,12 @@
 0000010 240  VVN     sold                     I2.2 
 0000010 250  II      in                       Z5 
 0000010 260  AT      the                      Z5 
-0000010 270  NP1     United                   Z2c[i17.2.1 Z2c[i16.2.1 Z3c Z1mf[i15.2.1 Z3c[i15.2.1 
-0000010 280  NP1     States                   Z2c[i17.2.2 Z2c[i16.2.2 Z2 Z1mf[i15.2.2 Z3c[i15.2.2 
+0000010 270  NP1     United                   Z2c[i18.2.1 Z2c[i17.2.1 Z3c Z1mf[i16.2.1 Z3c[i16.2.1 
+0000010 280  NP1     States                   Z2c[i18.2.2 Z2c[i17.2.2 Z2 Z1mf[i16.2.2 Z3c[i16.2.2 
 0000010 281  .       .                        
 0000011 001  -----   -----                    
-0000012 010  NP1     Matthew                  Z1mf[i18.2.1 Z3c[i18.2.1 Z1m S9/O1.2 
-0000012 020  NP1     Myers                    Z1mf[i18.2.2 Z3c[i18.2.2 
+0000012 010  NP1     Matthew                  Z1mf[i19.2.1 Z3c[i19.2.1 Z1m S9/O1.2 
+0000012 020  NP1     Myers                    Z1mf[i19.2.2 Z3c[i19.2.2 
 0000012 021  ,       ,                        
 0000012 030  NN1     president                G1.1/S7.1+/S2mf 
 0000012 040  IO      of                       Z5 
@@ -237,14 +240,15 @@
 0000012 160  NN1     decision                 X6+ 
 0000012 170  II      by                       Z5 
 0000012 180  AT      the                      Z5 
-0000012 190  NP1     U.S.                     Z1mf[i19.2.1 Z3c[i19.2.1 
-0000012 200  NN1     Congress                 Z1mf[i19.2.2 Z3c[i19.2.2 Z3c 
+0000012 190  NP1     U.S.                     Z1mf[i20.2.1 Z3c[i20.2.1 
+0000012 200  NN1     Congress                 Z1mf[i20.2.2 Z3c[i20.2.2 Z3c 
 0000012 210  II      on                       Z5 
 0000012 220  RRQ     how                      Z5 A13.3 
 0000012 230  RRT     best                     A5.1+++ A13.2 G2.2+++ O4.2+++ 
 0000012 240  TO      to                       Z5 
 0000012 250  VVI     protect                  S8+/A15+ A10- 
-0000012 260  NP2     Americas                 Z2 
+0000012 260  NP1     America                  Z2 
+0000012 261  GE      's                       Z5 
 0000012 270  NN2     children                 S2mf/T3- S4mf 
 0000012 280  II      from                     Z5 
 0000012 290  JJ@     flavored                 X3.1 F1 
@@ -258,8 +262,9 @@
 0000012 370  NN1     youth                    T3-/S2mf T3- 
 0000012 380  VVZ     violates                 A1.1.2 E3- G2.2- G2.1- 
 0000012 390  AT      the                      Z5 
-0000012 400  NN2     nations                  G1.1c S5+c 
-0000012 410  VV0@    trade                    I2.2 
+0000012 400  NN1     nation                   G1.1c S5+c 
+0000012 401  GE      's                       Z5 
+0000012 410  NN1     trade                    I2.2 I2.1 I3.1 I2.2/N5 
 0000012 420  NN2     obligations              S6+ 
 0000012 421  .       .                        
 0000012 422  NULL    </quote>                 
@@ -291,8 +296,8 @@
 0000014 231  NULL    <quote>                  
 0000014 232  -----   -----                    
 0000014 240  JJ      serious                  A11.1+ A15- E4.1- 
-0000014 250  JJ      public                   B3c[i20.2.1 S5+ A10+ 
-0000014 260  NN1     health                   B3c[i20.2.2 B2 X9.2 
+0000014 250  JJ      public                   B3c[i21.2.1 S5+ A10+ 
+0000014 260  NN1     health                   B3c[i21.2.2 B2 X9.2 
 0000014 270  NN2     implications             A2.2 
 0000014 271  NULL    </quote>                 
 0000014 272  -----   -----                    
@@ -318,7 +323,8 @@
 0000016 010  PPIS1   I                        Z8mf 
 0000016 020  VV0     believe                  X2.1 S9% 
 0000016 030  AT      the                      Z5 
-0000016 040  NP2     WTOs                     Z99 
+0000016 040  NP1     WTO                      Z99 
+0000016 041  GE      's                       Z5 
 0000016 050  NN1     interpretation           X2.5+ K2 Q3 
 0000016 060  VBZ     is                       A3+ Z5 
 0000016 070  JJ      wrong                    A5.3- A5.1- G2.2- B2- 
@@ -339,15 +345,16 @@
 0000016 220  JJ      American                 Z2 
 0000016 230  NN1     public                   S5+ A10+ S5+c 
 0000016 240  II      from                     Z5 
-0000016 250  NN2     tobaccos                 F3 
+0000016 250  NN1     tobacco                  F3 
+0000016 251  GE      's                       Z5 
 0000016 260  JJ      devastating              A1.1.2 E4.1- 
 0000016 270  NN2     effects                  A2.2 A8 
 0000016 271  ,       ,                        
 0000016 272  NULL    </quote>                 
 0000016 273  -----   -----                    
 0000016 280  JJ      Representative           A6.2+ G1.1 A4.1 S1.1.3 
-0000016 290  NP1     Henry                    Z1mf[i21.2.1 Z3c[i21.2.1 Z1mf 
-0000016 300  NP1     Waxman                   Z1mf[i21.2.2 Z3c[i21.2.2 
+0000016 290  NP1     Henry                    Z1mf[i22.2.1 Z3c[i22.2.1 Z1mf 
+0000016 300  NP1     Waxman                   Z1mf[i22.2.2 Z3c[i22.2.2 
 0000016 310  VVD     said                     Q2.1 
 0000016 311  ,       ,                        
 0000016 320  VVG     noting                   Q2.1 Q1.2 
@@ -368,15 +375,16 @@
 0000018 030  AT      the                      Z5 
 0000018 040  NP1     U.S.                     Z8 
 0000018 050  NN1     Trade                    I2.2 I2.1 I3.1 I2.2/N5 
-0000018 060  NN2     Representatives          A6.2+ G1.1 A4.1 S1.1.3 Q2.1/S2mf G1.1/S2mf I2.2/S2mf 
+0000018 060  NN1     Representative           Q2.1/S2mf G1.1/S2mf I2.2/S2mf A4.1 
+0000018 061  GE      's                       Z5 
 0000018 070  NN1     Office                   I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+ 
 0000018 080  VBDZ    was                      Z5 A3+ 
 0000018 090  VVG     examining                X2.4 B3 P1 
 0000018 100  APPGE   its                      Z8 
 0000018 110  NN2     options                  X7+ I2.1 P1 
 0000018 120  IF      for                      Z5 
-0000018 130  VVG     complying                A1.1.1[i22.2.1 A6.1+ S7.1- 
-0000018 140  IW      with                     A1.1.1[i22.2.2 Z5 
+0000018 130  VVG     complying                A1.1.1[i23.2.1 A6.1+ S7.1- 
+0000018 140  IW      with                     A1.1.1[i23.2.2 Z5 
 0000018 150  AT      the                      Z5 
 0000018 160  NN1     ruling                   S7.1+ Q1.2 X6+ 
 0000018 161  .       .                        
@@ -411,15 +419,15 @@
 0000020 260  VVN     estimated                X6/A7- N2/A7- 
 0000020 270  II      at                       Z5 
 0000020 280  RG      about                    A13.4 
-0000020 290  NNU     $16                      Z99/H1c[i23.2.1 
-0000020 300  NNO     million                  Z99/H1c[i23.2.2 N1 I1 
+0000020 290  NNU     $16                      Z99/H1c[i24.2.1 
+0000020 300  NNO     million                  Z99/H1c[i24.2.2 N1 I1 
 0000020 310  II      per                      Z5 
 0000020 320  NNT1    year                     T1.3 P1c 
 0000020 321  .       .                        
 0000021 001  -----   -----                    
 0000022 010  AT      The                      Z5 
-0000022 020  NP1     United                   Z2c[i26.2.1 Z2c[i25.2.1 Z3c Z1mf[i24.2.1 Z3c[i24.2.1 
-0000022 030  NP1     States                   Z2c[i26.2.2 Z2c[i25.2.2 Z2 Z1mf[i24.2.2 Z3c[i24.2.2 
+0000022 020  NP1     United                   Z2c[i27.2.1 Z2c[i26.2.1 Z3c Z1mf[i25.2.1 Z3c[i25.2.1 
+0000022 030  NP1     States                   Z2c[i27.2.2 Z2c[i26.2.2 Z2 Z1mf[i25.2.2 Z3c[i25.2.2 
 0000022 040  VM      could                    A7+ 
 0000022 050  RR      also                     N5++ 
 0000022 060  VVI     comply                   A6.1+ S7.1- 
@@ -463,8 +471,8 @@
 0000024 120  VVG     noting                   Q2.1 Q1.2 
 0000024 130  AT1     a                        Z5 
 0000024 140  JJ      scientific               Y1 
-0000024 150  JJ      advisory                 S8+/S7.1+/S5+[i27.2.1 S8+ 
-0000024 160  NN1     committee                S8+/S7.1+/S5+[i27.2.2 S7.1+/S5+c 
+0000024 150  JJ      advisory                 S8+/S7.1+/S5+[i28.2.1 S8+ 
+0000024 160  NN1     committee                S8+/S7.1+/S5+[i28.2.2 S7.1+/S5+c 
 0000024 170  VVN     created                  A1.1.1 A2.2 E1 
 0000024 180  II      by                       Z5 
 0000024 190  AT      the                      Z5 
@@ -475,9 +483,9 @@
 0000024 240  CST     that                     Z5 Z8 
 0000024 250  DAR     more                     N5++ 
 0000024 260  CSN     than                     Z5 
-0000024 270  AT1     a                        T1.1.1[i28.3.1 Z5 
-0000024 280  NNT1    year                     T1.1.1[i28.3.2 T1.3 P1c 
-0000024 290  RA      ago                      T1.1.1[i28.3.3 T1.1.1 
+0000024 270  AT1     a                        T1.1.1[i29.3.1 Z5 
+0000024 280  NNT1    year                     T1.1.1[i29.3.2 T1.3 P1c 
+0000024 290  RA      ago                      T1.1.1[i29.3.3 T1.1.1 
 0000024 291  .       .                        
 0000026 001  NULL    <quote>                  
 0000026 002  -----   -----                    
@@ -495,7 +503,8 @@
 0000026 120  TO      to                       Z5 
 0000026 130  VVI     implement                A1.1.1 A9-/O2 
 0000026 140  AT      the                      Z5 
-0000026 150  NN2     committees               S7.1+/S5+c 
+0000026 150  NN1     committee                S7.1+/S5+c 
+0000026 151  GE      's                       Z5 
 0000026 160  NN1     recommendation           Q2.2 
 0000026 161  ,       ,                        
 0000026 162  NULL    </quote>                 
@@ -525,17 +534,17 @@
 0000028 070  JJ      Inc                      I2.1 
 0000028 071  ,       ,                        
 0000028 080  AT      the                      Z5 
-0000028 090  NP1     Philip                   Z1mf[i30.3.1 Z3c[i30.3.1 Z1m Z1mf[i29.2.1 Z3c[i29.2.1 
-0000028 100  NP1     Morris                   Z1mf[i30.3.2 Z3c[i30.3.2 Z1mf Z1mf[i29.2.2 Z3c[i29.2.2 Z1mf[i31.2.1 Z3c[i31.2.1 
-0000028 110  NP1     USA                      Z3c[i30.3.3 Z1mf[i30.3.3 Z2 Z1mf[i31.2.2 Z3c[i31.2.2 
+0000028 090  NP1     Philip                   Z1mf[i31.3.1 Z3c[i31.3.1 Z1m Z1mf[i30.2.1 Z3c[i30.2.1 
+0000028 100  NP1     Morris                   Z1mf[i31.3.2 Z3c[i31.3.2 Z1mf Z1mf[i30.2.2 Z3c[i30.2.2 Z1mf[i32.2.1 Z3c[i32.2.1 
+0000028 110  NP1     USA                      Z3c[i31.3.3 Z1mf[i31.3.3 Z2 Z1mf[i32.2.2 Z3c[i32.2.2 
 0000028 120  NN1     unit                     S5+c O2 H5 H1 N3.1 P1 N1 
 0000028 130  IO      of                       Z5 
-0000028 140  NP1     Altria                   Z3c[i32.2.1 
-0000028 150  NN1     Group                    Z3c[i32.2.2 S5+c A4.1c B3% 
+0000028 140  NP1     Altria                   Z3c[i33.2.1 
+0000028 150  NN1     Group                    Z3c[i33.2.2 S5+c A4.1c B3% 
 0000028 151  ,       ,                        
 0000028 160  AT      the                      Z5 
-0000028 170  NP1     R.J.                     Z1mf[i33.2.1 Z3c[i33.2.1 
-0000028 180  NP1     Reynolds                 Z1mf[i33.2.2 Z3c[i33.2.2 
+0000028 170  NP1     R.J.                     Z1mf[i34.2.1 Z3c[i34.2.1 
+0000028 180  NP1     Reynolds                 Z1mf[i34.2.2 Z3c[i34.2.2 
 0000028 190  NN1     Tobacco                  F3 
 0000028 200  NN1     Co.                      I2.1/S5c 
 0000028 210  NN1     unit                     S5+c O2 H5 H1 N3.1 P1 N1 
@@ -551,8 +560,8 @@
 0000028 300  NP1     LLC                      Z99 
 0000028 301  .       .                        
 0000029 001  -----   -----                    
-0000030 010  NP1     Mark                     Z1mf[i34.2.1 Z3c[i34.2.1 Z1m S9/O1.2 
-0000030 020  NP1     McMinimy                 Z1mf[i34.2.2 Z3c[i34.2.2 
+0000030 010  NP1     Mark                     Z1mf[i35.2.1 Z3c[i35.2.1 Z1m S9/O1.2 
+0000030 020  NP1     McMinimy                 Z1mf[i35.2.2 Z3c[i35.2.2 
 0000030 021  ,       ,                        
 0000030 030  AT1     a                        Z5 
 0000030 040  JJ      senior                   S7.1++ T3++ 
@@ -574,8 +583,8 @@
 0000030 190  NP1     Obama                    Z99 
 0000030 200  NN1     administration           S7.1+c A9- 
 0000030 210  VM      would                    A7+ 
-0000030 220  VVI     take                     Z3c[i35.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
-0000030 230  DD1     that                     Z3c[i35.2.2 Z5 Z8 
+0000030 220  VVI     take                     Z3c[i36.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000030 230  DD1     that                     Z3c[i36.2.2 Z5 Z8 
 0000030 240  NN1     step                     M1 T1.2 H5 O2 A2.1+ A1.1.1 K1@ K5.1@ 
 0000030 241  .       .                        
 0000031 001  -----   -----                    
@@ -612,8 +621,8 @@
 0000034 060  VM      would                    A7+ 
 0000034 070  VVI     ban                      S7.4- 
 0000034 080  CC      or                       Z5 
-0000034 090  NN1     phase                    T2-[i36.2.1 X2.5-[i36.2.1 T1.3 
-0000034 100  RP      out                      T2-[i36.2.2 X2.5-[i36.2.2 M6 
+0000034 090  NN1     phase                    T2-[i37.2.1 X2.5-[i37.2.1 T1.3 
+0000034 100  RP      out                      T2-[i37.2.2 X2.5-[i37.2.2 M6 
 0000034 110  NN1     menthol                  O1.1 
 0000034 120  NN2     cigarettes               F3 
 0000034 130  IW      without                  Z5 
@@ -635,8 +644,8 @@
 0000034 270  JJ      special                  A4.2+ A6.2- 
 0000034 280  NN1     menace                   E5- A15- X2.6+/O4.2- A7+ 
 0000034 290  II      to                       Z5 
-0000034 300  JJ      public                   B3c[i37.2.1 S5+ A10+ 
-0000034 310  NN1     health                   B3c[i37.2.2 B2 X9.2 
+0000034 300  JJ      public                   B3c[i38.2.1 S5+ A10+ 
+0000034 310  NN1     health                   B3c[i38.2.2 B2 X9.2 
 0000034 311  ,       ,                        
 0000034 312  NULL    </quote>                 
 0000034 313  -----   -----                    

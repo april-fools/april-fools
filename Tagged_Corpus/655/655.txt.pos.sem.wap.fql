@@ -1,10 +1,10 @@
-TOTAL              917
+TOTAL              919
 the                  AT             63 
 and                  CC             25 
 a                    AT1            22 
 in                   II             21 
 to                   TO             19 
-'s                   GE             15 
+'s                   GE             17 
 will                 VM             13 
 to                   II             13 
 of                   IO             11 
@@ -396,8 +396,7 @@ hits                 NN2             1
 speed                VV0             1 
 bumps                NN2             1 
 Reshoots             NP1             1 
-Doug                 NP1             1 
-Limans               NP2             1 
+Doug_Liman           NP1             1 
 best-selling         JJ              1 
 ya                   PPY             1 
 novel                NN1             1 
@@ -441,8 +440,9 @@ Indiana_Jones        NP1             1
 female               JJ              1 
 indy                 NN1             1 
 next                 MD              1 
-wed                  VV0             1 
-have_to              VH0             1 
+we                   PPIS2           1 
+'d                   VM              1 
+have_to              VHI             1 
 change               VVI             1 
 Jones                NP1             1 
 Joan                 NP1             1 
@@ -470,7 +470,7 @@ knows                VVZ             1
 oscar-winning        JJ              1 
 iranian              JJ              1 
 director             NN1             1 
-Asghar_Farhadis      NP1             1 
+Asghar_Farhadi       NP1             1 
 spanish-language     JJ              1 
 psychological        JJ              1 
 starring_Javier      VVG             1 

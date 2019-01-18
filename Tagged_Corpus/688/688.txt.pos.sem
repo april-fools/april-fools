@@ -77,7 +77,8 @@
 0000005 260  PNQS    who                      Z8 
 0000005 270  VBDZ    was                      Z5 A3+ 
 0000005 280  VVN     hailed                   Q2.2 W4 M6 
-0000005 290  NN2     Britains                 Z2 
+0000005 290  NP1     Britain                  Z2 
+0000005 291  GE      's                       Z5 
 0000005 300  JJT     biggest                  N3.2+++ N5+++ A11.1+++ S1.2.5+++ X5.2+++ 
 0000005 310  RR      ever                     T1.1 N6+++ A13 
 0000005 320  CS      when                     Z5 

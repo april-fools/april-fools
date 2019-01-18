@@ -75,7 +75,8 @@
 0000004 191  .       .                        
 0000004 192  -----   -----                    
 0000004 200  AT      The                      Z5 
-0000004 210  NN2     firms                    I2.1/S5+c 
+0000004 210  NN1     firm                     I2.1/S5+c 
+0000004 211  GE      's                       Z5 
 0000004 220  JJ      bullish                  I2.1 
 0000004 230  NN1     stance                   O4.4/B1 X2.1 
 0000004 240  II      on                       Z5 
@@ -86,6 +87,7 @@
 0000004 290  AT      the                      Z5 
 0000004 300  JJ@     streaming                N5+ M1 P1 B2- 
 0000004 310  NN2     services                 S8+ S7.1- A1.1.1 S9 G3@ G2.1@ M3/M7@ 
+0000004 311  GE      '                        Z5 
 0000004 320  NNU     $9.99                    Z99 
 0000004 330  II      per                      Z5 
 0000004 340  NNT1    month                    T1.3 
@@ -97,7 +99,8 @@
 0000004 390  VVZ@    places                   M2 X2.2+ I3.1 Q2.2 
 0000004 400  RR      right                    Z4 A5.3+ A4.2+ M6 A13.3 A13.2 
 0000004 410  II      behind                   Z5 
-0000004 420  NP1     Netflixs                 Z99 
+0000004 420  NP1     Netflix                  Z99 
+0000004 421  GE      's                       Z5 
 0000004 430  NN1     subscription             Q4.2/I2.2 A9-/I1 I2.2/I1 
 0000004 440  NN1     rate                     N3.8 N5 I1.3 
 0000004 450  CC      and                      Z5 
@@ -223,8 +226,9 @@
 0000008 060  II21    such                     Z5[i7.2.1 
 0000008 070  II22    as                       Z5[i7.2.2 Z5 
 0000008 080  AT      the                      Z5 
-0000008 090  NN2     companys                 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
-0000008 100  VV0     market                   I2.2 
+0000008 090  NN1     company                  I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000008 091  GE      's                       Z5 
+0000008 100  NN1     market                   I2.2 I2.2/H1 
 0000008 110  NN1     leadership               S7.1+ 
 0000008 111  ,       ,                        
 0000008 120  NN1     exposure                 A15- A10+ Q4 C1 

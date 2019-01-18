@@ -432,7 +432,8 @@
 0000027 143  -----   -----                    
 0000027 150  RR      Frankly                  A5.2+ 
 0000027 151  ,       ,                        
-0000027 160  VV0     Im                       Z99 
+0000027 160  PPIS1   I                        Z8mf 
+0000027 161  VBM     'm                       A3+ Z5 
 0000027 170  XX      not                      Z6 
 0000027 180  JJ      surprised                X2.6- 
 0000027 190  II      at                       Z5 
@@ -446,8 +447,9 @@
 0000027 241  ,       ,                        
 0000027 250  PPIS1   I                        Z8mf 
 0000027 260  VV0     think                    X2.1 
-0000027 270  NN1     weve                     Z99 
-0000027 280  VVD     suspected                X2.1/A5.1- A7 
+0000027 270  PPIS2   we                       Z8 
+0000027 271  VH0     've                      Z5 A9+ A2.2 
+0000027 280  VVN     suspected                X2.1/A5.1- A7 
 0000027 290  DB      all                      N5.1+ 
 0000027 300  II      along                    Z5 
 0000027 310  DD1     that                     Z5 Z8 

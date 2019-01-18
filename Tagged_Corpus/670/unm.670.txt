@@ -15,4 +15,5 @@ territoriality           NN1     Z99
 think-tank               NN1     Z99 
 unsustainable            JJ      Z99 
 US-centric               JJ      Z99 
+West'                    JJ@     Z99 
 wistfully                RR      Z99 

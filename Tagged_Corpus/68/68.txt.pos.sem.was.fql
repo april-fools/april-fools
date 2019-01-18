@@ -1,4 +1,4 @@
-TOTAL              719
+TOTAL              717
 the                  Z5                  31 
 and                  Z5                  24 
 to                   Z5                  23 
@@ -79,7 +79,6 @@ like                 Z5                   2
 club                 S5+                  2 
 always               N6+++                2 
 so                   A13.3                2 
-day                  T1.3                 2 
 joked                E4.1+                2 
 how                  Z5                   2 
 smoke                F3                   2 
@@ -95,6 +94,7 @@ too                  N5.2+                2
 Mr._Garabedian       Z1                   2 
 single               N5---                2 
 our                  Z8                   2 
+April_fool_'s_day    T1.3                 2 
 below                M6                   2 
 Los_Angeles          Z2                   1 
 american             Z2                   1 
@@ -184,6 +184,7 @@ does_n't_matter      A11.1-               1
 if                   Z7                   1 
 do                   Z5                   1 
 another              A6.1-                1 
+day                  T1.3                 1 
 be                   A3+                  1 
 bread                F1                   1 
 earner               A9+                  1 
@@ -346,7 +347,6 @@ cool                 O4.6-                1
 enough               N5+                  1 
 appreciate           E2+                  1 
 annual               N6+                  1 
-April_fool_'s_day    T1.3                 1 
 gag                  O2                   1 
 year                 T1.3                 1 
 100%                 N5.1+                1 
@@ -358,8 +358,6 @@ thanks               S1.2.4+              1
 playing_along        S5+                  1 
 folks                S2                   1 
 oh                   Z4                   1 
-April                T1.3                 1 
-fools                S1.2.6-              1 
 stories              Q2.1                 1 
 click                X3.2                 1 
 links                A2.2                 1 

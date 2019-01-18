@@ -1,4 +1,4 @@
-TOTAL              235
+TOTAL              238
 the                  AT             14 
 data                 NN              8 
 a                    AT1             7 
@@ -8,12 +8,14 @@ in                   II              5
 music                NN1             5 
 to                   II              4 
 CERN                 NP1             3 
-have                 VH0             3 
+they                 PPHS2           3 
 is                   VBZ             3 
 what                 DDQ             3 
+it                   PPH1            3 
 can                  VM              3 
 on                   II              3 
 at                   II              2 
+have                 VH0             2 
 using                VVG             2 
 more                 RRR             2 
 about                II              2 
@@ -22,13 +24,10 @@ unusual              JJ              2
 from                 II              2 
 into                 II              2 
 as                   II              2 
-they                 PPHS2           2 
 physics              NN1             2 
 patterns             NN2             2 
 sonifying            VVG             2 
-it                   PPH1            2 
 musical              JJ              2 
-score                NN1             2 
 theory               NN1             2 
 this                 DD1             2 
 when                 RRQ             2 
@@ -36,7 +35,6 @@ Higgs                NP1             2
 boson                NN1             2 
 random               JJ              2 
 notes                NN2             2 
-its                  APPGE           2 
 of                   IO              2 
 such                 DA              2 
 be                   VBI             2 
@@ -52,7 +50,7 @@ particles            NN2             1
 our                  APPGE           1 
 one                  MC1             1 
 method               NN1             1 
-theyve               NN1             1 
+'ve                  VH0             1 
 utilised             VVN             1 
 turn                 VVI             1 
 large                JJ              1 
@@ -71,6 +69,7 @@ vibrations           NN2             1
 frequency            NN1             1 
 by                   II              1 
 comparing            VVG             1 
+score                NN1             1 
 then                 RT              1 
 applying             VVG             1 
 we                   PPIS2           1 
@@ -91,6 +90,7 @@ shocked              VVN             1
 after                II              1 
 listening            VVG             1 
 played               VVD             1 
+its                  APPGE           1 
 tune                 NN1             1 
 bump                 NN1             1 
 graph                NN1             1 
@@ -98,6 +98,7 @@ translated           VVN             1
 well-known           JJ              1 
 pattern              NN1             1 
 recognisable         JJ              1 
+'s                   VBZ             1 
 surprising           JJ              1 
 that                 CST             1 
 an                   AT1             1 
@@ -112,7 +113,9 @@ physicist            NN1             1
 who                  PNQS            1 
 works                VVZ             1 
 Valkyries            NP1             1 
-id                   NN1             1 
+i                    PPIS1           1 
+'d                   VM              1 
+have                 VHI             1 
 expected             VVN             1 
 sound                VVI             1 
 even                 RR              1 
@@ -120,6 +123,7 @@ more                 RGR             1
 dramatic             JJ              1 
 like                 II              1 
 film                 NN1             1 
+score'               NN1             1 
 team                 NN1             1 
 are                  VBR             1 
 now                  RT              1 

@@ -168,7 +168,8 @@
 0000008 240  NN2     processes                A1.1.1 X4.2 
 0000008 241  ,       ,                        
 0000008 250  PN1     something                Z8 
-0000008 260  VVZ     thats                    Z5 Z8 A13.3 A6.1+ 
+0000008 260  CST     that                     Z8 Z5 
+0000008 261  VBZ     's                       Z5 A3+ 
 0000008 270  VVG     appealing                O4.2+ Q2.2 G2.1 E2+ 
 0000008 280  II      to                       Z5 
 0000008 290  NN2     banks                    I1/H1 I1.1/I2.1c W3/M4 A9+/H1 O2 M6 
@@ -196,7 +197,8 @@
 0000010 050  AT1     a                        Z5 
 0000010 060  NN1     boon                     S8+ 
 0000010 070  IF      for                      Z5 
-0000010 080  NP2     Microsofts               Z3c 
+0000010 080  NP1     Microsoft                Z3c 
+0000010 081  GE      's                       Z5 
 0000010 090  NN2     partners                 S3.1/S2mf S3.2/S2mf S4mf 
 0000010 100  CC      and                      Z5 
 0000010 110  APPGE   its                      Z8 
@@ -249,8 +251,9 @@
 0000010 490  CC      and                      Z5 
 0000010 500  NN1     service                  S8+ S7.1- I2.2 A1.1.1 S9 I3.1 F1 G3@ G1.1@ G2.1@ 
 0000010 510  II      to                       Z5 
-0000010 520  FO      R3s                      Z99 
-0000010 530  VV0     blockchain               Z99 
+0000010 520  FO      R3                       Z99 
+0000010 521  GE      's                       Z5 
+0000010 530  NN1     blockchain               Z99 
 0000010 540  NN2     labs                     Y1/H1 
 0000010 541  .       .                        
 0000011 001  -----   -----                    
@@ -295,7 +298,8 @@
 0000012 340  RR      necessarily              S6+ 
 0000012 350  PN1     something                Z8 
 0000012 360  CST     that                     Z8 Z5 
-0000012 370  VBDR    were                     Z5 A3+ 
+0000012 370  PPIS2   we                       Z8 
+0000012 371  VBR     're                      Z5 A3+ 
 0000012 380  VVG     betting                  I1/A1.4 X2.6+ 
 0000012 390  RP@     on                       M6 A1.1.1 
 0000012 391  ,       ,                        
@@ -363,7 +367,8 @@
 0000014 330  AT1     a                        Z5 
 0000014 340  NN1     currency                 I1 A6.2+ 
 0000014 350  CST     that                     Z8 Z5 
-0000014 360  VV0     isnt                     Z99 
+0000014 360  VBZ     is                       A3+ Z5 
+0000014 361  XX      n't                      Z6 
 0000014 370  RG      as                       A13 
 0000014 380  JJ      volatile                 A2.1+ S1.2 O4.1 
 0000014 390  CSA     as                       Z5 

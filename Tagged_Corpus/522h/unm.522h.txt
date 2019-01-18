@@ -1,2 +1,2 @@
-Bitcoins                 NP1     Z99 
+Bitcoin                  NP1     Z99 
 blockchain               NN1     Z99 

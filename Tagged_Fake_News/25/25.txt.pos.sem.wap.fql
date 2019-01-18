@@ -1,21 +1,22 @@
-TOTAL              225
+TOTAL              230
 the                  AT             11 
-i                    PPIS1           8 
+i                    PPIS1           9 
 a                    AT1             6 
 and                  CC              6 
 said                 VVD             6 
+candidate            NN1             5 
 of                   IO              5 
-candidate            NN1             4 
 on                   II              4 
 trump                NN1             3 
+who                  PNQS            3 
 me                   PPIO1           3 
 would                VM              3 
 this                 DD1             3 
+that                 DD1             3 
 evangelical          JJ              2 
 Donald_trump         NP1             2 
 in                   II              2 
 believe              VV0             2 
-who                  PNQS            2 
 has                  VHZ             2 
 he                   PPHS1           2 
 is                   VBZ             2 
@@ -26,11 +27,11 @@ Jesus                NP1             2
 was                  VBDZ            2 
 professor            NN1             2 
 do                   VD0             2 
-nt                   XX              2 
+n't                  XX              2 
 sermon               NN1             2 
 mount                NN1             2 
 Jeffress             NP1             2 
-that                 DD1             2 
+'s                   VBZ             2 
 ISIS                 NP1             2 
 by                   II              1 
 Michael_Hoult        NP1             1 
@@ -115,6 +116,7 @@ govern               VVI             1
 country              NN1             1 
 principles           NN2             1 
 found                VVN             1 
+'                    GE              1 
 heck                 NN1             1 
 no                   UH              1 
 run                  VVI             1 
@@ -129,16 +131,15 @@ principle            NN1             1
 for                  IF              1 
 nation               NN1             1 
 when                 CS              1 
-Im                   NP1             1 
+'m                   VBM             1 
 looking_for          VVG             1 
 somebody             PN1             1 
-whos                 NN2             1 
 going_to             VVGK            1 
 deal                 VVI             1 
 exterminate          VV0             1 
 care                 VVI             1 
 about                II              1 
-candidates           NN2             1 
+'s                   GE              1 
 tone                 NN1             1 
 or                   CC              1 
 vocabulary           NN1             1 
@@ -149,7 +150,6 @@ son                  NN1             1
 you-know-what        NN1             1 
 can                  VM              1 
 find                 VVI             1 
-thats                NN2             1 
 biblical             JJ              1 
 sharing              VVG             1 
 caring               JJ              1 

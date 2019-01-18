@@ -3,7 +3,7 @@ $185,000                 NNU     Z99
 $259,000                 NNU     Z99 
 @                        II      Z99 
 @microfundr              FO      Z99 
-ArcticStartup            NP1     Z99 
+ArcticStartup(that       NP1     Z99 
 blog                     NN1     Z99 
 blogging                 VVG     Z99 
 consice                  NN1     Z99 

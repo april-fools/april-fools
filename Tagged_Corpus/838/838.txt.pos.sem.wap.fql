@@ -1,4 +1,4 @@
-TOTAL             1326
+TOTAL             1337
 the                  AT             91 
 and                  CC             46 
 a                    AT1            31 
@@ -8,28 +8,31 @@ to                   TO             21
 from                 II             17 
 is                   VBZ            17 
 to                   II             17 
+that                 CST            16 
 in                   II             16 
-that                 CST            15 
 soldiers             NN2            15 
 we                   PPIS2          15 
 for                  IF             14 
 US                   NP1            12 
 are                  VBR            12 
 military             JJ             10 
+it                   PPH1           10 
 you                  PPY            10 
 they                 PPHS2          10 
 this                 DD1             9 
 but                  CCB             9 
+'s                   GE              9 
+Chris                NP1             9 
 post                 NN1             9 
 their                APPGE           9 
 rescue               NN1             8 
-it                   PPH1            8 
 who                  PNQS            7 
 our                  APPGE           7 
 dog                  NN1             7 
 at                   II              7 
 were                 VBDR            7 
 soldier              NN1             7 
+'s                   VBZ             6 
 home                 RL              6 
 than                 CSN             6 
 with                 IW              6 
@@ -48,7 +51,6 @@ one                  MC1             5
 rescue               VVI             5 
 them                 PPHO2           5 
 puppy                NN1             5 
-Chris                NP1             5 
 on                   II              5 
 when                 CS              5 
 been                 VBN             5 
@@ -61,10 +63,11 @@ has                  VHZ             4
 how                  RRQ             4 
 started              VVD             4 
 did                  VDD             4 
-Chriss               NP1             4 
+bomber               NN1             4 
 where                CS              4 
 some                 DD              4 
 bond                 NN1             4 
+n't                  XX              4 
 would                VM              4 
 by                   II              4 
 've                  VH0             4 
@@ -72,12 +75,13 @@ stories              NN2             4
 pup                  NN1             4 
 country              NN1             3 
 while                CS              3 
+there                EX              3 
 get                  VVI             3 
 $1.5_million         NNU             3 
 few                  DA2             3 
 his                  APPGE           3 
-bomber               NN1             3 
 other                JJ              3 
+target               NN1             3 
 thankfully           RR              3 
 attack               NN1             3 
 only                 RR              3 
@@ -98,7 +102,6 @@ battle               NN1             3
 be                   VBI             3 
 rescued              VVN             3 
 people               NN              3 
-n't                  XX              3 
 recently             RR              3 
 Sammy                NP1             3 
 here                 RL              3 
@@ -107,7 +110,7 @@ serve                VV0             2
 overseas             RL              2 
 killed               VVN             2 
 rather_than          CS21            2 
-its                  APPGE           2 
+America              NP1             2 
 more                 RGR             2 
 also                 RR              2 
 working              VVG             2 
@@ -124,7 +127,6 @@ arrival              NN1             2
 suicide              NN1             2 
 Rufus                NP1             2 
 two                  MC              2 
-target               NN1             2 
 Sasha                NP1             2 
 troops               NN2             2 
 never                RR              2 
@@ -158,9 +160,7 @@ heartwarming         JJ              2
 or                   CC              2 
 tragic               JJ              2 
 life                 NN1             2 
-'s                   VBZ             2 
 war                  NN1             2 
-there                EX              2 
 as_well              RR21            2 
 money                NN1             2 
 more                 RRR             2 
@@ -173,7 +173,6 @@ days                 NNT2            2
 does                 VDZ             2 
 middle_east          JJ              2 
 cost                 NN1             2 
-'s                   GE              2 
 transport            NN1             2 
 service              NN1             2 
 Marvin               NP1             2 
@@ -186,16 +185,13 @@ keeps                VVZ             1
 headlines            NN2             1 
 fact                 NN1             1 
 brought_home         VVN             1 
-America              NP1             1 
 cheap                JJ              1 
 ship                 VVI             1 
-theres               NN2             1 
 nothing              PN1             1 
 inhumane             JJ              1 
 in_my_opinion        II              1 
 kill                 VVI             1 
-thats                NN2             1 
-served               VVD             1 
+served               VVN             1 
 tragedy              NN1             1 
 so_many              RG              1 
 perfectly            RR              1 
@@ -226,7 +222,6 @@ work                 VV0             1
 alongside            II              1 
 over                 RG              1 
 over_400             RG              1 
-Americas             NP2             1 
 four-legged          JJ              1 
 personnel            NN2             1 
 '                    GE              1 
@@ -254,7 +249,6 @@ barking              VVG             1
 took_off             VVD             1 
 in_pursuit_of        II31            1 
 grabbed              VVD             1 
-bombers              NN2             1 
 leg                  NN1             1 
 alerted              VVD             1 
 blew_up              VVD             1 
@@ -277,7 +271,6 @@ nursed               VVN             1
 health               NN1             1 
 shortly              RR              1 
 befriended           VVD             1 
-targets              NN2             1 
 litter               NN1             1 
 four                 MC              1 
 five_weeks_old       MC              1 
@@ -303,7 +296,6 @@ most_of_all          DAT             1
 treating             VVG             1 
 as_if                CS21            1 
 own                  DA              1 
-nt                   XX              1 
 when                 RRQ             1 
 could                VM              1 
 literally            RR              1 

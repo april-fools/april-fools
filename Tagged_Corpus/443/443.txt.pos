@@ -51,7 +51,8 @@
 0000008 020 revolutionary                               03 JJ
 0000008 030 technology                                  03 NN1
 0000008 031 ,                                           03 ,
-0000008 040 BMWs                                        04 NP2
+0000008 040 BMW                       >                 93 NP1
+0000008 041 's                        <                 98 GE
 0000008 050 unique                                      93 JJ
 0000008 060 traction                                    93 NN1
 0000008 070 controls                                    03 [VVZ/92] NN2/8

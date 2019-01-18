@@ -1,4 +1,4 @@
-TOTAL              229
+TOTAL              230
 the                  AT             13 
 of                   IO              9 
 Higgs                NP1             6 
@@ -10,13 +10,14 @@ to                   TO              4
 this                 DD1             4 
 will                 VM              4 
 that                 CST             3 
-particles            NN2             3 
 for                  IF              3 
 bosons               NN2             3 
 an                   AT1             2 
+particle             NN1             2 
 research             NN1             2 
 CERN                 NP1             2 
 is                   VBZ             2 
+particles            NN2             2 
 some                 DD              2 
 said                 VVD             2 
 Dr_Bertolucci        NNB             2 
@@ -35,7 +36,6 @@ to                   II              2
 unprecedented        JJ              1 
 gesture              NN1             1 
 history              NN1             1 
-particle             NN1             1 
 physics              NN1             1 
 Sergio_Bertolucci    NP1             1 
 director             NN1             1 
@@ -80,6 +80,7 @@ level                NN1             1
 enthusiasm           NN1             1 
 greeted              VVN             1 
 new                  JJ              1 
+'s                   GE              1 
 was                  VBDZ            1 
 announced            VVN             1 
 at                   II              1 

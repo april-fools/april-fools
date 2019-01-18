@@ -1,20 +1,22 @@
-TOTAL              341
+TOTAL              344
 the                  AT             21 
 and                  CC             12 
+company              NN1             8 
 in                   II              8 
 a                    AT1             8 
-company              NN1             7 
-Marvell              NP1             6 
+Marvell              NP1             7 
 to                   TO              6 
 said                 VVD             5 
 that                 CST             5 
 of                   IO              5 
+'s                   GE              4 
 its                  APPGE           4 
 board                NN1             4 
 leadership           NN1             4 
 marvell              VV0             3 
 technology           NN1             3 
-Sutardja             NP1             3 
+group                NN1             3 
+Sehat_Sutardja       NP1             3 
 who                  PNQS            3 
 are                  VBR             3 
 ceo                  NN1             3 
@@ -24,7 +26,6 @@ had                  VHD             3
 it                   PPH1            3 
 also                 RR              3 
 starboard            NN1             3 
-groups               NN2             2 
 Weili_Dai            NP1             2 
 co-founded           VVD             2 
 more                 DAR             2 
@@ -46,12 +47,11 @@ is                   VBZ             2
 chief                JJ              2 
 officer              NN1             2 
 been                 VBN             2 
+Sutardja             NP1             2 
 Bloomberg            NP1             2 
 was                  VBDZ            2 
-Sehat_Sutardja       NP1             2 
 silicon              NN1             2 
 valley               NN1             2 
-sehat                VV0             1 
 husband              NN1             1 
 wife                 NN1             1 
 two_decades_ago      MC              1 
@@ -152,7 +152,6 @@ his                  APPGE           1
 brother              NN1             1 
 Pantas               NP2             1 
 among                II              1 
-Marvells             NP2             1 
 biggest              JJT             1 
 shareholders         NN2             1 
 according_to         II21            1 
@@ -181,7 +180,6 @@ Dai                  NP1             1
 fined                VVN             1 
 forced               VVN             1 
 resign               VVI             1 
-companys             NN2             1 
 operating            NN1             1 
 but                  CCB             1 
 later                RRR             1 
@@ -189,7 +187,6 @@ returned             VVN             1
 photo                NN1             1 
 then                 RT              1 
 chairman             NN1             1 
-group                NN1             1 
 during               II              1 
 panel                NN1             1 
 discussion           NN1             1 

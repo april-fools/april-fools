@@ -1,4 +1,4 @@
-TOTAL              283
+TOTAL              286
 the                  AT             21 
 a                    AT1            13 
 to                   TO             10 
@@ -7,6 +7,8 @@ of                   IO              6
 world                NN1             5 
 is                   VBZ             5 
 in                   II              5 
+Mr_Berlusconi        NNB             5 
+media                NN              4 
 young                JJ              4 
 will                 VM              4 
 Marco_Nannini        NP1             3 
@@ -15,10 +17,9 @@ support              VVI             3
 his                  APPGE           3 
 race                 NN1             3 
 italian              JJ              3 
-media                NN              3 
 through              II              3 
 he                   PPHS1           3 
-Mr_Berlusconi        NNB             3 
+'s                   GE              3 
 yachtsman            NN1             2 
 round                II              2 
 yacht                NN1             2 
@@ -108,15 +109,13 @@ Palma                NP1             1
 September            NPM1            1 
 year                 NNT1            1 
 bid                  NN1             1 
-Mr_Berlusconis       NNB             1 
 election             NN1             1 
 as                   CSA             1 
 president            NN1             1 
 supreme              JJ              1 
 court_of_justice     NN1             1 
 perils               NN2             1 
-southern             JJ              1 
-oceans               NN2             1 
+southern_ocean       JJ              1 
 storms               NN2             1 
 party                NN1             1 
 commented            JJ              1 
@@ -172,5 +171,4 @@ communications       NN2             1
 at                   II              1 
 Fininvest            NP1             1 
 holding_company      JJ              1 
-Mr_Berlusconis_Media NNB             1 
-Empire               NP1             1 
+empire               NN1             1 

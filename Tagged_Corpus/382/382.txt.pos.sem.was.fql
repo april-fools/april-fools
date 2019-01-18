@@ -1,4 +1,4 @@
-TOTAL              267
+TOTAL              268
 the                  Z5                  23 
 and                  Z5                  15 
 of                   Z5                   8 
@@ -23,6 +23,7 @@ or                   Z5                   2
 would                A7+                  2 
 portion              N5                   2 
 bang                 X3.2                 2 
+one                  Z8                   2 
 bug                  E3-                  2 
 local                M7                   2 
 be                   Z5                   2 
@@ -83,12 +84,12 @@ FBI                  Z99                  1
 CIA                  Z3                   1 
 NSA                  S6-                  1 
 do                   Z5                   1 
-nt                   S9                   1 
+n't                  Z6                   1 
 know                 X2.2+                1 
 content              Q2.1                 1 
 programming          Y2                   1 
 now                  T1.1.2               1 
-lets                 S7.4+                1 
+let_'s               Z5                   1 
 look                 A8                   1 
 see                  X3.4                 1 
 if                   Z7                   1 
@@ -109,7 +110,6 @@ food                 F1                   1
 shelter              H1                   1 
 artificial_intelligence Y2                   1 
 will                 X7+                  1 
-one                  Z8                   1 
 decide               X6+                  1 
 whether              Z5                   1 
 out                  M6                   1 
@@ -137,7 +137,7 @@ call                 Q2.2                 1
 center               M6                   1 
 be                   A3+                  1 
 at                   Z5                   1 
-ones                 Z8                   1 
+'s                   Z5                   1 
 finger               B1                   1 
 tips                 M2                   1 
 rescue               S8+                  1 

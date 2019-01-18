@@ -69,8 +69,9 @@
 0000002 530 each                                        97 PPX221
 0000002 540 other                                       97 PPX222
 0000002 541 ,                                           03 ,
-0000002 550 youre                                       06 [VV0/92] NN1/8
-0000002 560 wrong                                       03 [JJ/75] RR@/18 NN1@/7 VV0%/1
+0000002 550 you                       >                 93 PPY
+0000002 551 're                       <                 03 VBR
+0000002 560 wrong                                       03 [JJ/77] RR@/23 NN1@/0 VV0%/0
 0000002 561 !                                           03 !
 0000002 562 ----------------------------------------------------
 0000002 570 Nope                                        93 UH
@@ -153,21 +154,24 @@
 0000004 181 ,                                           03 ,
 0000004 190 including                                   93 [II/94] VVG@/6
 0000004 200 George                                      93 NP1
-0000004 210 Washingtons                                 04 NP2
+0000004 210 Washington                >                 93 NP1
+0000004 211 's                        <                 98 GE
 0000004 220 Wooden                                      93 JJ
 0000004 230 Tooth                                       93 NN1
 0000004 240 Chomp                                       93 [VV0/60] NN1@/40
 0000004 250 Attack                                      93 [NN1/86] VV0/14
 0000004 251 ,                                           03 ,
-0000004 260 Cleopatras                                  04 NP2
-0000004 270 Phalanx                                     06 [NN1/86] VV0/13 NP1/1
+0000004 260 Cleopatra                 >                 93 NP1
+0000004 261 's                        <                 98 GE
+0000004 270 Phalanx                                     06 [NN1/99] NP1/1 VV0/0
 0000004 280 of                                          93 IO
 0000004 290 the                                         93 AT
 0000004 300 Leopard                                     06 [NP1/70] NN1@/30
 0000004 310 Army                                        93 NN1
 0000004 311 ,                                           03 ,
-0000004 320 Genghis                                     93 NP1
-0000004 330 Khans                                       04 [NP2/99] NN2@/1
+0000004 320 Genghis                                     97 NP1
+0000004 330 Khan                      >                 97 NNA
+0000004 331 's                        <                 98 GE
 0000004 340 Arrow                                       93 NN1
 0000004 350 Shower                                      93 [NN1/98] VV0@/2
 0000004 360 from                                        93 II
@@ -238,7 +242,8 @@
 0000008 110 mode                                        93 NN1
 0000008 120 in                                          93 [II/100] RP@/0
 0000008 130 Sid                                         93 NP1
-0000008 140 Meiers                                      55 [NP1/98] NN2/2
+0000008 140 Meier                     >                 55 [NP1/98] NN1/2 JJR@/0
+0000008 141 's                        <                 98 GE
 0000008 150 Civilization                                93 NN1
 0000008 160 V                                           93 [ZZ1/92] MC@/7 NNU@/1 II@/0
 0000008 161 ,                                           03 ,
@@ -310,7 +315,8 @@
 0000008 730 control                                     03 [NN1/100] VV0/0
 0000008 740 of                                          93 IO
 0000008 750 the                                         93 AT
-0000008 760 challengers                                 04 NN2
+0000008 760 challenger                >                 93 NN1
+0000008 761 's                        <                 98 GE
 0000008 770 world                                       93 NN1
 0000008 780 empire                                      93 NN1
 0000008 781 .                                           03 .
@@ -320,7 +326,8 @@
 0000010 030 edition                                     03 NN1
 0000010 040 of                                          93 IO
 0000010 050 Sid                                         93 NP1
-0000010 060 Meiers                                      55 [NP1/98] NN2/2
+0000010 060 Meier                     >                 55 [NP1/98] NN1/2 JJR@/0
+0000010 061 's                        <                 98 GE
 0000010 070 Civilization                                93 NN1
 0000010 080 V                                           93 [ZZ1/96] MC@/3 NNU@/1 II@/0
 0000010 090 will                                        93 [VM/100] NN1@/0 VV0%/0
@@ -360,26 +367,30 @@
 0000010 390 including                                   93 [VVG@/54] II/46
 0000010 391 :                                           03 :
 0000012 010 George                                      93 NP1
-0000012 020 Washingtons                                 04 NP2
+0000012 020 Washington                >                 93 NP1
+0000012 021 's                        <                 98 GE
 0000012 030 Wooden                                      93 JJ
 0000012 040 Tooth                                       93 NN1
 0000012 050 Chomp                                       93 [VV0/84] NN1@/16
 0000012 060 Attack                                      96 NP1
 0000013 010 Otto                                        96 NP1
 0000013 020 von                                         96 NP1
-0000013 030 Bismarcks                                   96 NP1
+0000013 030 Bismarck                  >                 96 NP1
+0000013 031 's                        <                 98 GE
 0000013 040 Hurricane                                   93 NN1
 0000013 050 Helmet                                      93 NN1
-0000013 060 Spike                                       93 [NN1/88] VV0/12
-0000013 070 Attack                                      93 [NN1/98] VV0/2
-0000014 010 Cleopatras                                  04 NP2
-0000014 020 Phalanx                                     06 [NN1/86] VV0/13 NP1/1
+0000013 060 Spike                                       93 [NN1/86] VV0/14
+0000013 070 Attack                                      93 [NN1/65] VV0/35
+0000014 010 Cleopatra                 >                 93 NP1
+0000014 011 's                        <                 98 GE
+0000014 020 Phalanx                                     06 [NN1/99] NP1/1 VV0/0
 0000014 030 of                                          93 IO
 0000014 040 the                                         93 AT
-0000014 050 Leopard                                     06 [NP1/70] NN1@/30
-0000014 060 Army                                        93 NN1
-0000015 010 Genghis                                     93 NP1
-0000015 020 Khans                                       04 [NP2/99] NN2@/1
+0000014 050 Leopard                                     97 NP1
+0000014 060 Army                                        97 NP1
+0000015 010 Genghis                                     97 NP1
+0000015 020 Khan                      >                 97 NNA
+0000015 021 's                        <                 98 GE
 0000015 030 Arrow                                       93 NN1
 0000015 040 Shower                                      93 [NN1/98] VV0@/2
 0000015 050 from                                        93 II
@@ -387,8 +398,9 @@
 0000015 070 Mongol                                      93 [JJ/62] NN1/38
 0000015 080 Bow                                         93 [NP1/96] NN1@/3 VV0@/0
 0000016 010 Julius                                      93 NP1
-0000016 020 Caesars                                     93 NP1
-0000016 030 Reverse                                     93 [JJ/61] NN1/29 VV0/11
+0000016 020 Caesar                    >                 93 NP1
+0000016 021 's                        <                 98 GE
+0000016 030 Reverse                                     93 [JJ/78] NN1/22 VV0/0
 0000016 040 Assassination                               93 NN1
 0000018 010 In                                          96 II31
 0000018 020 addition                                    96 II32
@@ -423,7 +435,8 @@
 0000018 290 Extreme                                     93 [JJ/95] NN1@/5
 0000018 300 Diplomacygives                              07 [NP1/82] NN2/13 VVZ/5
 0000018 310 Sid                                         93 NP1
-0000018 320 Meiers                                      55 [NP1/98] NN2/2
+0000018 320 Meier                     >                 55 [NP1/98] NN1/2 JJR@/0
+0000018 321 's                        <                 98 GE
 0000018 330 Civilization                                93 NN1
 0000018 340 V                                           93 [ZZ1/51] MC@/28 II@/21 NNU@/1
 0000018 350 players                                     03 NN2

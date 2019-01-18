@@ -1,6 +1,7 @@
 0000001 001  NULL    **6;0;START              
 0000001 002  -----   -----                    
-0000002 010  NN2     Tourists                 M1/S2mf 
+0000002 010  NN1     Tourist                  M1/S2mf 
+0000002 011  GE      's                       Z5 
 0000002 020  NP1     Disney                   Z3c Z1mf 
 0000002 030  NN1     Knowledge                X2.2+ S3.2/B1% 
 0000002 040  VVZ     Fails                    X9.2- A5.1-/A2.1 
@@ -32,7 +33,8 @@
 0000004 180  AT1     a                        Z5 
 0000004 190  NN1     visit                    S1.1.1 M1 
 0000004 200  II      to                       Z5 
-0000004 210  NP2     Disneys                  Z3c Z1mf 
+0000004 210  NP1     Disney                   Z3c Z1mf 
+0000004 211  GE      's                       Z5 
 0000004 220  NN1     Animal                   L2mfn S5+c O2c 
 0000004 230  NN1     Kingdom                  Z1mf 
 0000004 240  NN1     theme                    K1/M7c[i3.2.1 X4.1 K2 Q1.2 Q3 
@@ -118,7 +120,8 @@
 0000006 351  !       !                        
 0000006 352  NULL    </quote>                 
 0000006 353  -----   -----                    
-0000006 360  NN2     Whats                    Z8 Z5 
+0000006 360  DDQ     What                     Z8 Z5 
+0000006 361  VBZ     's                       A3+ Z5 
 0000006 370  NP1     Bwana                    Z99 
 0000006 371  ?       ?                        
 0000006 372  ?       ?                        
@@ -156,7 +159,8 @@
 0000006 660  NN1     budget                   I1 G1.1/I1 I1.3- 
 0000006 661  .       .                        
 0000007 001  -----   -----                    
-0000008 010  NP1     Johns                    Z1m S9/O1.2 
+0000008 010  NP1     John                     Z1m S9/O1.2 
+0000008 011  GE      's                       Z5 
 0000008 020  JJ      confusing                X2.5- 
 0000008 030  JJ      two-week                 Z99 
 0000008 040  NN1     trip                     M1 F3% 
@@ -199,9 +203,10 @@
 0000008 371  ,       ,                        
 0000008 380  CCB     but                      Z5 
 0000008 390  VM      may                      A7+ 
-0000008 400  VVI     find                     A10+ X2.1 X6+ 
-0000008 410  NN1     theyre                   Z99 
-0000008 420  NN1@    wrong                    G2.2- 
+0000008 400  VVI     find                     X2.1 A10+ X6+ 
+0000008 410  PPHS2   they                     Z8mfn 
+0000008 411  VBR     're                      A3+ Z5 
+0000008 420  JJ      wrong                    A5.3- A5.1- G2.2- B2- 
 0000008 430  II      about                    Z5 
 0000008 431  :       :                        
 0000010 010  NP1     Asante                   Z1mf[i11.2.1 Z3c[i11.2.1 Z2/S2mf 
@@ -222,8 +227,9 @@
 0000010 120  II21    depending                A2.2[i14.2.1 
 0000010 130  II22    on                       A2.2[i14.2.2 Z5 
 0000010 140  RRQ     how                      Z5 A13.3 
-0000010 150  APPGE   its                      Z8 
-0000010 160  JJ      used                     A1.5.1 T3+ 
+0000010 150  PPH1    it                       Z8 
+0000010 151  VBZ     's                       Z5 A3+ 
+0000010 160  VVN     used                     A1.5.1 S7.1+ 
 0000010 161  ,       ,                        
 0000010 170  VVG@    including                A1.8+ 
 0000010 171  NULL    <quote>                  
@@ -255,7 +261,7 @@
 0000010 360  PPH1    it                       Z8 
 0000010 370  RR      certainly                A7+ 
 0000010 380  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000010 381  XX      nt                       S9/Q4.1 Z3c 
+0000010 381  XX      n't                      Z6 
 0000010 390  VVI     mean                     Q1.1 X7+ 
 0000010 391  NULL    <quote>                  
 0000010 392  -----   -----                    
@@ -328,8 +334,9 @@
 0000012 240  VVD     grew                     N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4 
 0000012 250  VVN     frustrated               S8- 
 0000012 260  IW      with                     Z5 
-0000012 270  NP1     Johns                    Z1m S9/O1.2 
-0000012 280  VVZ@    attempts                 X8+ 
+0000012 270  NP1     John                     Z1m S9/O1.2 
+0000012 271  GE      's                       Z5 
+0000012 280  NN2     attempts                 X8+ 
 0000012 290  TO      to                       Z5 
 0000012 300  VVI     speak                    Q2.1 
 0000012 310  APPGE   their                    Z8 
@@ -373,7 +380,8 @@
 0000013 001  -----   -----                    
 0000014 010  NP1@    Zuka                     Z1mf[i22.3.1 Z3c[i22.3.1 Z1mf[i21.2.1 Z3c[i21.2.1 
 0000014 020  NP1     Zama                     Z1mf[i22.3.2 Z3c[i22.3.2 Z1mf[i21.2.2 Z3c[i21.2.2 Z1mf[i23.2.1 Z3c[i23.2.1 
-0000014 030  NP1     Johns                    Z3c[i22.3.3 Z1mf[i22.3.3 Z1m S9/O1.2 Z1mf[i23.2.2 Z3c[i23.2.2 
+0000014 030  NP1     John                     Z3c[i22.3.3 Z1mf[i22.3.3 Z1m S9/O1.2 Z1mf[i23.2.2 Z3c[i23.2.2 
+0000014 031  GE      's                       Z5 
 0000014 040  JJ      four-year-old            T3 
 0000014 050  NN1     son                      S4m 
 0000014 060  VVZ     watches                  X3.4 S7.1 X2.4 A1.3+ 
@@ -398,7 +406,8 @@
 0000014 210  PPY     you                      Z8mf 
 0000014 220  VV0     say                      Q2.1 Z4% 
 0000014 230  RRQ     when                     Z5 
-0000014 240  VV0     youre                    Z99 
+0000014 240  PPY     you                      Z8mf 
+0000014 241  VBR     're                      A3+ Z5 
 0000014 250  JJ      awed                     E1 
 0000014 260  CC      or                       Z5 
 0000014 270  VVN     impressed                X5.2+ A11.1+ A1.1.1 
@@ -517,7 +526,8 @@
 0000016 080  NN1     TV                       Q4.3 S2.1/S2.2m 
 0000016 090  NN1@    commercial               I2.2/Q2.2 
 0000016 100  IF      for                      Z5 
-0000016 110  NP2     Disneys                  Z3c Z1mf 
+0000016 110  NP1     Disney                   Z3c Z1mf 
+0000016 111  GE      's                       Z5 
 0000016 120  NN1     Animal                   L2mfn S5+c O2c 
 0000016 130  NN1     Kingdom                  Z1mf 
 0000016 131  ,       ,                        
@@ -581,7 +591,7 @@
 0000016 550  RR      Maybe                    A7 
 0000016 560  PPH1    it                       Z8 
 0000016 570  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000016 571  XX      nt                       S9/Q4.1 Z3c 
+0000016 571  XX      n't                      Z6 
 0000016 580  VVI     mean                     Q1.1 X7+ 
 0000016 590  UH      hello                    Z4 
 0000016 591  ,       ,                        
@@ -600,7 +610,8 @@
 0000016 700  AT1     a                        Z5 
 0000016 710  NN1     herd                     L2/N5+ S5+ 
 0000016 720  IO      of                       Z5 
-0000016 730  NP2     Thompsons                Z3c 
+0000016 730  NP1     Thompson                 Z1mf 
+0000016 731  GE      's                       Z5 
 0000016 740  NP1     Gazelle                  L2mfn 
 0000016 750  II      on                       Z5 
 0000016 760  NN1     safari                   K1/L2 
@@ -641,7 +652,7 @@
 0000016 960  NP1     John                     Z1m S9/O1.2 
 0000016 970  RR      still                    T2++ Z4 E3+ 
 0000016 980  VHZ     has                      Z5 A9+ A2.2 S4 
-0000016 981  XX      nt                       S9/Q4.1 Z3c 
+0000016 981  XX      n't                      Z6 
 0000016 990  VVN     figured                  X2.5+[i33.2.1 N2[i33.2.1 X2.1 X2.5+ 
 0000016 000  RP      out                      X2.5+[i33.2.2 N2[i33.2.2 M6 
 0000016 010  DDQ     what                     Z8 Z5 
@@ -714,37 +725,42 @@
 0000018 453  -----   -----                    
 0000018 460  UH      No                       Z4 
 0000018 461  ,       ,                        
-0000018 470  VV0     Im                       Z99 
+0000018 470  PPIS1   I                        Z8mf 
+0000018 471  VBM     'm                       A3+ Z5 
 0000018 480  RR      just                     A14 T3--- T1.3- N3.3--- 
 0000018 490  RG      very                     A13.3 
 0000018 500  JJ      lucky                    A1.4+ 
 0000018 501  .       .                        
 0000018 502  -----   -----                    
-0000018 510  VV0     Isnt                     Z99 
-0000018 520  NP1     Tom                      Z1mf[i35.2.1 Z3c[i35.2.1 Z1m 
-0000018 530  NN1     Swahili                  Z1mf[i35.2.2 Z3c[i35.2.2 Z2 
+0000018 510  VBZ     Is                       A3+ Z5 
+0000018 511  XX      n't                      Z6 
+0000018 520  JJ@     Tom'                     Z99 
+0000018 530  NN1     Swahili                  Z2 
 0000018 540  IF      for                      Z5 
-0000018 550  APPGE   Its                      Z8 
+0000018 550  PPH1    It                       Z8 
+0000018 551  VBZ     's                       A3+ Z5 
 0000018 560  APPGE   my                       Z8 
 0000018 570  JJ      lucky                    A1.4+ 
 0000018 580  NNT1    day                      T1.3 
 0000018 581  ?       ?                        
-0000018 582  NULL    </quote>                 
-0000018 583  -----   -----                    
+0000018 582  "@      '                        
+0000018 583  NULL    </quote>                 
+0000018 584  -----   -----                    
 0000018 590  NP1     John                     Z1m S9/O1.2 
 0000018 600  VVD     asked                    Q2.2 
 0000018 601  .       .                        
 0000018 602  -----   -----                    
 0000018 610  PPH1    It                       Z8 
-0000018 620  VV0     isnt                     Z99 
-0000018 621  .       .                        
+0000018 620  VBZ     is                       A3+ Z5 
+0000018 621  XX      n't                      Z6 
+0000018 622  .       .                        
 0000019 001  -----   -----                    
 0000020 010  NP1     John                     Z1m S9/O1.2 
 0000020 020  VVZ     hopes                    X2.6+ E4.1+ X9.2+ A5.1+ 
 0000020 030  CST     that                     Z5 Z8 
 0000020 040  JJ@     Laughing                 E4.1+/X3.2 
-0000020 050  NN1     Place                    M7/Q4.1mf[i36.2.1 M7 H1 A1.2 P1 
-0000020 060  NN2     readers                  M7/Q4.1mf[i36.2.2 Q4.1/S2mf Q4.2/S2mf P1/S2mf Q4.1 
+0000020 050  NN1     Place                    M7/Q4.1mf[i35.2.1 M7 H1 A1.2 P1 
+0000020 060  NN2     readers                  M7/Q4.1mf[i35.2.2 Q4.1/S2mf Q4.2/S2mf P1/S2mf Q4.1 
 0000020 070  VM      can                      A7+ 
 0000020 080  VVI     learn                    X2.3+ P1 
 0000020 090  II      from                     Z5 
@@ -755,25 +771,26 @@
 0000020 120  PPHS1   He                       Z8m 
 0000020 130  VVZ     plans                    X7+ 
 0000020 140  TO      to                       Z5 
-0000020 150  VVI     follow                   X2.4/N4[i37.2.1 M1 N4 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 X3.4 
-0000020 160  RP      up                       X2.4/N4[i37.2.2 
+0000020 150  VVI     follow                   X2.4/N4[i36.2.1 M1 N4 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 X3.4 
+0000020 160  RP      up                       X2.4/N4[i36.2.2 
 0000020 170  IW      with                     Z5 
 0000020 180  APPGE   his                      Z8m 
-0000020 190  NN1     travel                   M1/S2mf[i38.2.1 M1 
-0000020 200  NN1     agent                    M1/S2mf[i38.2.2 I2.1/S2mf G3/S2mf K4/S2mf 
+0000020 190  NN1     travel                   M1/S2mf[i37.2.1 M1 
+0000020 200  NN1     agent                    M1/S2mf[i37.2.2 I2.1/S2mf G3/S2mf K4/S2mf 
 0000020 201  ,       ,                        
 0000020 210  NPM1    April                    T1.3 
 0000020 220  NP1     Fahouls                  Z99 
 0000020 221  ,       ,                        
 0000020 230  TO      to                       Z5 
-0000020 240  VVI     make                     A7+[i39.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
-0000020 250  JJ      sure                     A7+[i39.2.2 A7+ Z4 
-0000020 260  NN2     shes                     Z8f 
+0000020 240  VVI     make                     A7+[i38.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000020 250  JJ      sure                     A7+[i38.2.2 A7+ Z4 
+0000020 260  PPHS1   she                      Z8f 
+0000020 261  VBZ     's                       A3+ Z5 
 0000020 270  RGR     more                     A13.3 
 0000020 280  JJ      attentive                X5.1+ S8+ 
 0000020 290  AT      the                      Z5 
-0000020 300  MD      next                     T1.1.3[i40.2.1 N4 
-0000020 310  NNT1    time                     T1.1.3[i40.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000020 300  MD      next                     T1.1.3[i39.2.1 N4 
+0000020 310  NNT1    time                     T1.1.3[i39.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000020 320  PPHS1   she                      Z8f 
 0000020 330  VVZ     helps                    S8+ 
 0000020 340  PN1     someone                  Z8mfc 
@@ -789,7 +806,8 @@
 0000020 420  DB      all                      N5.1+ 
 0000020 430  NN2     fans                     S2/E2+mf O2 
 0000020 440  IO      of                       Z5 
-0000020 450  NP2     Disneys                  Z3c Z1mf 
+0000020 450  NP1     Disney                   Z3c Z1mf 
+0000020 451  GE      's                       Z5 
 0000020 460  NN1     Animal                   L2mfn S5+c O2c 
 0000020 470  NN1     Kingdom                  Z1mf 
 0000020 480  VV0     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
@@ -807,8 +825,8 @@
 0000020 590  RR      just                     A14 T3--- T1.3- N3.3--- 
 0000020 600  VVZ     wants                    X7+ S6+ A7+ S3.2 A9- 
 0000020 610  TO      to                       Z5 
-0000020 620  VVI     make                     A7+[i41.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
-0000020 630  JJ      sure                     A7+[i41.2.2 A7+ Z4 
+0000020 620  VVI     make                     A7+[i40.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000020 630  JJ      sure                     A7+[i40.2.2 A7+ Z4 
 0000020 640  PPHS2   they                     Z8mfn 
 0000020 650  VBR     are                      Z5 A3+ 
 0000020 660  RR      well                     A5.1+ A13.3 A7+ B2+ Z4 

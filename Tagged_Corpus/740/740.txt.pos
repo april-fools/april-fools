@@ -504,8 +504,9 @@
 0000032 100 transparency                                93 NN1
 0000032 110 are                                         93 VBR
 0000032 120 among                                       93 II
-0000032 130 blockchains                                 07 [NN2/100] VVZ/0
-0000032 140 most                                        93 [RGT/88] DAT/12 RRT@/1
+0000032 130 blockchain                >                 06 [NN1/100] VV0/0
+0000032 131 's                        <                 98 GE
+0000032 140 most                                        97 RGT
 0000032 150 significant                                 93 JJ
 0000032 160 benefits                                    93 NN2
 0000032 170 in                                          93 [II/100] RP@/0

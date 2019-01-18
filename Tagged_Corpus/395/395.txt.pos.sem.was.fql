@@ -1,8 +1,8 @@
-TOTAL              654
+TOTAL              664
 the                  Z5                  33 
 a                    Z5                  21 
 and                  Z5                  20 
-Dec                  Z3                  17 
+Dec                  Z3                  19 
 ant                  L2                  16 
 to                   Z5                  14 
 of                   Z5                  10 
@@ -10,21 +10,25 @@ their                Z8                   9
 in                   Z5                   8 
 on                   Z5                   8 
 as                   Z5                   8 
+'s                   Z5                   8 
 will                 T1.1.3               7 
+pair                 N5                   6 
 is                   A3+                  6 
 for                  Z5                   6 
 have                 Z5                   5 
-pair                 N5                   5 
+i                    Z8                   5 
 when                 Z5                   5 
 after                Z5                   4 
+ikea                 Z3                   4 
 with                 Z5                   4 
 be                   Z5                   4 
 he                   Z8                   4 
 they                 Z8                   4 
 are                  Z5                   4 
 picture              X2.1                 4 
+'                    Z5                   4 
+'m                   A3+                  4 
 it                   Z8                   4 
-ikea                 Z3                   3 
 are                  A3+                  3 
 team                 S5+                  3 
 is                   Z5                   3 
@@ -36,7 +40,6 @@ boys                 S2.2                 3
 his                  Z8                   3 
 ITV                  Z3                   3 
 only                 A14                  3 
-i                    Z8                   3 
 celebrity            A11.1+               3 
 me                   Z8                   3 
 here                 M6                   3 
@@ -48,7 +51,6 @@ career               I3.1                 2
 management           S7.1+                2 
 Declan_Donnelly      Z1                   2 
 known                X2.2+                2 
-Decs                 Z3                   2 
 before               Z5                   2 
 presented            A9-                  2 
 2014                 N1                   2 
@@ -63,13 +65,12 @@ shout                Q2.2                 2
 show                 A8                   2 
 more                 A13.3                2 
 scene                K4                   2 
-'                    Z5                   2 
 big                  N3.2+                2 
 bust-up              Z99                  2 
 AP                   Z3                   2 
+n't                  Z6                   2 
 soon                 T1.1.3               2 
 this                 M6                   2 
-'m                   A3+                  2 
 get_out_of           A1.9                 2 
 promo                I2.2                 2 
 that                 Z8                   2 
@@ -85,7 +86,6 @@ says                 Q2.1                 2
 truck                M3                   2 
 find                 A10+                 2 
 features             O4.1                 2 
-Im                   Z99                  2 
 out_of               Z5                   2 
 national             M7                   1 
 treasures            O2                   1 
@@ -106,7 +106,6 @@ terms                Q3                   1
 prepares             A1.1.1               1 
 launch               M4                   1 
 solo                 S5-                  1 
-pairs                N5                   1 
 old                  T3+                  1 
 McPartlin            Z99                  1 
 gone_separate_ways   A6.1-                1 
@@ -131,6 +130,7 @@ has                  Z5                   1
 signed_up            Q2.2                 1 
 new                  T3-                  1 
 series               N4                   1 
+'s                   A3+                  1 
 Saturday_night       T1.3                 1 
 takeaway             F1                   1 
 Anthony_McPartlin    Z1                   1 
@@ -187,10 +187,9 @@ bathroom             B4                   1
 was                  Z5                   1 
 later                T4--                 1 
 chewing              F1                   1 
-forlornly            Z99                  1 
+forlornly'           Z99                  1 
 some                 N5                   1 
 meatballs            Z99                  1 
-IKEAs                Z3                   1 
 canteen              F1                   1 
 queued               N4                   1 
 alone                S5-                  1 
@@ -202,13 +201,11 @@ close_to             A13.4                1
 told                 Q2.1                 1 
 Metro                M3                   1 
 furious              E3-                  1 
-as_far_as_s_concerned Z5                   1 
-s                    Z5                   1 
+as_far_as_'s_concerned Z5                   1 
 been                 Z5                   1 
 betrayed             G2.2-                1 
 friend               S3.1                 1 
 did                  Z5                   1 
-nt                   S9                   1 
 even                 A13.1                1 
 like                 E2+                  1 
 shelving             H5                   1 
@@ -234,7 +231,7 @@ Duncan               Z1                   1
 releasing            A1.7-                1 
 hits                 X9.2+                1 
 including            A1.8+                1 
-lets                 I2.2                 1 
+let_'s               Z5                   1 
 get                  A2.1+                1 
 ready                O4.1                 1 
 Rhumble              Z99                  1 
@@ -265,9 +262,7 @@ them                 Z8                   1
 tells                Q2.2                 1 
 him                  Z8                   1 
 do                   Z5                   1 
-n't                  Z6                   1 
 year                 T1.3                 1 
-'s                   Z5                   1 
 going_to             T1.1.3               1 
 a_lot                A13.3                1 
 live                 H4                   1 
@@ -328,14 +323,14 @@ transformed          A2.1+                1
 careers              I3.1                 1 
 long-running         T1.3+                1 
 stint                T1.3                 1 
-nations              G1.1                 1 
+nation               G1.1                 1 
 favourite            E2+++                1 
 tv                   Q4.3                 1 
 hosting              S1.1.1               1 
 shows                A8                   1 
 like                 Z5                   1 
 SMTV                 Z99                  1 
-britains             Z2                   1 
+Britain              Z2                   1 
 got                  A9+                  1 
 talent               X9.1+                1 
 celebrityget         Z99                  1 
@@ -363,8 +358,7 @@ reported             Q2.2                 1
 1m                   N3.3                 1 
 insurance_policies   Q1.2                 1 
 against              Z5                   1 
-each                 N5.1+                1 
-others               A6.1-                1 
+each_other           Z8                   1 
 death                L1-                  1 
 http                 I1                   1 
 **94;7;toolong       Z99                  1 

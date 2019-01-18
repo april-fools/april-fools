@@ -1,11 +1,11 @@
-TOTAL         573
-NN1           101 
+TOTAL         577
+NN1           104 
 JJ             53 
 II             43 
 AT             38 
 VVD            31 
-NN2            30 
-NP1            28 
+NP1            29 
+NN2            28 
 VVN            22 
 AT1            18 
 CC             18 
@@ -17,9 +17,10 @@ IF             11
 VVG            10 
 TO              7 
 VVI             7 
-VV0             7 
 PPHS1           7 
+GE              6 
 VBDZ            6 
+VV0             5 
 IW              5 
 CST             5 
 VHZ             5 
@@ -52,9 +53,7 @@ PPX1            1
 VBG             1 
 II21            1 
 NPD1            1 
-NP2             1 
 RG              1 
-GE              1 
 VVZ             1 
 DB              1 
 PPH1            1 

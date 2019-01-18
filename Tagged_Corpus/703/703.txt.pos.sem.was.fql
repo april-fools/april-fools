@@ -1,4 +1,4 @@
-TOTAL              218
+TOTAL              217
 in                   Z5                  12 
 and                  Z5                  10 
 the                  Z5                  10 
@@ -18,13 +18,12 @@ children             S2                   2
 across               Z5                   2 
 competitions         K1                   2 
 at                   Z5                   2 
-schools              P1                   2 
+Beechwood_primary_school Z3                   2 
 Bracknell            Z2                   2 
 teams                S5+                  2 
 into                 Z5                   2 
 with                 Z5                   2 
 each                 N5.1+                2 
-Beechwood            Z99                  2 
 really               A13.3                2 
 as                   Z5                   2 
 we                   Z8                   2 
@@ -52,10 +51,10 @@ festival             K1                   1
 of                   Z5                   1 
 hosted               S1.1.1               1 
 by                   Z5                   1 
-Beechwood_primary_school Z3                   1 
 Woodley              Z2                   1 
 youngsters           T3-                  1 
 13                   N1                   1 
+schools              P1                   1 
 Wokingham            Z2                   1 
 west_Berkshire       Z2                   1 
 Oxfordshire          Z2                   1 
@@ -83,6 +82,7 @@ overcoming           X9.2+                1
 Harmans              Z99                  1 
 water                O1.2                 1 
 5-3                  N1                   1 
+Beechwood            Z99                  1 
 4-2                  N1                   1 
 pupils               P1                   1 
 forest_school        Z3                   1 
@@ -90,7 +90,7 @@ Winnersh             Z99                  1
 helped_out           S8+                  1 
 refereeing           K5.1                 1 
 while                Z5                   1 
-primary              A11.1+               1 
+'s                   Z5                   1 
 PTA                  S1.1.1               1 
 sold                 I2.2                 1 
 refreshments         F2                   1 

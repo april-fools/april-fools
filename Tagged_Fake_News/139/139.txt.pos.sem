@@ -1,7 +1,8 @@
 0000001 001  NULL    **6;0;START              
 0000001 002  -----   -----                    
 0000002 010  AT      The                      Z5 
-0000002 020  NN2     Upshots                  A2.2 
+0000002 020  NN1     Upshot                   A2.2 
+0000002 021  GE      's                       Z5 
 0000002 030  NN2     elections                G1.2/X7+ 
 0000002 040  NN1     model                    O2/A5.4- A4.1 X4.2 A5.1+++ C1/S2mf B5/I3.2/S2mf 
 0000002 050  VVZ     suggests                 Q2.2 Q1.1 
@@ -34,7 +35,8 @@
 0000002 290  JJ      possible                 A7+ 
 0000002 291  :       :                        
 0000002 300  NNB     Mrs.                     Z1f[i5.2.1 Z1m[i4.2.1 
-0000002 310  NP1     Clintons                 Z1f[i5.2.2 Z1mf Z1m[i4.2.2 
+0000002 310  NP1     Clinton                  Z1f[i5.2.2 Z1mf Z1m[i4.2.2 
+0000002 311  GE      's                       Z5 
 0000002 320  NN1     chance                   A1.4 A7+ 
 0000002 330  IO      of                       Z5 
 0000002 340  VVG     losing                   X9.2- A9- M6/A5.3- L1- 
@@ -59,7 +61,8 @@
 0000004 010  IF      For                      Z5 
 0000004 020  NNT2    months                   T1.3 
 0000004 021  ,       ,                        
-0000004 030  NN1     weve                     Z99 
+0000004 030  PPIS2   we                       Z8 
+0000004 031  VH0     've                      Z5 A9+ A2.2 
 0000004 040  VBN     been                     Z5 A3+ 
 0000004 050  VVG     updating                 T1.1.2 
 0000004 060  APPGE   our                      Z8 
@@ -72,13 +75,15 @@
 0000004 112  -----   -----                    
 0000004 120  RT      Today                    T1.1.2 
 0000004 121  ,       ,                        
-0000004 130  APPGE   its                      Z8 
+0000004 130  PPH1    it                       Z8 
+0000004 131  VBZ     's                       A3+ Z5 
 0000004 140  NN1     Election                 G1.2/T1.3[i6.2.1 G1.2/X7+ 
 0000004 150  NNT1    Day                      G1.2/T1.3[i6.2.2 T1.3 
 0000004 151  ,       ,                        
 0000004 160  DDQ     what                     Z8 Z5 
-0000004 170  VV0     weve                     Z99 
-0000004 180  DB      all                      N5.1+ 
+0000004 170  PPIS2   we                       Z8 
+0000004 171  VH0     've                      Z5 A9+ A2.2 
+0000004 180  RR@     all                      A13.2 
 0000004 190  VBN     been                     Z5 A3+ 
 0000004 200  VVG     waiting                  T1.3 A3+ A11.1+ S1.1.1% 
 0000004 210  IF      for                      Z5 
@@ -102,7 +107,8 @@
 0000004 360  RL      below                    M6 
 0000004 361  .       .                        
 0000004 362  -----   -----                    
-0000004 370  NN2     Heres                    M6 T1.1.2 T1.2 
+0000004 370  RL      Here                     M6 T1.1.2 T1.2 
+0000004 371  VBZ     's                       A3+ Z5 
 0000004 380  RRQ     how                      Z5 A13.3 
 0000004 390  APPGE   our                      Z8 
 0000004 400  NN2     estimates                X6/A7- N2/A7- I2.1/Q1.2 
@@ -116,7 +122,8 @@
 0000008 010  TO      To                       Z5 
 0000008 020  VVI     forecast                 Q2.2/T1.1.3 X2.6+ 
 0000008 030  DD1     each                     N5.1+ 
-0000008 040  VVZ%    partys                   K1/S1.1.3+ 
+0000008 040  NN1     party                    K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c 
+0000008 041  GE      's                       Z5 
 0000008 050  NN1     chance                   A1.4 A7+ 
 0000008 060  IO      of                       Z5 
 0000008 070  VVG     winning                  X9.2+/S7.3 X9.2+/G3 A9+ 
@@ -170,8 +177,9 @@
 0000010 120  VVN     based                    A2.2[i10.2.1 T2+ M6 A2.2 
 0000010 130  II      on                       A2.2[i10.2.2 Z5 
 0000010 140  DD1     each                     N5.1+ 
-0000010 150  NN2     areas                    M7 A4.1 N3.6 
-0000010 160  VVG     voting                   G1.2 
+0000010 150  NN1     area                     M7 A4.1 N3.6 
+0000010 151  GE      's                       Z5 
+0000010 160  NN1     voting                   G1.2 
 0000010 170  NN1     history                  T1.1.1 P1/T1.1.1 Q2.1 B2 
 0000010 180  II21    relative                 Z5[i11.2.1 
 0000010 190  II22    to                       Z5[i11.2.2 Z5 
@@ -240,6 +248,7 @@
 0000012 410  CC      and                      Z5 
 0000012 420  JJ      knowledgeable            X2.2+ 
 0000012 430  NN2     experts                  X2.2+/S2mf X9.1+/S2mf 
+0000012 431  GE      '                        Z5 
 0000012 440  NN2     opinions                 X2.1 X2.1/A5 X6+ 
 0000012 441  .       .                        
 0000012 442  -----   -----                    
@@ -269,8 +278,9 @@
 0000014 140  MD      First                    N4 
 0000014 141  ,       ,                        
 0000014 150  AT1     every                    N5.1+ 
-0000014 160  NN2     organizations            S5+c S7.1+ 
-0000014 170  VV0     estimate                 X6/A7- N2/A7- 
+0000014 160  NN1     organization             S5+c S7.1+ 
+0000014 161  GE      's                       Z5 
+0000014 170  NN1     estimate                 X6/A7- N2/A7- I2.1/Q1.2 
 0000014 180  IF      for                      Z5 
 0000014 190  PNQS    who                      Z8 
 0000014 200  VM      will                     T1.1.3 
@@ -309,7 +319,8 @@
 0000019 040  RL      below                    M6 
 0000019 050  VVZ     illustrates              A4.1 C1 
 0000019 060  NNB     Mr.                      Z1m[i18.2.1 S2.2m 
-0000019 070  NP1     Trumps                   Z1m[i18.2.2 Z1mf 
+0000019 070  NP1     Trump                    Z1m[i18.2.2 Z1mf 
+0000019 071  GE      's                       Z5 
 0000019 080  JJ      challenging              A12- A6.1- S7.3+ 
 0000019 090  NN1     path                     M3 M1 X4.2 
 0000019 100  II      to                       Z5 

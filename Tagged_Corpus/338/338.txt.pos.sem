@@ -50,8 +50,9 @@
 0000002 470  AT      the                      Z5 
 0000002 480  NN1     Iphone                   Z99 
 0000002 490  MC      5                        N1 
-0000002 500  II      before                   Z5 
-0000002 510  APPGE   its                      Z8 
+0000002 500  CS      before                   Z5 
+0000002 510  PPH1    it                       Z8 
+0000002 511  VBZ     's                       A3+ Z5 
 0000002 520  NN1     release                  A1.7- A9- I2.2 K3 Q4 E6+ 
 0000002 530  NN1     date                     T1.2 S3.2 S3.2/S2mf 
 0000002 531  .       .                        
@@ -255,7 +256,8 @@
 0000012 241  .       .                        
 0000012 242  -----   -----                    
 0000012 250  PPIS1   I                        Z8mf 
-0000012 260  VV0     wasnt                    Z99 
+0000012 260  VBDZ    was                      A3+ Z5 
+0000012 261  XX      n't                      Z6 
 0000012 270  JJ      sure                     A7+ Z4 
 0000012 280  CS      if                       Z7 
 0000012 290  PPIS1   I                        Z8mf 
@@ -275,7 +277,8 @@
 0000012 430  NN2     models                   O2/A5.4- A4.1 X4.2 A5.1+++ C1/S2mf B5/I3.2/S2mf 
 0000012 431  ,       ,                        
 0000012 440  CCB     but                      Z5 
-0000012 450  NP1     Siris                    Z99 
+0000012 450  NP1     Siri                     Z99 
+0000012 451  GE      's                       Z5 
 0000012 460  NN1     upgrade                  A11.1+/A2.1 A5.1+/A2.1 
 0000012 470  VVG     using                    A1.5.1 S7.1+ 
 0000012 480  NN1     Skynet                   Z99 

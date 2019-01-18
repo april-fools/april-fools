@@ -3,8 +3,6 @@ aaa                      NNU     Z99
 AAA                      NP1     Z99 
 AIG                      NN1     Z99 
 AIG                      NP1     Z99 
-AIGs                     NN2     Z99 
-AIGs                     NP2     Z99 
 boom-and-bust            JJ      Z99 
 Cartwright               NN1     Z99 
 creationism              NN1     Z99 

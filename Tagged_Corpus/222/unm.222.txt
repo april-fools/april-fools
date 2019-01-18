@@ -20,6 +20,7 @@ IA-128                   MC      Z99
 IA-16384                 MC      Z99 
 IA-64                    MC      Z99 
 innovativly              RR      Z99 
+layered'                 JJ      Z99 
 MacGyver                 NP1     Z99 
 MacOS                    NP1     Z99 
 Slashdot                 NN1     Z99 

@@ -1,8 +1,9 @@
 arms-control             JJ      Z99 
 Axelrod                  NP1     Z99 
 Axelrod                  VV0@    Z99 
-Baracks                  NN2     Z99 
+Barack                   NP1     Z99 
 criminalized             VVD     Z99 
+evolving'                JJ      Z99 
 HHS                      NP1     Z99 
 Hillary                  NP1     Z99 
 marginalize              VVI     Z99 
@@ -14,8 +15,6 @@ Obama                    NN1@    Z99
 Obama                    NP1     Z99 
 Obama                    NP1@    Z99 
 Obamacare                NP1     Z99 
-Obamas                   NN2@    Z99 
-Obamas                   NP2     Z99 
 often-clueless           JJ      Z99 
 same-sex                 JJ      Z99 
 subpoena                 NN1     Z99 

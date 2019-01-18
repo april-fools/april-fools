@@ -1,5 +1,6 @@
-TOTAL              358
+TOTAL              366
 the                  AT             20 
+'s                   GE             12 
 and                  CC             10 
 a                    AT1             8 
 world                NN1             8 
@@ -29,6 +30,7 @@ from                 II              3
 game                 NN1             3 
 is                   VBZ             2 
 now                  RT              2 
+you                  PPY             2 
 option               NN1             2 
 really               RR              2 
 into                 II              2 
@@ -36,18 +38,13 @@ normal               JJ              2
 enter                VV0             2 
 one                  MC1             2 
 additionally         RR              2 
-George               NP1             2 
-Washingtons          NP2             2 
+George_Washington    NP1             2 
 wooden               JJ              2 
 tooth                NN1             2 
 chomp                VV0             2 
 attack               NN1             2 
-Cleopatras           NP2             2 
+Cleopatra            NP1             2 
 phalanx              NN1             2 
-Leopard              NP1             2 
-army                 NN1             2 
-Genghis              NP1             2 
-Khans                NP2             2 
 arrow                NN1             2 
 shower               NN1             2 
 mongol               JJ              2 
@@ -60,7 +57,7 @@ arcade_game          NN1             2
 feel                 VV0             2 
 2010                 MC              2 
 games                NN2             2 
-Sid_Meiers           NP1             2 
+Sid_Meier            NP1             2 
 strategy             NN1             2 
 empires              NN2             2 
 leader               NN1             2 
@@ -82,7 +79,6 @@ system               NN1             1
 comes                VVZ             1 
 word                 NN1             1 
 if                   CS              1 
-you                  PPY             1 
 think                VV0             1 
 that                 CST             1 
 means                VVZ             1 
@@ -90,7 +86,7 @@ your                 APPGE           1
 be                   VBI             1 
 nice                 JJ              1 
 each_other           PPX221          1 
-youre                VV0             1 
+'re                  VBR             1 
 wrong                JJ              1 
 nope                 UH              1 
 getting              VVG             1 
@@ -112,6 +108,9 @@ ring                 NN1             1
 only                 RR              1 
 leaves               VVZ             1 
 including            II              1 
+Leopard              NP1             1 
+army                 NN1             1 
+Genghis_Khan         NP1             1 
 Bow                  NP1             1 
 also                 RR              1 
 come                 VVI             1 
@@ -155,7 +154,7 @@ victor               NN1             1
 obtain               VVI             1 
 complete             JJ              1 
 control              NN1             1 
-challengers          NN2             1 
+challenger           NN1             1 
 include              VVI             1 
 optional             JJ              1 
 eight-button         JJ              1 
@@ -166,9 +165,11 @@ each                 DD1             1
 unique               JJ              1 
 including            VVG             1 
 Attack_Otto_von      NP1             1 
+hurricane            NN1             1 
 helmet               NN1             1 
 spike                NN1             1 
-Bow_Julius_Caesars   NP1             1 
+Leopard_Army_Genghis NP1             1 
+Bow_Julius_Caesar    NP1             1 
 reverse              JJ              1 
 assassination        NN1             1 
 in_addition_to       II31            1 
@@ -188,7 +189,7 @@ as                   CSA             1
 they                 PPHS2           1 
 expand               VV0             1 
 their                APPGE           1 
-Diplomacygives_Sid_Meiers NP1             1 
+Diplomacygives_Sid_Meier NP1             1 
 yet                  RR              1 
 another              DD1             1 
 way                  NN1             1 

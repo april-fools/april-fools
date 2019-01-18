@@ -1,29 +1,30 @@
-TOTAL              386
+TOTAL              399
 the                  AT             32 
+'s                   GE             11 
+apple                NN1             9 
 a                    AT1             9 
 to                   TO              9 
 imc                  NN1             9 
 of                   IO              7 
-apple                NN1             7 
 and                  CC              7 
-McDonalds            NP1             7 
+McDonald             NP1             7 
 in                   II              6 
 at                   II              5 
 that                 CST             4 
 with                 IW              4 
 this                 DD1             4 
+we                   PPIS2           4 
 would                VM              4 
 for                  IF              4 
+today                RT              3 
 are                  VBR             3 
 their                APPGE           3 
-we                   PPIS2           3 
 new                  JJ              3 
 customers            NN2             3 
 an                   AT1             3 
 to                   II              3 
 is                   VBZ             3 
-its                  APPGE           3 
-today                RT              2 
+'s                   VBZ             2 
 product              NN1             2 
 two                  MC              2 
 companies            NN2             2 
@@ -32,7 +33,6 @@ they                 PPHS2           2
 had                  VHD             2 
 deal                 NN1             2 
 our                  APPGE           2 
-apples               NN2             2 
 say                  VV0             2 
 hello                UH              2 
 menu                 NN1             2 
@@ -40,10 +40,9 @@ no                   AT              2
 pickles              NN2             2 
 meat                 NN1             2 
 as                   II              2 
-will                 VM              2 
+its                  APPGE           2 
 available            JJ              2 
 one                  MC1             1 
-todays               NN2             1 
 more                 RGR             1 
 surprising           JJ              1 
 announcements        NN2             1 
@@ -53,9 +52,8 @@ effort               NN1             1
 looking_to           VVG             1 
 leverage             NN1             1 
 similarities         NN2             1 
-each                 DD1             1 
-others               NN2             1 
-brand                VV0             1 
+each_other           PPX221          1 
+brand                NN1             1 
 expand               VVI             1 
 respective           JJ              1 
 client               NN1             1 
@@ -125,7 +123,7 @@ create               VVI             1
 brand_new            JJ21            1 
 effectively          RR              1 
 bridge               VVI             1 
-companys             NN2             1 
+company              NN1             1 
 clientele            NN1             1 
 imcsay               VVI             1 
 all                  DB              1 
@@ -152,7 +150,7 @@ cheese               NN1             1
 lettuce              NN1             1 
 tomato               NN1             1 
 or                   CC              1 
-were                 VBDR            1 
+'re                  VBR             1 
 proud                JJ              1 
 carry                VVI             1 
 part                 NN1             1 
@@ -166,6 +164,7 @@ fine                 JJ              1
 dining               NN1             1 
 Joseph_K._Ng         NP1             1 
 McManager            NP1             1 
+it                   PPH1            1 
 just                 RR              1 
 like                 II              1 
 ipod                 NN1             1 
@@ -204,6 +203,7 @@ analyst              NN1             1
 Lisa_Tuu             NP1             1 
 through              II              1 
 partnership_with     NN1             1 
+will                 NN1             1 
 bring                VVI             1 
 yuppie               NN1             1 
 MacBook-owning       NP1             1 
@@ -232,6 +232,7 @@ help                 VVI             1
 further              RRR             1 
 slimmed-down         NN1             1 
 ideal                NN1             1 
+will                 VM              1 
 also                 RR              1 
 have                 VHI             1 
 option               NN1             1 

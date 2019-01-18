@@ -10,7 +10,6 @@ $20.40                   NNU     Z99
 8.7%                     FO      Z99 
 anti-hoarding            JJ      Z99 
 crore                    NN1     Z99 
-havent                   VV0     Z99 
 milled                   JJ@     Z99 
 Nath                     NP1@    Z99 
 Prasert                  VV0     Z99 
@@ -18,4 +17,3 @@ Rs1,931                  FO      Z99
 Rs816                    FO      Z99 
 short-to-medium          JJ      Z99 
 Wellcome                 NP1     Z99 
-Weve                     NP1@    Z99 

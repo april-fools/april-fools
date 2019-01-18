@@ -1,4 +1,4 @@
-TOTAL              453
+TOTAL              456
 the                  AT             31 
 a                    AT1            16 
 in                   II             14 
@@ -11,9 +11,9 @@ of                   IO              6
 for                  IF              6 
 from                 II              6 
 that                 CST             5 
+universal            JJ              5 
 estimated            JJ              5 
 fast                 RR              4 
-universal            JJ              4 
 with                 IW              4 
 to                   II              3 
 weekend              NNT1            3 
@@ -45,12 +45,14 @@ on                   II              2
 audiences            NN2             2 
 were                 VBDR            2 
 original             JJ              2 
+i                    PPIS1           2 
 team                 NN1             2 
 this                 DD1             2 
 said                 VVD             2 
 ticket               NN1             2 
 sales                NN              2 
-studios              NN2             2 
+studio               NN1             2 
+'s                   GE              2 
 experts              NN2             2 
 have                 VH0             2 
 over                 II              2 
@@ -131,7 +133,7 @@ fourth               MD              1
 bring                VV0             1 
 their                APPGE           1 
 kids                 NN2             1 
-im                   VV0             1 
+'m                   VBM             1 
 euphoric             JJ              1 
 our                  APPGE           1 
 production           NN1             1 
@@ -176,7 +178,7 @@ heroin-importing     JJ              1
 operation            NN1             1 
 Mexico               NP1             1 
 Los_Angeles          NP1             1 
-universals           NN2             1 
+'s                   VBZ             1 
 creative             JJ              1 
 starting             VVG             1 
 become               VVI             1 
@@ -188,7 +190,6 @@ industry             NN1             1
 feel                 VV0             1 
 burned_out           VVN             1 
 last_summer          MD              1 
-studio               NN1             1 
 turned               VVD             1 
 hellboy              NN1             1 
 ii                   MC              1 
@@ -227,8 +228,7 @@ attendance           NN1             1
 is_up                VBZ             1 
 13                   MC              1 
 percent              NNU             1 
-last                 MD              1 
-weekends             NNT2            1 
+last_weekend         MD              1 
 top                  JJ              1 
 monsters             NN2             1 
 vs                   II              1 
@@ -255,11 +255,11 @@ summit               NN1             1
 $8.1_million         NNU             1 
 $58.2_million        NNU             1 
 buddy                NN1             1 
-i                    PPIS1           1 
 love                 VV0             1 
 you                  PPY             1 
 man                  NN1             1 
 Paramount            NP1             1 
+studios              NN2             1 
 $7.9_million         NNU             1 
 $49.3_million        NNU             1 
 only                 JJ              1 

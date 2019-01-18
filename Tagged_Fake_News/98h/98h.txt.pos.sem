@@ -1,6 +1,7 @@
 0000001 001  NULL    **6;0;START              
 0000001 002  -----   -----                    
-0000002 010  NN2     Obamas                   Z99 
+0000002 010  NP1@    Obama                    Z99 
+0000002 011  GE      's                       Z5 
 0000002 020  JJ      Racist                   S5+/Z2 
 0000002 030  NN2     Attacks                  E3- G3 B2- A1.1.2 Q2.2 
 0000002 040  II      Against                  Z5 

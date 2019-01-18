@@ -1,4 +1,4 @@
-TOTAL             1033
+TOTAL             1036
 the                  Z5                  40 
 tax                  I1.1                25 
 to                   Z5                  22 
@@ -7,11 +7,11 @@ for                  Z5                  20
 and                  Z5                  19 
 plan                 X7+                 17 
 a                    Z5                  16 
-you                  Z8                  15 
+you                  Z8                  16 
+'s                   Z5                  14 
 on                   Z5                  13 
 of                   Z5                  13 
 but                  Z5                  13 
-'s                   Z5                  13 
 pay                  I1.2                12 
 taxes                I1.1                11 
 cuts                 A1.1.1              10 
@@ -28,9 +28,9 @@ increases            N5+                  7
 with                 Z5                   7 
 what                 Z8                   7 
 your                 Z8                   7 
+we                   Z8                   7 
 calculator           Y2                   7 
 more                 N5++                 7 
-we                   Z8                   6 
 more                 A13.3                6 
 in                   Z5                   6 
 they                 Z8                   6 
@@ -92,7 +92,6 @@ Cruz                 Z2                   3
 he                   Z8                   3 
 why                  A2.2                 3 
 rate                 N3.8                 3 
-employers            I3.1                 3 
 across_the_board     N5.1+                3 
 estimated            X6                   3 
 currently            T1.1.2               3 
@@ -133,6 +132,7 @@ current              T1.1.2               2
 from                 Z5                   2 
 including            A1.8+                2 
 income_tax           G1.1                 2 
+employers            I3.1                 2 
 like                 Z5                   2 
 deals                A1.1.1               2 
 poor                 I1.1-                2 
@@ -296,15 +296,16 @@ is                   Z5                   1
 happening            A2.1+                1 
 surprised            X2.6-                1 
 at                   Z5                   1 
-youre                Z99                  1 
+'re                  Z5                   1 
 under                Z5                   1 
 law                  G2.1                 1 
-were                 A3+                  1 
+'re                  A3+                  1 
 as_well              N5++                 1 
 individual           N5-                  1 
 working              I3.1                 1 
 actually             A5.4+                1 
 include              A1.8+                1 
+employer             I3.1                 1 
 portion              N5                   1 
 economists           I2.1                 1 
 pass                 M1                   1 

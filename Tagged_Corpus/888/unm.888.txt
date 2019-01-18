@@ -23,4 +23,3 @@ Snopes                   NN2     Z99
 Snopes                   NP1     Z99 
 Snopesters               NP1     Z99 
 WorldNetDaily            NP1     Z99 
-youre                    NN1     Z99 

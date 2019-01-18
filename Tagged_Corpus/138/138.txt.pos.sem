@@ -82,7 +82,8 @@
 0000004 120  IO      of                       Z5 
 0000004 130  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000004 140  II      before                   Z5 
-0000004 150  NP2     Microsofts               Z3c 
+0000004 150  NP1     Microsoft                Z3c 
+0000004 151  GE      's                       Z5 
 0000004 160  JJT     latest                   T3--- T4--- 
 0000004 170  NN1     release                  A1.7- A9- I2.2 K3 Q4 E6+ 
 0000004 180  NP1     Windows                  Z1mf[i5.2.1 Z3c[i5.2.1 
@@ -313,7 +314,8 @@
 0000010 090  VVG     downloading              M2 
 0000010 100  NN2     applications             Q1.2 A1.5.1 Y2 X5.1+ A1.1.1 
 0000010 110  II      from                     Z5 
-0000010 120  NP2     Microsofts               Z3c 
+0000010 120  NP1     Microsoft                Z3c 
+0000010 121  GE      's                       Z5 
 0000010 130  JJ      emerging                 M1 A10+ A1.1.1 
 0000010 140  NN1     App                      Z99 
 0000010 150  NN1     Store                    I2.2/H1c A9+ A9+/H1 
@@ -337,7 +339,8 @@
 0000010 310  NN1     store                    I2.2/H1c A9+ A9+/H1 
 0000010 311  ,       ,                        
 0000010 320  CC      and                      Z5 
-0000010 330  RR      well                     A5.1+ A13.3 A7+ B2+ Z4 
+0000010 330  PPIS2   we                       Z8 
+0000010 331  VM      'll                      T1.1.3 
 0000010 340  VBI     be                       Z5 A3+ 
 0000010 350  VVN     darned                   B5 
 0000010 360  CS      if                       Z7 
@@ -466,7 +469,8 @@
 0000014 241  .       .                        
 0000014 242  -----   -----                    
 0000014 250  CS      While                    Z5 
-0000014 260  APPGE   its                      Z8 
+0000014 260  PPH1    it                       Z8 
+0000014 261  VBZ     's                       A3+ Z5 
 0000014 270  JJ      great                    A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3 
 0000014 280  IF      for                      Z5 
 0000014 290  NN1     novelty                  T3-[i31.2.1 T3--- 
@@ -503,8 +507,9 @@
 0000014 581  .       .                        
 0000014 582  -----   -----                    
 0000014 590  PPY     You                      Z8mf 
-0000014 600  JJ      wont                     A6.2+ 
-0000014 610  VV0     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000014 600  VM      wo                       T1.1.3 
+0000014 601  XX      n't                      Z6 
+0000014 610  VVI     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
 0000014 620  AT      the                      Z5 
 0000014 630  DA      same                     A6.1+++ 
 0000014 640  NN1     selection                X7+ 
@@ -518,7 +523,8 @@
 0000014 710  II      at                       Z5 
 0000014 720  NNT1    night                    T1.3 
 0000014 730  VVG     knowing                  X2.2+ S3.2/B1% 
-0000014 740  NN1     youre                    Z99 
+0000014 740  PPY     you                      Z8mf 
+0000014 741  VBR     're                      Z5 A3+ 
 0000014 750  VVG     using                    A1.5.1 S7.1+ 
 0000014 760  AT      the                      Z5 
 0000014 770  MD      next                     A5.1+/A13.4[i34.3.1 N4 

@@ -77,7 +77,8 @@
 0000005 260 who                                         93 PNQS
 0000005 270 was                                         93 VBDZ
 0000005 280 hailed                                      03 [VVN/100] VVD/0
-0000005 290 Britains                                    93 NN2
+0000005 290 Britain                   >                 93 NP1
+0000005 291 's                        <                 03 [GE/99] VBZ/1 VHZ@/0
 0000005 300 biggest                                     03 JJT
 0000005 310 ever                                        93 RR
 0000005 320 when                                        93 [CS/74] RRQ/26

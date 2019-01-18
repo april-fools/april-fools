@@ -1,4 +1,4 @@
-TOTAL             1052
+TOTAL             1065
 the                  Z5                  58 
 a                    Z5                  40 
 of                   Z5                  39 
@@ -7,32 +7,31 @@ to                   Z5                  19
 is                   A3+                 18 
 its                  Z8                  17 
 for                  Z5                  15 
+company              I2.1                15 
+'s                   Z5                  13 
 in                   Z5                  11 
 average              A6.2+               11 
+stock                A9+                 11 
 EPS                  G1.1                11 
 at                   Z5                  11 
 on                   Z5                  10 
-stock                A9+                 10 
 inc.                 I2.1                10 
 technology           Y1                   9 
 from                 Z5                   9 
-company              I2.1                 9 
 or                   Z5                   9 
 price                I1.3                 8 
 is                   Z5                   8 
 volume               N3.4                 8 
-shares               N5.1-                7 
+share                S1.1.2+              7 
 performance          K4                   7 
 an                   Z5                   7 
 as                   Z5                   6 
 it                   Z8                   6 
 moving               M1                   6 
 each                 N5.1+                6 
-share                S1.1.2+              6 
-companys             I2.1                 6 
 Micron               Z99                  6 
 trading              I2.2                 6 
-stocks               A9+                  5 
+shares               N5.1-                6 
 earnings             I1.1                 5 
 respectively         A6.1-                5 
 by                   Z5                   5 
@@ -44,6 +43,7 @@ while                Z5                   5
 has                  A9+                  5 
 fitbit               Z99                  5 
 growth               N3.2+                5 
+stocks               A9+                  4 
 higher               N3.7++               4 
 was                  A3+                  4 
 closed               A1.1.1               4 
@@ -62,7 +62,6 @@ analysis             X2.4                 3
 recommendation       Q2.2                 3 
 technical            Y1                   3 
 rsi                  B2-                  3 
-mean                 Q1.1                 3 
 SMA                  Z99                  3 
 more                 A13.3                2 
 than                 Z5                   2 
@@ -95,9 +94,10 @@ relative             A13                  2
 RVOL                 Z99                  2 
 over                 Z5                   2 
 review               X2.4                 2 
-systems              X4.2                 2 
+system               X4.2                 2 
 typically            A6.2+                2 
 present              T1.1.2               2 
+analyst              Y2                   2 
 will                 T1.1.3               2 
 roe                  Z99                  2 
 ROA                  Z99                  2 
@@ -114,6 +114,7 @@ longer               T1.3++               2
 buy                  I2.2                 2 
 when                 Z5                   2 
 sell                 I2.2                 2 
+mean                 Q1.1                 2 
 moving               M2                   2 
 periods              T1.3                 2 
 then                 N4                   2 
@@ -132,7 +133,6 @@ size                 N3.2                 2
 companies            I2.1                 2 
 ownership            A9+                  2 
 valued               A11.1+               2 
-analysts             Y2                   2 
 strong               S1.2.5+              2 
 year                 T1.3                 2 
 productivity         I2.1                 2 
@@ -157,7 +157,7 @@ pushed               M2                   1
 recouping            A9+                  1 
 about                A13.4                1 
 half                 N5                   1 
-sessions             T1.3                 1 
+session              T1.3                 1 
 sell-off             Z99                  1 
 shareholders         I1.1                 1 
 put_aside            M2                   1 
@@ -277,7 +277,7 @@ furthermore          Z5                   1
 able                 X9.1+                1 
 yield                S7.1-                1 
 25.36_percent        N5                   1 
-todays               T1.1.2               1 
+today                T1.1.2               1 
 platforms            M3                   1 
 permit               S7.4+                1 
 traders              I2.2                 1 
@@ -302,7 +302,6 @@ half-yearly          N6                   1
 has                  Z5                   1 
 recorded             Q1.2                 1 
 $8.36                Z99                  1 
-analyst              Y2                   1 
 stands               M6                   1 
 1.8                  N1                   1 
 looking_into         X2.4                 1 
@@ -432,6 +431,7 @@ insider              A1.8+                1
 1.33                 N1                   1 
 p/cash               Z99                  1 
 1.56                 N1                   1 
+analysts             Y2                   1 
 2.9                  T3                   1 
 number_based         N5                   1 
 1_to_5               T1.2                 1 
@@ -472,6 +472,7 @@ value                A11.1+               1
 25.3%                Z99                  1 
 next                 N4                   1 
 five                 N1                   1 
+mean                 S1.2.2+              1 
 target               X7+                  1 
 $6.22                Z99                  1 
 investigating        X2.4                 1 

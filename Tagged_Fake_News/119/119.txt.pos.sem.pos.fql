@@ -1,9 +1,9 @@
-TOTAL         304
-NN1            43 
+TOTAL         307
+NN1            46 
 JJ             31 
 II             26 
-NN2            21 
-NP1            18 
+NN2            20 
+NP1            19 
 VVN            15 
 RR             14 
 AT             13 
@@ -15,10 +15,11 @@ VVG             7
 CC              6 
 CSA             5 
 IF              5 
-VV0             4 
 PPH1            3 
 APPGE           3 
 CST             3 
+VV0             3 
+GE              3 
 VVI             3 
 TO              3 
 NNT1            3 
@@ -31,7 +32,6 @@ II21            2
 PNQS            2 
 DD1             2 
 VHZ             2 
-NP2             2 
 MC              1 
 NNU             1 
 MD              1 

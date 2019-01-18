@@ -18,8 +18,6 @@ Octane                   NP1     Z99
 OCZ                      NN1     Z99 
 OCZ                      NP1     Z99 
 OCZ                      VV0     Z99 
-OCZs                     NP2     Z99 
-OCZs                     VVZ     Z99 
 over-provisioning        NN1     Z99 
 previously-reviewed      JJ      Z99 
 SandForce                NN1@    Z99 

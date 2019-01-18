@@ -1,4 +1,4 @@
-TOTAL              275
+TOTAL              276
 the                  AT             14 
 of                   IO             10 
 a                    AT1             7 
@@ -38,7 +38,7 @@ am                   VBM             2
 he                   PPHS1           2 
 also                 RR              2 
 do                   VD0             2 
-nt                   XX              2 
+n't                  XX              2 
 about                II              2 
 into                 II              2 
 his                  APPGE           2 
@@ -55,7 +55,8 @@ announced            VVN             1
 5                    MC              1 
 released             VVN             1 
 rival                JJ              1 
-Sonys                NP2             1 
+Sony                 NP1             1 
+'s                   GE              1 
 current              JJ              1 
 generation           NN1             1 
 console              NN1             1 

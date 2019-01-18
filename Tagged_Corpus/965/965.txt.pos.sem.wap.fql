@@ -1,26 +1,26 @@
-TOTAL             1182
+TOTAL             1193
 the                  AT             66 
 and                  CC             37 
 a                    AT1            34 
 for                  IF             34 
 in                   II             34 
+FDA                  NP1            24 
 it                   NN1            23 
 of                   IO             21 
 to                   TO             20 
 said                 VVD            17 
 is                   VBZ            16 
-FDA                  NP1            14 
 its                  APPGE          13 
+'s                   GE             13 
 fda                  NN1            12 
 systems              NN2            11 
 on                   II             10 
 are                  VBR            10 
+agency               NN1             9 
 has                  VHZ             9 
 to                   II              9 
 at                   II              9 
 food                 NN1             8 
-agency               NN1             8 
-FDAs                 NP2             8 
 that                 CST             8 
 safety               NN1             7 
 an                   AT1             7 
@@ -110,7 +110,6 @@ va                   FW              2
 government           NN1             2 
 office               NN1             2 
 coming               JJ              2 
-'s                   GE              2 
 information          NN1             2 
 deputy               NN1             2 
 plans                NN2             2 
@@ -141,7 +140,6 @@ health_care          NN1             2
 put                  VVN             2 
 health               NN1             2 
 analysis             NN1             2 
-fdas                 NN2             2 
 areas                NN2             2 
 initiatives          NN2             2 
 regulatory           JJ              2 
@@ -165,7 +163,6 @@ underfunded          JJ              1
 overtaxed            JJ              1 
 information_technology NN1             1 
 concluded            VVD             1 
-agencys              NN2             1 
 were                 VBDR            1 
 obsolete             JJ              1 
 unstable             JJ              1 
@@ -450,7 +447,7 @@ industry             NN1             1
 input                NN1             1 
 Reston               NP1             1 
 request              NN1             1 
-proposed             VVD             1 
+proposed             JJ              1 
 go                   VVI             1 
 programs             NN2             1 
 almost               RR              1 

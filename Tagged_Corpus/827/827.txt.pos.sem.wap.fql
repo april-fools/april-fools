@@ -1,4 +1,4 @@
-TOTAL              541
+TOTAL              543
 the                  AT             29 
 and                  CC             17 
 of                   IO             14 
@@ -48,6 +48,7 @@ studies              NN2             2
 benefit              VV0             2 
 one                  MC1             2 
 trying               VVG             2 
+people               NN              2 
 into                 II              2 
 working              JJ              2 
 increased            VVD             2 
@@ -74,6 +75,7 @@ high                 JJ              2
 no_one               PN121           1 
 surprised            JJ              1 
 appalled             JJ              1 
+'                    GE              1 
 calculations         NN2             1 
 will                 VM              1 
 lose                 VVI             1 
@@ -92,7 +94,6 @@ ideas                NN2             1
 pursued              VVD             1 
 set_about            VVI             1 
 as_many_as_possible  RG              1 
-people               NN              1 
 dependent            JJ              1 
 during               II              1 
 reign                NN1             1 
@@ -225,7 +226,7 @@ scale                NN1             1
 makes                VVZ             1 
 biggest              JJT             1 
 difference           NN1             1 
-peoples              NN2             1 
+'s                   GE              1 
 household            NN1             1 
 incomes              NN2             1 
 picture              NN1             1 

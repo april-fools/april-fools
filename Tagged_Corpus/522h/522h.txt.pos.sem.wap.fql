@@ -1,7 +1,8 @@
-TOTAL               14
+TOTAL               16
+'s                   GE              2 
 Microsoft            NP1             1 
 partners_with        NN2             1 
-worlds               NN2             1 
+world                NN1             1 
 top                  JJ              1 
 banks                NN2             1 
 on                   II              1 
@@ -11,5 +12,5 @@ seeking              VVG             1
 new                  JJ              1 
 uses                 NN2             1 
 for                  IF              1 
-Bitcoins             NP1             1 
+Bitcoin              NP1             1 
 backbone             NN1             1 

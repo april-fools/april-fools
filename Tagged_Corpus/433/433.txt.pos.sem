@@ -154,7 +154,8 @@
 0000006 711  NULL    &E.;                     
 0000006 720  RR      However                  Z4 
 0000006 730  IW      with                     Z5 
-0000006 740  NP2     Microsofts               Z3c 
+0000006 740  NP1     Microsoft                Z3c 
+0000006 741  GE      's                       Z5 
 0000006 750  VV0     compute                  Y2 N2 
 0000006 760  JJ@     focused                  X5.1+ X3.4 A4.2+ 
 0000006 770  NN1     DirectX                  Z99 
@@ -166,8 +167,9 @@
 0000006 830  NN1     release                  A1.7- A9- I2.2 K3 Q4 E6+ 
 0000006 840  NN1     date                     T1.2 S3.2 S3.2/S2mf 
 0000006 850  CC      and                      Z5 
-0000006 860  NP2     Intels                   Z3c 
-0000006 870  VV0     experience               A2.1+/A3+ X3 
+0000006 860  NP1     Intel                    Z3c 
+0000006 861  GE      's                       Z5 
+0000006 870  NN1     experience               X2.2+ X9.1+ I3.2 A2.1+/A3+ X3 
 0000006 880  II      in                       Z5 
 0000006 890  JJ      integrated               A1.8+ S5+ A2.2 N2% 
 0000006 900  NN      graphics                 C1 
@@ -186,7 +188,8 @@
 0000006 010  VVN     come                     A1.1.1 
 0000006 020  TO      to                       Z5 
 0000006 030  VVI     match                    A6.1+ 
-0000006 040  NP2     Intels                   Z3c 
+0000006 040  NP1     Intel                    Z3c 
+0000006 041  GE      's                       Z5 
 0000006 050  NN1     hardware                 O2 Y2 
 0000006 051  .       .                        
 0000007 001  -----   -----                    
@@ -220,11 +223,12 @@
 0000008 250  IW      with                     Z5 
 0000008 260  AT      the                      Z5 
 0000008 270  NN1     decap                    Z99 
-0000008 280  NN1     ring                     Q1.3 X3.2 A8 B5 O4.4 O2 O3 S5+c M7/K5.1% 
+0000008 280  NN1     ring'                    Z99 
 0000008 290  MD      last                     N4 
 0000008 300  VVN     seen                     X3.4 X2.1 S1.1.1 X2.5+ A7+ 
 0000008 310  II      in                       Z5 
-0000008 320  NP2     AMDs                     Z99 
+0000008 320  NP1     AMD                      Z99 
+0000008 321  GE      's                       Z5 
 0000008 330  NP1     HD                       Z2[i10.2.1 Z1mf[i10.2.1 
 0000008 340  MC      4890                     Z2[i10.2.2 Z1mf[i10.2.2 N1 T1.2 T3 T1.3 N3.2 
 0000008 341  ,       ,                        
@@ -272,7 +276,7 @@
 0000008 690  NN1     model                    O2/A5.4- A4.1 X4.2 A5.1+++ C1/S2mf B5/I3.2/S2mf 
 0000008 700  IO      of                       Z5 
 0000008 710  NP2     Knights                  S7.1+/G3/S2.2m K5.2 S7.1+ 
-0000008 720  VVG     Landing                  M1 M2 M5 M4 A9+ A2.2 
+0000008 720  VV0@    Landing'                 Z99 
 0000008 730  NN2     packs                    O2 N5 S5+ 
 0000008 740  AT1     a                        Z5 
 0000008 750  JJ      whopping                 N3.2++ E3- 
@@ -325,17 +329,20 @@
 0000008 160  NN1     end                      T2-[i18.2.2 M6 T2- O2 X7+ N4 
 0000008 170  IO      of                       Z5 
 0000008 180  MC      2015                     N1 T1.2 T3 T1.3 N3.2 
-0000008 190  NP2     Intels                   Z3c 
+0000008 190  NP1     Intel                    Z3c 
+0000008 191  GE      's                       Z5 
 0000008 200  NP1     KN                       Z99 
 0000008 210  NN1     architecture             H1 O4.1 
 0000008 220  VM      will                     T1.1.3 
 0000008 230  VBI     be                       T2-[i20.2.1 M6[i20.2.1 A5.1-[i20.2.1 A3+ Z5 E2-[i19.2.1 
 0000008 240  RP      up                       M6[i20.2.2 A5.1-[i20.2.2 T2-[i20.2.2 Z5[i21.2.1 
 0000008 250  II      against                  Z5[i21.2.2 Z5 E2-[i19.2.2 
-0000008 260  NP2     Nvidias                  Z99 
+0000008 260  NP1     Nvidia                   Z99 
+0000008 261  GE      's                       Z5 
 0000008 270  JJ      Pascal                   Z1mf Y2 
 0000008 280  CC      and                      Z5 
-0000008 290  NP2     AMDs                     Z99 
+0000008 290  NP1     AMD                      Z99 
+0000008 291  GE      's                       Z5 
 0000008 300  NP1     GCN                      Z2[i22.2.1 Z1mf[i22.2.1 
 0000008 310  MC      3.0                      Z2[i22.2.2 Z1mf[i22.2.2 N1 T1.2 T3 T1.3 N3.2 
 0000008 311  .       .                        
@@ -343,8 +350,9 @@
 0000008 320  RR      Perhaps                  A7 
 0000008 330  DD2     these                    Z5 Z8 
 0000008 340  NN2     numbers                  N5 N1 Q1.3 K2 Q4.2 
-0000008 350  JJ      wont                     A6.2+ 
-0000008 360  NN1     look                     O4.2+/A8[i23.2.1 A8 X3.4 X2.4 O4.1 
+0000008 350  VM      wo                       T1.1.3 
+0000008 351  XX      n't                      Z6 
+0000008 360  VVI     look                     O4.2+/A8[i23.2.1 A8 X3.4 X2.4 X7+ Z4 
 0000008 370  RG      quite                    A13.5 A13.6 A13.2 
 0000008 380  RG      so                       A13.3 
 0000008 390  JJ      amazing                  O4.2+/A8[i23.2.2 O4.2+ X2.6- A6.2- 
@@ -403,7 +411,7 @@
 0000010 360  NN1     'Seven'                  Z99 
 0000010 370  NN2     cards                    Q1.2 O1.1 I1.1/O2/Q1.1 K5.2 
 0000010 380  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000010 381  XX      nt                       S9/Q4.1 Z3c 
+0000010 381  XX      n't                      Z6 
 0000010 390  VVI     output                   Y2 
 0000010 400  NN1     video                    Q4.3 
 0000010 410  RR      directly                 M6 N3.8+ S1.1.1 
@@ -480,7 +488,7 @@
 0000012 122  -----   -----                    
 0000012 130  RR21    at                       A13.7[i29.2.1 
 0000012 140  RR22    least                    A13.7[i29.2.2 A13.7 
-0000012 150  MC1     one                      N1 T3 T1.2 
+0000012 150  VV0     one'                     Z99 
 0000012 160  JJ      digital                  Y2 N1 
 0000012 170  NN1     output                   N5 Y2 X9.2+ Q4 
 0000012 171  NULL    </quote>                 
@@ -494,7 +502,7 @@
 0000012 230  JJ@     planned                  X7+ 
 0000012 240  JJ      alternative              A6.1- N6 
 0000012 250  JJ      single-slot              Z99 
-0000012 260  NN1     outboard                 M4 M5 
+0000012 260  NN1     outboard'                Z99 
 0000012 270  IW      with                     Z5 
 0000012 280  NN1     video                    Q4.3 
 0000012 290  NN2     connectors               O3 

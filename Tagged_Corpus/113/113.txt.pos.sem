@@ -129,7 +129,8 @@
 0000008 010  NP1     Philip                   Z1mf[i7.2.1 Z3c[i7.2.1 Z1m 
 0000008 020  NP1     Schiller                 Z1mf[i7.2.2 Z3c[i7.2.2 
 0000008 021  ,       ,                        
-0000008 030  NN2     Apples                   L3 F1 
+0000008 030  NN1     Apple                    Z3c 
+0000008 031  GE      's                       Z5 
 0000008 040  JJ      senior                   S7.1++ T3++ 
 0000008 050  JJ      vice                     S7.1+/S2mf[i8.2.1 
 0000008 060  NN1     president                S7.1+/S2mf[i8.2.2 G1.1/S7.1+/S2mf 
@@ -153,7 +154,8 @@
 0000008 200  VVI     run                      M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4 
 0000008 210  NN2     Windows                  H2 T1.3 Y2 
 0000008 220  II      on                       Z5 
-0000008 230  NN2     Apples                   L3 F1 
+0000008 230  NN1     Apple                    Z3c 
+0000008 231  GE      's                       Z5 
 0000008 240  JJ      superior                 A5.1++ S7.1++ 
 0000008 250  NN1     hardware                 O2 Y2 
 0000008 260  CS21    now                      Z5[i10.2.1 Z5 

@@ -1,12 +1,13 @@
-TOTAL              376
+TOTAL              383
 the                  AT             31 
 of                   IO             11 
 and                  CC              8 
 in                   II              7 
 a                    AT1             7 
 islamic              JJ              6 
+state                NN1             6 
+'s                   GE              6 
 to                   II              5 
-state                NN1             5 
 that                 CST             5 
 campaign             NN1             4 
 by                   II              4 
@@ -16,14 +17,15 @@ to                   TO              4
 with                 IW              4 
 have                 VH0             3 
 presidential         JJ              3 
-candidates           NN2             3 
 terror               NN1             3 
+it                   PPH1            3 
 legislation          NN1             3 
 would                VM              3 
 provided             VVN             2 
 more                 DAR             2 
 than                 CSN             2 
 dollars              NNU2            2 
+candidates           NN2             2 
 year                 NNT1            2 
 according_to         II21            2 
 report               NN1             2 
@@ -35,9 +37,7 @@ donors               NN2             2
 maximum              JJ              2 
 contribution         NN1             2 
 using                VVG             2 
-its                  APPGE           2 
 ISIS                 NP1             2 
-it                   PPH1            2 
 individuals          NN2             2 
 for                  IF              2 
 an                   AT1             2 
@@ -57,7 +57,6 @@ WASHINGTON           NP1             1
 D.C._Abu_Bakr        NP1             1 
 and_other            CC              1 
 members              NN2             1 
-States               NP1             1 
 leadership           NN1             1 
 council              NN1             1 
 five_million         MC              1 
@@ -68,8 +67,8 @@ finance              NN1             1
 released             VVN             1 
 last_week            MD              1 
 half                 DB              1 
-GOPs                 NP2             1 
-leading              VVG             1 
+GOP                  NP1             1 
+leading              JJ              1 
 contenders           NN2             1 
 including            II              1 
 senators             NN2             1 
@@ -119,6 +118,7 @@ in_place             II              1
 meant                VVD             1 
 provide              VVI             1 
 funding              NN1             1 
+its                  APPGE           1 
 various              JJ              1 
 operations           NN2             1 
 is                   VBZ             1 
@@ -141,6 +141,8 @@ check                NN1             1
 donation             NN1             1 
 allowed              VVN             1 
 payable              JJ              1 
+candidate            NN1             1 
+'s                   VBZ             1 
 really               RR              1 
 ingenious            JJ              1 
 system               NN1             1 
@@ -150,7 +152,7 @@ manager              NN1             1
 obviously            RR              1 
 senator              NN1             1 
 does                 VDZ             1 
-nt                   XX              1 
+n't                  XX              1 
 see_eye_to_eye       VVI             1 
 some                 DD              1 
 issues               NN2             1 
@@ -165,7 +167,7 @@ beliefs              NN2             1
 particularly         RR              1 
 when                 CS              1 
 comes_to             VVZ             1 
-womens               NN2             1 
+women                NN2             1 
 added                VVD             1 
 moral                JJ              1 
 obligation           NN1             1 
@@ -174,7 +176,7 @@ uphold               VV0             1
 supporters           NN2             1 
 alike                RR              1 
 wake                 NN1             1 
-nations              NN2             1 
+nation               NN1             1 
 most                 RGT             1 
 recent               JJ              1 
 mass                 JJ              1 
@@ -203,7 +205,7 @@ are                  VBR             1
 estimated            JJ              1 
 700,000              MC              1 
 U.S.                 NP1             1 
-governments          NN2             1 
+government           NN1             1 
 watch                NN1             1 
 list                 NN1             1 
 several              DA2             1 

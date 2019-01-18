@@ -1,4 +1,4 @@
-TOTAL              485
+TOTAL              488
 the                  Z5                  33 
 and                  Z5                  20 
 to                   Z5                  19 
@@ -13,9 +13,10 @@ Darfur               Z99                  6
 their                Z8                   6 
 a                    Z5                   6 
 government           G1.1                 5 
-Sudan                Z2                   4 
 channel_4            Z3                   4 
 news                 X2.2+                4 
+Cox                  K5.1                 4 
+Sudan                Z2                   3 
 into                 Z5                   3 
 abuses               E3-                  3 
 two                  N1                   3 
@@ -46,10 +47,9 @@ held                 M2                   2
 with                 Z5                   2 
 beaten               X9.2-                2 
 Khartoum             Z99                  2 
-Cox                  K5.1                 2 
 journalists          Q4.2                 2 
 tortured             E3-                  2 
-Coxs                 K5.1                 2 
+'s                   Z5                   2 
 UK                   Z2                   2 
 released             A1.7-                2 
 said                 Q2.1                 2 
@@ -257,6 +257,7 @@ or                   Z5                   1
 anti-government      Z99                  1 
 criticism            Q2.2                 1 
 dealt                A1.1.1               1 
+'                    Z5                   1 
 initial              T2+                  1 
 commission           A1.1.1               1 
 supported            S8+                  1 
@@ -265,6 +266,7 @@ platform             M3                   1
 field                F4                   1 
 vision               X4.1                 1 
 hunted               L2                   1 
+Sudan'               Z99                  1 
 be                   Z5                   1 
 5                    N1                   1 
 6                    N1                   1 

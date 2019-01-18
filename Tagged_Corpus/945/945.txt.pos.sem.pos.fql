@@ -1,4 +1,4 @@
-TOTAL         772
+TOTAL         774
 NN1           128 
 II             63 
 AT             62 
@@ -20,12 +20,13 @@ VV0            10
 VBDR            9 
 RR              7 
 VBDZ            6 
-APPGE           6 
+PPH1            6 
 VVZ             5 
-PPH1            5 
 DD1             5 
+APPGE           5 
 IF              4 
 CS              4 
+VBZ             4 
 PPHS1           4 
 NNO             3 
 NPM1            3 
@@ -34,7 +35,6 @@ PPHS2           3
 DD              3 
 MC1             3 
 CSA             3 
-VBZ             3 
 IW              2 
 PNQS            2 
 VHZ             2 
@@ -57,6 +57,7 @@ NNT2            1
 RRR             1 
 PPIO2           1 
 RL              1 
+GE              1 
 VM              1 
 DA              1 
 NNT1            1 

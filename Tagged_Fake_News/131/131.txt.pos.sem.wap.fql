@@ -1,4 +1,4 @@
-TOTAL             1589
+TOTAL             1603
 the                  AT             75 
 and                  CC             45 
 in                   II             45 
@@ -15,12 +15,14 @@ not                  XX             15
 FOX                  NP1            15 
 interview            NN1            15 
 is                   VBZ            14 
+Mr._Trump            NNB            12 
+it                   PPH1           12 
 speech               NN1            12 
 for                  IF             11 
 or                   CC             10 
 this                 DD1            10 
-it                   PPH1           10 
 said                 VVD            10 
+'s                   GE              9 
 about                II              9 
 are                  VBR             9 
 war                  NN1             9 
@@ -30,11 +32,12 @@ speeches             NN2             8
 Iraq                 NP1             8 
 to                   II              8 
 SEPT._20             NPM1            8 
+they                 PPHS2           7 
 him                  PPHO1           7 
-Mr._Trump            NNB             7 
 SEPT._15             NPM1            7 
 SEPT._19             NPM1            7 
 north_CAROLINA       ND1             7 
+Clinton              NP1             7 
 an                   AT1             6 
 from                 II              6 
 on                   II              6 
@@ -45,14 +48,11 @@ SEPT._18             NPM1            6
 ever                 RR              6 
 SEPT._17             NPM1            6 
 Mrs._Clinton         NNB             6 
-Clinton              NP1             6 
 all                  DB              5 
 but                  CCB             5 
-they                 PPHS2           5 
-Mr._Trumps           NNB             5 
 republican           NN1             5 
 did                  VDD             5 
-nt                   XX              5 
+n't                  XX              5 
 OHIO                 NP1             5 
 no                   AT              5 
 her                  APPGE           5 
@@ -70,7 +70,6 @@ had                  VHD             4
 american             JJ              4 
 only                 RR              4 
 who                  PNQS            4 
-its                  APPGE           4 
 presidential         JJ              4 
 by                   II              4 
 would                VM              4 
@@ -95,6 +94,7 @@ after                II              3
 anchor               NN1             3 
 President            NNB             3 
 first                MD              3 
+'s                   VBZ             3 
 same                 DA              3 
 SEPT._21             NPM1            3 
 immigration          NN1             3 
@@ -109,9 +109,11 @@ democrat             NN1             3
 registered           JJ              3 
 some                 DD              3 
 SEPT._16             NPM1            3 
+Obama                NP1             3 
 power                NN1             3 
 countries            NN2             3 
 foreign              JJ              3 
+country              NN1             3 
 NEW_HAMPSHIRE        NP1             3 
 Hillary_Clinton      NP1             2 
 twitter              VV0             2 
@@ -122,6 +124,7 @@ virtually            RR              2
 as                   II              2 
 repeatedly           RR              2 
 appeared             VVD             2 
+what                 DDQ             2 
 called               VVN             2 
 responses            NN2             2 
 tells                VVZ             2 
@@ -156,6 +159,7 @@ voters               NN2             2
 America              NP1             2 
 we                   PPIS2           2 
 article              NN1             2 
+its                  APPGE           2 
 other                JJ              2 
 also                 RR              2 
 party                NN1             2 
@@ -178,14 +182,12 @@ these                DD2             2
 using                VVG             2 
 hammer               NN1             2 
 proposing            VVG             2 
-country              NN1             2 
 cut                  VVI             2 
 syrian               JJ              2 
 year                 NNT1            2 
 youth                NN1             2 
 dangerous            JJ              2 
 being                VBG             2 
-Obama                NP1             2 
 administration       NN1             2 
 than                 CSN             2 
 more                 RGR             2 
@@ -270,7 +272,6 @@ humor                NN1             1
 delivered            VVD             1 
 purely               RR              1 
 effect               NN1             1 
-what                 DDQ             1 
 could                VM              1 
 generously           RR              1 
 rounding             JJ              1 
@@ -373,11 +374,10 @@ Saddam_Hussein       NP1             1
 situation            NN1             1 
 2000                 MC              1 
 7you                 FO              1 
-whats                NN2             1 
 happening            VVG             1 
 numbers              NN2             1 
 african-americans    NN2             1 
-theyre               NN1             1 
+'re                  VBR             1 
 like                 RR              1 
 high                 JJ              1 
 African-Americans.   NP1             1 
@@ -502,7 +502,6 @@ controversy          NN1             1
 finished             VVD             1 
 WASHINGTON           NP1             1 
 questioned           VVD             1 
-Obamas               NP1             1 
 birthplace           NN1             1 
 cause                NN1             1 
 five                 MC              1 
@@ -592,7 +591,6 @@ funding              NN1             1
 border               NN1             1 
 patrol               NN1             1 
 24hillary            FO              1 
-Clintons             NP2             1 
 plan                 NN1             1 
 bring_in             VVI             1 
 620,000              MC              1 
@@ -623,7 +621,6 @@ routinely            RR              1
 overstates           VVZ             1 
 scale                NN1             1 
 nature               NN1             1 
-countrys             NN2             1 
 economic             JJ              1 
 distress             NN1             1 
 threats              NN2             1 
@@ -639,7 +636,7 @@ communities          NN2             1
 absolutely           RR              1 
 worst                JJT             1 
 shape                NN1             1 
-theyve               VV0             1 
+'ve                  VH0             1 
 in                   RP              1 
 measurement          NN1             1 
 supports             VVZ             1 
@@ -697,7 +694,7 @@ outside              II              1
 United_States        NP1             1 
 mark                 VV0             1 
 fields               NN2             1 
-Fords                NP2             1 
+Ford                 NP1             1 
 chief_executive      JJ              1 
 cutting              VVG             1 
 30we                 FO              1 

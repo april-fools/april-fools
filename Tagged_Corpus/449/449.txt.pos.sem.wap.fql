@@ -1,4 +1,4 @@
-TOTAL              394
+TOTAL              397
 the                  AT             26 
 a                    AT1            13 
 of                   IO             13 
@@ -19,6 +19,7 @@ i                    PPIS1           3
 is                   VBZ             3 
 who                  PNQS            3 
 Kung                 NP1             3 
+'s                   GE              3 
 or                   CC              3 
 no                   AT              3 
 were                 VBDR            3 
@@ -132,8 +133,8 @@ assured              VVD             1
 him                  PPHO1           1 
 able                 JK              1 
 deliver              VVI             1 
-parks                NN2             1 
-star                 VV0             1 
+park                 NN1             1 
+star                 NN1             1 
 in_time              II              1 
 March_2017           NPM1            1 
 grand                JJ              1 
@@ -142,19 +143,19 @@ of_course            RR21            1
 Loch_Ness            NNL1            1 
 join                 VVI             1 
 ranks                NN2             1 
-worlds               NN2             1 
+world                NN1             1 
 most                 RGT             1 
 sought-after         JJ              1 
 attractions          NN2             1 
 such_as              II21            1 
-Kona                 NP1             1 
-Hawaiis              NP2             1 
+Kona_Hawaii          NP1             1 
 famous               JJ              1 
 scenic               JJ              1 
 urinal               NN1             1 
 ruins                NN2             1 
 Chernobyl            NP1             1 
-its                  APPGE           1 
+it                   PPH1            1 
+'s                   VBZ             1 
 extremely            RR              1 
 important            JJ              1 
 consider             VVI             1 

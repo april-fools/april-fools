@@ -75,7 +75,7 @@ def train_classify(tables, classifier, groups=['all'], scaler=StandardScaler(), 
     # predicted = [1 for x in range(len(training_labels))]
 
     score = metrics.f1_score(training_labels, predicted, pos_label=1)
-    precision = metrics.average_precision_score(training_labels, predicted)
+    precision = metrics.precision_score(training_labels, predicted, pos_label=1)
     recall = metrics.recall_score(training_labels, predicted)
     accuracy = metrics.accuracy_score(training_labels, predicted)
 
@@ -91,6 +91,8 @@ def train_classify(tables, classifier, groups=['all'], scaler=StandardScaler(), 
 
     if confusion:
         print(confusion_matrix(training_labels, predicted))
+
+    man_met = manual_metrics(training_labels, predicted)
 
     return predicted
 
@@ -298,7 +300,7 @@ def create_crossval_table(classifier=LinearSVC()):
 
     results_df.at['top_6', :] = results.values()
 
-    for table in ['feats', 'bow']:
+    for table in ['feats', 'bow', 'bop', 'function_words']:
         print("\n{}".format(table))
 
         predicted = train_classify([table], classifier)
@@ -310,6 +312,18 @@ def create_crossval_table(classifier=LinearSVC()):
         results['f1'] = metrics.f1_score(training_labels, predicted, pos_label=1)
 
         results_df.at[table, :] = results.values()
+
+    print("\nbop + func")
+
+    predicted = train_classify(['bop', 'function_words'], classifier)
+
+    results = dict()
+    results['precision'] = metrics.average_precision_score(training_labels, predicted)
+    results['recall'] = metrics.recall_score(training_labels, predicted)
+    results['accuracy'] = metrics.accuracy_score(training_labels, predicted)
+    results['f1'] = metrics.f1_score(training_labels, predicted, pos_label=1)
+
+    results_df.at['bop + func', :] = results.values()
 
     print("\nbow + feats")
 
@@ -397,7 +411,7 @@ def create_fake_crossval_table(classifier=LinearSVC()):
 
     results_df.at['top_6', :] = results.values()
 
-    for table in ['fake_news_feats', 'fake_news_bow']:
+    for table in ['fake_news_feats', 'fake_news_bow', 'fake_news_bop', 'fake_news_function_words']:
         print("\n{}".format(table))
 
         predicted = train_classify([table], classifier)
@@ -409,6 +423,18 @@ def create_fake_crossval_table(classifier=LinearSVC()):
         results['f1'] = metrics.f1_score(training_labels, predicted, pos_label=1)
 
         results_df.at[table, :] = results.values()
+
+    print("\nbop + func")
+
+    predicted = train_classify(['fake_news_bop', 'fake_news_function_words'], classifier)
+
+    results = dict()
+    results['precision'] = metrics.average_precision_score(training_labels, predicted)
+    results['recall'] = metrics.recall_score(training_labels, predicted)
+    results['accuracy'] = metrics.accuracy_score(training_labels, predicted)
+    results['f1'] = metrics.f1_score(training_labels, predicted, pos_label=1)
+
+    results_df.at['bop + func', :] = results.values()
 
     print("\nbow + feats")
 
@@ -540,3 +566,39 @@ def bayesian_optimisation_svc(tables, groups=['all']):
     plt.axhline(y=.68, linewidth=2, color='red')
     plt.show()
     return opt.x_opt
+
+
+def manual_metrics(labels, predictions, pos_val=1):
+    confusion = pd.DataFrame(columns=['True_NAF', 'True_AF'])
+    confusion.loc["Pred_NAF", :] = [0, 0]
+    confusion.loc["Pred_AF", :] = [0, 0]
+
+    fn, fp, tn, tp = 0, 0, 0, 0
+    for lab, pred in zip(labels, predictions):
+        # if the prediction was correct
+        if lab == pred:
+            # correct and positive
+            if pred == pos_val:
+                tp += 1
+                confusion.loc['Pred_AF', 'True_AF'] += 1
+            # correct and negative
+            else:
+                tn += 1
+                confusion.loc['Pred_NAF', 'True_NAF'] += 1
+        # if prediction was false
+        else:
+            # false and positive
+            if pred == pos_val:
+                fp += 1
+                confusion.loc['Pred_AF', 'True_NAF'] += 1
+            # false and negative
+            else:
+                fn += 1
+                confusion.loc['Pred_NAF', 'True_AF'] += 1
+
+    out = dict()
+    out["precision"] = tp / (tp + fp)
+    out["recall"] = tp / (tp + fn)
+    out["accuracy"] = (tp + tn) / (tp + fn + fp + tn)
+    return out
+

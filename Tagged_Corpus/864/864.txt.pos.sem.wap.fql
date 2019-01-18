@@ -1,17 +1,17 @@
-TOTAL              983
+TOTAL              990
 the                  AT             72 
 in                   II             32 
 a                    AT1            25 
-Toyota               NP1            22 
+Toyota               NP1            25 
 of                   IO             19 
 to                   TO             18 
-it                   PPH1           16 
+it                   PPH1           17 
 that                 CST            16 
 said                 VVD            15 
+company              NN1            13 
 for                  IF             13 
 and                  CC             13 
 fine                 JJ             11 
-company              NN1            11 
 had                  VHD             9 
 has                  VHZ             9 
 be                   VBI             9 
@@ -22,23 +22,23 @@ safety               NN1             6
 not                  XX              6 
 could                VM              6 
 on                   II              6 
+'s                   GE              6 
 recalls              VVZ             6 
 would                VM              5 
 government           NN1             5 
 by                   II              5 
 from                 II              5 
+agency               NN1             5 
 is                   VBZ             5 
 about                II              4 
 problems             NN2             4 
 pedals               NN2             4 
 are                  VBR             4 
 we                   PPIS2           4 
-its                  APPGE           4 
 officials            NN2             4 
 documents            NN2             4 
 United_States        NP1             4 
 if                   CS              4 
-agency               NN1             4 
 investigation        NN1             4 
 was                  VBDZ            4 
 Monday               NPD1            3 
@@ -49,6 +49,7 @@ which                DDQ             3
 two                  MC              3 
 penalty              NN1             3 
 yet                  RR              3 
+its                  APPGE           3 
 statement            NN1             3 
 defect               NN1             3 
 showed               VVD             3 
@@ -61,7 +62,6 @@ to                   II              3
 have                 VHI             3 
 received             VVN             3 
 our                  APPGE           3 
-Toyotas              NP2             3 
 more                 DAR             3 
 than                 CSN             3 
 at                   II              3 
@@ -121,7 +121,6 @@ sales                NN              2
 sold                 VVN             2 
 hearings             NN2             2 
 winter               NNT1            2 
-companys             NN2             2 
 those                DD2             2 
 accidents            NN2             2 
 during               II              2 
@@ -326,7 +325,6 @@ violations           NN2             1
 find                 VV0             1 
 ongoing              JJ              1 
 David_Strickland     NP1             1 
-agencys              NN2             1 
 administrator        NN1             1 
 decided              VVD             1 
 based_on             VVN             1 
@@ -419,6 +417,7 @@ research             NN1             1
 organization         NN1             1 
 questioned           VVD             1 
 effective            JJ              1 
+'s                   VBZ             1 
 good                 JJ              1 
 news                 NN1             1 
 regulator            NN1             1 

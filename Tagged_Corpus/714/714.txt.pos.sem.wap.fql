@@ -1,4 +1,4 @@
-TOTAL              839
+TOTAL              843
 the                  AT             55 
 of                   IO             30 
 to                   TO             27 
@@ -26,7 +26,6 @@ groups               NN2             5
 an                   AT1             5 
 his                  APPGE           5 
 has                  VHZ             5 
-its                  APPGE           5 
 customers            NN2             5 
 more                 RGR             5 
 have                 VH0             5 
@@ -34,7 +33,9 @@ our                  APPGE           5
 or                   CC              4 
 telecoms_industry    NN              4 
 russian              JJ              4 
+its                  APPGE           4 
 companies            NN2             4 
+company              NN1             4 
 business             NN1             4 
 with                 IW              4 
 from                 II              4 
@@ -46,13 +47,14 @@ letterone            VV0             3
 group                NN1             3 
 many                 DA2             3 
 they                 PPHS2           3 
-company              NN1             3 
 Russia               NP1             3 
 Italy                NP1             3 
 needs                VVZ             3 
 digital              JJ              3 
 at                   II              3 
+it                   PPH1            3 
 do                   VDI             3 
+Mr_Fridman           NNB             3 
 make                 VVI             3 
 services             NN2             3 
 information          NN1             3 
@@ -79,13 +81,13 @@ Ukraine              NP1             2
 complete             JJ              2 
 revamp               NN1             2 
 opportunity          NN1             2 
+'s                   GE              2 
 two-thirds           MF              2 
 10,000               MC              2 
-it                   PPH1            2 
+'s                   VBZ             2 
 able                 JK              2 
 vimpelcom            VV0             2 
 year                 NNT1            2 
-Mr_Fridman           NNB             2 
 years                NNT2            2 
 could                VM              2 
 multiple             NN1             2 
@@ -180,7 +182,6 @@ Pakistan             NP1             1
 sees                 VVZ             1 
 substantially        RR              1 
 increase             VVI             1 
-companys             NN2             1 
 value                NN1             1 
 stripping            VVG             1 
 as_much_as           RG              1 
@@ -204,7 +205,7 @@ complex              JJ              1
 arrangements         NN2             1 
 whole                JJ              1 
 thing                NN1             1 
-thats                VVZ             1 
+that                 DD1             1 
 only                 JJ              1 
 way                  NN1             1 
 estimates            VVZ             1 
@@ -304,7 +305,6 @@ charge               NN1             1
 more                 RRR             1 
 improve              VV0             1 
 overseen             VVN             1 
-Mr_Fridmans          NNB             1 
 various              JJ              1 
 holding              NN1             1 
 since                II              1 

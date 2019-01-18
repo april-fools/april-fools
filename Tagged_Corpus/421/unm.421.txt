@@ -10,5 +10,4 @@ Pro-MT                   JJ      Z99
 RC                       NP1     Z99 
 rumored                  VVN@    Z99 
 T-Maxx                   NP1     Z99 
-theyre                   NN1     Z99 
 Traxxas                  NN2@    Z99 

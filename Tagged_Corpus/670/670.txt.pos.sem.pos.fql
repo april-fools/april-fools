@@ -1,7 +1,7 @@
-TOTAL        1000
-NN1           152 
-JJ             94 
-NN2            94 
+TOTAL        1004
+NN1           154 
+JJ             96 
+NN2            92 
 AT             87 
 II             60 
 IO             28 
@@ -17,10 +17,10 @@ AT1            15
 CST            15 
 VVG            15 
 TO             14 
-VV0            13 
 VVZ            13 
 CS             12 
 APPGE          12 
+VV0            11 
 VBZ            11 
 VBI            10 
 JJR            10 
@@ -43,6 +43,7 @@ VBR             4
 RG              4 
 CCB             4 
 DA1             4 
+GE              4 
 PPHO2           3 
 EX              3 
 NNU2            3 
@@ -77,7 +78,7 @@ MC1             1
 PN1             1 
 RR21            1 
 DD              1 
-ND1             1 
+NN              1 
 MD              1 
 RRR             1 
 VD0             1 

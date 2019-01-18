@@ -1,10 +1,10 @@
-TOTAL              637
+TOTAL              643
 the                  Z5                  34 
 and                  Z5                  27 
 of                   Z5                  26 
 to                   Z5                  22 
 in                   Z5                  15 
-initiative           A1.1.1              11 
+initiative           A1.1.1              13 
 for                  Z5                  11 
 systems              X4.2                11 
 a                    Z5                   9 
@@ -18,11 +18,12 @@ as                   Z5                   6
 are                  A3+                  5 
 new                  T3-                  5 
 how                  Z5                   5 
+we                   Z8                   5 
+that                 Z8                   5 
 are                  Z5                   5 
 technology           Y1                   5 
 program              Y2                   4 
 global               Z3                   4 
-that                 Z8                   4 
 is                   A3+                  4 
 be                   Z5                   4 
 on                   Z5                   4 
@@ -30,7 +31,7 @@ artificial_intelligence Y2                   3
 ai                   B3                   3 
 industry             I4                   3 
 conduct              S1.1.1               3 
-we                   Z8                   3 
+'s                   Z5                   3 
 technologies         Y1                   3 
 is                   Z5                   3 
 considerations       X4.1                 3 
@@ -45,9 +46,10 @@ consideration        X2.1                 2
 by                   Z5                   2 
 now                  T1.1.2               2 
 however              Z4                   2 
+should               S6+                  2 
 but                  Z5                   2 
 robotics             Y2                   2 
-were                 A3+                  2 
+'re                  A3+                  2 
 designed             C1                   2 
 help                 S8+                  2 
 humanity             S1.2.1+              2 
@@ -73,7 +75,6 @@ committees           S7.1+                2
 provide              A9-                  2 
 open                 A10+                 2 
 committee            S7.1+                2 
-initiatives          A1.1.1               2 
 representatives      Q2.1                 2 
 from                 Z5                   2 
 other                A6.1-                2 
@@ -109,13 +110,11 @@ safety               A15+                 1
 and_so_on            Z4                   1 
 have                 Z5                   1 
 changed              A2.1+                1 
-should               S6+                  1 
 define               Q2.2                 1 
 before               Z5                   1 
 anyone               Z8                   1 
 brings_up            M2                   1 
-Isaac                Z1                   1 
-Asimovs              Z99                  1 
+Isaac_Asimov         Z1                   1 
 three                N1                   1 
 laws                 G2.1                 1 
 not                  Z6                   1 
@@ -141,7 +140,7 @@ pragmatically        S1.2.6+              1
 implement            A1.1.1               1 
 without              Z5                   1 
 hindering            S8-                  1 
-thats                Z5                   1 
+'s                   A3+                  1 
 what                 Z8                   1 
 here                 M6                   1 
 figure_out           X2.5+                1 
@@ -229,7 +228,7 @@ experts              X2.2+                1
 strategic            X7+                  1 
 guidance             S8+                  1 
 activities           A1.1.1               1 
-overall              A14                  1 
+overall              N5.1+                1 
 work                 I3.1                 1 
 already              T1.1.1               1 
 include              A1.8+                1 
@@ -243,7 +242,7 @@ among                Z5                   1
 universities         P1                   1 
 aspiring             X7+                  1 
 innovators           T3-                  1 
-shouldnt             Z99                  1 
+n't                  Z6                   1 
 discouraged          S8-                  1 
 joining              A2.2                 1 
 aims                 X7+                  1 

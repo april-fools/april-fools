@@ -51,10 +51,12 @@
 0000004 290  IO      of                       Z5 
 0000004 300  AT      the                      Z5 
 0000004 310  NP1     US                       Z8 
-0000004 320  VVZ     womens                   S2.1f 
+0000004 320  NN2     women                    S2.1f 
+0000004 321  GE      's                       Z5 
 0000004 330  JJ      national                 M7/N5.1+ 
 0000004 340  NN1     soccer                   K5.1/S5+c[i3.2.1 K5.1 
-0000004 350  NN2     teams                    K5.1/S5+c[i3.2.2 S5+ K5.1/S5+ 
+0000004 350  NN1     team                     K5.1/S5+c[i3.2.2 
+0000004 351  GE      's                       Z5 
 0000004 360  RR      radiantly                O4.2+ O4.3 
 0000004 370  JJ      ambitious                X7+ 
 0000004 380  NN1     history                  T1.1.1 P1/T1.1.1 Q2.1 B2 
@@ -78,8 +80,9 @@
 0000004 530  AT      the                      Z5 
 0000004 540  NN1     top                      M6 N4 N5.1+ O2 B5 K6 N5.1- 
 0000004 550  IO      of                       Z5 
-0000004 560  DD1     this                     Z8 M6 Z5 
-0000004 570  VVZ     nations                  G1.1c S5+c 
+0000004 560  DD1     this                     M6 Z5 Z8 
+0000004 570  NN1     nation                   G1.1c S5+c 
+0000004 571  GE      's                       Z5 
 0000004 580  NN1     soccer                   K5.1 
 0000004 590  NN1     world                    W1 S5+c A4.1 N5+ 
 0000004 591  .       .                        
@@ -113,8 +116,9 @@
 0000004 820  NN2     counterparts             A6.1+ 
 0000004 821  .       .                        
 0000004 822  -----   -----                    
-0000004 830  DD1     This                     M6 Z5 Z8 
-0000004 840  NN1     wasnt                    Z99 
+0000004 830  DD1     This                     Z8 M6 Z5 
+0000004 840  VBDZ    was                      Z5 A3+ 
+0000004 841  XX      n't                      Z6 
 0000004 850  RR      merely                   A13.6 A14 
 0000004 860  VVN     accomplished             X9.2+ 
 0000004 870  II      through                  Z5 
@@ -128,7 +132,8 @@
 0000004 950  NN1     struggle                 X8+ A12- E3- 
 0000004 951  .       .                        
 0000004 952  -----   -----                    
-0000004 960  NN2     Thats                    Z5 Z8 A13.3 A6.1+ 
+0000004 960  DD1     That                     Z8 Z5 
+0000004 961  VBZ     's                       A3+ Z5 
 0000004 970  RRQ     why                      A2.2 
 0000004 980  AT      the                      Z5 
 0000004 990  JJ      nuclear                  Y1 B1 S5+% 
@@ -188,7 +193,8 @@
 0000004 480  NN1     narrative                Q2.1 
 0000004 490  IO      of                       Z5 
 0000004 500  RRQ     how                      Z5 A13.3 
-0000004 510  NN2     womens                   S2.1f 
+0000004 510  NN2     women                    S2.1f 
+0000004 511  GE      's                       Z5 
 0000004 520  NN1     soccer                   K5.1 
 0000004 530  VHZ     has                      Z5 A9+ A2.2 S4 
 0000004 540  VVN     developed                A2.1+ T2+ A5.1+/A2.1 N3.2+/A2.1 H1 A9+ C1 
@@ -208,7 +214,8 @@
 0000006 090  NN1     sequestration            A9+/G2.1 S5- 
 0000006 091  ,       ,                        
 0000006 100  NP1     US                       Z8 
-0000006 110  VVZ     womens                   S2.1f 
+0000006 110  NN2     women                    S2.1f 
+0000006 111  GE      's                       Z5 
 0000006 120  NN1     team                     S5+c K5.1/S5+c S5+ 
 0000006 130  NN2     co-captains              Z99 
 0000006 140  NP1     Carli                    Z1mf[i6.2.1 Z3c[i6.2.1 
@@ -327,8 +334,9 @@
 0000008 180  NNO     million                  N1[i14.2.2 T1.3[i14.2.2 I1[i14.2.2 N1 I1 
 0000008 181  .       .                        
 0000008 182  -----   -----                    
-0000008 190  VVZ     Thats                    Z5 Z8 A13.3 A6.1+ 
-0000008 200  RGQ@    how                      Z5 A13.3 
+0000008 190  DD1     That                     Z8 Z5 
+0000008 191  VBZ     's                       A3+ Z5 
+0000008 200  RRQ     how                      Z5 A13.3 
 0000008 210  DA2     many                     N5+ 
 0000008 220  DAR     more                     N5++ 
 0000008 230  NNU2    dollars                  I1 
@@ -342,7 +350,8 @@
 0000008 310  VVN     compared                 A6.1 A5.1 Q3 
 0000008 320  II      to                       Z5 
 0000008 330  AT      the                      Z5 
-0000008 340  NN2     mens                     S2.2m 
+0000008 340  NN2     men                      S2.2m 
+0000008 341  GE      's                       Z5 
 0000008 350  NN1     team                     S5+c K5.1/S5+c S5+ 
 0000008 351  ,       ,                        
 0000008 360  CS      while                    Z5 
@@ -361,12 +370,14 @@
 0000008 490  NN2     bonuses                  I1.1+ A5.1++ X2.6- 
 0000008 491  .       .                        
 0000008 492  -----   -----                    
-0000008 500  NN2     Thats                    Z5 Z8 A13.3 A6.1+ 
+0000008 500  DD1     That                     Z8 Z5 
+0000008 501  VBZ     's                       A3+ Z5 
 0000008 510  II21    according                Z5[i16.2.1 Z5 
 0000008 520  II22    to                       Z5[i16.2.2 Z5 
 0000008 530  NP1     US                       Z8 
-0000008 540  NN2     Soccers                  K5.1 
-0000008 550  VV0@    own                      A9+ 
+0000008 540  NN1     Soccer                   K5.1 
+0000008 541  GE      's                       Z5 
+0000008 550  DA      own                      A9+ S5- 
 0000008 560  JJ      financial                I1 
 0000008 570  NN2     reports                  Q2.2 X3.2 
 0000008 571  .       .                        
@@ -378,7 +389,8 @@
 0000008 620  NNO     million                  N1 I1 
 0000008 621  .       .                        
 0000008 622  -----   -----                    
-0000008 630  VVZ     Thats                    Z5 Z8 A13.3 A6.1+ 
+0000008 630  DD1     That                     Z8 Z5 
+0000008 631  VBZ     's                       A3+ Z5 
 0000008 640  AT      the                      Z5 
 0000008 650  NN1     number                   N5 N1 Q1.3 K2 Q4.2 
 0000008 660  IO      of                       Z5 
@@ -434,12 +446,14 @@
 0000008 120  NN1     road                     M1[i22.3.3 M3 X4.2 
 0000008 121  .       .                        
 0000009 001  -----   -----                    
-0000010 010  APPGE   Its                      Z8 
+0000010 010  PPH1    It                       Z8 
+0000010 011  VBZ     's                       A3+ Z5 
 0000010 020  JJ      petty                    A11.1- N3.2- 
 0000010 021  ,       ,                        
 0000010 030  CC      and                      Z5 
 0000010 040  AT      the                      Z5 
-0000010 050  NN2     womens                   S2.1f 
+0000010 050  NN2     women                    S2.1f 
+0000010 051  GE      's                       Z5 
 0000010 060  JJ      national                 M7/N5.1+ 
 0000010 070  NN1     team                     S5+c K5.1/S5+c S5+ 
 0000010 080  VHZ     has                      Z5 A9+ A2.2 S4 
@@ -450,7 +464,8 @@
 0000010 110  RR      Perhaps                  A7 
 0000010 120  VBZ     is                       A3+ Z5 
 0000010 130  RRQ     why                      A2.2 
-0000010 140  NN2     mens                     S2.2m 
+0000010 140  NN2     men                      S2.2m 
+0000010 141  GE      's                       Z5 
 0000010 150  NN1     goalie                   K5.1/S2mf 
 0000010 160  NP1     Tim                      Z1mf[i23.2.1 Z3c[i23.2.1 Z1m 
 0000010 170  NP1     Howard                   Z1mf[i23.2.2 Z3c[i23.2.2 Z1mf 
@@ -536,7 +551,8 @@
 0000012 110  VVI     ensure                   A7+ 
 0000012 120  NN1     equality                 A6.1+ 
 0000012 130  II      in                       Z5 
-0000012 140  NN2     womens                   S2.1f 
+0000012 140  NN2     women                    S2.1f 
+0000012 141  GE      's                       Z5 
 0000012 150  NN1     soccer                   K5.1 
 0000012 151  .       .                        
 0000012 152  -----   -----                    
@@ -552,8 +568,9 @@
 0000014 080  NN1     REPORTING                Q2.2 S7.1- 
 0000014 090  CC      AND                      Z5 
 0000014 100  NN1     ANALYSIS                 X2.4 Y1 
-0000016 010  DD1     This                     Z8 M6 Z5 
-0000016 020  VVZ     teams                    S5+ 
+0000016 010  DD1     This                     M6 Z5 Z8 
+0000016 020  NN1     team                     S5+c K5.1/S5+c S5+ 
+0000016 021  GE      's                       Z5 
 0000016 030  NN2     actions                  A1.1.1 G3 
 0000016 040  VH0     have                     S6+[i28.2.1 A9+ Z5 A2.2 S4 
 0000016 050  TO      to                       S6+[i28.2.2 Z5 
@@ -636,7 +653,8 @@
 0000016 731  .       .                        
 0000016 732  NULL    <quote>                  
 0000016 733  -----   -----                    
-0000016 740  NP1     Mens                     S2.2m 
+0000016 740  NN2     Men                      S2.2m 
+0000016 741  GE      's                       Z5 
 0000016 750  NN1     soccer                   K5.1 
 0000016 760  VVD     got                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
 0000016 770  DB      all                      N5.1+ 
@@ -646,7 +664,8 @@
 0000016 810  NN1     respect                  S7.2+ A4.1 
 0000016 811  .       .                        
 0000016 812  -----   -----                    
-0000016 820  NN2     Thats                    Z5 Z8 A13.3 A6.1+ 
+0000016 820  DD1     That                     Z8 Z5 
+0000016 821  VBZ     's                       A3+ Z5 
 0000016 830  RR      just                     A14 T3--- T1.3- N3.3--- 
 0000016 840  AT      the                      Z5 
 0000016 850  NN1     way                      X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
@@ -723,7 +742,8 @@
 0000016 380  VVD     held                     M2 A1.1.1 A9+ X2.1 S7.1+/A1.7+ 
 0000016 390  AT      the                      Z5 
 0000016 400  MD      first                    N4 
-0000016 410  VVZ     womens                   S2.1f 
+0000016 410  NN2     women                    S2.1f 
+0000016 411  GE      's                       Z5 
 0000016 420  NN1     world                    K5.1[i36.2.1 W1 S5+c A4.1 N5+ K5.1[i37.2.1 
 0000016 430  NN1     cup                      K5.1[i36.2.2 O2 S7.3+ A5.1+/O2 K5.1[i37.2.2 
 0000016 440  II      in                       Z5 
@@ -764,8 +784,9 @@
 0000016 741  .       .                        
 0000016 742  NULL    </quote>                 
 0000016 743  -----   -----                    
-0000016 750  DD1     That                     Z8 Z5 
-0000016 760  VVZ     womens                   S2.1f 
+0000016 750  CST     That                     Z5 Z8 
+0000016 760  NN2     women                    S2.1f 
+0000016 761  GE      's                       Z5 
 0000016 770  NN1     team                     S5+c K5.1/S5+c S5+ 
 0000016 780  VVD     dominated                S7.1+ A11.1+ A11.2+ 
 0000016 781  ,       ,                        
@@ -913,7 +934,8 @@
 0000018 031  .       .                        
 0000018 032  -----   -----                    
 0000018 040  AT      The                      Z5 
-0000018 050  NN2     womens                   S2.1f 
+0000018 050  NN2     women                    S2.1f 
+0000018 051  GE      's                       Z5 
 0000018 060  NN1     team                     S5+c K5.1/S5+c S5+ 
 0000018 070  VBDZ    was                      Z5 A3+ 
 0000018 080  VVG     getting                  A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
@@ -980,7 +1002,8 @@
 0000018 600  IO      of                       Z5 
 0000018 610  AT      the                      Z5 
 0000018 620  JJ      first-ever               N4 
-0000018 630  NN2     womens                   S2.1f 
+0000018 630  NN2     women                    S2.1f 
+0000018 631  GE      's                       Z5 
 0000018 640  JJ      athletic                 K5.1 
 0000018 650  NN1     union                    I3.1/S5+c S5+c S4 Z3c 
 0000018 651  .       .                        
@@ -993,11 +1016,12 @@
 0000018 690  PPY     you                      Z8mf 
 0000018 700  RR      just                     A14 T3--- T1.3- N3.3--- 
 0000018 710  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000018 711  XX      nt                       S9/Q4.1 Z3c 
+0000018 711  XX      n't                      Z6 
 0000018 720  VVI     play                     K1 K5.1 K5.2 K2 K3 A1.1.1 K6 
 0000018 721  .       .                        
 0000018 722  -----   -----                    
-0000018 730  VVZ     Thats                    Z5 Z8 A13.3 A6.1+ 
+0000018 730  DD1     That                     Z8 Z5 
+0000018 731  VBZ     's                       A3+ Z5 
 0000018 740  AT      the                      Z5 
 0000018 750  JJ      only                     A14 
 0000018 760  NN1     leverage                 M2 S7.1+ 
@@ -1048,8 +1072,9 @@
 0000020 210  VVD     taught                   P1 
 0000020 220  PPIO2   us                       Z8 
 0000020 230  CST     that                     Z5 Z8 
-0000020 240  DD1     this                     M6 Z5 Z8 
-0000020 250  NN1     wasnt                    Z99 
+0000020 240  DD1     this                     Z8 M6 Z5 
+0000020 250  VBDZ    was                      A3+ Z5 
+0000020 251  XX      n't                      Z6 
 0000020 260  AT1     an                       Z5 
 0000020 270  NN1     issue                    X4.1 Q4.2 S4 A9- 
 0000020 280  IF      for                      Z5 
@@ -1263,12 +1288,14 @@
 0000024 840  IF      for                      Z5 
 0000024 850  DB      all                      N5.1+ 
 0000024 860  IO      of                       Z5 
-0000024 870  NN2     womens                   S2.1f 
+0000024 870  NN2     women                    S2.1f 
+0000024 871  GE      's                       Z5 
 0000024 880  NN2     sports                   K5.1 
 0000024 881  .       .                        
 0000024 882  -----   -----                    
 0000024 890  CC      And                      Z5 
-0000024 900  NN2     thats                    Z5 Z8 A13.3 A6.1+ 
+0000024 900  DD1     that                     Z8 Z5 
+0000024 901  VBZ     's                       A3+ Z5 
 0000024 910  DDQ     what                     Z8 Z5 
 0000024 920  VVZ     makes                    X9.2+[i61.2.1 M1[i61.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
 0000024 930  PPH1    it                       X9.2+[i61.2.2 M1[i61.2.2 Z8 

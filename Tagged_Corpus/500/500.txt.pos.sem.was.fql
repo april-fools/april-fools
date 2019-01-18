@@ -1,4 +1,4 @@
-TOTAL              427
+TOTAL              432
 to                   Z5                  16 
 will                 T1.1.3              12 
 the                  Z5                  12 
@@ -12,15 +12,17 @@ one                  N1                   6
 they                 Z8                   6 
 visa                 Q1.2                 6 
 in                   Z5                   6 
+Japan                Z2                   5 
 that                 Z8                   5 
-Japan                Z2                   4 
 for                  Z5                   4 
 with                 Z5                   4 
+it                   Z8                   4 
 foreign              M7                   4 
 be                   Z5                   4 
 this                 M6                   3 
+'s                   Z5                   3 
+government           G1.1                 3 
 however              Z4                   3 
-it                   Z8                   3 
 japanese             Z2                   3 
 AFB                  Z99                  3 
 at_least             A13.7                3 
@@ -33,7 +35,6 @@ now                  T1.1.2               2
 by                   Z5                   2 
 but                  Z5                   2 
 successful           X9.2+                2 
-governments          G1.1                 2 
 family               S4                   2 
 residents            H4                   2 
 allow                S7.4+                2 
@@ -54,6 +55,7 @@ than                 Z5                   2
 not                  Z6                   2 
 are                  Z5                   2 
 naruto               Z99                  2 
+you                  Z8                   2 
 saying               Q2.1                 2 
 were                 Z5                   2 
 what                 Z8                   2 
@@ -62,7 +64,6 @@ attempt              X8+                  1
 its_own              Z8                   1 
 baby                 T3--                 1 
 boom                 N5++                 1 
-Japans               Z2                   1 
 rapidly              N3.8+                1 
 aging                T3                   1 
 population           S2                   1 
@@ -74,7 +75,6 @@ decades              T1.3                 1
 there                Z5                   1 
 several              N5                   1 
 attempts             X8+                  1 
-government           G1.1                 1 
 try                  X8+                  1 
 alleviate            A5.1+                1 
 issue                X4.1                 1 
@@ -201,11 +201,11 @@ official             G1.1                 1
 certification_exam   P1                   1 
 b-but                Z99                  1 
 sakura-chan          Z99                  1 
-youre                Z99                  1 
+'re                  A3+                  1 
 married              S4                   1 
 Sasuke               Z99                  1 
 dattebayo            Z99                  1 
-its                  Z8                   1 
+'s                   A3+                  1 
 okay                 Z4                   1 
 i                    Z8                   1 
 sakura               Z99                  1 
@@ -240,7 +240,7 @@ once                 N6-                  1
 detractors           Q2.2                 1 
 realized             X2.5+                1 
 we                   Z8                   1 
-nt                   S9                   1 
+n't                  Z6                   1 
 want                 X7+                  1 
 thousands            N1                   1 
 women                S2.1                 1 
@@ -249,7 +249,6 @@ intent               X7+                  1
 oh                   Z4                   1 
 yeah                 Z4                   1 
 never_mind           Z4                   1 
-you                  Z8                   1 
 picking_up           M2                   1 
 of_your_own          A9+                  1 
 more                 A13.3                1 

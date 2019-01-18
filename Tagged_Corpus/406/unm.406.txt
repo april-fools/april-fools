@@ -4,7 +4,6 @@
 8GB                      FO      Z99 
 A7                       FO      Z99 
 Acer                     NN      Z99 
-Acers                    NN2     Z99 
 Bluetooth                NP1     Z99 
 HD                       NP1     Z99 
 homescreen               JJ      Z99 
@@ -17,7 +16,6 @@ microSD                  NN1     Z99
 Noodle                   VV0     Z99 
 quad-core                NN1     Z99 
 S5                       FO      Z99 
-shouldnt                 NN1     Z99 
 smartphone               NN1     Z99 
 smartphones              NN2     Z99 
 Snapdragon               NN1     Z99 

@@ -1,4 +1,4 @@
-TOTAL              288
+TOTAL              289
 the                  AT             23 
 and                  CC              8 
 a                    AT1             8 
@@ -107,7 +107,8 @@ high-order           JJ              1
 harmonic             JJ              1 
 products             NN2             1 
 intermodulate        VV0             1 
-earths               NN2             1 
+earth                NN1             1 
+'s                   GE              1 
 magnetic             JJ              1 
 field                NN1             1 
 during               II              1 

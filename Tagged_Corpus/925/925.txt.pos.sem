@@ -737,7 +737,8 @@
 0000032 380  NN1     sector                   A4.1 S5+ M7 N2@ 
 0000032 390  IO      of                       Z5 
 0000032 400  AT      the                      Z5 
-0000032 410  NN2     countrys                 G1.1c W3 F4/M7 K2 
+0000032 410  NN1     country                  G1.1c W3 F4/M7 K2 
+0000032 411  GE      's                       Z5 
 0000032 420  NN1     economy                  I2.1 I1.3- 
 0000032 421  .       .                        
 0000032 422  NULL    </quote>                 
@@ -746,7 +747,8 @@
 0000034 020  VBZ     is                       A3+ Z5 
 0000034 030  RRQ     why                      A2.2 
 0000034 040  AT      the                      Z5 
-0000034 050  NN2     clubs                    S5+ O2 K5.2@ 
+0000034 050  NN1     club                     S5+c O2 
+0000034 051  GE      's                       Z5 
 0000034 060  NN1     name                     Q2.2 
 0000034 070  VBDZ    was                      Z5 A3+ 
 0000034 080  VVN     changed                  A2.1+ I1 B5 

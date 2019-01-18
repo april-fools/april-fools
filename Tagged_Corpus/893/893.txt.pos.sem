@@ -75,7 +75,8 @@
 0000004 030  DB2     both                     N5 
 0000004 040  NN2     interventions            S1.1.3+ N4 
 0000004 050  VV0     underestimate            N5- A11.1- X2.1/A5.3- 
-0000004 060  NN2     coercions                S7.1+ 
+0000004 060  NN1     coercion                 S7.1+ 
+0000004 061  GE      's                       Z5 
 0000004 070  NN1     contribution             A9- A2.2 S1.1.3+ 
 0000004 080  II      to                       Z5 
 0000004 090  JJ      political                G1.2 
@@ -203,8 +204,9 @@
 0000005 001  -----   -----                    
 0000006 010  II21    Aside                    A1.8-[i5.2.1 
 0000006 020  II22    from                     A1.8-[i5.2.2 Z5 
-0000006 030  NP2     Qaddafis                 Z99 
-0000006 040  VV0     fall                     M1 N5-/A2.1 S7.1- L1- A1.8+ G2.2- X9.2- K5.2 
+0000006 030  NP1     Qaddafi                  Z99 
+0000006 031  GE      's                       Z5 
+0000006 040  NN1     fall                     M1 N5-/A2.1 S7.1- L1- A1.8+ G2.2- X9.2- W3/M4 S9 K5 
 0000006 041  ,       ,                        
 0000006 050  NP1     U.S.                     Z8 
 0000006 060  NN2     leaders                  S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
@@ -256,7 +258,8 @@
 0000006 451  .       .                        
 0000006 452  -----   -----                    
 0000006 460  CS      If                       Z7 
-0000006 470  NP2     Qaddafis                 Z99 
+0000006 470  NP1     Qaddafi                  Z99 
+0000006 471  GE      's                       Z5 
 0000006 480  NN1     fate                     S9 A7+++/S7.1- A3+/S7.1- 
 0000006 490  VVD     taught                   P1 
 0000006 500  VVG     neighboring              Z99 
@@ -292,7 +295,8 @@
 0000006 770  NN1     youor                    Z99 
 0000006 771  ,       ,                        
 0000006 780  CS      if                       Z7 
-0000006 790  NN1     youre                    Z99 
+0000006 790  PPY     you                      Z8mf 
+0000006 791  VBR     're                      A3+ Z5 
 0000006 800  JJ      lucky                    A1.4+ 
 0000006 801  ,       ,                        
 0000006 810  VV0@    ship                     M2 
@@ -384,14 +388,16 @@
 0000009 001  -----   -----                    
 0000010 010  RR      Meanwhile                T1.1.2 
 0000010 011  ,       ,                        
-0000010 020  NP2     Libyas                   G1.2[i11.2.1 A2.1+[i11.2.1 Z2 
+0000010 020  NP1     Libya                    Z2 
+0000010 021  GE      's                       G1.2[i11.2.1 A2.1+[i11.2.1 Z5 
 0000010 030  NN1     revolution               G1.2[i11.2.2 A2.1+[i11.2.2 G1.2 A2.1+ M1@ 
 0000010 040  VHZ     has                      Z5 A9+ A2.2 S4 
 0000010 050  VVN     destabilized             A2.1+ A1.1.2 
 0000010 060  NP1     Mali                     Z2 
 0000010 061  .       .                        
 0000010 062  -----   -----                    
-0000010 070  NP2     Qaddafis                 Z99 
+0000010 070  NP1     Qaddafi                  Z99 
+0000010 071  GE      's                       Z5 
 0000010 080  NN1     fall                     M1 N5-/A2.1 S7.1- L1- A1.8+ G2.2- X9.2- W3/M4 S9 K5 
 0000010 090  VVD     pushed                   M2 M1 S7.1+ X8+ I2.2 F3 I3.1- 
 0000010 100  NNO2    hundreds                 N5+ 
@@ -424,7 +430,8 @@
 0000010 331  ,       ,                        
 0000010 340  VVG     citing                   Q2.2 G2.1 
 0000010 350  APPGE   their                    Z8 
-0000010 360  NN2     governments              G1.1c 
+0000010 360  NN1     government               G1.1c 
+0000010 361  GE      's                       Z5 
 0000010 370  JJ      insufficient             N5- 
 0000010 380  NN1     vigor                    Z99 
 0000010 390  II      against                  Z5 

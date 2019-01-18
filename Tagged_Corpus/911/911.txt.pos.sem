@@ -133,7 +133,8 @@
 0000004 030  VVD     lighthearted             E4.1+ 
 0000004 040  NN1     approach                 X4.2 M1 E1 S1.1.1 
 0000004 050  IO      of                       Z5 
-0000004 060  NP2     Burtons                  Z1mf Z3c Z2 
+0000004 060  NP1     Burton                   Z1mf Z3c Z2 
+0000004 061  GE      's                       Z5 
 0000004 070  NP1     Alice                    Z3[i19.3.1 Z1f Z2[i17.3.1 Z2[i18.3.1 
 0000004 080  II      In                       Z3[i19.3.2 Z5 Z2[i17.3.2 Z2[i18.3.2 
 0000004 090  NP1     Wonderland               Z3[i19.3.3 Z2 Z2[i17.3.3 Z2[i18.3.3 
@@ -157,7 +158,8 @@
 0000004 270  AT      the                      Z5 
 0000004 280  NN1     fairytale                S9 A5.4- 
 0000004 281  (       (                        
-0000004 290  APPGE   its                      Z8 
+0000004 290  PPH1    it                       Z8 
+0000004 291  VBZ     's                       A3+ Z5 
 0000004 300  NP1     Snow                     Z1mf[i21.2.1 Z3c[i21.2.1 
 0000004 310  NP1     White                    Z1mf[i21.2.2 Z3c[i21.2.2 Z1mf 
 0000004 320  CSA     as                       Z5 
@@ -173,12 +175,14 @@
 0000006 040  NN1     Mirror                   Z1mf[i23.2.1 Z3c[i23.2.1 Z3c 
 0000006 050  NN1     Mirror                   Z1mf[i23.2.2 Z3c[i23.2.2 Z3c 
 0000006 060  VBZ     is                       A3+ Z5 
-0000006 070  CST     that                     Z5 Z8 
-0000006 080  APPGE   its                      Z8 
-0000006 090  JJ%     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000006 070  CST     that                     Z8 Z5 
+0000006 080  PPH1    it                       Z8 
+0000006 081  VBZ     's                       Z5 A3+ 
+0000006 090  VVN     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
 0000006 100  II      from                     Z5 
 0000006 110  AT      the                      Z5 
-0000006 120  NN2     queens                   S7.1+/S2.1f S3.2/S2.2m K5.2 
+0000006 120  NN1     queen                    S7.1+/S2.1f S3.2/S2.2m K5.2 
+0000006 121  GE      's                       Z5 
 0000006 130  NN1     perspective              X4.1 C1 
 0000006 140  CSA     as                       Z5 
 0000006 150  PPHS1   she                      Z8f 
@@ -199,7 +203,8 @@
 0000006 300  NN1     status                   S7.1 A4.1 A11.1 
 0000006 310  II      as                       Z5 
 0000006 320  AT      the                      Z5 
-0000006 330  NN2     kingdoms                 G1.1 M7/S7.1+ 
+0000006 330  NN1     kingdom                  G1.1 M7/S7.1+ A4.1/L2 
+0000006 331  GE      's                       Z5 
 0000006 340  RGT     most                     A13.2 
 0000006 350  JJ      beautiful                O4.2+ 
 0000006 351  .       .                        
@@ -232,7 +237,8 @@
 0000006 561  ,       ,                        
 0000006 570  VVG     plotting                 G2.1- G2.2- X7+ Q1.2/N2 
 0000006 580  APPGE   her                      Z8f 
-0000006 590  NN2     rivals                   S7.3+/S2mf 
+0000006 590  NN1     rival                    S7.3+/S2mf 
+0000006 591  GE      's                       Z5 
 0000006 600  NN1     demise                   T2- L1- 
 0000006 610  II      from                     Z5 
 0000006 620  AT      the                      Z3c[i28.2.1 Z5 
@@ -272,7 +278,7 @@
 0000006 920  NN1     witch                    S9/S2.1f O4.2-/S2.1f 
 0000006 930  PNQS    who                      Z8 
 0000006 940  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000006 941  XX      nt                       S9/Q4.1 Z3c 
+0000006 941  XX      n't                      Z6 
 0000006 950  VVI     bat                      K5.1 
 0000006 960  AT1     an                       Z5 
 0000006 970  NN1     eyelid                   B1 
@@ -302,11 +308,13 @@
 0000008 081  .       .                        
 0000008 082  NULL    <quote>                  
 0000008 083  -----   -----                    
-0000008 090  NN2     Theres                   Z5 M6 T1.2 
+0000008 090  EX      There                    Z5 
+0000008 091  VBZ     's                       A3+ Z5 
 0000008 100  PN1     something                Z8 
 0000008 110  II      about                    Z5 
 0000008 120  PPY     you                      Z8mf 
-0000008 130  VVZ     thats                    Z5 Z8 A13.3 A6.1+ 
+0000008 130  DD1     that                     Z8 Z5 
+0000008 131  VBZ     's                       A3+ Z5 
 0000008 140  RG      so                       A13.3 
 0000008 150  RR      incredibly               A13.3 A6.2- 
 0000008 160  JJ      irritating               E3- B2- 
@@ -326,7 +334,8 @@
 0000008 241  .       .                        
 0000008 242  NULL    </quote>                 
 0000008 243  -----   -----                    
-0000008 250  APPGE   Its                      Z8 
+0000008 250  PPH1    It                       Z8 
+0000008 251  VBZ     's                       A3+ Z5 
 0000008 260  XX      not                      Z6 
 0000008 270  AT      the                      Z5 
 0000008 280  RGT     most                     A13.2 
@@ -335,9 +344,11 @@
 0000008 310  NN2     put-downs                Z99 
 0000008 311  .       .                        
 0000008 312  -----   -----                    
-0000008 320  NP1     Wheres                   Z1mf[i33.2.1 Z3c[i33.2.1 
-0000008 330  NP1     Alan                     Z1mf[i33.2.2 Z3c[i33.2.2 Z1m 
-0000008 340  NP2     Rickmans                 Z99 
+0000008 320  RRQ     Where                    M6 
+0000008 321  VBZ     's                       A3+ Z5 
+0000008 330  NP1     Alan                     Z1mf[i33.2.1 Z3c[i33.2.1 Z1m 
+0000008 340  NP1     Rickman                  Z1mf[i33.2.2 Z3c[i33.2.2 
+0000008 341  GE      's                       Z5 
 0000008 350  NN1     Sheriff                  G2.1/S2mf G1.1/S2mf 
 0000008 360  IO      of                       Z5 
 0000008 370  NP1     Nottingham               Z2 
@@ -499,14 +510,16 @@
 0000010 530  APPGE   his                      E6+[i38.4.3 Z8m E6+[i37.4.3 E6+[i36.4.3 
 0000010 540  NN1     stride                   E6+[i38.4.4 N3.3 N3.7 M1 X9.2+ E6+[i37.4.4 E6+[i36.4.4 
 0000010 550  CC      and                      Z5 
-0000010 560  APPGE   its                      Z8 
+0000010 560  PPH1    it                       Z8 
+0000010 561  VBZ     's                       A3+ Z5 
 0000010 570  DB      all                      N5.1+ 
 0000010 580  JJ      amiable                  S1.2.1+ 
 0000010 590  RR      enough                   N5+ N6+ 
 0000010 591  ,       ,                        
 0000010 600  VVN     enhanced                 A5.1+/A2.1 
 0000010 610  II      by                       Z5 
-0000010 620  NP1     Collinss                 Z99 
+0000010 620  NP1     Collins                  Z1mf 
+0000010 621  GE      's                       Z5 
 0000010 630  JJ      fetching                 O4.2+ 
 0000010 640  CC      and                      Z5 
 0000010 650  JJ      sympathetic              X2.5+/E1 S8+ A6.1+ 

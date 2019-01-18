@@ -1,4 +1,4 @@
-TOTAL              491
+TOTAL              494
 the                  AT             33 
 a                    AT1            16 
 and                  CC             12 
@@ -9,14 +9,14 @@ iphone               NN1             8
 i                    PPIS1           7 
 5                    MC              7 
 for                  IF              7 
+it                   PPH1            6 
 phone                NN1             6 
+was                  VBDZ            6 
 in                   II              5 
 were                 VBDR            5 
 is                   VBZ             5 
 new                  JJ              5 
 than                 CSN             5 
-it                   PPH1            5 
-was                  VBDZ            5 
 all                  DB              5 
 me                   PPIO1           4 
 from                 II              4 
@@ -35,6 +35,7 @@ made                 VVN             3
 has                  VHZ             3 
 which                DDQ             3 
 this                 DD1             3 
+Siri                 NP1             3 
 she                  PPHS1           3 
 his                  APPGE           3 
 L.A.                 NP1             2 
@@ -52,7 +53,6 @@ data                 NN              2
 superior             JJ              2 
 would                VM              2 
 amazing              JJ              2 
-Siri                 NP1             2 
 will                 VM              2 
 ios                  NN2             2 
 android              NN1             2 
@@ -80,8 +80,8 @@ geeks                NN2             1
 when                 RRQ             1 
 told                 VVD             1 
 let                  VVI             1 
-before               II              1 
-its                  APPGE           1 
+before               CS              1 
+'s                   VBZ             1 
 release              NN1             1 
 date                 NN1             1 
 first                MD              1 
@@ -156,7 +156,7 @@ access               NN1             1
 faster               RRR             1 
 4g                   NNU             1 
 LTE_XLT              NP1             1 
-wasnt                VV0             1 
+n't                  XX              1 
 sure                 JJ              1 
 if                   CS              1 
 like                 VVI             1 
@@ -166,7 +166,7 @@ really               RR              1
 cared                VVN             1 
 previous             JJ              1 
 models               NN2             1 
-Siris                NP1             1 
+'s                   GE              1 
 upgrade              NN1             1 
 using                VVG             1 
 skynet               NN1             1 

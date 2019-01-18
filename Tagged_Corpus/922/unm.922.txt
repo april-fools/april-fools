@@ -8,7 +8,6 @@ DGX-1                    MC1     Z99
 FinFET                   NN1     Z99 
 GPUs                     NP2     Z99 
 GTC                      NP1     Z99 
-itd                      NN1     Z99 
 Jen-Hsung                NN1     Z99 
 leaderboards             NN2     Z99 
 nanometer                JJR     Z99 
@@ -27,5 +26,3 @@ SSD                      NP1     Z99
 teraflops                NN2     Z99 
 Tesla                    NN1     Z99 
 Tesla                    NP1     Z99 
-theyll                   VV0     Z99 
-Theyre                   NN1     Z99 

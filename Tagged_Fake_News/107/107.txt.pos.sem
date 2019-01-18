@@ -15,13 +15,15 @@
 0000002 130  NP1     Obama                    Z1mf[i2.2.2 Z3c[i2.2.2 
 0000002 131  ,       ,                        
 0000002 140  CCB     but                      Z5 
-0000002 150  APPGE   its                      Z8 
+0000002 150  PPH1    it                       Z8 
+0000002 151  VHZ     's                       Z5 A9+ A2.2 
 0000002 160  VBN     been                     A3+ Z5 
 0000002 170  RR21    anything                 Z6[i3.2.1 Z5[i3.2.1 
 0000002 180  RR22    but                      Z6[i3.2.2 Z5[i3.2.2 A13.6 
 0000002 181  .       .                        
 0000002 182  -----   -----                    
-0000002 190  NN2     Obamas                   Z99 
+0000002 190  NP1@    Obama                    Z99 
+0000002 191  GE      's                       Z5 
 0000002 200  JJ      massive                  N3.2+ 
 0000002 210  NN1     ego                      S1.2.3+ 
 0000002 220  CC      and                      Z5 
@@ -32,7 +34,8 @@
 0000002 270  PPHO1   him                      Z8m 
 0000002 280  RR      publicly                 A10+ 
 0000002 290  VVG     degrading                S7.2- A5.1-/A2.1 A1.1.2 
-0000002 300  NN2     Trumps                   K5.2 S7.1+ 
+0000002 300  NN1     Trump                    Z1mf 
+0000002 301  GE      's                       Z5 
 0000002 310  NN1     landslide                X9.2++ W3 
 0000002 320  JJ      Electoral                G1.2/X7+ 
 0000002 330  NN1     College                  P1/H1c 
@@ -112,7 +115,8 @@
 0000004 560  CC      and                      Z5 
 0000004 570  VVI     vacate                   A9- 
 0000004 580  AT      the                      Z5 
-0000004 590  NN2     peoples                  S2mf 
+0000004 590  NN      people                   S2mfc 
+0000004 591  GE      's                       Z5 
 0000004 600  NN1     house                    H1 P1/S5+c G1.1c 
 0000004 601  .       .                        
 0000005 001  -----   -----                    
@@ -203,13 +207,15 @@
 0000011 390  NN1     record                   Q1.2 K3 T1.1.1 A5.1+++ 
 0000011 400  CC      and                      Z5 
 0000011 410  JJ      likely                   A7+ A1.2+ 
-0000011 420  NN1     isnt                     Z99 
+0000011 420  VBZ     is                       Z5 A3+ 
+0000011 421  XX      n't                      Z6 
 0000011 430  VDN     done                     A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
 0000011 440  JJ@     trying                   A12- 
 0000011 450  TO      to                       Z5 
 0000011 460  VVI     curtail                  N5-/A2.1 
 0000011 470  NNB     President-Elect          G1.1/S7.1+/S2mf 
-0000011 480  VVZ     Trumps                   K5.2 
+0000011 480  NN1     Trump                    Z1mf 
+0000011 481  GE      's                       Z5 
 0000011 490  NN1     authority                G1.1c S7.1+ S7.4+ X2.2+ 
 0000011 500  CS      after                    Z5 
 0000011 510  PPHS1   he                       Z8m 
@@ -368,9 +374,10 @@
 0000017 020  NP1     Obama                    Z99 
 0000017 030  VHD     had                      Z5 A9+ A2.2 S4 
 0000017 040  VVN     heralded                 Q2.2 
-0000017 050  NP1     George                   Z1mf[i33.2.1 Z3c[i33.2.1 Z1m 
-0000017 060  NP1     W.                       Z1mf[i33.2.2 Z3c[i33.2.2 
-0000017 070  NP2     Bushs                    Z3c Z1mf 
+0000017 050  NP1     George                   Z1mf[i34.3.1 Z3c[i34.3.1 Z1m Z1mf[i33.2.1 Z3c[i33.2.1 
+0000017 060  NP1     W.                       Z1mf[i34.3.2 Z3c[i34.3.2 Z1mf[i33.2.2 Z3c[i33.2.2 Z1mf[i35.2.1 Z3c[i35.2.1 
+0000017 070  NP1     Bush                     Z3c[i34.3.3 Z1mf[i34.3.3 Z3c Z1mf Z1mf[i35.2.2 Z3c[i35.2.2 
+0000017 071  GE      's                       Z5 
 0000017 080  NN1     commitment               S6+ A1.7+/G2.1 
 0000017 090  II      to                       Z5 
 0000017 100  AT1     a                        Z5 
@@ -411,16 +418,16 @@
 0000018 001  -----   -----                    
 0000019 010  MD      First                    N4 
 0000019 011  ,       ,                        
-0000019 020  NP1     Michelle                 Z1mf[i34.2.1 Z3c[i34.2.1 Z1f 
-0000019 030  NP1     Obama                    Z1mf[i34.2.2 Z3c[i34.2.2 
-0000019 040  VVD     sat                      M1[i35.2.1 M2[i35.2.1 M8[i35.2.1 M8 C1 P1 G1.1 G2.1 M6 A9+ 
-0000019 050  RP      down                     M1[i35.2.2 M2[i35.2.2 M8[i35.2.2 
+0000019 020  NP1     Michelle                 Z1mf[i36.2.1 Z3c[i36.2.1 Z1f 
+0000019 030  NP1     Obama                    Z1mf[i36.2.2 Z3c[i36.2.2 
+0000019 040  VVD     sat                      M1[i37.2.1 M2[i37.2.1 M8[i37.2.1 M8 C1 P1 G1.1 G2.1 M6 A9+ 
+0000019 050  RP      down                     M1[i37.2.2 M2[i37.2.2 M8[i37.2.2 
 0000019 060  IF      for                      Z5 
 0000019 070  AT1     a                        Z5 
 0000019 080  NN1     chat                     Q2.1 
 0000019 090  IW      with                     Z5 
-0000019 100  NP1     Oprah                    Z1mf[i36.2.1 Z3c[i36.2.1 
-0000019 110  NP1     Winfrey                  Z1mf[i36.2.2 Z3c[i36.2.2 
+0000019 100  NP1     Oprah                    Z1mf[i38.2.1 Z3c[i38.2.1 
+0000019 110  NP1     Winfrey                  Z1mf[i38.2.2 Z3c[i38.2.2 
 0000019 120  CC      and                      Z5 
 0000019 130  VVD     claimed                  Q2.2 A9+ 
 0000019 140  NP1     America                  Z2 
@@ -438,10 +445,10 @@
 0000019 240  VBR     are                      Z5 A3+ 
 0000019 250  VVG     feeling                  X2.1 E1 X3 
 0000019 260  JJ      hopeful                  X2.6+ E4.1+ X9.2+ A5.1+ 
-0000019 270  IF      for                      N4[i37.4.1 Z5 
-0000019 280  AT      the                      N4[i37.4.2 Z5 
-0000019 290  MD      first                    N4[i37.4.3 N4 
-0000019 300  NNT1    time                     N4[i37.4.4 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000019 270  IF      for                      N4[i39.4.1 Z5 
+0000019 280  AT      the                      N4[i39.4.2 Z5 
+0000019 290  MD      first                    N4[i39.4.3 N4 
+0000019 300  NNT1    time                     N4[i39.4.4 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000019 310  II      in                       Z5 
 0000019 320  MC      eight                    N1 T1.2 T3 T1.3 N3.2 
 0000019 330  NNT2    years                    T1.3 
@@ -459,26 +466,26 @@
 0000019 440  VBR     are                      A3+ Z5 
 0000019 450  NN1     part                     N5.1- O2 M7 I3.1 S1.1.3+ K4 
 0000019 460  IO      of                       Z5 
-0000019 470  JJ      blue                     I3.1/S5[i38.2.1 O4.3 S1.2.4- G1.2 
-0000019 480  NN1     collar                   I3.1/S5[i38.2.2 B5 A9+ G2.1@ 
+0000019 470  JJ      blue                     I3.1/S5[i40.2.1 O4.3 S1.2.4- G1.2 
+0000019 480  NN1     collar                   I3.1/S5[i40.2.2 B5 A9+ G2.1@ 
 0000019 490  NN2     communities              S5+ 
 0000019 500  CC      or                       Z5 
 0000019 510  AT      the                      Z5 
-0000019 520  JJ      middle                   S5+c[i39.2.1 N4 M6 
-0000019 530  NN1     class                    S5+c[i39.2.2 P1c A4.1 S5+c O4.2+ 
+0000019 520  JJ      middle                   S5+c[i41.2.1 N4 M6 
+0000019 530  NN1     class                    S5+c[i41.2.2 P1c A4.1 S5+c O4.2+ 
 0000019 540  RR      really                   A13.3 A5.2+ 
-0000019 550  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000019 551  XX      nt                       S9/Q4.1 Z3c 
-0000019 560  VVI     matter                   A11.1+ 
+0000019 550  VD0     do                       A11.1-[i42.3.1 Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000019 551  XX      n't                      A11.1-[i42.3.2 Z6 
+0000019 560  VVI     matter                   A11.1-[i42.3.3 A11.1+ 
 0000019 570  II      to                       Z5 
 0000019 580  NN2     liberals                 G1.2/S2mf 
 0000019 581  .       .                        
 0000020 001  -----   -----                    
-0000021 010  VVG     Lashing                  E3-[i40.2.1 I1.2[i40.2.1 E3- M1 A1.7+ 
-0000021 020  RP      out                      E3-[i40.2.2 I1.2[i40.2.2 M6 
+0000021 010  VVG     Lashing                  E3-[i43.2.1 I1.2[i43.2.1 E3- M1 A1.7+ 
+0000021 020  RP      out                      E3-[i43.2.2 I1.2[i43.2.2 M6 
 0000021 030  II      at                       Z5 
-0000021 040  NP1     Donald                   Z1mf[i41.2.1 Z3c[i41.2.1 Z1mf 
-0000021 050  NN1     Trump                    Z1mf[i41.2.2 Z3c[i41.2.2 Z1mf 
+0000021 040  NP1     Donald                   Z1mf[i44.2.1 Z3c[i44.2.1 Z1mf 
+0000021 050  NN1     Trump                    Z1mf[i44.2.2 Z3c[i44.2.2 Z1mf 
 0000021 060  CS      because                  Z5/A2.2 
 0000021 070  PPIS2   We                       Z8 
 0000021 080  AT      the                      Z5 
@@ -498,8 +505,8 @@
 0000021 210  JJ      shallow                  N3.7- A11.1- A5.4-/S1.2.1+ A4.2- 
 0000021 220  CC      and                      Z5 
 0000021 230  JJ      self-involved            Z99 
-0000021 240  NP1     Barack                   Z1mf[i42.2.1 Z3c[i42.2.1 
-0000021 250  NP1     Obama                    Z1mf[i42.2.2 Z3c[i42.2.2 
+0000021 240  NP1     Barack                   Z1mf[i45.2.1 Z3c[i45.2.1 
+0000021 250  NP1     Obama                    Z1mf[i45.2.2 Z3c[i45.2.2 
 0000021 260  CC      and                      Z5 
 0000021 270  APPGE   his                      Z8m 
 0000021 280  NN1     wife                     S4f 
@@ -516,14 +523,16 @@
 0000021 370  VM      can                      A7+ 
 0000021 380  VDI     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
 0000021 390  TO      to                       Z5 
-0000021 400  VVI     stop                     T2- S8- M8 H4 A1.1.1@ 
-0000021 410  NN2     Trumps                   K5.2 S7.1+ 
+0000021 400  VVI     stop                     Z2[i46.2.1 Z3c[i46.2.1 Z1mf[i46.2.1 T2- S8- M8 H4 A1.1.1@ 
+0000021 410  NN1     Trump                    Z2[i46.2.2 Z3c[i46.2.2 Z1mf[i46.2.2 Z1mf 
+0000021 411  GE      's                       Z5 
 0000021 420  NN1     agenda                   Q1.2/X7+ 
 0000021 430  II      from                     Z5 
 0000021 440  NN2     passingthanks            Z99 
 0000021 450  II      to                       Z5 
-0000021 460  NP1     Harry                    Z1mf 
-0000021 470  NP2     Reids                    Z99 
+0000021 460  NP1     Harry                    Z1mf[i47.2.1 Z3c[i47.2.1 Z1mf 
+0000021 470  NP1     Reid                     Z1mf[i47.2.2 Z3c[i47.2.2 
+0000021 471  GE      's                       Z5 
 0000021 480  JJ      short-sighted            B2-/X3.4 X2.6-/T1.1.3 X2.5- 
 0000021 490  VVG     pushing                  M2 M1 S7.1+ X8+ I2.2 F3 A13.4 
 0000021 500  IF      for                      Z5 
@@ -532,8 +541,8 @@
 0000021 530  NN1     option                   X7+ I2.1 P1 
 0000021 531  .       .                        
 0000022 001  -----   -----                    
-0000023 010  NP1     Michael                  Z1mf[i44.2.1 Z3c[i44.2.1 Z1m Z2[i43.2.1 
-0000023 020  NP1     Moore                    Z1mf[i44.2.2 Z3c[i44.2.2 Z1mf Z2[i43.2.2 
+0000023 010  NP1     Michael                  Z1mf[i49.2.1 Z3c[i49.2.1 Z1m Z2[i48.2.1 
+0000023 020  NP1     Moore                    Z1mf[i49.2.2 Z3c[i49.2.2 Z1mf Z2[i48.2.2 
 0000023 030  CC      and                      Z5 
 0000023 040  APPGE   his                      Z8m 
 0000023 050  NN1     horde                    S5+c 
@@ -545,15 +554,15 @@
 0000023 110  VBI     be                       A3+ Z5 
 0000023 120  JK      able                     X9.1+ 
 0000023 130  TO      to                       Z5 
-0000023 140  VVI     stop                     Z2[i45.2.1 Z3c[i45.2.1 Z1mf[i45.2.1 T2- S8- M8 H4 A1.1.1@ 
-0000023 150  NN1     Trump                    Z2[i45.2.2 Z3c[i45.2.2 Z1mf[i45.2.2 Z1mf 
+0000023 140  VVI     stop                     Z2[i50.2.1 Z3c[i50.2.1 Z1mf[i50.2.1 T2- S8- M8 H4 A1.1.1@ 
+0000023 150  NN1     Trump                    Z2[i50.2.2 Z3c[i50.2.2 Z1mf[i50.2.2 Z1mf 
 0000023 160  II      from                     Z5 
 0000023 170  VBG     being                    Z5 A3+ 
-0000023 180  VVN     sworn                    Q2.2[i46.2.1 Q2.2/S1.2.4- Q2.2 
-0000023 190  RP@     in                       Q2.2[i46.2.2 M6 
+0000023 180  VVN     sworn                    Q2.2[i51.2.1 Q2.2/S1.2.4- Q2.2 
+0000023 190  RP@     in                       Q2.2[i51.2.2 M6 
 0000023 200  II      on                       Z5 
-0000023 210  NPM1    January                  T1.3[i47.2.1 T1.3 
-0000023 220  MC      20                       T1.3[i47.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000023 210  NPM1    January                  T1.3[i52.2.1 T1.3 
+0000023 220  MC      20                       T1.3[i52.2.2 N1 T1.2 T3 T1.3 N3.2 
 0000023 230  CC      nor                      Z6 
 0000023 240  VM      will                     T1.1.3 
 0000023 250  PPHS2   they                     Z8mfn 
@@ -577,15 +586,16 @@
 0000023 410  RG      as                       A13 
 0000023 420  RR      surely                   A7+ 
 0000023 430  CSA     as                       Z5 
-0000023 440  NP1     Jill                     Z1f 
-0000023 450  NP2     Steins                   Z99 
-0000023 460  VV0     recount                  Q2.1 N1/N6+ 
+0000023 440  NP1     Jill                     Z1mf[i53.2.1 Z3c[i53.2.1 
+0000023 450  NP1     Stein                    Z1mf[i53.2.2 Z3c[i53.2.2 
+0000023 451  GE      's                       Z5 
+0000023 460  NN1     recount                  Q2.1 N1/N6+ 
 0000023 470  NN2     endeavors                X8+ 
 0000023 471  .       .                        
 0000024 001  -----   -----                    
 0000025 010  CS      If                       Z7 
-0000025 020  NP1     Barack                   Z1mf[i48.2.1 Z3c[i48.2.1 
-0000025 030  NP1     Obama                    Z1mf[i48.2.2 Z3c[i48.2.2 
+0000025 020  NP1     Barack                   Z1mf[i54.2.1 Z3c[i54.2.1 
+0000025 030  NP1     Obama                    Z1mf[i54.2.2 Z3c[i54.2.2 
 0000025 040  VVD     wanted                   X7+ S6+ A7+ S3.2 A9- 
 0000025 050  APPGE   his                      Z8m 
 0000025 060  NN1     legacy                   A9+/I1.1 A9+/S1.1.1 
@@ -616,8 +626,8 @@
 0000025 260  NN1     nuisance                 E6- 
 0000025 270  IF      for                      Z5 
 0000025 280  NNB     President-Elect          G1.1/S7.1+/S2mf 
-0000025 290  NP1     Donald                   Z1mf[i49.2.1 Z3c[i49.2.1 Z1mf 
-0000025 300  NN1     Trump                    Z1mf[i49.2.2 Z3c[i49.2.2 Z1mf 
+0000025 290  NP1     Donald                   Z1mf[i55.2.1 Z3c[i55.2.1 Z1mf 
+0000025 300  NN1     Trump                    Z1mf[i55.2.2 Z3c[i55.2.2 Z1mf 
 0000025 310  CC      and                      Z5 
 0000025 320  AT      the                      Z5 
 0000025 330  JJ      patriotic                S6+ 

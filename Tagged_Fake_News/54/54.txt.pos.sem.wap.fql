@@ -1,8 +1,8 @@
-TOTAL              616
+TOTAL              623
 the                  AT             35 
 and                  CC             21 
 in                   II             13 
-Turkey               NP1            10 
+Turkey               NP1            11 
 is                   VBZ            10 
 to                   TO              9 
 of                   IO              9 
@@ -14,6 +14,7 @@ a                    AT1             7
 they                 PPHS2           6 
 we                   PPIS2           6 
 that                 CST             6 
+'s                   GE              5 
 with                 IW              5 
 U.S.                 NP1             5 
 on                   II              5 
@@ -27,6 +28,7 @@ ISIL                 NP1             4
 be                   VBI             4 
 groups               NN2             4 
 their                APPGE           4 
+Iraq                 NP1             4 
 for                  IF              4 
 funding              NN1             4 
 isil                 NN1             4 
@@ -36,13 +38,14 @@ within               II              4
 coalition            NN1             3 
 Syria                NP1             3 
 as                   CSA             3 
+Erdogan              NP1             3 
 what                 DDQ             3 
 no                   AT              3 
 been                 VBN             3 
 made                 VVN             3 
 was                  VBDZ            3 
 western              JJ              3 
-Iraq                 NP1             3 
+it                   PPH1            3 
 are                  VBR             3 
 maybe                RR              3 
 government           NN1             3 
@@ -60,9 +63,9 @@ evidence             NN1             2
 pictures             NN2             2 
 videos               NN2             2 
 can                  VM              2 
+Iran                 NP1             2 
 see                  VVI             2 
 because              CS              2 
-its                  APPGE           2 
 them                 PPHO2           2 
 who                  PNQS            2 
 but                  CCB             2 
@@ -84,7 +87,6 @@ said                 VVD             2
 one                  MC1             2 
 perhaps              RR              2 
 intelligence         NN1             2 
-it                   PPH1            2 
 as_to                II21            2 
 months               NNT2            2 
 biggest              JJT             2 
@@ -94,7 +96,6 @@ ties                 NN2             2
 cabal                NN1             2 
 time                 NNT1            2 
 defeated             VVN             2 
-turkeys              NN2             1 
 President            NNB             1 
 Recep_Erdogan        NP1             1 
 come_out             VVN             1 
@@ -120,8 +121,7 @@ seen                 VVN             1
 throwing             VVG             1 
 salt                 NN1             1 
 wound                VVD             1 
-erdogans             NN2             1 
-bombshell            VV0             1 
+bombshell            NN1             1 
 statements           NN2             1 
 highlighted          VVD             1 
 coming               VVG             1 
@@ -149,7 +149,6 @@ disclosing           VVG             1
 alleged              JJ              1 
 adding               VVG             1 
 disclosure           NN1             1 
-Irans                NP2             1 
 defense              NN1             1 
 minister             NN1             1 
 Hossein_Dehghan      NP1             1 
@@ -161,7 +160,7 @@ fight                VVI             1
 neither              RR              1 
 nor                  CC              1 
 do                   VD0             1 
-nt                   XX              1 
+n't                  XX              1 
 any                  DD              1 
 readiness            NN1             1 
 part                 NN1             1 
@@ -171,6 +170,7 @@ useful               JJ              1
 meaningful           JJ              1 
 role                 NN1             1 
 fighting             NN1             1 
+'s                   VBZ             1 
 raised               VVN             1 
 interested           JJ              1 
 keeping              VVG             1 
@@ -233,11 +233,12 @@ hypocrisy            NN1             1
 abide_by             VVI             1 
 laws                 NN2             1 
 apply                VV0             1 
+its                  FU              1 
+'                    GE              1 
 citizens             NN2             1 
 most                 RGT             1 
 interesting          JJ              1 
 about                II              1 
-Erdogans             NP2             1 
 comments             NN2             1 
 then                 RT              1 
 fact                 NN1             1 
@@ -267,7 +268,6 @@ coordinating         VVG             1
 helping              VVG             1 
 aid                  VVI             1 
 putin                NN1             1 
-Erdogan              NP1             1 
 secret               NN1             1 
 willingness          NN1             1 
 collaborate          VVI             1 
@@ -290,7 +290,6 @@ Moscow               NP1             1
 announced            VVD             1 
 intensifying         VVG             1 
 cooperation          NN1             1 
-Iran                 NP1             1 
 themselves           PPX2            1 
 banking/political    FU              1 
 tell                 VVI             1 
@@ -309,7 +308,6 @@ battle               NN1             1
 to_date              II              1 
 being                VBG             1 
 Mosul                NP1             1 
-Iraqs                NP2             1 
 prime_minister       JJ              1 
 Haider_al-Abadi      NP1             1 
 told                 VVD             1 

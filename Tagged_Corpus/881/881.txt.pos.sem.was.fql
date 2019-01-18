@@ -1,4 +1,4 @@
-TOTAL             1475
+TOTAL             1480
 the                  Z5                 119 
 of                   Z5                  43 
 to                   Z5                  36 
@@ -31,6 +31,7 @@ with                 Z5                   8
 Prague               Z2                   8 
 limit                N5.1                 8 
 i                    Z8                   8 
+that                 Z8                   8 
 or                   Z5                   8 
 submarines           M4                   8 
 nuclear              Y1                   7 
@@ -39,7 +40,6 @@ but                  Z5                   7
 missile              G3                   7 
 heavy                N3.5+                6 
 missiles             G3                   6 
-that                 Z8                   6 
 you                  Z8                   6 
 will                 T1.1.3               6 
 ballistic            G3                   6 
@@ -66,6 +66,7 @@ loadings             M2                   4
 than                 Z5                   4 
 see                  X3.4                 4 
 conventional         A6.2+                4 
+n't                  Z6                   4 
 Minuteman_iii        Z2                   4 
 b1                   Z99                  4 
 b52                  Z99                  4 
@@ -94,12 +95,12 @@ under                Z5                   3
 either               Z5                   3 
 actual               A5.4+                3 
 result               A2.2                 3 
+'s                   A3+                  3 
 no                   Z6                   3 
 Russia               Z2                   3 
 all                  N5.1+                3 
 be                   Z5                   3 
 do                   Z5                   3 
-nt                   S9                   3 
 best                 A5.1+++              3 
 b2                   Z99                  3 
 notional             A1.6                 3 
@@ -150,7 +151,6 @@ more                 N5++                 2
 wanted               X7+                  2 
 know                 X2.2+                2 
 accountable          S7.1+                2 
-thats                Z5                   2 
 storage              A9+                  2 
 while                Z5                   2 
 did                  A1.1.1               2 
@@ -164,7 +164,7 @@ makes                A1.1.1               2
 right                A5.3+                2 
 why                  A2.2                 2 
 fact                 A5.2+                2 
-its                  Z8                   2 
+it                   Z8                   2 
 Trident              Z3                   2 
 lower                M6                   2 
 numbers              N5                   2 
@@ -195,6 +195,7 @@ in_some_cases        Z4                   2
 can                  A7+                  2 
 overhaul             A1.1.1               2 
 any                  N5.1+                2 
+'s                   Z5                   2 
 new                  T3-                  2 
 largely              A13.2                2 
 some                 N5                   2 
@@ -236,7 +237,7 @@ this                 Z8                   1
 was                  A3+                  1 
 negotiation          Q2.2                 1 
 association          S5+                  1 
-lets                 S7.4+                1 
+let_'s               Z5                   1 
 clear                A7+                  1 
 recall               X2.2+                1 
 imposes              S6+                  1 
@@ -341,7 +342,7 @@ weird                A6.2-                1
 Kingston_Reif        Z1                   1 
 arguments            Q2.1                 1 
 we                   Z8                   1 
-shouldnt             Z99                  1 
+should               S6+                  1 
 too                  N5++                 1 
 worked_up            A2.2                 1 
 fundamentally        A11.1+               1 
@@ -414,6 +415,7 @@ silos.               Z99                  1
 4                    N1                   1 
 guided_missile       G3                   1 
 SSGNs                Z99                  1 
+its                  Z8                   1 
 sitting              M8                   1 
 boneyard             Z99                  1 
 rather               A13.5                1 
@@ -451,8 +453,7 @@ tubes                O2                   1
 35                   N1                   1 
 combat               S8-                  1 
 coded                A10-                 1 
-Marc                 Z1                   1 
-schanzs              Z99                  1 
+Marc_Schanz          Z1                   1 
 magisterial          Z99                  1 
 BUFF_Blogging        Z1                   1 
 arms-control_oriented Z99                  1 
@@ -476,12 +477,11 @@ hide                 M7                   1
 because              Z5                   1 
 sum                  N5                   1 
 have_to              S6+                  1 
-David_Moshers        Z1                   1 
+David_Mosher         Z1                   1 
 turn                 N4                   1 
 phrase               Q3                   1 
 small                N3.2-                1 
 potatoes             L3                   1 
-it                   Z8                   1 
 understanding        X2.5+                1 
 has                  Z5                   1 
 yet                  T1.1.2               1 

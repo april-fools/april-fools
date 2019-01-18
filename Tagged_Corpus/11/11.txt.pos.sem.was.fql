@@ -1,12 +1,13 @@
-TOTAL              832
+TOTAL              848
 the                  Z5                  54 
 and                  Z5                  32 
 to                   Z5                  21 
 of                   Z5                  20 
 with                 Z5                  19 
+apple                Z3                  17 
 in                   Z5                  16 
-apple                Z3                  11 
 a                    Z5                  11 
+'s                   Z5                  11 
 OS                   Z5                  10 
 for                  Z5                   9 
 Mac                  Z1                   9 
@@ -16,7 +17,6 @@ version              A4.1                 7
 tiger                L2                   7 
 tiger_Woods          Z1                   6 
 that                 Z8                   6 
-apples               L3                   6 
 on                   Z5                   6 
 more                 N5++                 6 
 2005                 N1                   5 
@@ -29,18 +29,21 @@ than                 Z5                   5
 will                 T1.1.3               5 
 be                   Z5                   5 
 EA                   Z3                   5 
-its                  Z8                   5 
 at                   Z5                   5 
 has                  Z5                   4 
+world                W1                   4 
+i                    Z8                   4 
 personal_computer    Y2                   4 
+industry             I4                   4 
 golf                 K5.1                 4 
 now                  T1.1.2               4 
 all                  N5.1+                4 
+we                   Z8                   4 
 through              Z5                   4 
 information          X2.2+                4 
+its                  Z8                   4 
 foundation           T2+                  4 
 as                   Z5                   3 
-i                    Z8                   3 
 my                   Z8                   3 
 innovation           T3-                  3 
 continues            T2++                 3 
@@ -51,7 +54,6 @@ Woods                O1.1                 3
 tiger+tiger          Z99                  3 
 about                Z5                   3 
 said                 Q2.1                 3 
-we                   Z8                   3 
 worldwide            W3                   3 
 from                 Z5                   3 
 features             O4.1                 3 
@@ -65,19 +67,17 @@ entertainment        K1                   3
 California           Z2                   2 
 company              I2.1                 2 
 reached              M1                   2 
-worlds               W1                   2 
 professional         I3.2+                2 
-industrys            I4                   2 
+it                   Z8                   2 
 always               N6+++                2 
 myself               Z8                   2 
 best                 A5.1+++              2 
 product              O2                   2 
 computers            Y2                   2 
+'s                   A3+                  2 
 us                   Z8                   2 
 be                   A3+                  2 
-industry             I4                   2 
 our                  Z8                   2 
-world                W1                   2 
 Steve                Z1                   2 
 jobs                 I3.1                 2 
 ceo                  S7.1+                2 
@@ -139,7 +139,6 @@ thrilled             E4.1+++              1
 relationship         S3.1                 1 
 involvement          A1.8+                1 
 leader               S7.1+                1 
-it                   Z8                   1 
 important            A11.1+               1 
 align                M2                   1 
 brands               A4.1                 1 
@@ -147,7 +146,7 @@ each                 N5.1+                1
 category             A4.1                 1 
 said                 Q1.1                 1 
 just                 A14                  1 
-Im                   Z99                  1 
+'m                   Z5                   1 
 pushing              M2                   1 
 improve              A5.1+                1 
 push                 M2                   1 
@@ -155,7 +154,7 @@ envelope             O2                   1
 space                N3.6                 1 
 me                   Z8                   1 
 grew_up              T3+                  1 
-theres               Z5                   1 
+there                Z5                   1 
 nothing              Z6                   1 
 better               A5.1++               1 
 partnering_with      A9-                  1 
@@ -172,7 +171,8 @@ benefits             S8+                  1
 using                A1.5.1               1 
 others               A6.1-                1 
 following            Z5                   1 
-xs                   Z5                   1 
+x                    N1                   1 
+'s                   T1.3                 1 
 taillights           Z99                  1 
 make_it              X9.2+                1 
 even                 A13.1                1 
@@ -215,7 +215,7 @@ spend                I1.2                 1
 $300_million         Z99                  1 
 until                Z5                   1 
 end                  M6                   1 
-were                 Z5                   1 
+'re                  Z5                   1 
 delivering           M2                   1 
 innovations          T3-                  1 
 not                  Z6                   1 
@@ -316,7 +316,7 @@ promote              S8+                  1
 health               B2                   1 
 education            P1                   1 
 welfare              S8+                  1 
-Americas             Z2                   1 
+America              Z2                   1 
 TWF                  Z99                  1 
 reaching_out         M1                   1 
 primarily            A13.2                1 

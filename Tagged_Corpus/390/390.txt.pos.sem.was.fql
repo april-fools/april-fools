@@ -1,4 +1,4 @@
-TOTAL              214
+TOTAL              216
 the                  Z5                  13 
 to                   Z5                   7 
 of                   Z5                   6 
@@ -29,6 +29,8 @@ all                  N5.1+                2
 holidays             K1                   2 
 are                  A3+                  2 
 observed             X3.4                 2 
+'s                   Z5                   2 
+Washington           Z2                   2 
 actual               A5.4+                2 
 Friday               T1.3                 2 
 secret               A10-                 1 
@@ -61,17 +63,15 @@ take                 A9+                  1
 time_off             K1                   1 
 three                N1                   1 
 weekend              T1.3                 1 
-Martin_Luther_Kings  Z1                   1 
+Martin_Luther_King   Z1                   1 
 Columbus_Day         Z1                   1 
 labor                A1.1.1               1 
 memorial             H1                   1 
-Washingtons          Z2                   1 
 Mondays              T1.3                 1 
 though               Z5                   1 
 some                 N5                   1 
 is                   A3+                  1 
 not                  Z6                   1 
-Washington           Z2                   1 
 post                 Q1.2                 1 
 decided              X6+                  1 
 move                 M2                   1 
@@ -126,7 +126,7 @@ collectively         S5+                  1
 known                X2.2+                1 
 as                   Z5                   1 
 poisson              Z99                  1 
-davril               Z99                  1 
+d'avril              Z99                  1 
 corroborate          A10+                 1 
 one_another          Z8                   1 
 by_order             S7.1+                1 

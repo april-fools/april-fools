@@ -1,7 +1,6 @@
 $3,500                   NNU     Z99 
 'It                      VVN     Z99 
 30-day                   JJ      Z99 
-Chriss                   NP1     Z99 
 fianc                    NN1     Z99 
 heartwarming             JJ      Z99 
 man'                     JJ      Z99 

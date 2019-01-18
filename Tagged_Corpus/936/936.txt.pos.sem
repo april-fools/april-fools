@@ -57,8 +57,9 @@
 0000002 480  NNO     million                  N1[i4.2.2 T1.3[i4.2.2 I1[i4.2.2 N1 I1 
 0000002 490  NN2     apps                     Z99 
 0000002 500  II      from                     Z5 
-0000002 510  NN2     Apples                   L3 F1 
-0000002 520  VV0     App                      Z99 
+0000002 510  NN1     Apple                    Z3c 
+0000002 511  GE      's                       Z5 
+0000002 520  NN1     App                      Z99 
 0000002 530  NN1     Store                    I2.2/H1c A9+ A9+/H1 
 0000002 540  CC      and                      Z5 
 0000002 550  RG      over                     T3[i5.2.1 N5[i5.2.1 N5.2+ A13.2 
@@ -84,8 +85,9 @@
 0000004 080  VVN     launched                 M4 M5 T2+ 
 0000004 090  II      into                     Z5 
 0000004 100  AT      the                      Z5 
-0000004 110  NN2     worldits                 Z99 
-0000004 120  VVG     going                    T1.1.3[i6.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000004 110  NN1     worldit                  Z99 
+0000004 111  VBZ     's                       Z5 A3+ 
+0000004 120  VVGK    going                    T1.1.3[i6.2.1 
 0000004 130  TO      to                       T1.1.3[i6.2.2 Z5 
 0000004 140  VBI     be                       A3+ Z5 
 0000004 150  AT1     a                        Z5 
@@ -98,7 +100,8 @@
 0000004 190  NP1     Steve                    Z1mf 
 0000004 200  NN2     Jobs                     I3.1 A1.1.1 
 0000004 201  ,       ,                        
-0000004 210  NN2     Apples                   L3 F1 
+0000004 210  NN1     Apple                    Z3c 
+0000004 211  GE      's                       Z5 
 0000004 220  NN1     CEO                      S7.1+/S2mf 
 0000004 221  .       .                        
 0000004 222  NULL    <quote>                  

@@ -159,8 +159,9 @@
 0000006 570  NN1     understanding            X2.5+ 
 0000006 580  CC      and                      Z5 
 0000006 590  VVG     resisting                S8- 
-0000006 600  NN2     Trumps                   K5.2 S7.1+ 
-0000006 610  VV0@    shock                    E5- S1.2.4- 
+0000006 600  NN1     Trump                    Z1mf 
+0000006 601  GE      's                       Z5 
+0000006 610  NN1     shock                    E5- B2- O3 
 0000006 620  NN1     politics                 G1.2c 
 0000006 621  "       "                        
 0000006 622  NULL    </quote>                 
@@ -349,7 +350,8 @@
 0000014 080  AT      the                      Z5 
 0000014 090  NN2     forces                   G3 G2.1 E3- S7.1+ N3 S5+ 
 0000014 100  II      behind                   Z5 
-0000014 110  NN2     Trumps                   K5.2 S7.1+ 
+0000014 110  NN1     Trump                    Z1mf 
+0000014 111  GE      's                       Z5 
 0000014 120  NN1     success                  X9.2+ 
 0000014 121  -       -                        
 0000014 130  VVG     referring                Q2.2 Q1.2 

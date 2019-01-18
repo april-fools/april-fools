@@ -1,7 +1,9 @@
-TOTAL              140
+TOTAL              143
 the                  Z5                  12 
 in                   Z5                  10 
 on                   Z5                   4 
+franchise            I2.2                 3 
+'s                   Z5                   3 
 China                Z2                   3 
 entertainment        K1                   3 
 a                    Z5                   3 
@@ -11,6 +13,7 @@ has                  Z5                   2
 sales                I2.2                 2 
 by                   Z5                   2 
 50_per_cent          N5                   2 
+one                  Z8                   2 
 and                  Z5                   2 
 division             A6.1-                2 
 Peppa                Z99                  2 
@@ -18,22 +21,19 @@ pig                  L2                   2
 television           Q4.3                 2 
 show                 A8                   2 
 for                  Z5                   2 
+children             S2                   2 
 with                 Z5                   2 
 demand               Q2.2                 2 
 london-listed        Z99                  2 
-franchise            I2.2                 2 
 was                  Z5                   2 
-franchises           I2.2                 1 
 success              X9.2+                1 
 helped               S8+                  1 
 boost                S8+                  1 
-ones                 Z8                   1 
 tv                   Q4.3                 1 
 family               S4                   1 
 channel              Z2                   1 
 5/pa                 Z99                  1 
 animated             X5.2+                1 
-children             S2                   1 
 found                A10+                 1 
 new                  T3-                  1 
 audience             K1                   1 
@@ -48,7 +48,6 @@ one                  N1                   1
 majority             N5+++                1 
 owner                A9+                  1 
 of                   Z5                   1 
-childrens            S2                   1 
 cartoon              Q4.3                 1 
 trading              I2.2                 1 
 update               T1.1.2               1 
@@ -68,7 +67,6 @@ driving              M3                   1
 further              N5++                 1 
 growth               N3.2+                1 
 period               T1.3                 1 
-one                  Z8                   1 
 supported            S8+                  1 
 national             M7                   1 
 broadcast            Q4.3                 1 

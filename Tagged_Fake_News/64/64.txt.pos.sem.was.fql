@@ -1,25 +1,25 @@
-TOTAL             1257
+TOTAL             1283
 the                  Z5                  66 
 and                  Z5                  52 
 to                   Z5                  36 
 emails               Q1.3                26 
+'s                   Z5                  23 
 of                   Z5                  23 
 said                 Q2.1                21 
+Weiner               Z99                 21 
 sources              T2+                 20 
+Abedin               Z99                 19 
 a                    Z5                  18 
-Abedin               Z99                 17 
-FBI                  Z99                 16 
+FBI                  Z99                 18 
 in                   Z5                  16 
+Clinton              Z1                  15 
 email                Q1.3                14 
 nypd                 Z99                 13 
 with                 Z5                  12 
-Clinton              Z1                  12 
-Weiner               Z99                 12 
 her                  Z8                  11 
 on                   Z5                   9 
 from                 Z5                   8 
 top_secret           A10---               8 
-Weiners              Z99                  8 
 for                  Z5                   7 
 as                   Z5                   7 
 according_to         Z5                   7 
@@ -31,6 +31,7 @@ classified           A10-                 6
 that                 Z8                   6 
 state_department     G1.1                 6 
 access               M1                   6 
+laptop               Y2                   5 
 new                  T3-                  5 
 not                  Z6                   5 
 are                  Z5                   5 
@@ -40,11 +41,10 @@ at                   Z5                   5
 she                  Z8                   5 
 against              Z5                   4 
 have                 Z5                   4 
-laptop               Y2                   4 
 he                   Z8                   4 
 shared               S1.1.2+              4 
-Clintons             Z1                   4 
 congress             Z3                   4 
+Hillary_Clinton      Z1                   4 
 and_other            S2                   4 
 that                 Z5                   4 
 law                  G2.1                 4 
@@ -63,6 +63,8 @@ stored               A9+                  4
 all                  N5.1+                4 
 was                  A3+                  4 
 his                  Z8                   4 
+island               W3                   4 
+Epstein              Z99                  4 
 been                 Z5                   4 
 including            A1.8+                4 
 campaign             X7+                  4 
@@ -76,7 +78,6 @@ former               T2-                  3
 evidence             A5.2+                3 
 members              S5+                  3 
 insiders             A1.8+                3 
-Hillary_Clinton      Z1                   3 
 secretary_of_state   G1.1                 3 
 reopen               A10+                 3 
 contents             A1.8+                3 
@@ -91,19 +92,22 @@ many                 N5+                  3
 going_to             T1.1.3               3 
 we                   Z8                   3 
 both                 Z5                   3 
+n't                  Z6                   3 
 travel               M1                   3 
 confirmed            A7+                  3 
 would                A7+                  3 
 multiple             N5+                  3 
-island               W3                   3 
 personal             S5-                  3 
+site                 M7                   3 
 managed              S7.1+                3 
 political            G1.2                 3 
 website              Y2                   3 
+domain               X4.1                 3 
 server               F1                   3 
 address              H4                   3 
 interview            Q2.1                 3 
 New_York             Z2                   2 
+department           H2                   2 
 prosecutors          G2.1                 2 
 working              I3.1                 2 
 alleged              Q2.2                 2 
@@ -111,7 +115,6 @@ underage             T3-                  2
 case                 A4.1                 2 
 congressman          G1.2                 2 
 wife                 S4                   2 
-Hillary              Z99                  2 
 crew                 M4                   2 
 told                 Q2.1                 2 
 computer             Y2                   2 
@@ -129,6 +132,7 @@ include              A1.8+                2
 associates           S3.1                 2 
 justice_department   G2.1+                2 
 timely               T1.2                 2 
+what                 Z8                   2 
 is                   A3+                  2 
 there                Z5                   2 
 have                 A9+                  2 
@@ -137,7 +141,6 @@ criminal             G2.1-                2
 probe                O2                   2 
 federal              S5+                  2 
 immunity             B2+                  2 
-nt                   S9                   2 
 one                  N1                   2 
 activity             A1.1.1               2 
 too                  N5++                 2 
@@ -152,20 +155,17 @@ government           G1.1                 2
 occasions            T1.2                 2 
 private              A10-                 2 
 where                M6                   2 
-Epstein              Z99                  2 
 traveled             M1                   2 
 when                 Z5                   2 
 years                T1.3                 2 
 classified           A4.1                 2 
 accounts             I1                   2 
 web                  Y2                   2 
-site                 M7                   2 
 which                Z8                   2 
 anthonyweiner.com    N3.3                 2 
 used                 A1.5.1               2 
-domain               X4.1                 2 
+were                 A3+                  2 
 account              I1                   2 
-Abedins              Z99                  2 
 sensitive            X2.5+                2 
 Anne_Lewis           Z1                   2 
 consulting           Q2.1                 2 
@@ -185,11 +185,9 @@ print                Q1.2                 2
 secure               A7+                  2 
 linked               A2.2                 2 
 webmail              Z99                  2 
-FBIs                 Z99                  2 
 302                  N1                   2 
 report               Q2.2                 2 
 police               G2.1                 1 
-department           H2                   1 
 sexting              Z99                  1 
 Anthony_Weiner       Z1                   1 
 turned_over          M2                   1 
@@ -197,6 +195,7 @@ newly-found          Z99                  1
 Huma_Abedin          Z1                   1 
 enough               N5+                  1 
 put                  M2                   1 
+Hillary              Z99                  1 
 away                 M6                   1 
 life                 L1+                  1 
 true                 A5.2+                1 
@@ -244,9 +243,8 @@ Clinton_foundation   Z3                   1
 obstruction          A12-                 1 
 justice              G2.1+                1 
 felony               G2.1-                1 
-departments          H2                   1 
 highest              N3.7+++              1 
-rank                 A5.1                 1 
+rank                 S7.1+                1 
 under                Z5                   1 
 commissioner         G1.1                 1 
 openly               A10+                 1 
@@ -263,7 +261,7 @@ director             S7.1+                1
 James_Comey          Z1                   1 
 FBI_field            Z2                   1 
 offices              I2.1                 1 
-whats                Z8                   1 
+'s                   A3+                  1 
 staggering           E5-                  1 
 father               S4                   1 
 turned               M2                   1 
@@ -273,7 +271,6 @@ be                   A3+                  1
 any                  N5.1+                1 
 houdini-like         Z99                  1 
 escape               A1.7-                1 
-what                 Z8                   1 
 found                A10+                 1 
 copies               A5.4-                1 
 everything           Z8                   1 
@@ -344,7 +341,6 @@ pedophile_billionaire I1.2                 1
 Jeffrey_Epstein      Z1                   1 
 Boeing_727           Z2                   1 
 U.S_Virgin           Z1                   1 
-Epsteins_island      Z2                   1 
 dubbed               Q2.2                 1 
 Orgy_Island          Z2                   1 
 Sex_Slave            Z1                   1 
@@ -358,7 +354,6 @@ dignitaries          S7.1+                1
 confirm              A7+                  1 
 based_on             A2.2                 1 
 believe              X2.1                 1 
-Epsteins             Z99                  1 
 guest                H4                   1 
 at_least             A13.7                1 
 six                  N1                   1 
@@ -401,7 +396,6 @@ bicycle              M3                   1
 shop                 I2.2                 1 
 closest              N3.3---              1 
 aide                 S8+                  1 
-werent               Z99                  1 
 only                 A14                  1 
 potentially          A7+                  1 
 dozens               N5+                  1 
@@ -435,7 +429,7 @@ personnel            I3.1                 1
 can                  A7+                  1 
 control              S7.1+                1 
 pointed              A10+                 1 
-bureaus              G1.1                 1 
+bureau               G1.1                 1 
 newly-minted         Z99                  1 
 use                  A1.5.1               1 
 handling             A1.1.1               1 
@@ -455,12 +449,10 @@ security             G2.1                 1
 clearance            A9-                  1 
 view                 X2.1                 1 
 send/receive/store   Z99                  1 
-Weiners_site         Z2                   1 
 last_six_years       T1.1.1               1 
 three                N1                   1 
 therefore            Z5                   1 
 full                 N5.1+                1 
-domains              X4.1                 1 
 listed               Q1.2                 1 
 registrant           Z99                  1 
 Whois                Z99                  1 
@@ -472,7 +464,6 @@ task                 A1.1.1               1
 trying               X8+                  1 
 decipher             A10-                 1 
 just                 A14                  1 
-were                 A3+                  1 
 ever                 T1.1                 1 
 compromised          A6.1+                1 
 hackers              Y2                   1 
@@ -522,4 +513,3 @@ seeking              X2.4                 1
 deals                A1.1.1               1 
 testify              G2.1                 1 
 about                Z5                   1 
-laptops              Y2                   1 

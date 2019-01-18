@@ -1,26 +1,28 @@
-TOTAL             2049
+TOTAL             2070
 the                  Z5                 125 
 of                   Z5                  66 
 to                   Z5                  59 
 a                    Z5                  45 
 and                  Z5                  43 
+trump                Z1                  32 
 is                   A3+                 27 
 he                   Z8                  26 
-trump                Z1                  24 
 in                   Z5                  23 
-that                 Z5                  20 
+that                 Z5                  19 
 it                   Z8                  18 
+people               S2                  18 
 about                Z5                  18 
-people               S2                  17 
+that                 Z8                  17 
 for                  Z5                  16 
-that                 Z8                  16 
+'s                   Z5                  15 
 by                   Z5                  15 
 i                    Z8                  14 
 their                Z8                  14 
+they                 Z8                  14 
 are                  A3+                 14 
 on                   Z5                  13 
-they                 Z8                  13 
 his                  Z8                  13 
+we                   Z8                  13 
 trade                I2.2                13 
 but                  Z5                  12 
 our                  Z8                  12 
@@ -31,10 +33,8 @@ from                 Z5                  10
 all                  N5.1+               10 
 be                   A3+                 10 
 have                 Z5                  10 
-trumps               K5.2                 9 
 these                Z5                   9 
 *                    Z5                   9 
-we                   Z8                   9 
 not                  Z6                   8 
 when                 Z5                   8 
 which                Z8                   8 
@@ -43,7 +43,7 @@ even                 A13.1                8
 racist               S5+                  8 
 with                 Z5                   8 
 working-class        S5+                  7 
-nt                   S9                   7 
+n't                  Z6                   7 
 because              Z5                   6 
 America              Z2                   6 
 as                   Z5                   6 
@@ -51,7 +51,9 @@ or                   Z5                   6
 jobs                 I3.1                 6 
 us                   Z8                   5 
 american             Z2                   5 
+Donald_trump         Z1                   5 
 white                O4.3                 5 
+who                  Z8                   5 
 one                  Z8                   5 
 so                   A13.3                5 
 are                  Z5                   5 
@@ -64,8 +66,6 @@ followers            S7.1-                5
 fact                 A5.2+                5 
 can                  A7+                  5 
 free_trade           I2.2                 5 
-Donald_trump         Z1                   4 
-who                  Z8                   4 
 professional         I3.2+                4 
 class                P1                   4 
 other                A6.1-                4 
@@ -74,12 +74,12 @@ like                 Z5                   4
 White_house          Z3                   4 
 than                 Z5                   4 
 its                  Z8                   4 
-were                 Z5                   4 
 good                 A5.1+                4 
 issue                X4.1                 4 
 another              A6.1-                4 
 this                 Z8                   4 
 very                 A13.3                4 
+here                 M6                   4 
 executive            S7.1+                4 
 working              I3.1                 4 
 now                  T1.1.2               3 
@@ -100,6 +100,7 @@ map                  Q1.2                 3
 support              S8+                  3 
 phenomenon           A3                   3 
 speeches             Q2.1                 3 
+were                 Z5                   3 
 things               O2                   3 
 something            Z8                   3 
 talking              Q2.1                 3 
@@ -113,13 +114,13 @@ will                 T1.1.3               3
 you                  Z8                   3 
 did                  Z5                   3 
 no                   Z6                   3 
+there                Z5                   3 
 video                Q4.3                 3 
 company              I2.1                 3 
 Mexico               Z2                   3 
-weve                 Z99                  3 
+'ve                  Z5                   3 
 agreement            A6.1+                3 
 well                 A5.1+                3 
-here                 M6                   3 
 Nafta                Z99                  3 
 talks                Q2.1                 3 
 way                  X4.2                 3 
@@ -144,6 +145,7 @@ last_week            T1.1.1               2
 made                 A1.1.1               2 
 seem                 A8                   2 
 one                  N1                   2 
+'s                   A3+                  2 
 through              Z5                   2 
 himself              Z8                   2 
 in_turn              N4                   2 
@@ -163,10 +165,12 @@ won                  S7.1+                2
 google               Z3                   2 
 searches             X2.4                 2 
 knows                X2.2+                2 
+'                    Z5                   2 
 more                 N5++                 2 
 one-note             K2                   2 
 vast                 N3.2+                2 
 worth                I1.3                 2 
+'re                  Z5                   2 
 told                 Q2.1                 2 
 boast                S1.2.3+              2 
 threaten             E3-                  2 
@@ -204,6 +208,7 @@ at_least             A13.7                2
 saying               Q2.1                 2 
 me                   Z8                   2 
 economists           I2.1                 2 
+Washington           Z2                   2 
 democratic           G1.2                 2 
 thought              X2.1                 2 
 move                 M2                   2 
@@ -221,10 +226,8 @@ information          X2.2+                2
 have                 A9+                  2 
 puts                 M2                   2 
 thing                O2                   2 
-there                Z5                   2 
 economic             I1.3-                2 
 making               A1.1.1               2 
-s                    Z5                   2 
 tale                 Q2.1                 2 
 president            G1.1                 2 
 bring                M2                   2 
@@ -260,7 +263,7 @@ at_the_moment        T1.1.2               1
 presidential         G1.1                 1 
 make_up              A5.2-                1 
 bulk                 N5+++                1 
-fan                  A1.1.1               1 
+fan                  E2+                  1 
 base                 M7                   1 
 show_up              A10+                 1 
 amazing              O4.2+                1 
@@ -291,7 +294,7 @@ trump_supporter      Z3                   1
 up                   Z5                   1 
 along_with           Z5                   1 
 imaginary            A5.2-                1 
-persons              S2                   1 
+person               S2                   1 
 responses            Q2.1                 1 
 questions            Q2.2                 1 
 members              S5+                  1 
@@ -377,7 +380,6 @@ Saturday             T1.3                 1
 Timothy_Egan         Z1                   1 
 blamed               Q2.2                 1 
 none                 Z6                   1 
-Donald               Z1                   1 
 know                 X2.2+                1 
 exactly              A4.2+                1 
 hatred               E2-                  1 
@@ -563,7 +565,6 @@ encompasses          A1.8+                1
 majority             N5+++                1 
 media                Q4                   1 
 figures              N5                   1 
-Washington           Z2                   1 
 officials            G1.1                 1 
 powerbrokers         Z99                  1 
 obviously            Z4                   1 
@@ -583,7 +584,6 @@ remaining            T2++                 1
 90%                  N5                   1 
 means                Q1.1                 1 
 different            A6.1-                1 
-theres               Z5                   1 
 going                M1                   1 
 around               M6                   1 
 internet             Y2                   1 
@@ -596,7 +596,6 @@ plant                L3                   1
 officer              G3                   1 
 factory              I4                   1 
 Monterrey            Z99                  1 
-theyre               Z99                  1 
 all                  A13.2                1 
 going_to             T1.1.3               1 
 lose                 X9.2-                1 
@@ -651,7 +650,6 @@ despair              E4.1-                1
 zones                M7                   1 
 misery               E4.1-                1 
 30                   N1                   1 
-Washingtons          Z2                   1 
 free-market          I2.2                 1 
 consensus            A6.1+                1 
 rest                 E3+                  1 
@@ -760,7 +758,6 @@ normal               A6.2+                1
 relations            A2.2                 1 
 hemorrhaged          B2-                  1 
 look_at              X3.4                 1 
-heres                M6                   1 
 ham-handed           X9.1-                1 
 representing         Q1.1                 1 
 emotionally          E1                   1 
@@ -780,7 +777,6 @@ fortunes             I1.1+++              1
 monopoly             S7.1+                1 
 long_ago             T1.1.1               1 
 turn_its_back_on     A1.9                 1 
-peoples              S2                   1 
 instead              A6.1-                1 
 into                 Z5                   1 
 tribune              Z3                   1 
@@ -803,8 +799,7 @@ Lewandowski          Z99                  1
 Nussbaum             Z99                  1 
 should               S6+                  1 
 anyone               Z8                   1 
-whos                 Z3                   1 
-dipped               A1.1.1               1 
+dipped               M1                   1 
 toe                  B1                   1 
 outside              Z5                   1 
 prosperous           I1.1+                1 

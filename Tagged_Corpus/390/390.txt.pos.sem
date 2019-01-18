@@ -95,7 +95,8 @@
 0000004 372  -----   -----                    
 0000004 380  NP1     Martin                   Z1mf[i9.3.1 Z3c[i9.3.1 Z1mf Z1mf[i8.2.1 Z3c[i8.2.1 
 0000004 390  NP1     Luther                   Z1mf[i9.3.2 Z3c[i9.3.2 Z1mf[i8.2.2 Z3c[i8.2.2 Z1mf[i10.2.1 Z3c[i10.2.1 
-0000004 400  NP1@    Kings                    Z3c[i9.3.3 Z1mf[i9.3.3 Z3c Z1mf[i10.2.2 Z3c[i10.2.2 
+0000004 400  NP1@    King                     Z3c[i9.3.3 Z1mf[i9.3.3 Z1mf[i10.2.2 Z3c[i10.2.2 
+0000004 401  GE      's                       Z5 
 0000004 410  NN1     birthday                 T1.2/T3 
 0000004 411  ,       ,                        
 0000004 420  NP1     Columbus                 Z1mf[i11.2.1 Z3c[i11.2.1 Z1m Z2 
@@ -107,7 +108,8 @@
 0000004 460  NN1     Memorial                 H1 X2.2+ 
 0000004 470  NP1     Day                      T1.3 
 0000004 480  CC      and                      Z5 
-0000004 490  NP2     Washingtons              Z2 Z1mf 
+0000004 490  NP1     Washington               Z2 Z1mf 
+0000004 491  GE      's                       Z5 
 0000004 500  NN1     Birthday                 T1.2/T3 
 0000004 510  VBR     are                      A3+ Z5 
 0000004 520  DB      all                      N5.1+ 
@@ -235,7 +237,7 @@
 0000010 270  II      as                       Z5 
 0000010 280  AT      the                      Z5 
 0000010 290  NN1     poisson                  Z99 
-0000010 300  NN1     davril                   Z99 
+0000010 300  NN1     d'avril                  Z99 
 0000010 310  VV0     coincide                 T1.1.2 A6.1+ 
 0000010 320  CC      and                      Z5 
 0000010 330  VV0     corroborate              A10+ A7+ Q2.2 

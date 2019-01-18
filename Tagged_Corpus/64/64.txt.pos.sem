@@ -209,7 +209,8 @@
 0000006 150  NP1     Mexico                   Z2 Z3c 
 0000006 151  ,       ,                        
 0000006 160  AT      the                      Z5 
-0000006 170  NN2     worlds                   W1 S5+c A4.1 N5+ 
+0000006 170  NN1     world                    W1 S5+c A4.1 N5+ 
+0000006 171  GE      's                       Z5 
 0000006 180  JJT     largest                  N3.2+++ N5+++ A11.1+++ 
 0000006 190  JJ      Spanish                  Z2 Z2/Q3 Z2/S2mfnc 
 0000006 200  JJ@     speaking                 Q2.1 
@@ -236,7 +237,8 @@
 0000006 362  -----   -----                    
 0000006 370  NN2     Representatives          Q2.1/S2mf G1.1/S2mf I2.2/S2mf A4.1 
 0000006 380  II      from                     Z5 
-0000006 390  NP2     Mexicos                  Z2 Z3c 
+0000006 390  NP1     Mexico                   Z2 Z3c 
+0000006 391  GE      's                       Z5 
 0000006 400  JJ      National                 Z3c 
 0000006 410  JJ      Autonomous               S5- 
 0000006 420  NN1     University               P1/H1c 
@@ -263,7 +265,8 @@
 0000006 590  VVI     note                     Q2.1 Q1.2 
 0000006 600  CST     that                     Z8 Z5 
 0000006 610  PPHS2   they                     Z8mfn 
-0000006 620  JJ      werent                   Z99 
+0000006 620  VBDR    were                     Z5 A3+ 
+0000006 621  XX      n't                      Z6 
 0000006 630  VVN     included                 A1.8+ 
 0000006 640  II      in                       Z5 
 0000006 650  AT      the                      Z5 

@@ -1,4 +1,4 @@
-TOTAL             1169
+TOTAL             1174
 the                      69 
 to                       49 
 a                        40 
@@ -17,16 +17,16 @@ with                     14
 object                   14 
 an                       13 
 code                     11 
+it                       11 
 can                      10 
 memory                   10 
-it                       10 
+what                      9 
 x                         9 
 from                      8 
 address                   8 
 if                        8 
 have                      7 
 language                  7 
-what                      7 
 smart                     7 
 will                      6 
 which                     6 
@@ -62,10 +62,12 @@ bad                       3
 std                       3 
 autoptr                   3 
 now                       3 
+they                      3 
 removing                  3 
 them                      3 
 x*                        3 
 0x02af23c0                3 
+'s                        3 
 contains                  3 
 access                    3 
 also                      3 
@@ -79,6 +81,7 @@ only                      3
 undefined                 3 
 behaviour                 3 
 application               3 
+n't                       3 
 need                      3 
 nullity                   3 
 been                      3 
@@ -102,7 +105,7 @@ remove                    2
 raw                       2 
 great                     2 
 making                    2 
-lets                      2 
+let_'s                    2 
 all                       2 
 about                     2 
 why                       2 
@@ -119,7 +122,6 @@ p                         2
 gives                     2 
 at                        2 
 function                  2 
-whats                     2 
 concept                   2 
 good                      2 
 were                      2 
@@ -133,11 +135,9 @@ smaller                   2
 copy                      2 
 dynamic                   2 
 allocation                2 
-they                      2 
 when                      2 
 dereference               2 
 very                      2 
-nt                        2 
 null                      2 
 crash                     2 
 use                       2 
@@ -180,7 +180,7 @@ started                   1
 deprecate                 1 
 specific                  1 
 kind_of                   1 
-theyre                    1 
+'re                       1 
 taking                    1 
 further                   1 
 step                      1 
@@ -285,7 +285,7 @@ came                      1
 0x00000008                1 
 makes                     1 
 statement                 1 
-cant                      1 
+ca                        1 
 prevent                   1 
 finally                   1 
 benefit                   1 
@@ -318,7 +318,6 @@ cluttering                1
 making_it                 1 
 less                      1 
 alternatives              1 
-its                       1 
 while                     1 
 common                    1 
 practice                  1 

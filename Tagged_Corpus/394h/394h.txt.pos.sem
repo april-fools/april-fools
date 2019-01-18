@@ -2,7 +2,8 @@
 0000001 002  -----   -----                    
 0000002 010  NP1     Texting-and-walking      Z99 
 0000002 011  :       :                        
-0000002 020  NN2     theres                   Z5 M6 T1.2 
+0000002 020  EX      there                    Z5 
+0000002 021  VBZ     's                       A3+ Z5 
 0000002 030  AT1     a                        Z5 
 0000002 040  NN1     lane                     M3/H3 
 0000002 050  IF      for                      Z5 

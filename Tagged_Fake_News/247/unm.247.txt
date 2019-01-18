@@ -5,8 +5,10 @@ Brookings                NP1     Z99
 burn-off                 JJ      Z99 
 discontinuity            NN1     Z99 
 Exxon-Rosneft            NP1     Z99 
+intimidation'            JJ      Z99 
 Kozyrev                  NP1     Z99 
 Louisiana                NP1     Z99 
+McCain                   NP1     Z99 
 Obama                    NP1     Z99 
 oilman                   NN1     Z99 
 Putin                    NP1     Z99 
@@ -21,7 +23,6 @@ thinktank                NN1     Z99
 Tillerson                NN1     Z99 
 Tillerson                NN1@    Z99 
 Tillerson                NP1     Z99 
-Tillersons               NP2     Z99 
 Trenin                   NP1@    Z99 
 Trump-Tillerson          NP1     Z99 
 Twitter                  NN1     Z99 

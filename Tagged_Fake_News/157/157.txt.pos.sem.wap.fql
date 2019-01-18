@@ -1,9 +1,10 @@
-TOTAL              867
+TOTAL              880
 the                  AT             38 
 and                  CC             31 
 of                   IO             29 
+Epstein              NP1            26 
 a                    AT1            21 
-Epstein              NP1            18 
+'s                   GE             15 
 in                   II             14 
 his                  APPGE          11 
 with                 IW             10 
@@ -12,19 +13,19 @@ that                 CST             9
 said                 VVD             9 
 not                  XX              9 
 to                   TO              9 
+Clinton              NP1             8 
 girls                NN2             8 
 to                   II              8 
 on                   II              7 
-Epsteins             NP2             7 
 for                  IF              6 
 by                   II              6 
-Clinton              NP1             6 
 they                 PPHS2           6 
 were                 VBDR            6 
 between              II              5 
 it                   PPH1            5 
 victims              NN2             5 
 police               NN2             5 
+attorney             NN1             5 
 federal              JJ              5 
 former               DA              4 
 sex                  NN1             4 
@@ -39,13 +40,14 @@ beach                NN1             4
 from                 II              4 
 U.S.                 NP1             4 
 did                  VDD             4 
-attorney             NN1             4 
 he                   PPHS1           4 
 deal                 NN1             4 
 than                 CSN             3 
 logs                 NN2             3 
+president            NN1             3 
 secret               JJ              3 
 FoxNews.com          NP1             3 
+Jeffrey_Epstein      NP1             3 
 has                  VHZ             3 
 been                 VBN             3 
 their                APPGE           3 
@@ -69,11 +71,9 @@ previously           RR              2
 reported             VVN             2 
 flight               NN1             2 
 showing              VVG             2 
-president            NN1             2 
 service              NN1             2 
 flights              NN2             2 
 according_to         II21            2 
-Clintons             NP2             2 
 occasions            NN2             2 
 is                   VBZ             2 
 more                 DAR             2 
@@ -81,13 +81,11 @@ passengers           NN2             2
 its                  APPGE           2 
 man                  NN1             2 
 like                 II              2 
-Jeffrey_Epstein      NP1             2 
 trafficking          NN1             2 
 would                VM              2 
 do                   VD0             2 
 show                 VVI             2 
 plane                NN1             2 
-epsteins             NN2             2 
 associates           NN2             2 
 FBI                  NP1             2 
 friends              NN2             2 
@@ -129,7 +127,7 @@ more                 RGR             1
 frequent             JJ              1 
 flyer                NN1             1 
 registered           JJ              1 
-offenders            NN2             1 
+offender             NN1             1 
 infamous             JJ              1 
 taking_at            VVG             1 
 least                RR22            1 
@@ -145,7 +143,6 @@ at_least             RR21            1
 five                 MC              1 
 obtained             VVN             1 
 presence             NN1             1 
-Jeffrey              NP1             1 
 Boeing_727           NP1             1 
 11                   MC              1 
 show                 VV0             1 
@@ -215,7 +212,6 @@ nearest              JJT             1
 airport              NN1             1 
 capable              JJ              1 
 accommodating        VVG             1 
-'s                   GE              1 
 flying               NN1             1 
 such                 DA              1 
 destinations         NN2             1 
@@ -254,14 +250,13 @@ spokesperson         NN1             1
 return               VVI             1 
 emails               NN2             1 
 requesting           VVG             1 
-presidents           NN2             1 
 travels              VVZ             1 
 Clinton_library      NP1             1 
 relevant             JJ              1 
 information          NN1             1 
 does                 VDZ             1 
 keep_track_of        VVI             1 
-travel               VV0             1 
+travel               NN1             1 
 Martin_Weinberg      NP1             1 
 current              JJ              1 
 inquiries            NN2             1 
@@ -334,7 +329,7 @@ next                 MD              1
 three                MC              1 
 testified            VVD             1 
 lured                VVN             1 
-home                 RL              1 
+home                 NN1             1 
 being                VBG             1 
 promised             VVN             1 
 dollars              NNU2            1 
@@ -389,7 +384,6 @@ providing_for        VVG             1
 compensation         NN1             1 
 abuse                NN1             1 
 exchange             NN1             1 
-attorneys            NN2             1 
 office               NN1             1 
 promised             VVD             1 
 pursue               VVI             1 

@@ -21,7 +21,6 @@ non-urgent               JJ      Z99
 Obama                    NN1     Z99 
 Obama                    NP1     Z99 
 Obama                    NP1@    Z99 
-Obamas                   NP1     Z99 
 ODNI                     NN1     Z99 
 ODNI                     NN2     Z99 
 outsized                 JJ@     Z99 
@@ -37,6 +36,5 @@ two-sentence             JJ      Z99
 uncorroborated           JJ      Z99 
 unfiltered               JJ      Z99 
 Va                       FW      Z99 
-weve                     NN1     Z99 
 worldview                NN1     Z99 
 Zika                     NP1     Z99 

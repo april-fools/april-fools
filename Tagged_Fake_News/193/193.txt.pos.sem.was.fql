@@ -1,4 +1,4 @@
-TOTAL              242
+TOTAL              243
 the                  Z5                  13 
 to                   Z5                   8 
 in                   Z5                   7 
@@ -12,6 +12,7 @@ has                  Z5                   3
 Goldman_Sachs        Z1                   3 
 on                   Z5                   3 
 be                   A3+                  3 
+Goldman              Z1                   3 
 administration       S7.1+                3 
 is                   A3+                  3 
 head                 S7.1+                2 
@@ -19,7 +20,6 @@ his                  Z8                   2
 White_house          Z3                   2 
 economic             I1.3-                2 
 if                   Z7                   2 
-Goldman              Z1                   2 
 picked               X7+                  2 
 trump                Z1                   2 
 chief                S7.1+                2 
@@ -29,6 +29,7 @@ Wall_Street          Z2                   2
 firm                 I2.1                 2 
 been                 Z5                   2 
 with                 Z5                   2 
+'s                   Z5                   2 
 be                   Z5                   2 
 will                 T1.1.3               2 
 served               S8+                  2 
@@ -86,7 +87,6 @@ move                 M1                   1
 recent               T3-                  1 
 months               T1.3                 1 
 analysis             X2.4                 1 
-'s                   Z5                   1 
 billionaire          I1.1                 1 
 cabinet              H5                   1 
 could                A7+                  1 
@@ -126,7 +126,6 @@ bond                 S5+                  1
 trading              I2.2                 1 
 becoming             A2.1+                1 
 co-head              Z99                  1 
-Goldmans             Z1                   1 
 broader              A4.2--               1 
 securities           G2.1                 1 
 eventually           N4                   1 

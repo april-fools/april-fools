@@ -1,4 +1,4 @@
-TOTAL              458
+TOTAL              464
 the                  AT             36 
 server               NN1            14 
 of                   IO             13 
@@ -13,15 +13,17 @@ mediasmart           NN1             6
 home                 NN1             6 
 new                  JJ              6 
 servers              NN2             6 
+it                   PPH1            5 
 that                 CST             5 
 their                APPGE           4 
 for                  IF              4 
 line                 NN1             4 
+'s                   VBZ             4 
 are                  VBR             4 
+i                    PPIS1           3 
 that                 DD1             3 
 in                   II              3 
 was                  VBDZ            3 
-its                  APPGE           3 
 yet                  RR              3 
 Bling                NP1             3 
 be                   VBI             3 
@@ -47,7 +49,6 @@ which                DDQ             2
 by                   II              2 
 due_to               II21            2 
 other                JJ              2 
-it                   PPH1            2 
 customers            NN2             2 
 who                  PNQS            2 
 while                CS              2 
@@ -60,7 +61,7 @@ currently            RR              2
 already              RR              2 
 bling                JJ              2 
 upgrade              NN1             2 
-im                   VV0             1 
+'m                   VBM             1 
 very                 RG              1 
 report               VVI             1 
 granted              VVN             1 
@@ -169,14 +170,13 @@ iced                 JJ              1
 out                  RP              1 
 spinner              NN1             1 
 clock                NN1             1 
-i                    PPIS1           1 
 asked                VVD             1 
 marketing            NN1             1 
 contact              NN1             1 
 share                VVI             1 
 thinking             NN1             1 
 behind               II              1 
-heres                NN2             1 
+here                 RL              1 
 he                   PPHS1           1 
 had_to               VHD             1 
 say                  VVI             1 
@@ -200,7 +200,7 @@ calculators          NN2             1
 wanted               VVD             1 
 show                 VVI             1 
 does                 VDZ             1 
-nt                   XX              1 
+n't                  XX              1 
 have_to              VHI             1 
 classy               JJ              1 
 boring               JJ              1 
@@ -237,7 +237,7 @@ much                 DA1             1
 canadians            NN2             1 
 any                  DD              1 
 region               NN1             1 
-ive                  NN1             1 
+'ve                  VH0             1 
 been                 VBN             1 
 fortunate            JJ              1 
 enough               RR              1 

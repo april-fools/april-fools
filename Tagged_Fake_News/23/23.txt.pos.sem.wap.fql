@@ -1,4 +1,4 @@
-TOTAL              227
+TOTAL              228
 the                  AT             18 
 in                   II              7 
 and                  CC              6 
@@ -64,9 +64,10 @@ shakers              NN2             1
 movers               NN2             1 
 pokers               NN2             1 
 jokers               NN2             1 
-wheelin              NN1             1 
-stealin              NN1             1 
-obamas               NN2             1 
+wheelin'             NN1             1 
+stealin'             NN1             1 
+Obama                NP1             1 
+'s                   VHZ             1 
 mountaintop          NN1             1 
 that                 CST             1 
 can                  VM              1 
@@ -78,7 +79,7 @@ stupidest            JJT             1
 humans               NN2             1 
 alive                JJ              1 
 Saturday_morning     NPD1            1 
-lets                 VVZ             1 
+let_'s               VM21            1 
 get                  VVI             1 
 trump                NN1             1 
 train                NN1             1 

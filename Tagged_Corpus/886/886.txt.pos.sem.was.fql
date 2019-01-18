@@ -1,15 +1,15 @@
-TOTAL              377
+TOTAL              381
 the                  Z5                  26 
 in                   Z5                  14 
 and                  Z5                  13 
 a                    Z5                  10 
 of                   Z5                   8 
 to                   Z5                   8 
+is                   A3+                  7 
 pennies              I1                   6 
+penny                I1                   6 
 it                   Z8                   6 
 that                 Z8                   6 
-is                   A3+                  5 
-penny                I1                   5 
 than                 Z5                   5 
 U.S.                 Z8                   4 
 coins                I1                   4 
@@ -38,15 +38,17 @@ stopped              T2-                  2
 on                   Z5                   2 
 that                 Z5                   2 
 most                 N5+++                2 
+'s                   A3+                  2 
 quarter              N1                   2 
 has                  A9+                  2 
 did                  A1.1.1               2 
-isnt                 Z99                  2 
+n't                  Z6                   2 
 only                 A14                  2 
 2006                 N1                   2 
 but                  Z5                   2 
 half-cent            Z99                  2 
 without              Z5                   2 
+we                   Z8                   2 
 be                   A3+                  2 
 american             Z2                   2 
 are                  A3+                  2 
@@ -108,7 +110,7 @@ U._S.                Z1                   1
 mint                 I1.1                 1 
 each_year            N6+                  1 
 disappear            A10-                 1 
-whats                Z8                   1 
+what                 Z8                   1 
 point                Q2.1                 1 
 country              G1.1                 1 
 eliminate            A9-                  1 
@@ -158,7 +160,6 @@ equivalent           A6.1+                1
 almost               A13.4                1 
 all                  N5.1+                1 
 change               A2.1+                1 
-we                   Z8                   1 
 now                  T1.1.2               1 
 lug                  M2                   1 
 around               M6                   1 
@@ -174,17 +175,15 @@ sorting              A4.1                 1
 redeeming            A5.1+                1 
 excess               N5.2+                1 
 accumulations        N5+                  1 
-wed                  S4                   1 
-better               A5.1++               1 
-off                  M6                   1 
-pennys               I1                   1 
+'d                   A7+                  1 
+better_off           I1.1++               1 
 real                 A3+                  1 
 defenders            S8+                  1 
 politicians          G1.2                 1 
-Abraham              Z1                   1 
-Lincolns             Z2                   1 
+Abraham_Lincoln      Z1                   1 
+'s                   Z5                   1 
 home                 H4                   1 
-state                Q2.1                 1 
+state                G1.1                 1 
 only_one             N5-                  1 
 can                  A7+                  1 
 still                T2++                 1 

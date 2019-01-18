@@ -1,10 +1,10 @@
-TOTAL              637
+TOTAL              643
 the                  AT             34 
 and                  CC             27 
 of                   IO             26 
 to                   TO             18 
 in                   II             15 
-initiative           NN1            11 
+initiative           NN1            13 
 for                  IF             11 
 systems              NN2            11 
 are                  VBR            10 
@@ -18,6 +18,7 @@ IEEE                 NP1             6
 design               NN1             6 
 new                  JJ              5 
 how                  RRQ             5 
+we                   PPIS2           5 
 technology           NN1             5 
 be                   VBI             5 
 global               JJ              4 
@@ -29,7 +30,7 @@ ai                   NN1             3
 industry             NN1             3 
 as                   CSA             3 
 conduct              NN1             3 
-we                   PPIS2           3 
+'s                   GE              3 
 technologies         NN2             3 
 considerations       NN2             3 
 as                   II              3 
@@ -45,8 +46,9 @@ consideration        NN1             2
 by                   II              2 
 now                  RT              2 
 however              RR              2 
+should               VM              2 
 but                  CCB             2 
-were                 VBDR            2 
+'re                  VBR             2 
 designed             VVN             2 
 help                 VVI             2 
 humanity             NN1             2 
@@ -69,7 +71,6 @@ committees           NN2             2
 provide              VVI             2 
 open                 JJ              2 
 committee            NN1             2 
-initiatives          NN2             2 
 representatives      NN2             2 
 from                 II              2 
 other                JJ              2 
@@ -104,13 +105,11 @@ safety               NN1             1
 and_so_on            RR31            1 
 have                 VH0             1 
 changed              VVN             1 
-should               VM              1 
 define               VVI             1 
 before               CS              1 
 anyone               PN1             1 
 brings_up            VVZ             1 
-Isaac                NP1             1 
-Asimovs              NP2             1 
+Isaac_Asimov         NP1             1 
 three                MC              1 
 laws                 NN2             1 
 robotics             NN2             1 
@@ -139,7 +138,8 @@ pragmatically        RR              1
 implement            VVI             1 
 without              IW              1 
 hindering            VVG             1 
-thats                NN2             1 
+that                 DD1             1 
+'s                   VBZ             1 
 what                 DDQ             1 
 here                 RL              1 
 figure_out           VVI             1 
@@ -235,8 +235,8 @@ experts              NN2             1
 strategic            JJ              1 
 guidance             NN1             1 
 activities           NN2             1 
-overall              RR              1 
-work                 VV0             1 
+overall              JJ              1 
+work                 NN1             1 
 already              RR              1 
 include              VV0             1 
 UN                   NP1             1 
@@ -249,7 +249,7 @@ among                II              1
 universities         NN2             1 
 aspiring             JJ              1 
 innovators           NN2             1 
-shouldnt             NN1             1 
+n't                  XX              1 
 discouraged          VVN             1 
 joining              VVG             1 
 aims                 VVZ             1 

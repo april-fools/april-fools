@@ -1,23 +1,23 @@
-TOTAL              618
+TOTAL              627
 the                  AT             29 
 and                  CC             22 
 of                   IO             18 
 a                    AT1            12 
 is                   VBZ            11 
 to                   TO             10 
-we                   PPIS2           8 
+we                   PPIS2           9 
 our                  APPGE           7 
 world                NN1             6 
 location             NN1             6 
+that                 CST             6 
+i                    PPIS1           6 
 in                   II              6 
 virtual              JJ              6 
 with                 IW              5 
-that                 CST             5 
-i                    PPIS1           5 
+it                   PPH1            5 
 but                  CCB             4 
 people               NN              4 
 not                  XX              4 
-it                   PPH1            4 
 want                 VV0             4 
 or                   CC              4 
 real                 JJ              4 
@@ -30,16 +30,20 @@ information          NN1             3
 why                  RRQ             3 
 been                 VBN             3 
 because              CS              3 
+'s                   VBZ             3 
 this                 DD1             3 
 through              II              3 
 video                NN1             3 
 maps                 NN2             3 
 edition              NN1             2 
+'s                   GE              2 
 2.0                  MC              2 
 most                 RGT             2 
 was                  VBDZ            2 
+that                 DD1             2 
 years                NNT2            2 
 can                  VM              2 
+there                EX              2 
 too                  RR              2 
 new                  JJ              2 
 services             NN2             2 
@@ -56,14 +60,12 @@ do                   VD0             2
 have                 VHI             2 
 location-based       JJ              2 
 yet                  RR              2 
-thats                NN2             2 
 environment          NN1             2 
 modification         NN1             2 
 physical             JJ              2 
 via                  II              2 
 one                  MC1             2 
 you                  PPY             2 
-its                  APPGE           2 
 twitter              VV0             2 
 to                   II              2 
 how                  RRQ             2 
@@ -81,8 +83,8 @@ density              NN1             2
 millions             NNO2            2 
 them                 PPHO2           2 
 sixth                MD              1 
-OReilly              NP1             1 
-medias               NN2             1 
+O'Reilly             NP1             1 
+media                NN              1 
 annual               JJ              1 
 where                CS              1 
 conference           NN1             1 
@@ -96,7 +98,6 @@ attended             VVN             1
 to_date              II              1 
 premise              NN1             1 
 consistent           JJ              1 
-that                 DD1             1 
 previous             JJ              1 
 citizen              NN1             1 
 map-making           NN1             1 
@@ -108,7 +109,6 @@ value                NN1             1
 geographic           JJ              1 
 location-aware       JJ              1 
 advertising          NN1             1 
-there                EX              1 
 else                 RR              1 
 going_on             VVG             1 
 complex              JJ              1 
@@ -144,7 +144,7 @@ simplest             JJT             1
 geo                  NN1             1 
 tools                NN2             1 
 after_all            II              1 
-im                   VV0             1 
+'m                   VBM             1 
 suffering            VVG             1 
 where                RRQ             1 
 withdrawal           NN1             1 
@@ -169,7 +169,7 @@ on                   II              1
 helping              VVG             1 
 access               VVI             1 
 more                 DAR             1 
-theres               NN2             1 
+'s                   VHZ             1 
 no                   AT              1 
 breakthrough         NN1             1 
 success              NN1             1 
@@ -177,7 +177,7 @@ friend-finding       NN1             1
 place-finding        JJ              1 
 applications         NN2             1 
 humans               NN2             1 
-nt                   XX              1 
+n't                  XX              1 
 want                 VVI             1 
 understand           VVI             1 
 local                JJ              1 
@@ -237,7 +237,7 @@ design               NN1             1
 human-               NN1             1 
 city-scale           JJ              1 
 which                DDQ             1 
-Ben_Cervenys         NP1             1 
+Ben_Cerveny          NP1             1 
 work                 NN1             1 
 VURB                 NP1             1 
 gets                 VVZ             1 
@@ -278,7 +278,7 @@ smartphones          NN2             1
 container            NN1             1 
 number               NN1             1 
 soon                 RR              1 
-well                 RR              1 
+'ll                  VM              1 
 track                VVI             1 
 locations            NN2             1 
 spread               NN1             1 
@@ -370,6 +370,7 @@ services_industry    NN2             1
 matured              VVN             1 
 use                  VV0             1 
 more                 RRR             1 
+its                  APPGE           1 
 possibilities        NN2             1 
 remain               VV0             1 
 largely              RR              1 
@@ -377,7 +378,8 @@ unrealized           JJ              1
 gigaom               NN1             1 
 pro_content          II              1 
 sub                  JJ              1 
-reqd                 NN1             1 
+req                  NN1             1 
+'d                   VM              1 
 epicenter            JJR             1 
 Mobile               NP1             1 
 innovation           NN1             1 

@@ -8,6 +8,7 @@
 0000002 050  PNQS    who                      Z8 
 0000002 060  VHZ     has                      Z5 A9+ A2.2 S4 
 0000002 070  VVN     ended                    T2- 
-0000002 080  NP2     Irans                    Z2 Z3c 
+0000002 080  NP1     Iran                     Z2 Z3c 
+0000002 081  GE      's                       Z5 
 0000002 090  NN1     isolation                A1.8- S5- A10+ 
 0000004 001  NULL    **8;7;text               

@@ -1,11 +1,11 @@
-TOTAL              651
+TOTAL              654
 the                  AT             43 
 and                  CC             24 
 a                    AT1            23 
 home                 NN1            20 
-depot                NN1            17 
+depot                NN1            19 
 in                   II             16 
-of                   IO             16 
+of                   IO             15 
 new                  JJ             11 
 with                 IW              8 
 is                   VBZ             8 
@@ -20,6 +20,8 @@ our                  APPGE           5
 your                 APPGE           5 
 at                   II              5 
 different            JJ              4 
+'s                   GE              4 
+i                    PPIS1           4 
 been                 VBN             4 
 are                  VBR             4 
 this                 DD1             4 
@@ -29,7 +31,6 @@ but                  CCB             4
 retailer             NN1             3 
 you                  PPY             3 
 on                   II              3 
-i                    PPIS1           3 
 that                 CST             3 
 square               NN1             3 
 stencil              NN1             3 
@@ -58,7 +59,6 @@ orange               JJ              2
 extends              VVZ             2 
 history              NN1             2 
 involvement          NN1             2 
-depots               NN2             2 
 still                RR              2 
 old                  JJ              2 
 great                JJ              2 
@@ -71,7 +71,6 @@ color                NN1             2
 palette              NN1             2 
 as                   CSA             2 
 approach             NN1             2 
-its                  APPGE           2 
 racing               VVG             2 
 1999                 MC              2 
 rookie               NN1             2 
@@ -86,15 +85,14 @@ stocking             VVG             1
 up_to_25,000         RG21            1 
 skus                 NN1             1 
 at_the_time          II              1 
-worlds               NN2             1 
+world                NN1             1 
 improvement          NN1             1 
 fourth               MD              1 
 ranked               VVN             1 
 number               NN1             1 
 29                   MC              1 
 fortune              NN1             1 
-lets                 VVZ             1 
-face                 VVI             1 
+let_'s_face_it       VM21            1 
 one                  MC1             1 
 coolest              JJT             1 
 chain_stores         NN1             1 
@@ -134,7 +132,7 @@ asked                VVN             1
 question             NN1             1 
 knowledgeable        JJ              1 
 helpful              JJ              1 
-ive                  NN1             1 
+'ve                  VH0             1 
 Brooklyn             NP1             1 
 unflappable          JJ              1 
 week                 NNT1            1 
@@ -277,7 +275,8 @@ there                EX              1
 also                 RR              1 
 logo-as-window       JJ              1 
 taking_on            VVG             1 
-kind                 NN1             1 
+'s                   VBZ             1 
+kind_of              RR21            1 
 obvious              JJ              1 
 in_a_way             II              1 
 images               NN2             1 
@@ -288,6 +287,7 @@ imagine              VV0             1
 very                 RG              1 
 big_deal             JJ              1 
 let                  VVI             1 
+its                  APPGE           1 
 take_on              VVI             1 
 looks                NN2             1 
 famed                JJ              1 
@@ -311,7 +311,7 @@ Tony_Stewart         NP1             1
 will                 NN1             1 
 debut                NN1             1 
 design               NN1             1 
-Goodys               NP1             1 
+Goody                NP1             1 
 fast                 JJ              1 
 relief               NN1             1 
 Martinsville_speedway NP1             1 

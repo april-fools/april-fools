@@ -1,4 +1,4 @@
-TOTAL              306
+TOTAL              308
 the                  Z5                  18 
 and                  Z5                  12 
 to                   Z5                  10 
@@ -27,6 +27,7 @@ that                 Z5                   2
 are                  A3+                  2 
 its                  Z8                   2 
 people               S2                   2 
+'s                   A3+                  2 
 should               S6+                  2 
 his                  Z8                   2 
 be                   A3+                  2 
@@ -77,8 +78,9 @@ ideas                X4.1                 1
 formulas             Y1                   1 
 free                 S6-                  1 
 availability         A3                   1 
-gods                 S9                   1 
-love                 E2+                  1 
+God                  S9                   1 
+'s                   Z5                   1 
+love                 S3.2                 1 
 forgiveness          G2.2+                1 
 said                 Q2.1                 1 
 i_see                Z4                   1 
@@ -93,7 +95,7 @@ these                Z5                   1
 principles           G2.2                 1 
 genuinely            A5.4+                1 
 wants                X7+                  1 
-whats                Z8                   1 
+what                 Z8                   1 
 best                 A5.1+++              1 
 all                  N5.1+                1 
 went_on              T2++                 1 
@@ -169,7 +171,7 @@ everything           Z8                   1
 climate              W4                   1 
 income               I1.1                 1 
 inequality           A6.1-                1 
-Bill_OReilly         Z1                   1 
+Bill_O'Reilly        Z1                   1 
 has                  A9+                  1 
 numerous             N5+                  1 
 times                T1                   1 
@@ -186,7 +188,6 @@ bringing             M2                   1
 environmental        W5                   1 
 forefront            A11.1+               1 
 he                   Z8                   1 
-s                    T1.3                 1 
 rockstar             Z99                  1 
 prudence_Bradley     Z1                   1 
 19                   N1                   1 

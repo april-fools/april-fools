@@ -7,7 +7,7 @@
 0000002 050  NN1     boom                     N5++ I2.1/N5++ X3.2 O2 
 0000002 060  II      in                       Z5 
 0000002 070  JJ      Medical                  B3 
-0000002 080  NN1     Tourism                  M1 
+0000002 080  NP1     Tourism'                 Z99 
 0000002 090  CC      and                      Z5 
 0000002 100  AT      the                      Z5 
 0000002 110  NN1     now-common-knowledge     Z99 
@@ -33,7 +33,7 @@
 0000002 301  ,       ,                        
 0000002 310  PPH1    it                       Z8 
 0000002 320  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000002 321  XX      nt                       S9/Q4.1 Z3c 
+0000002 321  XX      n't                      Z6 
 0000002 330  VVI     take                     X2.1/T1.3+[i2.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
 0000002 340  RR      long                     X2.1/T1.3+[i2.2.2 T1.3+ 
 0000002 350  IF      for                      Z5 
@@ -49,7 +49,7 @@
 0000002 432  -----   -----                    
 0000002 440  NN1     Hair                     B1 
 0000002 450  NN1     Care                     S8+ G1.1/S8+ B3 A1.3 E6- 
-0000002 460  NN1     Tourism                  M1 
+0000002 460  NP1     Tourism'                 Z99 
 0000002 470  VBZ     is                       Z5 A3+ 
 0000002 480  VVN     based                    A2.2[i3.2.1 T2+ M6 A2.2 
 0000002 490  II      on                       A2.2[i3.2.2 Z5 
@@ -71,8 +71,9 @@
 0000002 640  II      in                       Z5 
 0000002 650  DD      some                     N5 Z5 
 0000002 660  NN2     countries                M7 
-0000002 670  CST     that                     Z5 Z8 
-0000002 680  APPGE   its                      Z8 
+0000002 670  CST     that                     Z8 Z5 
+0000002 680  PPH1    it                       Z8 
+0000002 681  VBZ     's                       A3+ Z5 
 0000002 690  RR      easily                   A12+ 
 0000002 700  JJ      possible                 A7+ 
 0000002 710  TO      to                       Z5 
@@ -146,7 +147,8 @@
 0000004 451  .       .                        
 0000005 001  -----   -----                    
 0000006 010  CS      While                    Z5 
-0000006 020  APPGE   its                      Z8 
+0000006 020  PPH1    it                       Z8 
+0000006 021  VBZ     's                       A3+ Z5 
 0000006 030  RT      now                      T1.1.2 Z4 
 0000006 040  JJ      possible                 A7+ 
 0000006 050  TO      to                       Z5 
@@ -224,8 +226,9 @@
 0000011 280  NN1     care                     S8+ G1.1/S8+ B3 A1.3 E6- 
 0000011 290  NN1     tourism                  M1 
 0000011 300  NN1     boom                     N5++ I2.1/N5++ X3.2 O2 
-0000011 310  APPGE   its                      Z8 
-0000011 320  JJ@     transformed              A2.1+ 
+0000011 310  PPH1    it                       Z8 
+0000011 311  VBZ     's                       Z5 A3+ 
+0000011 320  VVN     transformed              A2.1+ 
 0000011 330  II      into                     Z5 
 0000011 340  MC1     one                      N1 T3 T1.2 
 0000011 350  IO      of                       Z5 
@@ -520,7 +523,8 @@
 0000022 870  NN1     vodka                    F2 
 0000022 880  IF      for                      Z5 
 0000022 890  APPGE   their                    Z8 
-0000022 900  NN2     cousins                  S4mf 
+0000022 900  NN1     cousin                   S4mf 
+0000022 901  GE      's                       Z5 
 0000022 910  NN1     wedding                  S4 
 0000022 920  RRR     later                    T4-- T1.1.3 N4 
 0000022 930  DD1     that                     Z5 Z8 
@@ -680,7 +684,7 @@
 0000031 361  .       .                        
 0000031 362  -----   -----                    
 0000031 370  VD0     Do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000031 371  XX      nt                       S9/Q4.1 Z3c 
+0000031 371  XX      n't                      Z6 
 0000031 380  VVI     expect                   X2.6+ B1 
 0000031 390  JJ      four-star                A5.1+ 
 0000031 400  NN1     beach                    W3/M4 
@@ -817,7 +821,8 @@
 0000038 340  NN2     visits                   S1.1.1 M1 
 0000038 341  .       .                        
 0000039 001  -----   -----                    
-0000040 010  APPGE   Its                      Z8 
+0000040 010  PPH1    It                       Z8 
+0000040 011  VBZ     's                       A3+ Z5 
 0000040 020  JJ      good                     A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
 0000040 030  TO      to                       Z5 
 0000040 040  VBI     be                       A3+ Z5 
@@ -838,7 +843,7 @@
 0000040 160  CS      Unless                   Z5 
 0000040 170  PPY     you                      Z8mf 
 0000040 180  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000040 181  XX      nt                       S9/Q4.1 Z3c 
+0000040 181  XX      n't                      Z6 
 0000040 190  VVI     mind                     E6+ E2- S8+ A1.3 
 0000040 200  AT1     a                        Z5 
 0000040 210  NN1     cut                      A1.1.1 N5-/A2.1 T2- B2- B5 Q4.3 S1.1.2+ F1 K5.1 F3 
@@ -862,7 +867,9 @@
 0000040 370  NP1     Slumdog                  Z99 
 0000040 380  NN1     Millionaire              I1.1++/S2mf 
 0000040 381  ,       ,                        
-0000040 390  APPGE   its                      Z8 
+0000040 382  "@      '                        
+0000040 390  PPH1    it                       Z8 
+0000040 391  VBZ     's                       A3+ Z5 
 0000040 400  JJ      wise                     S1.2.6+ X9.1+ 
 0000040 410  TO      to                       Z5 
 0000040 420  VVI     go                       A6.1+[i49.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
@@ -899,7 +906,8 @@
 0000040 700  RR22    well                     N5++[i50.2.2 A5.1+ A13.3 A7+ B2+ Z4 
 0000040 701  .       .                        
 0000040 702  -----   -----                    
-0000040 710  APPGE   Its                      Z8 
+0000040 710  PPH1    It                       Z8 
+0000040 711  VBZ     's                       A3+ Z5 
 0000040 720  JJ      wise                     S1.2.6+ X9.1+ 
 0000040 730  TO      to                       Z5 
 0000040 740  VVI     check                    X2.4/A5.3 A15 Q1.2 T2- M5 
@@ -1075,8 +1083,8 @@
 0000047 740  NN2     laws                     G2.1 S6+ 
 0000047 750  RRQ     whereby                  Z5 
 0000047 760  NN2     stylists                 B4/S2mf 
-0000047 770  VB0     are                      Z5 
-0000047 771  XX      nt                       S9/Q4.1 Z3c 
+0000047 770  VBR     are                      Z5 A3+ 
+0000047 771  XX      n't                      Z6 
 0000047 780  VVN     required                 X7+ S6+ 
 0000047 790  TO@     to                       Z5 
 0000047 800  VVI     work                     I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
@@ -1279,8 +1287,9 @@
 0000056 272  -----   -----                    
 0000056 280  RR      Instead                  A6.1- 
 0000056 281  ,       ,                        
-0000056 290  VV0     youll                    Z99 
-0000056 300  VV0     need                     S6+ 
+0000056 290  PPY     you                      Z8mf 
+0000056 291  VM      'll                      T1.1.3 
+0000056 300  VVI     need                     S6+ 
 0000056 310  TO      to                       Z5 
 0000056 320  VVI     go                       M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
 0000056 330  AT1     a                        N5[i71.2.1 S4[i71.2.1 Z5 
@@ -1373,9 +1382,10 @@
 0000058 590  RR22    well                     N5++[i79.2.2 A5.1+ A13.3 A7+ B2+ Z4 
 0000058 591  ,       ,                        
 0000058 600  CC      and                      Z5 
-0000058 610  VV0     youll                    Z99 
+0000058 610  PPY     you                      Z8mf 
+0000058 611  VM      'll                      T1.1.3 
 0000058 620  RR      often                    N6+ 
-0000058 630  VV0     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000058 630  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
 0000058 640  JJ      entire                   N5.1+ 
 0000058 650  NN1     town                     M7 
 0000058 660  NN1     square                   O4.4 M3/H3 T3+/S2mf N2 
@@ -1408,7 +1418,8 @@
 0000060 120  II      in                       Z5 
 0000060 130  NP1     China                    Z2 
 0000060 131  ,       ,                        
-0000060 140  APPGE   its                      Z8 
+0000060 140  PPH1    it                       Z8 
+0000060 141  VBZ     's                       A3+ Z5 
 0000060 150  JJT     easiest                  A12+++ 
 0000060 160  CC      and                      Z5 
 0000060 170  RGT     most                     A13.2 

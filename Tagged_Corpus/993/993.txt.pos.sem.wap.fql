@@ -1,4 +1,4 @@
-TOTAL              536
+TOTAL              542
 the                  AT             46 
 in                   II             17 
 a                    AT1            15 
@@ -11,24 +11,26 @@ militants            NN2             7
 were                 VBDR            7 
 attacks              NN2             7 
 and                  CC              6 
+province             NN1             6 
 Monday               NPD1            5 
 killed               VVN             5 
-province             NN1             5 
+consulate            NN1             5 
 at                   II              5 
 US_Consulate         NP1             4 
 Peshawar             NP1             4 
-consulate            NN1             4 
 three                MC              4 
 said                 VVD             4 
 that                 CST             4 
 have                 VHI             4 
 this                 DD1             4 
+'s                   GE              4 
 by                   II              4 
 been                 VBN             4 
 coordinated          JJ              3 
 including            II              3 
 taliban              JJ              3 
 americans            NN2             3 
+Pakistan             NP1             3 
 grenades             NN2             3 
 people               NN              3 
 blasts               NN2             3 
@@ -45,7 +47,6 @@ six                  MC              2
 four                 MC              2 
 no                   AT              2 
 an                   AT1             2 
-Pakistan             NP1             2 
 northwest_Pakistan   ND1             2 
 north_west           ND1             2 
 NWFP                 NP1             2 
@@ -72,6 +73,7 @@ may                  VM              2
 forces               NN2             2 
 they                 PPHS2           2 
 week                 NNT1            2 
+'                    GE              2 
 to                   II              2 
 50_miles             MC              2 
 rally                NN1             2 
@@ -194,7 +196,6 @@ retired              JJ              1
 brig                 NN1             1 
 mehmood              VV0             1 
 Shah                 NP1             1 
-Pakistans            NP2             1 
 areas                NN2             1 
 monitor              NN1             1 
 phone                NN1             1 
@@ -234,9 +235,8 @@ coordinates          NN2             1
 disbursement         NN1             1 
 aid                  NN1             1 
 August_2008          NPM1            1 
-consulates           NN2             1 
 chief                JJ              1 
-officers             NN2             1 
+officer              NN1             1 
 car                  NN1             1 
 was                  VBDZ            1 
 ambushed             VVN             1 
@@ -256,7 +256,6 @@ killed               VVD             1
 about                RG              1 
 north_of_Peshawar    ND1             1 
 organized            VVN             1 
-provinces            NN2             1 
 ruling               JJ              1 
 awami                JJ              1 
 national             JJ              1 

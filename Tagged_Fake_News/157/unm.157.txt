@@ -5,8 +5,6 @@ co-conspirators          NN2     Z99
 deposition               NN1     Z99 
 Epstein                  NP1     Z99 
 Epstein                  NP1@    Z99 
-Epsteins                 NN2@    Z99 
-Epsteins                 NP2     Z99 
 FBI                      NP1     Z99 
 firestorm                NN1     Z99 
 Fla.                     NP1     Z99 

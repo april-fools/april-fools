@@ -1,4 +1,4 @@
-TOTAL              503
+TOTAL              510
 the                  AT             46 
 of                   IO             18 
 a                    AT1            18 
@@ -17,6 +17,7 @@ arts                 NN2             4
 including            II              4 
 be                   VBI             4 
 have                 VH0             4 
+'s                   GE              4 
 was                  VBDZ            4 
 but                  CCB             4 
 are                  VBR             4 
@@ -52,6 +53,7 @@ who                  PNQS            2
 theatre              NN1             2 
 efforts              NN2             2 
 Saturday             NPD1            2 
+Lynn                 NP1             2 
 had                  VHD             2 
 when                 RRQ             2 
 council              NN1             2 
@@ -85,15 +87,16 @@ back                 RP              1
 range                NN1             1 
 events               NN2             1 
 attractions          NN2             1 
+'                    GE              1 
 attracted            VVN             1 
 support              NN1             1 
 celebrity            NN1             1 
 patrons              NN2             1 
 antique              JJ              1 
-Roadshows_Mark       NP1             1 
-Hill                 NNL1            1 
+roadshow             NN1             1 
+Mark_Hill            NP1             1 
 revealed             VVN             1 
-Kings_Lynns          NP1             1 
+King                 NP1             1 
 rug                  NN1             1 
 pulled               VVN             1 
 under                II              1 
@@ -134,7 +137,8 @@ top                  JJ              1
 hopes                NN2             1 
 also                 RR              1 
 medieval             JJ              1 
-St_Georges_Guildhall NP1             1 
+St_George            NP1             1 
+Guildhall            NP1             1 
 King_Street          NP1             1 
 believed             VVN             1 
 rented               VVN             1 
@@ -153,7 +157,6 @@ chairman             NN1             1
 Alan_Taylor          NP1             1 
 enthusiasm           NN1             1 
 ensured              VVN             1 
-Lynn                 NP1             1 
 did                  VDD             1 
 lose                 VVI             1 
 jewel                NN1             1 

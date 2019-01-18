@@ -155,9 +155,10 @@
 0000008 250 of                                          93 IO
 0000008 260 the                                         93 AT
 0000008 270 iPhone                                      06 [NN1/100] VV0/0
-0000008 280 versions                                    03 NN2
-0000008 290 image                                       93 [NN1/84] VV0%/16
-0000008 300 editing                                     93 [NN1/59] VVG/41
+0000008 280 version                   >                 93 NN1
+0000008 281 's                        <                 98 GE
+0000008 290 image                                       93 [NN1/100] VV0%/0
+0000008 300 editing                                     93 [NN1/62] VVG/38
 0000008 310 features                                    03 [NN2/87] VVZ@/13
 0000008 320 most                                        93 [RGT/100] DAT/0 RRT@/0
 0000008 330 importantly                                 03 RR

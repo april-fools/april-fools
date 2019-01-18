@@ -36,7 +36,7 @@
 0000002 321  .       .                        
 0000002 322  -----   -----                    
 0000002 330  PPHS1   He                       Z8m 
-0000002 331  VBZ     s                        Z5 
+0000002 331  VHZ     's                       Z5 A9+ A2.2 
 0000002 340  RR@     since                    N4 
 0000002 350  VBN     been                     Z5 A3+ 
 0000002 360  VVN     revealed                 A10+ 
@@ -118,7 +118,8 @@
 0000004 260  VM      may                      A7+ 
 0000004 270  XX      not                      Z6 
 0000004 280  VVI     share                    S1.1.2+ 
-0000004 290  NP2     Obamas                   Z99 
+0000004 290  NP1     Obama                    Z99 
+0000004 291  GE      's                       Z5 
 0000004 300  JJ      personal                 S5- S1.2.1+ 
 0000004 310  NN2     characteristics          O4.1 A4.2+ N2 
 0000004 320  CC      and                      Z5 
@@ -223,7 +224,8 @@
 0000008 350  NN1     branch                   S5+c L3 A4.1 
 0000008 351  .       .                        
 0000008 352  -----   -----                    
-0000008 360  VVZ     Thats                    Z5 Z8 A13.3 A6.1+ 
+0000008 360  DD1     That                     Z8 Z5 
+0000008 361  VBZ     's                       A3+ Z5 
 0000008 370  AT      the                      Z5 
 0000008 380  NN1     kind                     A4.1 
 0000008 390  IO      of                       Z5 
@@ -339,7 +341,8 @@
 0000010 600  VBG     Being                    A3+ Z5 
 0000010 610  JJ      Arab                     Z2 Z2/Q3 
 0000010 620  JJ      alone                    A14 S5- 
-0000010 630  NN1     wasnt                    Z99 
+0000010 630  VBDZ    was                      A3+ Z5 
+0000010 631  XX      n't                      Z6 
 0000010 640  RR      enough                   N5+ N6+ 
 0000010 650  TO      to                       Z5 
 0000010 660  VVI     get                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
@@ -592,7 +595,7 @@
 0000058 011  :       :                        
 0000058 020  NP1     Onek                     Z99 
 0000058 021  ,       ,                        
-0000058 030  NP1     Matthew                  Z1m S9/O1.2 
+0000058 030  NP1     Matthew'                 Z99 
 0000060 010  NN1     Subject                  X4.1 C1/S2mf Q3 P1 S7.1-/S2mf 
 0000060 011  :       :                        
 0000060 020  JJ      Asian                    Z2 
@@ -834,7 +837,8 @@
 0000102 061  .       .                        
 0000102 062  -----   -----                    
 0000102 070  CCB     But                      Z5 
-0000102 080  NN2     theres                   Z5 M6 T1.2 
+0000102 080  EX      there                    Z5 
+0000102 081  VBZ     's                       A3+ Z5 
 0000102 090  AT      no                       Z6 
 0000102 100  NN1     magic                    S9 
 0000102 110  II      to                       Z5 
@@ -974,7 +978,7 @@
 0000126 081  ,       ,                        
 0000126 090  PPIS1   I                        Z8mf 
 0000126 100  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000126 101  XX      nt                       S9/Q4.1 Z3c 
+0000126 101  XX      n't                      Z6 
 0000126 110  VVI     think                    X2.1 
 0000126 120  DD      any                      N5.1+ N5 
 0000126 130  IO      of                       Z5 

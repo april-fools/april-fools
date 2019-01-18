@@ -1,4 +1,4 @@
-TOTAL              177
+TOTAL              178
 the                  AT             10 
 and                  CC              6 
 goods                NN2             5 
@@ -66,8 +66,9 @@ rapists              NN2             1
 are                  VBR             1 
 violent              JJ              1 
 nation               NN1             1 
-wont                 JJ              1 
-send                 VV0             1 
+wo                   VM              1 
+n't                  XX              1 
+send                 VVI             1 
 us                   PPIO2           1 
 best                 JJT             1 
 be                   VBI             1 

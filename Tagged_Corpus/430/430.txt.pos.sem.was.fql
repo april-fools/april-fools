@@ -1,4 +1,4 @@
-TOTAL              565
+TOTAL              566
 the                  Z5                  49 
 and                  Z5                  15 
 force                E3-                 15 
@@ -6,8 +6,8 @@ to                   Z5                  14
 of                   Z5                  12 
 with                 Z5                  10 
 CERN                 Z99                  7 
+it                   Z8                   7 
 for                  Z5                   6 
-it                   Z8                   6 
 at                   Z5                   5 
 a                    Z5                   5 
 i                    Z8                   5 
@@ -53,7 +53,7 @@ Max_Brice            Z1                   2
 Daniel_Dominguez/CERN Z1                   2 
 physicist            Y1                   2 
 his                  Z8                   2 
-its                  Z8                   2 
+'s                   A3+                  2 
 by                   Z5                   2 
 things               O2                   2 
 minds                X1                   2 
@@ -142,6 +142,7 @@ exactly              A4.2+                1
 causes               A2.2                 1 
 students             P1                   1 
 professors           P1                   1 
+its                  Z8                   1 
 power                S7.1+                1 
 practical            A1.6                 1 
 applications         Q1.2                 1 
@@ -218,7 +219,6 @@ relations            A2.2                 1
 provided             A9-                  1 
 plenty               N5+                  1 
 action               A1.1.1               1 
-'s                   A3+                  1 
 makes                A1.1.1               1 
 sound                X3.2                 1 
 when                 Z5                   1 

@@ -16,6 +16,3 @@ Morrisburg               NP1     Z99
 taste-test               JJ      Z99 
 undertone                NN1     Z99 
 unpeeled                 JJ      Z99 
-Weve                     NP1@    Z99 
-youre                    NN1     Z99 
-youre                    VV0     Z99 

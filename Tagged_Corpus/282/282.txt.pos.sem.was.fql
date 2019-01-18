@@ -1,4 +1,4 @@
-TOTAL              436
+TOTAL              439
 the                  Z5                  30 
 a                    Z5                  14 
 great                A5.1+               12 
@@ -7,12 +7,12 @@ Chihuahua            Z99                 11
 to                   Z5                  10 
 and                  Z5                  10 
 of                   Z5                   9 
+it                   Z8                   8 
 for                  Z5                   8 
 pet                  L2                   7 
 dog                  L2                   7 
 embrace              S3.2                 6 
 insurance            I1                   6 
-it                   Z8                   6 
 you                  Z8                   6 
 breed                A4.1                 5 
 first                N4                   4 
@@ -21,7 +21,6 @@ more                 A13.3                4
 i                    Z8                   4 
 is                   A3+                  3 
 chihuahuas           Z99                  3 
-its                  Z8                   3 
 new                  T3-                  3 
 giant                N3.2+++              3 
 when                 Z5                   3 
@@ -44,6 +43,7 @@ has                  Z5                   2
 who                  Z8                   2 
 was                  A3+                  2 
 so                   A13.3                2 
+'s                   A3+                  2 
 are                  A3+                  2 
 makes_sense          X2.5+                2 
 other                A6.1-                2 
@@ -53,6 +53,7 @@ really               A13.3                2
 owners               A9+                  2 
 themselves           Z8                   2 
 at                   Z5                   2 
+n't                  Z6                   2 
 about                Z5                   2 
 your                 Z8                   2 
 Beachwood            Z99                  1 
@@ -64,6 +65,7 @@ has                  A9+                  1
 long-standing        T2++                 1 
 reputation           I3.2                 1 
 innovation           T3-                  1 
+its                  Z8                   1 
 extension            H1                   1 
 2010                 N1                   1 
 now                  T1.1.2               1 
@@ -175,7 +177,6 @@ frenzy               A1.1.1               1
 my                   Z8                   1 
 'he                  Z99                  1 
 does                 Z5                   1 
-n't                  Z6                   1 
 know                 X2.2+                1 
 how                  Z5                   1 
 he                   Z8                   1 
@@ -219,7 +220,7 @@ consider             X2.1                 1
 magic                S9                   1 
 one                  N1                   1 
 thing                O2                   1 
-cant                 Q2.1                 1 
+ca                   A7+                  1 
 buy                  I2.2                 1 
 most                 N5+++                1 
 learn                X2.3+                1 

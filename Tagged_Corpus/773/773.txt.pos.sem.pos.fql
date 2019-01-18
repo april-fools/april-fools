@@ -1,7 +1,7 @@
-TOTAL         288
-NN1            56 
-JJ             40 
-NN2            30 
+TOTAL         290
+NN1            57 
+JJ             41 
+NN2            29 
 AT             19 
 CC             15 
 II             11 
@@ -20,7 +20,7 @@ IF              4
 DA              3 
 PPH1            2 
 VVG             2 
-VVD             2 
+GE              2 
 DB2             2 
 VM              2 
 CS              2 
@@ -40,6 +40,7 @@ II21            1
 DD1             1 
 CCB             1 
 VHD             1 
+VVD             1 
 APPGE           1 
 RT              1 
 DD              1 

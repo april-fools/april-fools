@@ -152,9 +152,10 @@
 0000012 130  NN1     rugby                    K5.1 
 0000012 131  ,       ,                        
 0000012 140  CS      while                    Z5 
-0000012 150  NP1     Beechwood                Z99 
-0000012 160  JJ      Primary                  A11.1+ P1 
-0000012 170  NN2     Schools                  P1/H1c S5+c L2%c P1 
+0000012 150  NP1     Beechwood                Z3c[i18.3.1 Z3c[i19.2.1 
+0000012 160  JJ      Primary                  Z3c[i18.3.2 A11.1+ P1 P1/H1c[i20.2.1 
+0000012 170  NN1     School                   Z3c[i18.3.3 P1/H1c S5+c L2%c Z3c[i19.2.2 P1/H1c[i20.2.2 
+0000012 171  GE      's                       Z5 
 0000012 180  NP1     PTA                      S1.1.1c 
 0000012 190  VVD     sold                     I2.2 
 0000012 200  NN2     refreshments             F2 
@@ -165,14 +166,14 @@
 0000012 250  VVI     renovate                 A5.1+/A2.1/H1 
 0000012 260  AT      the                      Z5 
 0000012 270  NN1     school                   P1/H1c S5+c L2%c 
-0000012 280  NN1     swimming                 M4/M7[i18.2.1 K5.1/M4 M4 
-0000012 290  NN1     pool                     M4/M7[i18.2.2 W3/M4 K5.1/H1 N5+ K5.1 I1/A1.4 
+0000012 280  NN1     swimming                 M4/M7[i21.2.1 K5.1/M4 M4 
+0000012 290  NN1     pool                     M4/M7[i21.2.2 W3/M4 K5.1/H1 N5+ K5.1 I1/A1.4 
 0000012 291  .       .                        
 0000013 001  -----   -----                    
 0000014 010  VVG     Teaching                 P1 
 0000014 020  JJ      assistant                S8+ 
-0000014 030  NP1     Ben                      Z1mf[i19.2.1 Z3c[i19.2.1 Z1m 
-0000014 040  NP1     Berryman                 Z1mf[i19.2.2 Z3c[i19.2.2 
+0000014 030  NP1     Ben                      Z1mf[i22.2.1 Z3c[i22.2.1 Z1m 
+0000014 040  NP1     Berryman                 Z1mf[i22.2.2 Z3c[i22.2.2 
 0000014 041  ,       ,                        
 0000014 050  PNQS    who                      Z8 
 0000014 060  VVD     organised                S7.1+ O4.1 S5+@ 
@@ -219,9 +220,9 @@
 0000016 150  JJ      important                A11.1+ 
 0000016 160  TO      to                       Z5 
 0000016 170  VVI     get                      A2.1+ A9+ Z5 X9.2+ A2.2 M1 M2 X2.5+ E4.1- 
-0000016 180  JJ      primary                  P1/H1c[i20.2.1 A11.1+ P1 
-0000016 190  NN1     school                   P1/H1c[i20.2.2 P1/H1c S5+c L2%c P1/S2mf[i21.2.1 
-0000016 200  NN2     children                 S2mf/T3- S4mf P1/S2mf[i21.2.2 
+0000016 180  JJ      primary                  P1/H1c[i23.2.1 A11.1+ P1 
+0000016 190  NN1     school                   P1/H1c[i23.2.2 P1/H1c S5+c L2%c P1/S2mf[i24.2.1 
+0000016 200  NN2     children                 S2mf/T3- S4mf P1/S2mf[i24.2.2 
 0000016 210  RRR     more                     A13.3 N6++ 
 0000016 220  II      into                     Z5 
 0000016 230  NN1     sport                    K5.1 
@@ -239,8 +240,8 @@
 0000018 002  -----   -----                    
 0000018 010  NN1     Sport                    K5.1 
 0000018 020  RR      really                   A13.3 A5.2+ 
-0000018 030  VVZ     brings                   M2[i22.2.1 I2.2[i22.2.1 A2.2[i22.2.1 A10+[i22.2.1 M2 A2.2 
-0000018 040  RP      out                      M2[i22.2.2 I2.2[i22.2.2 A2.2[i22.2.2 A10+[i22.2.2 M6 
+0000018 030  VVZ     brings                   M2[i25.2.1 I2.2[i25.2.1 A2.2[i25.2.1 A10+[i25.2.1 M2 A2.2 
+0000018 040  RP      out                      M2[i25.2.2 I2.2[i25.2.2 A2.2[i25.2.2 A10+[i25.2.2 M6 
 0000018 050  NN1     character                S2mf K4/S2mf S1.2 S2mf/A6.2- Q1.2 A4.1 O4.2+ 
 0000018 060  II      in                       Z5 
 0000018 070  JJ      young                    T3- 

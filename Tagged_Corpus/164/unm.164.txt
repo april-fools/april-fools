@@ -3,8 +3,6 @@ Caped                    JJ      Z99
 Carrey                   NP1     Z99 
 filmmakers               NN2     Z99 
 helmers                  NN2     Z99 
-Im                       NP1     Z99 
-isnt                     NN1     Z99 
 itI                      NN2     Z99 
 outside-the-box          JJ      Z99 
 quiz-master              JJ      Z99 

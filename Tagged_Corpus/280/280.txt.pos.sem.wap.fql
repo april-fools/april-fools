@@ -1,4 +1,4 @@
-TOTAL              295
+TOTAL              298
 the                  AT             21 
 of                   IO             11 
 a                    AT1             7 
@@ -6,6 +6,7 @@ that                 CST             7
 to                   TO              6 
 Derekson             NP1             5 
 he                   PPHS1           5 
+they                 PPHS2           4 
 be                   VBI             4 
 Dr.                  NNB             4 
 magellanic           JJ              4 
@@ -15,14 +16,13 @@ island               NN1             4
 and                  CC              4 
 in                   II              4 
 to                   II              4 
-they                 PPHS2           3 
+it                   PPH1            4 
 an                   AT1             3 
 his                  APPGE           3 
 pattern              NN1             3 
 this                 DD1             3 
 has                  VHZ             3 
 not                  XX              3 
-it                   PPH1            3 
 by                   II              3 
 is                   VBZ             3 
 made                 VVD             2 
@@ -31,6 +31,7 @@ isolated             JJ              2
 region               NN1             2 
 these                DD2             2 
 Dr._Derekson         NNB             2 
+'s                   VBZ             2 
 new                  JJ              2 
 subspecies           NN              2 
 when                 CS              2 
@@ -77,6 +78,7 @@ species              NN              1
 except_for           II21            1 
 odd                  JJ              1 
 the_birds            AT              1 
+'                    GE              1 
 upper                JJ              1 
 chest                NN1             1 
 just                 RR              1 
@@ -92,7 +94,6 @@ seen                 VVN             1
 other                JJ              1 
 penguins_in          NN2             1 
 believes             VVZ             1 
-s                    VBZ             1 
 found                VVN             1 
 penguin              NN1             1 
 endemic              JJ              1 
@@ -110,7 +111,7 @@ why                  RRQ             1
 exclaimed            VVD             1 
 crazy                JJ              1 
 birdwatchers         NN2             1 
-theyll               NN1             1 
+'ll                  VM              1 
 swarming             VVG             1 
 all_over             RR              1 
 before               CS              1 
@@ -119,7 +120,6 @@ know                 VV0             1
 scaring              VVG             1 
 Earthsky             NP1             1 
 pointed_out          VVD             1 
-its                  APPGE           1 
 very                 RG              1 
 unlikely             JJ              1 
 would                VM              1 

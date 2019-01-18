@@ -641,9 +641,10 @@
 0000034 080 five                                        93 MC
 0000034 090 or                                          93 CC
 0000034 100 more                                        93 [DAR/100] RGR/0 RRR/0
-0000034 110 years                                       93 NNT2
-0000034 120 experience                                  03 [VV0/70] NN1/30
-0000034 130 working                                     93 [VVG/97] JJ@/2 NN1%/0
+0000034 110 years                     >                 58 NNT2
+0000034 111 '                         <                 97 GE
+0000034 120 experience                                  03 [NN1/99] VV0/1
+0000034 130 working                                     93 [VVG/99] NN1%/1 JJ@/1
 0000034 140 with                                        93 IW
 0000034 150 Perl                                        06 [NP1/70] NN1/30 VV0/0
 0000034 151 ,                                           03 ,

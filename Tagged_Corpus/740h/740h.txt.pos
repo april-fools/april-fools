@@ -5,7 +5,8 @@
 0000002 030 can                                         93 [VM/100] NN1%/0 VV0%/0
 0000002 040 reinvent                                    97 VVI
 0000002 050 business                                    93 NN1
-0000002 060 heres                       ERROR?          07 NN2
+0000002 060 here                      >                 93 RL
+0000002 061 's                        <                 03 [VBZ/100] GE/0 VHZ@/0
 0000002 070 how                                         93 [RRQ/99] RGQ@/1
 0000002 080 according                                   97 II21
 0000002 090 to                                          97 II22

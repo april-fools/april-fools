@@ -14,7 +14,8 @@
 0000002 060  VV0     ProBlogger               Z99 
 0000002 061  ,       ,                        
 0000002 070  AT      the                      Z5 
-0000002 080  NN2     webs                     L2 O2 
+0000002 080  NN1     web                      Y2 L2 O2 
+0000002 081  GE      's                       Z5 
 0000002 090  NNU     #1                       I1 
 0000002 100  NN1     Blog                     Z99 
 0000002 110  VVZ     Tips                     N5.1- M7/O4.2- I1 Q2.2 M2 
@@ -42,7 +43,7 @@
 0000004 090  NN1     extension                H1 T1.3+/A2.1 N3.2+/A2.1 N5+/A2.1 Q1.3 B4 
 0000004 100  IO      of                       Z5 
 0000004 110  AT      the                      Z5 
-0000004 120  NN1     Blogger                  Z99 
+0000004 120  JJ@     Blogger'                 Z99 
 0000004 130  NN1     brand                    A4.1 Q1.1 
 0000004 140  CC      and                      Z5 
 0000004 150  AT1     a                        Z5 
@@ -86,7 +87,7 @@
 0000006 220  II      as                       Z5 
 0000006 230  AT1     a                        Z5 
 0000006 240  NN2     fools                    E4.1+/S2mf F1 
-0000006 250  NN1     game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
+0000006 250  VV0     game'                    Z99 
 0000006 260  NN1@    blogging                 Z99 
 0000006 270  VHZ     has                      A9+ Z5 A2.2 S4 
 0000006 280  RT      now                      T1.1.2 Z4 
@@ -103,7 +104,8 @@
 0000006 351  .       .                        
 0000006 352  NULL    <quote>                  
 0000006 353  -----   -----                    
-0000006 360  VVZ     Googles                  Z3c/Y2 
+0000006 360  NP1@    Google                   Z3c/Y2 
+0000006 361  GE      's                       Z5 
 0000006 370  JJ      new                      T3- 
 0000006 380  JJ      professional             I3.2+ I3.1 X9.1+ A5.1+ 
 0000006 390  JJ@     blogging                 Z99 
@@ -179,7 +181,7 @@
 0000010 030  VVN     called                   Q2.2 S1.1.1 Q1.3 S9% 
 0000010 040  PPIO1   me                       Z8mf 
 0000010 050  AT1     a                        Z5 
-0000010 060  NN1     fool                     E4.1+/S2mf F1 
+0000010 060  NN1     fool'                    Z99 
 0000010 070  IF      for                      Z5 
 0000010 080  RR      even                     A13.1 
 0000010 090  CS      considering              Z5 
@@ -198,7 +200,8 @@
 0000010 172  NULL    <quote>                  
 0000010 173  -----   -----                    
 0000010 180  CCB     but                      Z5 
-0000010 190  NN1     Id                       X2 
+0000010 190  PPIS1   I                        Z8mf 
+0000010 191  VM      'd                       A7+ 
 0000010 200  VBI     be                       A3+ Z5 
 0000010 210  AT1     a                        Z5 
 0000010 220  NN1     fool                     E4.1+/S2mf F1 
@@ -215,13 +218,15 @@
 0000010 330  MC1     one                      N1 T3 T1.2 
 0000010 340  IO      of                       Z5 
 0000010 350  AT      the                      Z5 
-0000010 360  NN2     worlds                   W1 S5+c A4.1 N5+ 
+0000010 360  NN1     world                    W1 S5+c A4.1 N5+ 
+0000010 361  GE      's                       Z5 
 0000010 370  RGT     most                     A13.2 
 0000010 380  JJ      innovative               T3- 
 0000010 390  NN2     companies                I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
 0000010 391  .       .                        
 0000010 392  -----   -----                    
-0000010 400  VV0     Im                       Z99 
+0000010 400  PPIS1   I                        Z8mf 
+0000010 401  VBM     'm                       A3+ Z5 
 0000010 410  JJ      excited                  X5.2+ 
 0000010 420  TO      to                       Z5 
 0000010 430  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
@@ -293,7 +298,7 @@
 0000014 290  AT1     an                       Z5 
 0000014 300  RR      Even                     A13.1 
 0000014 310  RRR     Better                   A5.1++ G2.2++ O4.2++ 
-0000014 320  VV0     Blog                     Z99 
+0000014 320  VV0@    Blog'                    Z99 
 0000014 330  AT1     a                        Z5 
 0000014 340  NN121@  follow                   N4[i10.2.1 
 0000014 350  NN122   up                       N4[i10.2.2 
@@ -337,7 +342,8 @@
 0000017 220  NN1     book                     Q4.1 Q1.2 K5.1/I1 
 0000017 230  II      about                    Z5 
 0000017 240  VVG     blogging                 Z99 
-0000017 250  NN1     thatd                    Z99 
+0000017 250  CST     that                     Z8 Z5 
+0000017 251  VM      'd                       A7+ 
 0000017 260  VBI     be                       A3+ Z5 
 0000017 270  JJR     sadder                   E4.1- A5.1- 
 0000017 271  !       !                        

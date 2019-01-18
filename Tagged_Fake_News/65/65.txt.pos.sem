@@ -59,7 +59,8 @@
 0000004 190  AT      the                      Z5 
 0000004 200  NN1     assassination            L1- G2.1- 
 0000004 210  IO      of                       Z5 
-0000004 220  NP2     Russias                  Z2 
+0000004 220  NP1     Russia                   Z2 
+0000004 221  GE      's                       Z5 
 0000004 230  NN1     ambassador               G1.1/S2mf S1.1.1/S2mf 
 0000004 240  II      to                       Z5 
 0000004 250  NP1     Turkey                   Z2 
@@ -255,7 +256,8 @@
 0000016 270  JJ      two-week                 Z99 
 0000016 280  NN1     vacation                 T1.3/P1- K1 
 0000016 290  II      on                       Z5 
-0000016 300  NP2     Marthas                  Z1f 
+0000016 300  NP1     Martha                   Z1f 
+0000016 301  GE      's                       Z5 
 0000016 310  NN1     Vineyard                 F4/F2 
 0000016 320  CS      while                    Z5 
 0000016 330  JJ      historic                 T3+ 

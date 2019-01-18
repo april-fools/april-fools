@@ -17,12 +17,10 @@ middle-income            JJ      Z99
 nonpartisan              JJ      Z99 
 Obama                    NN1     Z99 
 Obama                    NP1     Z99 
-Obamas                   NP1@    Z99 
-Obamas                   NP2     Z99 
+Obama                    NP1@    Z99 
 punch-counterpunch       NN1     Z99 
 R-Wis.                   NP1     Z99 
 Romney                   NP1     Z99 
 staffer                  NN1     Z99 
 Taxmaggedon              NN1     Z99 
 unsustainable            JJ      Z99 
-youre                    NN1     Z99 

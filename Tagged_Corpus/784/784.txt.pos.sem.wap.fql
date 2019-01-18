@@ -1,20 +1,21 @@
-TOTAL              749
+TOTAL              758
 the                  AT             57 
 and                  CC             27 
 was                  VBDZ           21 
 a                    AT1            20 
 of                   IO             17 
-government           NN1            14 
+government           NN1            15 
+SNP                  NP1            13 
 it                   PPH1           11 
-SNP                  NP1            11 
+labour               JJ             11 
 to                   TO             11 
 in                   II             10 
-labour               JJ             10 
+'s                   GE              9 
 no                   AT              8 
 for                  IF              8 
 they                 PPHS2           8 
+i                    PPIS1           8 
 we                   PPIS2           7 
-i                    PPIS1           7 
 to                   II              6 
 would                VM              6 
 but                  CCB             6 
@@ -39,12 +40,14 @@ tories               NN2             4
 their                APPGE           4 
 there                EX              3 
 is                   VBZ             3 
+Margaret_Thatcher    NP1             3 
+labour               NN1             3 
 devolution           NN1             3 
 rule                 NN1             3 
 tory                 JJ              3 
 parties              NN2             3 
 them                 PPHO2           3 
-nt                   XX              3 
+n't                  XX              3 
 doing                VDG             3 
 that                 DD1             3 
 knew                 VVD             3 
@@ -57,26 +60,21 @@ majority             NN1             3
 or                   CC              2 
 as                   II              2 
 Westminster          NP1             2 
-Margaret             NP1             2 
-labours              NN2             2 
 minority             NN1             2 
 scottish             JJ              2 
 from                 II              2 
 with                 IW              2 
 40_per_cent          MC              2 
 support              VVI             2 
-SNPs                 NP2             2 
-Jim                  NP1             2 
-Callaghans           NP2             2 
+Jim_Callaghan        NP1             2 
+'                    GE              2 
 leader               NN1             2 
-labour               NN1             2 
 votes                NN2             2 
 while                CS              2 
 years                NNT2            2 
 yes                  UH              2 
 last                 MD              2 
 question             VVI             2 
-Margaret_Thatcher    NP1             2 
 house_of_Commons     NN1             2 
 have                 VH0             2 
 an                   AT1             2 
@@ -84,6 +82,7 @@ wanted               VVD             2
 country              NN1             2 
 normally             RR              2 
 are                  VBR             2 
+party                NN1             2 
 if                   CS              2 
 had                  VHD             2 
 time                 NNT1            2 
@@ -99,7 +98,6 @@ his                  APPGE           2
 other                JJ              2 
 sittings             NN2             2 
 where                CS              2 
-governments          NN2             2 
 policy               NN1             2 
 lost                 VVD             2 
 parliament           NN1             2 
@@ -114,7 +112,6 @@ debate               NN1             1
 so                   RR              1 
 bring_down           VVI             1 
 paving_the_way       VVG             1 
-Thatchers            NP2             1 
 class                NN1             1 
 war                  NN1             1 
 weakened             VVN             1 
@@ -204,7 +201,6 @@ creating             VVG             1
 circumstances        NN2             1 
 as                   RG              1 
 favourable           JJ              1 
-party                NN1             1 
 as                   CSA             1 
 possible             JJ              1 
 i_think              PPIS1           1 
@@ -216,7 +212,7 @@ ended_up             VVD             1
 showed               VVD             1 
 quite                RG              1 
 capable              JJ              1 
-work                 VV0             1 
+work                 NN1             1 
 this                 DD1             1 
 idea                 NN1             1 
 relied               VVN             1 
@@ -268,7 +264,6 @@ against              II              1
 no                   UH              1 
 Andrew               NP1             1 
 handed               VVD             1 
-partys               NN2             1 
 parliamentary        JJ              1 
 session              NNT1            1 
 like                 II              1 
@@ -277,6 +272,7 @@ sometimes            RT              1
 all-night            JJ              1 
 every                AT1             1 
 counted              VVD             1 
+governments          NN2             1 
 use                  VV0             1 
 sweep                VVI             1 
 through              II              1 
@@ -312,6 +308,7 @@ visibly              RR              1
 paled                VVD             1 
 led                  VVN             1 
 defeat               NN1             1 
+Margaret             NP1             1 
 both                 RR              1 
 our                  APPGE           1 
 seats                NN2             1 
@@ -337,7 +334,7 @@ MSP                  NP1             1
 2011                 MC              1 
 welsh                JJ              1 
 70                   MC              1 
-ive                  NN1             1 
+'ve                  VH0             1 
 asked                VVN             1 
 do                   VDI             1 
 again                RT              1 

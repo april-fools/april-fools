@@ -22,5 +22,4 @@ pesky                    JJ      Z99
 Rihanna                  NP1     Z99 
 tournamentjuniors        NN2     Z99 
 under-served             VVN     Z99 
-wasnt                    NN1     Z99 
 wildcat                  NN1     Z99 

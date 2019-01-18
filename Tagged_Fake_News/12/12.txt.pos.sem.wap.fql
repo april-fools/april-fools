@@ -1,17 +1,17 @@
-TOTAL              178
+TOTAL              180
 the                  AT             11 
 ballots              NN2             6 
 server               NN1             5 
 for                  IF              5 
 her                  APPGE           4 
 of                   IO              4 
+Hillary              NP1             3 
 email                NN1             3 
 were                 VBDR            3 
 on                   II              3 
 has                  VHZ             3 
 a                    AT1             3 
 charges              NN2             3 
-Hillary              NP1             2 
 in_hot_water         II              2 
 over                 II              2 
 again                RT              2 
@@ -23,10 +23,12 @@ Bernie_Sanders       NP1             2
 election             NN1             2 
 an                   AT1             2 
 Ms.                  NNB             2 
+Clinton              NP1             2 
 with                 IW              2 
 been                 VBN             2 
 investigation        NN1             2 
 are                  VBR             2 
+'s                   GE              2 
 Sacramento           NP1             1 
 CA                   NP1             1 
 democratic           JJ              1 
@@ -57,7 +59,6 @@ which                DDQ             1
 will                 VM              1 
 include              VVI             1 
 newly-found          JJ              1 
-Clinton              NP1             1 
 already              RR              1 
 come_under           VVN             1 
 fire                 NN1             1 
@@ -85,7 +86,6 @@ in_that_case         II              1
 some                 DD              1 
 facing               VVG             1 
 several              DA2             1 
-Clintons             NP1             1 
 public_relations     JJ              1 
 official             NN1             1 
 released             VVN             1 
@@ -112,7 +112,6 @@ bid                  NN1             1
 presidency           NN1             1 
 as                   II              1 
 all                  DB              1 
-Hillarys             NP2             1 
 votes                NN2             1 
 cast                 VV0             1 
 him                  PPHO1           1 

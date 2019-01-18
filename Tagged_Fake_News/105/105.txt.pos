@@ -70,7 +70,8 @@
 0000004 040 the                                         93 AT
 0000004 050 start                                       93 [NN1/100] VV0/0
 0000004 060 of                                          93 IO
-0000004 070 Nevadas                                     04 NP2
+0000004 070 Nevada                    >                 93 NP1
+0000004 071 's                        <                 98 GE
 0000004 080 Republican                                  93 [NN1/74] JJ@/26
 0000004 090 caucus                                      93 NN1
 0000004 091 ,                                           03 ,
@@ -125,9 +126,10 @@
 0000004 510 report                                      98 VVI
 0000004 520 to                                          93 [II/100] TO/0
 0000004 530 your                                        93 APPGE
-0000004 540 precincts                                   93 NN2
-0000004 550 designated                                  93 [JJ/44] VVD/35 VVN/21
-0000004 560 polling                                     93 [NN1/91] VVG@/9
+0000004 540 precinct                  >                 93 NN1
+0000004 541 's                        <                 98 GE
+0000004 550 designated                                  93 [JJ/90] VVN/10 VVD/0
+0000004 560 polling                                     93 [NN1/99] VVG@/1
 0000004 570 center                                      93 [NN1/100] VV0%/0
 0000004 580 for                                         93 [IF/100] CS%/0
 0000004 590 further                                     93 [JJR@/95] RRR/5 VV0%/0
@@ -142,8 +144,9 @@
 0000006 060 who                                         93 PNQS
 0000006 070 received                                    03 [VVD/100] JJ@/0 VVN/0
 0000006 080 Tuesday                                     93 NPD1
-0000006 090 afternoons                                  93 NNT2
-0000006 100 robocall                                    06 [VV0/93] NN1/7
+0000006 090 afternoon                 >                 93 NNT1
+0000006 091 's                        <                 98 GE
+0000006 100 robocall                                    06 [NN1/92] VV0/8
 0000006 110 -perhaps                                    43 RR
 0000006 120 out                                         97 [II21/100] RP@/0
 0000006 130 of                                          97 [II22/100] IO@/0
@@ -151,8 +154,8 @@
 0000006 150 of                                          93 IO
 0000006 160 nuclear                                     03 JJ
 0000006 170 annihilation-                               35 [NN1/100] JJ/0
-0000006 180 did                       >                 56 VDD
-0000006 181 nt                        <                 56 XX
+0000006 180 did                       >                 93 VDD
+0000006 181 n't                       <                 03 XX
 0000006 190 stay                                        97 VVI
 0000006 200 on                                          93 [II/91] RP@/9
 0000006 210 the                                         93 AT
@@ -180,8 +183,9 @@
 0000006 420 to                                          97 II22
 0000006 430 the                                         93 AT
 0000006 440 Texas                                       93 NP1
-0000006 450 senators                                    93 NN2
-0000006 460 campaign                                    03 [NN1/56] VV0@/44
+0000006 450 senator                   >                 93 NN1
+0000006 451 's                        <                 98 GE
+0000006 460 campaign                                    03 [NN1/100] VV0@/0
 0000006 470 manager                                     93 NN1
 0000006 471 ,                                           03 ,
 0000006 480 was                                         93 VBDZ
@@ -203,8 +207,9 @@
 0000008 020 an                                          93 AT1
 0000008 030 interview                                   03 [NN1/100] VV0@/0
 0000008 040 with                                        93 IW
-0000008 050 MSNBCs                                      62 NP1
-0000008 060 Chuck                                       93 [NP1/99] VV0/1 NN1@/0
+0000008 050 MSNBC                     >                 62 NP1
+0000008 051 's                        <                 03 [GE/97] VBZ/3 VHZ@/0
+0000008 060 Chuck                                       93 [NP1/97] NN1@/2 VV0/1
 0000008 070 Todd                                        93 NP1
 0000008 071 ,                                           03 ,
 0000008 080 Senator                                     96 NNB
@@ -330,8 +335,9 @@
 0000010 300 Donald                                      93 NP1
 0000010 310 Trump                                       93 [NN1/99] VV0/1
 0000010 320 complained                                  03 [VVD/97] VVN@/3
-0000010 330 that                                        93 [CST/82] DD1/18 RG%/0
-0000010 340 Cruzs                                       04 NP2
+0000010 330 that                                        93 [CST/99] DD1/1 RG%/0
+0000010 340 Cruz                      >                 93 NP1
+0000010 341 's                        <                 98 GE
 0000010 350 deceptive                                   93 JJ
 0000010 360 tactics                                     03 NN2
 0000010 370 had                                         93 [VHD/100] VHN@/0

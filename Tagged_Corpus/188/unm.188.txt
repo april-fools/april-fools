@@ -20,10 +20,10 @@ single-length            JJ      Z99
 Skittle-sized            JJ      Z99 
 Slumdog                  NP1     Z99 
 touch-up                 NN1     Z99 
+Tourism'                 NP1     Z99 
 traveler                 NN1     Z99 
 US$1                     FO      Z99 
 US$2                     FO      Z99 
 US$3                     FO      Z99 
 Uyghur                   VV0     Z99 
 Xinjiang                 VV0     Z99 
-youll                    VV0     Z99 

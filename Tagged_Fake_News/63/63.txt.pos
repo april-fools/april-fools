@@ -4,8 +4,9 @@
 0000002 020 Agency                                      93 NN1
 0000002 030 for                                         93 [IF/100] CS%/0
 0000002 040 International                               93 JJ
-0000002 050 Developments                                93 NN2
-0000002 051 (                                           03 (
+0000002 050 Development               >                 93 NN1
+0000002 051 's                        <                 03 [GE/96] VBZ/4 VHZ@/0
+0000002 052 (                                           03 (
 0000002 060 USAID                                       93 NP1
 0000002 061 )                                           03 )
 0000002 070 worked                                      03 [VVD/79] VVN/21 JJ%/0
@@ -354,8 +355,9 @@
 0000017 430 in                                          93 [II/99] RP@/1
 0000017 440 Pakistan                                    93 NP1
 0000017 441 ;                                           03 ;
-0000017 450 Afghanistans                                04 NP2
-0000017 460 neighboring                                 06 [VVG/87] JJ@/10 NN1@/3
+0000017 450 Afghanistan               >                 93 NP1
+0000017 451 's                        <                 98 GE
+0000017 460 neighboring                                 06 [JJ@/64] NN1@/18 VVG/17
 0000017 470 country                                     93 NN1
 0000017 480 to                                          93 [II/100] TO/0
 0000017 490 the                                         93 AT
@@ -531,9 +533,10 @@
 0000025 030 this                                        93 [DD1/100] RG%/0
 0000025 040 statement                                   03 NN1
 0000025 041 ,                                           03 ,
-0000025 050 USAIDs                                      04 NP2
-0000025 060 position                                    03 [NN1/69] VV0@/31
-0000025 070 regarding                                   03 [II/79] VVG/21
+0000025 050 USAID                     >                 93 NP1
+0000025 051 's                        <                 98 GE
+0000025 060 position                                    03 [NN1/100] VV0@/0
+0000025 070 regarding                                   03 [II/80] VVG/20
 0000025 080 its                                         93 APPGE
 0000025 090 monitoring                                  03 [NN1/97] VVG/3
 0000025 100 responsibilities                            03 NN2

@@ -5,7 +5,7 @@ issues               VVZ             1
 amazing              JJ              1 
 response             NN1             1 
 to                   II              1 
-Bill                 NP1             1 
-Clintons             NP2             1 
+Bill_Clinton         NP1             1 
+'s                   GE              1 
 disgusting           JJ              1 
 insults              NN2             1 

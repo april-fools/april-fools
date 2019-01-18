@@ -1,12 +1,14 @@
-TOTAL              386
+TOTAL              393
 the                  AT             23 
 of                   IO             14 
-is                   VBZ            11 
+is                   VBZ            13 
 this                 DD1             9 
 and                  CC              8 
 to                   TO              7 
 in                   II              7 
 a                    AT1             6 
+we                   PPIS2           5 
+have                 VHI             5 
 that                 CST             4 
 Obama                NP1             4 
 ISIS                 NP1             4 
@@ -16,14 +18,15 @@ them                 PPHO2           4
 not                  XX              4 
 it                   PPH1            4 
 America              NP1             4 
-we                   PPIS2           4 
-have                 VH0             4 
-have                 VHI             4 
+'s                   GE              4 
 world                NN1             4 
 trump                NN1             3 
+Putin                NP1             3 
 for                  IF              3 
 more                 RRR             3 
 type                 NN1             3 
+have                 VH0             3 
+Clinton              NP1             3 
 would                VM              3 
 to                   II              3 
 leader               NN1             3 
@@ -46,8 +49,7 @@ Syria                NP1             2
 an                   AT1             2 
 were                 VBDR            2 
 something            PN1             2 
-isnt                 NN1             2 
-Clinton              NP1             2 
+n't                  XX              2 
 when                 RRQ             2 
 where                RRQ             2 
 stronger             JJR             2 
@@ -62,7 +64,6 @@ now_that             CS21            1
 president-elect      NNB             1 
 people               NN              1 
 has                  VHZ             1 
-Putin                NP1             1 
 syrian               JJ              1 
 are                  VBR             1 
 mercenaries          NN2             1 
@@ -84,7 +85,6 @@ flawed               JJ              1
 come                 VVN             1 
 expect               VVI             1 
 administration       NN1             1 
-putins               NN2             1 
 strong               JJ              1 
 words                NN2             1 
 sadly                RR              1 
@@ -134,10 +134,8 @@ against              II              1
 but                  CCB             1 
 solid                JJ              1 
 verification         NN1             1 
-Putins               NP2             1 
 statement            NN1             1 
-Clintons             NP2             1 
-attempts             VVZ             1 
+attempts             NN2             1 
 win                  VVI             1 
 what                 DDQ             1 
 essentially          RR              1 
@@ -150,7 +148,7 @@ unrest               NN1             1
 become               VVI             1 
 painfully            RR              1 
 aware                JJ              1 
-lets                 VVZ             1 
+let_'s               VM21            1 
 get                  VVI             1 
 absolutely           RR              1 
 clear                JJ              1 
@@ -164,7 +162,7 @@ freedom              NN1             1
 lose                 VV0             1 
 believe              VV0             1 
 our                  APPGE           1 
-countrys             NN2             1 
+country              NN1             1 
 wonderful            JJ              1 
 principles           NN2             1 
 see                  VVI             1 
@@ -211,7 +209,7 @@ even                 RR              1
 our_own              APPGE           1 
 sitting              NN1             1 
 thankfully           RR              1 
-well                 RR              1 
+'ll                  VM              1 
 true                 JJ              1 
 White_house          NP1             1 
 seriously            RR              1 

@@ -1,5 +1,6 @@
-TOTAL               11
-obamas               NN2             1 
+TOTAL               12
+Obama                NP1             1 
+'s                   GE              1 
 racist               JJ              1 
 attacks              NN2             1 
 against              II              1 

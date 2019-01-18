@@ -851,8 +851,9 @@
 0000040 020  NN1     Chaos                    A1.7- G2.1- Y1@ 
 0000040 030  VVG     Walking                  M1 L2 X9.2+/A12+ 
 0000040 031  ,       ,                        
-0000040 040  NP1     Doug                     Z1m 
-0000040 050  NP2     Limans                   Z99 
+0000040 040  NP1     Doug                     Z1mf[i79.2.1 Z3c[i79.2.1 Z1m 
+0000040 050  NP1     Liman                    Z1mf[i79.2.2 Z3c[i79.2.2 
+0000040 051  GE      's                       Z5 
 0000040 060  NN1     adaptation               A2.1+ 
 0000040 070  IO      of                       Z5 
 0000040 080  AT      the                      Z5 
@@ -875,17 +876,17 @@
 0000040 240  NN2     reshoots                 Z99 
 0000040 241  .       .                        
 0000040 242  -----   -----                    
-0000040 250  II21    Thanks                   A2.2[i79.2.1 
-0000040 260  II22    to                       A2.2[i79.2.2 Z5 
+0000040 250  II21    Thanks                   A2.2[i80.2.1 
+0000040 260  II22    to                       A2.2[i80.2.2 Z5 
 0000040 270  VVG     scheduling               X7+/T1 
 0000040 280  NN2     issues                   X4.1 Q4.2 S4 A9- 
 0000040 290  IW      with                     Z5 
-0000040 300  NN2     stars                    Z2[i80.2.1 Z3c[i80.2.1 Z1mf[i80.2.1 W1 O4.4 A5.1 A11.1+/S2mf S9 
-0000040 310  NP1     Tom                      Z2[i80.2.2 Z3c[i80.2.2 Z1mf[i80.2.2 Z1m Z1mf[i81.2.1 Z3c[i81.2.1 
-0000040 320  NP1     Holland                  Z2 Z1mf Z1mf[i81.2.2 Z3c[i81.2.2 
+0000040 300  NN2     stars                    Z2[i81.2.1 Z3c[i81.2.1 Z1mf[i81.2.1 W1 O4.4 A5.1 A11.1+/S2mf S9 
+0000040 310  NP1     Tom                      Z2[i81.2.2 Z3c[i81.2.2 Z1mf[i81.2.2 Z1m Z1mf[i82.2.1 Z3c[i82.2.1 
+0000040 320  NP1     Holland                  Z2 Z1mf Z1mf[i82.2.2 Z3c[i82.2.2 
 0000040 330  CC      and                      Z5 
-0000040 340  NP1     Daisy                    Z1mf[i82.2.1 Z3c[i82.2.1 
-0000040 350  NP1     Ridley                   Z1mf[i82.2.2 Z3c[i82.2.2 Z1 
+0000040 340  NP1     Daisy                    Z1mf[i83.2.1 Z3c[i83.2.1 
+0000040 350  NP1     Ridley                   Z1mf[i83.2.2 Z3c[i83.2.2 Z1 
 0000040 351  ,       ,                        
 0000040 360  AT      the                      Z5 
 0000040 370  NN2     reshoots                 Z99 
@@ -930,15 +931,15 @@
 0000042 080  VVN     expected                 X2.6+ B1 
 0000042 090  TO      to                       Z5 
 0000042 100  VVI     last                     T2++ T1.3 
-0000042 110  MC      two                      N5-[i83.3.1 N1 T3 T1.2 
-0000042 120  CC      or                       N5-[i83.3.2 Z5 
-0000042 130  MC      three                    N5-[i83.3.3 N1 T1.2 T3 
+0000042 110  MC      two                      N5-[i84.3.1 N1 T3 T1.2 
+0000042 120  CC      or                       N5-[i84.3.2 Z5 
+0000042 130  MC      three                    N5-[i84.3.3 N1 T1.2 T3 
 0000042 140  NNT2    weeks                    T1.3 
 0000042 150  CCB     but                      Z5 
 0000042 160  VM      will                     T1.1.3 
 0000042 170  XX      not                      Z6 
-0000042 180  VVI     take                     A1.1.1[i84.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ A1.1.1[i85.2.1 
-0000042 190  NN1     place                    A1.1.1[i84.2.2 M7 H1 A1.2 P1 A1.1.1[i85.2.2 
+0000042 180  VVI     take                     A1.1.1[i85.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ A1.1.1[i86.2.1 
+0000042 190  NN1     place                    A1.1.1[i85.2.2 M7 H1 A1.2 P1 A1.1.1[i86.2.2 
 0000042 200  II      until                    Z5 
 0000042 210  AT      the                      Z5 
 0000042 220  NN1     end                      M6 T2- O2 X7+ N4 
@@ -947,18 +948,18 @@
 0000042 250  NNT1    year                     T1.3 P1c 
 0000042 260  CC      or                       Z5 
 0000042 270  JJ      early                    T4+ T1.1.1 
-0000042 280  MD      next                     T1.3[i86.2.1 N4 
-0000042 290  NPM1    December                 T1.3[i86.2.2 T1.3 
+0000042 280  MD      next                     T1.3[i87.2.1 N4 
+0000042 290  NPM1    December                 T1.3[i87.2.2 T1.3 
 0000042 300  CC      or                       Z5 
 0000042 310  RR      even                     A13.1 
 0000042 320  NPM1    January                  T1.3 
 0000042 321  .       .                        
 0000043 001  -----   -----                    
-0000044 010  NP1     Steven                   Z2[i88.2.1 Z3c[i88.2.1 Z1mf[i88.2.1 Z1m Z1mf[i87.2.1 Z3c[i87.2.1 
-0000044 020  NP1     Spielberg                Z2[i88.2.2 Z3c[i88.2.2 Z1mf[i88.2.2 Z1mf Z1mf[i87.2.2 Z3c[i87.2.2 
+0000044 010  NP1     Steven                   Z2[i89.2.1 Z3c[i89.2.1 Z1mf[i89.2.1 Z1m Z1mf[i88.2.1 Z3c[i88.2.1 
+0000044 020  NP1     Spielberg                Z2[i89.2.2 Z3c[i89.2.2 Z1mf[i89.2.2 Z1mf Z1mf[i88.2.2 Z3c[i88.2.2 
 0000044 030  VVZ@    talks                    Q2.1 
-0000044 040  NP1     Indiana                  Z1mf[i89.2.1 Z3c[i89.2.1 Z2 
-0000044 050  NP1     Jones                    Z1mf[i89.2.2 Z3c[i89.2.2 Z1mf 
+0000044 040  NP1     Indiana                  Z1mf[i90.2.1 Z3c[i90.2.1 Z2 
+0000044 050  NP1     Jones                    Z1mf[i90.2.2 Z3c[i90.2.2 Z1mf 
 0000044 051  ...     ...                      
 0000045 001  -----   -----                    
 0000046 010  VM      Could                    A7+ 
@@ -971,9 +972,10 @@
 0000046 062  NULL    <quote>                  
 0000046 063  -----   -----                    
 0000046 064  "       "                        
-0000046 070  VV0     Wed                      S4 
-0000046 080  VH0     have                     S6+[i90.2.1 A9+ Z5 A2.2 S4 
-0000046 090  TO      to                       S6+[i90.2.2 Z5 
+0000046 070  PPIS2   We                       Z8 
+0000046 071  VM      'd                       A7+ 
+0000046 080  VHI     have                     S6+[i91.2.1 A9+ Z5 A2.2 S4 
+0000046 090  TO      to                       S6+[i91.2.2 Z5 
 0000046 100  VVI     change                   A2.1+ I1 B5 
 0000046 110  AT      the                      Z5 
 0000046 120  NN1     name                     Q2.2 
@@ -1020,8 +1022,8 @@
 0000046 400  NN1     installment              I1.2 N5.1- 
 0000046 410  VM      would                    A7+ 
 0000046 420  VBI     be                       A3+ Z5 
-0000046 430  NP1     Harrison                 Z1mf[i91.2.1 Z3c[i91.2.1 Z1mf 
-0000046 440  NP1     Ford                     Z1mf[i91.2.2 Z3c[i91.2.2 Z1mf Z3c/M3 
+0000046 430  NP1     Harrison                 Z1mf[i92.2.1 Z3c[i92.2.1 Z1mf 
+0000046 440  NP1     Ford                     Z1mf[i92.2.2 Z3c[i92.2.2 Z1mf Z3c/M3 
 0000046 441  GE      's                       Z5 
 0000046 450  MD      last                     N4 
 0000046 460  CC      and                      Z5 
@@ -1058,18 +1060,19 @@
 0000050 070  JJ      Oscar-winning            Z99 
 0000050 080  JJ      Iranian                  Z2 Z2/Q3 
 0000050 090  NN1     director                 S7.1+/S2mf K4/S2mf 
-0000050 100  NP1     Asghar                   Z1mf[i92.2.1 Z3c[i92.2.1 
-0000050 110  NP1     Farhadis                 Z1mf[i92.2.2 Z3c[i92.2.2 
+0000050 100  NP1     Asghar                   Z1mf[i93.2.1 Z3c[i93.2.1 
+0000050 110  NP1     Farhadi                  Z1mf[i93.2.2 Z3c[i93.2.2 
+0000050 111  GE      's                       Z5 
 0000050 120  JJ      Spanish-language         Z2/Q3 
 0000050 130  JJ      psychological            X1 
 0000050 140  NN1     thriller                 Q4.1/X5.2+++ Q4.3/X5.2+++ K4/X5.2+++ 
 0000050 141  ,       ,                        
-0000050 150  VVG     starring                 Z2[i93.2.1 Z3c[i93.2.1 Z1mf[i93.2.1 Q1.2 K4/A11.1+ 
-0000050 160  NP1     Javier                   Z2[i93.2.2 Z3c[i93.2.2 Z1mf[i93.2.2 Z1mf[i94.2.1 Z3c[i94.2.1 
-0000050 170  NP1     Bardem                   Z99 Z1mf[i94.2.2 Z3c[i94.2.2 
+0000050 150  VVG     starring                 Z2[i94.2.1 Z3c[i94.2.1 Z1mf[i94.2.1 Q1.2 K4/A11.1+ 
+0000050 160  NP1     Javier                   Z2[i94.2.2 Z3c[i94.2.2 Z1mf[i94.2.2 Z1mf[i95.2.1 Z3c[i95.2.1 
+0000050 170  NP1     Bardem                   Z99 Z1mf[i95.2.2 Z3c[i95.2.2 
 0000050 180  CC      and                      Z5 
-0000050 190  NP1     Penelope                 Z1mf[i95.2.1 Z3c[i95.2.1 Z1f 
-0000050 200  NP1     Cruz                     Z1mf[i95.2.2 Z3c[i95.2.2 Z2 
+0000050 190  NP1     Penelope                 Z1mf[i96.2.1 Z3c[i96.2.1 Z1f 
+0000050 200  NP1     Cruz                     Z1mf[i96.2.2 Z3c[i96.2.2 Z2 
 0000050 201  ,       ,                        
 0000050 210  VBZ     is                       Z5 A3+ 
 0000050 220  VVN     set                      M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3 
@@ -1091,28 +1094,28 @@
 0000050 370  MCMC    8-19                     N1 T1.2 T3 T1.3 N3.2 
 0000050 371  .       .                        
 0000051 001  -----   -----                    
-0000052 010  NP1     Jennifer                 Z1mf[i96.2.1 Z3c[i96.2.1 Z1f 
-0000052 020  NP1     Ehle                     Z1mf[i96.2.2 Z3c[i96.2.2 
+0000052 010  NP1     Jennifer                 Z1mf[i97.2.1 Z3c[i97.2.1 Z1f 
+0000052 020  NP1     Ehle                     Z1mf[i97.2.2 Z3c[i97.2.2 
 0000052 021  ,       ,                        
-0000052 030  NP1     Scott                    Z1mf[i97.2.1 Z3c[i97.2.1 Z1mf 
-0000052 040  NP1     Speedman                 Z1mf[i97.2.2 Z3c[i97.2.2 
+0000052 030  NP1     Scott                    Z1mf[i98.2.1 Z3c[i98.2.1 Z1mf 
+0000052 040  NP1     Speedman                 Z1mf[i98.2.2 Z3c[i98.2.2 
 0000052 050  VV0     join                     A2.2 S5+ A1.8+ A1.1.1 
-0000052 060  NP1     Damian                   Z1mf[i98.2.1 Z3c[i98.2.1 
-0000052 070  NP1     Lewis                    Z1mf[i98.2.2 Z3c[i98.2.2 Z1m 
+0000052 060  NP1     Damian                   Z1mf[i99.2.1 Z3c[i99.2.1 
+0000052 070  NP1     Lewis                    Z1mf[i99.2.2 Z3c[i99.2.2 Z1m 
 0000052 080  NN1     thriller                 Q4.1/X5.2+++ Q4.3/X5.2+++ K4/X5.2+++ 
 0000052 081  :       :                        
 0000052 090  PPHS2   They                     Z8mfn 
 0000052 091  ,       ,                        
-0000052 100  II31    as                       N5++[i99.2.1 Z5 
-0000052 110  II32    well                     N5++[i99.2.2 
+0000052 100  II31    as                       N5++[i100.2.1 Z5 
+0000052 110  II32    well                     N5++[i100.2.2 
 0000052 120  II33    as                       Z5 
 0000052 130  NP1     Gil                      Z99 
 0000052 140  NN2     Bellows                  I4 
 0000052 141  ,       ,                        
 0000052 150  VH0     have                     Z5 A9+ A2.2 S4 
 0000052 160  VVN     joined                   A2.2 S5+ A1.8+ A1.1.1 
-0000052 170  NP1     Ricky                    Z1mf[i100.2.1 Z3c[i100.2.1 Z1m 
-0000052 180  NP1     Tollman                  Z1mf[i100.2.2 Z3c[i100.2.2 
+0000052 170  NP1     Ricky                    Z1mf[i101.2.1 Z3c[i101.2.1 Z1m 
+0000052 180  NP1     Tollman                  Z1mf[i101.2.2 Z3c[i101.2.2 
 0000052 181  GE      's                       Z5 
 0000052 190  NN1     indie                    K2 
 0000052 200  JJ      political                G1.2 
@@ -1126,19 +1129,19 @@
 0000052 270  VVZ     boasts                   S1.2.3+/Q2.2 
 0000052 280  NP1     Lewis                    Z1m 
 0000052 281  ,       ,                        
-0000052 290  NP1     Ben                      Z1mf[i101.2.1 Z3c[i101.2.1 Z1m 
-0000052 300  NP1     Platt                    Z1mf[i101.2.2 Z3c[i101.2.2 Z1mf 
+0000052 290  NP1     Ben                      Z1mf[i102.2.1 Z3c[i102.2.1 Z1m 
+0000052 300  NP1     Platt                    Z1mf[i102.2.2 Z3c[i102.2.2 Z1mf 
 0000052 310  CC      and                      Z5 
-0000052 320  NP1     Nina                     Z1mf[i102.2.1 Z3c[i102.2.1 Z1f 
-0000052 330  NP1     Dobrev                   Z1mf[i102.2.2 Z3c[i102.2.2 
+0000052 320  NP1     Nina                     Z1mf[i103.2.1 Z3c[i103.2.1 Z1f 
+0000052 330  NP1     Dobrev                   Z1mf[i103.2.2 Z3c[i103.2.2 
 0000052 340  II      in                       Z5 
 0000052 350  APPGE   its                      Z8 
 0000052 360  NN1@    cast                     K4/S5+c O2 B3 A4.1 B2- 
 0000052 361  .       .                        
 0000053 001  -----   -----                    
 0000054 010  NN2     X-Files                  Z99 
-0000054 020  VV0@    star                     Z2[i103.2.1 Z3c[i103.2.1 Z1mf[i103.2.1 Q1.2 K4/A11.1+ 
-0000054 030  NP1     Annabeth                 Z2[i103.2.2 Z3c[i103.2.2 Z1mf[i103.2.2 
+0000054 020  VV0@    star                     Z2[i104.2.1 Z3c[i104.2.1 Z1mf[i104.2.1 Q1.2 K4/A11.1+ 
+0000054 030  NP1     Annabeth                 Z2[i104.2.2 Z3c[i104.2.2 Z1mf[i104.2.2 
 0000054 040  NN1     Gish                     Z99 
 0000054 050  VVZ     joins                    A2.2 S5+ A1.8+ A1.1.1 
 0000054 060  NP1     Charlie                  Z1m 
@@ -1153,14 +1156,14 @@
 0000054 140  NN1     drama                    K4 A1.1.1 
 0000054 150  II      about                    Z5 
 0000054 160  AT      the                      Z5 
-0000054 170  NP1     Charlie                  Z1mf[i104.2.1 Z3c[i104.2.1 Z1m 
-0000054 180  NP1     Manson                   Z1mf[i104.2.2 Z3c[i104.2.2 
+0000054 170  NP1     Charlie                  Z1mf[i105.2.1 Z3c[i105.2.1 Z1m 
+0000054 180  NP1     Manson                   Z1mf[i105.2.2 Z3c[i105.2.2 
 0000054 190  NN1     murder                   L1- A12- 
 0000054 200  NN2     trials                   G2.1 X2.4 E6- A12- K5.1 
 0000054 201  ,       ,                        
-0000054 210  VVG     starring                 Z2[i105.2.1 Z3c[i105.2.1 Z1mf[i105.2.1 Q1.2 K4/A11.1+ 
-0000054 220  NP1     Matt                     Z2[i105.2.2 Z3c[i105.2.2 Z1mf[i105.2.2 Z1m Z1mf[i106.2.1 Z3c[i106.2.1 
-0000054 230  NP1     Smith                    Z1mf Z1mf[i106.2.2 Z3c[i106.2.2 
+0000054 210  VVG     starring                 Z2[i106.2.1 Z3c[i106.2.1 Z1mf[i106.2.1 Q1.2 K4/A11.1+ 
+0000054 220  NP1     Matt                     Z2[i106.2.2 Z3c[i106.2.2 Z1mf[i106.2.2 Z1m Z1mf[i107.2.1 Z3c[i107.2.1 
+0000054 230  NP1     Smith                    Z1mf Z1mf[i107.2.2 Z3c[i107.2.2 
 0000054 240  II      as                       Z5 
 0000054 250  AT      the                      Z5 
 0000054 260  JJ      notorious                X2.2+/G2.2- 
@@ -1192,8 +1195,8 @@
 0000056 160  NN1     movie                    Q4.3 
 0000056 170  NN2     theaters                 K4/H1 K4 B3/H2 M7 
 0000056 180  II      across                   Z5 
-0000056 190  ND1     North                    Z2[i108.2.1 M6 Z2[i107.2.1 
-0000056 200  NP1     America                  Z2[i108.2.2 Z2 Z2[i107.2.2 
+0000056 190  ND1     North                    Z2[i109.2.1 M6 Z2[i108.2.1 
+0000056 200  NP1     America                  Z2[i109.2.2 Z2 Z2[i108.2.2 
 0000056 210  DD1     this                     M6 Z5 Z8 
 0000056 220  NNT1    summer                   T1.3 
 0000056 230  TO      to                       Z5 
@@ -1210,8 +1213,8 @@
 0000056 320  TO      to                       Z5 
 0000056 330  VVI     start                    T2+ E5- E3- 
 0000056 340  VVG     screening                A10- Q4.3 X2.4 B3 
-0000056 350  NPM1    July                     T1.3[i109.2.1 T1.3 
-0000056 360  MD      8th                      T1.3[i109.2.2 N4 T1.3 
+0000056 350  NPM1    July                     T1.3[i110.2.1 T1.3 
+0000056 360  MD      8th                      T1.3[i110.2.2 N4 T1.3 
 0000056 361  .       .                        
 0000056 362  "       "                        
 0000056 363  NULL    </quote>                 

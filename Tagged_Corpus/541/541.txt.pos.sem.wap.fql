@@ -1,10 +1,11 @@
-TOTAL              527
-the                  AT             51 
+TOTAL              532
+the                  AT             52 
 of                   IO             18 
 and                  CC             18 
 in                   II             15 
 population           NN1             8 
 than                 CSN             8 
+city                 NN1             7 
 was                  VBDZ            7 
 1                    MC1             6 
 estimates            NN2             6 
@@ -21,9 +22,9 @@ to                   II              5
 July                 NPM1            4 
 from                 II              4 
 higher               JJR             4 
-city                 NN1             4 
 to                   TO              4 
 by                   II              4 
+'s                   GE              4 
 more                 DAR             4 
 increase             NN1             4 
 New_York_city        NP1             3 
@@ -37,7 +38,6 @@ for                  IF              3
 Queens               NP1             3 
 has                  VHZ             3 
 said                 VVD             3 
-citys                NN2             3 
 Bronx                NP1             3 
 counties             NN2             3 
 borough              NN1             3 
@@ -69,6 +69,7 @@ at                   II              2
 rate                 NN1             2 
 or                   CC              2 
 fastest-growing      JJT             2 
+state                NN1             2 
 highest              JJT             2 
 Dallas               NP1             2 
 Miami                NP1             2 
@@ -133,6 +134,7 @@ million              NNO             1
 based_on             VVN             1 
 our                  APPGE           1 
 demographers         NN2             1 
+'                    GE              1 
 scientific           JJ              1 
 work                 NN1             1 
 historic             JJ              1 
@@ -145,8 +147,7 @@ cities               NN2             1
 Joseph_J._Salvo      NP1             1 
 director             NN1             1 
 division             NN1             1 
-planning             VVG             1 
-department           NN1             1 
+planning_department  NN1             1 
 queens               NN2             1 
 28,000               MC              1 
 those                DD2             1 
@@ -165,7 +166,6 @@ Nassau               NP1             1
 Suffolk              NP1             1 
 accounted_for        VVN             1 
 80_percent           MC              1 
-the_states           AT              1 
 home                 NN1             1 
 large                JJ              1 
 numbers              NN2             1 
@@ -179,7 +179,6 @@ jews                 NN2             1
 natural              JJ              1 
 births               NN2             1 
 deaths               NN2             1 
-state                NN1             1 
 second               NNT1            1 
 registered           VVD             1 
 percentage           NN1             1 

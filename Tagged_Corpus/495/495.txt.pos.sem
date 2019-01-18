@@ -61,7 +61,8 @@
 0000004 090  VVZ     takes                    A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
 0000004 100  AT      the                      Z5 
 0000004 110  JJ      original                 T3- A5.4+ A6.2- 
-0000004 120  NN2     games                    K5.1 K5.2 A1.1.1 
+0000004 120  NN1     game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
+0000004 121  GE      's                       Z5 
 0000004 130  NN1     premise                  X4.1 
 0000004 140  CC      and                      Z5 
 0000004 150  VVZ     expands                  N3.2+/A2.1 Q2.2/N5++ A4.2-/A2.1 
@@ -85,7 +86,8 @@
 0000004 300  RR      even                     A13.1 
 0000004 310  NN1     connectivity             Y2 O3 
 0000004 320  IW      with                     Z5 
-0000004 330  NP1     Niantics                 Z99 
+0000004 330  NN1     Niantic                  Z99 
+0000004 331  GE      's                       Z5 
 0000004 340  NN1     smash                    X3.2 X9.2+ A1.1.2 K5.1 
 0000004 350  VVD     hit                      E3- A1.1.1 A2.1+ A11.2+ A10+ M1 G3 
 0000004 360  NN1     app                      Z99 

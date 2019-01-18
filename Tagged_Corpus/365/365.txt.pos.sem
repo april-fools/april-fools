@@ -16,7 +16,8 @@
 0000002 130  XX      not                      Z6 
 0000002 140  VVI     return                   M1 A9- N6 
 0000002 150  II      to                       Z5 
-0000002 160  NP2     HBOs                     Z99 
+0000002 160  NP1     HBO                      Z99 
+0000002 161  GE      's                       Z5 
 0000002 170  NN1     flagship                 M4fn A11.1+++ 
 0000002 180  NN1     program                  Y2 X7+ Q4.3 Q1.2 P1 
 0000002 190  IF      for                      Z5 
@@ -72,7 +73,8 @@
 0000004 090  JJ      exciting                 X5.2+ 
 0000004 100  PN1     one                      Z8 
 0000004 110  IF      for                      Z5 
-0000004 120  NP2     HBOs                     Z99 
+0000004 120  NP1     HBO                      Z99 
+0000004 121  GE      's                       Z5 
 0000004 130  NN1     Game                     K5.1 K5.2 X7+ A1.1.1 L2 F1 
 0000004 140  IO      of                       Z5 
 0000004 150  NN2     Thrones                  H5/S7.1+ S7.1+ 
@@ -86,8 +88,9 @@
 0000004 173  -----   -----                    
 0000004 180  JJ      Sad                      E4.1- A5.1- 
 0000004 190  CS      because                  Z5/A2.2 
-0000004 200  VV0     weve                     Z99 
-0000004 210  DB      all                      N5.1+ 
+0000004 200  PPIS2   we                       Z8 
+0000004 201  VH0     've                      Z5 A9+ A2.2 
+0000004 210  RR@     all                      A13.2 
 0000004 220  VVN     gotten                   A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 
 0000004 230  TO      to                       Z5 
 0000004 240  VVI     know                     X2.2+ S3.2/B1% 
@@ -103,15 +106,17 @@
 0000004 340  NN1     friend                   S3.1/S2mf 
 0000004 341  .       .                        
 0000004 342  -----   -----                    
-0000004 350  RR      Well                     A5.1+ A13.3 A7+ B2+ Z4 
-0000004 360  VV0     miss                     A5.3- X3.4- A11.2- X2.5- X9.2- E4.1- T4- S1.1.3- 
+0000004 350  PPIS2   We                       Z8 
+0000004 351  VM      'll                      T1.1.3 
+0000004 360  VVI     miss                     A5.3- X3.4- A11.2- X2.5- X9.2- E4.1- T4- S1.1.3- 
 0000004 370  PPHO1   him                      Z8m 
 0000004 380  RR      sorely                   A5.1- A13.3 
 0000004 381  .       .                        
 0000004 382  -----   -----                    
 0000004 390  JJ      Exciting                 X5.2+ 
 0000004 400  CS      because                  Z5/A2.2 
-0000004 410  VBDR    were                     Z5 A3+ 
+0000004 410  PPIS2   we                       Z8 
+0000004 411  VBR     're                      Z5 A3+ 
 0000004 420  VVG     heading                  S7.1+ K5.1 M1 N5 A2.1+ A11.1+ Q1.2 T1.1.3 
 0000004 430  II      in                       Z5 
 0000004 440  AT1     an                       Z5 
@@ -210,7 +215,8 @@
 0000008 660  CST     that                     Z8 Z5 
 0000008 670  PPHS1   he                       Z8m 
 0000008 680  RR      just                     A14 T3--- T1.3- N3.3--- 
-0000008 690  VV0     wasnt                    Z99 
+0000008 690  VBDZ    was                      A3+ Z5 
+0000008 691  XX      n't                      Z6 
 0000008 700  AT      the                      Z5 
 0000008 710  NN1     man                      S2.2m 
 0000008 720  IF      for                      Z5 
@@ -218,8 +224,9 @@
 0000008 740  NN1     job                      I3.1 A1.1.1 A12- 
 0000008 741  .       .                        
 0000008 742  -----   -----                    
-0000008 750  NP1@    Ill                      B2- A5.1- 
-0000008 760  VV0     let                      S7.4+ I2.2/H1 T2- 
+0000008 750  PPIS1   I                        Z8mf 
+0000008 751  VM      'll                      T1.1.3 
+0000008 760  VVI     let                      S7.4+ I2.2/H1 T2- 
 0000008 770  AT      the                      Z5 
 0000008 780  JJ      other                    A6.1- 
 0000008 790  NN2     guys                     S2.2m O2 
@@ -274,7 +281,8 @@
 0000012 190  AT      the                      Z5 
 0000012 200  NP1     HBO                      Z99 
 0000012 210  NN1     comedy                   E4.1+ K4 Q4.3 
-0000012 220  NN2     Lifes                    Z3c 
+0000012 220  NN1     Life                     Z3c 
+0000012 221  VBZ     's                       A3+ Z5 
 0000012 230  RG      Too                      N5.2+ A13.3 
 0000012 240  JJ@     Short                    T1.3- N3.7- N3.3- N5- S1.2.4- N3.8+@ F1% 
 0000012 241  ,       ,                        
@@ -412,7 +420,8 @@
 0000020 150  NNU     percent                  N5[i25.2.2 N5 
 0000020 160  IO      of                       Z5 
 0000020 170  AT      the                      Z5 
-0000020 180  NN2     shows                    A8 K4 S1.1.1 I2.2/S1.1.1 
+0000020 180  NN1     show                     A8 K4 S1.1.1 I2.2/S1.1.1 
+0000020 181  GE      's                       Z5 
 0000020 190  MC      50                       N1[i26.2.1 T1.3[i26.2.1 I1[i26.2.1 N1 T1.2 T3 T1.3 N3.2 
 0000020 200  NNO     million                  N1[i26.2.2 T1.3[i26.2.2 I1[i26.2.2 N1 I1 
 0000020 210  NNU1    dollar                   I1 
@@ -425,8 +434,9 @@
 0000020 250  PPIS2   We                       Z8 
 0000020 260  VVD     felt                     X2.1 E1 X3 
 0000020 270  CST     that                     Z5 Z8 
-0000020 280  NP2     Warwicks                 Z2 Z1mf 
-0000020 290  VVI     experience               A2.1+/A3+ X3 
+0000020 280  NP1     Warwick                  Z2 Z1mf 
+0000020 281  GE      's                       Z5 
+0000020 290  NN1     experience               X2.2+ X9.1+ I3.2 A2.1+/A3+ X3 
 0000020 300  CC      and                      Z5 
 0000020 310  NN1     star                     W1 O4.4 A5.1+++ A11.1+/S2mf A5.1 
 0000020 320  NN1     power                    S7.1+ O3 S1.2.5+ N2@ 
@@ -443,8 +453,9 @@
 0000020 391  .       .                        
 0000020 392  NULL    <quote>                  
 0000020 393  -----   -----                    
-0000020 400  RR      Well                     A5.1+ A13.3 A7+ B2+ Z4 
-0000020 410  VB0     be                       Z5 
+0000020 400  PPIS2   We                       Z8 
+0000020 401  VM      'll                      T1.1.3 
+0000020 410  VBI     be                       Z5 A3+ 
 0000020 420  VVG     seeing                   X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ S3.2 
 0000020 430  RR21@   a                        A13.3[i27.2.1 N6+[i27.2.1 
 0000020 440  RR22    lot                      A13.3[i27.2.2 N6+[i27.2.2 
@@ -473,7 +484,8 @@
 0000020 650  II      in                       N4[i30.3.1 Z5 
 0000020 660  AT      the                      N4[i30.3.2 Z5 
 0000020 670  NN1     end                      N4[i30.3.3 M6 T2- O2 X7+ N4 
-0000020 680  APPGE   its                      Z8 
+0000020 680  PPH1    it                       Z8 
+0000020 681  VBZ     's                       A3+ Z5 
 0000020 690  AT1     a                        Z5 
 0000020 700  JJ      small                    N3.2- N3.7- N5- T3- A11.1- S5-/I2.1 X3.2- A5.1- 
 0000020 710  NN1     price                    I1.3 
@@ -503,6 +515,7 @@
 0000022 111  ,       ,                        
 0000022 120  NP1     Warwick                  Z1mf[i31.2.1 Z3c[i31.2.1 Z2 Z1mf 
 0000022 130  NP1     Davis                    Z1mf[i31.2.2 Z3c[i31.2.2 Z1mf 
+0000022 131  GE      '                        Z5 
 0000022 140  NN1     face                     B1 W3 O2 A8 S1.2.3+ 
 0000022 150  VM      will                     T1.1.3 
 0000022 160  VBI     be                       Z5 A3+ 
@@ -510,7 +523,8 @@
 0000022 180  VVN     transposed               M6/A2.1 A2.1+ K2% 
 0000022 190  II      over                     Z5 
 0000022 200  NNB     Mr.                      Z1m[i32.2.1 S2.2m 
-0000022 210  NP1     Dinklages                Z1m[i32.2.2 
+0000022 210  NP1     Dinklage                 Z1m[i32.2.2 
+0000022 211  VBZ     's                       A3+ Z5 
 0000022 220  II      in                       Z5 
 0000022 230  DB      all                      N5.1+ 
 0000022 240  JJ      future                   T1.1.3 
@@ -625,8 +639,9 @@
 0000026 271  :       :                        
 0000028 001  NULL    <quote>                  
 0000028 002  -----   -----                    
-0000028 010  NP1@    Ill                      B2- A5.1- 
-0000028 020  VV0     tell                     Q2.2 Q2.1 X3 A10+ 
+0000028 010  PPIS1   I                        Z8mf 
+0000028 011  VM      'll                      T1.1.3 
+0000028 020  VVI     tell                     Q2.2 Q2.1 X3 A10+ 
 0000028 030  PPY     you                      Z8mf 
 0000028 040  VV0%    true                     A5.2+ A5.4+ 
 0000028 041  ...     ..                       
@@ -649,8 +664,9 @@
 0000028 170  PPIS1   I                        Z8mf 
 0000028 180  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
 0000028 190  VVI     wonder                   X2.1 
-0000028 200  CSW@    if                       Z7 
-0000028 210  NP1     Im                       Z99 
+0000028 200  CS      if                       Z7 
+0000028 210  PPIS1   I                        Z8mf 
+0000028 211  VBM     'm                       Z5 A3+ 
 0000028 220  XX      not                      Z6 
 0000028 230  VVG     limiting                 A1.7+ 
 0000028 240  PPX1    myself                   Z8mf 
@@ -668,7 +684,8 @@
 0000028 340  AT1     a                        Z5 
 0000028 350  NN1     part                     N5.1- O2 M7 I3.1 S1.1.3+ K4 
 0000028 360  VVG     playing                  K1 K5.1 K5.2 K2 K3 A1.1.1 K6 
-0000028 370  NP2     Kellys                   Z1mf 
+0000028 370  NP1     Kelly                    Z1mf 
+0000028 371  GE      's                       Z5 
 0000028 380  JJT     newest                   T3--- 
 0000028 390  NN1     love                     S3.2 E2+ E2+/S2mf 
 0000028 400  NN1     interest                 X5.2+ I1.1 S8+ S1.1.3+ 
@@ -785,8 +802,9 @@
 0000030 790  NN1     place                    Z4[i52.4.4 N4[i52.4.4 M7 H1 A1.2 P1 
 0000030 791  .       .                        
 0000031 001  -----   -----                    
-0000032 010  RR      Well                     A5.1+ A13.3 A7+ B2+ Z4 
-0000032 020  VV0     update                   T1.1.2 
+0000032 010  PPIS2   We                       Z8 
+0000032 011  VM      'll                      T1.1.3 
+0000032 020  VVI     update                   T1.1.2 
 0000032 030  DD1     this                     M6 Z5 Z8 
 0000032 040  NN1     piece                    N5.1- O2 Q4 K2 K4 G3@ 
 0000032 050  CS      when                     Z5 

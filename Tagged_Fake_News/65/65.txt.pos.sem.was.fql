@@ -1,4 +1,4 @@
-TOTAL              218
+TOTAL              220
 the                  Z5                  15 
 in                   Z5                   7 
 to                   Z5                   6 
@@ -18,6 +18,8 @@ attack               E3-                  2
 according_to         Z5                   2 
 White_house          Z3                   2 
 who                  Z8                   2 
+Russia               Z2                   2 
+'s                   Z5                   2 
 ambassador           G1.1                 2 
 Mid-Pacific          Z99                  2 
 country_club         G1.1                 2 
@@ -54,7 +56,6 @@ national             M7                   1
 security             G2.1                 1 
 team                 S5+                  1 
 assassination        L1-                  1 
-Russias              Z2                   1 
 Turkey               Z2                   1 
 just                 A14                  1 
 before               Z5                   1 
@@ -112,7 +113,6 @@ believe              X2.1                 1
 incident             A3+                  1 
 was                  A3+                  1 
 deliberate           X7+                  1 
-Russia               Z2                   1 
 meanwhile            T1.1.2               1 
 declared             Q2.2                 1 
 killing              L1-                  1 
@@ -138,7 +138,7 @@ hurricane_Katrina    Z1                   1
 condemned            Q2.2                 1 
 continuing           T2++                 1 
 two-week             Z99                  1 
-Marthas              Z1                   1 
+Martha               Z1                   1 
 vineyard             F4                   1 
 while                Z5                   1 
 historic             T3+                  1 

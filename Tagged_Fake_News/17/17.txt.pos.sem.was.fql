@@ -1,10 +1,10 @@
-TOTAL              234
+TOTAL              237
 the                  Z5                  11 
 to                   Z5                   8 
 that                 Z5                   7 
+Ashe                 Z99                  5 
 it                   Z8                   4 
 was                  Z5                   4 
-Ashe                 Z99                  4 
 Clintons             Z1                   3 
 is                   A3+                  3 
 list                 Q1.2                 3 
@@ -16,6 +16,7 @@ in                   Z5                   3
 his                  Z8                   3 
 Seng                 Z1                   3 
 but                  Z5                   2 
+bill                 I1.3                 2 
 have                 Z5                   2 
 added                N5+                  2 
 this                 M6                   2 
@@ -24,10 +25,12 @@ reportedly           A8                   2
 he                   Z8                   2 
 a                    Z5                   2 
 from                 Z5                   2 
+'s                   Z5                   2 
 death                L1-                  2 
 during               Z5                   2 
 source               T2+                  2 
 against              Z5                   2 
+would                A7+                  2 
 far                  A13.3                2 
 americans            Z2                   1 
 have                 A9+                  1 
@@ -46,7 +49,6 @@ names                Q2.2                 1
 people               S2                   1 
 close_to             A13.4                1 
 Hillary              Z99                  1 
-bill                 I1.3                 1 
 under                Z5                   1 
 mysterious           A6.2-                1 
 circumstances        O4.1                 1 
@@ -81,7 +83,6 @@ argue                Q2.1                 1
 workout_accident     A1.4                 1 
 crushed              A1.1.2               1 
 throat               B1                   1 
-ashes                O1.1                 1 
 became               A2.1+                1 
 even                 A13.1                1 
 more                 A13.3                1 
@@ -116,7 +117,6 @@ dollars              I1                   1
 democrat             G1.2                 1 
 national             Z3                   1 
 committee            S7.1+                1 
-bills                I1.3                 1 
 presidency           S7.1+                1 
 an                   Z5                   1 
 anonymous            A10-                 1 
@@ -130,7 +130,6 @@ convince             A7+                  1
 him                  Z8                   1 
 testify              G2.1                 1 
 her                  Z8                   1 
-would                A7+                  1 
 been                 A3+                  1 
 very                 A13.3                1 
 embarrassing         E4.1-                1 
@@ -144,7 +143,7 @@ just                 A14                  1
 latest               T3---                1 
 victim               A1.1.2               1 
 we                   Z8                   1 
-wouldnt              Z99                  1 
+n't                  Z6                   1 
 put                  M2                   1 
 past                 Z5                   1 
 them                 Z8                   1 

@@ -66,7 +66,8 @@
 0000002 580  CC      and                      Z5 
 0000002 590  VVN     changed                  A2.1+ I1 B5 
 0000002 600  AT      the                      Z5 
-0000002 610  NN2     republics                G1.2 S5+/M7 
+0000002 610  NN1     republic                 G1.2 S5+/M7 
+0000002 611  GE      's                       Z5 
 0000002 620  NN121   status                   A3/T1.3[i4.2.1 S7.1 A4.1 A11.1 Z3c[i5.2.1 T1.1.2[i5.2.1 
 0000002 630  NN122   quo                      A3/T1.3[i4.2.2 Z3c[i5.2.2 T1.1.2[i5.2.2 
 0000002 631  ,       ,                        
@@ -146,7 +147,7 @@
 0000004 440  RR      fundamentally            A11.1+ 
 0000004 450  IW      with                     Z5 
 0000004 460  AT      the                      Z5 
-0000004 470  MC      68                       N1 T1.2 T3 T1.3 N3.2 
+0000004 470  MC      '68                      N1 T1.2 T3 T1.3 N3.2 
 0000004 480  VVG     bashing                  E3- Q2.2 
 0000004 490  II      in                       Z5 
 0000004 500  NN1     fashion                  B5 O4.2+ X4.2 
@@ -156,7 +157,8 @@
 0000004 540  II      in                       Z5 
 0000004 550  NP1     Germany                  Z2 
 0000004 551  ,       ,                        
-0000004 560  VV0     Im                       Z99 
+0000004 560  PPIS1   I                        Z8mf 
+0000004 561  VBM     'm                       A3+ Z5 
 0000004 570  XX      not                      Z6 
 0000004 580  RR      particularly             A13.3 A14 
 0000004 590  JJ      surprised                X2.6- 
@@ -186,6 +188,7 @@
 0000004 800  AT      the                      Z5 
 0000004 810  NN1     student                  P1/S2mf 
 0000004 820  NN2     rebels                   G3/S2mf G1.2/A6.1-/S2mf A6.1-/S2mf 
+0000004 821  GE      '                        Z5 
 0000004 830  NN1     rhetoric                 Q2.1 Q2.2 Q3 
 0000004 840  CC      and                      Z5 
 0000004 850  VV0     build                    H1 A1.1.1 A5.1+/A2.1 N3.2+/A2.1 
@@ -336,7 +339,7 @@
 0000006 320  NN1     movement                 M1 S5+c K2 A2.1+ 
 0000006 330  PPX1    itself                   Z8 
 0000006 340  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000006 341  XX      nt                       S9/Q4.1 Z3c 
+0000006 341  XX      n't                      Z6 
 0000006 350  VVI     change                   A2.1+ I1 B5 
 0000006 360  DB      all                      N5.1+ 
 0000006 370  DD1     that                     Z5 Z8 
@@ -360,7 +363,8 @@
 0000006 511  ,       ,                        
 0000006 520  AT      the                      Z5 
 0000006 530  NN1     student                  P1/S2mf 
-0000006 540  NN2     movements                M1 S5+c K2 A2.1+ 
+0000006 540  NN1     movement                 M1 S5+c K2 A2.1+ 
+0000006 541  GE      's                       Z5 
 0000006 550  NN2     rebels                   G3/S2mf G1.2/A6.1-/S2mf A6.1-/S2mf 
 0000006 560  VVN     scattered                M1 N3.6+/A2.1 
 0000006 570  II      across                   Z5 
@@ -369,7 +373,8 @@
 0000006 600  NN1     side                     A4.1 M6 N5.1- S7.3+/S5+c B1 S5+c S4c F1 S1.2 
 0000006 610  IO      of                       Z5 
 0000006 620  AT      the                      Z5 
-0000006 630  NN2     republics                G1.2 S5+/M7 
+0000006 630  NN1     republic                 G1.2 S5+/M7 
+0000006 631  GE      's                       Z5 
 0000006 640  JJ      political                G1.2 
 0000006 650  NN1     spectrum                 A6.3+ O4.3 Y1 
 0000006 651  ,       ,                        
@@ -420,6 +425,7 @@
 0000006 040  II      by                       Z5 
 0000006 050  AT      the                      Z5 
 0000006 060  NN2     students                 P1/S2mf 
+0000006 061  GE      '                        Z5 
 0000006 070  NN1     example                  A4.1 
 0000006 080  IO      of                       Z5 
 0000006 090  NN1     self-initiative          Z99 
@@ -431,6 +437,7 @@
 0000006 150  NNO2    thousands                N1 N5+ I1 
 0000006 160  IO      of                       Z5 
 0000006 170  NN2     citizens                 G1.1/S2mf S5+/S2mf 
+0000006 171  GE      '                        Z5 
 0000006 180  NN2     initiatives              A1.1.1 
 0000006 190  CST     that                     Z8 Z5 
 0000006 200  VVD     mushroomed               N3.2+/A2.1 N5++/A2.1 
@@ -485,8 +492,9 @@
 0000008 361  )       )                        
 0000008 370  CC      and                      Z5 
 0000008 380  AT      the                      Z5 
-0000008 390  FO      68ers                    Z99 
-0000008 400  DAT     most                     N5+++ 
+0000008 390  FU      '68ers                   Z99 
+0000008 391  GE      '                        Z5 
+0000008 400  RGT     most                     A13.2 
 0000008 410  JJ      radical                  N5+/A2.1 A11.1+ 
 0000008 420  NN2     bi-products              Z99 
 0000008 421  :       :                        
@@ -531,7 +539,8 @@
 0000008 770  VVI     learn                    X2.3+ P1 
 0000008 780  II      from                     Z5 
 0000008 790  AT      the                      Z5 
-0000008 800  NN2     movements                M1 S5+c K2 A2.1+ 
+0000008 800  NN1     movement                 M1 S5+c K2 A2.1+ 
+0000008 801  GE      's                       Z5 
 0000008 810  NN2     errors                   A5.3- 
 0000008 811  :       :                        
 0000008 820  APPGE   its                      Z8 
@@ -576,7 +585,7 @@
 0000010 060  RT      today                    T1.1.2 
 0000010 070  VBZ     is                       A3+ Z5 
 0000010 080  AT      the                      Z5 
-0000010 090  JJ      post-68                  Z99 
+0000010 090  MC      post-'68                 N1 T1.2 T3 T1.3 N3.2 
 0000010 100  NN2     grassroots               S5+/S7.1- 
 0000010 110  NN2     campaigns                X7+/Q2.2 I2.2/Q2.2 G1.2/Q2.2 G3 
 0000010 120  CST     that                     Z8 Z5 
@@ -590,6 +599,7 @@
 0000010 191  :       :                        
 0000010 200  AT      the                      Z5 
 0000010 210  NN2     citizens                 G1.1/S2mf S5+/S2mf 
+0000010 211  GE      '                        Z5 
 0000010 220  NN2     initiatives              A1.1.1 
 0000010 230  CST     that                     Z8 Z5 
 0000010 240  II      during                   Z5 
@@ -607,8 +617,9 @@
 0000010 351  .       .                        
 0000010 352  -----   -----                    
 0000010 360  AT      The                      Z5 
-0000010 370  NN2     womens                   S2.1f 
-0000010 371  ,       ,                        
+0000010 370  NN2     women                    S2.1f 
+0000010 371  GE      's                       Z5 
+0000010 372  ,       ,                        
 0000010 380  AT      the                      Z5 
 0000010 390  JJ      environmental            W5 W3 
 0000010 391  ,       ,                        
@@ -640,7 +651,7 @@
 0000010 620  AT      the                      Z5 
 0000010 630  JJ      isolated                 N3.3+ A1.8- S5- A10+ 
 0000010 640  NN1     university-based         Z99 
-0000010 650  FO      68ers                    Z99 
+0000010 650  FO      '68ers                   Z99 
 0000010 660  CC      and                      Z5 
 0000010 670  AT      the                      Z5 
 0000010 680  JJ      radical                  N5+/A2.1 A11.1+ 
@@ -650,6 +661,7 @@
 0000010 702  -----   -----                    
 0000010 710  AT      The                      Z5 
 0000010 720  NN2     citizens                 G1.1/S2mf S5+/S2mf 
+0000010 721  GE      '                        Z5 
 0000010 730  NN2     initiatives              A1.1.1 
 0000010 740  CC      and                      Z5 
 0000010 750  AT      the                      Z5 
@@ -677,7 +689,8 @@
 0000010 931  .       .                        
 0000010 932  -----   -----                    
 0000010 940  AT      The                      Z5 
-0000010 950  NN2     republics                G1.2 S5+/M7 
+0000010 950  NN1     republic                 G1.2 S5+/M7 
+0000010 951  GE      's                       Z5 
 0000010 960  JJ      social                   S1.1.1 
 0000010 970  DDQ     movements-which          Z99 
 0000010 980  VV0     reach                    M1 N3.3 Q2.1 X9.2+ 
@@ -686,6 +699,7 @@
 0000010 010  CSN     than                     Z5 
 0000010 020  AT      the                      Z5 
 0000010 030  MC2     sixties                  T1.3 T3 N1 
+0000010 031  GE      '                        Z5 
 0000010 040  NN1     student                  P1/S2mf 
 0000010 050  NN1     movement-played          Z99 
 0000010 060  AT1     an                       Z5 
@@ -793,7 +807,8 @@
 0000012 720  RR      so                       Z5 A13.3 
 0000012 730  VVD     marginalized             Z99 
 0000012 740  II      in                       Z5 
-0000012 750  NP2     Germanys                 Z2 
+0000012 750  NP1     Germany                  Z2 
+0000012 751  GE      's                       Z5 
 0000012 760  NN2     discourses               Q2.1 Q1.2 
 0000012 770  RT      today                    T1.1.2 
 0000012 771  ?       ?                        
@@ -841,6 +856,7 @@
 0000012 140  VVZ     examines                 X2.4 B3 P1 
 0000012 150  DD2     these                    Z5 Z8 
 0000012 160  NN2     movements                M1 S5+c K2 A2.1+ 
+0000012 161  GE      '                        Z5 
 0000012 170  JJ      huge                     N3.2+++ 
 0000012 180  NN1     impact                   A2.2 A1.1.1 
 0000012 190  II      on                       Z5 
@@ -860,7 +876,8 @@
 0000012 320  NP1     RAF                      Z3c 
 0000012 321  ?       ?                        
 0000013 001  -----   -----                    
-0000014 010  NN2     Todays                   T1.1.2 
+0000014 010  RT      Today                    T1.1.2 
+0000014 011  GE      's                       Z5 
 0000014 020  JJ      Federal                  S5+ 
 0000014 030  NN1     Republic                 G1.2 S5+/M7 
 0000014 040  VVZ     owes                     I1.2 S6+ 
@@ -870,7 +887,7 @@
 0000014 080  AT1     a                        Z5 
 0000014 090  CC      lot-and                  Z99 
 0000014 100  IW      without                  Z5 
-0000014 110  MC      68                       N1 T1.2 T3 T1.3 N3.2 
+0000014 110  MC      '68                      N1 T1.2 T3 T1.3 N3.2 
 0000014 120  PPHS2   they                     Z8mfn 
 0000014 130  VM      would                    A7+ 
 0000014 140  VHI     have                     Z5 A9+ A2.2 S4 

@@ -1,9 +1,10 @@
-TOTAL              277
+TOTAL              280
 and                  CC              9 
 the                  AT              8 
 to                   TO              7 
 with                 IW              6 
 of                   IO              6 
+Birmingham           NP1             4 
 a                    AT1             4 
 accents              NN2             4 
 intelligence         NN1             4 
@@ -13,18 +14,18 @@ was                  VBDZ            4
 to                   II              4 
 were                 VBDR            4 
 people               NN              3 
-Birmingham           NP1             3 
 they                 PPHS2           3 
-found                VVD             3 
 an                   AT1             3 
 their                APPGE           3 
 for                  IF              3 
+i                    PPIS1           3 
 should               VM              2 
 research             NN1             2 
+found                VVD             2 
 say                  VVI             2 
 folk                 NN              2 
 is                   VBZ             2 
-Queens_english       NP1             2 
+queen_'s_english     NN1             2 
 volunteers           NN2             2 
 models               NN2             2 
 asked                VVN             2 
@@ -36,6 +37,7 @@ said                 VVD             2
 associate            VV0             2 
 criminal             JJ              2 
 activity             NN1             2 
+'ve                  VH0             2 
 been                 VBN             2 
 from                 II              1 
 keep                 VVI             1 
@@ -148,11 +150,9 @@ he                   PPHS1           1
 added                VVD             1 
 hastily              RR              1 
 can                  VM              1 
-i                    PPIS1           1 
 just                 RR              1 
 whenever             RRQV            1 
-ive                  NN1             1 
-Birmingham_Ive       NP1             1 
+found                VVN             1 
 be                   VBI             1 
 very                 RG              1 
 bright               JJ              1 

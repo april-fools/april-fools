@@ -1,4 +1,5 @@
 'Americans               NN2     Z99 
+'I                       UH      Z99 
 birther                  NN1     Z99 
 demagogue                NN1     Z99 
 demagoguery              NN1     Z99 

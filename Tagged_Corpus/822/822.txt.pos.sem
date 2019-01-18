@@ -97,7 +97,8 @@
 0000004 270  NN1     launch                   M4fn M5 T2+ 
 0000004 280  II      on                       Z5 
 0000004 290  NN1     Tricolor                 O2/O4.3 
-0000004 300  NP2     Russias                  Z2 
+0000004 300  NP1     Russia                   Z2 
+0000004 301  GE      's                       Z5 
 0000004 310  NN1     Kino                     Z99 
 0000004 320  NN1     Premium                  I1.1 I1.3 A11.1+ 
 0000004 330  NN1     Channel                  Z2 
@@ -123,7 +124,8 @@
 0000004 510  II      on                       Z5 
 0000004 520  AT      the                      Z5 
 0000004 530  JJ      Feltrinelli              Z99 
-0000004 540  NN2     Groups                   S5+ A4.1 B3% 
+0000004 540  NN1     Group                    S5+c A4.1c B3% 
+0000004 541  GE      's                       Z5 
 0000004 550  NP1     La                       Z1mf[i4.2.1 Z3c[i4.2.1 Z2 
 0000004 560  NP1     Effe                     Z1mf[i4.2.2 Z3c[i4.2.2 
 0000004 561  .       .                        
@@ -140,8 +142,9 @@
 0000006 070  II      in                       Z5 
 0000006 080  NP1     Britain                  Z2 
 0000006 081  ,       ,                        
-0000006 090  JJ@     becoming                 O4.2+ 
-0000006 100  NP2     ITVs                     Z3c 
+0000006 090  VVG     becoming                 A2.1+ O4.2+ 
+0000006 100  NP1     ITV                      Z3c 
+0000006 101  GE      's                       Z5 
 0000006 110  JJ      top-rated                Z99 
 0000006 120  NN1     drama                    K4 A1.1.1 
 0000006 130  IO      of                       Z5 
@@ -272,9 +275,10 @@
 0000010 160  IO      of                       Z5 
 0000010 170  NN1     Evil                     G2.2- 
 0000010 171  ,       ,                        
+0000010 172  "@      '                        
 0000010 180  DDQV    Whatever                 Z8 Z5 
 0000010 181  ,       ,                        
-0000010 190  NP1     Linda                    Z1f 
+0000010 190  NP1     Linda'                   Z99 
 0000010 200  VV0     Take                     A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
 0000010 210  JJ      Top                      M6 N5.1+ A11.1+++ S7.1+++ N4 X9.1+++ A5.1+++ 
 0000010 220  NN2     Honors                   Z99 
@@ -286,7 +290,7 @@
 0000010 270  NN1     Development              A2.1+ A5.1+/A2.1 H1 
 0000012 001  NULL    <quote>                  
 0000012 002  -----   -----                    
-0000012 010  NP1     Victoria                 Z1f Z2 
+0000012 010  NP1     Victoria'                Z99 
 0000012 020  VVZ     continues                T2++ 
 0000012 030  TO      to                       Z5 
 0000012 040  VHI     have                     A9+ Z5 A2.2 S4 
@@ -390,7 +394,8 @@
 0000014 110  NP1     ITV                      Z3c 
 0000014 120  CC      and                      Z5 
 0000014 130  NP1     RLJ                      Z99 
-0000014 140  NN2     Entertainments           K1 
+0000014 140  NN1     Entertainment            K1 
+0000014 141  GE      's                       Z5 
 0000014 150  NN1     Acorn                    L3 
 0000014 160  NN1     TV                       Q4.3 S2.1/S2.2m 
 0000014 161  ,       ,                        
@@ -463,13 +468,15 @@
 0000014 740  AT      the                      Z5 
 0000014 750  NN2     shores                   W3/M4 
 0000014 760  IO      of                       Z5 
-0000014 770  NP2     Scotlands                Z2 Z3c 
+0000014 770  NP1     Scotland                 Z2 Z3c 
+0000014 771  GE      's                       Z5 
 0000014 780  JJ      famous                   X2.2+ 
 0000014 790  JJ      deep-water               Z99 
 0000014 800  NN1     lake                     W3/M4 
 0000014 801  .       .                        
 0000015 001  -----   -----                    
-0000016 010  NP2     Denmarks                 Z2 Z1mf Z3c 
+0000016 010  NP1     Denmark                  Z2 Z1mf Z3c 
+0000016 011  GE      's                       Z5 
 0000016 020  NNB     DR                       B3/S2mf P1/S2mf 
 0000016 030  VHZ     has                      Z5 A9+ A2.2 S4 
 0000016 040  RR      also                     N5++ 

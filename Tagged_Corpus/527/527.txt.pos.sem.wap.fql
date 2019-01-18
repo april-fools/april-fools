@@ -1,4 +1,4 @@
-TOTAL              227
+TOTAL              228
 the                  AT             16 
 be                   VBI             8 
 was                  VBDZ            7 
@@ -27,6 +27,7 @@ for                  IF              2
 language             NN1             2 
 context              NN1             2 
 so                   RR              2 
+Rooney               NP1             2 
 by                   II              2 
 camera               NN1             2 
 manner               NN1             2 
@@ -49,13 +50,12 @@ all                  DB              1
 about                II              1 
 used                 VVN             1 
 why                  RRQ             1 
-Rooney               NP1             1 
 charged              VVD             1 
 football_association NN1             1 
 swearing             VVG             1 
 into                 II              1 
 television           NN1             1 
-Rooneys              NP1             1 
+'s                   GE              1 
 rant                 NN1             1 
 have                 VHI             1 
 been                 VBN             1 

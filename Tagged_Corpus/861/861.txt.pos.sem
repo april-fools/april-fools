@@ -145,7 +145,8 @@
 0000006 240  NN1     diversity                A6.3+ 
 0000006 250  II      within                   Z5 
 0000006 260  AT      the                      Z5 
-0000006 270  NN2     worlds                   W1 S5+c A4.1 N5+ 
+0000006 270  NN1     world                    W1 S5+c A4.1 N5+ 
+0000006 271  GE      's                       Z5 
 0000006 280  JJT     largest                  N3.2+++ N5+++ A11.1+++ 
 0000006 290  NN1     faith                    E6+ S9 X2.1 
 0000006 300  VBDR    were                     Z5 A3+ 
@@ -207,7 +208,8 @@
 0000008 060  NN1     share                    S1.1.2+ I1.1 
 0000008 070  IO      of                       Z5 
 0000008 080  DD1     each                     N5.1+ 
-0000008 090  NN2     countrys                 G1.1c W3 F4/M7 K2 
+0000008 090  NN1     country                  G1.1c W3 F4/M7 K2 
+0000008 091  GE      's                       Z5 
 0000008 100  NN1     population               S2/N5c 
 0000008 110  CST     that                     Z8 Z5 
 0000008 120  VVZ     belongs                  A9+ A1.2+ S5+ 
@@ -267,7 +269,8 @@
 0000008 560  NP1     Singapore                Z2 
 0000008 570  VBZ     is                       A3+ Z5 
 0000008 580  AT      the                      Z5 
-0000008 590  NN2     worlds                   W1 S5+c A4.1 N5+ 
+0000008 590  NN1     world                    W1 S5+c A4.1 N5+ 
+0000008 591  GE      's                       Z5 
 0000008 600  RGT     most                     A13.2 
 0000008 610  RR      religiously              S9 X5.1+ 
 0000008 620  JJ      diverse                  A6.3+ 
@@ -406,7 +409,8 @@
 0000012 210  NP1     United                   Z2c[i30.2.1 Z2c[i29.2.1 Z3c Z1mf[i28.2.1 Z3c[i28.2.1 
 0000012 220  NP1     States                   Z2c[i30.2.2 Z2c[i29.2.2 Z2 Z1mf[i28.2.2 Z3c[i28.2.2 
 0000012 230  AT      the                      Z5 
-0000012 240  NN2     worlds                   W1 S5+c A4.1 N5+ 
+0000012 240  NN1     world                    W1 S5+c A4.1 N5+ 
+0000012 241  GE      's                       Z5 
 0000012 250  MD      third                    N4 N5 N1 
 0000012 260  RGT     most                     A13.2 
 0000012 270  JJ      populous                 N5+/S2 
@@ -465,7 +469,8 @@
 0000012 651  )       )                        
 0000012 652  .       .                        
 0000013 001  -----   -----                    
-0000014 010  NN2     Theres                   Z5 M6 T1.2 
+0000014 010  EX      There                    Z5 
+0000014 011  VBZ     's                       A3+ Z5 
 0000014 020  AT1     an                       Z5 
 0000014 030  JJ      important                A11.1+ 
 0000014 040  NN1     distinction              A6.1- A5.1+ S7.2+ 
@@ -485,8 +490,9 @@
 0000014 161  .       .                        
 0000014 162  -----   -----                    
 0000014 163  (       (                        
-0000014 170  NP1@    Weve                     Z99 
-0000014 180  VVD     studied                  P1 X2.4 
+0000014 170  PPIS2   We                       Z8 
+0000014 171  VH0     've                      Z5 A9+ A2.2 
+0000014 180  VVN     studied                  P1 X2.4 
 0000014 190  JJ      global                   W3 M7 A1.8+ O4.4 
 0000014 200  NN2     restrictions             A1.7+ 
 0000014 210  II      on                       Z5 

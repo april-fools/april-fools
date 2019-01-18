@@ -5,7 +5,8 @@
 0000002 030  NN1     attack                   E3- G3 B2- A1.1.2 Q2.2 
 0000002 040  VBZ     is                       Z5 A3+ 
 0000002 050  VVG     opening                  A1.1.1 T2+ 
-0000002 060  NN2     peoples                  S2mf 
+0000002 060  NN      people                   S2mfc 
+0000002 061  GE      's                       Z5 
 0000002 070  NN2     eyes                     B1 X3.4 
 0000002 080  II      to                       Z5 
 0000002 090  AT      the                      Z5 
@@ -23,13 +24,15 @@
 0000002 200  NP1     ISIS                     Z3c 
 0000002 201  ,       ,                        
 0000002 210  CCB     but                      Z5 
-0000002 220  NN1     theyre                   Z99 
+0000002 220  PPHS2   they                     Z8mfn 
+0000002 221  VBR     're                      A3+ Z5 
 0000002 230  XX      not                      Z6 
 0000002 240  AT      the                      Z5 
 0000002 250  JJ      only                     A14 
 0000002 260  NN2     ones                     Z8 
 0000002 270  VVG     facing                   M6 S1.1.1 X2.1 B5 
-0000002 280  NN2     peoples                  S2mf 
+0000002 280  NN      people                   S2mfc 
+0000002 281  GE      's                       Z5 
 0000002 290  NN1     wrath                    E3- 
 0000002 291  .       .                        
 0000003 001  -----   -----                    
@@ -98,7 +101,8 @@
 0000006 301  .       .                        
 0000007 001  -----   -----                    
 0000008 010  CCB     But                      Z5 
-0000008 020  NN2     theres                   Z5 M6 T1.2 
+0000008 020  EX      there                    Z5 
+0000008 021  VBZ     's                       A3+ Z5 
 0000008 030  MC1     one                      N1 T3 T1.2 
 0000008 040  NN1     problem                  A12- X4.1 N2 B2- 
 0000008 050  IW      with                     Z5 
@@ -127,7 +131,8 @@
 0000008 220  VVZ     follows                  M1 N4 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 
 0000008 221  .       .                        
 0000009 001  -----   -----                    
-0000010 010  APPGE   Its                      Z8 
+0000010 010  PPH1    It                       Z8 
+0000010 011  VBZ     's                       Z5 A3+ 
 0000010 020  XX      not                      Z6 
 0000010 030  VVG     looking                  A5.1+/A8[i6.2.1 A8 X3.4 X2.4 X7+ Z4 
 0000010 040  JJ      good                     A5.1+/A8[i6.2.2 A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
@@ -180,7 +185,8 @@
 0000011 001  -----   -----                    
 0000012 010  DD2     These                    Z8 Z5 
 0000012 020  VBR     are                      A3+ Z5 
-0000012 030  NN2@    Merkels                  Z99 
+0000012 030  NP1     Merkel                   Z99 
+0000012 031  GE      's                       Z5 
 0000012 040  JJ      dead                     L1- X5.2- A4.2+ A1.1.2 A1.1.1- E3+ B2- 
 0000012 041  ,       ,                        
 0000012 050  VVD     said                     Q2.1 
@@ -206,7 +212,8 @@
 0000012 220  NP1     Klaus                    Z1m 
 0000012 230  NN1     Bouillon                 F1 
 0000012 240  IO      of                       Z5 
-0000012 250  NP2     Merkels                  Z99 
+0000012 250  NP1     Merkel                   Z99 
+0000012 251  GE      's                       Z5 
 0000012 260  NP1     CDU                      Z99 
 0000012 270  NN1     party                    K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c 
 0000012 280  RR      also                     N5++ 
@@ -335,7 +342,8 @@
 0000016 380  NP1     Bielefeld                Z99 
 0000016 381  .       .                        
 0000017 001  -----   -----                    
-0000018 010  NP1@    Merkels                  Z99 
+0000018 010  NP1@    Merkel                   Z99 
+0000018 011  GE      's                       Z5 
 0000018 020  NN2     opponents                S7.3/S2mf 
 0000018 030  VBR     are                      A3+ Z5 
 0000018 040  JJ      sure                     A7+ Z4 
@@ -456,13 +464,15 @@
 0000022 130  JJ      simple                   A12+ A6.2+ O4.1 X9.1- 
 0000022 131  .       .                        
 0000022 132  -----   -----                    
-0000022 140  APPGE   Its                      Z8 
-0000022 150  NN1%    like                     A6.1+ 
+0000022 140  PPH1    It                       Z8 
+0000022 141  VBZ     's                       A3+ Z5 
+0000022 150  II      like                     Z5 
 0000022 160  VBG     being                    A3+ Z5 
 0000022 170  II      in                       Z5 
 0000022 180  AT1     a                        Z5 
 0000022 190  JJ      destructive              A1.1.2 S8- 
-0000022 200  NN1     relationshiptheyre       Z99 
+0000022 200  NN1     relationshipthey         Z99 
+0000022 201  VBR     're                      Z5 A3+ 
 0000022 210  RR      already                  T1.1.1 
 0000022 220  VVGK    going                    T1.1.3[i29.2.1 
 0000022 230  TO      to                       T1.1.3[i29.2.2 Z5 
@@ -477,7 +487,7 @@
 0000022 301  ,       ,                        
 0000022 310  PPY     you                      Z8mf 
 0000022 320  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000022 321  XX      nt                       S9/Q4.1 Z3c 
+0000022 321  XX      n't                      Z6 
 0000022 330  VHI     have                     S6+[i31.2.1 A9+ Z5 A2.2 S4 
 0000022 340  TO      to                       S6+[i31.2.2 Z5 
 0000022 350  VVI     go                       M1[i32.2.1 E2[i32.2.1 N5-/A2.1[i32.2.1 S7.1-/A2.1[i32.2.1 A1.1.1[i32.2.1 B2-[i32.2.1 P1%[i32.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% A6.1+[i33.2.1 
@@ -499,14 +509,15 @@
 0000022 481  .       .                        
 0000023 001  -----   -----                    
 0000024 010  CC      And                      Z5 
-0000024 020  VV0     Im                       Z99 
+0000024 020  PPIS1   I                        Z8mf 
+0000024 021  VBM     'm                       A3+ Z5 
 0000024 030  JJ      sure                     A7+ Z4 
 0000024 040  CST     that                     Z5 Z8 
 0000024 050  AT      the                      Z5 
 0000024 060  JJ      German                   Z2 Z2/Q3 
 0000024 070  NN      people                   S2mfc 
 0000024 080  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000024 081  XX      nt                       S9/Q4.1 Z3c 
+0000024 081  XX      n't                      Z6 
 0000024 090  VVI     want                     X7+ S6+ A7+ S3.2 A9- 
 0000024 100  TO      to                       Z5 
 0000024 110  VVI     go                       M1[i36.2.1 E2[i36.2.1 N5-/A2.1[i36.2.1 S7.1-/A2.1[i36.2.1 A1.1.1[i36.2.1 B2-[i36.2.1 P1%[i36.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
@@ -541,7 +552,8 @@
 0000024 370  NN2     feet                     B1 O2 
 0000024 371  .       .                        
 0000024 372  -----   -----                    
-0000024 380  APPGE   Its                      Z8 
+0000024 380  PPH1    It                       Z8 
+0000024 381  VBZ     's                       A3+ Z5 
 0000024 390  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000024 400  TO      to                       Z5 
 0000024 410  VVI     cease                    T2- 
@@ -552,7 +564,8 @@
 0000024 460  NN2     migrants                 M1/S2mf 
 0000024 461  ,       ,                        
 0000024 470  CS      because                  Z5/A2.2 
-0000024 480  APPGE   its                      Z8 
+0000024 480  PPH1    it                       Z8 
+0000024 481  VBZ     's                       Z5 A3+ 
 0000024 490  RR      only                     A14 
 0000024 500  VVG     hurting                  B2- E4.1- A1.1.2 
 0000024 510  AT      the                      Z5 

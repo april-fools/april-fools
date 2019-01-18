@@ -1,4 +1,4 @@
-TOTAL              319
+TOTAL              320
 the                  AT             17 
 dxc                  MC             13 
 a                    AT1            12 
@@ -38,6 +38,7 @@ FAQ                  NP1             2
 acronym              NN1             2 
 reference            NN1             2 
 by                   II              2 
+today                RT              2 
 employee             NN1             2 
 about                II              2 
 a_year_ago           AT1             1 
@@ -137,7 +138,7 @@ multiplier           NN1             1
 enabling             VVG             1 
 seize                VVI             1 
 presented            VVN             1 
-todays               NN2             1 
+'s                   VBZ             1 
 technologies         NN2             1 
 outed                VVN             1 
 TheLayoff.com        NP1             1 
@@ -167,7 +168,6 @@ videos               NN2             1
 told                 VVD             1 
 my                   APPGE           1 
 customer             NN1             1 
-today                RT              1 
 am                   VBM             1 
 now                  RT              1 
 had_to               VHD             1 

@@ -11,8 +11,6 @@ expandability            NN1     Z99
 finalizing               VVG     Z99 
 flattened                JJ      Z99 
 GX3297                   FO      Z99 
-Im                       VV0     Z99 
-Ive                      NN1     Z99 
 LX195                    FO      Z99 
 MediaSmart               NN1     Z99 
 MediaSmart               NP1     Z99 

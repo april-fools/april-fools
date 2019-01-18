@@ -36,7 +36,4 @@ self-identified          JJ      Z99
 smartphone               VV0     Z99 
 sneering                 JJ@     Z99 
 spiraling                JJ@     Z99 
-theyre                   NN1     Z99 
 Trumpism                 NN1     Z99 
-weve                     NN1     Z99 
-Weve                     NP1@    Z99 

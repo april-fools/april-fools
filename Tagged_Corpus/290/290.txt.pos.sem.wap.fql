@@ -1,4 +1,4 @@
-TOTAL              190
+TOTAL              191
 the                  AT             13 
 of                   IO              6 
 and                  CC              6 
@@ -12,6 +12,7 @@ a                    AT1             2
 new                  JJ              2 
 as                   CSA             2 
 we                   PPIS2           2 
+it                   PPH1            2 
 botanist             NN1             2 
 working              VVG             2 
 their                APPGE           2 
@@ -19,7 +20,7 @@ greenhouse           NN1             2
 an                   AT1             2 
 they                 PPHS2           2 
 when                 CS              2 
-its                  APPGE           2 
+'s                   VBZ             2 
 Margaret             NP1             2 
 this                 DD1             2 
 not                  XX              2 
@@ -45,7 +46,6 @@ change               VVI             1
 face                 NN1             1 
 flowers              NN2             1 
 know                 VV0             1 
-it                   PPH1            1 
 Margaret_Eddington   NP1             1 
 her                  APPGE           1 
 father               NN1             1 
@@ -72,7 +72,7 @@ coming_from          VVG             1
 late_at_night        RR              1 
 suspicion            NN1             1 
 was                  VBDZ            1 
-at                   II              1 
+at_it                II              1 
 most                 RGT             1 
 tense                JJ              1 
 revealed             VVD             1 

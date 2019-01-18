@@ -26,7 +26,6 @@ fractal                  JJ      Z99
 front-panel              JJ      Z99 
 GHz                      NNU     Z99 
 Hyper-Threading          NN1     Z99 
-isnt                     VV0     Z99 
 line-level               NN1     Z99 
 modularity               NN1     Z99 
 PCIe                     NP1     Z99 

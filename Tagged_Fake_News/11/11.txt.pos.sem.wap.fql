@@ -1,4 +1,4 @@
-TOTAL              518
+TOTAL              524
 the                  AT             32 
 to                   TO             12 
 Kremlin              NP1            10 
@@ -15,6 +15,7 @@ campaign             NN1             5
 has                  VHZ             5 
 his                  APPGE           5 
 he                   PPHS1           5 
+'s                   GE              5 
 to                   II              5 
 is                   VBZ             5 
 sources              NN2             4 
@@ -38,10 +39,12 @@ see                  VVI             3
 President            NNB             3 
 i                    PPIS1           3 
 if                   CS              3 
+you                  PPY             3 
 interfere            VVI             3 
 news                 NN1             2 
 reveal               VV0             2 
 threatened           VVD             2 
+'                    GE              2 
 wife                 NN1             2 
 on                   II              2 
 Bernie_Sanders       NP1             2 
@@ -66,13 +69,15 @@ copies               NN2             2
 wikileaks            NN2             2 
 about                II              2 
 been                 VBN             2 
+Vladimir_Putin       NP1             2 
 said                 VVN             2 
 boogeyman            NN1             2 
-missing              VVG             2 
+'re                  VBR             2 
 Wednesday            NPD1            2 
 will                 VM              2 
 spokesman            NN1             2 
 never                RR              2 
+country              NN1             2 
 does                 VDZ             2 
 home                 NN1             1 
 posted               VVN             1 
@@ -117,7 +122,6 @@ game                 NN1             1
 threatened           VVN             1 
 release              VVI             1 
 Hilary_Clinton       NP1             1 
-'s                   GE              1 
 server               NN1             1 
 release              NN1             1 
 hacked_Hillary       VVD             1 
@@ -178,7 +182,6 @@ communities          NN2             1
 around               II              1 
 whole                JJ              1 
 world                NN1             1 
-Hillarys             NP2             1 
 everybody            PN1             1 
 talking              VVG             1 
 senior               JJ              1 
@@ -200,7 +203,6 @@ contents             NN2             1
 out_loud             RP              1 
 roaring              VVG             1 
 laughter             NN1             1 
-Vladimir_Putin       NP1             1 
 amused               VVN             1 
 party                NN1             1 
 attempts             NN2             1 
@@ -228,29 +230,26 @@ reached_out          VVD             1
 promising            VVG             1 
 rewards              NN2             1 
 release              VV0             1 
-Clintons             NP2             1 
-youre                NN1             1 
-listening            NN1             1 
+Hillary_Clinton      NP1             1 
+missing              JJ              1 
+listening            VVG             1 
 hope                 VV0             1 
-youre                VV0             1 
 able                 JK              1 
 find                 VVI             1 
 30,000               MC              1 
 e-mails              NN2             1 
+missing              VVG             1 
 trump                NN1             1 
 think                VV0             1 
-you                  PPY             1 
 probably             RR              1 
 rewarded             VVN             1 
 mightily             RR              1 
 our                  APPGE           1 
 press                NN1             1 
-lets                 VVZ             1 
+let_'s               VM21            1 
 if                   CSW             1 
 happens              VVZ             1 
 next                 MD              1 
-Vladimir             NP1             1 
-Putins               NP2             1 
 while                CS              1 
 directly             RR              1 
 denying              VVG             1 
@@ -258,7 +257,6 @@ involvement          NN1             1
 hack                 NN1             1 
 Moscow               NP1             1 
 another              DD1             1 
-countrys             NN2             1 
 election             NN1             1 
 more                 DAR             1 
 than                 CSN             1 
@@ -286,7 +284,6 @@ some                 DD              1
 sort                 NN1             1 
 suspicions           NN2             1 
 against              II              1 
-country              NN1             1 
 then                 RT              1 
 necessary            JJ              1 
 at                   II              1 

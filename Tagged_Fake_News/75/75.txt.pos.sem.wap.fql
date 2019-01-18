@@ -1,4 +1,4 @@
-TOTAL              266
+TOTAL              267
 the                  AT             16 
 and                  CC             10 
 to                   TO              8 
@@ -12,6 +12,7 @@ northern_Virginia    JJ              4
 group                NN1             4 
 according_to         II21            4 
 on                   II              4 
+have                 VH0             3 
 for                  IF              3 
 report               NN1             3 
 from                 II              3 
@@ -22,7 +23,6 @@ U.S.                 NP1             3
 army                 NN1             3 
 one                  PN1             3 
 individuals          NN2             2 
-have                 VH0             2 
 attempting           VVG             2 
 ISIS                 NP1             2 
 since                CS              2 
@@ -143,7 +143,7 @@ muslim               JJ              1
 nations              NN2             1 
 if                   CS              1 
 you                  PPY             1 
-havent               VV0             1 
+n't                  XX              1 
 checked_out          VVN             1 
 liked                VVN             1 
 our                  APPGE           1 

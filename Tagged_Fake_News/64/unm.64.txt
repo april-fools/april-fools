@@ -2,7 +2,6 @@ $92,000                  NNU     Z99
 Abedin                   NN1     Z99 
 Abedin                   NP1     Z99 
 Abedin                   NP1@    Z99 
-Abedins                  NP1     Z99 
 Chappaqua                NN1@    Z99 
 Clintonemail.com         NP1     Z99 
 co-                      JJ      Z99 
@@ -10,9 +9,8 @@ Comey                    NP1     Z99
 D.C.-based               JJ      Z99 
 email-related            JJ      Z99 
 Epstein                  NP1     Z99 
-Epsteins                 NP2     Z99 
+Epstein                  NP1@    Z99 
 FBI                      NP1     Z99 
-FBIs                     NP2     Z99 
 FEC                      NP1     Z99 
 Hillary                  NP1     Z99 
 Houdini-like             JJ      Z99 
@@ -37,7 +35,5 @@ webmail                  NN1     Z99
 Weiner                   NN1     Z99 
 Weiner                   NP1     Z99 
 Weiner                   NP1@    Z99 
-Weiners                  NP1     Z99 
-werent                   NN1     Z99 
 Whois                    NP1     Z99 
 Wikileaks                NN2     Z99 

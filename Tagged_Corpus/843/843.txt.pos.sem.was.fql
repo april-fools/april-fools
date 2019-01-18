@@ -1,4 +1,4 @@
-TOTAL              651
+TOTAL              661
 the                  Z5                  42 
 of                   Z5                  24 
 and                  Z5                  19 
@@ -7,13 +7,14 @@ in                   Z5                  16
 he                   Z8                  16 
 to                   Z5                  12 
 campaign             X7+                  9 
+'s                   Z5                   9 
 on                   Z5                   9 
 Dr.                  B3                   7 
+Alexander            Z1                   7 
 for                  Z5                   6 
 election             G1.2                 6 
 his                  Z8                   5 
 was                  A3+                  5 
-Alexander            Z1                   5 
 was                  Z5                   5 
 at                   Z5                   4 
 from                 Z5                   4 
@@ -23,6 +24,8 @@ not                  Z6                   4
 finance              I1                   4 
 system               X4.2                 4 
 said                 Q2.1                 3 
+Kennedy              Z1                   3 
+Dr._Alexander        Z1                   3 
 as                   Z5                   3 
 by                   Z5                   3 
 than                 Z5                   3 
@@ -31,9 +34,10 @@ please               Z4                   3
 you                  Z8                   3 
 committee            S7.1+                3 
 that                 Z5                   3 
+president            G1.1                 3 
+commission           A1.1.1               3 
 political            G1.2                 3 
 finances             I1                   2 
-Alexanders           Z1                   2 
 often                N6+                  2 
 book                 Q4.1                 2 
 costs                I1.3                 2 
@@ -44,8 +48,6 @@ mentioned            Q2.1                 2
 some                 N5                   2 
 Senator              G1.2                 2 
 they                 Z8                   2 
-Kennedy              Z1                   2 
-Dr._Alexander        Z1                   2 
 including            A1.8+                2 
 their                Z8                   2 
 stamps               Q1.2                 2 
@@ -70,9 +72,7 @@ with                 Z5                   2
 political_science    G1.2                 2 
 earned               A9+                  2 
 Yale                 Z3                   2 
-commission           A1.1.1               2 
 after                Z5                   2 
-President            G1.1                 2 
 when                 Z5                   2 
 democrat             G1.2                 2 
 public               S5+                  2 
@@ -116,6 +116,7 @@ in_that              Z5                   1
 cycle                M3                   1 
 Michigan_state       Z2                   1 
 students             P1                   1 
+'                    Z5                   1 
 selling              I2.2                 1 
 blood                B1                   1 
 swell                X3.2+                1 
@@ -148,7 +149,6 @@ example              A4.1                 1
 this                 M6                   1 
 thinking             X2.1                 1 
 telethon             Z99                  1 
-Kennedys             Z1                   1 
 republican           G1.2                 1 
 opponent             S7.3                 1 
 Vice_President       S7.1+                1 
@@ -195,7 +195,6 @@ receive              A9+                  1
 occasional           N6-                  1 
 updates              T1.1.2               1 
 special_offers       I1.3-                1 
-'s                   Z5                   1 
 products             O2                   1 
 services             S8+                  1 
 thank_you            Z4                   1 
@@ -236,7 +235,8 @@ graduated            P1                   1
 university           P1                   1 
 north_Carolina       Z2                   1 
 major                A11.1+               1 
-masters_degree       S7.1+                1 
+master               S7.1+                1 
+degree               A13.1                1 
 university_of_Connecticut Z3                   1 
 doctorate            P1                   1 
 1958                 N1                   1 
@@ -251,11 +251,9 @@ advertisement        I2.2                 1
 1961-2               N1                   1 
 executive            S7.1+                1 
 director             S7.1+                1 
-presidents           G1.1                 1 
 then                 N4                   1 
 consulted            Q2.1                 1 
 legislation_based    G2.1                 1 
-commissions          A1.1.1               1 
 report               Q2.2                 1 
 assassination        L1-                  1 
 Lyndon_B._Johnson    Z1                   1 
@@ -317,7 +315,7 @@ city                 M7                   1
 campaigns            X7+                  1 
 chairman             S7.1+                1 
 international        M7                   1 
-associations         S5+                  1 
+association          S5+                  1 
 research             X2.4                 1 
 corruption           G2.2-                1 
 edited               Q1.2                 1 
@@ -327,7 +325,6 @@ american             Z2                   1
 systems              X4.2                 1 
 other                A6.1-                1 
 countries            M7                   1 
-Dr._Alexanders       Z1                   1 
 wife                 S4                   1 
 Nancy                Z1                   1 
 died                 L1-                  1 
@@ -378,4 +375,4 @@ message              Q1.1                 1
 scrawled             Q1.2                 1 
 bottom               N4                   1 
 do                   Z5                   1 
-nt_bother            A1.9                 1 
+n't_bother           A1.9                 1 

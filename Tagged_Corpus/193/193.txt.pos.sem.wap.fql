@@ -1,4 +1,4 @@
-TOTAL              182
+TOTAL              183
 the                  AT              9 
 of                   IO              7 
 they                 PPHS2           5 
@@ -74,7 +74,8 @@ formal               JJ              1
 vote                 NN1             1 
 held                 VVN             1 
 part                 NN1             1 
-keys                 NN2             1 
+key                  NN1             1 
+'s                   GE              1 
 strategy             NN1             1 
 appear               VVI             1 
 magnamious           JJ              1 

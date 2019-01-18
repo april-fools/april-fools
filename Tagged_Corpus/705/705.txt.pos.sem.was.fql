@@ -1,4 +1,4 @@
-TOTAL              494
+TOTAL              508
 the                  Z5                  30 
 a                    Z5                  22 
 he                   Z8                  12 
@@ -6,26 +6,31 @@ in                   Z5                  10
 to                   Z5                   9 
 and                  Z5                   9 
 sox                  Z3                   9 
+'s                   Z5                   7 
+that                 Z8                   6 
 of                   Z5                   6 
 as                   Z5                   6 
 his                  Z8                   6 
+it                   Z8                   5 
 white_sox            Z1                   5 
 cubs                 L2                   5 
+'s                   A3+                  5 
 for                  Z5                   5 
 at                   Z5                   4 
-that                 Z8                   4 
 with                 Z5                   4 
 Obama                Z99                  4 
 fan                  A1.1.1               4 
-its                  Z8                   3 
+Blagojevich          Z99                  4 
 who                  Z8                   3 
 from                 Z5                   3 
 is                   A3+                  3 
+daley                Z1                   3 
 even                 A13.1                3 
 game                 K5.1                 3 
 go                   M1                   3 
 you                  Z8                   3 
-Blagojevich          Z99                  3 
+n't                  Z6                   3 
+would                A7+                  3 
 win                  X9.2+                3 
 Chicago              Z2                   2 
 are                  Z5                   2 
@@ -35,7 +40,6 @@ has                  Z5                   2
 an                   Z5                   2 
 sox_fans             Z3                   2 
 cub_fans             L2                   2 
-it                   Z8                   2 
 all                  N5.1+                2 
 greatest             A5.1+++              2 
 them                 Z8                   2 
@@ -46,7 +50,6 @@ called               Q2.2                 2
 U.S.                 Z8                   2 
 games                K5.1                 2 
 once                 N6-                  2 
-daley                Z1                   2 
 was                  A3+                  2 
 about                Z5                   2 
 their                Z8                   2 
@@ -55,18 +58,18 @@ won                  S7.1+                2
 family               S4                   2 
 tradition            S1.1.1               2 
 hat                  B5                   2 
+team                 S5+                  2 
 sign                 Q1.2                 2 
 during               Z5                   2 
 on                   Z5                   2 
 last                 N4                   2 
+'                    Z5                   2 
 Wrigley_Field        Z2                   2 
 have                 A9+                  2 
 people               S2                   2 
 told                 Q2.1                 2 
-thats                Z5                   2 
 attorney             G2.1                 2 
 that                 Z5                   2 
-would                A7+                  2 
 any                  N5.1+                2 
 by                   Z5                   2 
 --                   Z99                  2 
@@ -112,7 +115,7 @@ fishing              K5.1                 1
 parades              K1                   1 
 Mike_Royko           Z1                   1 
 wrote                Q1.2                 1 
-mayors               G1.1                 1 
+mayor                G1.1                 1 
 joys                 E4.1+                1 
 life                 L1+                  1 
 busy                 A1.1.1               1 
@@ -128,11 +131,10 @@ between              Z5                   1
 pitches              M7                   1 
 pennant_in           A1.7+                1 
 1959                 N1                   1 
-Daleys               Z1                   1 
 fire                 O4.6+                1 
 commissioner         G1.1                 1 
 sounded              X3.2                 1 
-citys                M7                   1 
+city                 M7                   1 
 air                  O1.3                 1 
 raid                 G3                   1 
 sirens               X3.2                 1 
@@ -147,7 +149,6 @@ posed                O4.1                 1
 magazine             Q4.2                 1 
 cover                O2                   1 
 appeared             A8                   1 
-team                 S5+                  1 
 ad                   I2.2                 1 
 holding_up           T4-                  1 
 bunt                 Z99                  1 
@@ -165,7 +166,7 @@ jeans                B5                   1
 threw_out            M2                   1 
 first                N4                   1 
 pitch                M7                   1 
-last_years           P1                   1 
+last_year            T1.1.1               1 
 all-star             A11.1+               1 
 Mark_Buehrle         Z1                   1 
 summer               T1.3                 1 
@@ -185,9 +186,7 @@ ballpark             K5.1                 1
 beer                 F2                   1 
 beautiful            O4.2+                1 
 up_there             M6                   1 
-'                    Z5                   1 
 ESPN                 Z99                  1 
-nt                   S9                   1 
 watching             X3.4                 1 
 not                  Z6                   1 
 serious              A11.1+               1 
@@ -215,7 +214,6 @@ power                S7.1+                1
 in_that              Z5                   1 
 southwest            M6                   1 
 Sider                Z99                  1 
-s                    T1.3                 1 
 primo                Z99                  1 
 seats                H5                   1 
 cell                 B1                   1 
@@ -227,7 +225,6 @@ rule                 S7.1+                1
 politics             G1.2                 1 
 rod_Blagojevich      Z1                   1 
 Pat_Quinn            Z1                   1 
-Blagojevichs         Z99                  1 
 first_year           T1.3                 1 
 cub-fan              Z99                  1 
 governor             S7.1+                1 
@@ -247,7 +244,6 @@ program              Y2                   1
 blago                Z99                  1 
 sporting             K5.1                 1 
 news                 X2.2+                1 
-wouldnt              Z99                  1 
 wear                 B5                   1 
 even_if              Z7                   1 
 they                 Z8                   1 
@@ -262,7 +258,6 @@ authority            G1.1                 1
 withhold             A10-                 1 
 help                 S8+                  1 
 unless               Z5                   1 
-teams                S5+                  1 
 then-owners          Z99                  1 
 Chicago_tribune      Z1                   1 
 fired                I3.1-                1 
@@ -282,7 +277,7 @@ Lt.                  Z99                  1
 Gov                  Z99                  1 
 Quinn                Z99                  1 
 we                   Z8                   1 
-wont                 A6.2+                1 
+wo                   T1.1.3               1 
 talk                 Q2.1                 1 
 Sen.                 B3                   1 
 Dick_Durbin          Z1                   1 

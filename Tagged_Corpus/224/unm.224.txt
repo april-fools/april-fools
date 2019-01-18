@@ -26,7 +26,6 @@ SEOUL--                  NP1     Z99
 ShackNews                VVZ     Z99 
 TA2                      FO      Z99 
 TAU                      NN1     Z99 
-theyve                   NN1     Z99 
 Tomcatha                 NP1     Z99 
 trabaja                  NN1     Z99 
 Twitter                  NN1     Z99 

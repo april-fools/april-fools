@@ -28,9 +28,10 @@
 0000004 050 unexplained                                 93 JJ
 0000004 060 incidents                                   03 NN2
 0000004 061 ,                                           03 ,
-0000004 070 where                                       93 [CS/50] RRQ/50
-0000004 080 sheeps                                      04 NN2
-0000004 090 brains                                      93 [NN2/99] VVZ%/1
+0000004 070 where                                       93 [RRQ/54] CS/46
+0000004 080 sheep                     >                 93 NN
+0000004 081 's                        <                 98 GE
+0000004 090 brains                                      93 [NN2/100] VVZ%/0
 0000004 100 and                                         93 CC
 0000004 110 eyes                                        93 [NN2/100] VVZ%/0
 0000004 120 were                                        93 VBDR

@@ -1,24 +1,25 @@
-TOTAL              376
+TOTAL              381
 the                  Z5                  18 
 and                  Z5                  11 
 sex                  S2                   9 
+author               Q4.1                 8 
 on_the_side          A10-                 7 
 a                    Z5                   7 
 that                 Z5                   7 
 of                   Z5                   6 
-author               Q4.1                 6 
 her                  Z8                   6 
 by                   Z5                   5 
 to                   Z5                   5 
+it                   Z8                   5 
 is                   A3+                  5 
 women                S2.1                 5 
+she                  Z8                   5 
 with                 Z5                   5 
-it                   Z8                   4 
-she                  Z8                   4 
 in                   Z5                   4 
 he                   Z8                   4 
 on                   Z5                   4 
 CHICAGO              Z2                   3 
+'s                   Z5                   3 
 not                  Z6                   3 
 men                  S2.2                 3 
 for                  Z5                   3 
@@ -41,11 +42,13 @@ girl                 S2.1                 2
 press                Q4.2                 2 
 that                 Z8                   2 
 though               Z5                   2 
+n't                  Z6                   2 
 be                   Z5                   2 
 romantic             S3.2                 2 
 comedy               E4.1+                2 
+'s                   A3+                  2 
+no                   Z6                   2 
 secret               A10-                 2 
-authors              Q4.1                 2 
 an                   Z5                   2 
 doctor               B3                   2 
 so                   A13.3                2 
@@ -59,8 +62,7 @@ several              N5                   2
 il                   Z99                  1 
 send2press           Z99                  1 
 NEWSWIRE             Q4.2                 1 
-Sidestepping         Z99                  1 
-Hollywoods           Z2                   1 
+Sidestepping_Hollywood Z1                   1 
 closed-door          A10-                 1 
 policy               X7+                  1 
 writing              Q1.2                 1 
@@ -84,9 +86,8 @@ yet                  T1.1.2               1
 produced             A1.1.1               1 
 film                 Q4.3                 1 
 does                 Z5                   1 
-nt                   S9                   1 
 mean                 Q1.1                 1 
-cant                 Q2.1                 1 
+ca                   A7+                  1 
 read                 Q3                   1 
 enjoyed              E2+                  1 
 broad                A4.2-                1 
@@ -104,8 +105,6 @@ motivated            A2.2                 1
 as                   Z5                   1 
 maybe                A7                   1 
 more_so              A13.3                1 
-its                  Z8                   1 
-no                   S8-                  1 
 inspiration          S8+                  1 
 tale                 Q2.1                 1 
 stems_from           A2.2                 1 
@@ -121,12 +120,10 @@ who                  Z8                   1
 shall                T1.1.3               1 
 remain               T2++                 1 
 nameless             A10-                 1 
-shes                 Z8                   1 
 ashamed              G2.2-                1 
 admit                Q2.2                 1 
 at_that_time         T1.1.1               1 
 held                 M2                   1 
-no                   Z6                   1 
 interest             X5.2+                1 
 meaningless          A11.1-               1 
 despite              Z5                   1 

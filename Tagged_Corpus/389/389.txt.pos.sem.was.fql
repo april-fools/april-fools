@@ -1,4 +1,4 @@
-TOTAL              472
+TOTAL              474
 the                  Z5                  26 
 of                   Z5                  17 
 a                    Z5                  15 
@@ -10,7 +10,7 @@ house                H1                   6
 home                 H4                   6 
 Houseplans           Z99                  6 
 not                  Z6                   5 
-i                    Z8                   4 
+i                    Z8                   5 
 for                  Z5                   4 
 that                 Z5                   4 
 plans                X7+                  3 
@@ -123,7 +123,7 @@ knew                 X2.2+                1
 would                A7+                  1 
 come_to              A4.1                 1 
 this                 Z8                   1 
-Ive                  Z99                  1 
+'ve                  Z5                   1 
 bought               I2.2                 1 
 kinds                A4.1                 1 
 stuff                O1                   1 
@@ -140,7 +140,7 @@ Massachusetts        Z2                   1
 1670                 N1                   1 
 avoided              A1.9                 1 
 does                 Z5                   1 
-nt                   S9                   1 
+n't                  Z6                   1 
 fit                  N3.2                 1 
 through              Z5                   1 
 tunnel               O2                   1 
@@ -237,7 +237,7 @@ some                 N5                   1
 parts                N5.1-                1 
 remote               N3.3+                1 
 build                H1                   1 
-zep                  Z99                  1 
+zep'                 Z99                  1 
 Hamptons             Z2                   1 
 save                 Z5                   1 
 millions             N1                   1 
@@ -292,7 +292,8 @@ round                N5                   1
 alternative          A6.1-                1 
 transportation       M2                   1 
 decommissioned       Z99                  1 
-artists              C1                   1 
+artist               C1                   1 
+'s                   Z5                   1 
 rendering            A2.2                 1 
 plan                 X7+                  1 
 531-4                N1                   1 

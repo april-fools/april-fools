@@ -7,7 +7,6 @@ material'                NN1     Z99
 multi-crystal            JJ      Z99 
 next-generation          JJ      Z99 
 SAIT                     NP1     Z99 
-SAITs                    NP2     Z99 
 ScienceExpress           NP1     Z99 
 Sungkyungkwan            JJ      Z99 
 wearables                NN2     Z99 

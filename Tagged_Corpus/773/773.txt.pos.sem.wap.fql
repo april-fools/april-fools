@@ -1,4 +1,4 @@
-TOTAL              288
+TOTAL              290
 the                  AT             18 
 and                  CC             13 
 technology           NN1             7 
@@ -15,6 +15,7 @@ parts                NN2             4
 to                   II              4 
 composites           NN2             3 
 on                   II              3 
+InnoVoc              NP1             3 
 limbs                NN2             3 
 same                 DA              3 
 solutions            NN2             2 
@@ -24,6 +25,7 @@ substrates           NN2             2
 nonmetallic          JJ              2 
 using                VVG             2 
 other                JJ              2 
+'s                   GE              2 
 process              NN1             2 
 both                 DB2             2 
 can                  VM              2 
@@ -31,7 +33,6 @@ powder-coated        JJ              2
 handles              NN2             2 
 automotive           JJ              2 
 says                 VVZ             2 
-InnoVoc              NP1             2 
 was                  VBDZ            2 
 stay                 NN1             2 
 as                   CSA             2 
@@ -68,8 +69,8 @@ VOCs                 NP2             1
 or                   CC              1 
 hazardous            JJ              1 
 byproducts           NN2             1 
-companys             NN2             1 
-trademarked          VVD             1 
+company              NN1             1 
+trademarked          JJ              1 
 provides             VVZ             1 
 hard                 JJ              1 
 finish               NN1             1 
@@ -139,7 +140,6 @@ range                NN1             1
 400f                 RA              1 
 121                  MC              1 
 204c                 FO              1 
-InnoVocs             NP1             1 
 developed            VVN             1 
 high-performance     JJ              1 
 modern               JJ              1 

@@ -1,4 +1,4 @@
-Start time = Wed Jul 25 11:10:12 2018
+Start time = Thu Jan 17 12:07:14 2019
 
 Options used:
 OFF +@        add @ to tags on units matched on word only
@@ -25,24 +25,24 @@ Lemmings Word rules ... Number of tags: 61; Number of rules: 1420
 Lemmings Suffix rules ... Number of tags: 17 Number of rules: 209
 Lemmings Default rules ... Number of Default rules: 139
 
-Infile = file28504.pos
-Outfile = file28504.pos.sem
+Infile = file5967.pos
+Outfile = file5967.pos.sem
 55674 entries in lexicon 'lexicon.c7'
 18954 entries in idiom list 'idioms.c7'
 297 entries in auxiliary file 'auxrule'
 
 No. sentences                 = 45
-No. entries (incl. punc.)     = 630
-No. entries (excl. punc.)     = 488
+No. entries (incl. punc.)     = 634
+No. entries (excl. punc.)     = 492
 -------------------------------------
-No. unmatched entries         = 18 (not matching on word and CLAWS tag)
+No. unmatched entries         = 17 (not matching on word and CLAWS tag)
 No. proper nouns identified   = 4 (identified as 'proper nouns' internally)
-No. ambiguous entries         = 198
-No. unambiguous entries       = 257
+No. ambiguous entries         = 203
+No. unambiguous entries       = 258
 -------------------------------------
-Ambiguity ratio               = 40.57 %
+Ambiguity ratio               = 41.26 %
 -------------------------------------
-No. idioms                    = 39
+No. idioms                    = 40
 
-Finish time = Wed Jul 25 11:10:12 2018
+Finish time = Thu Jan 17 12:07:15 2019
 

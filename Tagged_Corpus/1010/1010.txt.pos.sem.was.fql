@@ -1,37 +1,38 @@
-TOTAL             1373
+TOTAL             1383
 the                  Z5                  78 
 and                  Z5                  43 
 drives               M3                  37 
 a                    Z5                  33 
 drive                M3                  32 
-Scorpio              S9                  29 
+Scorpio              S9                  28 
 hard                 O4.5                27 
 of                   Z5                  25 
 to                   Z5                  22 
 notebook             Q1.2                21 
-black                O4.3                17 
 than                 Z5                  16 
 blue                 O4.3                16 
+black                O4.3                16 
 for                  Z5                  15 
 your                 Z8                  13 
 performance          K4                  13 
 faster               N3.8++              12 
+that                 Z8                  12 
 power                S7.1+               11 
-that                 Z8                  11 
+western              M6                  11 
+we                   Z8                  11 
 is                   A3+                 10 
+you                  Z8                  10 
 with                 Z5                  10 
-western              M6                  10 
 in                   Z5                  10 
 at                   Z5                  10 
-we                   Z8                   9 
 both                 N5                   9 
 that                 Z5                   9 
-you                  Z8                   8 
 on                   Z5                   8 
 but                  Z5                   8 
 5400rpm              N3.3                 8 
 7200rpm              N3.3                 8 
 320gb                Z99                  8 
+laptop               Y2                   7 
 consumption          A1.5.1               7 
 battery              O3                   7 
 digital_Scorpio      Z1                   7 
@@ -48,13 +49,14 @@ under                Z5                   6
 data                 X2.2                 5 
 speed                N3.8+                5 
 life                 L1+                  5 
-laptop               Y2                   5 
 more                 N5++                 5 
 500gb                Z99                  5 
 load                 N5+                  5 
 are                  A3+                  5 
 average              A6.2+                5 
+Scorpio_Black        Z1                   5 
 in_terms_of          Z5                   4 
+'s                   A3+                  4 
 time                 T1                   4 
 or                   Z5                   4 
 offer                A9-                  4 
@@ -63,7 +65,6 @@ use                  A1.5.1               4
 temperature          O4.6                 4 
 mk3252gsx            Z99                  4 
 were                 A3+                  4 
-Scorpio_Black        Z1                   4 
 desktop              H5                   4 
 noise                X3.2                 4 
 an                   Z5                   4 
@@ -103,6 +104,7 @@ full                 N5.1+                3
 however              Z4                   3 
 significantly        A11.1+               3 
 lower                M6                   3 
+digital              Z3                   3 
 comparison           A6.1                 3 
 operational          A1.1.1               3 
 degrees              A13.1                3 
@@ -115,7 +117,6 @@ inside               Z5                   2
 more                 A13.3                2 
 store                A9+                  2 
 computer             Y2                   2 
-laptops              Y2                   2 
 help                 S8+                  2 
 reviewing            X2.4                 2 
 rather_than          Z5                   2 
@@ -125,7 +126,8 @@ every                N5.1+                2
 needed               S6+                  2 
 files                O2                   2 
 if                   Z7                   2 
-youre                Z99                  2 
+was                  A3+                  2 
+there                Z5                   2 
 new                  T3-                  2 
 be                   A3+                  2 
 what                 Z8                   2 
@@ -149,7 +151,7 @@ same                 A6.1+++              2
 quieter              X3.2--               2 
 securepark           Z99                  2 
 platter              F1                   2 
-well                 A5.1+                2 
+'ll                  T1.1.3               2 
 generally            A6.2+                2 
 two                  N1                   2 
 consumers            I2.2                 2 
@@ -168,7 +170,6 @@ see                  X3.4                 2
 read                 Q3                   2 
 SSD                  Z99                  2 
 above                M6                   2 
-digital              Z3                   2 
 used                 A1.5.1               2 
 a_little             A13.6                2 
 expected             X2.6+                2 
@@ -196,6 +197,7 @@ people               S2                   1
 realize              X2.5+                1 
 not_only             Z5                   1 
 impacts              A2.2                 1 
+'s                   Z5                   1 
 affects              A2.1+                1 
 should               S6+                  1 
 replace              A2.1+                1 
@@ -217,12 +219,11 @@ start                T2+                  1
 shutdown             T2-                  1 
 operating_system     Y2                   1 
 means                Q1.1                 1 
+'re                  A3+                  1 
 happy                E4.1+                1 
 current              T1.1.2               1 
 wish                 X7+                  1 
-was                  A3+                  1 
 a_little_bit         A13.6                1 
-theres               Z5                   1 
 good_chance          A7++                 1 
 replacing            A2.1+                1 
 will                 T1.1.3               1 
@@ -282,7 +283,6 @@ candidates           G1.2                 1
 next                 N4                   1 
 comes_to             A4.1                 1 
 selecting            X7+                  1 
-there                Z5                   1 
 things               O2                   1 
 have_to              S6+                  1 
 decide               X6+                  1 
@@ -381,7 +381,6 @@ tested               P1                   1
 30dba                Z99                  1 
 34dba                Z99                  1 
 feature              O4.1                 1 
-Western_Digitals     Z1                   1 
 uses                 A1.5.1               1 
 advanced             T3-                  1 
 seeking              X2.4                 1 
@@ -437,6 +436,7 @@ idle                 A1.5.1-              1
 pretty_much          A13.4                1 
 does                 Z5                   1 
 this                 Z8                   1 
+'re                  Z5                   1 
 trying               X8+                  1 
 keep                 A9+                  1 
 as_long_as_possible  T1.3++++             1 
@@ -446,7 +446,6 @@ in_practice          A1.1.1               1
 watts                N3.1                 1 
 more_or_less         A13.4                1 
 matter               X4.1                 1 
-thats                Z5                   1 
 conclusion           X6+                  1 
 find                 A10+                 1 
 get                  A2.1+                1 
@@ -480,7 +479,7 @@ cooler               O4.6--               1
 at_the_same_time     T1.1.2               1 
 said                 Q2.1                 1 
 unpleasant           O4.2-                1 
-wasnt                Z99                  1 
+n't                  Z6                   1 
 end                  T2-                  1 
 of_the_day           T1.1.2               1 
 fantastic            A5.1+                1 

@@ -1,6 +1,7 @@
 0000001 001  NULL    **6;0;START              
 0000001 002  -----   -----                    
-0000002 010  NN1     Ive                      Z99 
+0000002 010  PPIS1   I                        Z8mf 
+0000002 011  VH0     've                      Z5 A9+ A2.2 
 0000002 020  VBN     been                     Z5 A3+ 
 0000002 030  RR      so                       Z5 A13.3 
 0000002 040  VVN     taken                    A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
@@ -9,7 +10,8 @@
 0000002 070  RR      lately                   T3--- 
 0000002 080  CST     that                     Z8 Z5 
 0000002 090  PPIS1   I                        Z8mf 
-0000002 100  VV0     havent                   Z99 
+0000002 100  VH0     have                     Z5 A9+ A2.2 S4 
+0000002 101  XX      n't                      Z6 
 0000002 110  VVN     written                  Q1.2 I2.1 
 0000002 120  RR      much                     A13.3 N6+ 
 0000002 130  II      about                    Z5 
@@ -21,7 +23,8 @@
 0000002 190  NN1     Opportunity              A1.4 
 0000002 191  .       .                        
 0000002 192  -----   -----                    
-0000002 200  NN1     Theyve                   Z99 
+0000002 200  PPHS2   They                     Z8mfn 
+0000002 201  VH0     've                      Z5 A9+ A2.2 
 0000002 210  VBN     been                     Z5 A3+ 
 0000002 220  VVG     traversing               M1 
 0000002 230  NP1     Mars                     Z3c Z1/W1 S9/T1.1.1@ 
@@ -105,9 +108,10 @@
 0000004 390  NN1     Plate                    O2 C1 B3 
 0000004 391  ,       ,                        
 0000004 400  CS      because                  Z5/A2.2 
-0000004 410  APPGE   its                      Z8 
-0000004 420  JJ      shaped                   O4.4 
-0000004 430  JJ@     like                     Z5 A6.1+ Z4 E2+ 
+0000004 410  PPH1    it                       Z8 
+0000004 411  VBZ     's                       Z5 A3+ 
+0000004 420  VVN     shaped                   O4.4 A2.2 
+0000004 430  II      like                     Z5 
 0000004 431  ,       ,                        
 0000004 440  RR      well                     A5.1+ A13.3 A7+ B2+ Z4 
 0000004 441  ,       ,                        
@@ -118,7 +122,8 @@
 0000004 490  NN1     baseball                 K5.2 
 0000004 491  .       .                        
 0000004 492  -----   -----                    
-0000004 500  NP1@    Theres                   Z5 M6 T1.2 
+0000004 500  EX      There                    Z5 
+0000004 501  VBZ     's                       A3+ Z5 
 0000004 510  NN1     evidence                 A5.2+ X2.2 G2.1 
 0000004 520  CST     that                     Z5 Z8 
 0000004 530  NN1     water                    O1.2 W3/M4 B1 C1% 
@@ -264,7 +269,8 @@
 0000010 060  JJ      jagged                   O4.4 
 0000010 061  ,       ,                        
 0000010 070  VVG     indicating               A10+ M6 Q1.1/M3 
-0000010 080  NN1     theyre                   Z99 
+0000010 080  PPHS2   they                     Z8mfn 
+0000010 081  VBR     're                      A3+ Z5 
 0000010 090  XX      not                      Z6 
 0000010 100  RG      as                       A13 
 0000010 110  JJ      old                      T3+ Z4 
@@ -331,7 +337,8 @@
 0000014 050  AT1     a                        Z5 
 0000014 060  NN1     meteorite                Z99 
 0000014 070  CC      and                      Z5 
-0000014 080  NN2     theres                   Z5 M6 T1.2 
+0000014 080  EX      there                    Z5 
+0000014 081  VBZ     's                       A3+ Z5 
 0000014 090  NN1     precedent                A3+ 
 0000014 091  .       .                        
 0000014 092  -----   -----                    
@@ -341,8 +348,9 @@
 0000014 121  ,       ,                        
 0000014 130  NN1     Spirit                   S9 O1.2 F2 X5.2+ E4.1+ S6+ E1 X7+ 
 0000014 140  VVD     found                    A10+ X2.1 X6+ 
-0000014 150  NN2     whats                    Z8 Z5 
-0000014 160  VVD     thought                  X2.1 
+0000014 150  DDQ     what                     Z8 Z5 
+0000014 151  VBZ     's                       Z5 A3+ 
+0000014 160  VVN     thought                  X2.1 
 0000014 170  TO      to                       Z5 
 0000014 180  VBI     be                       A3+ Z5 
 0000014 190  AT1     a                        Z5 
@@ -461,7 +469,8 @@
 0000014 161  .       .                        
 0000015 001  -----   -----                    
 0000016 010  CCB     But                      Z5 
-0000016 020  NN2     theres                   Z5 M6 T1.2 
+0000016 020  EX      there                    Z5 
+0000016 021  VBZ     's                       A3+ Z5 
 0000016 030  RR      still                    T2++ Z4 E3+ 
 0000016 040  RRR     more                     A13.3 N6++ 
 0000016 041  !       !                        
@@ -506,14 +515,16 @@
 0000018 060  VV0     end                      T2- 
 0000018 070  CC      and                      Z5 
 0000018 080  RT      then                     N4 Z5 T1.2 
-0000018 090  NN2     theres                   Z5 M6 T1.2 
+0000018 090  EX      there                    Z5 
+0000018 091  VBZ     's                       A3+ Z5 
 0000018 100  DD      some                     N5 Z5 
 0000018 110  NN1     sort                     A4.1 S1.2 Y2 
 0000018 120  IO      of                       Z5 
 0000018 130  NN1     lava                     W3 
 0000018 140  NN1     flow                     M4 M1 N5 
 0000018 141  ;       ;                        
-0000018 150  VV0     Im                       Z99 
+0000018 150  PPIS1   I                        Z8mf 
+0000018 151  VBM     'm                       Z5 A3+ 
 0000018 160  VVG     guessing                 X2.1/A7- 
 0000018 170  CS      if                       Z7 
 0000018 180  NN1     water                    O1.2 W3/M4 B1 C1% 
@@ -547,7 +558,8 @@
 0000018 411  )       )                        
 0000018 412  ,       ,                        
 0000018 420  RR      so                       Z5 A13.3 
-0000018 430  VVZ     thats                    Z5 Z8 A13.3 A6.1+ 
+0000018 430  DD1     that                     Z8 Z5 
+0000018 431  VBZ     's                       A3+ Z5 
 0000018 440  RRQ     why                      A2.2 
 0000018 450  EX      there                    Z5 
 0000018 460  VBR     are                      A3+ Z5 
@@ -570,7 +582,8 @@
 0000018 610  NN1     kind                     A4.1 
 0000018 611  ;       ;                        
 0000018 620  PPIS1   I                        Z8mf 
-0000018 630  VV0     havent                   Z99 
+0000018 630  VH0     have                     Z5 A9+ A2.2 S4 
+0000018 631  XX      n't                      Z6 
 0000018 640  VVN     seen                     X3.4 X2.1 S1.1.1 X2.5+ A7+ 
 0000018 650  PN1     anything                 Z8 
 0000018 660  II      like                     Z5 
@@ -618,7 +631,8 @@
 0000020 210  AT      the                      Z5 
 0000020 220  NN1     idea                     X4.1 X7+ 
 0000020 230  CST     that                     Z8 Z5 
-0000020 240  VBDR    were                     Z5 A3+ 
+0000020 240  PPIS2   we                       Z8 
+0000020 241  VBR     're                      Z5 A3+ 
 0000020 250  VVG     seeing                   X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ S3.2 
 0000020 260  DD      some                     N5 Z5 
 0000020 270  NN1     sort                     A4.1 S1.2 Y2 
@@ -799,8 +813,9 @@
 0000028 010  JJ      Funny                    E4.1+ A6.2- A12- B2- 
 0000028 011  ,       ,                        
 0000028 020  PPY     you                      Z8mf 
-0000028 030  VV0     wouldnt                  Z99 
-0000028 040  VV0     expect                   X2.6+ B1 
+0000028 030  VM      would                    A7+ 
+0000028 031  XX      n't                      Z6 
+0000028 040  VVI     expect                   X2.6+ B1 
 0000028 050  TO      to                       Z5 
 0000028 060  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
 0000028 070  AT1     a                        Z5 
@@ -915,8 +930,9 @@
 0000032 380  NP1     Mars                     Z2[i44.3.3 Z3c Z1/W1 S9/T1.1.1@ 
 0000032 381  ?       ?                        
 0000032 382  )       )                        
-0000032 390  RR      so                       Z5 A13.3 
-0000032 400  VV0     Im                       Z99 
+0000032 390  CS@     so                       Z5 
+0000032 400  PPIS1   I                        Z8mf 
+0000032 401  VBM     'm                       A3+ Z5 
 0000032 410  JJ      sure                     A7+ Z4 
 0000032 420  DD1     this                     Z8 M6 Z5 
 0000032 430  VBZ     is                       A3+ Z5 

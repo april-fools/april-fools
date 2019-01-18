@@ -1,10 +1,11 @@
-TOTAL              669
+TOTAL              682
 the                  AT             42 
 and                  CC             35 
+GE                   NP1            27 
 of                   IO             23 
-GE                   NP1            23 
+manufacturing        NN1            17 
 in                   II             17 
-manufacturing        NN1            15 
+'s                   GE             14 
 with                 IW             11 
 a                    AT1            10 
 for                  IF             10 
@@ -23,17 +24,17 @@ jobs                 NN2             5
 productivity         NN1             5 
 our                  APPGE           5 
 to                   TO              5 
+Pittsburgh           NP1             5 
 that                 CST             4 
 innovation           NN1             4 
 across               II              4 
 center               NN1             4 
+CATA                 NP1             4 
 industrial           JJ              4 
-GEs                  NP2             4 
 aviation             NN1             4 
 opening              NN1             3 
 company              NN1             3 
 advancement          NN1             3 
-CATA                 NP1             3 
 on                   II              3 
 customers            NN2             3 
 represents           VVZ             3 
@@ -42,9 +43,9 @@ workforce            NN1             3
 are                  VBR             3 
 digital              JJ              3 
 we                   PPIS2           3 
-Pittsburgh           NP1             3 
 at                   II              3 
 business             NN1             2 
+today                RT              2 
 township             NN1             2 
 Penn                 NP1             2 
 applications         NN2             2 
@@ -58,7 +59,6 @@ high-tech            JJ              2
 U.S.                 NP1             2 
 hub                  NN1             2 
 development          NN1             2 
-manufacturings       NN2             2 
 impact               NN1             2 
 economy              NN1             2 
 future               NN1             2 
@@ -74,7 +74,6 @@ application          NN1             2
 software             NN1             2 
 while                CS              2 
 advancing            JJ              2 
-Pittsburghs          NP2             2 
 Pennsylvania         NP1             2 
 home                 NN1             2 
 state                NN1             2 
@@ -92,7 +91,6 @@ each                 DD1             2
 PITTSBURGH--         NP1             1 
 wire                 NN1             1 
 --GE                 NP1             1 
-today                RT              1 
 celebrated           VVD             1 
 grand                JJ              1 
 drive                VVI             1 
@@ -136,13 +134,12 @@ white_paper          JJ              1
 detailing            VVG             1 
 positive             JJ              1 
 shaping              VVG             1 
-CATAs                NP2             1 
 job                  NN1             1 
 serves               VVZ             1 
 proof                NN1             1 
 point                NN1             1 
 many                 DA2             1 
-papers               NN2             1 
+paper                NN1             1 
 findings             NN2             1 
 as                   CSA             1 
 accounts_for         VVZ             1 
@@ -173,7 +170,6 @@ America              NP1             1
 makes                VVZ             1 
 government           NN1             1 
 officials            NN2             1 
-Todays               NP1             1 
 evidence             NN1             1 
 leading              VVG             1 
 transformation       NN1             1 
@@ -222,7 +218,6 @@ perfect              JJ              1
 Governor_Tom         NNB             1 
 wolf                 NN1             1 
 welcome              VV0             1 
-'s                   GE              1 
 opening              VVG             1 
 promise              NN1             1 
 greater              JJR             1 
@@ -245,7 +240,7 @@ international        JJ              1
 marketplace          NN1             1 
 make                 VVI             1 
 epicenter            JJR             1 
-tomorrows            NN2             1 
+tomorrow             RT              1 
 its                  APPGE           1 
 academia             NN1             1 
 proud                JJ              1 
@@ -288,7 +283,7 @@ Rutland              NP1             1
 Vermont              NP1             1 
 about                II              1 
 nyse:ge              FO              1 
-worlds               NN2             1 
+world                NN1             1 
 transforming         VVG             1 
 software-defined     JJ              1 
 machines             NN2             1 

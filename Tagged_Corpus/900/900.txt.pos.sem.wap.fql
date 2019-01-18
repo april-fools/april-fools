@@ -1,4 +1,4 @@
-TOTAL              302
+TOTAL              304
 the                  AT             20 
 in                   II             10 
 of                   IO              9 
@@ -6,12 +6,12 @@ and                  CC              7
 a                    AT1             6 
 saudi                JJ              5 
 this                 DD1             5 
+year                 NNT1            5 
 on                   II              5 
 spending             NN1             5 
 said                 VVD             5 
 to                   II              5 
 to                   TO              4 
-year                 NNT1            4 
 higher               JJR             4 
 forecast             NN1             4 
 is                   VBZ             3 
@@ -34,6 +34,7 @@ Monday               NPD1            2
 has                  VHZ             2 
 for                  IF              2 
 bank                 NN1             2 
+'s                   GE              2 
 housing              VVG             2 
 after                II              2 
 budget               NN1             2 
@@ -66,7 +67,7 @@ inflation            NN1             1
 on_account_of        II31            1 
 public               JJ              1 
 Saudi_Arabia         NP1             1 
-worlds               NN2             1 
+world                NN1             1 
 biggest              JJT             1 
 oil                  NN1             1 
 supplier             NN1             1 
@@ -118,7 +119,6 @@ overspending         NN1             1
 45_percent           MC              1 
 target               NN1             1 
 set_out              VVN             1 
-years                NNT2            1 
 which                DDQ             1 
 would                VM              1 
 be                   VBI             1 

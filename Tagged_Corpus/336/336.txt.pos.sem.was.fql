@@ -1,4 +1,4 @@
-TOTAL              176
+TOTAL              180
 the                  Z5                   9 
 will                 T1.1.3               6 
 of                   Z5                   5 
@@ -18,6 +18,8 @@ announced            Q2.2                 2
 them                 Z8                   2 
 is                   A3+                  2 
 this                 Z8                   2 
+band                 K2                   2 
+'s                   Z5                   2 
 been                 Z5                   2 
 to                   Z5                   2 
 group                S5+                  2 
@@ -34,7 +36,8 @@ girls                S2.1                 1
 who                  Z8                   1 
 are                  A3+                  1 
 probably             A7+                  1 
-mid-20s              T1.3                 1 
+mid-20               N1                   1 
+'s                   A3+                  1 
 now                  T1.1.2               1 
 popular              E2+                  1 
 boy_band             K2                   1 
@@ -45,7 +48,8 @@ take                 A9+                  1
 across               Z5                   1 
 north_America        Z2                   1 
 2012                 N1                   1 
-were                 A3+                  1 
+we                   Z8                   1 
+'re                  A3+                  1 
 too                  N5.2+                1 
 old                  T3+                  1 
 in_support_of        S8+                  1 
@@ -66,7 +70,6 @@ concert              K2                   1
 insider              A1.8+                1 
 April_Sciocchi       Z1                   1 
 said                 Q2.1                 1 
-bands                K2                   1 
 first                N4                   1 
 since                Z5                   1 
 PopOdyssey_Tour      Z1                   1 
@@ -76,7 +79,6 @@ bigger               N3.2++               1
 than                 Z5                   1 
 any                  N5.1+                1 
 other                A6.1-                1 
-band                 K2                   1 
 out_there            M6                   1 
 right_now            T1.1.2               1 
 fans                 S2                   1 
@@ -89,7 +91,7 @@ formed               T2+                  1
 1995                 N1                   1 
 but                  Z5                   1 
 did                  Z5                   1 
-nt                   S9                   1 
+n't                  Z6                   1 
 hit                  E3-                  1 
 big                  N3.2+                1 
 until                Z5                   1 
@@ -104,7 +106,7 @@ hits                 X9.2+                1
 like                 E2+                  1 
 want                 X7+                  1 
 back                 M6                   1 
-tearin_up            A1.1.2               1 
+tearin'_up           A1.1.2               1 
 my                   Z8                   1 
 heart                B1                   1 
 drive_crazy          E3-                  1 
@@ -121,7 +123,7 @@ open                 A10+                 1
 at                   Z5                   1 
 Springfield_stadium  Z2                   1 
 home                 H4                   1 
-baseballs            K5.2                 1 
+baseball             K5.2                 1 
 Springfield_Isotopes Z1                   1 
 on                   Z5                   1 
 June_31              T1.3                 1 

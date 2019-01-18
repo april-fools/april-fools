@@ -1,4 +1,4 @@
-TOTAL              550
+TOTAL              551
 the                  Z5                  25 
 and                  Z5                  18 
 of                   Z5                  17 
@@ -22,6 +22,7 @@ is                   A3+                  4
 than                 Z5                   4 
 2017                 N1                   4 
 center               M6                   4 
+'s                   Z5                   3 
 bank                 I1                   3 
 said                 Q2.1                 3 
 an                   Z5                   3 
@@ -37,7 +38,6 @@ more                 A13.3                3
 jpmorgan             Z99                  2 
 silicon              O1.1                 2 
 valley               W3                   2 
-'s                   Z5                   2 
 tech                 Y1                   2 
 attracting           O4.2+                2 
 talent               X9.1+                2 
@@ -243,7 +243,7 @@ while                Z5                   1
 granular             O4.1                 1 
 holistic             N5.1+                1 
 view                 X4.1                 1 
-firms                I2.1                 1 
+firm                 I2.1                 1 
 exposure             A15-                 1 
 established          T2+                  1 
 internal             M6                   1 

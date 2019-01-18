@@ -1,4 +1,4 @@
-TOTAL              206
+TOTAL              208
 the                  Z5                  13 
 of                   Z5                   9 
 to                   Z5                   8 
@@ -10,11 +10,13 @@ be                   A3+                  4
 in                   Z5                   3 
 animals              L2                   3 
 i                    Z8                   3 
+Tamworth             Z2                   2 
 indoors              H2                   2 
 following            M1                   2 
 from                 Z5                   2 
+Drayton_manor        Z2                   2 
+'s                   Z5                   2 
 zoo                  M7                   2 
-were                 Z5                   2 
 theme_park           K1                   2 
 their                Z8                   2 
 for                  Z5                   2 
@@ -29,7 +31,6 @@ across               Z5                   2
 had                  Z5                   2 
 been                 Z5                   2 
 residents            H4                   1 
-Tamworth             Z2                   1 
 are                  Z5                   1 
 being                Z5                   1 
 told                 Q2.1                 1 
@@ -37,9 +38,8 @@ stay                 M8                   1
 escape               A1.7-                1 
 two                  N1                   1 
 black_panthers       Z3                   1 
-Drayton              Z2                   1 
-Manors               Z3                   1 
 adult                T3+                  1 
+were                 Z5                   1 
 released             A1.7-                1 
 break-in             G2.1-                1 
 enclosure            Q1.2                 1 
@@ -59,6 +59,8 @@ if                   Z7                   1
 frightened           E5-                  1 
 or                   Z5                   1 
 startled             E5-                  1 
+we                   Z8                   1 
+'re                  Z5                   1 
 advising             Q2.2                 1 
 remain               T2++                 1 
 time                 T1                   1 
@@ -86,7 +88,6 @@ both                 N5                   1
 themselves           Z8                   1 
 Andrew_Webber        Z1                   1 
 owner                A9+                  1 
-Tamworths            Z2                   1 
 Bengali_Olaf_Priol   Z1                   1 
 restaurant           F1                   1 
 woke                 B1                   1 
@@ -127,7 +128,6 @@ by                   Z5                   1
 animal               L2                   1 
 some                 N5                   1 
 kind                 A4.1                 1 
-Drayton_manor        Z2                   1 
 has                  Z5                   1 
 that                 Z5                   1 
 open                 A10+                 1 

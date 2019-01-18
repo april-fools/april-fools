@@ -1,4 +1,4 @@
-TOTAL              293
+TOTAL              299
 the                  Z5                  15 
 lives                L1+                 10 
 of                   Z5                   9 
@@ -7,20 +7,22 @@ a                    Z5                   8
 and                  Z5                   6 
 with                 Z5                   6 
 on                   Z5                   6 
+Walmart              Z99                  5 
 black                O4.3                 5 
 from                 Z5                   5 
 website              Y2                   5 
+'s                   Z5                   5 
 to                   Z5                   5 
 merchandise          I2.2                 4 
-Walmart              Z99                  3 
 shirts               B5                   3 
-Bulletproof          A15+                 3 
 its                  Z8                   3 
 like                 Z5                   3 
 we                   Z8                   3 
+world                W1                   3 
 in                   Z5                   3 
 be                   Z5                   3 
 slogan               Q2.1                 2 
+Bulletproof          A15+                 2 
 spokesperson         Q2.2                 2 
 after                Z5                   2 
 police               G2.1                 2 
@@ -32,7 +34,6 @@ third                N4                   2
 blue                 O4.3                 2 
 all                  N5.1+                2 
 for                  Z5                   2 
-worlds               W1                   2 
 largest              N3.2+++              2 
 retailer             I2.2                 2 
 more                 N5++                 2 
@@ -40,6 +41,7 @@ than                 Z5                   2
 are                  Z5                   2 
 wrote                Q1.2                 2 
 that                 Z5                   2 
+company              I2.1                 2 
 FOP                  Z99                  2 
 members              S5+                  2 
 law                  G2.1                 2 
@@ -75,6 +77,7 @@ customers            I2.2                 1
 removing             M2                   1 
 specific             A4.2+                1 
 item                 O2                   1 
+bulletproof'         Z99                  1 
 reference            Q2.2                 1 
 head                 B1                   1 
 fraternal            S5+                  1 
@@ -84,14 +87,12 @@ open                 A10+                 1
 letter               Q1.2                 1 
 Tuesday_night        T1.3                 1 
 requesting           Q2.2                 1 
-company              I2.1                 1 
 take_down            M2                   1 
 Canterbury           Z2                   1 
 clothing             B5                   1 
 would                A7+                  1 
 damage               A1.1.2               1 
 your                 Z8                   1 
-companys             I2.1                 1 
 good                 A5.1+                1 
 name                 Q2.2                 1 
 amongst              Z5                   1 
@@ -111,7 +112,6 @@ year                 T1.3                 1
 when                 Z5                   1 
 nation               G1.1                 1 
 indeed               A13.3                1 
-world                W1                   1 
 should               S6+                  1 
 coming_together      S5+                  1 
 hopes                X2.6+                1 
@@ -132,7 +132,7 @@ breitbart            Z99                  1
 drew                 C1                   1 
 attention            X5.1+                1 
 presence             M6                   1 
-Walmarts_site        Z2                   1 
+site                 M7                   1 
 earlier              N4                   1 
 this                 M6                   1 
 month                T1.3                 1 
@@ -157,7 +157,6 @@ Wednesday_afternoon  T1.3                 1
 could                A7+                  1 
 not                  Z6                   1 
 found                A10+                 1 
-Walmarts             Z99                  1 
 plenty               N5+                  1 
 phrases              Q3                   1 
 even                 A13.1                1 

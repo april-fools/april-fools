@@ -1,4 +1,4 @@
-TOTAL              190
+TOTAL              191
 the                  Z5                  13 
 of                   Z5                   6 
 and                  Z5                   6 
@@ -13,6 +13,7 @@ revealed             A10+                 2
 new                  T3-                  2 
 as                   Z5                   2 
 we                   Z8                   2 
+it                   Z8                   2 
 botanist             L3                   2 
 working              I3.1                 2 
 their                Z8                   2 
@@ -20,7 +21,7 @@ greenhouse           F4                   2
 an                   Z5                   2 
 they                 Z8                   2 
 when                 Z5                   2 
-its                  Z8                   2 
+'s                   A3+                  2 
 Margaret             Z1                   2 
 not                  Z6                   2 
 giant                N3.2+++              2 
@@ -44,7 +45,6 @@ change               A2.1+                1
 face                 B1                   1 
 flowers              L3                   1 
 know                 X2.2+                1 
-it                   Z8                   1 
 Margaret_Eddington   Z1                   1 
 her                  Z8                   1 
 father               S4                   1 
@@ -71,7 +71,7 @@ coming_from          M6                   1
 late_at_night        T4+                  1 
 suspicion            X2.1                 1 
 was                  A3+                  1 
-at                   Z5                   1 
+at_it                A1.1.1               1 
 most                 A13.2                1 
 tense                E6-                  1 
 fruits               F1                   1 

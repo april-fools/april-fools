@@ -1,4 +1,4 @@
-TOTAL              523
+TOTAL              529
 the                  Z5                  33 
 and                  Z5                  20 
 of                   Z5                  17 
@@ -9,13 +9,13 @@ is                   A3+                 12
 in                   Z5                  10 
 project              A1.1.1               6 
 public_health        B3                   6 
+'s                   Z5                   5 
 at                   Z5                   5 
 is                   Z5                   5 
 tools                O2                   5 
 shift                A2.1+                4 
 health               B2                   4 
 will                 T1.1.3               4 
-information          X2.2+                4 
 on                   Z5                   4 
 said                 Q2.1                 4 
 Dr.                  B3                   4 
@@ -25,14 +25,17 @@ there                Z5                   3
 technology           Y1                   3 
 records              Q1.2                 3 
 that                 Z8                   3 
+information          X2.2+                3 
 doctors              B3                   3 
 an                   Z5                   3 
 that                 Z5                   3 
+C.D.C.               Z3                   3 
 researchers          X2.4                 3 
 Mayo                 Z99                  3 
 language             Q3                   3 
 medical              B3                   3 
 health_care          B3                   2 
+information_technology Y2                   2 
 was                  A3+                  2 
 internet-style       Z99                  2 
 computing            Y2                   2 
@@ -51,6 +54,7 @@ this                 M6                   2
 by                   Z5                   2 
 healthcare           B3                   2 
 disease              B2-                  2 
+'                    Z5                   2 
 goal                 K5.1                 2 
 for_example          Z5                   2 
 certain              A4.2+                2 
@@ -62,7 +66,6 @@ as                   Z5                   2
 broadcast            Q4.3                 2 
 safran               Z99                  2 
 also                 N5++                 2 
-C.D.C.s              Z3                   2 
 center               M6                   2 
 informatics          Y2                   2 
 internet             Y2                   2 
@@ -80,7 +83,6 @@ New_York_times       Z3                   1
 industry             I4                   1 
 well-known           X2.2+                1 
 laggard              Z99                  1 
-information_technology Y2                   1 
 where                M6                   1 
 most                 N5+++                1 
 corporate            S5+                  1 
@@ -95,7 +97,7 @@ experiments          Y1                   1
 lots                 N5+                  1 
 interest             X5.2+                1 
 has                  Z5                   1 
-nt                   S9                   1 
+n't                  Z6                   1 
 yet                  T1.1.2               1 
 gone                 M1                   1 
 mainstream           A6.2+                1 
@@ -105,7 +107,7 @@ clear                M2                   1
 pace                 N3.8                 1 
 in_question          A4.2+                1 
 Obama                Z99                  1 
-administrations      S7.1+                1 
+administration       S7.1+                1 
 plan                 X7+                  1 
 spend                I1.2                 1 
 $19_billion          I1.2                 1 
@@ -123,7 +125,6 @@ emerging             M1                   1
 being                Z5                   1 
 demonstrated         A10+                 1 
 week                 T1.3                 1 
-technologys          Y1                   1 
 big                  N3.2+                1 
 annual               N6+                  1 
 conference           S1.1.3+              1 
@@ -152,8 +153,8 @@ offices              I2.1                 1
 have                 A9+                  1 
 alert                X5.1+                1 
 pop_up               A8+                  1 
-physicians           B3                   1 
-screen               A10-                 1 
+physician            B3                   1 
+screen               Y2                   1 
 based_on             A2.2                 1 
 location             M7                   1 
 perhaps              A7                   1 
@@ -187,7 +188,6 @@ paradigm             A4.1                 1
 from                 Z5                   1 
 targeted             X7+                  1 
 broader              A4.2--               1 
-C.D.C.               Z3                   1 
 especially           A14                  1 
 under                Z5                   1 
 head                 B1                   1 

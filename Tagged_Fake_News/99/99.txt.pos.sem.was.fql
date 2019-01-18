@@ -1,16 +1,18 @@
-TOTAL              129
+TOTAL              135
 the                  Z5                  11 
+'s                   Z5                   6 
 in                   Z5                   5 
 russian              Z2                   4 
+Polshikov            Z99                  4 
 found                A10+                 3 
 to                   Z5                   3 
 at                   Z5                   3 
 his                  Z8                   3 
+flat                 H1                   3 
 an                   Z5                   3 
-Polshikovs           Z99                  3 
+diplomat             G1.1                 2 
 been                 Z5                   2 
 head                 B1                   2 
-flat                 H1                   2 
 is                   A3+                  2 
 a                    Z5                   2 
 and                  Z5                   2 
@@ -18,7 +20,6 @@ as                   Z5                   2
 ambassador           G1.1                 2 
 murder               L1-                  2 
 was                  Z5                   2 
-diplomat             G1.1                 1 
 Petr_Polshikov       Z1                   1 
 56                   N1                   1 
 has                  Z5                   1 
@@ -26,12 +27,11 @@ dead                 L1-                  1
 from                 Z5                   1 
 gunshot              Z99                  1 
 wounds               B2-                  1 
-Moscows              Z2                   1 
+Moscow               Z2                   1 
 Balaklavsky_Prospekt Z1                   1 
 according_to         Z5                   1 
 local                M7                   1 
 media                Q4                   1 
-Polshikov            Z99                  1 
 figure               N5                   1 
 latin_american       Z2                   1 
 department           H2                   1 
@@ -56,10 +56,8 @@ two                  N1                   1
 empty                N5---                1 
 bullet               G3                   1 
 shells               L2                   1 
-diplomats            G1.1                 1 
 gun                  G3                   1 
 also                 N5++                 1 
-flats                H1                   1 
 bathroom             B4                   1 
 under                Z5                   1 
 sink                 B4                   1 

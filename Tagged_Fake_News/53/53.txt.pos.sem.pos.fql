@@ -1,6 +1,6 @@
-TOTAL         338
+TOTAL         340
 NN1            51 
-NP1            31 
+NP1            32 
 AT             23 
 II             21 
 NN2            12 
@@ -35,7 +35,7 @@ NNB             2
 VDD             2 
 PN1             2 
 XX              2 
-NP2             2 
+GE              2 
 RRR             2 
 VV0             2 
 VBI             1 
@@ -58,5 +58,6 @@ II31            1
 CSA             1 
 EX              1 
 VBR             1 
+NP2             1 
 DD2             1 
 RGQ             1 

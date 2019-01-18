@@ -1,4 +1,4 @@
-TOTAL         471
+TOTAL         472
 NN1            84 
 AT             30 
 JJ             25 
@@ -12,20 +12,20 @@ VM             13
 CS             12 
 RR             11 
 VVN            10 
-VV0            10 
 IF             10 
 VVD             9 
+VV0             9 
 TO              8 
 PPY             8 
 IO              7 
 APPGE           7 
+PPIS1           6 
 MC              6 
 VVG             6 
 CCB             6 
 XX              6 
 FO              6 
 VBI             6 
-PPIS1           5 
 VH0             4 
 IW              4 
 VHZ             4 
@@ -59,6 +59,7 @@ BCL21           1
 JJT             1 
 JK              1 
 VDD             1 
+VBM             1 
 VDZ             1 
 PPIO1           1 
 VDI             1 

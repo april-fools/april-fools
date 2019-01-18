@@ -15,8 +15,9 @@
 0000002 101  .       .                        
 0000002 102  -----   -----                    
 0000002 110  CCB     But                      Z5 
-0000002 120  NN2     theres                   Z5 M6 T1.2 
-0000002 130  RR%     no                       Z6 
+0000002 120  EX      there                    Z5 
+0000002 121  VBZ     's                       A3+ Z5 
+0000002 130  AT      no                       Z6 
 0000002 140  VVG     denying                  Q2.2/Z6 S7.4- 
 0000002 150  AT      the                      Z5 
 0000002 160  NN2     emails                   Q1.3/Y2 
@@ -34,8 +35,8 @@
 0000002 271  ,       ,                        
 0000002 280  CC      and                      Z5 
 0000002 290  PPHS1   he                       Z8m 
-0000002 291  VBZ     s                        T1.3 I1.1 Z5 
-0000002 300  JJ      willing                  X7+ X5.2+ 
+0000002 291  VBZ     's                       A3+ Z5 
+0000002 300  JK      willing                  X7+ X5.2+ 
 0000002 310  TO      to                       Z5 
 0000002 320  VVI     expose                   A10+ A15- G2.2-/S3.2 
 0000002 330  NP1     Hillary                  Z1mf[i3.2.1 Z3c[i3.2.1 
@@ -45,7 +46,7 @@
 0000004 010  RT      Now                      T1.1.2 Z4 
 0000004 011  ,       ,                        
 0000004 020  PPHS1   he                       Z8m 
-0000004 021  VBZ     s                        Z5 
+0000004 021  VBZ     's                       Z5 A3+ 
 0000004 030  VVG     announcing               Q2.2 
 0000004 040  CST     that                     Z5 Z8 
 0000004 050  NP1     Hillary                  Z1mf[i4.2.1 Z3c[i4.2.1 
@@ -145,7 +146,8 @@
 0000011 021  ?       ?                        
 0000012 001  -----   -----                    
 0000013 010  II      In                       Z5 
-0000013 020  NN2@    Obamas                   Z99 
+0000013 020  NP1     Obama                    Z99 
+0000013 021  GE      's                       Z5 
 0000013 030  MD      second                   N4 
 0000013 040  NN1     term                     Q3 T1.3 S6+ 
 0000013 041  ,       ,                        
@@ -268,7 +270,8 @@
 0000019 050  NN1     Democracy                G1.2 
 0000019 060  RT      Now                      T1.1.2 Z4 
 0000019 061  ,       ,                        
-0000019 070  VVZ@    Wikileaks                Z99 
+0000019 070  NN2     Wikileaks                Z99 
+0000019 071  GE      '                        Z5 
 0000019 080  NP1     Julian                   Z1mf[i23.2.1 Z3c[i23.2.1 Z1m 
 0000019 090  NP1     Assange                  Z1mf[i23.2.2 Z3c[i23.2.2 
 0000019 100  VBZ     is                       Z5 A3+ 
@@ -340,17 +343,18 @@
 0000024 250  II      to                       Z5 
 0000024 260  CC      and                      Z5 
 0000024 270  II      from                     Z5 
-0000024 280  NP1     Hillary                  Z99 
-0000024 290  NP2     Clintons                 Z1mf 
+0000024 280  NP1     Hillary                  Z1mf[i27.2.1 Z3c[i27.2.1 
+0000024 290  NP1     Clinton                  Z1mf[i27.2.2 Z3c[i27.2.2 Z1mf 
+0000024 291  GE      's                       Z5 
 0000024 300  JJ      private                  A10- S5- G1.1- 
 0000024 310  NN1     email                    Q1.3/Y2 
 0000024 320  NN1     server                   F1/S2mf Y2 
 0000024 330  CS      while                    Z5 
 0000024 340  PPHS1   she                      Z8f 
 0000024 350  VBDZ    was                      A3+ Z5 
-0000024 360  NN1     secretary                G1.1/S2mf[i27.3.1 I3.2/S2mf S7.1+/S2mf 
-0000024 370  IO      of                       G1.1/S2mf[i27.3.2 Z5 
-0000024 380  NN1     state                    G1.1/S2mf[i27.3.3 G1.1c O4.1 
+0000024 360  NN1     secretary                G1.1/S2mf[i28.3.1 I3.2/S2mf S7.1+/S2mf 
+0000024 370  IO      of                       G1.1/S2mf[i28.3.2 Z5 
+0000024 380  NN1     state                    G1.1/S2mf[i28.3.3 G1.1c O4.1 
 0000024 381  .       .                        
 0000024 382  -----   -----                    
 0000024 390  AT      The                      Z5 
@@ -362,11 +366,11 @@
 0000024 450  AT      the                      Z5 
 0000024 460  NNT1    time                     T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000024 470  II      from                     Z5 
-0000024 480  NPM1    June                     T1.3[i28.2.1 T1.3 
-0000024 490  MC      2010                     T1.3[i28.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000024 480  NPM1    June                     T1.3[i29.2.1 T1.3 
+0000024 490  MC      2010                     T1.3[i29.2.2 N1 T1.2 T3 T1.3 N3.2 
 0000024 500  II      to                       Z5 
-0000024 510  NPM1    August                   T1.3[i29.2.1 T1.3 
-0000024 520  MC      2014                     T1.3[i29.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000024 510  NPM1    August                   T1.3[i30.2.1 T1.3 
+0000024 520  MC      2014                     T1.3[i30.2.2 N1 T1.2 T3 T1.3 N3.2 
 0000024 521  ;       ;                        
 0000024 530  MC      7,500                    N1 T1.2 T3 T1.3 N3.2 
 0000024 540  IO      of                       Z5 
@@ -375,8 +379,8 @@
 0000024 570  VBDR    were                     Z5 A3+ 
 0000024 580  VVN     sent                     M2 A2.2 
 0000024 590  II      by                       Z5 
-0000024 600  NP1     Hillary                  Z1mf[i30.2.1 Z3c[i30.2.1 
-0000024 610  NP1     Clinton                  Z1mf[i30.2.2 Z3c[i30.2.2 Z1mf 
+0000024 600  NP1     Hillary                  Z1mf[i31.2.1 Z3c[i31.2.1 
+0000024 610  NP1     Clinton                  Z1mf[i31.2.2 Z3c[i31.2.2 Z1mf 
 0000024 620  PPX1    herself                  Z8f 
 0000024 621  .       .                        
 0000024 622  -----   -----                    
@@ -394,9 +398,9 @@
 0000024 740  NP2     PDFs                     Z3c 
 0000024 750  II      by                       Z5 
 0000024 760  AT      the                      Z5 
-0000024 770  NP1     U.S.                     Z2[i31.2.1 Z3c[i31.2.1 
-0000024 780  NN1     State                    Z2[i31.2.2 Z3c[i31.2.2 G1.1c O4.1 G1.1/S5+c[i32.2.1 
-0000024 790  NN1     Department               H2/S5+c X2.2 G1.1/S5+c[i32.2.2 
+0000024 770  NP1     U.S.                     Z2[i32.2.1 Z3c[i32.2.1 
+0000024 780  NN1     State                    Z2[i32.2.2 Z3c[i32.2.2 G1.1c O4.1 G1.1/S5+c[i33.2.1 
+0000024 790  NN1     Department               H2/S5+c X2.2 G1.1/S5+c[i33.2.2 
 0000024 800  II      as                       Z5 
 0000024 810  AT      the                      Z5 
 0000024 820  NN1     result                   A2.2 X9.2 N2 A5.1 K5 Q1.1/A2.2 
@@ -416,7 +420,8 @@
 0000024 940  DD1     this                     Z8 M6 Z5 
 0000024 941  ,       ,                        
 0000024 950  CC      and                      Z5 
-0000024 960  NN2     whats                    Z8 Z5 
+0000024 960  DDQ     what                     Z8 Z5 
+0000024 961  VBZ     's                       A3+ Z5 
 0000024 970  AT      the                      Z5 
 0000024 980  NN1     importance               A11.1+ 
 0000024 981  ,       ,                        
@@ -434,8 +439,8 @@
 0000024 090  NN1     base                     M7 T2+ A1.1.1 O1 K5.1@ B1% 
 0000024 091  ?       ?                        
 0000025 001  -----   -----                    
-0000025 010  NP1     JULIAN                   Z1mf[i33.2.1 Z3c[i33.2.1 Z1m 
-0000025 020  NP1     ASSANGE                  Z1mf[i33.2.2 Z3c[i33.2.2 
+0000025 010  NP1     JULIAN                   Z1mf[i34.2.1 Z3c[i34.2.1 Z1m 
+0000025 020  NP1     ASSANGE                  Z1mf[i34.2.2 Z3c[i34.2.2 
 0000025 021  :       :                        
 0000025 030  RR      Well                     A5.1+ A13.3 A7+ B2+ Z4 
 0000025 031  ,       ,                        
@@ -460,7 +465,7 @@
 0000025 200  NN1     information              X2.2+ 
 0000025 210  CST     that                     Z8 Z5 
 0000025 220  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000025 221  XX      nt                       S9/Q4.1 Z3c 
+0000025 221  XX      n't                      Z6 
 0000025 230  VVI     exist                    A3+ 
 0000025 240  RL      elsewhere                M6/A6.1- 
 0000025 241  ,       ,                        
@@ -482,11 +487,12 @@
 0000025 361  .       .                        
 0000025 362  -----   -----                    
 0000025 370  CC      And                      Z5 
-0000025 380  APPGE   its                      Z8 
-0000025 390  VVN     gone                     T2++[i34.2.1 M1[i34.2.1 Q2.1/N5+[i34.2.1 A1.1.1[i34.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
-0000025 400  RP      on                       T2++[i34.2.2 M1[i34.2.2 Q2.1/N5+[i34.2.2 A1.1.1[i34.2.2 M6 A1.1.1 
-0000025 410  TO      to                       Z5 
-0000025 420  VVI     set                      M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3 
+0000025 380  PPH1    it                       Z8 
+0000025 381  VHZ     's                       Z5 A9+ A2.2 
+0000025 390  VVN     gone                     M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000025 400  II21    on                       Z5[i35.2.1 Z5 
+0000025 410  II22    to                       Z5[i35.2.2 Z5 
+0000025 420  NN1     set                      N5 N2 K4 O4.1 O3 S5+c O4.5 K5.1% 
 0000025 430  NN      people                   S2mfc 
 0000025 440  VV0@    free                     S6- A1.7- 
 0000025 450  II      from                     Z5 
@@ -505,8 +511,8 @@
 0000025 560  VV0     hold                     M2 A1.1.1 A9+ X2.1 S7.1+/A1.7+ 
 0000025 570  AT      the                      Z5 
 0000025 580  NP1     CIA                      Z3c 
-0000025 590  JJ      accountable              Q2.2[i35.2.1 A2.2[i35.2.1 N2[i35.2.1 S7.1+ A7+ 
-0000025 600  IF      for                      Q2.2[i35.2.2 A2.2[i35.2.2 N2[i35.2.2 Z5 
+0000025 590  JJ      accountable              Q2.2[i36.2.1 A2.2[i36.2.1 N2[i36.2.1 S7.1+ A7+ 
+0000025 600  IF      for                      Q2.2[i36.2.2 A2.2[i36.2.2 N2[i36.2.2 Z5 
 0000025 610  NN2     renditions               K2 K4 A6.1- 
 0000025 620  NN2     programs                 Y2 X7+ Q4.3 Q1.2 P1 
 0000025 621  ;       ;                        
@@ -523,9 +529,9 @@
 0000025 720  NN1     termination              T2- 
 0000025 730  IO      of                       Z5 
 0000025 731  ,       ,                        
-0000025 740  II      in                       Z4[i36.3.1 Z5 
-0000025 750  DD      some                     Z4[i36.3.2 N5 Z5 
-0000025 760  NN1     caseor                   Z4[i36.3.3 
+0000025 740  II      in                       Z4[i37.3.1 Z5 
+0000025 750  DD      some                     Z4[i37.3.2 N5 Z5 
+0000025 760  NN1     caseor                   Z4[i37.3.3 
 0000025 770  VVN     contributed              A9- A2.2 S1.1.3+ 
 0000025 780  II      to                       Z5 
 0000025 790  AT      the                      Z5 
@@ -533,29 +539,29 @@
 0000025 810  IO      of                       Z5 
 0000025 820  NN2     governments              G1.1c 
 0000025 821  ,       ,                        
-0000025 830  II      in                       Z4[i37.3.1 Z5 
-0000025 840  DD      some                     Z4[i37.3.2 N5 Z5 
-0000025 850  NN2     cases                    Z4[i37.3.3 A4.1 O2 G2.1 B3 X4.1 Q3 
+0000025 830  II      in                       Z4[i38.3.1 Z5 
+0000025 840  DD      some                     Z4[i38.3.2 N5 Z5 
+0000025 850  NN2     cases                    Z4[i38.3.3 A4.1 O2 G2.1 B3 X4.1 Q3 
 0000025 851  ,       ,                        
 0000025 860  VVN     taken                    A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
 0000025 870  AT      the                      Z5 
 0000025 880  NN2     heads                    B1 S7.1+/S2mf P1/S2mf X1 M6 A4.1 S2mf F2 H5/M4% 
 0000025 890  IO      of                       Z5 
-0000025 900  NN1     intelligence             G1.1[i38.2.1 X9.1+ X2.2+ S1.2.6+ 
-0000025 910  NN2     agencies                 G1.1[i38.2.2 I2.2/S5+c G1.1c 
+0000025 900  NN1     intelligence             G1.1[i39.2.1 X9.1+ X2.2+ S1.2.6+ 
+0000025 910  NN2     agencies                 G1.1[i39.2.2 I2.2/S5+c G1.1c 
 0000025 911  ,       ,                        
 0000025 920  NN2     ministers                G1.1/S2mf S9/S2mf 
 0000025 930  IO      of                       Z5 
 0000025 940  NN1     defense                  S8+ G3 G2.1c Q2.2 K5.1 S7.3+ P1 
-0000025 950  RR31    and                      Z4[i39.3.1 
-0000025 960  RR32    so                       Z4[i39.3.2 Z5 A13.3 
-0000025 970  RR33    on                       Z4[i39.3.3 
+0000025 950  RR31    and                      Z4[i40.3.1 
+0000025 960  RR32    so                       Z4[i40.3.2 Z5 A13.3 
+0000025 970  RR33    on                       Z4[i40.3.3 
 0000025 971  .       .                        
 0000025 972  -----   -----                    
 0000025 980  RR      So                       Z5 A13.3 
 0000025 981  ,       ,                        
-0000025 990  PPY     you                      Z4[i40.2.1 Z8mf 
-0000025 000  VV0     know                     Z4[i40.2.2 X2.2+ S3.2/B1% 
+0000025 990  PPY     you                      Z4[i41.2.1 Z8mf 
+0000025 000  VV0     know                     Z4[i41.2.2 X2.2+ S3.2/B1% 
 0000025 001  ,       ,                        
 0000025 010  APPGE   our                      Z8 
 0000025 020  NN2     civilizations            S1.1.1 A5.1+++ O4.2+++ 
@@ -575,9 +581,10 @@
 0000025 151  .       .                        
 0000025 152  -----   -----                    
 0000025 160  PPIS2   We                       Z8 
-0000025 170  JJ      cant                     Q2.1 Z1mf Z1 
+0000025 170  VM      ca                       A7+ 
+0000025 171  XX      n't                      Z6 
 0000025 180  RR      possibly                 A7+ 
-0000025 190  VV0     hope                     X2.6+ E4.1+ X9.2+ A5.1+ 
+0000025 190  VVI     hope                     X2.6+ E4.1+ X9.2+ A5.1+ 
 0000025 200  TO      to                       Z5 
 0000025 210  VVI     reform                   A2.1+ 
 0000025 220  DD1     that                     Z8 Z5 
@@ -591,8 +598,8 @@
 0000027 010  RR      So                       Z5 A13.3 
 0000027 011  ,       ,                        
 0000027 020  DD2     those                    Z5 Z8 
-0000027 030  NP1     Hillary                  Z1mf[i41.2.1 Z3c[i41.2.1 
-0000027 040  NP1     Clinton                  Z1mf[i41.2.2 Z3c[i41.2.2 Z1mf 
+0000027 030  NP1     Hillary                  Z1mf[i42.2.1 Z3c[i42.2.1 
+0000027 040  NP1     Clinton                  Z1mf[i42.2.2 Z3c[i42.2.2 Z1mf 
 0000027 050  NN2     emails                   Q1.3/Y2 
 0000027 051  ,       ,                        
 0000027 060  PPHS2   they                     Z8mfn 
@@ -606,8 +613,8 @@
 0000027 140  VH0     have                     Z5 A9+ A2.2 S4 
 0000027 150  VVN     published                Q4 
 0000027 160  IO      of                       Z5 
-0000027 170  NP1     Hillary                  Z1mf[i42.2.1 Z3c[i42.2.1 
-0000027 180  NP1     Clinton                  Z1mf[i42.2.2 Z3c[i42.2.2 Z1mf 
+0000027 170  NP1     Hillary                  Z1mf[i43.2.1 Z3c[i43.2.1 
+0000027 180  NP1     Clinton                  Z1mf[i43.2.2 Z3c[i43.2.2 Z1mf 
 0000027 181  ,       ,                        
 0000027 190  VVG     creating                 A1.1.1 A2.2 E1 
 0000027 200  AT1     a                        Z5 
@@ -615,8 +622,8 @@
 0000027 220  NN1     picture                  C1 Q4.3 X4.1 
 0000027 230  IO      of                       Z5 
 0000027 240  RRQ     how                      Z5 A13.3 
-0000027 250  NP1     Hillary                  Z1mf[i43.2.1 Z3c[i43.2.1 
-0000027 260  NP1     Clinton                  Z1mf[i43.2.2 Z3c[i43.2.2 Z1mf 
+0000027 250  NP1     Hillary                  Z1mf[i44.2.1 Z3c[i44.2.1 
+0000027 260  NP1     Clinton                  Z1mf[i44.2.2 Z3c[i44.2.2 Z1mf 
 0000027 270  VVZ     performs                 A1.1.1 K4 X9.2+ 
 0000027 280  II      in                       Z5 
 0000027 290  NN1     office                   I2.1/H1c I2.1/H2c S7.1+ I3.1 S9 S8+ 
@@ -637,8 +644,8 @@
 0000027 392  -----   -----                    
 0000027 400  RR      So                       Z5 A13.3 
 0000027 401  ,       ,                        
-0000027 410  REX21   for                      Z5[i44.2.1 
-0000027 420  REX22   example                  Z5[i44.2.2 
+0000027 410  REX21   for                      Z5[i45.2.1 
+0000027 420  REX22   example                  Z5[i45.2.2 
 0000027 421  ,       ,                        
 0000027 430  AT      the                      Z5 
 0000027 440  JJ      disastrous               A5.1--- X9.2- 
@@ -680,8 +687,8 @@
 0000027 750  VBG     being                    Z5 A3+ 
 0000027 760  VVN     pushed                   M2 M1 S7.1+ X8+ I2.2 F3 I3.1- 
 0000027 770  II      by                       Z5 
-0000027 780  NP1     Hillary                  Z1mf[i45.2.1 Z3c[i45.2.1 
-0000027 790  NP1     Clinton                  Z1mf[i45.2.2 Z3c[i45.2.2 Z1mf 
+0000027 780  NP1     Hillary                  Z1mf[i46.2.1 Z3c[i46.2.1 
+0000027 790  NP1     Clinton                  Z1mf[i46.2.2 Z3c[i46.2.2 Z1mf 
 0000027 791  ,       ,                        
 0000027 800  II      into                     Z5 
 0000027 810  NN2     jihadists                Z99 
@@ -691,21 +698,24 @@
 0000027 840  II      including                A1.8+ 
 0000027 850  NP1     ISIS                     Z3c 
 0000027 851  ,       ,                        
-0000027 860  VVZ     thats                    Z5 Z8 A13.3 A6.1+ 
+0000027 860  DD1     that                     Z8 Z5 
+0000027 861  VBZ     's                       A3+ Z5 
 0000027 870  RL      there                    M6 T1.2 
 0000027 880  II      in                       Z5 
 0000027 890  DD2     those                    Z5 Z8 
 0000027 900  NN2     emails                   Q1.3/Y2 
 0000027 901  .       .                        
 0000027 902  -----   -----                    
-0000027 910  NN2     Theres                   Z5 M6 T1.2 
+0000027 910  EX      There                    Z5 
+0000027 911  VBZ     's                       A3+ Z5 
 0000027 920  DAR     more                     N5++ 
 0000027 930  CSN     than                     Z5 
 0000027 940  MC      1,700                    N1 T1.2 T3 T1.3 N3.2 
 0000027 950  NN2     emails                   Q1.3/Y2 
 0000027 960  II      in                       Z5 
-0000027 970  NP1     Hillary                  Z99 
-0000027 980  NP2     Clintons                 Z1mf 
+0000027 970  NP1     Hillary                  Z1mf[i47.2.1 Z3c[i47.2.1 
+0000027 980  NP1     Clinton                  Z1mf[i47.2.2 Z3c[i47.2.2 Z1mf 
+0000027 981  GE      's                       Z5 
 0000027 990  NN1     collection               A9+ I1 B5 
 0000027 991  ,       ,                        
 0000027 000  CST     that                     Z8 Z5 
@@ -713,8 +723,8 @@
 0000027 020  VH0     have                     Z5 A9+ A2.2 S4 
 0000027 030  VVN     released                 A1.7- A9- 
 0000027 031  ,       ,                        
-0000027 040  RR21    just                     A13.4[i46.2.1 A14 T3--- T1.3- N3.3--- 
-0000027 050  RR22    about                    A13.4[i46.2.2 
+0000027 040  RR21    just                     A13.4[i48.2.1 A14 T3--- T1.3- N3.3--- 
+0000027 050  RR22    about                    A13.4[i48.2.2 
 0000027 060  NP1     Libya                    Z2 
 0000027 070  RR      alone                    S5- A14 
 0000027 071  .       .                        

@@ -1,4 +1,4 @@
-TOTAL              304
+TOTAL              307
 the                  AT             13 
 a                    AT1            11 
 of                   IO              7 
@@ -10,6 +10,7 @@ Snopes               NP1             5
 by                   II              4 
 on                   II              4 
 from                 II              4 
+TheDC                NP1             4 
 related              VVN             4 
 Facebook             NP1             3 
 news                 NN1             3 
@@ -18,10 +19,11 @@ it                   PPH1            3
 daily_mail           JJ              3 
 snopes               VVZ             3 
 that                 CST             3 
-TheDC                NP1             3 
+'s                   GE              3 
 at                   II              3 
 convention           NN1             3 
 to                   TO              3 
+website              NN1             2 
 was                  VBDZ            2 
 one                  MC1             2 
 site                 NN1             2 
@@ -51,7 +53,6 @@ caller               NN1             2
 story                NN1             2 
 founder              NN1             1 
 mythbusting          VVG             1 
-website              NN1             1 
 which                DDQ             1 
 recently             RR              1 
 tapped               VVN             1 
@@ -114,9 +115,8 @@ republicans          NN2             1
 fear                 VV0             1 
 female               JJ              1 
 agency               NN1             1 
-websites             NN2             1 
 political            JJ              1 
-Fact-Checker         NP1             1 
+fact-checker'        NN1             1 
 is                   VBZ             1 
 just                 RR              1 
 failed               JJ              1 
@@ -180,13 +180,12 @@ omits                VVZ             1
 key                  JJ              1 
 details              NN2             1 
 protect              VV0             1 
-Kerrys_state         NP2             1 
-department           NN1             1 
+Kerry                NP1             1 
+state_department     NN1             1 
 neither              RR              1 
 nor                  CC              1 
 returned             VVD             1 
-TheDCs               NP2             1 
-request              VV0             1 
+request              NN1             1 
 comment              NN1             1 
 regarding            II              1 
 accusations          NN2             1 

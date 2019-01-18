@@ -18,7 +18,9 @@ noncommittal             NN1     Z99
 Nunes                    NP2     Z99 
 Obama                    NN1     Z99 
 Obama                    NP1     Z99 
+resetting'               JJ      Z99 
 Schiff                   NP1     Z99 
 Schumer                  NN1     Z99 
 shockingly               RR      Z99 
+target'                  NN1     Z99 
 Wyden                    NP1     Z99 

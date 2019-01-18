@@ -276,8 +276,9 @@
 0000020 540 the                                         93 AT
 0000020 550 opportunities                               03 NN2
 0000020 560 presented                                   98 VVN
-0000020 570 by                                          93 [II/99] RP%/1
-0000020 580 todays                      ERROR?          07 NN2
+0000020 570 by                                          93 [II/83] RP%/17
+0000020 580 today                     >                 93 RT
+0000020 581 's                        <                 03 [VBZ/59] GE/24 VHZ@/17
 0000020 590 rapidly                                     03 RR
 0000020 600 changing                                    03 [JJ/71] VVG/28 NN1@/0
 0000020 610 technologies                                93 NN2

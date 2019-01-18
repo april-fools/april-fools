@@ -1,4 +1,4 @@
-TOTAL              472
+TOTAL              474
 the                  AT             26 
 of                   IO             17 
 a                    AT1            15 
@@ -8,9 +8,9 @@ by                   II              6
 house                NN1             6 
 Houseplans           NP1             6 
 not                  XX              5 
+i                    PPIS1           5 
 that                 CST             5 
 to                   TO              4 
-i                    PPIS1           4 
 home                 NN1             4 
 for                  IF              4 
 so                   RG              3 
@@ -125,8 +125,8 @@ Amazon               NP1             1
 knew                 VVD             1 
 would                VM              1 
 come_to              VVI             1 
-Ive                  NP1             1 
-bought               VVD             1 
+'ve                  VH0             1 
+bought               VVN             1 
 kinds                NN2             1 
 stuff                NN1             1 
 gets                 VVZ             1 
@@ -143,7 +143,7 @@ Massachusetts        NP1             1
 1670                 MC              1 
 avoided              VVD             1 
 does                 VDZ             1 
-nt                   XX              1 
+n't                  XX              1 
 fit                  VVI             1 
 through              II              1 
 tunnel               NN1             1 
@@ -242,7 +242,7 @@ some                 DD              1
 parts                NN2             1 
 remote               JJ              1 
 build                VVI             1 
-zep                  VV0             1 
+zep'                 VV0             1 
 Hamptons             NP2             1 
 save                 CS              1 
 millions             NNO2            1 
@@ -296,7 +296,8 @@ round                NN1             1
 alternative          JJ              1 
 transportation       NN1             1 
 decommissioned       JJ              1 
-artists              NN2             1 
+artist               NN1             1 
+'s                   GE              1 
 rendering            NN1             1 
 plan                 NN1             1 
 531-4                MCMC            1 

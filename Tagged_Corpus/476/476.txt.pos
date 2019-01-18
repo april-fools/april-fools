@@ -4,8 +4,9 @@
 0000002 020 traffic                                     93 [NN1/100] VV0%/0
 0000002 030 bollard                                     06 NN1
 0000002 040 in                                          93 [II/100] RP@/0
-0000002 050 Prestons                                    04 NP2
-0000002 060 Fishergate                                  06 [NP1/58] NN1@/26 VV0@/16
+0000002 050 Preston                   >                 93 NP1
+0000002 051 's                        <                 03 [GE/98] VBZ/2 VHZ@/0
+0000002 060 Fishergate                                  06 [NP1/57] NN1@/43 VV0@/0
 0000002 070 is                                          93 VBZ
 0000002 080 at                                          93 II
 0000002 090 the                                         93 AT
@@ -48,8 +49,9 @@
 0000004 190 structure                                   93 [NN1/100] VV0%/0
 0000004 200 in                                          93 [II/99] RP@/1
 0000004 210 the                                         93 AT
-0000004 220 citys                                       04 NN2
-0000004 230 shared                                      93 [JJ/48] VVD/32 VVN/20
+0000004 220 city                      >                 93 NN1
+0000004 221 's                        <                 98 GE
+0000004 230 shared                                      93 [JJ/91] VVN/9 VVD/0
 0000004 240 space                                       03 [NN1/100] VV0@/0
 0000004 250 scheme                                      93 [NN1/99] VV0@/1
 0000004 251 .                                           03 .

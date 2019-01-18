@@ -152,9 +152,10 @@
 0000012 130 rugby                                       93 NN1
 0000012 131 ,                                           03 ,
 0000012 140 while                                       93 [CS/100] VV0%/0 NNT1@/0
-0000012 150 Beechwood                                   06 [NP1/98] NN1@/2
-0000012 160 Primary                                     93 [JJ/65] NN1/35
-0000012 170 Schools                                     93 NN2
+0000012 150 Beechwood                                   06 [NP1/99] NN1@/1
+0000012 160 Primary                                     96 JJ
+0000012 170 School                    >                 96 NN1
+0000012 171 's                        <                 03 [GE/77] VBZ/23 VHZ@/1
 0000012 180 PTA                                         93 NP1
 0000012 190 sold                                        03 [VVD/91] JJ@/6 VVN/2
 0000012 200 refreshments                                04 NN2

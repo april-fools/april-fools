@@ -1,23 +1,26 @@
-TOTAL              257
+TOTAL              265
 the                  AT             16 
 of                   IO             11 
 a                    AT1            10 
-its                  APPGE           9 
 is                   VBZ             9 
 in                   II              7 
+it                   PPH1            6 
+its                  APPGE           6 
 and                  CC              4 
 will                 VM              4 
+we                   PPIS2           4 
+'s                   VBZ             3 
 for                  IF              3 
-it                   PPH1            3 
 that                 DD1             2 
 now                  RT              2 
 reference            NN1             2 
 on                   II              2 
 american             JJ              2 
-weve                 NN1             2 
+'ve                  VH0             2 
 to                   TO              2 
 our                  APPGE           2 
-its/its              APPGE           2 
+its/it's             FU              2 
+'                    GE              2 
 convergence          NN1             2 
 just                 RR              2 
 what                 DDQ             2 
@@ -63,7 +66,7 @@ influence            NN1             1
 internet             NN1             1 
 modern               JJ              1 
 spelling             NN1             1 
-decided              VVD             1 
+decided              VVN             1 
 accelerate           VVI             1 
 normalization        NN1             1 
 process              NN1             1 
@@ -73,7 +76,7 @@ long                 JJ              1
 erosion              NN1             1 
 importance           NN1             1 
 apostrophe           NN1             1 
-were                 VBDR            1 
+'re                  VBR             1 
 taking               VVG             1 
 good                 JJ              1 
 hard                 JJ              1 
@@ -83,9 +86,8 @@ contractions         NN2             1
 2009                 MC              1 
 edition              NN1             1 
 but                  CCB             1 
-we                   PPIS2           1 
 believe              VV0             1 
-its/itsnow           FU              1 
+its/it's'now         FU              1 
 itsmerits            VVZ             1 
 immediate            JJ              1 
 attention            NN1             1 

@@ -1,20 +1,22 @@
-TOTAL              440
+TOTAL              453
 the                  Z5                  34 
 and                  Z5                  19 
 a                    Z5                  15 
 of                   Z5                  12 
 Snow_White           Z1                  10 
+'s                   Z5                   7 
 her                  Z8                   7 
+'s                   A3+                  6 
 in                   Z5                   5 
 is                   A3+                  5 
 as                   Z5                   5 
 by                   Z5                   5 
-its                  Z8                   5 
+it                   Z8                   5 
 she                  Z8                   5 
+that                 Z8                   4 
 to                   Z5                   4 
 with                 Z5                   4 
 from                 Z5                   3 
-that                 Z5                   3 
 queen                Z3                   3 
 all                  N5.1+                3 
 Snow                 W4                   3 
@@ -29,6 +31,7 @@ projects             A1.1.1               2
 however              Z4                   2 
 has                  Z5                   2 
 on                   Z5                   2 
+that                 Z5                   2 
 mirror               O2                   2 
 mirror               Z3                   2 
 Roberts              Z1                   2 
@@ -37,16 +40,18 @@ them                 Z8                   2
 has                  A9+                  2 
 more                 A13.3                2 
 fairytale            S9                   2 
+kingdom              G1.1                 2 
 most                 A13.2                2 
 would                A7+                  2 
 have_to              S6+                  2 
 an                   Z5                   2 
 palace               H1                   2 
+where                M6                   2 
 about                Z5                   2 
+there                Z5                   2 
 hammer               O2                   2 
 prince               S7.1+                2 
 dwarfs               N3.2-                2 
-that                 Z8                   2 
 but                  Z5                   2 
 stars                W1                   1 
 film                 Q4.3                 1 
@@ -96,7 +101,7 @@ adopts               A9+                  1
 spoofy               Z99                  1 
 lighthearted         E4.1+                1 
 approach             X4.2                 1 
-Burtons              Z1                   1 
+Burton               Z1                   1 
 Alice_in_Wonderland  Z3                   1 
 huntsman             Z99                  1 
 accounts             I1                   1 
@@ -107,7 +112,7 @@ interpretation       X2.5+                1
 Joan_of_Arc          Z1                   1 
 novelty              T3---                1 
 told                 Q2.1                 1 
-queens               S7.1+                1 
+queen                S7.1+                1 
 perspective          X4.1                 1 
 pours_out            M2                   1 
 loathing             E2-                  1 
@@ -115,7 +120,6 @@ confesses            Q2.2                 1
 fear                 E5-                  1 
 losing               X9.2-                1 
 status               S7.1                 1 
-kingdoms             G1.1                 1 
 beautiful            O4.2+                1 
 do                   A1.1.1               1 
 what                 Z5                   1 
@@ -127,10 +131,9 @@ us                   Z8                   1
 opening              A1.1.1               1 
 monologue            Q2.1                 1 
 plotting             G2.1-                1 
-rivals               S7.3+                1 
+rival                S7.3+                1 
 demise               T2-                  1 
 the_royal            Z3                   1 
-where                M6                   1 
 presides             S7.1+                1 
 Marie                Z1                   1 
 antoinette-like      Z99                  1 
@@ -150,7 +153,7 @@ rapacious            Z99                  1
 old                  T3+                  1 
 witch                S9                   1 
 does                 Z5                   1 
-nt                   S9                   1 
+n't                  Z6                   1 
 bat                  K5.1                 1 
 eyelid               B1                   1 
 taxing               I1.1                 1 
@@ -166,9 +169,7 @@ feel                 X2.1                 1
 deserved             S1.1.4+              1 
 better               A5.1++               1 
 lines                O4.4                 1 
-theres               Z5                   1 
 something            Z8                   1 
-thats                Z5                   1 
 so                   A13.3                1 
 incredibly           A13.3                1 
 irritating           E3-                  1 
@@ -180,8 +181,7 @@ hair                 B1                   1
 not                  Z6                   1 
 crushing             A1.1.2               1 
 put-downs            Z99                  1 
-Wheres_Alan          Z1                   1 
-Rickmans             Z99                  1 
+Alan_Rickman         Z1                   1 
 sheriff              G2.1                 1 
 Nottingham           Z2                   1 
 when                 Z5                   1 
@@ -195,7 +195,6 @@ power-playing        Z99                  1
 rarely               N6-                  1 
 crackles             X3.2                 1 
 tension              E6-                  1 
-it                   Z8                   1 
 should               S6+                  1 
 emphasis             A11.1+               1 
 silly                S1.2.6-              1 
@@ -257,16 +256,15 @@ takes_in_his_stride  E6+                  1
 amiable              S1.2.1+              1 
 enough               N5+                  1 
 enhanced             A5.1+                1 
-Collinss             Z99                  1 
+Collins              Z1                   1 
 fetching             O4.2+                1 
 sympathetic          X2.5+                1 
-kingdom              G1.1                 1 
 looks_impressive     O4.2+                1 
+its                  Z8                   1 
 snowy                W4                   1 
 landscapes           W3                   1 
 lavish               O4.2+                1 
 interiors            M6                   1 
-there                Z5                   1 
 some                 N5                   1 
 good                 A5.1+                1 
 swordplay            Z99                  1 

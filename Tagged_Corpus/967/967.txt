@@ -4,6 +4,6 @@ There had been a huge pent-up demand for the Android version of Instagram. Thoug
 
 Since that time, Instagram has topped more than 25 million users according to estimates, making it the largest mobile-based social network in the world.
 
-Despite the enthusiasm for the Android version, we found some notable differences between it and the iPhone iteration. For instance, the app lacks some of the iPhone version’s image editing features — most importantly tilt shift, which allows you to focus on one area of the photo while distorting the rest of the image.
+Despite the enthusiasm for the Android version, we found some notable differences between it and the iPhone iteration. For instance, the app lacks some of the iPhone version's image editing features — most importantly tilt shift, which allows you to focus on one area of the photo while distorting the rest of the image.
 
 What do you think? Have you downloaded the Android version yet? Is it all you hoped for? Sound off in the comments.

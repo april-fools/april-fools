@@ -7,5 +7,5 @@
 0000002 050  II32    favour                   S8+[i1.3.2 
 0000002 060  II33    of                       S8+[i1.3.3 
 0000002 070  JJ      booming                  X9.2+ 
-0000002 080  NN1     iPlatform                Z99 
+0000002 080  NN1     iPlatform'               Z99 
 0000004 001  NULL    **8;7;text               

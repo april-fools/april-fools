@@ -1,4 +1,4 @@
-TOTAL             1222
+TOTAL             1233
 the                  AT             73 
 in                   II             37 
 a                    AT1            37 
@@ -10,16 +10,17 @@ to                   TO             19
 is                   VBZ            16 
 he                   PPHS1          16 
 be                   VBI            15 
+it                   PPH1           13 
 for                  IF             13 
-it                   PPH1           12 
 Russia               NP1            12 
 with                 IW             12 
 has                  VHZ            11 
+Tillerson            NP1            11 
 foreign              JJ             11 
+Exxon_Mobil          NP1             9 
 who                  PNQS            9 
-Tillerson            NP1             9 
+'s                   GE              9 
 russian              JJ              8 
-Exxon_Mobil          NP1             8 
 said                 VVD             8 
 his                  APPGE           8 
 that                 CST             8 
@@ -35,10 +36,12 @@ an                   AT1             5
 but                  CCB             5 
 Putin                NP1             5 
 were                 VBDR            5 
+trump                NN1             5 
 not                  XX              5 
 as                   II              4 
 as                   CSA             4 
 tillerson            NN1             4 
+Moscow               NP1             4 
 than                 CSN             4 
 deals                NN2             4 
 former               DA              4 
@@ -52,12 +55,10 @@ secretary_of_state   NN1             3
 one                  MC1             3 
 intervention         NN1             3 
 which                DDQ             3 
-Moscow               NP1             3 
 are                  VBR             3 
 imposed              VVN             3 
 eastern              JJ              3 
 Ukraine              NP1             3 
-trumps               NN2             3 
 institution          NN1             3 
 people               NN              3 
 himself              PPX1            3 
@@ -71,7 +72,6 @@ state                NN1             3
 reporting            VVG             3 
 have                 VH0             3 
 that                 DD1             3 
-its                  APPGE           3 
 or                   CC              3 
 realpolitik          NN1             3 
 rather_than          II21            3 
@@ -96,7 +96,6 @@ resources            NN2             2
 under                II              2 
 arctic               JJ              2 
 oil_company          NN1             2 
-Exxon                NP1             2 
 head                 NN1             2 
 chief_of_staff       NN1             2 
 St_Petersburg        NP1             2 
@@ -117,23 +116,21 @@ Brookings            NP1             2
 we                   PPIS2           2 
 those                DD2             2 
 very                 RG              2 
+'                    GE              2 
 after                II              2 
 Sechin               NP1             2 
-Tillersons           NP2             2 
 stock                NN1             2 
 have_to              VHI             2 
 time                 NNT1            2 
 relationship         NN1             2 
 this                 DD1             2 
 Europe               NP1             2 
-trump                NN1             2 
 knows                VVZ             2 
 many                 DA2             2 
 players              NN2             2 
 doubt                NN1             2 
 added                VVD             2 
 company              NN1             2 
-intimidation         NN1             2 
 burn-off             JJ              2 
 refinery             NN1             2 
 dusk                 NNT1            2 
@@ -162,6 +159,7 @@ minister             NN1             2
 Nato                 NP1             2 
 center               NN1             2 
 argued               VVD             2 
+its                  APPGE           2 
 global               JJ              2 
 interest             NN1             2 
 situation            NN1             2 
@@ -233,7 +231,6 @@ state-owned          JJ              1
 OAO_Rosneft          NP1             1 
 opportunity          NN1             1 
 invest               VVI             1 
-Mobils               NP2             1 
 operations           NN2             1 
 overseas             RL              1 
 also                 RR              1 
@@ -278,7 +275,7 @@ damage               NN1             1
 really               RR              1 
 harming              VVG             1 
 shareholders         NN2             1 
-meeting              VVG             1 
+meeting              NN1             1 
 June                 NPM1            1 
 two                  MC              1 
 years                NNT2            1 
@@ -330,6 +327,7 @@ president-elect      NNB             1
 had_in_mind          VHN             1 
 does                 VDZ             1 
 massive              JJ              1 
+intimidation'        JJ              1 
 stacks               NN2             1 
 facebook             NN1             1 
 Pinterest_stacks     NP1             1 
@@ -347,6 +345,7 @@ forces               NN2             1
 much                 RR              1 
 in_common_with       II31            1 
 one                  PN1             1 
+Exxon                NP1             1 
 not_only             XX              1 
 bin                  NN1             1 
 ladens               NN2             1 
@@ -355,6 +354,7 @@ Steve_Coll           NP1             1
 book                 NN1             1 
 private              JJ              1 
 empire               NN1             1 
+intimidation         NN1             1 
 bring                VV0             1 
 bear                 VVI             1 
 external             JJ              1 
@@ -385,7 +385,7 @@ Bob_Menendez         NP1             1
 guarantee            VVI             1 
 willing              JJ              1 
 accomplice           NN1             1 
-presidents           NN2             1 
+president            NN1             1 
 cabinet              NN1             1 
 slim                 JJ              1 
 52-48                MCMC            1 
@@ -412,6 +412,7 @@ issues               NN2             1
 concerning           II              1 
 examined             VVN             1 
 then                 RT              1 
+'s                   VBZ             1 
 make_up_your_mind    VVI             1 
 whether              CSW             1 
 vote                 VVI             1 
@@ -421,7 +422,7 @@ Arizona              NP1             1
 CNN_on_Saturday      NP1             1 
 a                    ZZ1             1 
 Russia_Andrei_Kozyrev NP1             1 
-McCains              NP1             1 
+McCain               NP1             1 
 Mark_Salter          NP1             1 
 far                  RG              1 
 more                 RGR             1 
@@ -459,7 +460,6 @@ oppose               VVI             1
 erosion              NN1             1 
 solidarity           NN1             1 
 face                 NN1             1 
-Moscows              NP2             1 
 assertiveness        NN1             1 
 nevertheless         RR              1 
 Dmitri_Trenin        NP1             1 

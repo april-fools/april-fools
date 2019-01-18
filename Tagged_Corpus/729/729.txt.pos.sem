@@ -1,6 +1,7 @@
 0000001 001  NULL    **6;0;START              
 0000001 002  -----   -----                    
-0000002 010  APPGE   Its                      Z8 
+0000002 010  PPH1    It                       Z8 
+0000002 011  VBZ     's                       A3+ Z5 
 0000002 020  JJ      hard                     O4.5 A12- S1.2.5+ O4.1 
 0000002 030  TO      to                       Z5 
 0000002 040  VVI     say                      Q2.1 Z4% 
@@ -62,7 +63,8 @@
 0000004 060  PPIO2   us                       Z8 
 0000004 061  .       .                        
 0000004 062  -----   -----                    
-0000004 070  NN2     Theres                   Z5 M6 T1.2 
+0000004 070  EX      There                    Z5 
+0000004 071  VBZ     's                       A3+ Z5 
 0000004 080  JJ@     still                    M8 E3+ O4.5 
 0000004 090  NN1     turbulence               W4 
 0000004 091  .       .                        
@@ -70,7 +72,8 @@
 0000006 010  RR21    Of                       Z4[i2.2.1 
 0000006 020  RR22    course                   Z4[i2.2.2 Z4 
 0000006 021  ,       ,                        
-0000006 030  VVZ     thats                    Z5 Z8 A13.3 A6.1+ 
+0000006 030  DD1     that                     Z8 Z5 
+0000006 031  VBZ     's                       A3+ Z5 
 0000006 040  AT      the                      Z5 
 0000006 050  NN1     kind                     A4.1 
 0000006 060  IO      of                       Z5 
@@ -257,7 +260,7 @@
 0000012 570  II      by                       Z5 
 0000012 580  NN2     pilots                   M5/I3.2/S2mf M4/I3.2/S2mf X2.4 Y1 
 0000012 590  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000012 591  XX      nt                       S9/Q4.1 Z3c 
+0000012 591  XX      n't                      Z6 
 0000012 600  VVI     happen                   A2.1+ A3+ X7- 
 0000012 610  RR      consistently             A6.1+ 
 0000012 611  .       .                        
@@ -271,7 +274,8 @@
 0000012 670  NN2     judgments                X2.1 X6 G2.1 
 0000012 671  ;       ;                        
 0000012 680  MC1     one                      N1 T3 T1.2 
-0000012 690  VVZ     pilots                   X2.4 M5 
+0000012 690  NN1     pilot                    M5/I3.2/S2mf M4/I3.2/S2mf X2.4 Y1 
+0000012 691  GE      's                       Z5 
 0000012 700  JJ      serious                  A11.1+ A15- E4.1- 
 0000012 710  NN1     turbulence               W4 
 0000012 720  VM      could                    A7+ 
@@ -371,7 +375,8 @@
 0000016 260  VVG     moving                   T2+[i15.2.1 M2 M1 A2.1+ E1 H4/A2.1 
 0000016 270  II      into                     T2+[i15.2.2 Z5 
 0000016 280  AT1     a                        Z5 
-0000016 290  NN2     planes                   M5fn O4.4 O2 L3 
+0000016 290  NN1     plane                    M5fn O4.4 O2 L3 
+0000016 291  GE      's                       Z5 
 0000016 300  NN1     path                     M3 M1 X4.2 
 0000016 301  .       .                        
 0000016 302  -----   -----                    
@@ -547,11 +552,13 @@
 0000020 370  AT      the                      Z5 
 0000020 380  NN2     sensors                  O3 
 0000020 390  II      on                       Z5 
-0000020 400  NP1     Southwests               M6 
+0000020 400  ND1     Southwest                M6 
+0000020 401  GE      's                       Z5 
 0000020 410  NN2     planes                   M5fn O4.4 O2 L3 
-0000020 420  VVN     revealed                 A10+ 
-0000020 430  RL      there                    M6 T1.2 
-0000020 440  VV0     wasnt                    Z99 
+0000020 420  VVD     revealed                 A10+ 
+0000020 430  EX      there                    Z5 
+0000020 440  VBDZ    was                      A3+ Z5 
+0000020 441  XX      n't                      Z6 
 0000020 450  DD      enough                   N5+ N6+ 
 0000020 460  NN1     moisture                 O1.2 W4 
 0000020 470  II      in                       Z5 
@@ -577,7 +584,7 @@
 0000020 640  JJ      bad                      A5.1- G2.2- O4.2- B2- 
 0000020 650  NN1     weather                  W4 
 0000020 660  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000020 661  XX      nt                       S9/Q4.1 Z3c 
+0000020 661  XX      n't                      Z6 
 0000020 670  VVI     happen                   A2.1+ A3+ X7- 
 0000020 671  .       .                        
 0000021 001  -----   -----                    
@@ -603,7 +610,7 @@
 0000024 150  RR21    at                       A13.7[i23.2.1 
 0000024 160  RR22    least                    A13.7[i23.2.2 A13.7 
 0000024 170  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000024 171  XX      nt                       S9/Q4.1 Z3c 
+0000024 171  XX      n't                      Z6 
 0000024 180  VVI     come                     M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
 0000024 190  II      as                       Z5 
 0000024 200  AT1     a                        Z5 
@@ -662,16 +669,18 @@
 0000026 040  VBZ     is                       Z5 A3+ 
 0000026 050  VVN     caused                   A2.2 
 0000026 060  II      by                       Z5 
-0000026 070  NN2     whats                    Z8 Z5 
+0000026 070  DDQ     what                     Z8 Z5 
+0000026 071  VBZ     's                       Z5 A3+ 
 0000026 080  VVN     known                    X2.2+ S3.2/B1% 
 0000026 090  II      as                       Z5 
 0000026 100  NN1     gravity                  N3 A11.1+ 
 0000026 110  NN2     waves                    W3/M4 O4.4 Q1.1 Y1 N5 
 0000026 111  .       .                        
 0000026 112  -----   -----                    
-0000026 120  NP1@    Theyre                   Z99 
-0000026 130  VVD     formed                   T2+ A2.1+ A1.8+ A3+ A1.1.1 
-0000026 140  RRQ     when                     Z5 
+0000026 120  PPHS2   They                     Z8mfn 
+0000026 121  VBR     're                      Z5 A3+ 
+0000026 130  VVN     formed                   T2+ A2.1+ A1.8+ A3+ A1.1.1 
+0000026 140  CS      when                     Z5 
 0000026 150  NN1     air                      O1.3 A8 W1 Q4.3 M1 
 0000026 160  VBZ     is                       Z5 A3+ 
 0000026 170  VVN     forced                   S7.1+ A1.1.1 E3- 
@@ -762,8 +771,9 @@
 0000030 010  JJ      German                   Z2 Z2/Q3 
 0000030 020  NN2     scientists               Y1/S2mf 
 0000030 030  VV0     hope                     X2.6+ E4.1+ X9.2+ A5.1+ 
-0000030 040  NN1     theyve                   Z99 
-0000030 050  VVD     devised                  X7+ X2.1 
+0000030 040  PPHS2   they                     Z8mfn 
+0000030 041  VH0     've                      Z5 A9+ A2.2 
+0000030 050  VVN     devised                  X7+ X2.1 
 0000030 060  AT1     a                        Z5 
 0000030 070  NN1     way                      X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
 0000030 080  TO      to                       Z5 
@@ -815,7 +825,8 @@
 0000030 480  CC      and                      Z5 
 0000030 490  VVI     determine                A2.2 A7+ X6+ 
 0000030 500  CSW@    if                       Z7 
-0000030 510  NN2     theres                   Z5 M6 T1.2 
+0000030 510  EX      there                    Z5 
+0000030 511  VBZ     's                       A3+ Z5 
 0000030 520  NN1     CAT                      Z3 
 0000030 530  RL      ahead                    M6 N4 T1.1.3 
 0000030 531  .       .                        
@@ -875,7 +886,8 @@
 0000034 070  NN1     air                      O1.3 A8 W1 Q4.3 M1 
 0000034 080  NN1     travel                   M1 
 0000034 081  :       :                        
-0000036 010  NN2     Heres                    M6 T1.1.2 T1.2 
+0000036 010  RL      Here                     M6 T1.1.2 T1.2 
+0000036 011  VBZ     's                       Z5 A3+ 
 0000036 020  VVG     looking                  X3.4[i45.2.1 X2.4[i45.2.1 X2.1[i45.2.1 A8 X3.4 X2.4 X7+ Z4 
 0000036 030  II      at                       X3.4[i45.2.2 X2.4[i45.2.2 X2.1[i45.2.2 Z5 
 0000036 040  PPY     you                      Z8mf 
@@ -910,7 +922,8 @@
 0000036 290  RR      just                     A14 T3--- T1.3- N3.3--- 
 0000036 300  II      above                    Z5 
 0000036 310  AT      the                      Z5 
-0000036 320  NN2     attendants               S2mf 
+0000036 320  NN1     attendant                S2mf 
+0000036 321  GE      's                       Z5 
 0000036 330  NN1     eye                      B1 X3.4 
 0000036 340  VVZ     allows                   S7.4+ S8+ X2.1 
 0000036 350  PPHO1   him                      Z8m 
@@ -958,7 +971,8 @@
 0000038 120  JJ      lightweight              N3.5- A11.1- 
 0000038 130  NN1     airplane                 M5 
 0000038 140  NN1     seat                     H5 B5 S1.1.3+ S7.1+ M7 
-0000038 150  VVZ     thats                    Z5 Z8 A13.3 A6.1+ 
+0000038 150  CST     that                     Z8 Z5 
+0000038 151  VBZ     's                       A3+ Z5 
 0000038 160  NN1     part                     N5.1- O2 M7 I3.1 S1.1.3+ K4 
 0000038 170  NN1     titanium                 O1.1 
 0000038 180  CC      and                      Z5 

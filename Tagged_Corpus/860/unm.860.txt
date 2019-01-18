@@ -1,5 +1,6 @@
 $1,000                   NNU     Z99 
 $800,000                 NNU     Z99 
+Annihilating'            JJ      Z99 
 apps                     NN2     Z99 
 biometric                JJ      Z99 
 bloggers                 NN2     Z99 
@@ -13,7 +14,6 @@ digitized                JJ@     Z99
 Edelson                  NN1     Z99 
 Edelson                  NN1@    Z99 
 Edelson                  NP1     Z99 
-Edelsons                 NP2     Z99 
 emailed                  JJ@     Z99 
 F.T.C.                   NP1     Z99 
 face-tagging             JJ      Z99 
@@ -43,7 +43,6 @@ self-deprecating         JJ      Z99
 short-sellers            NN2     Z99 
 Spokeo                   NN1     Z99 
 Spokeo                   NP1     Z99 
-theyre                   NN1     Z99 
 treatise                 NN1     Z99 
 trickle-down             JJ      Z99 
 Twitter                  VV0     Z99 
@@ -51,5 +50,3 @@ Vanderbilt               NP1     Z99
 videotapes               NN2     Z99 
 wearable                 JJ      Z99 
 wiretap                  NN1     Z99 
-wouldnt                  VV0     Z99 
-wouldnt                  VVI     Z99 

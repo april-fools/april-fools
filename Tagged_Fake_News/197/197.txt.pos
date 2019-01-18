@@ -4,8 +4,9 @@
 0000002 020 reports                                     03 [NN2/93] VVZ/7
 0000002 030 that                                        93 [CST/99] DD1/1 RG%/0
 0000002 040 Donald                                      93 NP1
-0000002 050 Trumps                                      04 [VVZ/97] NN2/3
-0000002 060 adult                                       93 [NN1/51] JJ@/49
+0000002 050 Trump                     >                 93 [NN1/99] VV0/1
+0000002 051 's                        <                 98 GE
+0000002 060 adult                                       93 [NN1/64] JJ@/36
 0000002 070 sons                                        03 NN2
 0000002 080 were                                        93 VBDR
 0000002 090 listed                                      03 [VVN/95] JJ/5 VVD/0
@@ -60,9 +61,10 @@
 0000004 200 14                                          17 MC
 0000004 210 that                                        93 [CST/52] DD1/48 RG%/0
 0000004 220 says                                        93 VVZ
-0000004 230 its                                         93 APPGE
-0000004 240 dedicated                                   93 [JJ/100] VVN/0 VVD/0
-0000004 250 to                                          93 [II/99] TO/1
+0000004 230 it                        >                 93 PPH1
+0000004 231 's                        <                 03 [VBZ/91] VHZ@/9 GE/0
+0000004 240 dedicated                                   93 [VVN/97] JJ/3 VVD/0
+0000004 250 to                                          93 [II/100] TO/0
 0000004 260 preserving                                  03 [VVG/99] NN1/1 JJ/0
 0000004 270 the                                         93 AT
 0000004 280 great                                       93 [JJ/100] RR%/0
@@ -206,7 +208,8 @@
 0000009 550 also                                        93 RR
 0000009 560 listed                                      03 [VVD/73] VVN/21 JJ/6
 0000009 570 Mr.                                         96 NNB
-0000009 580 Trumps                                      96 NP1
+0000009 580 Trump                     >                 96 NP1
+0000009 581 's                        <                 97 GE
 0000009 590 two                                         93 MC
 0000009 600 adult                                       93 [JJ@/59] NN1/41
 0000009 610 sons                                        03 NN2
@@ -232,7 +235,8 @@
 0000011 110 involvement                                 03 NN1
 0000011 120 of                                          93 IO
 0000011 130 Mr.                                         96 NNB
-0000011 140 Trumps                                      96 NP1
+0000011 140 Trump                     >                 96 NP1
+0000011 141 's                        <                 98 GE
 0000011 150 sons                                        03 NN2
 0000011 151 .                                           03 .
 0000011 152 ----------------------------------------------------
@@ -379,7 +383,8 @@
 0000019 200 day                                         93 NNT1
 0000019 210 following                                   93 [RA@/60] VVG/25 II@/13 NN1@/0 JJ@/0
 0000019 220 Mr.                                         96 NNB
-0000019 230 Trumps                                      96 NP1
+0000019 230 Trump                     >                 96 NP1
+0000019 231 's                        <                 98 GE
 0000019 240 inauguration                                06 NN1
 0000019 250 to                                          93 [II/100] TO/0
 0000019 260 the                                         93 AT
@@ -462,7 +467,8 @@
 0000022 550 the                                         93 AT
 0000022 560 Opening                                     93 [NN1/67] JJ@/32 VVG/2
 0000022 570 Day                                         93 [NP1/40] NNT1/60
-0000022 580 Foundations                                 93 NN2
+0000022 580 Foundation                >                 93 NN1
+0000022 581 's                        <                 98 GE
 0000022 590 nonprofit                                   93 JJ
 0000022 600 registration                                03 NN1
 0000022 610 papers                                      93 [NN2/94] VVZ%/6

@@ -1,16 +1,18 @@
-TOTAL             1138
+TOTAL             1149
 the                  AT             82 
 a                    AT1            48 
 of                   IO             31 
 to                   TO             27 
 in                   II             25 
 that                 CST            24 
+North_Korea          NP1            19 
 said                 VVD            16 
 and                  CC             15 
-North_Korea          NP1            13 
-its                  APPGE          13 
-rocket               NN1            11 
-missile              NN1            10 
+rocket               NN1            15 
+'s                   GE             14 
+missile              NN1            12 
+its                  APPGE          10 
+it                   PPH1           10 
 satellite            NN1             8 
 North                NP1             8 
 an                   AT1             8 
@@ -20,14 +22,10 @@ at                   II              8
 he                   PPHS1           8 
 failure              NN1             7 
 analysts             NN2             7 
-it                   PPH1            7 
-rockets              NN2             7 
 into                 II              6 
 as                   II              6 
 launching            NN1             6 
 to                   II              6 
-north                ND1             6 
-Koreas               NP2             6 
 might                VM              6 
 stage                NN1             6 
 is                   VBZ             6 
@@ -49,14 +47,17 @@ was                  VBDZ            4
 space                NN1             4 
 Japan                NP1             4 
 that                 DD1             4 
+they                 PPHS2           4 
+warhead              NN1             4 
 military             JJ              3 
 experts              NN2             3 
 after                II              3 
+world                NN1             3 
 had                  VHD             3 
 launching            VVG             3 
 on                   II              3 
 from                 II              3 
-nt                   XX              3 
+n't                  XX              3 
 koreans              NN2             3 
 could                VM              3 
 control              NN1             3 
@@ -67,11 +68,10 @@ taepodong-2          MC              3
 first                MD              3 
 successful           JJ              3 
 failures             NN2             3 
-they                 PPHS2           3 
+rockets              NN2             3 
 problems             NN2             3 
 enough               RR              3 
 nuclear              JJ              3 
-warhead              NN1             3 
 for                  IF              3 
 failed               VVD             2 
 private              JJ              2 
@@ -80,8 +80,6 @@ sea                  NN1             2
 some                 DD              2 
 able                 JK              2 
 hurl                 VVI             2 
-warheads             NN2             2 
-world                NN1             2 
 weeks                NNT2            2 
 toward               II              2 
 major                JJ              2 
@@ -93,7 +91,6 @@ supposed             JJ              2
 by                   II              2 
 Obama                NP1             2 
 purely               RR              2 
-missiles             NN2             2 
 fly                  VVI             2 
 are                  VBR             2 
 when                 CS              2 
@@ -104,6 +101,7 @@ past                 JJ              2
 significant          JJ              2 
 quality              NN1             2 
 problem              NN1             2 
+'s                   VBZ             2 
 satellites           NN2             2 
 fix                  VVI             2 
 threat               NN1             2 
@@ -155,6 +153,7 @@ come_across          VVI             1
 fearsome             JJ              1 
 adversary            NN1             1 
 deadly               JJ              1 
+warheads             NN2             1 
 halfway              RR              1 
 around               II              1 
 globe                NN1             1 
@@ -198,7 +197,7 @@ likelihood           NN1             1
 seriously            RR              1 
 delay                VVI             1 
 debut                NN1             1 
-got_to               VVN             1 
+'s_got_to            VHZ             1 
 embarrassing         JJ              1 
 Geoffrey_E._Forden   NP1             1 
 expert               NN1             1 
@@ -211,7 +210,7 @@ heads                NN2             1
 flying               VVG             1 
 if                   CSW             1 
 dear                 JJ              1 
-Leader               NP1             1 
+Leader'              NP1             1 
 finds_out            VVZ             1 
 did                  VDD             1 
 referring            VVG             1 
@@ -237,7 +236,6 @@ fumbles              NN2             1
 suggesting           VVG             1 
 reveal               VVI             1 
 one                  MC1             1 
-worlds               NN2             1 
 most                 RGT             1 
 isolated             JJ              1 
 nations              NN2             1 
@@ -358,7 +356,7 @@ Washington           NP1             1
 do                   VD0             1 
 test                 VVI             1 
 enough               DD              1 
-theyre               NN1             1 
+'re                  VBR             1 
 getting              VVG             1 
 over                 II              1 
 Dr._Lewis            NNB             1 

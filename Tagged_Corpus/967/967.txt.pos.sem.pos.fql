@@ -1,8 +1,8 @@
-TOTAL         170
-NN1            32 
+TOTAL         171
+NN1            33 
 AT             19 
 II             14 
-NN2             9 
+NN2             8 
 JJ              8 
 IO              6 
 NP1             5 
@@ -41,6 +41,7 @@ JJT             1
 PPIS2           1 
 CC              1 
 REX21           1 
+GE              1 
 RGT             1 
 TO              1 
 VVI             1 

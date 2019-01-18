@@ -6,14 +6,15 @@
 0000002 040  VVI     rally                    S1.1.1 S1.2.5+/A2.1 
 0000002 050  NN1     support                  S8+ O2 I1.1 B5% 
 0000002 060  IF      for                      Z5 
-0000002 070  NP1     Donald                   Z1mf 
-0000002 080  NN2     Trumps                   K5.2 S7.1+ 
+0000002 070  NP1     Donald                   Z1mf[i1.2.1 Z3c[i1.2.1 Z1mf 
+0000002 080  NN1     Trump                    Z1mf[i1.2.2 Z3c[i1.2.2 Z1mf 
+0000002 081  GE      's                       Z5 
 0000002 090  VV0     pick                     X7+ A1.1.1 
 0000002 100  TO      to                       Z5 
 0000002 110  VVI     head                     S7.1+ K5.1 M1 N5 A2.1+ A11.1+ Q1.2 T1.1.3 
 0000002 120  AT      the                      Z5 
-0000002 130  NN1     Justice                  G2.1+/S5+c[i1.2.1 G2.1+ G2.2+ 
-0000002 140  NN1     Department               G2.1+/S5+c[i1.2.2 H2/S5+c X2.2 
+0000002 130  NN1     Justice                  G2.1+/S5+c[i2.2.1 G2.1+ G2.2+ 
+0000002 140  NN1     Department               G2.1+/S5+c[i2.2.2 H2/S5+c X2.2 
 0000002 150  VBZ     is                       A3+ Z5 
 0000002 160  JJ      growing                  N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4 
 0000002 161  ,       ,                        
@@ -21,15 +22,15 @@
 0000002 180  DA      former                   T2- N4 
 0000002 190  NP1     FBI                      Z99 
 0000002 200  NN1     Director                 S7.1+/S2mf K4/S2mf 
-0000002 210  NP1     Louis                    Z1mf[i2.2.1 Z3c[i2.2.1 Z1m 
-0000002 220  NP1     Freeh                    Z1mf[i2.2.2 Z3c[i2.2.2 
+0000002 210  NP1     Louis                    Z1mf[i3.2.1 Z3c[i3.2.1 Z1m 
+0000002 220  NP1     Freeh                    Z1mf[i3.2.2 Z3c[i3.2.2 
 0000002 221  ,       ,                        
 0000002 230  PNQS    who                      Z8 
 0000002 240  VVD     served                   S8+ S7.1- I2.2 A9- F1 A1.1.1 I3.1 K5.1 G2.1 
 0000002 250  II      under                    Z5 
 0000002 260  NNB     President                G1.1/S7.1+/S2mf 
-0000002 270  NP1     Bill                     Z1mf[i3.2.1 Z3c[i3.2.1 
-0000002 280  NP1     Clinton                  Z1mf[i3.2.2 Z3c[i3.2.2 Z1mf 
+0000002 270  NP1     Bill                     Z1mf[i4.2.1 Z3c[i4.2.1 
+0000002 280  NP1     Clinton                  Z1mf[i4.2.2 Z3c[i4.2.2 Z1mf 
 0000002 281  ,       ,                        
 0000002 290  RT      now                      T1.1.2 Z4 
 0000002 300  VVG     joining                  A2.2 S5+ A1.8+ A1.1.1 
@@ -64,15 +65,15 @@
 0000004 220  CSA     as                       Z5 
 0000004 230  AT      the                      Z5 
 0000004 240  MD      next                     N4 
-0000004 250  NN1     attorney                 S7.1+/S2mf[i4.2.1 G2.1/S2mf 
-0000004 260  JJ      general                  S7.1+/S2mf[i4.2.2 N5+ A4.2- 
+0000004 250  NN1     attorney                 S7.1+/S2mf[i5.2.1 G2.1/S2mf 
+0000004 260  JJ      general                  S7.1+/S2mf[i5.2.2 N5+ A4.2- 
 0000004 261  ,       ,                        
 0000004 270  VVG     defending                S8+ G3 G2.1c Q2.2 K5.1 S7.3+ 
 0000004 280  APPGE   his                      Z8m 
 0000004 290  NN1     record                   Q1.2 K3 T1.1.1 A5.1+++ 
 0000004 300  II      on                       Z5 
-0000004 310  JJ      civil                    G1.2[i5.2.1 G1.1 S1.2.4+ G2.1 H1% 
-0000004 320  NN2     rights                   G1.2[i5.2.2 S7.4+ G2.2+ M6 G1.2 
+0000004 310  JJ      civil                    G1.2[i6.2.1 G1.1 S1.2.4+ G2.1 H1% 
+0000004 320  NN2     rights                   G1.2[i6.2.2 S7.4+ G2.2+ M6 G1.2 
 0000004 321  ,       ,                        
 0000004 330  DDQ     which                    Z8 Z5 
 0000004 340  VHZ     has                      Z5 A9+ A2.2 S4 
@@ -92,8 +93,8 @@
 0000006 060  MC      1989                     N1 T1.2 T3 T1.3 N3.2 
 0000006 070  RRQ     when                     Z5 
 0000006 080  PPIS2   we                       Z8 
-0000006 090  VVD     worked                   A1.1.1/S5+[i6.2.1 I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
-0000006 100  RL      together                 A1.1.1/S5+[i6.2.2 S5+ T1.1.2 M6 
+0000006 090  VVD     worked                   A1.1.1/S5+[i7.2.1 I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000006 100  RL      together                 A1.1.1/S5+[i7.2.2 S5+ T1.1.2 M6 
 0000006 110  CSA     as                       Z5 
 0000006 120  NN2     prosecutors              G2.1/I3.1/S2mf 
 0000006 130  II      on                       Z5 
@@ -102,16 +103,16 @@
 0000006 160  AT      the                      Z5 
 0000006 170  RGT     most                     A13.2 
 0000006 180  JJ      important                A11.1+ 
-0000006 190  JJ      civil                    G1.2[i7.2.1 G1.1 S1.2.4+ G2.1 H1% 
-0000006 200  NN2     rights                   G1.2[i7.2.2 S7.4+ G2.2+ M6 G1.2 
+0000006 190  JJ      civil                    G1.2[i8.2.1 G1.1 S1.2.4+ G2.1 H1% 
+0000006 200  NN2     rights                   G1.2[i8.2.2 S7.4+ G2.2+ M6 G1.2 
 0000006 210  NN2     cases                    A4.1 O2 G2.1 B3 X4.1 Q3 
 0000006 220  VVN     investigated             X2.4 
 0000006 230  CC      and                      Z5 
 0000006 240  VVN     prosecuted               G2.1 
 0000006 250  II      by                       Z5 
 0000006 260  AT      the                      Z5 
-0000006 270  NP1     United                   Z2c[i10.2.1 Z2c[i9.2.1 Z3c Z1mf[i8.2.1 Z3c[i8.2.1 
-0000006 280  NP1     States                   Z2c[i10.2.2 Z2c[i9.2.2 Z2 Z1mf[i8.2.2 Z3c[i8.2.2 
+0000006 270  NP1     United                   Z2c[i11.2.1 Z2c[i10.2.1 Z3c Z1mf[i9.2.1 Z3c[i9.2.1 
+0000006 280  NP1     States                   Z2c[i11.2.2 Z2c[i10.2.2 Z2 Z1mf[i9.2.2 Z3c[i9.2.2 
 0000006 290  NN1     Department               H2/S5+c X2.2 
 0000006 300  IO      of                       Z5 
 0000006 310  NN1     Justice                  G2.1+ G2.2+ 
@@ -150,8 +151,8 @@
 0000006 570  NN1     dedication               X5.2+ Q2.2 
 0000006 580  II      to                       Z5 
 0000006 590  VVG     protecting               S8+/A15+ A10- 
-0000006 600  JJ      civil                    G1.2[i11.2.1 G1.1 S1.2.4+ G2.1 H1% 
-0000006 610  NN2     rights                   G1.2[i11.2.2 S7.4+ G2.2+ M6 G1.2 
+0000006 600  JJ      civil                    G1.2[i12.2.1 G1.1 S1.2.4+ G2.1 H1% 
+0000006 610  NN2     rights                   G1.2[i12.2.2 S7.4+ G2.2+ M6 G1.2 
 0000006 611  .       .                        
 0000007 001  -----   -----                    
 0000008 010  DDQ     What                     Z8 Z5 
@@ -169,18 +170,19 @@
 0000009 030  VBDZ    was                      Z5 A3+ 
 0000009 040  VVN     announced                Q2.2 
 0000009 050  CSA     as                       Z5 
-0000009 060  NN2     Trumps                   K5.2 S7.1+ 
-0000009 070  VV0     pick                     X7+ A1.1.1 
+0000009 060  NN1     Trump                    Z1mf 
+0000009 061  GE      's                       Z5 
+0000009 070  NN1@    pick                     X7+ A5.1+++ O2 
 0000009 080  IF      for                      Z5 
-0000009 090  NN1     attorney                 S7.1+/S2mf[i12.2.1 G2.1/S2mf 
-0000009 100  JJ      general                  S7.1+/S2mf[i12.2.2 N5+ A4.2- 
+0000009 090  NN1     attorney                 S7.1+/S2mf[i13.2.1 G2.1/S2mf 
+0000009 100  JJ      general                  S7.1+/S2mf[i13.2.2 N5+ A4.2- 
 0000009 101  ,       ,                        
 0000009 110  JJ      top                      M6 N5.1+ A11.1+++ S7.1+++ N4 X9.1+++ A5.1+++ 
 0000009 120  NN2     Democrats                Z3c 
 0000009 130  CC      and                      Z5 
 0000009 140  DD      some                     N5 Z5 
-0000009 150  JJ      civil                    G1.2[i13.2.1 G1.1 S1.2.4+ G2.1 H1% 
-0000009 160  NN2     rights                   G1.2[i13.2.2 S7.4+ G2.2+ M6 G1.2 
+0000009 150  JJ      civil                    G1.2[i14.2.1 G1.1 S1.2.4+ G2.1 H1% 
+0000009 160  NN2     rights                   G1.2[i14.2.2 S7.4+ G2.2+ M6 G1.2 
 0000009 170  NN2     groups                   S5+ A4.1 B3% 
 0000009 180  VVN     expressed                Q1.1 B1% 
 0000009 190  NN1     concern                  E6- I2.1 
@@ -222,8 +224,8 @@
 0000009 530  VVN     called                   Q2.2 S1.1.1 Q1.3 S9% 
 0000009 540  AT1     a                        Z5 
 0000009 550  JJ      white                    O4.3 G2.2+ 
-0000009 560  JJ      civil                    G1.2[i14.2.1 G1.1 S1.2.4+ G2.1 H1% 
-0000009 570  NN2     rights                   G1.2[i14.2.2 S7.4+ G2.2+ M6 G1.2 
+0000009 560  JJ      civil                    G1.2[i15.2.1 G1.1 S1.2.4+ G2.1 H1% 
+0000009 570  NN2     rights                   G1.2[i15.2.2 S7.4+ G2.2+ M6 G1.2 
 0000009 580  NN1     lawyer                   G2.1/I3.2/S2mf 
 0000009 590  AT1     a                        Z5 
 0000009 600  NN1     disgrace                 S7.2- A5.1- G2.2- 
@@ -273,8 +275,8 @@
 0000011 200  JJ      OK                       A5.1+ 
 0000011 210  CS      until                    Z5 
 0000011 220  PPIS1   I                        Z8mf 
-0000011 230  VVD     found                    X2.3+[i15.2.1 A10+ X2.1 X6+ 
-0000011 240  RP      out                      X2.3+[i15.2.2 M6 
+0000011 230  VVD     found                    X2.3+[i16.2.1 A10+ X2.1 X6+ 
+0000011 240  RP      out                      X2.3+[i16.2.2 M6 
 0000011 250  PPHS2   they                     Z8mfn 
 0000011 260  VVD     smoked                   F3 O1.3 F1 
 0000011 270  NN1     pot                      O2 O1.1 I1.1 F3 
@@ -314,8 +316,8 @@
 0000013 190  CC      or                       Z5 
 0000013 200  VBG     being                    Z5 A3+ 
 0000013 210  VVN     taken                    A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
-0000013 220  II21    out                      Z5[i16.2.1 Z5 Z5[i17.2.1 A9-[i17.2.1 
-0000013 230  II22    of                       Z5[i16.2.2 Z5[i17.2.2 A9-[i17.2.2 
+0000013 220  II21    out                      Z5[i17.2.1 Z5 Z5[i18.2.1 A9-[i18.2.1 
+0000013 230  II22    of                       Z5[i17.2.2 Z5[i18.2.2 A9-[i18.2.2 
 0000013 240  NN1     context                  O4.1/A3+ A2.2 Q3 
 0000013 241  .       .                        
 0000013 242  -----   -----                    
@@ -339,7 +341,8 @@
 0000015 070  VVD     pointed                  A10+ M6 H1 
 0000015 080  II      to                       Z5 
 0000015 090  NNT2    Sessions                 T1.3 
-0000015 100  VV0     work                     I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000015 091  GE      '                        Z5 
+0000015 100  NN1     work                     I3.1 A1.1.1 Q4 K2 C1 
 0000015 110  II      on                       Z5 
 0000015 120  AT      the                      Z5 
 0000015 130  MC      1989                     N1 T1.2 T3 T1.3 N3.2 
@@ -362,14 +365,15 @@
 0000017 020  VBDZ    was                      Z5 A3+ 
 0000017 030  VVN     struck                   I3.1 E3- A1.1.1 A11.2+ A8 E2+ X3.2 A9+ 
 0000017 040  IW      with                     Z5 
-0000017 050  NP2     Jeffs                    Z1m 
+0000017 050  NP1     Jeff                     Z1m 
+0000017 051  GE      's                       Z5 
 0000017 060  JJ      fierce                   E3- 
 0000017 070  NN1     determination            X6+ A2.2 A7+ 
 0000017 080  TO      to                       Z5 
 0000017 090  VVI     solve                    X9.2+ 
 0000017 100  DD2     these                    Z5 Z8 
-0000017 110  JJ      civil                    G1.2[i18.2.1 G1.1 S1.2.4+ G2.1 H1% 
-0000017 120  NN2     rights                   G1.2[i18.2.2 S7.4+ G2.2+ M6 G1.2 
+0000017 110  JJ      civil                    G1.2[i19.2.1 G1.1 S1.2.4+ G2.1 H1% 
+0000017 120  NN2     rights                   G1.2[i19.2.2 S7.4+ G2.2+ M6 G1.2 
 0000017 130  NN2     murders                  L1- A12- 
 0000017 131  ,       ,                        
 0000017 140  DDQ     which                    Z5 Z8 
@@ -384,8 +388,8 @@
 0000017 230  AT      the                      Z5 
 0000017 240  NN1     guarantee                A7+/Q2.2 
 0000017 250  IO      of                       Z5 
-0000017 260  JJ      civil                    G1.2[i19.2.1 G1.1 S1.2.4+ G2.1 H1% 
-0000017 270  NN2     rights                   G1.2[i19.2.2 S7.4+ G2.2+ M6 G1.2 
+0000017 260  JJ      civil                    G1.2[i20.2.1 G1.1 S1.2.4+ G2.1 H1% 
+0000017 270  NN2     rights                   G1.2[i20.2.2 S7.4+ G2.2+ M6 G1.2 
 0000017 280  II      in                       Z5 
 0000017 290  NP1     America                  Z2 
 0000017 291  ,       ,                        
@@ -497,8 +501,8 @@
 0000021 400  TO      to                       Z5 
 0000021 410  VVI     defend                   S8+ G3 G2.1c Q2.2 K5.1 S7.3+ 
 0000021 420  AT      the                      Z5 
-0000021 430  JJ      civil                    G1.2[i20.2.1 G1.1 S1.2.4+ G2.1 H1% 
-0000021 440  NN2     rights                   G1.2[i20.2.2 S7.4+ G2.2+ M6 G1.2 
+0000021 430  JJ      civil                    G1.2[i21.2.1 G1.1 S1.2.4+ G2.1 H1% 
+0000021 440  NN2     rights                   G1.2[i21.2.2 S7.4+ G2.2+ M6 G1.2 
 0000021 450  CC      and                      Z5 
 0000021 460  JJ      legal                    G2.1 G2.1+ 
 0000021 470  NN2     rights                   S7.4+ G2.2+ M6 G1.2 
@@ -516,6 +520,7 @@
 0000023 050  VH0     have                     Z5 A9+ A2.2 S4 
 0000023 060  VVN     called                   Q2.2 S1.1.1 Q1.3 S9% 
 0000023 070  NNT2    Sessions                 T1.3 
+0000023 071  GE      '                        Z5 
 0000023 080  NN1     nomination               X7+ I3.1 S1.1.4+ 
 0000023 090  RR      deeply                   A13.3 
 0000023 100  VVG     troubling                E6- 
@@ -539,8 +544,8 @@
 0000025 150  TO      to                       Z5 
 0000025 160  VVI     discriminate             A6.1-/X2.2 S1.1.1 
 0000025 170  II      against                  Z5 
-0000025 180  JJ      civil                    G1.2[i21.2.1 G1.1 S1.2.4+ G2.1 H1% 
-0000025 190  NN2     rights                   G1.2[i21.2.2 S7.4+ G2.2+ M6 G1.2 
+0000025 180  JJ      civil                    G1.2[i22.2.1 G1.1 S1.2.4+ G2.1 H1% 
+0000025 190  NN2     rights                   G1.2[i22.2.2 S7.4+ G2.2+ M6 G1.2 
 0000025 200  NN2     leaders                  S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf 
 0000025 201  ,       ,                        
 0000025 210  RR      allegedly                Q2.2/A5.2 
@@ -621,14 +626,14 @@
 0000025 870  NN1     Committee                S7.1+/S5+c 
 0000025 880  NN1     Interim                  T1.3 
 0000025 890  NN1     Chair                    H5 S7.1+mf P1 
-0000025 900  NP1     Donna                    Z1mf[i22.2.1 Z3c[i22.2.1 Z1f 
-0000025 910  NP1     Brazile                  Z1mf[i22.2.2 Z3c[i22.2.2 
+0000025 900  NP1     Donna                    Z1mf[i23.2.1 Z3c[i23.2.1 Z1f 
+0000025 910  NP1     Brazile                  Z1mf[i23.2.2 Z3c[i23.2.2 
 0000025 920  VVD     said                     Q2.1 
 0000025 930  II      in                       Z5 
 0000025 940  AT1     a                        Z5 
 0000025 950  NN1     statement                Q2.1 I1/Q1.2 
-0000025 960  MD      last                     T1.1.1[i23.2.1 N4 
-0000025 970  NNT1    month                    T1.1.1[i23.2.2 T1.3 
+0000025 960  MD      last                     T1.1.1[i24.2.1 N4 
+0000025 970  NNT1    month                    T1.1.1[i24.2.2 T1.3 
 0000025 971  .       .                        
 0000026 001  -----   -----                    
 0000027 010  NN1     Freeh                    Z99 
@@ -641,12 +646,12 @@
 0000027 070  II      from                     Z5 
 0000027 080  MC      1993                     N1 T1.2 T3 T1.3 N3.2 
 0000027 090  II      to                       Z5 
-0000027 100  NPM1    June                     T1.3[i24.2.1 T1.3 
-0000027 110  MC      2001                     T1.3[i24.2.2 N1 T1.2 T3 T1.3 N3.2 
+0000027 100  NPM1    June                     T1.3[i25.2.1 T1.3 
+0000027 110  MC      2001                     T1.3[i25.2.2 N1 T1.2 T3 T1.3 N3.2 
 0000027 111  ,       ,                        
 0000027 120  VVD     expressed                Q1.1 B1% 
-0000027 130  AT      no                       Z6[i25.2.1 Z6 
-0000027 140  DA      such                     Z6[i25.2.2 Z5 Z8 
+0000027 130  AT      no                       Z6[i26.2.1 Z6 
+0000027 140  DA      such                     Z6[i26.2.2 Z5 Z8 
 0000027 150  NN2     concerns                 E6- I2.1 
 0000027 151  ,       ,                        
 0000027 160  VVG     calling                  Q2.2 S1.1.1 Q1.3 S9% 
@@ -672,8 +677,8 @@
 0000029 060  VBI     be                       A3+ Z5 
 0000029 070  AT1     an                       Z5 
 0000029 080  JJ      outstanding              A5.1++ A11.2+ I1.2 A1.9 
-0000029 090  NN1     Attorney                 S7.1+/S2mf[i26.2.1 G2.1/S2mf 
-0000029 100  JJ      General                  S7.1+/S2mf[i26.2.2 N5+ A4.2- 
+0000029 090  NN1     Attorney                 S7.1+/S2mf[i27.2.1 G2.1/S2mf 
+0000029 100  JJ      General                  S7.1+/S2mf[i27.2.2 N5+ A4.2- 
 0000029 110  IF      for                      Z5 
 0000029 120  AT      the                      Z5 
 0000029 130  NN1     Nation                   G1.1c S5+c 

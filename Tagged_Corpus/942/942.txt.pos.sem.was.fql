@@ -1,23 +1,23 @@
-TOTAL              790
+TOTAL              798
 he                   Z8                  38 
 a                    Z5                  28 
 the                  Z5                  26 
 said                 Q2.1                24 
 and                  Z5                  20 
-Mr._Wong             Z1                  17 
+Mr._Wong             Z1                  18 
 to                   Z5                  14 
 that                 Z8                  12 
 at                   Z5                  12 
 but                  Z5                  10 
 him                  Z8                  10 
 in                   Z5                  10 
+i                    Z8                  10 
 who                  Z8                   9 
 they                 Z8                   8 
+you                  Z8                   8 
 for                  Z5                   8 
-you                  Z8                   7 
-was                  A3+                  6 
+was                  A3+                  7 
 worked               I3.1                 6 
-i                    Z8                   6 
 was                  Z5                   5 
 his                  Z8                   5 
 about                Z5                   5 
@@ -25,6 +25,7 @@ with                 Z5                   5
 as                   Z5                   5 
 had                  A9+                  5 
 on                   Z5                   4 
+n't                  Z6                   4 
 Shop-Vac             Z99                  4 
 when                 Z5                   4 
 please               Z4                   4 
@@ -39,8 +40,10 @@ California           Z2                   3
 also                 N5++                 3 
 often                N6+                  3 
 had                  Z5                   3 
+'s                   Z5                   3 
 saw                  X3.4                 3 
 say                  Q2.1                 3 
+Mr._Quach            Z1                   3 
 that                 Z5                   3 
 she                  Z8                   3 
 continue             T2++                 3 
@@ -50,8 +53,6 @@ story                Q2.1                 3
 huynh                Z99                  3 
 her                  Z8                   3 
 husband              S4                   3 
-im                   Z99                  3 
-nt                   S9                   3 
 job                  I3.1                 3 
 again                N6+                  3 
 would                A7+                  3 
@@ -80,7 +81,6 @@ mostly               A13.2                2
 Saturday             T1.3                 2 
 no                   Z6                   2 
 after                Z5                   2 
-Mr._Quach            Z1                   2 
 gym                  K5.1                 2 
 money                I1                   2 
 laid_off             I3.1-                2 
@@ -92,6 +92,7 @@ Ms.                  S2.1                 2
 recalled             X2.2+                2 
 tried                X8+                  2 
 like                 Z5                   2 
+'re                  A3+                  2 
 will                 T1.1.3               2 
 newsletter           Q4.2                 2 
 sign_up              Q2.2                 2 
@@ -101,6 +102,7 @@ Los_Angeles          Z2                   2
 few                  N5-                  2 
 asked                Q2.2                 2 
 going_to             T1.1.3               2 
+'m                   Z5                   2 
 talked               Q2.1                 2 
 Donald_Ackley        Z1                   2 
 think                X2.1                 2 
@@ -117,7 +119,6 @@ speak                Q2.1                 1
 this                 M6                   1 
 behavior             S1.1.1               1 
 part                 N5.1-                1 
-wasnt                Z99                  1 
 total                A13.2                1 
 shock                E5-                  1 
 sudden               N3.8+                1 
@@ -159,7 +160,6 @@ Binghamton           Z99                  1
 lived_with           E2+                  1 
 parents              S4                   1 
 sister               S4                   1 
-Mr._Wongs            Z1                   1 
 kind                 A4.1                 1 
 grew                 N3.2+                1 
 grapes               F1                   1 
@@ -227,7 +227,6 @@ your                 Z8                   1
 smiled               E4.1+                1 
 hue                  O4.3                 1 
 56                   N1                   1 
-Mr._Quachs           Z1                   1 
 is                   A3+                  1 
 clerk                I2.1                 1 
 vietnamese           Z2                   1 
@@ -236,19 +235,18 @@ Street_in_Binghamton Z2                   1
 owned                A9+                  1 
 brother              S4                   1 
 my                   Z8                   1 
+'m                   A3+                  1 
 very                 A13.3                1 
 have_a_job           A12-                 1 
 find                 A10+                 1 
 nobody               Z8                   1 
 reassure             E6+                  1 
-youre                Z99                  1 
 still                T2++                 1 
 young                T3-                  1 
 be                   A3+                  1 
 okay                 Z4                   1 
 get                  A9+                  1 
 verify               A5.2+                1 
-'re                  A3+                  1 
 robot                O3                   1 
 clicking             X3.2                 1 
 box                  O2                   1 
@@ -264,7 +262,6 @@ receive              A9+                  1
 occasional           N6-                  1 
 updates              T1.1.2               1 
 special_offers       I1.3-                1 
-'s                   Z5                   1 
 products             O2                   1 
 services             S8+                  1 
 thank_you            Z4                   1 
@@ -342,9 +339,9 @@ politicians          G1.2                 1
 vote                 G1.2                 1 
 really               A5.4+                1 
 care                 E6-                  1 
-id                   X2                   1 
+'d                   A7+                  1 
 shoot                G3                   1 
-both                 Z5                   1 
+both                 N5                   1 
 whose                Z8                   1 
 Donald               Z1                   1 
 elder                S7.1+                1 

@@ -35,9 +35,7 @@ ShockGuard               NN1     Z99
 Solidata                 NP1     Z99 
 SSD                      NP1     Z99 
 SSDs                     NP1     Z99 
-wasnt                    NN1     Z99 
 wattage                  NN1     Z99 
 WD                       FU      Z99 
 WDxxxxBJKT               NP1     Z99 
 WhisperDrive             VV0     Z99 
-youre                    NN1     Z99 

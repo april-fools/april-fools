@@ -135,9 +135,10 @@
 0000006 410 in                                          93 [II/99] RP@/1
 0000006 420 one                                         97 MC1
 0000006 430 of                                          97 IO
-0000006 440 Square                                      93 [NN1/93] JJ@/7 RR%/0 VV0%/0
-0000006 450 Enixs                                       07 [VVZ/81] NN2/19 NP1/0
-0000006 460 most                                        93 [DAT/54] RGT/44 RRT@/2
+0000006 440 Square                                      93 [NN1/73] JJ@/27 RR%/0 VV0%/0
+0000006 450 Enix                      >                 06 [NP1/51] NN1/49 VV0/0
+0000006 451 's                        <                 98 GE
+0000006 460 most                                        97 RGT
 0000006 470 popular                                     93 JJ
 0000006 480 franchises                                  04 [NN2/100] VVZ@/0
 0000006 490 will                                        93 [VM/100] NN1@/0 VV0%/0
@@ -218,7 +219,8 @@
 0000010 170 Click                                       93 [VV0/97] NN1/3
 0000010 180 here                                        93 RL
 0000010 190 for                                         93 [IF/99] CS%/1
-0000010 200 GoNintendos                                 07 [NP1/82] NN2/18
+0000010 200 GoNintendo                >                 06 [NP1/85] NN1/15
+0000010 201 's                        <                 98 GE
 0000010 210 article                                     03 NN1
 0000010 220 concerning                                  93 [II/88] VVG/12
 0000010 230 this                                        93 [DD1/100] RG%/0

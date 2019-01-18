@@ -1,26 +1,26 @@
-TOTAL              633
+TOTAL              651
 the                  Z5                  26 
 to                   Z5                  21 
+SINGAPORE            Z2                  19 
 in                   Z5                  19 
 and                  Z5                  19 
 of                   Z5                  14 
-SINGAPORE            Z2                  12 
+'s                   Z5                  13 
 a                    Z5                  12 
-it                   Z8                   7 
-Singapores           Z2                   7 
+it                   Z8                  10 
 is                   A3+                  7 
 by                   Z5                   7 
 manufacturing        A1.1.1               6 
 is                   Z5                   5 
+government           G1.1                 5 
 companies            I2.1                 5 
+that                 Z8                   5 
 for                  Z5                   5 
 data                 X2.2                 5 
-government           G1.1                 4 
 EDB                  Z99                  4 
-that                 Z8                   4 
 wants                X7+                  4 
 more                 N5++                 4 
-its                  Z8                   4 
+city-state           Z99                  4 
 with                 Z5                   4 
 said                 Q2.1                 4 
 are                  A3+                  4 
@@ -38,7 +38,6 @@ technologies         Y1                   3
 as                   Z5                   3 
 research             X2.4                 3 
 centre               M6                   3 
-city-state           Z99                  3 
 has                  Z5                   3 
 do                   A1.1.1               3 
 engineering          Y1                   3 
@@ -46,6 +45,7 @@ from                 Z5                   3
 about                A13.4                3 
 regional             M7                   3 
 can                  A7+                  3 
+'s                   A3+                  3 
 not                  Z6                   3 
 Yeoh                 Z1                   3 
 because              Z5                   3 
@@ -54,6 +54,7 @@ global               W3                   3
 such_as              Z5                   2 
 robotics             Y2                   2 
 labour-intensive     I3.1                 2 
+Asia                 Z2                   2 
 productivity         I2.1                 2 
 on                   Z5                   2 
 foreign              M7                   2 
@@ -73,6 +74,7 @@ one                  N1                   2
 last_year            T1.1.1               2 
 which                Z8                   2 
 drive                M3                   2 
+island               W3                   2 
 operations           A1.1.1               2 
 asian                Z2                   2 
 countries            M7                   2 
@@ -102,7 +104,6 @@ industries           I4                   1
 cheaper              I1.3--               1 
 bases                M7                   1 
 elsewhere            M6                   1 
-Asia                 Z2                   1 
 in_line_with         A6.1+                1 
 efforts              X8+                  1 
 lift                 M2                   1 
@@ -165,7 +166,6 @@ university           P1                   1
 into                 Z5                   1 
 computational        Z99                  1 
 helped               S8+                  1 
-islands              W3                   1 
 transformation       A2.1+                1 
 trading              I2.2                 1 
 outpost              M7                   1 
@@ -209,7 +209,7 @@ secure               A9+                  1
 hosts                S2                   1 
 sophisticated        O4.2+                1 
 one-third            N5                   1 
-worlds               W1                   1 
+world                W1                   1 
 hearing_aids         B3                   1 
 are                  Z5                   1 
 german               Z2                   1 
@@ -223,7 +223,8 @@ everything           Z8                   1
 activities           A1.1.1               1 
 much                 A13.3                1 
 labour_intensive     A12-                 1 
-cant                 Q2.1                 1 
+ca                   A7+                  1 
+n't                  Z6                   1 
 be                   Z5                   1 
 sustained            T2++                 1 
 need                 S6+                  1 
@@ -251,9 +252,7 @@ analytics_professionals Z99                  1
 already              T1.1.1               1 
 half                 N5                   1 
 southeast            Z99                  1 
-Asias                Z2                   1 
 capacity             N3.2                 1 
-thats                Z5                   1 
 have                 A9+                  1 
 energy               X5.2+                1 
 nt                   S9                   1 
@@ -274,11 +273,9 @@ may                  A7+                  1
 have_to              S6+                  1 
 shrink               N3.2-                1 
 part                 N5.1-                1 
-governments          G1.1                 1 
 currently            T1.1.2               1 
 employs              I3.1                 1 
 120,000              N1                   1 
-city-states          Z99                  1 
 5.3_million          N1                   1 
 people               S2                   1 
 number               N5                   1 
@@ -307,11 +304,11 @@ would                A7+                  1
 shift                M2                   1 
 unit                 S5+                  1 
 oversees             S7.1+                1 
+its                  Z8                   1 
 decade               T1.3                 1 
 after                Z5                   1 
 company              I2.1                 1 
 left                 M1                   1 
-island               W3                   1 
 taxes                I1.1                 1 
 high                 N3.7+                1 
 living               H4                   1 
@@ -326,6 +323,7 @@ group                S5+                  1
 2010                 N1                   1 
 found                A10+                 1 
 44_percent           N5                   1 
+'                    Z5                   1 
 were                 A3+                  1 
 compared             A6.1                 1 
 17_percent           N5                   1 

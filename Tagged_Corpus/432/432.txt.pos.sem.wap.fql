@@ -1,4 +1,4 @@
-TOTAL              295
+TOTAL              299
 the                  AT             16 
 in                   II              8 
 on                   II              7 
@@ -8,7 +8,7 @@ and                  CC              4
 to                   TO              3 
 this                 DD1             3 
 at                   II              3 
-15                   MC              3 
+'15                  MC              3 
 Rochester            NP1             3 
 weather              NN1             3 
 of                   IO              3 
@@ -26,13 +26,13 @@ was                  VBDZ            2
 pool                 NN1             2 
 quad                 NN1             2 
 are                  VBR             2 
-new                  JJ              2 
 Kathryn_Loveless     NP1             2 
 February             NPM1            2 
-most                 DAT             2 
+'s                   GE              2 
 those                DD2             2 
 to                   II              2 
 when                 RRQ             2 
+we                   PPIS2           2 
 its                  APPGE           2 
 so                   RR              2 
 that                 CST             2 
@@ -65,7 +65,7 @@ man                  NN1             1
 winter               NNT1            1 
 really               RR              1 
 do                   VD0             1 
-nt                   XX              1 
+n't                  XX              1 
 see                  VVI             1 
 what                 DDQ             1 
 big_deal             JJ              1 
@@ -76,12 +76,13 @@ three                MC              1
 sitting              VVG             1 
 snow-covered         JJ              1 
 parties              NN2             1 
+new                  JJ              1 
 study                NN1             1 
 breaks               VVZ             1 
 Emma_Guilfoyle       NP1             1 
-16                   MC              1 
+'16                  MC              1 
 Ian_Von_Fange        NP1             1 
-17                   MC              1 
+'17                  MC              1 
 take                 VV0             1 
 break                NN1             1 
 between              II              1 
@@ -94,11 +95,12 @@ invigorating         JJ              1
 12.2_degrees         MC              1 
 that                 DD1             1 
 makes_it             VVZ             1 
-chillin              NN1             1 
+most                 RGT             1 
+chillin'             JJ              1 
 month                NNT1            1 
 national             JJ              1 
-services             NN2             1 
-record               VV0             1 
+service              NN1             1 
+record               NN1             1 
 booksand             VV0             1 
 things               NN2             1 
 date                 VV0             1 
@@ -126,8 +128,8 @@ explained            VVD             1
 i_mean               PPIS1           1 
 who                  PNQS            1 
 knows                VVZ             1 
-well                 RR              1 
-get                  VV0             1 
+'ll                  VM              1 
+get                  VVI             1 
 nice                 JJ              1 
 again                RT              1 
 in_answer_to         II31            1 
@@ -141,8 +143,8 @@ year-round           JJ              1
 that_way             DD1             1 
 can                  VM              1 
 enjoy                VVI             1 
-upstate              RR              1 
-Yorks                NP1             1 
+upstate              JJ              1 
+New_York             NP1             1 
 famous               JJ              1 
 refreshing           JJ              1 
 clime                NN1             1 
@@ -168,7 +170,8 @@ day                  NNT1            1
 paradise             NN1             1 
 Shane_Saxton         NP1             1 
 relax                VV0             1 
-theres               NN2             1 
+there                EX              1 
+'s                   VBZ             1 
 no_point             AT              1 
 heating              VVG             1 
 subterranean         JJ              1 
@@ -192,6 +195,7 @@ venturing_out        VVG             1
 McCoy                NP1             1 
 adds                 VVZ             1 
 anyway               RR              1 
+most                 DAT             1 
 us                   PPIO2           1 
 have                 VH0             1 
 already              RR              1 
@@ -205,7 +209,7 @@ all                  DB              1
 al                   JJ21            1 
 fresco               JJ22            1 
 glory                NN1             1 
-wed                  VVN             1 
+'d                   VM              1 
 be                   VBI             1 
 April                NPM1            1 
 fools                NN2             1 

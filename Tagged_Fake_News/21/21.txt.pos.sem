@@ -45,7 +45,8 @@
 0000004 070  NN1     Trump                    Z1mf 
 0000004 071  ,       ,                        
 0000004 080  CC      and                      Z5 
-0000004 090  NN1     shell                    L2 O2 G3 
+0000004 090  PPHS1   she                      Z8f 
+0000004 091  VM      'll                      T1.1.3 
 0000004 100  VBI     be                       A3+ Z5 
 0000004 110  JJ      terrific                 A5.1+ N3.2+ 
 0000004 111  .       .                        
@@ -76,19 +77,22 @@
 0000004 320  RL22    board                    M6[i4.2.2 S5+[i4.2.2 
 0000004 321  .       .                        
 0000004 322  -----   -----                    
-0000004 330  VBDR    Were                     A3+ Z5 
+0000004 330  PPIS2   We                       Z8 
+0000004 331  VBR     're                      A3+ Z5 
 0000004 340  JJ      lucky                    A1.4+ 
 0000004 350  TO      to                       Z5 
 0000004 360  VHI     have                     A9+ Z5 A2.2 S4 
 0000004 370  PPHO1   her                      Z8f 
 0000004 371  .       .                        
 0000004 372  -----   -----                    
-0000004 380  VVZ     Shes                     Z8f 
+0000004 380  PPHS1   She                      Z8f 
+0000004 381  VBZ     's                       A3+ Z5 
 0000004 390  JJ      controversial            A6.2- 
 0000004 391  ,       ,                        
 0000004 400  CCB     but                      Z5 
-0000004 410  VVZ     shes                     Z8f 
-0000004 420  MC1     one                      N1 T3 T1.2 
+0000004 410  PPHS1   she                      Z8f 
+0000004 411  VBZ     's                       A3+ Z5 
+0000004 420  MC1     one                      T3 N1 T1.2 
 0000004 430  IO      of                       Z5 
 0000004 440  AT      the                      Z5 
 0000004 450  JJ      good                     A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
@@ -101,7 +105,8 @@
 0000006 040  NN1     controversy              Q2.2 
 0000006 050  II      by                       Z5 
 0000006 060  VVG     calling                  Q2.2 S1.1.1 Q1.3 S9% 
-0000006 070  NN2     Greys                    Z1mf 
+0000006 070  NP1     Grey                     Z1mf 
+0000006 071  GE      's                       Z5 
 0000006 080  NN1     Anatomy                  B1 O4.1 Y1 
 0000006 090  NN1     actor                    K4/S2.2m A1.1.1/S2mf@ 
 0000006 100  NP1     Jesse                    Z1mf[i5.2.1 Z3c[i5.2.1 
@@ -138,7 +143,7 @@
 0000008 070  RR      especially               A14 
 0000008 080  IW      with                     Z5 
 0000008 090  JJ      Crooked                  O4.4 G2.1- 
-0000008 100  NP1     Hillary                  Z99 
+0000008 100  NN1@    Hillary'                 Z99 
 0000008 110  VVG     siphoning                M2 
 0000008 120  RP      off                      M6 K1 A1.1.1 A1.9 
 0000008 130  APPGE   my                       Z8 
@@ -179,7 +184,8 @@
 0000010 170  APPGE   my                       Z8 
 0000010 180  NN2     blacks                   O4.3/S2mf O4.3 
 0000010 181  .       .                        
-0000010 182  -----   -----                    
+0000010 182  "@      '                        
+0000010 183  -----   -----                    
 0000010 190  PPHS2   They                     Z8mfn 
 0000010 200  VDD     did                      A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
 0000010 210  DD1     that                     Z8 Z5 
@@ -200,9 +206,8 @@
 0000010 341  ?       ?                        
 0000010 342  -----   -----                    
 0000010 350  PPIS1   I                        Z8mf 
-0000010 360  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000010 361  XX      nt                       S9/Q4.1 Z3c 
-0000010 370  VVI     care                     E6- E2+ S8+ B3 X7+ 
+0000010 360  VV0     don't'                   Z99 
+0000010 370  NN1     care                     S8+ G1.1/S8+ B3 A1.3 E6- 
 0000010 371  .       .                        
 0000010 372  -----   -----                    
 0000010 380  NN1     Stacey                   Z99 
@@ -233,6 +238,7 @@
 0000012 110  AT      the                      Z5 
 0000012 120  JJ      Clueless                 X9.1- 
 0000012 130  NN1     actress                  K4/S2.1f 
+0000012 131  GE      '                        Z5 
 0000012 140  NN2     comments                 Q2.1 
 0000012 150  II      about                    Z5 
 0000012 160  NN1     bathroom                 B4/H2 
@@ -249,8 +255,9 @@
 0000012 250  VVD     said                     Q2.1 
 0000012 260  NN      people                   S2mfc 
 0000012 270  PNQS    who                      Z8 
-0000012 280  JJ      cant                     Q2.1 Z1mf Z1 
-0000012 290  VV0     decide                   X6+ 
+0000012 280  VM      ca                       A7+ 
+0000012 281  XX      n't                      Z6 
+0000012 290  VVI     decide                   X6+ 
 0000012 300  DDQ     what                     Z8 Z5 
 0000012 310  PPHS2   they                     Z8mfn 
 0000012 320  VV0     wan                      X7+ 
@@ -270,7 +277,8 @@
 0000013 001  -----   -----                    
 0000014 010  NN2     Sources                  T2+ Q1.1 X2.2 W3/M4 
 0000014 020  VV0     say                      Q2.1 Z4% 
-0000014 030  NN2     Trumps                   K5.2 S7.1+ 
+0000014 030  NN1     Trump                    Z1mf 
+0000014 031  GE      's                       Z5 
 0000014 040  NN1     camp                     M7 S5+c 
 0000014 050  VM      may                      A7+ 
 0000014 060  RR      even                     A13.1 
@@ -285,7 +293,8 @@
 0000014 130  RG      So                       T1.1.2[i12.2.1 M6[i12.2.1 N5[i12.2.1 A13.3 
 0000014 140  RR      far                      T1.1.2[i12.2.2 M6[i12.2.2 N5[i12.2.2 A13.3 N3.3+ X9.2+ 
 0000014 141  ,       ,                        
-0000014 150  VVZ     Trumps                   K5.2 
+0000014 150  NN1     Trump                    Z1mf 
+0000014 151  GE      's                       Z5 
 0000014 160  JJ      short                    I3.1/Q1.2[i13.2.1 T1.3- N3.7- N3.3- N5- S1.2.4- N3.8+@ F1% 
 0000014 170  NN1     list                     I3.1/Q1.2[i13.2.2 Q1.2 N4 M4 
 0000014 180  VVZ     includes                 A1.8+ 
@@ -308,17 +317,20 @@
 0000014 320  NP1     Gingrich                 Z1mf[i17.2.2 Z3c[i17.2.2 
 0000014 321  .       .                        
 0000015 001  -----   -----                    
-0000016 010  VVZ     Shes                     Z8f 
+0000016 010  PPHS1   She                      Z8f 
+0000016 011  VBZ     's                       A3+ Z5 
 0000016 020  RG      very                     A13.3 
 0000016 030  JJ      well-informed            X2.2+ 
 0000016 031  .       .                        
 0000016 032  -----   -----                    
-0000016 040  NN2     Shes                     Z8f 
-0000016 050  RR@     quite                    A13.5 A13.6 A13.2 
-0000016 060  VVN     affected                 A2.1+ A5.4-/A8 
+0000016 040  PPHS1   She                      Z8f 
+0000016 041  VBZ     's                       A3+ Z5 
+0000016 050  RG      quite                    A13.5 A13.6 A13.2 
+0000016 060  JJ@     affected                 A2.1+ 
 0000016 061  .       .                        
 0000016 062  -----   -----                    
-0000016 070  NN1     Weve                     Z99 
+0000016 070  PPIS2   We                       Z8 
+0000016 071  VH0     've                      Z5 A9+ A2.2 
 0000016 080  VBN     been                     Z5 A3+ 
 0000016 090  VVG     looking                  X2.4[i18.2.1 A8 X3.4 X2.4 X7+ Z4 
 0000016 100  II      into                     X2.4[i18.2.2 Z5 
@@ -352,7 +364,7 @@
 0000018 200  NN1     trouble                  E6- A12- B2- E3- X8+ O4.2- 
 0000018 210  IW      with                     Z5 
 0000018 220  VVG     saying                   Q2.1 Z4% 
-0000018 230  NN1@    African-American         Z2/S2mf 
+0000018 230  NN1     African-American'        Z99 
 0000018 240  VBZ     is                       A3+ Z5 
 0000018 250  CST     that                     Z5 Z8 
 0000018 260  XX      not                      Z6 
@@ -366,8 +378,8 @@
 0000018 330  DD      some                     N5 Z5 
 0000018 340  IO      of                       Z5 
 0000018 350  PPHO2   them                     Z8mfn 
-0000018 360  VB0     are                      A3+ Z5 
-0000018 361  XX      nt                       S9/Q4.1 Z3c 
+0000018 360  VBR     are                      A3+ Z5 
+0000018 361  XX      n't                      Z6 
 0000018 370  RR      even                     A13.1 
 0000018 380  NN2     Americans                Z2/S2mf 
 0000018 381  .       .                        
@@ -395,6 +407,7 @@
 0000020 060  II      against                  Z5 
 0000020 070  JJ@     colored                  Z99 
 0000020 071  ,       ,                        
+0000020 072  GE      '                        Z5 
 0000020 080  CS      since                    Z5 
 0000020 090  AT      the                      Z5 
 0000020 100  NN1     NAACP                    Z99 
@@ -409,6 +422,7 @@
 0000020 170  II      to                       Z5 
 0000020 180  JJ      black                    O4.3 G2.2- A5.1- E4.1- S5+ 
 0000020 181  ,       ,                        
+0000020 182  GE      '                        Z5 
 0000020 190  CS      because                  Z5/A2.2 
 0000020 200  DD1     that                     Z8 Z5 
 0000020 210  VVD     sounded                  X3.2 Q2.2 A8 N3.1% 
@@ -425,8 +439,10 @@
 0000020 290  IW      with                     A6.1+[i23.2.2 Z5 
 0000020 300  NN1     negro                    Z2/O4.3mf 
 0000020 301  .       .                        
-0000020 302  -----   -----                    
-0000020 310  APPGE   Its                      Z8 
+0000020 302  "@      '                        
+0000020 303  -----   -----                    
+0000020 310  PPH1    It                       Z8 
+0000020 311  VBZ     's                       A3+ Z5 
 0000020 320  RR      historically             T1.1.1 
 0000020 330  JJ      accurate                 A5.3+ 
 0000020 331  .       .                        

@@ -1,6 +1,5 @@
 Anschluss                NN1     Z99 
 Boris                    NP1     Z99 
-CBSs                     NP1     Z99 
 channeling               VVG     Z99 
 Coughlin                 NP1     Z99 
 Donohue                  NP1     Z99 
@@ -9,7 +8,6 @@ fractious                JJ      Z99
 homefront                NN1     Z99 
 homespun                 VVI     Z99 
 Huey                     NP1     Z99 
-Im                       VV0     Z99 
 Kaltenborn               NP1@    Z99 
 Klansmen                 NP1     Z99 
 law-and-order            NN1     Z99 
@@ -23,8 +21,6 @@ pro-Trump                JJ      Z99
 Pyne                     NP1     Z99 
 quasi-fascists           NN2     Z99 
 Roosevelt                NP1     Z99 
-Roosevelts               NP1     Z99 
-Roosevelts               NP2     Z99 
 scripted                 JJ@     Z99 
 self-censorship          NN1     Z99 
 Sevareid                 NP1@    Z99 

@@ -135,7 +135,8 @@
 0000008 140  AT      the                      Z5 
 0000008 150  JJ      Democratic               G1.2 
 0000008 160  JJ      National                 Z3c 
-0000008 170  NN2     Committees               S7.1+/S5+c 
+0000008 170  NN1     Committee                S7.1+/S5+c 
+0000008 171  GE      's                       Z5 
 0000008 180  JJ      clear                    A7+ A10+ O4.3 O4.1 N5.1+ W4 
 0000008 190  NN1     statement                Q2.1 I1/Q1.2 
 0000008 200  CST     that                     Z8 Z5 

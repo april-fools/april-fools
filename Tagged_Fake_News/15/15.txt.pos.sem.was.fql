@@ -1,5 +1,5 @@
-TOTAL              221
-i                    Z8                  10 
+TOTAL              224
+i                    Z8                  11 
 and                  Z5                   9 
 the                  Z5                   8 
 to                   Z5                   7 
@@ -84,7 +84,7 @@ food                 F1                   1
 wan                  X7+                  1 
 na                   Z5                   1 
 no                   Z6                   1 
-Ill                  B2-                  1 
+'ll                  T1.1.3               1 
 some                 N5                   1 
 money                I1                   1 
 called               Q2.2                 1 
@@ -103,12 +103,13 @@ statement            Q2.1                 1
 saying               Q2.1                 1 
 disrespect           S7.2-                1 
 woman                S2.1                 1 
-shes                 Z8                   1 
+she                  Z8                   1 
+'s                   A3+                  1 
 god                  S9                   1 
 damn                 Z4                   1 
 liar                 A5.2-                1 
 do                   Z5                   1 
-nt                   S9                   1 
+n't                  Z6                   1 
 drugs                B3                   1 
 business             I2.1                 1 
 elected              G1.2                 1 
@@ -122,7 +123,8 @@ keep                 A9+                  1
 taking               A9+                  1 
 real                 A3+                  1 
 american             Z2                   1 
-peoples              S2                   1 
+people               S2                   1 
+'s                   Z5                   1 
 jobs                 I3.1                 1 
 that                 Z8                   1 
 stop                 T2-                  1 

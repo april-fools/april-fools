@@ -6,8 +6,10 @@ Babycham                 NP1     Z99
 brut-al                  JJ      Z99 
 Bullyboy                 NN1     Z99 
 cava                     NN1     Z99 
+Champagne'               NP1     Z99 
 Chavs                    NN2     Z99 
 gloating                 NN1@    Z99 
+green'                   JJ      Z99 
 Greggs                   NP2     Z99 
 medium-size              JJ      Z99 
 No10                     FO      Z99 
@@ -22,10 +24,10 @@ quaff                    NN1     Z99
 Reckitt                  NP1     Z99 
 Respeck                  NN1     Z99 
 room-temperature         JJ      Z99 
-shouldnt                 VVI     Z99 
+tax'                     NN1     Z99 
 Theakston                NP1     Z99 
-theyre                   NN1     Z99 
 toffs                    VVZ     Z99 
+together'                NN1     Z99 
 TRIC                     JJ      Z99 
 Twitter                  NN1     Z99 
 u-turn                   NN1     Z99 

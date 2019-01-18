@@ -1,19 +1,19 @@
-TOTAL              197
+TOTAL              200
 the                  AT             14 
 and                  CC              8 
 you                  PPY             6 
 wars                 NN2             5 
 in                   II              4 
 Disney               NP1             4 
+star                 NN1             4 
 will                 VM              4 
 from                 II              4 
+would                VM              3 
 theatrical           JJ              3 
-star                 NN1             3 
 see                  VVI             3 
 awakens              VVZ             3 
 a                    AT1             2 
 that                 CST             2 
-would                VM              2 
 classic              JJ              2 
 mouse                NN1             2 
 his                  APPGE           2 
@@ -60,7 +60,7 @@ roles                NN2             1
 recent               JJ              1 
 blockbuster          NN1             1 
 force                NN1             1 
-2017s_star           MC2             1 
+2017_'s              MC              1 
 Mickey               NP1             1 
 portray              VVI             1 
 legendary            JJ              1 
@@ -98,7 +98,8 @@ scene                NN1             1
 stills               VVZ             1 
 Mickey_Han_solo      NP1             1 
 Pluto                NP1             1 
-were                 VBDR            1 
+we                   PPIS2           1 
+'re                  VBR             1 
 home                 RL              1 
 Donald_Duck_Donald   NP1             1 
 stormtrooper         NN1             1 
@@ -126,5 +127,5 @@ costumes             NN2             1
 if                   CS              1 
 combined             VVD             1 
 though               CS              1 
-wouldnt              VV0             1 
+n't                  XX              1 
 first                MD              1 

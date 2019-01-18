@@ -1,13 +1,13 @@
 TOTAL         869
 NN1           100 
-NN2            69 
+NN2            68 
 AT             61 
 JJ             55 
 II             53 
-NP1            44 
+NP1            46 
 VVI            35 
-VVG            25 
 VVN            25 
+VVG            24 
 RR             23 
 DD1            20 
 MC             19 
@@ -21,8 +21,8 @@ VVZ            14
 AT1            14 
 VBDR           13 
 VBZ            12 
-IF             10 
 VV0             9 
+IF              9 
 APPGE           9 
 RL              7 
 XX              7 
@@ -41,6 +41,7 @@ PPHS2           4
 PPIS2           4 
 NNO2            4 
 PPHS1           4 
+GE              3 
 NNU             3 
 IW              3 
 MC1             3 
@@ -53,7 +54,6 @@ NPM1            2
 NNB             2 
 JK              2 
 DD2             2 
-NP2             2 
 NNU1            2 
 CS21            2 
 RT              2 

@@ -1,4 +1,4 @@
-TOTAL              523
+TOTAL              529
 the                  AT             33 
 and                  CC             20 
 is                   VBZ            17 
@@ -10,13 +10,13 @@ to                   II              9
 to                   TO              7 
 project              NN1             6 
 public_health        JJ              6 
+'s                   GE              5 
 that                 CST             5 
 at                   II              5 
 tools                NN2             5 
 shift                NN1             4 
 health               NN1             4 
 will                 VM              4 
-information          NN1             4 
 on                   II              4 
 said                 VVD             4 
 Dr.                  NNB             4 
@@ -25,13 +25,16 @@ there                EX              3
 technology           NN1             3 
 records              NN2             3 
 this                 DD1             3 
+information          NN1             3 
 doctors              NN2             3 
 an                   AT1             3 
+C.D.C.               NP1             3 
 researchers          NN2             3 
 Mayo                 NP1             3 
 language             NN1             3 
 medical              JJ              3 
 health_care          NN1             2 
+information_technology NN1             2 
 was                  VBDZ            2 
 internet-style       JJ              2 
 computing            NN1             2 
@@ -49,6 +52,7 @@ announced            VVN             2
 by                   II              2 
 healthcare           NN1             2 
 disease              NN1             2 
+'                    GE              2 
 goal                 NN1             2 
 for_example          REX21           2 
 certain              JJ              2 
@@ -58,7 +62,6 @@ be                   VBI             2
 with                 IW              2 
 as                   CSA             2 
 also                 RR              2 
-C.D.C.s              NP1             2 
 center               NN1             2 
 internet             NN1             2 
 open                 JJ              2 
@@ -75,7 +78,6 @@ New_York_times       NP1             1
 industry             NN1             1 
 well-known           JJ              1 
 laggard              NN1             1 
-information_technology NN1             1 
 where                RRQ             1 
 most                 DAT             1 
 corporate            JJ              1 
@@ -90,7 +92,7 @@ experiments          NN2             1
 lots                 PN              1 
 interest             NN1             1 
 has                  VHZ             1 
-nt                   XX              1 
+n't                  XX              1 
 yet                  RR              1 
 gone                 VVN             1 
 mainstream           JJ              1 
@@ -100,8 +102,8 @@ clear                VV0             1
 pace                 NN1             1 
 in_question          II              1 
 Obama                NP1             1 
-administrations      NN2             1 
-plan                 VV0             1 
+administration       NN1             1 
+plan                 NN1             1 
 spend                VVI             1 
 $19_billion          NNU             1 
 hasten               VVI             1 
@@ -119,7 +121,6 @@ emerging             JJ              1
 being                VBG             1 
 demonstrated         VVN             1 
 week                 NNT1            1 
-technologys          NN2             1 
 big                  JJ              1 
 annual               JJ              1 
 conference           NN1             1 
@@ -148,8 +149,8 @@ offices              NN2             1
 have                 VHI             1 
 alert                JJ              1 
 pop_up               NN1             1 
-physicians           NN2             1 
-screen               VV0             1 
+physician            NN1             1 
+screen               NN1             1 
 based_on             VVN             1 
 location             NN1             1 
 perhaps              RR              1 
@@ -187,7 +188,6 @@ broadcast            NN1             1
 targeted             JJ              1 
 Safran               NP1             1 
 broader              JJR             1 
-C.D.C.               NP1             1 
 especially           RR              1 
 under                II              1 
 head                 NN1             1 

@@ -1,4 +1,4 @@
-TOTAL              291
+TOTAL              293
 the                  AT             22 
 a                    AT1            11 
 to                   TO              9 
@@ -8,10 +8,10 @@ and                  CC              5
 to                   II              5 
 that                 CST             5 
 in                   II              5 
+we                   PPIS2           5 
 new                  JJ              4 
 cores                NN2             4 
 themselves           PPX2            4 
-we                   PPIS2           4 
 has                  VHZ             3 
 strategy             NN1             3 
 with                 IW              3 
@@ -31,6 +31,7 @@ british              JJ              2
 a_bit_of_a           AT1             2 
 gamble               NN1             2 
 customers            NN2             2 
+'re                  VBR             2 
 not                  XX              2 
 discovering          VVG             2 
 announced            VVN             1 
@@ -88,7 +89,6 @@ regional             JJ              1
 marketing            NN1             1 
 manager              NN1             1 
 Ffwl_Ebrill          NP1             1 
-were                 VBDR            1 
 innovating           JJ              1 
 bring                VVI             1 
 that                 DD1             1 
@@ -112,7 +112,8 @@ prior_to             II21            1
 worldwide            JJ              1 
 roll-out             NN1             1 
 because_of           II21            1 
-nations              NN2             1 
+nation               NN1             1 
+'s                   GE              1 
 particular           JJ              1 
 fondness             NN1             1 
 having               VHG             1 
@@ -139,7 +140,6 @@ residential          JJ              1
 adsl                 NN1             1 
 win                  NN1             1 
 too                  RR              1 
-'re                  VBR             1 
 projecting           JJ              1 
 'll                  VM              1 
 see                  VVI             1 

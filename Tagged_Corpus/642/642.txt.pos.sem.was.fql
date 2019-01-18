@@ -1,26 +1,26 @@
-TOTAL              183
+TOTAL              186
 the                  Z5                   9 
 to                   Z5                   8 
 a                    Z5                   5 
 and                  Z5                   5 
+'s                   Z5                   4 
 on                   Z5                   4 
 his                  Z8                   4 
 for                  Z5                   4 
+i                    Z8                   4 
 he                   Z8                   3 
-'s                   Z5                   3 
+London               Z2                   3 
 londoners            Z2                   3 
 broadcast            Q4.3                 2 
 will                 T1.1.3               2 
 win                  X9.2+                2 
 as                   Z5                   2 
 mayor                Z1                   2 
-London               Z2                   2 
 capital              I1.1                 2 
 crime                G2.1-                2 
 NHS                  Z3                   2 
 which                Z8                   2 
 Mr_Khan              Z1                   2 
-i                    Z8                   2 
 all                  N5.1+                2 
 Sadiq_Khan           Z1                   1 
 today                T1.1.2               1 
@@ -52,8 +52,7 @@ vision               X4.1                 1
 explains             Q2.2                 1 
 policies             X7+                  1 
 tackle               A1.1.1               1 
-Londons              Z2                   1 
-housing              H4                   1 
+housing              H1                   1 
 crisis               A12-                 1 
 cut                  A1.1.1               1 
 help                 S8+                  1 
@@ -78,7 +77,7 @@ has                  Z5                   1
 labelled             Q1.2                 1 
 unaffordable         I1.3+++              1 
 said                 Q2.1                 1 
-im                   Z99                  1 
+'m                   Z5                   1 
 running              M1                   1 
 because              Z5                   1 
 want                 X7+                  1 
@@ -118,7 +117,7 @@ state_schools        P1                   1
 real                 A3+                  1 
 action               A1.1.1               1 
 reduce               N5-                  1 
-ill                  B2-                  1 
+'ll                  T1.1.3               1 
 be                   A3+                  1 
 mayor                G1.1                 1 
 go                   M1                   1 

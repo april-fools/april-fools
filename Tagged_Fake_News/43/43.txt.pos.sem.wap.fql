@@ -1,14 +1,16 @@
-TOTAL              147
+TOTAL              150
 the                  AT             11 
 of                   IO              8 
 and                  CC              7 
 was                  VBDZ            6 
-Hillary              NP1             4 
+Hillary              NP1             5 
 today                RT              3 
 ISIS                 NP1             3 
 released             VVN             2 
 is                   VBZ             2 
 campaign             NN1             2 
+trump                NN1             2 
+'s                   GE              2 
 looks_like           VVZ             2 
 he                   PPHS1           2 
 media                NN              2 
@@ -27,7 +29,6 @@ leak                 NN1             1
 entire               JJ              1 
 this                 DD1             1 
 makes                VVZ             1 
-trumps               NN2             1 
 dirty                JJ              1 
 talk                 NN1             1 
 video                NN1             1 
@@ -37,9 +38,8 @@ Barney               NP1             1
 friends              NN2             1 
 even_though          CS21            1 
 when                 CS              1 
-trump                NN1             1 
 called               VVN             1 
-founder              NN1             1 
+founder'             NN1             1 
 telling_the_truth    VVG             1 
 100%                 NNU             1 
 accurate             JJ              1 
@@ -68,7 +68,6 @@ just                 RR              1
 that                 DD1             1 
 running              VVG             1 
 John_Podesta         NP1             1 
-Hillarys             NP2             1 
 chair                NN1             1 
 who                  PNQS            1 
 also                 RR              1 
@@ -97,5 +96,6 @@ arming               VVG             1
 by                   II              1 
 our                  APPGE           1 
 allies               NN2             1 
+'                    GE              1 
 Saudi_Arabia         NP1             1 
 Qatar                NP1             1 

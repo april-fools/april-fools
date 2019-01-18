@@ -1,19 +1,19 @@
-TOTAL             7414
+TOTAL             7417
 the                  Z5                 351 
 to                   Z5                 244 
 of                   Z5                 202 
 and                  Z5                 202 
 a                    Z5                 154 
-that                 Z8                  98 
+that                 Z8                  99 
 in                   Z5                  88 
 authoritarians       S7.1+               86 
 is                   A3+                 70 
-that                 Z5                  66 
+that                 Z5                  65 
 authoritarianism     S7.1+               63 
 but                  Z5                  61 
 for                  Z5                  61 
 they                 Z8                  60 
-it                   Z8                  55 
+it                   Z8                  56 
 trump                Z1                  51 
 as                   Z5                  50 
 or                   Z5                  49 
@@ -95,9 +95,9 @@ is                   Z5                  14
 order                S7.1+               14 
 them                 Z8                  14 
 important            A11.1+              14 
+'s                   A3+                 14 
 muslims              S9                  13 
 research             X2.4                13 
-'s                   A3+                 13 
 non-authoritarians   Z99                 13 
 candidates           G1.2                12 
 country              G1.1                12 
@@ -158,7 +158,6 @@ tendencies           A6.2+                8
 many                 N5+                  8 
 status_quo           A3                   8 
 simple               A12+                 8 
-its                  Z8                   8 
 fears                E5-                  8 
 '                    Z5                   8 
 study                P1                   8 
@@ -181,9 +180,11 @@ then                 N4                   7
 group                S5+                  7 
 values               A11.1+               7 
 were                 Z5                   7 
+its                  Z8                   7 
 dangerous            A15-                 7 
 things               O2                   7 
 images               O4.1                 7 
+i                    Z8                   7 
 first                N4                   7 
 certain              A4.2+                7 
 issues               X4.1                 7 
@@ -206,7 +207,6 @@ less                 A13.6                6
 themselves           Z8                   6 
 norms                A6.2+                6 
 believe              X2.1                 6 
-i                    Z8                   6 
 understand           X2.5+                6 
 field                F4                   6 
 national             M7                   6 
@@ -732,6 +732,7 @@ outgroup             Z99                  2
 identified           X2.2+                2 
 presence             M6                   2 
 told                 Q2.1                 2 
+'m                   A3+                  2 
 worried              E6-                  2 
 while                Z5                   2 
 to_the_point         A4.2+                2 
@@ -1543,10 +1544,9 @@ outlets              Q2.1                 1
 painted              C1                   1 
 oppose               S8-                  1 
 on_average           A6.2+                1 
-'im                  Z8                   1 
+'i                   Z99                  1 
 'oh                  Z99                  1 
 my_god               Z4                   1 
-im                   Z99                  1 
 unusually            A6.2-                1 
 lash_out             E3-                  1 
 objects              O2                   1 

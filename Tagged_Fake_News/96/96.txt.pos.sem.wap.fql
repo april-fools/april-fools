@@ -1,4 +1,4 @@
-TOTAL              481
+TOTAL              486
 the                  AT             34 
 in                   II             10 
 to                   TO             10 
@@ -23,6 +23,7 @@ this                 DD1             4
 vote                 NN1             4 
 said                 VVD             4 
 box                  NN1             4 
+it                   PPH1            3 
 election             NN1             3 
 been                 VBN             3 
 as                   CSA             3 
@@ -40,9 +41,8 @@ these                DD2             3
 has                  VHZ             3 
 were                 VBDR            3 
 was                  VBDZ            3 
-it                   PPH1            2 
 have                 VHI             2 
-do                   VD0             2 
+do                   VDI             2 
 precincts            NN2             2 
 due_to               II21            2 
 voter                NN1             2 
@@ -55,6 +55,7 @@ but                  CCB             2
 perhaps              RR              2 
 count                VVI             2 
 we                   PPIS2           2 
+'s                   GE              2 
 an                   AT1             2 
 unbroken             JJ              2 
 seal                 NN1             2 
@@ -69,12 +70,13 @@ from                 II              2
 turns_out            VVZ             1 
 rigged               VVN             1 
 after_all            II              1 
-its                  APPGE           1 
-just                 JJ              1 
+'s                   VBZ             1 
+just                 RR              1 
 Hillary_Clinton      NP1             1 
 her                  APPGE           1 
 democrats            NN2             1 
-cant                 NN1             1 
+ca                   VM              1 
+n't                  XX              1 
 any                  DD              1 
 job                  NN1             1 
 right                NN1             1 
@@ -87,6 +89,7 @@ have                 VH0             1
 found                VVN             1 
 poll_book            NN1             1 
 numbers              NN2             1 
+do                   VD0             1 
 not                  XX              1 
 match                VVI             1 
 electronic           JJ              1 
@@ -113,6 +116,7 @@ quite                RG              1
 old                  JJ              1 
 in_fact              II              1 
 87                   MC              1 
+'                    GE              1 
 optical              JJ              1 
 scanners             NN2             1 
 broke                VVD             1 
@@ -145,7 +149,6 @@ votes                NN2             1
 Baxter               NP1             1 
 says                 VVZ             1 
 failed               VVD             1 
-do                   VDI             1 
 so                   RR              1 
 forgot               VVD             1 
 wanted               VVD             1 
@@ -186,12 +189,12 @@ Ken_Crider           NP1             1
 keeping_a_eye_on     VVG             1 
 close                JJ              1 
 his                  APPGE           1 
-districts            NN2             1 
+district             NN1             1 
 process              VV0             1 
 Crider               NP1             1 
 facebook             NN1             1 
 post                 NN1             1 
-Pennys               NP2             1 
+Penny                NP1             1 
 #152                 NNU             1 
 had                  VHD             1 
 everything           PN1             1 

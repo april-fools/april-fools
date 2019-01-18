@@ -80,8 +80,6 @@ foreach                  VV0     Z99
 Found'                   NP1     Z99 
 hackery                  NN1     Z99 
 header($header)          FO      Z99 
-Im                       VV0     Z99 
-Isnt                     VV0     Z99 
 isset                    NN1     Z99 
 isset                    VV0     Z99 
 node.js                  NNU     Z99 
@@ -100,4 +98,3 @@ succinctness             NN1     Z99
 ultra-architected        VVD     Z99 
 verbose                  JJ      Z99 
 wild-west                ND1     Z99 
-youre                    VV0     Z99 

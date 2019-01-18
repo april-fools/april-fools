@@ -1,5 +1,5 @@
-TOTAL         298
-NN1            43 
+TOTAL         301
+NN1            42 
 NP1            37 
 AT             20 
 II             20 
@@ -25,17 +25,18 @@ NPM1            4
 CST             4 
 DD              3 
 DDQ             3 
+PPIS2           3 
 APPGE           3 
 CSN             3 
 VHZ             3 
 RR              3 
+VH0             3 
 VBR             2 
-PPIS2           2 
+GE              2 
 PPH1            2 
 RRR             2 
-VH0             2 
 VVD             2 
-DAT             1 
+RGT             1 
 CSA             1 
 PPHO2           1 
 CS              1 
@@ -47,6 +48,6 @@ RT              1
 PNQS            1 
 VBG             1 
 MC1             1 
-VHD             1 
+VHN             1 
 RL              1 
 RG              1 

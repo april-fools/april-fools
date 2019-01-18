@@ -1,4 +1,4 @@
-TOTAL             1501
+TOTAL             1506
 the                  Z5                 138 
 and                  Z5                  71 
 of                   Z5                  68 
@@ -9,7 +9,7 @@ for                  Z5                  22
 middle_east          Z2                  21 
 a                    Z5                  21 
 is                   A3+                 18 
-region               M7                  14 
+region               M7                  17 
 with                 Z5                  14 
 christian            Z1                  12 
 this                 M6                  11 
@@ -21,6 +21,7 @@ status               S7.1                 8
 their                Z8                   7 
 have                 Z5                   7 
 groups               S5+                  7 
+overall              N5.1+                7 
 but                  Z5                   7 
 on                   Z5                   7 
 United_States        Z2                   7 
@@ -28,7 +29,6 @@ engagement           S1.1.1               7
 communities          S5+                  6 
 by                   Z5                   6 
 from                 Z5                   6 
-overall              N5.1+                6 
 an                   Z5                   6 
 important            A11.1+               6 
 pluralism            A6.3+                6 
@@ -41,6 +41,7 @@ such_as              Z5                   5
 Iraq                 Z2                   5 
 or                   Z5                   5 
 economic             I1.3-                5 
+'s                   Z5                   5 
 efforts              X8+                  5 
 broader              A4.2--               5 
 world                W1                   4 
@@ -68,7 +69,6 @@ migration            M1                   3
 start                T2+                  3 
 that                 Z5                   3 
 than                 Z5                   3 
-regions              M7                   3 
 wave                 W3                   3 
 extremism            G1.2                 3 
 will                 T1.1.3               3 
@@ -113,6 +113,7 @@ lack                 A9-                  2
 decades              T1.3                 2 
 they                 Z8                   2 
 within               Z5                   2 
+today                T1.1.2               2 
 living               H4                   2 
 Egypt                Z2                   2 
 considerably         A13.3                2 
@@ -154,6 +155,7 @@ a_number_of          N5+                  2
 greater              A5.1++               2 
 strategy             X7+                  2 
 Obama                Z99                  2 
+administration       S7.1+                2 
 not                  Z6                   2 
 it                   Z8                   2 
 needs                S6+                  2 
@@ -249,8 +251,6 @@ area                 M7                   1
 controlled           S7.1+                1 
 Kurdistan            Z99                  1 
 government           G1.1                 1 
-todays               T1.1.2               1 
-overall              A14                  1 
 estimated            X6                   1 
 range                A6.3+                1 
 7.5_million          N1                   1 
@@ -296,7 +296,6 @@ victims              A1.1.2               1
 ongoing              T2++                 1 
 decline              N5-                  1 
 such_that            Z5                   1 
-today                T1.1.2               1 
 fear                 E5-                  1 
 turn_into            A2.1+                1 
 museums              T1.1.1               1 
@@ -388,7 +387,6 @@ means                N2                   1
 national             Z3                   1 
 leader               S7.1+                1 
 released             A1.7-                1 
-administration       S7.1+                1 
 example              A4.1                 1 
 such                 Z5                   1 
 Ahmed_Saad/Reuters   Z1                   1 
@@ -416,7 +414,6 @@ had                  A9+                  1
 consequences         A2.2                 1 
 there                M6                   1 
 flawed               A5.1-                1 
-administrations      S7.1+                1 
 decision             X6+                  1 
 position             M6                   1 
 under                Z5                   1 

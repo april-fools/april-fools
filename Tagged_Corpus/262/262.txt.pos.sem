@@ -77,7 +77,8 @@
 0000006 201  .       .                        
 0000006 202  NULL    <quote>                  
 0000006 203  -----   -----                    
-0000006 210  VV0     Im                       Z99 
+0000006 210  PPIS1   I                        Z8mf 
+0000006 211  VBM     'm                       A3+ Z5 
 0000006 220  XX      not                      Z6 
 0000006 230  JJ      sure                     A7+ Z4 
 0000006 240  RR      exactly                  A4.2+ A5.3+ 
@@ -97,9 +98,10 @@
 0000006 320  VVD     felt                     X2.1 E1 X3 
 0000006 330  CS%     like                     Z5 
 0000006 340  PPIS1   I                        Z8mf 
-0000006 350  VV0     wouldnt                  Z99 
-0000006 360  RR      really                   A13.3 A5.2+ 
-0000006 370  VV0     fit                      A1.8+[i8.2.1 A6.1+[i8.2.1 N3.2/A5.1+ N3.2 A1.2+ M2 B2- 
+0000006 350  VM      would                    A7+ 
+0000006 351  XX      n't                      Z6 
+0000006 360  RR      really                   A5.4+ 
+0000006 370  VVI     fit                      A1.8+[i8.2.1 A6.1+[i8.2.1 N3.2/A5.1+ N3.2 A1.2+ M2 B2- 
 0000006 380  II      into                     A1.8+[i8.2.2 A6.1+[i8.2.2 Z5 
 0000006 390  AT      the                      Z5 
 0000006 400  NN1     church                   S9/H1c S9c 
@@ -117,7 +119,8 @@
 0000008 090  NN1     example                  A10+[i9.3.3 A4.1 
 0000008 100  IF      for                      Z5 
 0000008 110  AT      the                      Z5 
-0000008 120  NN2     churchs                  S9/H1c S9c 
+0000008 120  NN1     church                   S9/H1c S9c 
+0000008 121  GE      's                       Z5 
 0000008 130  NN2     members                  S5+/S2mf B1 
 0000008 140  CST     that                     Z5 Z8 
 0000008 150  NP1     God                      S9m Z4 
@@ -202,7 +205,8 @@
 0000012 060  XX      not                      Z6 
 0000012 070  VVN     disclosed                Q2.2 A10+ 
 0000012 080  CS      when                     Z5 
-0000012 090  NN2@    Arringtons               Z99 
+0000012 090  NP1     Arrington                Z99 
+0000012 091  GE      's                       Z5 
 0000012 100  MD      first                    N4 
 0000012 110  NN1     church                   S9[i19.2.1 S9/H1c S9c 
 0000012 120  NN1     service                  S9[i19.2.2 S8+ S7.1- I2.2 A1.1.1 S9 I3.1 F1 G3@ G1.1@ G2.1@ 

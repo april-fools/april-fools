@@ -1,4 +1,4 @@
-TOTAL              359
+TOTAL              364
 the                  AT             26 
 of                   IO             14 
 and                  CC             12 
@@ -7,11 +7,11 @@ to                   TO              9
 royal                JJ              7 
 for                  IF              7 
 experience           NN1             5 
-its                  APPGE           5 
 Caribbean            NP1             5 
 a                    AT1             5 
 be                   VBI             5 
 has                  VHZ             4 
+its                  APPGE           4 
 orbiter              NN1             4 
 galaxies             NN2             4 
 this                 DD1             4 
@@ -21,11 +21,13 @@ first                MD              3
 to                   II              3 
 deliver              VVI             3 
 through              II              3 
+we                   PPIS2           3 
 in                   II              3 
 national             JJ              3 
 centre               NN1             3 
 on                   II              3 
 caribbean            JJ              2 
+it                   PPH1            2 
 with                 IW              2 
 voyage               NN1             2 
 spaceship            NN1             2 
@@ -38,7 +40,6 @@ holiday              NN1             2
 guests               NN2             2 
 microgravity         NN1             2 
 food                 NN1             2 
-we                   PPIS2           2 
 new                  JJ              2 
 ground               NN1             2 
 all                  DB              2 
@@ -46,7 +47,6 @@ from                 II              2
 working              VVG             2 
 international        JJ              1 
 announced            VVN             1 
-it                   PPH1            1 
 boldly               RR              1 
 going                VVG             1 
 where                CS              1 
@@ -56,7 +56,8 @@ gone                 VVN             1
 before               RT              1 
 by                   II              1 
 offering             VVG             1 
-worlds               NN2             1 
+world                NN1             1 
+'s                   GE              1 
 cruise               NN1             1 
 space                VVI             1 
 state-of-the-art     JJ              1 
@@ -90,8 +91,9 @@ include              VV0             1
 270                  MC              1 
 panoramic            JJ              1 
 views                NN2             1 
-two70s               FO              1 
-multi-deck           NN1             1 
+two70                FO              1 
+'s                   VBZ             1 
+multi-deck           JJ              1 
 floor-to-ceiling     JJ              1 
 glass                NN1             1 
 walls                NN2             1 
@@ -140,8 +142,9 @@ holiday_pictures     NN1             1
 jewel                NN1             1 
 our                  APPGE           1 
 breaking             VVG             1 
-cant                 JJ              1 
-wait                 NN1             1 
+ca                   VM              1 
+n't                  XX              1 
+wait                 VVI             1 
 take-off             NN1             1 
 partnered_with       VVN             1 
 develop              VVI             1 
@@ -168,6 +171,7 @@ space_based          NN1             1
 Tamela_Maciel        NP1             1 
 communications_manager NN2             1 
 commented            VVD             1 
+'s                   VHZ             1 
 been                 VBN             1 
 busy                 JJ              1 
 time                 NNT1            1 
@@ -187,7 +191,7 @@ chefs                NN2             1
 how                  RRQ             1 
 prepare              VVI             1 
 tasty                JJ              1 
-were                 VBDR            1 
+'re                  VBR             1 
 delighted            JJ              1 
 get                  VVI             1 
 amazing              JJ              1 

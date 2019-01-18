@@ -1,4 +1,4 @@
-TOTAL              455
+TOTAL              457
 the                  AT             37 
 of                   IO             16 
 and                  CC             12 
@@ -28,6 +28,7 @@ this                 DD1             3
 on                   II              3 
 excise               NN1             3 
 brewing_industry     NN1             2 
+Australia            NP1             2 
 was                  VBDZ            2 
 regular              JJ              2 
 can                  VM              2 
@@ -69,7 +70,6 @@ expensive            JJ              2
 exciting             JJ              1 
 news                 NN1             1 
 perth-based          JJ              1 
-Australia            NP1             1 
 yesterday            RT              1 
 granted              VVN             1 
 process              VV0             1 
@@ -86,12 +86,13 @@ little               DA1             1
 six                  MC              1 
 hours                NNT2            1 
 processes            NN2             1 
+'                    GE              1 
 co-developer         NN1             1 
 his                  APPGE           1 
 early                JJ              1 
 results              NN2             1 
-are                  VB0             1 
-nt                   XX              1 
+are                  VBR             1 
+n't                  XX              1 
 confined             VVN             1 
 to                   II              1 
 conditioning         NN1             1 
@@ -194,7 +195,7 @@ huge                 JJ              1
 reduction            NN1             1 
 minimised            JJ              1 
 filtration           NN1             1 
-Australias           NP2             1 
+'s                   GE              1 
 great                JJ              1 
 day                  NNT1            1 
 announce             VVI             1 

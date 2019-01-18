@@ -10,5 +10,5 @@
 0000002 080  AT      the                      Z5 
 0000002 090  JJ      Elusive                  A10- 
 0000002 100  NN1     Climate                  W4 A1.1.1 E1 
-0000002 110  NN1     Skeptic                  A5.1-/X2.1 
+0000002 110  NP1     Skeptic'                 Z99 
 0000004 001  NULL    **8;7;text               

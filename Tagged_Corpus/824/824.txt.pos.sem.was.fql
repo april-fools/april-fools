@@ -1,4 +1,4 @@
-TOTAL              193
+TOTAL              197
 the                  Z5                  12 
 to                   Z5                   8 
 women                S2.1                 7 
@@ -7,13 +7,15 @@ sports               K5.1                 5
 on                   Z5                   4 
 have                 Z5                   3 
 ban                  S7.4-                3 
+men                  S2.2                 3 
+'s                   Z5                   3 
 said                 Q2.1                 3 
+Iran                 Z2                   3 
 allow                S7.4+                3 
 that                 Z5                   3 
 would                A7+                  3 
 in                   Z5                   3 
 attending            S1.1.3+              2 
-mens                 S2.2                 2 
 matches              A6.1+                2 
 official             G1.1                 2 
 Saturday             T1.3                 2 
@@ -29,7 +31,6 @@ stadiums             K5.1                 2
 of                   Z5                   2 
 been                 Z5                   2 
 from                 Z5                   2 
-Iran                 Z2                   2 
 iranian              Z2                   1 
 authorities          G1.1                 1 
 partially            A13.6                1 
@@ -38,7 +39,7 @@ senior               S7.1++               1
 deputy               S7.1-                1 
 minister             G1.1                 1 
 Abdolhamid_Ahmadi    Z1                   1 
-Irans_state          Z2                   1 
+state                G1.1                 1 
 security             G2.1                 1 
 council              G1.1                 1 
 has                  Z5                   1 
@@ -83,7 +84,6 @@ was                  A3+                  1
 prevent              S8-                  1 
 crowds               S5+                  1 
 unrelated            A2.2-                1 
-men                  S2.2                 1 
 mixing               A2.1+                1 
 publicly             A10+                 1 
 in_the_past          T1.1.1               1 

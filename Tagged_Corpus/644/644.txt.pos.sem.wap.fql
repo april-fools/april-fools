@@ -1,11 +1,11 @@
-TOTAL              161
+TOTAL              166
 and                  CC             14 
 for                  IF              6 
+converge             VV0             4 
 the                  AT              4 
+Storyville           NP1             4 
 a                    AT1             3 
-Storyville           NP1             3 
 in                   II              3 
-converge             VV0             2 
 production           NN1             2 
 branded              JJ              2 
 last_year            MD              2 
@@ -15,7 +15,7 @@ deal                 NN1             2
 with                 IW              2 
 is                   VBZ             2 
 will                 VM              2 
-converges            VVZ             2 
+'s                   VBZ             2 
 Smoove               NP1             2 
 producers            NN2             2 
 code                 NN1             2 
@@ -78,7 +78,9 @@ Frank_Santopadre     NP1             1
 Joy_Behar            NP1             1 
 show                 NN1             1 
 view                 NN1             1 
-Storyvilles_Betsy_Schechter NP1             1 
+'s                   GE              1 
+betsy                JJ              1 
+schechter            NN1             1 
 Dorfman              NP1             1 
 Smith                NP1             1 
 Benowitz             NP1             1 

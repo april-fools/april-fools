@@ -164,22 +164,23 @@
 0000010 410  VBR     are                      Z5 A3+ 
 0000010 420  VVN     identified               X2.2+ A10+ X2.5+ 
 0000010 430  II      in                       Z5 
-0000010 440  NP1     Mossack                  Z99 
-0000010 450  NP2     Fonsecas                 Z99 
+0000010 440  NP1     Mossack                  Z1mf[i9.2.1 Z3c[i9.2.1 
+0000010 450  NP1     Fonseca                  Z1mf[i9.2.2 Z3c[i9.2.2 
+0000010 451  GE      's                       Z5 
 0000010 460  NN2     files                    O2/Q1.2 O2 Y2 S5+/N4 
 0000010 461  .       .                        
 0000011 001  -----   -----                    
-0000012 010  NP1     McClatchy                Z1mf[i9.2.1 Z3c[i9.2.1 
-0000012 020  NP1     DC                       Z1mf[i9.2.2 Z3c[i9.2.2 Z2 Z3c 
+0000012 010  NP1     McClatchy                Z1mf[i10.2.1 Z3c[i10.2.1 
+0000012 020  NP1     DC                       Z1mf[i10.2.2 Z3c[i10.2.2 Z2 Z3c 
 0000012 021  ,       ,                        
 0000012 030  DDQ     which                    Z8 Z5 
 0000012 040  VHZ     has                      Z5 A9+ A2.2 S4 
-0000012 050  VVN     partnered                A9-[i10.2.1 S3.1 
-0000012 060  IW      with                     A9-[i10.2.2 Z5 
+0000012 050  VVN     partnered                A9-[i11.2.1 S3.1 
+0000012 060  IW      with                     A9-[i11.2.2 Z5 
 0000012 070  AT      the                      Z5 
 0000012 080  NN1     Guardian                 Z3c 
-0000012 090  CC      and                      S2mf[i11.2.1 Z5 
-0000012 100  JJ      other                    S2mf[i11.2.2 A6.1- 
+0000012 090  CC      and                      S2mf[i12.2.1 Z5 
+0000012 100  JJ      other                    S2mf[i12.2.2 A6.1- 
 0000012 110  NN      media                    Q4c 
 0000012 120  NN2     organisations            S5+c S7.1+ 
 0000012 130  TO      to                       Z5 
@@ -195,8 +196,8 @@
 0000012 220  NN2     cases                    A4.1 O2 G2.1 B3 X4.1 Q3 
 0000012 230  AT      the                      Z5 
 0000012 240  JJ      Panama-based             Z99 
-0000012 250  NN1     law                      G2.1/I2.1c[i12.2.1 G2.1 S6+ Y1 
-0000012 260  NN1     firm                     G2.1/I2.1c[i12.2.2 I2.1/S5+c 
+0000012 250  NN1     law                      G2.1/I2.1c[i13.2.1 G2.1 S6+ Y1 
+0000012 260  NN1     firm                     G2.1/I2.1c[i13.2.2 I2.1/S5+c 
 0000012 270  VVN     helped                   S8+ 
 0000012 280  VVI     register                 Q1.2/G1.1 N3.1 A9+ Q2.1 A10+ X2.5+ 
 0000012 290  JJ      offshore                 M6 
@@ -241,8 +242,8 @@
 0000014 210  NN2     offshores                M6 
 0000014 220  VVN     created                  A1.1.1 A2.2 E1 
 0000014 230  II      by                       Z5 
-0000014 240  NP1     Mossack                  Z1mf[i13.2.1 Z3c[i13.2.1 
-0000014 250  NP1     Fonseca                  Z1mf[i13.2.2 Z3c[i13.2.2 
+0000014 240  NP1     Mossack                  Z1mf[i14.2.1 Z3c[i14.2.1 
+0000014 250  NP1     Fonseca                  Z1mf[i14.2.2 Z3c[i14.2.2 
 0000014 260  II      in                       Z5 
 0000014 270  AT      the                      Z5 
 0000014 280  JJ      British                  Z2 Z2/S2mfnc 
@@ -268,12 +269,13 @@
 0000014 450  IW      with                     Z5 
 0000014 460  JJ      new                      T3- 
 0000014 470  NN2     investors                I1.1/S2mf 
+0000014 471  GE      '                        Z5 
 0000014 480  NN1     money                    I1 
 0000014 490  RR      allegedly                Q2.2/A5.2 
-0000014 500  VMK     used                     T1.1.1[i14.2.1 A6.2+[i14.2.1 
-0000014 510  TO      to                       T1.1.1[i14.2.2 A6.2+[i14.2.2 Z5 
-0000014 520  VVI     pay                      I1.2[i15.2.1 I3.1-[i15.2.1 X9.2+[i15.2.1 I1.2 A9- I1.1/I3.1 
-0000014 530  RP      off                      I1.2[i15.2.2 I3.1-[i15.2.2 X9.2+[i15.2.2 M6 K1 A1.1.1 A1.9 
+0000014 500  VMK     used                     T1.1.1[i15.2.1 A6.2+[i15.2.1 
+0000014 510  TO      to                       T1.1.1[i15.2.2 A6.2+[i15.2.2 Z5 
+0000014 520  VVI     pay                      I1.2[i16.2.1 I3.1-[i16.2.1 X9.2+[i16.2.1 I1.2 A9- I1.1/I3.1 
+0000014 530  RP      off                      I1.2[i16.2.2 I3.1-[i16.2.2 X9.2+[i16.2.2 M6 K1 A1.1.1 A1.9 
 0000014 540  II      past                     Z5 
 0000014 550  NN2     investors                I1.1/S2mf 
 0000014 551  .       .                        
@@ -306,20 +308,20 @@
 0000016 040  AT      the                      Z5 
 0000016 050  NN1     case                     A4.1 O2 G2.1 B3 X4.1 Q3 
 0000016 060  IO      of                       Z5 
-0000016 070  NP1     Anthony                  Z1mf[i16.2.1 Z3c[i16.2.1 Z1m 
-0000016 080  NP1     Gumbiner                 Z1mf[i16.2.2 Z3c[i16.2.2 
+0000016 070  NP1     Anthony                  Z1mf[i17.2.1 Z3c[i17.2.1 Z1m 
+0000016 080  NP1     Gumbiner                 Z1mf[i17.2.2 Z3c[i17.2.2 
 0000016 081  ,       ,                        
 0000016 090  AT      the                      Z5 
 0000016 100  JJ      Dallas-area              Z99 
 0000016 110  NN1     chairman                 S7.1+/S2mf 
 0000016 120  IO      of                       Z5 
-0000016 130  NP1     Hallwood                 Z3c[i17.2.1 
-0000016 140  NN1     Group                    Z3c[i17.2.2 S5+c A4.1c B3% 
+0000016 130  NP1     Hallwood                 Z3c[i18.2.1 
+0000016 140  NN1     Group                    Z3c[i18.2.2 S5+c A4.1c B3% 
 0000016 141  .       .                        
 0000016 142  NULL    <quote>                  
 0000016 143  -----   -----                    
 0000016 150  PPHS1   He                       Z8m 
-0000016 151  VBZ     s                        T1.3 I1.1 Z5 
+0000016 151  VBZ     's                       A3+ Z5 
 0000016 160  AT1     a                        Z5 
 0000016 170  JJ      British                  Z2 Z2/S2mfnc 
 0000016 180  JJ      national                 M7/N5.1+ 
@@ -346,9 +348,9 @@
 0000016 380  NNU     $1.7m                    N3.3 N3.7 
 0000016 390  II      in                       Z5 
 0000016 400  NN2     penalties                G2.1 I1.3 K5.1 
-0000016 410  II      at                       T1.1.1[i18.3.1 T1.1.2[i18.3.1 Z5 
-0000016 420  AT      the                      T1.1.1[i18.3.2 T1.1.2[i18.3.2 Z5 
-0000016 430  NNT1    time                     T1.1.1[i18.3.3 T1.1.2[i18.3.3 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000016 410  II      at                       T1.1.1[i19.3.1 T1.1.2[i19.3.1 Z5 
+0000016 420  AT      the                      T1.1.1[i19.3.2 T1.1.2[i19.3.2 Z5 
+0000016 430  NNT1    time                     T1.1.1[i19.3.3 T1.1.2[i19.3.3 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
 0000016 431  ,       ,                        
 0000016 432  NULL    </quote>                 
 0000016 433  -----   -----                    
@@ -371,8 +373,8 @@
 0000016 560  JJ      lavish                   O4.2+ 
 0000016 570  NN1     lifestyle                S1.1.1 
 0000016 580  II      in                       Z5 
-0000016 590  NP1     Monte                    Z1mf[i19.2.1 Z3c[i19.2.1 
-0000016 600  NP1     Carlo                    Z1mf[i19.2.2 Z3c[i19.2.2 Z1m 
+0000016 590  NP1     Monte                    Z1mf[i20.2.1 Z3c[i20.2.1 
+0000016 600  NP1     Carlo                    Z1mf[i20.2.2 Z3c[i20.2.2 Z1m 
 0000016 601  .       .                        
 0000016 602  NULL    </quote>                 
 0000016 603  -----   -----                    
@@ -391,8 +393,8 @@
 0000018 102  -----   -----                    
 0000018 110  APPGE   His                      Z8m 
 0000018 120  JJ      offshore                 M6 
-0000018 130  NN1     shell                    L2/I2.1c[i20.2.1 L2 O2 G3 
-0000018 140  NN2     companies                L2/I2.1c[i20.2.2 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000018 130  NN1     shell                    L2/I2.1c[i21.2.1 L2 O2 G3 
+0000018 140  NN2     companies                L2/I2.1c[i21.2.2 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
 0000018 150  VVN     ceased                   T2- 
 0000018 160  TO      to                       Z5 
 0000018 170  VBI     be                       A3+ Z5 
@@ -401,10 +403,10 @@
 0000018 200  MC      2011                     N1 T1.2 T3 T1.3 N3.2 
 0000018 201  .       .                        
 0000018 202  -----   -----                    
-0000018 210  MD      Last                     T1.1.1[i22.2.1 N4 T1.3[i21.2.1 P1/S2mf[i21.2.1 
-0000018 220  NNT1    year                     T1.1.1[i22.2.2 T1.3 P1c T1.3[i21.2.2 P1/S2mf[i21.2.2 
-0000018 230  NP1     Mossack                  Z1mf[i23.2.1 Z3c[i23.2.1 
-0000018 240  NP1     Fonseca                  Z1mf[i23.2.2 Z3c[i23.2.2 
+0000018 210  MD      Last                     T1.1.1[i23.2.1 N4 T1.3[i22.2.1 P1/S2mf[i22.2.1 
+0000018 220  NNT1    year                     T1.1.1[i23.2.2 T1.3 P1c T1.3[i22.2.2 P1/S2mf[i22.2.2 
+0000018 230  NP1     Mossack                  Z1mf[i24.2.1 Z3c[i24.2.1 
+0000018 240  NP1     Fonseca                  Z1mf[i24.2.2 Z3c[i24.2.2 
 0000018 250  RR      finally                  N4 
 0000018 260  VVD     started                  T2+ E5- E3- 
 0000018 270  TO      to                       Z5 
@@ -421,19 +423,19 @@
 0000020 050  AT      the                      Z5 
 0000020 060  NN1     net                      O2 S5+ A1.3+ 
 0000020 070  VBZ     is                       A3+ Z5 
-0000020 080  NP1     Benjamin                 Z1mf[i24.2.1 Z3c[i24.2.1 Z1mf 
-0000020 090  NP1     Wey                      Z1mf[i24.2.2 Z3c[i24.2.2 
+0000020 080  NP1     Benjamin                 Z1mf[i25.2.1 Z3c[i25.2.1 Z1mf 
+0000020 090  NP1     Wey                      Z1mf[i25.2.2 Z3c[i25.2.2 
 0000020 091  ,       ,                        
 0000020 100  NN1     president                G1.1/S7.1+/S2mf 
 0000020 110  IO      of                       Z5 
-0000020 120  NP1     New                      Z1mf[i26.3.1 Z3c[i26.3.1 Z1mf[i25.2.1 Z3c[i25.2.1 Z2[i27.2.1 
-0000020 130  NP1     York                     Z1mf[i26.3.2 Z3c[i26.3.2 Z2 Z1mf Z1mf[i25.2.2 Z3c[i25.2.2 Z2[i27.2.2 Z1mf[i28.2.1 Z3c[i28.2.1 
-0000020 140  JJ      Global                   Z3c[i26.3.3 Z1mf[i26.3.3 Z3c Z1mf[i28.2.2 Z3c[i28.2.2 Z3c[i29.2.1 
-0000020 150  NN1     Group                    S5+c A4.1c B3% Z3c[i29.2.2 
+0000020 120  NP1     New                      Z1mf[i27.3.1 Z3c[i27.3.1 Z1mf[i26.2.1 Z3c[i26.2.1 Z2[i28.2.1 
+0000020 130  NP1     York                     Z1mf[i27.3.2 Z3c[i27.3.2 Z2 Z1mf Z1mf[i26.2.2 Z3c[i26.2.2 Z2[i28.2.2 Z1mf[i29.2.1 Z3c[i29.2.1 
+0000020 140  JJ      Global                   Z3c[i27.3.3 Z1mf[i27.3.3 Z3c Z1mf[i29.2.2 Z3c[i29.2.2 Z3c[i30.2.1 
+0000020 150  NN1     Group                    S5+c A4.1c B3% Z3c[i30.2.2 
 0000020 151  ,       ,                        
 0000020 160  VVD     indicted                 G2.1 
-0000020 170  MD      last                     T1.1.1[i31.2.1 N4 T1.3[i30.2.1 P1/S2mf[i30.2.1 
-0000020 180  NNT1    year                     T1.1.1[i31.2.2 T1.3 P1c T1.3[i30.2.2 P1/S2mf[i30.2.2 
+0000020 170  MD      last                     T1.1.1[i32.2.1 N4 T1.3[i31.2.1 P1/S2mf[i31.2.1 
+0000020 180  NNT1    year                     T1.1.1[i32.2.2 T1.3 P1c T1.3[i31.2.2 P1/S2mf[i31.2.2 
 0000020 190  II      on                       Z5 
 0000020 200  NN2     securities               G2.1 A15+ E6+ I1.1 
 0000020 210  NN1     fraud                    G2.1- G2.2- 
@@ -449,33 +451,33 @@
 0000020 290  IO      of                       Z5 
 0000020 300  VVG     using                    A1.5.1 S7.1+ 
 0000020 310  NN2     offshores                M6 
-0000020 320  VVN     set                      T2+[i32.2.1 S7.1+[i32.2.1 O2[i32.2.1 A1.1.1[i32.2.1 M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3 
-0000020 330  RP      up                       T2+[i32.2.2 S7.1+[i32.2.2 O2[i32.2.2 A1.1.1[i32.2.2 
+0000020 320  VVN     set                      T2+[i33.2.1 S7.1+[i33.2.1 O2[i33.2.1 A1.1.1[i33.2.1 M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3 
+0000020 330  RP      up                       T2+[i33.2.2 S7.1+[i33.2.2 O2[i33.2.2 A1.1.1[i33.2.2 
 0000020 340  IW      with                     Z5 
-0000020 350  NP1     Mossack                  Z1mf[i33.2.1 Z3c[i33.2.1 
-0000020 360  NP1     Fonseca                  Z1mf[i33.2.2 Z3c[i33.2.2 
+0000020 350  NP1     Mossack                  Z1mf[i34.2.1 Z3c[i34.2.1 
+0000020 360  NP1     Fonseca                  Z1mf[i34.2.2 Z3c[i34.2.2 
 0000020 370  TO      to                       Z5 
 0000020 380  VVI     disguise                 A10- 
 0000020 390  JJ      complex                  A12- 
 0000020 400  NN2     transactions             I2.2 S1.1.1 A1.1.1 
 0000020 410  II      between                  Z5 
 0000020 420  JJ      Chinese                  Z2 Z2/Q3 Z2/S2mfnc 
-0000020 430  NN1     operating                A1.1.1/I2.1c[i34.2.1 A1.1.1 B3 
-0000020 440  NN2     companies                A1.1.1/I2.1c[i34.2.2 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000020 430  NN1     operating                A1.1.1/I2.1c[i35.2.1 A1.1.1 B3 
+0000020 440  NN2     companies                A1.1.1/I2.1c[i35.2.2 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
 0000020 450  CC      and                      Z5 
 0000020 460  RR      publicly                 A10+ 
 0000020 470  VVN     traded                   I2.2 
 0000020 480  JJ      American                 Z2 
-0000020 490  NN1     shell                    L2/I2.1c[i35.2.1 L2 O2 G3 
-0000020 500  NN2     companies                L2/I2.1c[i35.2.2 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000020 490  NN1     shell                    L2/I2.1c[i36.2.1 L2 O2 G3 
+0000020 500  NN2     companies                L2/I2.1c[i36.2.2 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
 0000020 501  .       .                        
 0000021 001  -----   -----                    
-0000022 010  NP1     Igor                     Z1mf[i36.2.1 Z3c[i36.2.1 
-0000022 020  NP1     Olenicoff                Z1mf[i36.2.2 Z3c[i36.2.2 
+0000022 010  NP1     Igor                     Z1mf[i37.2.1 Z3c[i37.2.1 
+0000022 020  NP1     Olenicoff                Z1mf[i37.2.2 Z3c[i37.2.2 
 0000022 021  ,       ,                        
 0000022 030  AT1     a                        Z5 
-0000022 040  NN1     property                 I1.2/A9+[i37.2.1 A9+ H1/H3 O4.1 
-0000022 050  NN1     billionaire              I1.2/A9+[i37.2.2 I1.1/S2mf 
+0000022 040  NN1     property                 I1.2/A9+[i38.2.1 A9+ H1/H3 O4.1 
+0000022 050  NN1     billionaire              I1.2/A9+[i38.2.2 I1.1/S2mf 
 0000022 060  II      in                       Z5 
 0000022 070  NP1     Florida                  Z2 
 0000022 071  ,       ,                        
@@ -516,8 +518,8 @@
 0000022 400  NNU     $200m                    N3.3 N3.7 
 0000022 410  II      in                       Z5 
 0000022 420  JJ      offshore                 M6 
-0000022 430  NN1     shell                    L2/I2.1c[i38.2.1 L2 O2 G3 
-0000022 440  NN2     companies                L2/I2.1c[i38.2.2 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
+0000022 430  NN1     shell                    L2/I2.1c[i39.2.1 L2 O2 G3 
+0000022 440  NN2     companies                L2/I2.1c[i39.2.2 I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
 0000022 441  .       .                        
 0000022 442  -----   -----                    
 0000022 450  II      In                       Z5 
@@ -550,8 +552,8 @@
 0000024 040  AT      the                      Z5 
 0000024 050  NN2     files                    O2/Q1.2 O2 Y2 S5+/N4 
 0000024 060  VBZ     is                       A3+ Z5 
-0000024 070  NP1     John                     Z1mf[i39.2.1 Z3c[i39.2.1 Z1m S9/O1.2 
-0000024 080  NP1     Michael                  Z1mf[i39.2.2 Z3c[i39.2.2 Z1m 
+0000024 070  NP1     John                     Z1mf[i40.2.1 Z3c[i40.2.1 Z1m S9/O1.2 
+0000024 080  NP1     Michael                  Z1mf[i40.2.2 Z3c[i40.2.2 Z1m 
 0000024 081  NULL    <quote>                  
 0000024 082  -----   -----                    
 0000024 090  NN1     Red                      O4.3 G1.2/S2mf 
@@ -568,7 +570,8 @@
 0000024 170  II      to                       Z5 
 0000024 180  NP1     Malta                    Z2 Z3c 
 0000024 190  CC      and                      Z5 
-0000024 200  NN1     Ive                      Z99 
+0000024 200  PPIS1   I                        Z8mf 
+0000024 201  VH0     've                      Z5 A9+ A2.2 
 0000024 210  VBN     Been                     Z5 A3+ 
 0000024 220  VVN     Arrested                 G2.1 
 0000024 221  ,       ,                        
@@ -600,8 +603,8 @@
 0000024 460  VVI     cheat                    G2.2-/A5.2- 
 0000024 470  AT      the                      Z5 
 0000024 480  NN1     IRS                      Z3 
-0000024 490  II21    out                      Z5[i40.2.1 Z5 Z5[i41.2.1 A9-[i41.2.1 
-0000024 500  II22    of                       Z5[i40.2.2 Z5[i41.2.2 A9-[i41.2.2 
+0000024 490  II21    out                      Z5[i41.2.1 Z5 Z5[i42.2.1 A9-[i42.2.1 
+0000024 500  II22    of                       Z5[i41.2.2 Z5[i42.2.2 A9-[i42.2.2 
 0000024 510  RR      roughly                  A13.4 E3- A4.2- 
 0000024 520  NNU     $10m                     N3.3 N3.7 
 0000024 530  II      in                       Z5 
@@ -609,9 +612,10 @@
 0000024 550  NN1     revenue                  G1.1/I1 I1.1+ Z3c 
 0000024 551  .       .                        
 0000025 001  -----   -----                    
-0000026 010  II21    According                Z5[i42.2.1 Z5 
-0000026 020  II22    to                       Z5[i42.2.2 Z5 
-0000026 030  NP1     McClatchys               Z99 
+0000026 010  II21    According                Z5[i43.2.1 Z5 
+0000026 020  II22    to                       Z5[i43.2.2 Z5 
+0000026 030  NP1     McClatchy                Z99 
+0000026 031  GE      's                       Z5 
 0000026 040  NN1     analysis                 X2.4 Y1 
 0000026 050  IO      of                       Z5 
 0000026 060  AT      the                      Z5 
@@ -625,8 +629,8 @@
 0000026 131  ,       ,                        
 0000026 140  EX      there                    Z5 
 0000026 150  VBR     are                      A3+ Z5 
-0000026 160  RR21    at                       A13.7[i43.2.1 
-0000026 170  RR22    least                    A13.7[i43.2.2 A13.7 
+0000026 160  RR21    at                       A13.7[i44.2.1 
+0000026 170  RR22    least                    A13.7[i44.2.2 A13.7 
 0000026 180  MC      200                      N1 T1.2 T3 T1.3 N3.2 
 0000026 190  VVD     scanned                  X3.4/N3.8+ X2.4/N3.8+ Y1/B3 Y2 Q3% 
 0000026 200  JJ      individual               N5- 
@@ -634,8 +638,8 @@
 0000026 220  NN2     passports                G1.1/Q1.2 
 0000026 230  II      in                       Z5 
 0000026 240  AT      the                      Z5 
-0000026 250  NP1     Mossack                  Z1mf[i44.2.1 Z3c[i44.2.1 
-0000026 260  NP1     Fonseca                  Z1mf[i44.2.2 Z3c[i44.2.2 
+0000026 250  NP1     Mossack                  Z1mf[i45.2.1 Z3c[i45.2.1 
+0000026 260  NP1     Fonseca                  Z1mf[i45.2.2 Z3c[i45.2.2 
 0000026 270  NN2     files                    O2/Q1.2 O2 Y2 S5+/N4 
 0000026 271  ,       ,                        
 0000026 280  CCB     but                      Z5 
@@ -660,8 +664,8 @@
 0000026 440  II      in                       Z5 
 0000026 450  NN2     places                   M7 H1 A1.2 P1 
 0000026 460  II      like                     Z5 
-0000026 470  NP1     Costa                    Z2[i46.2.1 Z1mf[i45.2.1 Z3c[i45.2.1 
-0000026 480  NP1     Rica                     Z2[i46.2.2 Z1mf[i45.2.2 Z3c[i45.2.2 
+0000026 470  NP1     Costa                    Z2[i47.2.1 Z1mf[i46.2.1 Z3c[i46.2.1 
+0000026 480  NP1     Rica                     Z2[i47.2.2 Z1mf[i46.2.2 Z3c[i46.2.2 
 0000026 490  CC      and                      Z5 
 0000026 500  NP1     Panama                   Z2 B5 
 0000026 501  ,       ,                        
@@ -687,8 +691,8 @@
 0000026 660  NN2     addresses                H4 Q2.2 
 0000026 661  .       .                        
 0000027 001  -----   -----                    
-0000028 010  NP1     Heather                  Z1mf[i47.2.1 Z3c[i47.2.1 Z1mf 
-0000028 020  NP1     Lowe                     Z1mf[i47.2.2 Z3c[i47.2.2 Z1mf 
+0000028 010  NP1     Heather                  Z1mf[i48.2.1 Z3c[i48.2.1 Z1mf 
+0000028 020  NP1     Lowe                     Z1mf[i48.2.2 Z3c[i48.2.2 Z1mf 
 0000028 021  ,       ,                        
 0000028 030  NN1     director                 S7.1+/S2mf K4/S2mf 
 0000028 040  IO      of                       Z5 
@@ -722,8 +726,8 @@
 0000028 280  NN2     companies                I2.1/S5+c S5+c G3/S5+c S3.1 K4/S5+c 
 0000028 290  CC      and                      Z5 
 0000028 300  CS      because                  Z5/A2.2 
-0000028 310  NP1     Mossack                  Z1mf[i48.2.1 Z3c[i48.2.1 
-0000028 320  NP1     Fonseca                  Z1mf[i48.2.2 Z3c[i48.2.2 
+0000028 310  NP1     Mossack                  Z1mf[i49.2.1 Z3c[i49.2.1 
+0000028 320  NP1     Fonseca                  Z1mf[i49.2.2 Z3c[i49.2.2 
 0000028 330  VHD     had                      A9+ Z5 A2.2 S4 
 0000028 340  DDQ     what                     Z8 Z5 
 0000028 350  VVZ     appears                  A8 A10+ A3+ G2.1 K4 Q4 

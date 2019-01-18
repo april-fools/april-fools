@@ -16,10 +16,11 @@
 0000002 131  ,       ,                        
 0000002 140  PPIS2   we                       Z8 
 0000002 150  RR      never                    T1/Z6 
-0000002 160  VVN     thought                  X2.1 
-0000002 170  VV0     wed                      S4 
+0000002 160  VVD     thought                  X2.1 
+0000002 170  PPIS2   we                       Z8 
+0000002 171  VM      'd                       A7+ 
 0000002 180  RR      ever                     T1.1 N6+++ A13 
-0000002 190  VV0     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000002 190  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
 0000002 200  AT1     an                       Z5 
 0000002 210  MF      1/8                      N5 
 0000002 220  NN1     scale                    N3.2 N4 A4.1 K2 L2 O2 I1.1/I3.1 O1.1 N3.1 
@@ -62,7 +63,8 @@
 0000002 561  !       !                        
 0000002 562  -----   -----                    
 0000002 570  CS      While                    Z5 
-0000002 580  NN1     theyre                   Z99 
+0000002 580  PPHS2   they                     Z8mfn 
+0000002 581  VBR     're                      Z5 A3+ 
 0000002 590  VVG     keeping                  A9+ N6+ T2++ A1.7+ A2.2 F4 S8+ H4 
 0000002 600  AT      the                      Z5 
 0000002 610  JJ      full                     N5.1+ I3.2+ 
@@ -80,7 +82,8 @@
 0000002 720  NP1     Pro-Line                 Z99 
 0000002 730  VV0     tell                     Q2.2 Q2.1 X3 A10+ 
 0000002 740  PPIO2   us                       Z8 
-0000002 750  APPGE   its                      Z8 
+0000002 750  PPH1    it                       Z8 
+0000002 751  VBZ     's                       A3+ Z5 
 0000002 760  AT1     an                       Z5 
 0000002 770  JJ      absolute                 A5.1+++ A1.7- 
 0000002 780  NN1     wheelie                  M3 
@@ -107,9 +110,11 @@
 0000002 970  NN1     horsepower               M3/N3.1 
 0000002 971  ,       ,                        
 0000002 980  PPIS2   we                       Z8 
-0000002 990  JJ      cant                     Q2.1 Z1mf Z1 
-0000002 000  NN1%    say                      S7.1+ Q2.1 
-0000002 010  VBDR    were                     A3+ Z5 
+0000002 990  VM      ca                       A7+ 
+0000002 991  XX      n't                      Z6 
+0000002 000  VVI     say                      Q2.1 Z4% 
+0000002 010  PPIS2   we                       Z8 
+0000002 011  VBR     're                      A3+ Z5 
 0000002 020  JJ      surprised                X2.6- 
 0000002 021  .       .                        
 0000002 022  -----   -----                    

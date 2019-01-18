@@ -14,9 +14,8 @@ FPS                      NP1     Z99
 gameroom                 NN1     Z99 
 GlobalVR                 NN1     Z99 
 H2Overdrive              FO      Z99 
-Im                       VV0     Z99 
 in-game                  NN1     Z99 
-Konamis                  NP1     Z99 
+Konami                   NP1     Z99 
 life-span                NN1     Z99 
 Multipler                NN1     Z99 
 on-screen                JJ      Z99 
@@ -32,4 +31,3 @@ smartphone               NN1     Z99
 smartphone.              NNU     Z99 
 trackball                NN1     Z99 
 Twitter                  NN1     Z99 
-wasnt                    NN1     Z99 

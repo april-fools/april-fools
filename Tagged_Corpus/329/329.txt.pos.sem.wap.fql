@@ -1,21 +1,20 @@
-TOTAL              446
+TOTAL              453
 the                  AT             40 
 of                   IO             26 
 a                    AT1            10 
 and                  CC              9 
-it                   PPH1            6 
+it                   PPH1            7 
 by                   II              6 
 at                   II              5 
 for                  IF              5 
 CERN                 NP1             5 
 been                 VBN             4 
 in                   II              4 
+was                  VBDZ            4 
 that                 CST             4 
 is                   VBZ             4 
 dark                 JJ              3 
-have                 VH0             3 
 particle             NN1             3 
-was                  VBDZ            3 
 incident             NN1             3 
 to                   II              3 
 when                 CS              3 
@@ -27,16 +26,18 @@ with                 IW              3
 physicist            NN1             2 
 years                NNT2            2 
 events               NN2             2 
+have                 VH0             2 
 world                NN1             2 
 until                CS              2 
 common               JJ              2 
 employees            NN2             2 
 some                 DD              2 
-were                 VBDR            2 
+'s                   GE              2 
 study                NN1             2 
 NSF                  NP1             2 
 experiment           NN1             2 
 Dr.                  NNB             2 
+Shoggoth             NP1             2 
 director             NN1             2 
 general              JJ              2 
 Rolf-Dieter_Heuer    NP1             2 
@@ -44,12 +45,14 @@ are                  VBR             2
 just                 RR              2 
 science              NN1             2 
 you                  PPY             2 
+'s                   VBZ             2 
 result               NN1             2 
 our                  APPGE           2 
 their                APPGE           2 
 ever                 RR              2 
 power                NN1             2 
 will                 VM              2 
+we                   PPIS2           2 
 risk                 NN1             1 
 over-simplifying     VVG             1 
 situation            NN1             1 
@@ -87,10 +90,11 @@ pattern              NN1             1
 uncovered            VVN             1 
 in_addition          RR21            1 
 concerns             NN2             1 
+were                 VBDR            1 
 voiced               VVN             1 
 became               VVD             1 
 apparent             JJ              1 
-users                NN2             1 
+user                 NN1             1 
 manual               NN1             1 
 large                JJ              1 
 Hadron_Collider      NP1             1 
@@ -109,7 +113,6 @@ comprehensive        JJ              1
 sparked              VVN             1 
 Damian               NP1             1 
 Unblinking           NP1             1 
-Shoggoth             NP1             1 
 PhD.                 NP1             1 
 occult               VV0             1 
 cosmology            NN1             1 
@@ -123,7 +126,6 @@ hearts               NN2             1
 three                MC              1 
 virgin               JJ              1 
 while                CS              1 
-Shoggoths            NP1             1 
 successfully         RR              1 
 demonstrated         VVN             1 
 effective            JJ              1 
@@ -155,7 +157,6 @@ beam                 NN1             1
 active               JJ              1 
 tend                 VV0             1 
 assume               VVI             1 
-its                  APPGE           1 
 unknown              JJ              1 
 mechanism            NN1             1 
 metal                NN1             1 
@@ -211,7 +212,7 @@ violent              JJ              1
 violations           NN2             1 
 natural              JJ              1 
 order                NN1             1 
-wasnt                VV0             1 
+n't                  XX              1 
 capable              JJ              1 
 giga-electronvolt    JJ              1 
 came_into            VVD             1 
@@ -245,6 +246,7 @@ age                  NN1             1
 torment              NN1             1 
 said                 VVD             1 
 Heuer                NP1             1 
+'re                  VBR             1 
 living               VVG             1 
 dawning              NN1             1 
 new_age              JJ              1 
@@ -255,7 +257,8 @@ darkness             NN1             1
 any                  DD              1 
 luck                 NN1             1 
 2013                 MC              1 
-well                 RR              1 
+'ll                  VM              1 
+have                 VHI             1 
 confirmed            VVN             1 
 or                   CC              1 
 discomfirmed         VVD             1 
@@ -273,8 +276,8 @@ fundamental          JJ              1
 research             NN1             1 
 i_suppose            PPIS1           1 
 time                 NNT1            1 
-whats                NN2             1 
-let                  VV0             1 
+what                 DDQ             1 
+let                  VVN             1 
 tell                 VVI             1 
 joy                  NN1             1 
 surprise             NN1             1 

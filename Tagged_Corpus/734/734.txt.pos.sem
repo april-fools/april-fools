@@ -308,7 +308,8 @@
 0000028 020  VBZ     is                       A3+ Z5 
 0000028 030  RR      also                     N5++ 
 0000028 040  AT      the                      Z5 
-0000028 050  NN2     colleges                 P1/H1c 
+0000028 050  NN1     college                  P1/H1c 
+0000028 051  GE      's                       Z5 
 0000028 060  NN1     Football                 K5.2 
 0000028 070  NN1     Academy                  P1c 
 0000028 080  NN1     ambassador               G1.1/S2mf S1.1.1/S2mf 
@@ -339,7 +340,8 @@
 0000030 180  AT      the                      Z5 
 0000030 190  NN2     acoustics                X3.2 K2 
 0000030 200  CC      and                      Z5 
-0000030 210  NN2     theres                   Z5 M6 T1.2 
+0000030 210  EX      there                    Z5 
+0000030 211  VBZ     's                       A3+ Z5 
 0000030 220  AT      no                       Z6 
 0000030 230  NN1     echo                     X3.2 
 0000030 240  II31    in                       Z5[i26.3.1 Z5 
@@ -372,7 +374,8 @@
 0000030 470  JJ      white                    O4.3 G2.2+ 
 0000030 480  NN1     background               T1.1.1 A2.2 M6 S1.1.1 P1 A11.1- A1.8- 
 0000030 490  CC      and                      Z5 
-0000030 500  NN2     theres                   Z5 M6 T1.2 
+0000030 500  EX      there                    Z5 
+0000030 501  VBZ     's                       A3+ Z5 
 0000030 510  AT      no                       Z6 
 0000030 520  NN1     glare                    E3-/X3.4 W2 X5.1+ 
 0000030 530  II      from                     Z5 
@@ -388,7 +391,8 @@
 0000032 040  TO      to                       Z5 
 0000032 050  VVI     become                   A2.1+ O4.2+ 
 0000032 060  AT      the                      Z5 
-0000032 070  NP2     UKs                      Z2 
+0000032 070  NP1     UK                       Z2 
+0000032 071  GE      's                       Z5 
 0000032 080  NN1     Centre                   M6 H1c M7c G1.2c K5.1mfn 
 0000032 090  IO      of                       Z5 
 0000032 100  NN1     Excellence               A5.1+++ 

@@ -1,4 +1,4 @@
-TOTAL              630
+TOTAL              631
 the                  Z5                  34 
 annihilation         A1.1.2              23 
 total                Z3                  20 
@@ -45,6 +45,7 @@ news                 X2.2+                2
 's                   Z5                   2 
 true                 A5.2+                2 
 that                 Z8                   2 
+they                 Z8                   2 
 year                 T1.3                 2 
 war                  G3                   2 
 award-winning        A9+                  2 
@@ -92,7 +93,6 @@ efforts              X8+                  1
 create               A1.1.1               1 
 company              I2.1                 1 
 recently             T3---                1 
-they                 Z8                   1 
 releasing            A1.7-                1 
 ta2                  Z99                  1 
 August               T1.3                 1 
@@ -154,7 +154,7 @@ innovation           T3-                  1
 strategy             X7+                  1 
 designed             C1                   1 
 answers              Q2.2                 1 
-theyve               Z99                  1 
+'ve                  Z5                   1 
 looking_for          X2.4                 1 
 said                 Q2.1                 1 
 SangYoun_Lee         Z1                   1 

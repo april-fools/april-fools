@@ -152,7 +152,8 @@
 0000008 160  VVG     thinking                 X2.1 
 0000008 170  CST     that                     Z8 Z5 
 0000008 180  CS@     providing                Z7 
-0000008 190  NP1     Im                       Z99 
+0000008 190  PPIS1   I                        Z8mf 
+0000008 191  VBM     'm                       A3+ Z5 
 0000008 200  JJ      super-careful            Z99 
 0000008 210  CC      and                      Z5 
 0000008 220  VV0     keep                     X3.4[i4.4.1 A9+ N6+ T2++ A1.7+ A2.2 F4 S8+ H4 

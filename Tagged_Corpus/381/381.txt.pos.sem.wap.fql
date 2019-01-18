@@ -1,4 +1,4 @@
-TOTAL              298
+TOTAL              303
 the                  AT             18 
 a                    AT1            10 
 race                 NN1             7 
@@ -6,11 +6,13 @@ and                  CC              7
 to                   TO              6 
 be                   VBI             6 
 in                   II              5 
+zoo                  NN1             5 
 piggyback            NN1             5 
+'s                   GE              5 
 have                 VH0             4 
 has                  VHZ             3 
 from                 II              3 
-zoos                 NN2             3 
+Gerald               NP1             3 
 was                  VBDZ            3 
 also                 RR              3 
 is                   VBZ             3 
@@ -24,9 +26,7 @@ book                 NN1             3
 with                 IW              3 
 rhino                NN              2 
 been                 VBN             2 
-zoo                  NN1             2 
 named                VVN             2 
-Geralds              NP2             2 
 seems                VVZ             2 
 after                II              2 
 by                   II              2 
@@ -49,7 +49,6 @@ thorough             JJ              1
 investigation        NN1             1 
 veterinary           JJ              1 
 staff                NN              1 
-Gerald               NP1             1 
 given                VVN             1 
 clean                JJ              1 
 bill_of_health       NN1             1 

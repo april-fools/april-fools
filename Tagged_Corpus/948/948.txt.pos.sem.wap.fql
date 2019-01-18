@@ -35,8 +35,8 @@ for                  IF              3
 designed             VVN             3 
 twitter              NN1             3 
 at                   II              3 
-last                 MD              2 
-weeks                NNT2            2 
+last_week            MD              2 
+'s                   GE              2 
 in-cosmetics         NN2             2 
 really               RR              2 
 bought               VVN             2 

@@ -1,4 +1,4 @@
-TOTAL              772
+TOTAL              774
 the                  Z5                  62 
 a                    Z5                  26 
 and                  Z5                  25 
@@ -22,11 +22,11 @@ news                 X2.2+                6
 released             A1.7-                6 
 on                   Z5                   6 
 group                S5+                  6 
+it                   Z8                   6 
 an                   Z5                   6 
 2007                 N1                   5 
 staff                I3.1                 5 
 was                  Z5                   5 
-it                   Z8                   5 
 from                 Z5                   5 
 incident             A3+                  5 
 were                 Z5                   5 
@@ -236,7 +236,7 @@ continued            T2++                 1
 circle               M1                   1 
 overhead             M6                   1 
 well                 A5.1+                1 
-its                  Z8                   1 
+'s                   A3+                  1 
 fault                A5.3-                1 
 bringing             M2                   1 
 kids                 S2                   1 
@@ -244,6 +244,7 @@ battle               X8+                  1
 attacked             E3-                  1 
 **25;33;toolong      Z99                  1 
 David_Schlesinger    Z1                   1 
+'                    Z5                   1 
 editor-in-chief      Q4                   1 
 deaths               L1-                  1 
 Chmagh               Z99                  1 

@@ -1,9 +1,9 @@
 Angell                   NN1     Z99 
 Angell                   NP1     Z99 
-Angells                  NP1@    Z99 
-Angells                  VVZ@    Z99 
+Angell                   NP1@    Z99 
 Aquilonia                NP1     Z99 
 Aquilonian               JJ      Z99 
+Aquilonian               NN1@    Z99 
 Aquilonians              NN2     Z99 
 Aryas                    NP2     Z99 
 Asgard                   NN1     Z99 
@@ -15,11 +15,10 @@ Cimmeria                 NP1     Z99
 Cimmerian                JJ      Z99 
 Cimmerian                NN1@    Z99 
 Conan                    NP1     Z99 
-Conans                   NP2     Z99 
 Crom                     NP1     Z99 
 Darcian                  JJ      Z99 
 Darcian                  NN1     Z99 
-Darcians                 NN2     Z99 
+Darcian                  NP1@    Z99 
 emeritus                 JJ      Z99 
 featuresso               NN1     Z99 
 forbearer                NN1     Z99 
@@ -31,7 +30,7 @@ landsall                 NN1     Z99
 long-cherished           JJ      Z99 
 marauding                JJ      Z99 
 naturalistic             JJ      Z99 
-Numas                    NP2     Z99 
+Numa                     NP1     Z99 
 Numedides                NN2     Z99 
 pecs                     NN2     Z99 
 Picts                    NN2     Z99 

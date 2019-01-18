@@ -1,4 +1,4 @@
-TOTAL              573
+TOTAL              577
 the                  Z5                  36 
 to                   Z5                  17 
 and                  Z5                  17 
@@ -11,8 +11,8 @@ in                   Z5                   9
 civil_rights         G1.2                 9 
 he                   Z8                   7 
 Freeh                Z99                  6 
+Jeff                 Z1                   6 
 with                 Z5                   5 
-Jeff                 Z1                   5 
 as                   Z5                   5 
 has                  Z5                   5 
 i                    Z8                   5 
@@ -20,6 +20,7 @@ said                 Q2.1                 5
 who                  Z8                   4 
 on                   Z5                   4 
 against              Z5                   4 
+'s                   Z5                   3 
 under                Z5                   3 
 attorney_general     S7.1+                3 
 have                 Z5                   3 
@@ -30,11 +31,11 @@ expressed            Q1.1                 3
 that                 Z8                   3 
 was                  A3+                  3 
 lawyer               G2.1                 3 
+'                    Z5                   3 
 murders              L1-                  3 
 an                   Z5                   3 
 act                  A1.1.1               3 
 support              S8+                  2 
-trumps               K5.2                 2 
 pick                 X7+                  2 
 is                   A3+                  2 
 FBI                  Z99                  2 
@@ -87,7 +88,7 @@ used                 A1.5.1               2
 voted                G1.2                 2 
 campaign             X7+                  1 
 rally                S1.1.1               1 
-Donald               Z1                   1 
+Donald_trump         Z1                   1 
 head                 S7.1+                1 
 justice_department   G2.1+                1 
 growing              N3.2+                1 
@@ -141,6 +142,7 @@ about                Z5                   1
 civil                G1.1                 1 
 after                Z5                   1 
 announced            Q2.2                 1 
+trump                Z1                   1 
 top                  M6                   1 
 democrats            Z3                   1 
 groups               S5+                  1 
@@ -200,7 +202,6 @@ naacp                Z99                  1
 official             G1.1                 1 
 Georgia              Z2                   1 
 struck               I3.1                 1 
-Jeffs                Z1                   1 
 fierce               E3-                  1 
 determination        X6+                  1 
 solve                X9.2+                1 
@@ -231,7 +232,6 @@ created              A1.1.1               1
 entire               N5.1+                1 
 devoted              A9-                  1 
 pushing              M2                   1 
-'                    Z5                   1 
 world-class          A5.1+++              1 
 mind                 X1                   1 
 tough                S1.2.5+              1 

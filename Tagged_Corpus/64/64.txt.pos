@@ -209,7 +209,8 @@
 0000006 150 Mexico                                      93 NP1
 0000006 151 ,                                           03 ,
 0000006 160 the                                         93 AT
-0000006 170 worlds                                      03 NN2
+0000006 170 world                     >                 93 NN1
+0000006 171 's                        <                 03 [GE/91] VBZ/9 VHZ@/0
 0000006 180 largest                                     93 JJT
 0000006 190 Spanish                                     93 [JJ/88] NN1@/12
 0000006 200 speaking                                    93 [JJ@/50] NN1@/36 VVG/14
@@ -236,7 +237,8 @@
 0000006 362 ----------------------------------------------------
 0000006 370 Representatives                             93 NN2
 0000006 380 from                                        93 II
-0000006 390 Mexicos                                     04 NP2
+0000006 390 Mexico                    >                 93 NP1
+0000006 391 's                        <                 03 [GE/90] VBZ/10 VHZ@/0
 0000006 400 National                                    93 JJ
 0000006 410 Autonomous                                  93 JJ
 0000006 420 University                                  93 NN1
@@ -263,9 +265,10 @@
 0000006 590 note                                        97 VVI
 0000006 600 that                                        97 [CST/100] DD1@/0
 0000006 610 they                                        93 PPHS2
-0000006 620 werent                                      06 [JJ/48] NN1/52
-0000006 630 included                                    93 [VVN/62] VVD/37 JJ%/1
-0000006 640 in                                          93 [II/95] RP@/5
+0000006 620 were                      >                 93 VBDR
+0000006 621 n't                       <                 03 XX
+0000006 630 included                                    93 [VVN/100] VVD/0 JJ%/0
+0000006 640 in                                          93 [II/98] RP@/2
 0000006 650 the                                         93 AT
 0000006 660 original                                    03 [JJ/98] NN1@/2
 0000006 670 discussions                                 03 NN2

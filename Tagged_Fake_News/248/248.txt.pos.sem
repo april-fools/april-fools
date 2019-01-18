@@ -63,7 +63,8 @@
 0000004 290  NN2     futures                  T1.1.3 
 0000004 300  NN2     markets                  I2.2 I2.2/H1 
 0000004 310  VV0     say                      Q2.1 Z4% 
-0000004 320  NN2     theres                   Z5 M6 T1.2 
+0000004 320  EX      there                    Z5 
+0000004 321  VBZ     's                       A3+ Z5 
 0000004 330  AT1     a                        Z5 
 0000004 340  NNU     93%                      N5 
 0000004 350  NN1     chance                   A1.4 A7+ 
@@ -76,8 +77,9 @@
 0000006 010  RR      Meanwhile                T1.1.2 
 0000006 011  ,       ,                        
 0000006 020  NNB     President-elect          G1.1/S7.1+/S2mf 
-0000006 030  NP1     Donald                   Z1mf 
-0000006 040  VVZ     Trumps                   K5.2 
+0000006 030  NP1     Donald                   Z1mf[i5.2.1 Z3c[i5.2.1 Z1mf 
+0000006 040  NN1     Trump                    Z1mf[i5.2.2 Z3c[i5.2.2 Z1mf 
+0000006 041  GE      's                       Z5 
 0000006 050  JJ      fiscal                   I1/G1.1 I1 
 0000006 060  NN1     stimulus                 A2.2 X5.2+ 
 0000006 070  NN2     proposals                Q2.2 X7+ S3.2/Q2.2 
@@ -117,7 +119,7 @@
 0000008 021  ,       ,                        
 0000008 030  NN2     economists               I2.1/S2mf 
 0000008 040  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
-0000008 041  XX      nt                       S9/Q4.1 Z3c 
+0000008 041  XX      n't                      Z6 
 0000008 050  VVI     expect                   X2.6+ B1 
 0000008 060  VVN     Fed                      F1 A9- S8+ M2@ 
 0000008 070  NN2     policymakers             Z99 
@@ -136,13 +138,13 @@
 0000008 200  VVZ     increases                N5+/A2.1 
 0000008 210  II      over                     Z5 
 0000008 220  AT      the                      Z5 
-0000008 230  MD      next                     T1.1.3[i5.3.1 N4 
-0000008 240  DA2     few                      T1.1.3[i5.3.2 N5- 
-0000008 250  NNT2    years                    T1.1.3[i5.3.3 T1.3 
+0000008 230  MD      next                     T1.1.3[i6.3.1 N4 
+0000008 240  DA2     few                      T1.1.3[i6.3.2 N5- 
+0000008 250  NNT2    years                    T1.1.3[i6.3.3 T1.3 
 0000008 251  .       .                        
 0000008 252  -----   -----                    
-0000008 260  RR21    Even                     Z5[i6.2.1 A13.1 
-0000008 270  RR22    so                       Z5[i6.2.2 Z5 A13.3 
+0000008 260  RR21    Even                     Z5[i7.2.1 A13.1 
+0000008 270  RR22    so                       Z5[i7.2.2 Z5 A13.3 
 0000008 271  ,       ,                        
 0000008 280  IW      with                     Z5 
 0000008 290  NN1     unemployment             I3.1- 
@@ -151,15 +153,15 @@
 0000008 320  CC      and                      Z5 
 0000008 330  NN1     inflation                I1.3+ 
 0000008 340  RR      finally                  N4 
-0000008 350  VVG     picking                  M2[i7.2.1 A9+[i7.2.1 X3[i7.2.1 X2.3+[i7.2.1 A5.1+/A2.1[i7.2.1 A10+[i7.2.1 S3.2[i7.2.1 T2+[i7.2.1 I2.2[i7.2.1 M3fn[i7.2.1 G2.1[i7.2.1 X7+ A1.1.1 F4 
-0000008 360  RP      up                       M2[i7.2.2 A9+[i7.2.2 X3[i7.2.2 X2.3+[i7.2.2 A5.1+/A2.1[i7.2.2 A10+[i7.2.2 S3.2[i7.2.2 T2+[i7.2.2 I2.2[i7.2.2 M3fn[i7.2.2 G2.1[i7.2.2 
+0000008 350  VVG     picking                  M2[i8.2.1 A9+[i8.2.1 X3[i8.2.1 X2.3+[i8.2.1 A5.1+/A2.1[i8.2.1 A10+[i8.2.1 S3.2[i8.2.1 T2+[i8.2.1 I2.2[i8.2.1 M3fn[i8.2.1 G2.1[i8.2.1 X7+ A1.1.1 F4 
+0000008 360  RP      up                       M2[i8.2.2 A9+[i8.2.2 X3[i8.2.2 X2.3+[i8.2.2 A5.1+/A2.1[i8.2.2 A10+[i8.2.2 S3.2[i8.2.2 T2+[i8.2.2 I2.2[i8.2.2 M3fn[i8.2.2 G2.1[i8.2.2 
 0000008 361  ,       ,                        
 0000008 370  VVD     Fed                      F1 A9- S8+ M2@ 
 0000008 380  NN2     officials                G1.1/S2mf S7.1+/S2mf 
 0000008 390  JJ      likely                   A7+ A1.2+ 
 0000008 400  VBR     are                      A3+ Z5 
-0000008 410  RR21    no                       T2-[i8.2.1 Z6 
-0000008 420  RR22    longer                   T2-[i8.2.2 T1.3++ 
+0000008 410  RR21    no                       T2-[i9.2.1 Z6 
+0000008 420  RR22    longer                   T2-[i9.2.2 T1.3++ 
 0000008 430  JJ      inclined                 X7+ A8 O4.4 
 0000008 440  TO      to                       Z5 
 0000008 450  VVI     call                     Q2.2 S1.1.1 Q1.3 S9% 
@@ -184,8 +186,8 @@
 0000008 630  NNT1    year                     T1.3 P1c 
 0000008 640  II      amid                     Z5 
 0000008 650  NN2     headwinds                Z99 
-0000008 660  II21    such                     Z5[i9.2.1 
-0000008 670  II22    as                       Z5[i9.2.2 Z5 
+0000008 660  II21    such                     Z5[i10.2.1 
+0000008 670  II22    as                       Z5[i10.2.2 Z5 
 0000008 680  JJ      weak                     S1.2.5- O4.1 S7.1- A5.1- 
 0000008 690  NN1     productivity             I2.1/N5+ 
 0000008 700  NN1     growth                   N3.2+/A2.1 A5.1+/A2.1 L3 B2- 
@@ -207,13 +209,13 @@
 0000011 110  NN1     inflation                I1.3+ 
 0000011 111  ,       ,                        
 0000011 120  VVZ     says                     Q2.1 
-0000011 130  NP1     Tim                      Z1mf[i10.2.1 Z3c[i10.2.1 Z1m 
-0000011 140  NP1     Duy                      Z1mf[i10.2.2 Z3c[i10.2.2 
+0000011 130  NP1     Tim                      Z1mf[i11.2.1 Z3c[i11.2.1 Z1m 
+0000011 140  NP1     Duy                      Z1mf[i11.2.2 Z3c[i11.2.2 
 0000011 141  ,       ,                        
 0000011 150  AT1     a                        Z5 
-0000011 160  NN1     University               Z3c[i11.3.1 P1/H1c 
-0000011 170  IO      of                       Z3c[i11.3.2 Z5 
-0000011 180  NP1     Oregon                   Z3c[i11.3.3 Z2 
+0000011 160  NN1     University               Z3c[i12.3.1 P1/H1c 
+0000011 170  IO      of                       Z3c[i12.3.2 Z5 
+0000011 180  NP1     Oregon                   Z3c[i12.3.3 Z2 
 0000011 190  NN1     economics                I1c 
 0000011 200  NN1     professor                P1/S2mf 
 0000011 210  CC      and                      Z5 
@@ -257,7 +259,8 @@
 0000013 130  NNT1    month                    T1.3 
 0000013 131  .       .                        
 0000013 132  -----   -----                    
-0000013 140  NN2     Thats                    Z5 Z8 A13.3 A6.1+ 
+0000013 140  DD1     That                     Z8 Z5 
+0000013 141  VBZ     's                       A3+ Z5 
 0000013 150  RR      already                  T1.1.1 
 0000013 160  II      below                    Z5 
 0000013 170  AT      the                      Z5 
@@ -301,8 +304,8 @@
 0000013 510  JJ      Low                      N3.7- N5- A5.1- A11.1- E4.1- X3.2- G2.2- S7.1- 
 0000013 520  NN1     unemployment             I3.1- 
 0000013 530  RR      typically                A6.2+ A4.2+ 
-0000013 540  VVZ     pushes                   N5+/A2.2[i12.2.1 M2[i12.2.1 M2 M1 S7.1+ X8+ I2.2 F3 I3.1- 
-0000013 550  RP      up                       N5+/A2.2[i12.2.2 M2[i12.2.2 
+0000013 540  VVZ     pushes                   N5+/A2.2[i13.2.1 M2[i13.2.1 M2 M1 S7.1+ X8+ I2.2 F3 I3.1- 
+0000013 550  RP      up                       N5+/A2.2[i13.2.2 M2[i13.2.2 
 0000013 560  NN2     wages                    I1.1/I3.1 
 0000013 570  CSA     as                       Z5 
 0000013 580  NN2     employers                I3.1/S2mf 
@@ -329,7 +332,7 @@
 0000014 001  -----   -----                    
 0000015 010  DD1     That                     Z8 Z5 
 0000015 020  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
-0000015 021  XX      nt                       S9/Q4.1 Z3c 
+0000015 021  XX      n't                      Z6 
 0000015 030  VVI     mean                     Q1.1 X7+ 
 0000015 040  RR      persistently             T2++ 
 0000015 050  JJ      low                      N3.7- N5- A5.1- A11.1- E4.1- X3.2- G2.2- S7.1- 
@@ -364,11 +367,13 @@
 0000015 340  NN2     prices                   I1.3 
 0000015 350  VVD     faded                    O4.3 A10- N5-/A2.1 
 0000015 351  ,       ,                        
-0000015 360  VVZ     thats                    Z5 Z8 A13.3 A6.1+ 
+0000015 360  DD1     that                     Z8 Z5 
+0000015 361  VBZ     's                       A3+ Z5 
 0000015 370  RR      well                     A5.1+ A13.3 A7+ B2+ Z4 
 0000015 380  II      below                    Z5 
 0000015 390  AT      the                      Z5 
-0000015 400  NP1     Feds                     F1 A9- S8+ M2@ 
+0000015 400  VVN     Fed                      F1 A9- S8+ M2@ 
+0000015 401  VBZ     's                       A3+ Z5 
 0000015 410  NNU     2%                       N5 
 0000015 420  NN1     target                   X7+ G3 K5.1 
 0000015 421  .       .                        
@@ -380,8 +385,8 @@
 0000017 040  AT      the                      Z5 
 0000017 050  JJT     fastest                  N3.8+++ 
 0000017 060  NN1     pace                     N3.8 N3.3 
-0000017 070  II      in                       A2.1+[i13.2.1 Z5 
-0000017 080  MC      two                      A2.1+[i13.2.2 N1 T3 T1.2 
+0000017 070  II      in                       A2.1+[i14.2.1 Z5 
+0000017 080  MC      two                      A2.1+[i14.2.2 N1 T3 T1.2 
 0000017 090  NNT2    years                    T1.3 
 0000017 091  .       .                        
 0000017 092  -----   -----                    
@@ -413,8 +418,8 @@
 0000017 341  ,       ,                        
 0000017 350  NP1     Barclays                 Z3c Z1mf 
 0000017 360  NN1     economist                I2.1/S2mf 
-0000017 370  NP1     Michael                  Z1mf[i14.2.1 Z3c[i14.2.1 Z1m 
-0000017 380  NP1     Gapen                    Z1mf[i14.2.2 Z3c[i14.2.2 
+0000017 370  NP1     Michael                  Z1mf[i15.2.1 Z3c[i15.2.1 Z1m 
+0000017 380  NP1     Gapen                    Z1mf[i15.2.2 Z3c[i15.2.2 
 0000017 390  VVD     wrote                    Q1.2 I2.1 
 0000017 400  II      in                       Z5 
 0000017 410  AT1     a                        Z5 
@@ -428,8 +433,8 @@
 0000019 021  ,       ,                        
 0000019 030  VVD     Fed                      F1 A9- S8+ M2@ 
 0000019 040  NN1     Chair                    H5 S7.1+mf P1 
-0000019 050  NP1     Janet                    Z1mf[i15.2.1 Z3c[i15.2.1 Z1f 
-0000019 060  NP1     Yellen                   Z1mf[i15.2.2 Z3c[i15.2.2 
+0000019 050  NP1     Janet                    Z1mf[i16.2.1 Z3c[i16.2.1 Z1f 
+0000019 060  NP1     Yellen                   Z1mf[i16.2.2 Z3c[i16.2.2 
 0000019 070  VVD     noted                    Q2.1 Q1.2 
 0000019 080  CST     that                     Z8 Z5 
 0000019 090  VVD     discouraged              S8- 
@@ -486,8 +491,8 @@
 0000019 560  DD1     this                     M6 Z5 Z8 
 0000019 570  NNT1    week                     T1.3 
 0000019 580  CC      and                      Z5 
-0000019 590  VVI     stick                    A2.1-[i16.2.1 S5+[i16.2.1 M2 A1.1.1 A1.7+ A2.1- T2++ E2+ A9+% 
-0000019 600  IW      with                     A2.1-[i16.2.2 S5+[i16.2.2 Z5 
+0000019 590  VVI     stick                    A2.1-[i17.2.1 S5+[i17.2.1 M2 A1.1.1 A1.7+ A2.1- T2++ E2+ A9+% 
+0000019 600  IW      with                     A2.1-[i17.2.2 S5+[i17.2.2 Z5 
 0000019 610  APPGE   its                      Z8 
 0000019 620  JJ      previous                 N4 
 0000019 630  NN1     forecast                 Q2.2/T1.1.3 X2.6+ 
@@ -495,8 +500,8 @@
 0000019 650  MC      two                      N1 T3 T1.2 
 0000019 660  NN1     rate                     N3.8 N5 I1.3 
 0000019 670  NN2     hikes                    M1 I1.3+/A2.1 
-0000019 680  MD      next                     T1.1.3[i18.2.1 N4 T1.3[i17.2.1 P1/S2mf[i17.2.1 
-0000019 690  NNT1    year                     T1.1.3[i18.2.2 T1.3 P1c T1.3[i17.2.2 P1/S2mf[i17.2.2 
+0000019 680  MD      next                     T1.1.3[i19.2.1 N4 T1.3[i18.2.1 P1/S2mf[i18.2.1 
+0000019 690  NNT1    year                     T1.1.3[i19.2.2 T1.3 P1c T1.3[i18.2.2 P1/S2mf[i18.2.2 
 0000019 700  CC      and                      Z5 
 0000019 710  MC      three                    N1 T1.2 T3 
 0000019 720  II      in                       Z5 
@@ -523,8 +528,8 @@
 0000021 160  NP1     JPMorgan                 Z99 
 0000021 170  NN1     Chase                    M1 
 0000021 180  NN1     economist                I2.1/S2mf 
-0000021 190  NP1     Michael                  Z1mf[i19.2.1 Z3c[i19.2.1 Z1m 
-0000021 200  NP1     Feroli                   Z1mf[i19.2.2 Z3c[i19.2.2 
+0000021 190  NP1     Michael                  Z1mf[i20.2.1 Z3c[i20.2.1 Z1m 
+0000021 200  NP1     Feroli                   Z1mf[i20.2.2 Z3c[i20.2.2 
 0000021 201  .       .                        
 0000021 202  -----   -----                    
 0000021 210  AT      The                      Z5 
@@ -537,10 +542,11 @@
 0000021 280  RRR     earlier                  N4 T1.1.1 T4++ 
 0000021 290  DD1     this                     M6 Z5 Z8 
 0000021 300  NNT1    year                     T1.3 P1c 
-0000021 310  II31    in                       A2.2[i20.3.1 Z5 
-0000021 320  II32    response                 A2.2[i20.3.2 
-0000021 330  II33    to                       A2.2[i20.3.3 Z5 
-0000021 340  NP2     Chinas                   Z2 
+0000021 310  II31    in                       A2.2[i21.3.1 Z5 
+0000021 320  II32    response                 A2.2[i21.3.2 
+0000021 330  II33    to                       A2.2[i21.3.3 Z5 
+0000021 340  NP1     China                    Z2 
+0000021 341  GE      's                       Z5 
 0000021 350  NN1     slowdown                 N3.8- G1.2 
 0000021 360  CC      and                      Z5 
 0000021 370  AT1     a                        Z5 
@@ -570,7 +576,8 @@
 0000023 130  TO      to                       Z5 
 0000023 140  VVI     upgrade                  A11.1+/A2.1 A5.1+/A2.1 
 0000023 150  AT      the                      Z5 
-0000023 160  NN2     nations                  G1.1c S5+c 
+0000023 160  NN1     nation                   G1.1c S5+c 
+0000023 161  GE      's                       Z5 
 0000023 170  NN1     infrastructure           I2.1/S8+ 
 0000023 180  CC      and                      Z5 
 0000023 190  JJ      sharp                    O4.4 A10+ X9.1+ X5.1+ N3.8+ B2- X3.1 E3- A5.3+ A5.1+ T4 
@@ -583,8 +590,8 @@
 0000023 250  CST     that                     Z8 Z5 
 0000023 251  ,       ,                        
 0000023 260  CS      if                       Z7 
-0000023 270  VVN     passed                   M1[i21.2.1 A1.9[i21.2.1 M1 A9- M2 K5.1 T1.3 T2- X9.2+ N5.2+ S7.4+ A5.4+/A8 
-0000023 280  II      by                       M1[i21.2.2 A1.9[i21.2.2 Z5 
+0000023 270  VVN     passed                   M1[i22.2.1 A1.9[i22.2.1 M1 A9- M2 K5.1 T1.3 T2- X9.2+ N5.2+ S7.4+ A5.4+/A8 
+0000023 280  II      by                       M1[i22.2.2 A1.9[i22.2.2 Z5 
 0000023 290  NN1     Congress                 Z3c 
 0000023 291  ,       ,                        
 0000023 300  VM      could                    A7+ 
@@ -603,10 +610,11 @@
 0000024 001  -----   -----                    
 0000025 010  CCB     But                      Z5 
 0000025 011  ,       ,                        
-0000025 020  APPGE   Its                      Z8 
+0000025 020  PPH1    It                       Z8 
+0000025 021  VBZ     's                       A3+ Z5 
 0000025 030  RR      probably                 A7+ 
 0000025 040  RG      too                      N5.2+ A13.3 
-0000025 050  RR      early                    T4+ 
+0000025 050  JJ      early                    T4+ T1.1.1 
 0000025 060  IF      for                      Z5 
 0000025 070  AT      the                      Z5 
 0000025 080  VVN     Fed                      F1 A9- S8+ M2@ 
@@ -624,7 +632,8 @@
 0000025 190  VVZ     says                     Q2.1 
 0000025 191  .       .                        
 0000025 192  -----   -----                    
-0000025 200  APPGE   Its                      Z8 
+0000025 200  PPH1    It                       Z8 
+0000025 201  VBZ     's                       A3+ Z5 
 0000025 210  RR      similarly                A6.1+ 
 0000025 220  RG      too                      N5.2+ A13.3 
 0000025 230  RR      soon                     T1.1.3/N3.8+ 
@@ -638,16 +647,17 @@
 0000025 290  JJ      economic                 I1.3- I2.1 
 0000025 300  NN1     fallout                  E3- G3 
 0000025 310  II      from                     Z5 
-0000025 320  NN2     Trumps                   K5.2 S7.1+ 
+0000025 320  NN1     Trump                    Z1mf 
+0000025 321  GE      's                       Z5 
 0000025 330  JJ      restrictive              A1.7+ 
 0000025 340  NN1     trade                    I2.2 I2.1 I3.1 I2.2/N5 
 0000025 350  NN2     proposals                Q2.2 X7+ S3.2/Q2.2 
 0000025 351  .       .                        
 0000026 001  -----   -----                    
-0000027 010  II      On                       Z4[i22.4.1 Z5 
-0000027 020  AT      the                      Z4[i22.4.2 Z5 
-0000027 030  JJ      other                    Z4[i22.4.3 A6.1- 
-0000027 040  NN1     hand                     Z4[i22.4.4 B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf 
+0000027 010  II      On                       Z4[i23.4.1 Z5 
+0000027 020  AT      the                      Z4[i23.4.2 Z5 
+0000027 030  JJ      other                    Z4[i23.4.3 A6.1- 
+0000027 040  NN1     hand                     Z4[i23.4.4 B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf 
 0000027 041  ,       ,                        
 0000027 050  AT      the                      Z5 
 0000027 060  NN1     prospect                 A7+ X2.6+ X3.4 
@@ -669,11 +679,11 @@
 0000027 220  AT      the                      Z5 
 0000027 230  NNU1    dollar                   I1 
 0000027 240  CC      and                      Z5 
-0000027 250  VVN     pushed                   N5+/A2.2[i23.2.1 M2[i23.2.1 M2 M1 S7.1+ X8+ I2.2 F3 I3.1- 
-0000027 260  RP      up                       N5+/A2.2[i23.2.2 M2[i23.2.2 
+0000027 250  VVN     pushed                   N5+/A2.2[i24.2.1 M2[i24.2.1 M2 M1 S7.1+ X8+ I2.2 F3 I3.1- 
+0000027 260  RP      up                       N5+/A2.2[i24.2.2 M2[i24.2.2 
 0000027 270  JJ      long-term                T1.3+ 
-0000027 280  NN1     interest                 I1[i24.2.1 X5.2+ I1.1 S8+ S1.1.3+ 
-0000027 290  NN2     rates                    I1[i24.2.2 N3.8 N5 I1.3 
+0000027 280  NN1     interest                 I1[i25.2.1 X5.2+ I1.1 S8+ S1.1.3+ 
+0000027 290  NN2     rates                    I1[i25.2.2 N3.8 N5 I1.3 
 0000027 291  .       .                        
 0000027 292  -----   -----                    
 0000027 300  DD2     Those                    Z5 Z8 
@@ -702,8 +712,8 @@
 0000029 050  VVI     persist                  T2++ 
 0000029 060  CC      or                       Z5 
 0000029 070  VVI     intensify                N5+/A2.1 
-0000029 080  MD      next                     T1.1.3[i26.2.1 N4 T1.3[i25.2.1 P1/S2mf[i25.2.1 
-0000029 090  NNT1    year                     T1.1.3[i26.2.2 T1.3 P1c T1.3[i25.2.2 P1/S2mf[i25.2.2 
+0000029 080  MD      next                     T1.1.3[i27.2.1 N4 T1.3[i26.2.1 P1/S2mf[i26.2.1 
+0000029 090  NNT1    year                     T1.1.3[i27.2.2 T1.3 P1c T1.3[i26.2.2 P1/S2mf[i26.2.2 
 0000029 091  ,       ,                        
 0000029 100  AT      the                      Z5 
 0000029 110  VVN     Fed                      F1 A9- S8+ M2@ 
@@ -722,10 +732,11 @@
 0000029 230  NN1     growth                   N3.2+/A2.1 A5.1+/A2.1 L3 B2- 
 0000029 240  VVD     portended                X2.6+ 
 0000029 250  II      by                       Z5 
-0000029 260  NN2     Trumps                   K5.2 S7.1+ 
+0000029 260  NN1     Trump                    Z1mf 
+0000029 261  GE      's                       Z5 
 0000029 270  NN1     plan                     X7+ C1/H1 
 0000029 280  VHZ     has                      Z5 A9+ A2.2 S4 
-0000029 281  XX      nt                       S9/Q4.1 Z3c 
+0000029 281  XX      n't                      Z6 
 0000029 290  RR      yet                      T1.1.2 
 0000029 300  VVN     materialized             A3+ A10+ 
 0000029 301  ,       ,                        

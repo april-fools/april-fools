@@ -1,4 +1,4 @@
-TOTAL              446
+TOTAL              453
 the                  AT             34 
 and                  CC             19 
 a                    AT1            15 
@@ -7,13 +7,15 @@ will                 VM             11
 for                  IF              9 
 project              NN1             9 
 hyperloop            NN1             7 
+'s                   GE              7 
+world                NN1             6 
 is                   VBZ             6 
 trans-eurasian       JJ              5 
 by                   II              5 
+Russia               NP1             5 
 be                   VBI             5 
 to                   II              5 
 that                 CST             5 
-world                NN1             4 
 to                   TO              4 
 of                   IO              4 
 it                   PPH1            4 
@@ -25,8 +27,9 @@ agreement            NN1             3
 trillion             NNO             3 
 next                 MD              3 
 years                NNT2            3 
-Russia               NP1             3 
+Musk                 NP1             3 
 believes             VVZ             3 
+Putin                NP1             3 
 are                  VBR             3 
 could                VM              2 
 connect              VVI             2 
@@ -36,7 +39,6 @@ route                NN1             2
 via                  II              2 
 or                   CC              2 
 between              II              2 
-Musk                 NP1             2 
 has                  VHZ             2 
 15%                  NNU             2 
 stake                NN1             2 
@@ -44,15 +46,14 @@ financing            NN1             2
 85%                  NNU             2 
 development          NN1             2 
 EU                   NP1             2 
+support              NN1             2 
 economic             JJ              2 
 people               NN              2 
 with                 IW              2 
 few                  DA2             2 
 bank                 NN1             2 
-worlds               NN2             2 
 annually             RR              2 
 expected             VVN             2 
-Russias              NP2             2 
 his                  APPGE           2 
 musk                 NN1             2 
 already              RR              2 
@@ -129,7 +130,6 @@ contribute           VVI             1
 key                  JJ              1 
 wholeheartedly       RR              1 
 expressed            VVN             1 
-support              NN1             1 
 which                DDQ             1 
 may                  VM              1 
 help                 VVI             1 
@@ -138,7 +138,7 @@ together             RL              1
 because_of           II21            1 
 long_term            JJ              1 
 benefits             NN2             1 
-putin                NN1             1 
+putin'               VVG             1 
 work                 NN1             1 
 flagging             JJ              1 
 bright               JJ              1 
@@ -174,8 +174,6 @@ bring                VVI             1
 image                NN1             1 
 courtesy             NN1             1 
 www.reuters.com      NNU             1 
-putins               NN2             1 
-support              VV0             1 
 seen                 VVN             1 
 as                   CSA             1 
 motivated            VVN             1 
@@ -187,7 +185,6 @@ falling              VVG             1
 oil                  NN1             1 
 prices               NN2             1 
 fortunately          RR              1 
-Putin                NP1             1 
 vast                 JJ              1 
 natural_resources    JJ              1 
 money                NN1             1 
@@ -196,7 +193,6 @@ this                 DD1             1
 size                 NN1             1 
 scope                NN1             1 
 change               VVI             1 
-Putins               NP2             1 
 legacy               NN1             1 
 put                  VVD             1 
 him                  PPHO1           1 
@@ -212,8 +208,7 @@ technology           NN1             1
 ready                JJ              1 
 deploy               VVI             1 
 several              DA2             1 
-musks                NN2             1 
-test                 VV0             1 
+test                 NN1             1 
 track                NN1             1 
 Texas                NP1             1 
 the_works            AT              1 

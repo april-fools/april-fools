@@ -1,4 +1,4 @@
-TOTAL              322
+TOTAL              323
 the                  AT             20 
 of                   IO             15 
 and                  CC             10 
@@ -70,8 +70,9 @@ producing            VVG             1
 foul-smelling        JJ              1 
 sulfur               NN1             1 
 compounds            NN2             1 
-its                  APPGE           1 
-estimated            JJ              1 
+it                   PPH1            1 
+'s                   VBZ             1 
+estimated            VVN             1 
 25_percent           MC              1 
 suffer               VV0             1 
 embarrassment        NN1             1 

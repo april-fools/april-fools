@@ -1,4 +1,4 @@
-TOTAL              304
+TOTAL              307
 the                  Z5                  13 
 snopes               Z99                 13 
 a                    Z5                  11 
@@ -6,11 +6,11 @@ of                   Z5                   7
 as                   Z5                   6 
 for                  Z5                   5 
 and                  Z5                   5 
+TheDC                Z99                  5 
 by                   Z5                   4 
 on                   Z5                   4 
 from                 Z5                   4 
 to                   Z5                   4 
-TheDC                Z99                  4 
 related              A2.2                 4 
 Facebook             Z3                   3 
 news                 X2.2+                3 
@@ -18,10 +18,11 @@ in                   Z5                   3
 it                   Z8                   3 
 daily_mail           Z3                   3 
 that                 Z5                   3 
-fact-checker         Z99                  3 
+'s                   Z5                   3 
 at                   Z5                   3 
 convention           A6.2+                3 
 mythbusting          Z99                  2 
+website              Y2                   2 
 was                  Z5                   2 
 one                  N1                   2 
 site                 M7                   2 
@@ -33,6 +34,7 @@ after                Z5                   2
 David_Mikkelson      Z1                   2 
 who                  Z8                   2 
 revealed             A10+                 2 
+fact-checker         Z99                  2 
 claimed              Q2.2                 2 
 has                  Z5                   2 
 fact-checking        Z99                  2 
@@ -51,7 +53,6 @@ daily                T1.1.2               2
 caller               Q1.3                 2 
 story                Q2.1                 2 
 founder              T2+                  1 
-website              Y2                   1 
 which                Z8                   1 
 recently             T3---                1 
 tapped               A1.1.1               1 
@@ -109,8 +110,8 @@ republicans          G1.2                 1
 fear                 E5-                  1 
 female               S2.1                 1 
 agency               I2.2                 1 
-websites             Y2                   1 
 political            G1.2                 1 
+fact-checker'        Z99                  1 
 is                   A3+                  1 
 just                 A14                  1 
 failed               X9.2-                1 
@@ -171,13 +172,12 @@ omits                A1.9                 1
 key                  A11.1+               1 
 details              A4.2+                1 
 protect              S8+                  1 
-Kerrys_state         Z2                   1 
-department           H2                   1 
+Kerry                Z2                   1 
+state_department     G1.1                 1 
 neither              Z6                   1 
 nor                  Z6                   1 
 returned             M1                   1 
-TheDCs               Z99                  1 
-request              Q2.2                 1 
+request              Q2.1                 1 
 comment              Q2.1                 1 
 regarding            Z5                   1 
 accusations          Q2.2                 1 

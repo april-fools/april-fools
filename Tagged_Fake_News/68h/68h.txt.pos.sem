@@ -16,5 +16,5 @@
 0000002 130  IO      OF                       Z5 
 0000002 140  NN1     CLIMATE                  W4 A1.1.1 E1 
 0000002 150  NN1     CHANGE                   A2.1+ I1 B1 
-0000002 160  NN1     HYSTERIA                 E1/A1.7- B2-/X1 
+0000002 160  NP1     HYSTERIA'                Z99 
 0000004 001  NULL    **8;7;text               

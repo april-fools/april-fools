@@ -1,20 +1,22 @@
-TOTAL              221
+TOTAL              228
 the                  AT             13 
 a                    AT1             9 
 and                  CC              8 
 to                   TO              7 
 will                 VM              6 
-its                  APPGE           5 
+what                 DDQ             5 
+it                   PPH1            4 
 if                   CS              4 
-what                 DDQ             4 
-brexit               VV0             4 
+its                  APPGE           4 
+'s                   VBZ             3 
+brexit               NN1             3 
 have                 VHI             3 
 be                   VBI             3 
-it                   PPH1            3 
-brexit               NN1             2 
+brexit               VV0             3 
 this                 DD1             2 
 left                 VVN             2 
 all                  DB              2 
+we                   PPIS2           2 
 still                RR              2 
 you                  PPY             2 
 of                   IO              2 
@@ -22,9 +24,8 @@ in                   II              2
 not                  XX              2 
 was                  VBDZ            2 
 might                VM              2 
-thats                NN2             2 
+that                 CST             2 
 about                II              2 
-over                 RP              2 
 means                VVZ             2 
 year                 NNT1            1 
 go                   VVI             1 
@@ -38,13 +39,13 @@ european_union       JJ              1
 although             CS              1 
 fair                 RR              1 
 probably             RR              1 
-wont                 JJ              1 
-feel_like            VV0             1 
+wo                   VM              1 
+n't                  XX              1 
+feel_like            VVI             1 
 because              CS              1 
 goes                 VVZ             1 
 according_to         II21            1 
 plan                 NN1             1 
-we                   PPIS2           1 
 immediately          RR              1 
 enter                VVI             1 
 two-year             JJ              1 
@@ -88,6 +89,7 @@ history              NN1             1
 so                   RR              1 
 call                 VVI             1 
 pre-anniversary      NN1             1 
+that                 DD1             1 
 word                 NN1             1 
 as                   II              1 
 media                NN              1 
@@ -103,8 +105,7 @@ columns              NN2             1
 last_week            MD              1 
 mark                 VVI             1 
 occasion             NN1             1 
-that                 CST             1 
-were                 VBDR            1 
+'re                  VBR             1 
 any                  RR              1 
 wiser                JJR             1 
 of_course            RR21            1 
@@ -120,6 +121,7 @@ mud                  NN1             1
 a_lot                AT1             1 
 could                VM              1 
 happen               VVI             1 
+over                 RP              1 
 coming               NN1             1 
 12                   MC              1 
 months               NNT2            1 
@@ -130,8 +132,9 @@ phrase               NN1             1
 with                 IW              1 
 Jon_Henley           NP1             1 
 chew                 VVI             1 
-whats                NN2             1 
-happened             VVD             1 
+over                 II              1 
+'s                   VHZ             1 
+happened             VVN             1 
 so_far               RG              1 
 take                 VV0             1 
 few                  DA2             1 
@@ -142,7 +145,8 @@ are                  VBR             1
 regular              JJ              1 
 pundits              NN2             1 
 Dan_Roberts          NP1             1 
-guardians            NN2             1 
+guardian             NN1             1 
+'s                   GE              1 
 policy               NN1             1 
 editor               NN1             1 
 Brussels             NP1             1 

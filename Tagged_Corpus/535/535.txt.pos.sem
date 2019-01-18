@@ -18,9 +18,10 @@
 0000002 140  NN1     trend                    A6.2+ A2.1+ 
 0000002 141  NULL    </quote>                 
 0000002 142  -----   -----                    
-0000002 150  NN2     thats                    Z5 Z8 A13.3 A6.1+ 
-0000002 151  NULL    <quote>                  
-0000002 152  -----   -----                    
+0000002 150  DD1     that                     Z8 Z5 
+0000002 151  VBZ     's                       A3+ Z5 
+0000002 152  NULL    <quote>                  
+0000002 153  -----   -----                    
 0000002 160  RR      extremely                A13.3 
 0000002 170  JJ      dangerous                A15- 
 0000002 180  II      to                       Z5 
@@ -34,7 +35,8 @@
 0000004 031  ,       ,                        
 0000004 040  MC1     one                      N1 T3 T1.2 
 0000004 050  IO      of                       Z5 
-0000004 060  NP2     Americas                 Z2 
+0000004 060  NP1     America                  Z2 
+0000004 061  GE      's                       Z5 
 0000004 070  JJ      dominant                 S7.1+ A11.1+ A11.2+ 
 0000004 080  NN1     television               Q4.3c[i4.2.1 Q4.3 
 0000004 090  NN1     station                  Q4.3c[i4.2.2 M3/H1c G2.1/H1c Q4.3 M7c S7.1@ 
@@ -74,8 +76,8 @@
 0000004 350  NN2     stories                  Q2.1 X4.1 
 0000004 360  CST     that                     Z8 Z5 
 0000004 370  RR      just                     A14 T3--- T1.3- N3.3--- 
-0000004 380  VB0     are                      A3+ Z5 
-0000004 381  XX      nt                       S9/Q4.1 Z3c 
+0000004 380  VBR     are                      A3+ Z5 
+0000004 381  XX      n't                      Z6 
 0000004 390  JJ      true                     A5.2+ A5.4+ 
 0000004 391  .       .                        
 0000004 392  NULL    </quote>                 
@@ -123,7 +125,8 @@
 0000006 340  NN1     foul                     K5.1/S7.4- 
 0000006 341  .       .                        
 0000007 001  -----   -----                    
-0000008 010  NP2     Sinclairs                Z1mf 
+0000008 010  NP1     Sinclair                 Z1mf 
+0000008 011  GE      's                       Z5 
 0000008 020  NN1     record                   Q1.2 K3 T1.1.1 A5.1+++ 
 0000008 030  IO      of                       Z5 
 0000008 040  NN1     broadcasting             Q4.3 
@@ -250,7 +253,8 @@
 0000010 580  NN1     debate                   Q2.2 
 0000010 590  II      on                       Z5 
 0000010 600  AT      the                      Z5 
-0000010 610  NN2     nations                  G1.1c S5+c 
+0000010 610  NN1     nation                   G1.1c S5+c 
+0000010 611  GE      's                       Z5 
 0000010 620  NN2     airwaves                 Q4.3 
 0000010 630  CS      until                    Z5 
 0000010 640  APPGE   its                      Z8 
@@ -279,7 +283,8 @@
 0000012 160  JJ      political                G1.2 
 0000012 170  NN1     discussion               Q2.1 Q2.2 
 0000012 180  II      on                       Z5 
-0000012 190  NP2     Americas                 Z2 
+0000012 190  NP1     America                  Z2 
+0000012 191  GE      's                       Z5 
 0000012 200  NN2     airwaves                 Q4.3 
 0000012 210  VV0@    mistake                  A5.3- 
 0000012 220  DDQ     what                     Z8 Z5 
@@ -354,6 +359,7 @@
 0000020 010  CSA     As                       Z5 
 0000020 020  NP1     Mitchell                 Z1mf[i14.2.1 Z3c[i14.2.1 Z1mf 
 0000020 030  NP1     Stephens                 Z1mf[i14.2.2 Z3c[i14.2.2 Z1m 
+0000020 031  GE      '                        Z5 
 0000020 040  JJ      new                      T3- 
 0000020 050  NN1     biography                Q4.1 
 0000020 060  IO      of                       Z5 
@@ -509,7 +515,8 @@
 0000028 340  JJ      American                 Z2 
 0000028 350  NN1     Federation               S5+c 
 0000028 360  IO      of                       Z5 
-0000028 370  NN2     Labors                   A1.1.1 A12- I3.1/S5+ B1 A1.1.1/A12- A11.1+/N5.2+ 
+0000028 370  NN1     Labor                    A1.1.1 A12- I3.1/S5+ B1 
+0000028 371  GE      's                       Z5 
 0000028 380  NP1     William                  Z2[i21.2.1 Z1m Z1mf[i22.2.1 Z3c[i22.2.1 
 0000028 390  NP1@    Green                    Z2[i21.2.2 Z1mf[i22.2.2 Z3c[i22.2.2 
 0000028 391  .       .                        
@@ -601,8 +608,9 @@
 0000030 390  CC      and                      Z5 
 0000030 391  NULL    <quote>                  
 0000030 392  -----   -----                    
-0000030 400  NP2     Americas                 Z2[i36.2.1 Z2 
-0000030 410  NN1     Town                     Z2[i36.2.2 M7 
+0000030 400  NP1     America                  Z2 
+0000030 401  GE      's                       Z5 
+0000030 410  NNL1    Town                     M7 
 0000030 420  NN1     Meeting                  S1.1.3+ S3.1 K5.1 S9 A1.1.1 X9.2+ A6.1+ 
 0000030 430  IO      of                       Z5 
 0000030 440  AT      the                      Z5 
@@ -656,19 +664,21 @@
 0000036 091  .       .                        
 0000036 092  -----   -----                    
 0000036 100  NP1     CBS                      Q1.3 
+0000036 101  GE      '                        Z5 
 0000036 110  RR      highly                   A13.3 
 0000036 120  VVN     rated                    A5.1 
 0000036 130  NN1     news                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
 0000036 140  NN1     commentator              Q2.2/S2mf 
 0000036 141  ,       ,                        
-0000036 150  NP1     Boake                    Z1mf[i37.2.1 Z3c[i37.2.1 
-0000036 160  NP1     Carter                   Z1mf[i37.2.2 Z3c[i37.2.2 Z1 
+0000036 150  NP1     Boake                    Z1mf[i36.2.1 Z3c[i36.2.1 
+0000036 160  NP1     Carter                   Z1mf[i36.2.2 Z3c[i36.2.2 Z1 
 0000036 161  ,       ,                        
 0000036 170  VHD     had                      Z5 A9+ A2.2 S4 
 0000036 180  RR      often                    N6+ 
 0000036 190  VVN     criticized               Q2.2/E2- 
 0000036 200  NNB     President                G1.1/S7.1+/S2mf 
-0000036 210  NP1     Roosevelts               Z99 
+0000036 210  NP1     Roosevelt                Z99 
+0000036 211  GE      's                       Z5 
 0000036 220  NN2     policies                 X7+ Q1.2 
 0000036 221  .       .                        
 0000036 222  -----   -----                    
@@ -679,7 +689,8 @@
 0000036 270  AT      the                      Z5 
 0000036 280  NN1     Anschluss                Z99 
 0000036 281  ,       ,                        
-0000036 290  NP2     Germanys                 Z2 
+0000036 290  NP1     Germany                  Z2 
+0000036 291  GE      's                       Z5 
 0000036 300  NN1     annexation               A9+ G1.2 G3 
 0000036 310  IO      of                       Z5 
 0000036 320  NP1     Austria                  Z2 Z1 
@@ -694,29 +705,31 @@
 0000036 400  NN2     policies                 X7+ Q1.2 
 0000036 401  ,       ,                        
 0000036 410  AT      the                      Z5 
-0000036 420  NP1     White                    Z3c[i38.2.1 Z2[i38.2.1 Z1mf 
-0000036 430  NN1     House                    Z3c[i38.2.2 Z2[i38.2.2 H1 P1/S5+c G1.1c 
+0000036 420  NP1     White                    Z3c[i37.2.1 Z2[i37.2.1 Z1mf 
+0000036 430  NN1     House                    Z3c[i37.2.2 Z2[i37.2.2 H1 P1/S5+c G1.1c 
 0000036 440  VVD     acted                    A1.1.1 T1.1.2 A8 K4 
 0000036 441  .       .                        
 0000037 001  -----   -----                    
 0000038 010  CSA     As                       Z5 
 0000038 020  NN      media                    Q4c 
 0000038 030  NN1     historian                P1/T1.1.1/S2mf 
-0000038 040  NP1     David                    Z1mf[i39.2.1 Z3c[i39.2.1 Z1m 
-0000038 050  NP1     Culbert                  Z1mf[i39.2.2 Z3c[i39.2.2 
+0000038 040  NP1     David                    Z1mf[i38.2.1 Z3c[i38.2.1 Z1m 
+0000038 050  NP1     Culbert                  Z1mf[i38.2.2 Z3c[i38.2.2 
 0000038 060  VVD     revealed                 A10+ 
 0000038 061  ,       ,                        
-0000038 070  NP2     Roosevelts               Z99 
+0000038 070  NP1     Roosevelt                Z99 
+0000038 071  GE      's                       Z5 
 0000038 080  NN1     adviser                  S8+/S2mf 
-0000038 090  NP1     Stephen                  Z2[i41.2.1 Z3c[i41.2.1 Z1mf[i41.2.1 Z1m Z1mf[i40.2.1 Z3c[i40.2.1 
-0000038 100  NP1     T.                       Z2[i41.2.2 Z3c[i41.2.2 Z1mf[i41.2.2 Z1mf[i40.2.2 Z3c[i40.2.2 
+0000038 090  NP1     Stephen                  Z2[i40.2.1 Z3c[i40.2.1 Z1mf[i40.2.1 Z1m Z1mf[i39.2.1 Z3c[i39.2.1 
+0000038 100  NP1     T.                       Z2[i40.2.2 Z3c[i40.2.2 Z1mf[i40.2.2 Z1mf[i39.2.2 Z3c[i39.2.2 
 0000038 110  RR      Early                    T4+ 
 0000038 120  RR      secretly                 A10- 
 0000038 130  VVD     contacted                Q2.2 
 0000038 140  NP1     CBS                      Q1.3 
 0000038 150  CC      and                      Z5 
-0000038 160  NP2     Carters                  Z1 
-0000038 170  VV0     sponsor                  A9-/I1.1 S8+ 
+0000038 160  NP1     Carter                   Z1 
+0000038 161  GE      's                       Z5 
+0000038 170  NN1     sponsor                  A9-/I1.1/S2mf S8+/S2mf 
 0000038 171  ,       ,                        
 0000038 180  JJ      General                  N5+ A4.2- 
 0000038 190  NN2     Foods                    F1 
@@ -734,7 +747,8 @@
 0000038 280  JJ      popular                  E2+ S5+ 
 0000038 290  NN1@    following                S5+ M1 N4 S7.1- X2.4 X2.5+ A6.1+ A1.1.1 A2.2 K5.1 
 0000038 291  ,       ,                        
-0000038 300  NP2     Carters                  Z1 
+0000038 300  NP1     Carter                   Z1 
+0000038 301  GE      's                       Z5 
 0000038 310  NP1     CBS                      Q1.3 
 0000038 320  NN1     contract                 I2.1 G2.1 
 0000038 330  VBDZ    was                      A3+ Z5 
@@ -749,7 +763,8 @@
 0000038 400  VVN     gone                     M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
 0000038 401  .       .                        
 0000039 001  -----   -----                    
-0000040 010  NN2     Broadcastings            Q4.3 
+0000040 010  NN1     Broadcasting             Q4.3 
+0000040 011  GE      's                       Z5 
 0000040 020  NN1     self-censorship          Z99 
 0000040 030  II      under                    Z5 
 0000040 040  NN1     government               G1.1c 
@@ -759,9 +774,9 @@
 0000040 080  AT      the                      Z5 
 0000040 090  NN1     start                    T2+ E5- 
 0000040 100  IO      of                       Z5 
-0000040 110  NN1     World                    Z3[i43.3.1 W1 S5+c A4.1 N5+ G3[i42.2.1 
-0000040 120  NN1     War                      Z3[i43.3.2 G3 S7.3 G3[i42.2.2 
-0000040 130  MC      II                       Z3[i43.3.3 N1 
+0000040 110  NN1     World                    Z3[i42.3.1 W1 S5+c A4.1 N5+ G3[i41.2.1 
+0000040 120  NN1     War                      Z3[i42.3.2 G3 S7.3 G3[i41.2.2 
+0000040 130  MC      II                       Z3[i42.3.3 N1 
 0000040 131  .       .                        
 0000040 132  -----   -----                    
 0000040 140  VVG     Circumscribing           A1.7+ 
@@ -788,9 +803,9 @@
 0000042 060  NN1     broadcasting             Q4.3 
 0000042 070  NN2     pioneers                 T2+/S2mf 
 0000042 080  CSA     as                       Z5 
-0000042 090  NP1     Edward                   Z1mf[i45.3.1 Z3c[i45.3.1 Z1m Z1mf[i44.2.1 Z3c[i44.2.1 
-0000042 100  NP1     R.                       Z1mf[i45.3.2 Z3c[i45.3.2 Z1mf[i44.2.2 Z3c[i44.2.2 Z1mf[i46.2.1 Z3c[i46.2.1 
-0000042 110  NP1     Murrow                   Z3c[i45.3.3 Z1mf[i45.3.3 Z1mf[i46.2.2 Z3c[i46.2.2 
+0000042 090  NP1     Edward                   Z1mf[i44.3.1 Z3c[i44.3.1 Z1m Z1mf[i43.2.1 Z3c[i43.2.1 
+0000042 100  NP1     R.                       Z1mf[i44.3.2 Z3c[i44.3.2 Z1mf[i43.2.2 Z3c[i43.2.2 Z1mf[i45.2.1 Z3c[i45.2.1 
+0000042 110  NP1     Murrow                   Z3c[i44.3.3 Z1mf[i44.3.3 Z1mf[i45.2.2 Z3c[i45.2.2 
 0000042 111  ,       ,                        
 0000042 120  JJ      subjective               E1 
 0000042 130  NN1     radio                    Q4.3 Q1.3 
@@ -824,10 +839,11 @@
 0000044 102  -----   -----                    
 0000044 110  DD1     That                     Z5 Z8 
 0000044 120  NNT1    year                     T1.3 P1c 
-0000044 130  NP1     Cecil                    Z1mf[i47.2.1 Z3c[i47.2.1 Z1mf 
-0000044 140  NP1     Brown                    Z1mf[i47.2.2 Z3c[i47.2.2 Z1mf 
+0000044 130  NP1     Cecil                    Z1mf[i46.2.1 Z3c[i46.2.1 Z1mf 
+0000044 140  NP1     Brown                    Z1mf[i46.2.2 Z3c[i46.2.2 Z1mf 
 0000044 141  ,       ,                        
-0000044 150  NP1     CBSs                     Z99 
+0000044 150  NP1     CBS                      Q1.3 
+0000044 151  GE      's                       Z5 
 0000044 160  JJ      top-rated                Z99 
 0000044 170  NN1     news                     X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
 0000044 180  NN1     analyst                  Y2/S2mf I2.1/S2mf Y1/S2mf B3/S2mf 
@@ -848,8 +864,8 @@
 0000044 280  TO      to                       Z5 
 0000044 290  VVI     criticize                Q2.2/E2- 
 0000044 300  AT      the                      Z5 
-0000044 310  NN1     war                      G3[i48.2.1 G3 S7.3 
-0000044 320  NN1     effort                   G3[i48.2.2 X8+ O2 
+0000044 310  NN1     war                      G3[i47.2.1 G3 S7.3 
+0000044 320  NN1     effort                   G3[i47.2.2 X8+ O2 
 0000044 330  PPHS1   he                       Z8m 
 0000044 340  VVD     witnessed                X3.4 G2.1 A10+@ S9 
 0000044 350  II      on                       Z5 
@@ -869,9 +885,9 @@
 0000044 460  AT1     a                        Z5 
 0000044 470  NN1     warning                  X2.2+/A15- A1.3+ 
 0000044 480  II      to                       Z5 
-0000044 490  AT1     every                    N5.1+[i49.3.1 N5.1+ 
-0000044 500  JJ      other                    N5.1+[i49.3.2 A6.1- 
-0000044 510  NN1     broadcast                N5.1+[i49.3.3 Q4.3 
+0000044 490  AT1     every                    N5.1+[i48.3.1 N5.1+ 
+0000044 500  JJ      other                    N5.1+[i48.3.2 A6.1- 
+0000044 510  NN1     broadcast                N5.1+[i48.3.3 Q4.3 
 0000044 520  NN1     commentator              Q2.2/S2mf 
 0000044 521  .       .                        
 0000045 001  -----   -----                    
@@ -891,17 +907,17 @@
 0000046 140  NN2     airwaves                 Q4.3 
 0000046 141  .       .                        
 0000046 142  -----   -----                    
-0000046 150  II31    In                       A2.2[i50.3.1 Z5 
-0000046 160  II32    response                 A2.2[i50.3.2 
-0000046 170  II33    to                       A2.2[i50.3.3 Z5 
+0000046 150  II31    In                       A2.2[i49.3.1 Z5 
+0000046 160  II32    response                 A2.2[i49.3.2 
+0000046 170  II33    to                       A2.2[i49.3.3 Z5 
 0000046 180  AT      the                      Z5 
 0000046 190  JJ@     Brown                    Z1mf 
 0000046 200  NN1     firing                   I3.1- G3 M2 A2.2 Q2.2 
 0000046 201  ,       ,                        
 0000046 210  NP1     FCC                      Z99 
 0000046 220  NN1     Chair                    H5 S7.1+mf P1 
-0000046 230  NP1     James                    Z1mf[i51.2.1 Z3c[i51.2.1 Z1m 
-0000046 240  NP1     Lawrence                 Z1mf[i51.2.2 Z3c[i51.2.2 Z1mf 
+0000046 230  NP1     James                    Z1mf[i50.2.1 Z3c[i50.2.1 Z1m 
+0000046 240  NP1     Lawrence                 Z1mf[i50.2.2 Z3c[i50.2.2 Z1mf 
 0000046 250  NN1     Fly                      L2 M5 
 0000046 260  VVD     criticized               Q2.2/E2- 
 0000046 270  DDQ     what                     Z8 Z5 
@@ -912,9 +928,10 @@
 0000046 311  .       .                        
 0000048 001  NULL    <quote>                  
 0000048 002  -----   -----                    
-0000048 010  APPGE   Its                      Z8 
-0000048 020  RR21    a                        A13.6[i52.2.1 N6-[i52.2.1 
-0000048 030  RR22    little                   A13.6[i52.2.2 N6-[i52.2.2 A13.7 
+0000048 010  PPH1    It                       Z8 
+0000048 011  VBZ     's                       A3+ Z5 
+0000048 020  RR21    a                        A13.6[i51.2.1 N6-[i51.2.1 
+0000048 030  RR22    little                   A13.6[i51.2.2 N6-[i51.2.2 A13.7 
 0000048 040  JJ      strange                  A6.2- 
 0000048 041  ,       ,                        
 0000048 042  NULL    </quote>                 
@@ -962,9 +979,9 @@
 0000050 160  NP1     U.S.                     Z8 
 0000050 170  NN2     broadcasters             Q4.3/S2mf 
 0000050 180  II      during                   Z5 
-0000050 190  NN1     World                    Z3[i54.3.1 W1 S5+c A4.1 N5+ G3[i53.2.1 
-0000050 200  NN1     War                      Z3[i54.3.2 G3 S7.3 G3[i53.2.2 
-0000050 210  MC      II                       Z3[i54.3.3 N1 
+0000050 190  NN1     World                    Z3[i53.3.1 W1 S5+c A4.1 N5+ G3[i52.2.1 
+0000050 200  NN1     War                      Z3[i53.3.2 G3 S7.3 G3[i52.2.2 
+0000050 210  MC      II                       Z3[i53.3.3 N1 
 0000050 211  .       .                        
 0000051 001  -----   -----                    
 0000052 010  IW      With                     Z5 
@@ -978,10 +995,11 @@
 0000052 080  NN1     support                  S8+ O2 I1.1 B5% 
 0000052 090  IO      of                       Z5 
 0000052 100  AT      the                      Z5 
-0000052 110  NN1     advertising              I2.2/S5+c[i55.2.1 I2.2/Q2.1 X2.2+ A10+ 
-0000052 120  NN1     community                I2.2/S5+c[i55.2.2 S5+c 
+0000052 110  NN1     advertising              I2.2/S5+c[i54.2.1 I2.2/Q2.1 X2.2+ A10+ 
+0000052 120  NN1     community                I2.2/S5+c[i54.2.2 S5+c 
 0000052 121  ,       ,                        
-0000052 130  NP2     Americas                 Z2 
+0000052 130  NP1     America                  Z2 
+0000052 131  GE      's                       Z5 
 0000052 140  NN2     broadcasters             Q4.3/S2mf 
 0000052 150  VVD     aimed                    X7+ M6 
 0000052 160  TO      to                       Z5 
@@ -1056,8 +1074,8 @@
 0000058 202  -----   -----                    
 0000058 210  EX      There                    Z5 
 0000058 220  VBDZ    was                      A3+ Z5 
-0000058 230  NP1     Joe                      Z1mf[i56.2.1 Z3c[i56.2.1 Z1m 
-0000058 240  NP1     Pyne                     Z1mf[i56.2.2 Z3c[i56.2.2 
+0000058 230  NP1     Joe                      Z1mf[i55.2.1 Z3c[i55.2.1 Z1m 
+0000058 240  NP1     Pyne                     Z1mf[i55.2.2 Z3c[i55.2.2 
 0000058 241  ,       ,                        
 0000058 250  DDQGE   whose                    Z8 
 0000058 260  NN1     show                     A8 K4 S1.1.1 I2.2/S1.1.1 
@@ -1070,8 +1088,8 @@
 0000058 330  VVD     attracted                O4.2+ S3.2 O3 
 0000058 340  AT1     a                        Z5 
 0000058 350  JJ@     reported                 Q2.2 
-0000058 360  MC      10                       N1[i57.2.1 T1.3[i57.2.1 I1[i57.2.1 N1 T1.2 T3 T1.3 N3.2 
-0000058 370  NNO     million                  N1[i57.2.2 T1.3[i57.2.2 I1[i57.2.2 N1 I1 
+0000058 360  MC      10                       N1[i56.2.1 T1.3[i56.2.1 I1[i56.2.1 N1 T1.2 T3 T1.3 N3.2 
+0000058 370  NNO     million                  N1[i56.2.2 T1.3[i56.2.2 I1[i56.2.2 N1 I1 
 0000058 380  NN2     viewers                  Q4.3/S2mf C1/S2mf O2 
 0000058 381  .       .                        
 0000058 382  -----   -----                    
@@ -1082,8 +1100,8 @@
 0000058 421  ,       ,                        
 0000058 430  NP1     Klansmen                 Z99 
 0000058 440  CC      and                      Z5 
-0000058 450  JJ      civil                    G1.2[i58.2.1 G1.1 S1.2.4+ G2.1 H1% 
-0000058 460  NN2     rights                   G1.2[i58.2.2 S7.4+ G2.2+ M6 G1.2 
+0000058 450  JJ      civil                    G1.2[i57.2.1 G1.1 S1.2.4+ G2.1 H1% 
+0000058 460  NN2     rights                   G1.2[i57.2.2 S7.4+ G2.2+ M6 G1.2 
 0000058 470  NN2     activists                G1.2/S2mf 
 0000058 480  PPHS1   he                       Z8m 
 0000058 490  VVD     invited                  Q2.2 
@@ -1121,9 +1139,10 @@
 0000058 751  .       .                        
 0000059 001  -----   -----                    
 0000060 010  RT      Then                     N4 Z5 T1.2 
-0000060 020  NN2     theres                   Z5 M6 T1.2 
-0000060 030  NP1     Bob                      Z1mf[i59.2.1 Z3c[i59.2.1 Z1 
-0000060 040  NP1     Grant                    Z1mf[i59.2.2 Z3c[i59.2.2 Z1mf 
+0000060 020  EX      there                    Z5 
+0000060 021  VBZ     's                       A3+ Z5 
+0000060 030  NP1     Bob                      Z1mf[i58.2.1 Z3c[i58.2.1 Z1 
+0000060 040  NP1     Grant                    Z1mf[i58.2.2 Z3c[i58.2.2 Z1mf 
 0000060 041  ,       ,                        
 0000060 050  PNQS    who                      Z8 
 0000060 060  VV0     broadcast                Q4.3 
@@ -1132,17 +1151,18 @@
 0000060 090  NN1     radio                    Q4.3 Q1.3 
 0000060 100  NN1     show                     A8 K4 S1.1.1 I2.2/S1.1.1 
 0000060 110  II      in                       Z5 
-0000060 120  NP1     New                      Z1mf[i61.3.1 Z3c[i61.3.1 Z1mf[i60.2.1 Z3c[i60.2.1 Z2[i62.2.1 
-0000060 130  NP1     York                     Z1mf[i61.3.2 Z3c[i61.3.2 Z2 Z1mf Z1mf[i60.2.2 Z3c[i60.2.2 Z2[i62.2.2 Z2[i63.2.1 Z3c[i63.2.1 Z1mf[i64.2.1 Z3c[i64.2.1 
-0000060 140  NN1     City                     Z3c[i61.3.3 Z1mf[i61.3.3 M7/I2.1c Z3c Z2[i63.2.2 Z3c[i63.2.2 Z1mf[i64.2.2 Z3c[i64.2.2 
+0000060 120  NP1     New                      Z1mf[i60.3.1 Z3c[i60.3.1 Z1mf[i59.2.1 Z3c[i59.2.1 Z2[i61.2.1 
+0000060 130  NP1     York                     Z1mf[i60.3.2 Z3c[i60.3.2 Z2 Z1mf Z1mf[i59.2.2 Z3c[i59.2.2 Z2[i61.2.2 Z2[i62.2.1 Z3c[i62.2.1 Z1mf[i63.2.1 Z3c[i63.2.1 
+0000060 140  NN1     City                     Z3c[i60.3.3 Z1mf[i60.3.3 M7/I2.1c Z3c Z2[i62.2.2 Z3c[i62.2.2 Z1mf[i63.2.2 Z3c[i63.2.2 
 0000060 150  II      throughout               Z5 
 0000060 160  AT      the                      Z5 
 0000060 170  MC2     1970s                    T1.3 N1 T3 
 0000060 171  .       .                        
 0000060 172  -----   -----                    
-0000060 180  NN2     Grants                   I1.1 A9+ 
-0000060 181  NULL    <quote>                  
-0000060 182  -----   -----                    
+0000060 180  NP1     Grant                    Z1mf 
+0000060 181  GE      's                       Z5 
+0000060 182  NULL    <quote>                  
+0000060 183  -----   -----                    
 0000060 190  JJ      arch                     X9.1+/E4.1+ A11.1+/S7.1+ 
 0000060 200  NN1     disdain                  S7.2- 
 0000060 210  IF      for                      Z5 
@@ -1171,9 +1191,9 @@
 0000060 363  -----   -----                    
 0000060 370  VVD     wrote                    Q1.2 I2.1 
 0000060 380  AT      The                      Z5 
-0000060 390  NP1     New                      Z3c[i68.3.1 Z1mf[i66.3.1 Z3c[i66.3.1 Z1mf[i65.2.1 Z3c[i65.2.1 Z2[i67.2.1 
-0000060 400  NP1     York                     Z3c[i68.3.2 Z2 Z1mf Z1mf[i66.3.2 Z3c[i66.3.2 Z1mf[i65.2.2 Z3c[i65.2.2 Z2[i67.2.2 Z1mf[i69.2.1 Z3c[i69.2.1 
-0000060 410  NNT2    Times                    Z3c[i68.3.3 Z3 Z3c[i66.3.3 Z1mf[i66.3.3 Z1mf[i69.2.2 Z3c[i69.2.2 
+0000060 390  NP1     New                      Z3c[i67.3.1 Z1mf[i65.3.1 Z3c[i65.3.1 Z1mf[i64.2.1 Z3c[i64.2.1 Z2[i66.2.1 
+0000060 400  NP1     York                     Z3c[i67.3.2 Z2 Z1mf Z1mf[i65.3.2 Z3c[i65.3.2 Z1mf[i64.2.2 Z3c[i64.2.2 Z2[i66.2.2 Z1mf[i68.2.1 Z3c[i68.2.1 
+0000060 410  NNT2    Times                    Z3c[i67.3.3 Z3 Z3c[i65.3.3 Z1mf[i65.3.3 Z1mf[i68.2.2 Z3c[i68.2.2 
 0000060 411  ,       ,                        
 0000060 412  NULL    <quote>                  
 0000060 413  -----   -----                    
@@ -1204,19 +1224,19 @@
 0000062 111  NULL    <quote>                  
 0000062 112  -----   -----                    
 0000062 120  NP1     CBS                      Q1.3 
-0000062 130  NNT1    Evening                  Z3c[i70.2.1 T1.3 
-0000062 140  NN1     News                     Z3c[i70.2.2 X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
+0000062 130  NNT1    Evening                  Z3c[i69.2.1 T1.3 
+0000062 140  NN1     News                     Z3c[i69.2.2 X2.2+/T3- X2.2+/Q4.2 X2.2+/Q4.3 
 0000062 141  NULL    </quote>                 
 0000062 142  -----   -----                    
-0000062 150  VVN     brought                  M2/N6+[i71.2.1 T2+/N6+[i71.2.1 M2[i71.2.1 M2 A2.2 
-0000062 160  RP      back                     M2/N6+[i71.2.2 T2+/N6+[i71.2.2 M2[i71.2.2 M6 N6+ T1.1.1 S1.1.2+ 
+0000062 150  VVN     brought                  M2/N6+[i70.2.1 T2+/N6+[i70.2.1 M2[i70.2.1 M2 A2.2 
+0000062 160  RP      back                     M2/N6+[i70.2.2 T2+/N6+[i70.2.2 M2[i70.2.2 M6 N6+ T1.1.1 S1.1.2+ 
 0000062 170  NN1     commentary               Q2.1 
 0000062 171  ,       ,                        
 0000062 180  IW      with                     Z5 
 0000062 190  JJ      veteran                  G3/S2mf T3+/S2mf 
 0000062 200  NN1     journalist               Q4.2/I3.2/S2mf 
-0000062 210  NP1     Eric                     Z1mf[i72.2.1 Z3c[i72.2.1 Z1m 
-0000062 220  NP1     Sevareid                 Z1mf[i72.2.2 Z3c[i72.2.2 
+0000062 210  NP1     Eric                     Z1mf[i71.2.1 Z3c[i71.2.1 Z1m 
+0000062 220  NP1     Sevareid                 Z1mf[i71.2.2 Z3c[i71.2.2 
 0000062 230  VVG     providing                A9- 
 0000062 240  NN1     perspective              X4.1 C1 
 0000062 250  II      on                       Z5 
@@ -1227,7 +1247,8 @@
 0000062 300  NN1     weeknight                Z99 
 0000062 301  .       .                        
 0000063 001  -----   -----                    
-0000064 010  VV0     Im                       Z99 
+0000064 010  PPIS1   I                        Z8mf 
+0000064 011  VBM     'm                       Z5 A3+ 
 0000064 020  XX      not                      Z6 
 0000064 030  VVG     equating                 A6.1+ 
 0000064 040  AT      the                      Z5 
@@ -1239,12 +1260,13 @@
 0000064 090  NN1     commentary               Q2.1 
 0000064 100  VVN     offered                  A9- Q2.2 
 0000064 110  II      by                       Z5 
-0000064 120  NP1     Eric                     Z1mf[i73.2.1 Z3c[i73.2.1 Z1m 
-0000064 130  NP1     Sevareid                 Z1mf[i73.2.2 Z3c[i73.2.2 
+0000064 120  NP1     Eric                     Z1mf[i72.2.1 Z3c[i72.2.1 Z1m 
+0000064 130  NP1     Sevareid                 Z1mf[i72.2.2 Z3c[i72.2.2 
 0000064 140  II      to                       Z5 
 0000064 150  NP1     Sinclair                 Z1mf 
 0000064 160  NN1     Broadcast                Q4.3 
-0000064 170  NN2     Groups                   S5+ A4.1 B3% 
+0000064 170  NN1     Group                    S5+c A4.1c B3% 
+0000064 171  GE      's                       Z5 
 0000064 180  JJ      transparent              O4.3 
 0000064 190  JJ      political                G1.2 
 0000064 200  NN1     advocacy                 Q2.2/G2.1 Q2.2 
@@ -1323,7 +1345,8 @@
 0000067 001  -----   -----                    
 0000068 010  PPIS1   I                        Z8mf 
 0000068 020  VV0     believe                  X2.1 S9% 
-0000068 030  NP2     Sinclairs                Z1mf 
+0000068 030  NP1     Sinclair                 Z1mf 
+0000068 031  GE      's                       Z5 
 0000068 040  NN1     management               S7.1+c 
 0000068 050  VHZ     has                      Z5 A9+ A2.2 S4 
 0000068 060  VVN     identified               X2.2+ A10+ X2.5+ 
@@ -1381,7 +1404,8 @@
 0000070 040  RR      closely                  A13.4 A4.2+ N3.3- 
 0000070 050  VVZ     aligns                   M2 S5+ A6.1+/A2.1 
 0000070 060  IW      with                     Z5 
-0000070 070  NP2     Sinclairs                Z1mf 
+0000070 070  NP1     Sinclair                 Z1mf 
+0000070 071  GE      's                       Z5 
 0000070 080  JJ      current                  T1.1.2 
 0000070 090  JJ      political                G1.2 
 0000070 100  CC      and                      Z5 
@@ -1401,7 +1425,8 @@
 0000070 220  RGR     more                     A13.3 
 0000070 230  JJ      effective                X9.2+ 
 0000070 240  II      from                     Z5 
-0000070 250  NP2     Sinclairs                Z1mf 
+0000070 250  NP1     Sinclair                 Z1mf 
+0000070 251  GE      's                       Z5 
 0000070 260  NN1     perspective              X4.1 C1 
 0000070 261  .       .                        
 0000071 001  -----   -----                    
@@ -1429,7 +1454,8 @@
 0000072 210  NN1     purchase                 I2.2 
 0000072 220  IO      of                       Z5 
 0000072 230  NN1     Tribune                  Z3/Q4.2 
-0000072 240  NN2     Broadcastings            Q4.3 
+0000072 240  NN1     Broadcasting             Q4.3 
+0000072 241  GE      's                       Z5 
 0000072 250  MC      42                       N1 T1.2 T3 T1.3 N3.2 
 0000072 260  NN2     stations                 M3/H1c G2.1/H1c Q4.3 M7c S7.1@ 
 0000072 261  ,       ,                        

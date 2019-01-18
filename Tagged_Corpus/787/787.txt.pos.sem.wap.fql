@@ -1,8 +1,8 @@
-TOTAL              435
+TOTAL              437
 the                  AT             41 
 of                   IO             19 
 in                   II             13 
-that                 CST            10 
+that                 CST            11 
 co                   FO              9 
 2                    MC              9 
 a                    AT1             8 
@@ -50,6 +50,7 @@ around               II              2
 world                NN1             2 
 records              NN2             2 
 first                MD              2 
+'s                   VBZ             2 
 says                 VVZ             2 
 was                  VBDZ            2 
 out_of               II21            2 
@@ -135,11 +136,9 @@ life                 NN1             1
 effort               NN1             1 
 get                  VVI             1 
 most                 DAT             1 
-thats                VVZ             1 
 out_there            RP              1 
 together             RL              1 
 shakun               NN1             1 
-'s                   VBZ             1 
 hard                 JJ              1 
 empirical            JJ              1 
 proof                NN1             1 
@@ -171,7 +170,8 @@ deglaciation         NN1             1
 shows                VVZ             1 
 probably             RR              1 
 triggered            VVN             1 
-earths               NN2             1 
+earth                NN1             1 
+'s                   GE              1 
 orbit                NN1             1 
 subsequent           JJ              1 
 shifts               NN2             1 

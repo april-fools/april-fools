@@ -1,4 +1,4 @@
-TOTAL             2162
+TOTAL             2187
 the                  AT            123 
 of                   IO             82 
 and                  CC             58 
@@ -10,20 +10,22 @@ in                   II             30
 he                   PPHS1          30 
 had                  VHD            26 
 that                 CST            26 
-it                   PPH1           23 
+it                   PPH1           24 
 with                 IW             22 
+Conan                NP1            20 
+'s                   GE             20 
 to                   II             20 
-i                    PPIS1          19 
+i                    PPIS1          20 
 you                  PPY            19 
 are                  VBR            17 
-Conan                NP1            15 
 been                 VBN            12 
+Howard               NP1            12 
 who                  PNQS           12 
+manuscript           NN1            11 
 not                  XX             11 
 at                   II             11 
 him                  PPHO1          11 
 an                   AT1            10 
-manuscript           NN1            10 
 for                  IF             10 
 be                   VBI            10 
 is                   VBZ             9 
@@ -31,7 +33,6 @@ have                 VHI             9
 father               NN1             8 
 as                   CSA             8 
 but                  CCB             8 
-Howard               NP1             8 
 by                   II              8 
 these                DD2             8 
 more                 RGR             8 
@@ -63,12 +64,10 @@ between              II              5
 Cimmeria             NP1             5 
 them                 PPHO2           5 
 which                DDQ             5 
-Conans               NP2             5 
 than                 CSN             5 
 king                 NN1             5 
 your                 APPGE           5 
 can                  VM              5 
-Howards              NP2             4 
 trunk                NN1             4 
 early                JJ              4 
 however              RR              4 
@@ -93,6 +92,7 @@ fantasy              NN1             3
 place                NN1             3 
 handwriting          NN1             3 
 asked                VVN             3 
+Angell               NP1             3 
 person               NN1             3 
 very                 RG              3 
 when                 RRQ             3 
@@ -105,6 +105,7 @@ attempting           VVG             3
 well                 RR              3 
 if                   CS              3 
 sense                NN1             3 
+n't                  XX              3 
 sword                NN1             3 
 here                 RL              3 
 born                 VVN             3 
@@ -113,6 +114,7 @@ attention            NN1             3
 more                 DAR             3 
 should               VM              3 
 himself              PPX1            3 
+there                EX              3 
 from                 II              3 
 though               CS              3 
 any                  DD              3 
@@ -155,6 +157,7 @@ light                NN1             2
 unknown              JJ              2 
 how                  RRQ             2 
 clear                JJ              2 
+Miss_Austen          NNB             2 
 being                VBG             2 
 gothic               JJ              2 
 romances             NN2             2 
@@ -164,7 +167,7 @@ such                 DA              2
 when                 CS              2 
 Torrens              NP1             2 
 sensibility          NN1             2 
-nt                   XX              2 
+we                   PPIS2           2 
 sorcery              NN1             2 
 chapter              NN1             2 
 #                    FO              2 
@@ -175,7 +178,6 @@ his_own              APPGE           2
 disposition          NN1             2 
 against              II              2 
 into                 II              2 
-aquilonians          NN2             2 
 thin                 JJ              2 
 skin                 NN1             2 
 mind                 NN1             2 
@@ -194,7 +196,6 @@ saw                  VVD             2
 aquilonian           JJ              2 
 gone                 VVN             2 
 soldier              NN1             2 
-there                EX              2 
 else                 RR              2 
 state                NN1             2 
 stood                VVD             2 
@@ -237,11 +238,12 @@ dark                 JJ              2
 found                VVN             2 
 pen                  NN1             2 
 shall                VM              2 
-Numas                NP2             2 
+Numa                 NP1             2 
 daughters            NN2             2 
 marry                VVI             2 
 fate                 NN1             2 
 text                 NN1             2 
+'s                   VBZ             2 
 death                NN1             1 
 1936                 MC              1 
 thirty-year-old      JJ              1 
@@ -270,7 +272,7 @@ established          VVN             1
 reputation           NN1             1 
 heroic               JJ              1 
 parallel             RR              1 
-J.R.R._Tolkiens      NP1             1 
+J.R.R._Tolkien       NP1             1 
 epic                 JJ              1 
 while                CS              1 
 extraordinarily      RR              1 
@@ -317,7 +319,6 @@ already              RR              1
 filled               VVN             1 
 twists               NN2             1 
 turns_out            VVZ             1 
-Angell               NP1             1 
 said                 VVD             1 
 next                 MD              1 
 biggest              JJT             1 
@@ -330,7 +331,6 @@ elegant              JJ              1
 mannered             JJ              1 
 voice                NN1             1 
 pointed              VVD             1 
-Angells              NP1             1 
 conclusion           NN1             1 
 threatened           VVD             1 
 shake                VVI             1 
@@ -350,7 +350,6 @@ noted                JJ              1
 expert               NN1             1 
 Stephanie_Johansen   NP1             1 
 confirmed            VVD             1 
-angells              VVZ             1 
 hunch                NN1             1 
 correct              JJ              1 
 Johansen             NP1             1 
@@ -373,7 +372,6 @@ archives             NN2             1
 London               NP1             1 
 verified             VVD             1 
 watermarks           NN2             1 
-manuscripts          NN2             1 
 indicated            VVD             1 
 origin               NN1             1 
 England              NP1             1 
@@ -409,7 +407,6 @@ piece                NN1             1
 juvenilia            NN1             1 
 surprising           JJ              1 
 influence            NN1             1 
-Miss_Austens         NNB             1 
 fact                 NN1             1 
 scratching           VVG             1 
 heads                NN2             1 
@@ -422,8 +419,8 @@ career               NN1             1
 including            II              1 
 standard             JJ              1 
 belief               NN1             1 
-novelists            NN2             1 
-focus                VV0             1 
+novelist             NN1             1 
+focus                NN1             1 
 writing              VVG             1 
 naturalistic         JJ              1 
 reaction             NN1             1 
@@ -469,7 +466,7 @@ ground               NN1             1
 taken_off            VVN             1 
 knows                VVZ             1 
 where                RRQ             1 
-wed                  VVN             1 
+'d                   VM              1 
 in_the_same_vein     II              1 
 adult                NN1             1 
 works                VVZ             1 
@@ -477,7 +474,6 @@ Pride                NP1             1
 prejudice            NN1             1 
 titled               VVN             1 
 for_the_first_time   IF              1 
-we                   PPIS2           1 
 offer                VV0             1 
 transcription        NN1             1 
 lost                 JJ              1 
@@ -514,6 +510,7 @@ Aryas                NP2             1
 killed               VVN             1 
 marauding            JJ              1 
 hordes               NN2             1 
+aquilonians          NN2             1 
 leaving              VVG             1 
 thus                 RR              1 
 orphan               NN1             1 
@@ -551,11 +548,12 @@ gallantry            NN1             1
 small                JJ              1 
 boy                  NN1             1 
 caught               VVD             1 
+aquilonian           NN1             1 
 leader               NN1             1 
 took_up              VVD             1 
 intention            NN1             1 
 adopting             VVG             1 
-King_Numedidess      NNB             1 
+King_Numedides       NNB             1 
 own                  DA              1 
 lost                 VVN             1 
 pox                  NN1             1 
@@ -876,7 +874,7 @@ seek                 VVI             1
 bride                NN1             1 
 exiled               JJ              1 
 nobility             NN1             1 
-darcians             NN2             1 
+Darcian              NP1             1 
 agreeable            JJ              1 
 laughter             NN1             1 
 filled               VVD             1 
@@ -901,7 +899,6 @@ flattery             NN1             1
 do                   VDI             1 
 inclination          NN1             1 
 recognize            VV0             1 
-Miss_Austen          NNB             1 
 uses                 VVZ             1 
 themes               NN2             1 
 motifs               NN2             1 
@@ -921,15 +918,15 @@ reading              VVG             1
 fell                 VVD             1 
 out_of               II21            1 
 chair                NN1             1 
-cant                 JJ              1 
-imagine              VV0             1 
+ca                   VM              1 
+imagine              VVI             1 
 seeing               VVG             1 
 forbearer            NN1             1 
 appear               VV0             1 
 Regency              NP1             1 
 many                 DA2             1 
 things               NN2             1 
-id                   NN1             1 
+'d                   VHD             1 
 dedication           NN1             1 
 cut                  VVI             1 
 know                 VVI             1 
@@ -948,14 +945,12 @@ editing              VVG             1
 publication          NN1             1 
 future               JJ              1 
 study                NN1             1 
-its                  APPGE           1 
 incredible           JJ              1 
 tale                 NN1             1 
-bulging              VVG             1 
+bulging              JJ              1 
 pecs                 NN2             1 
 straight-backed      JJ              1 
 ladies               NN2             1 
 tea                  NN1             1 
-theres               NN2             1 
 something            PN1             1 
 everyone             PN1             1 

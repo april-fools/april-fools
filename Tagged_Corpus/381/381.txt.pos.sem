@@ -30,7 +30,8 @@
 0000002 250  NN1     investigation            X2.4 B3 
 0000002 260  II      from                     Z5 
 0000002 270  AT      the                      Z5 
-0000002 280  NN2     Zoos                     M7/L2 
+0000002 280  NN1     Zoo                      M7/L2 
+0000002 281  GE      's                       Z5 
 0000002 290  JJ      veterinary               L2 
 0000002 300  NN      staff                    I3.1/S2mfc B3/S2mf G3/S2c L2mfn I3.1 
 0000002 310  AT      the                      Z5 
@@ -49,7 +50,8 @@
 0000002 420  NN1     health                   B2+[i4.3.3 B2 X9.2 
 0000002 421  .       .                        
 0000002 422  -----   -----                    
-0000002 430  NP2     Geralds                  Z1m 
+0000002 430  NP1     Gerald                   Z1m 
+0000002 431  GE      's                       Z5 
 0000002 440  JJ      only                     A14 
 0000002 450  NN1     injury                   B2- A1.1.2 E1 
 0000002 460  VVZ     seems                    A8 
@@ -111,7 +113,8 @@
 0000002 960  VBG     being                    A3+ Z5 
 0000002 970  RR      almost                   A13.4 
 0000002 980  RR      twice                    N6 
-0000002 990  NP2     Geralds                  Z1m 
+0000002 990  NP1     Gerald                   Z1m 
+0000002 991  GE      's                       Z5 
 0000002 000  NN1     size                     N3.2 N5 N3.1 O4.1 
 0000002 001  .       .                        
 0000002 002  -----   -----                    
@@ -157,7 +160,8 @@
 0000005 140  VVN     occurred                 A2.1+ A3+ X2.1 
 0000005 150  II      during                   Z5 
 0000005 160  AT      The                      Z5 
-0000005 170  NN2     Zoos                     M7/L2 
+0000005 170  NN1     Zoo                      M7/L2 
+0000005 171  GE      's                       Z5 
 0000005 180  JJ      Annual                   N6+ 
 0000005 190  NN1     Piggyback                Z99 
 0000005 200  NN1     Race                     K5.1 S7.3+ S5+c 
@@ -318,7 +322,8 @@
 0000011 081  .       .                        
 0000012 001  -----   -----                    
 0000014 010  AT      The                      Z5 
-0000014 020  NN2     Zoos                     M7/L2 
+0000014 020  NN1     Zoo                      M7/L2 
+0000014 021  GE      's                       Z5 
 0000014 030  JJ      Annual                   N6+ 
 0000014 040  NN1     Piggyback                Z99 
 0000014 050  NN1     Race                     K5.1 S7.3+ S5+c 

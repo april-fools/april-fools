@@ -9,6 +9,6 @@
 0000002 060  NP1@    Dec                      Z3c 
 0000002 070  VVZ     reinvents                N6+/X2.1 
 0000002 080  NN1     self                     S5- 
-0000002 090  II@     as                       Z5 
-0000002 100  NPM1    Dec                      Z3c 
+0000002 090  CSA     as                       Z5 
+0000002 100  NP1     Dec'                     Z99 
 0000004 001  NULL    **8;7;text               
