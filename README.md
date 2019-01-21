@@ -1,5 +1,5 @@
 # april-fools
-Code submission to go alongside paper: "Fools' Gold: Understanding the Linguistic Features of Deception and Humour Through April Fools' Hoaxes".
+Code submission to go alongside paper: "Fool’s Errand: Looking at April Fools Hoaxes as Disinformation through the Lens of Deception and Humour".
 
 Contained in the "System" folder is the code we used to gather features and create feature tables.
 
