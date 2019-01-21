@@ -3,6 +3,7 @@ from bag_of_x import make_bag
 from bag_of_x import get_bag_of_x
 
 
+# Corpus in which the features are bag-of-x features, e.g. bag-of-words, bag-of-pos
 class CorpusBags(Corpus):
     def __init__(self, articles, kind='bow'):
         Corpus.__init__(self, articles)

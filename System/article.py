@@ -2,6 +2,7 @@ import os
 import re
 
 
+# reads in fql files from CLAWS and USAS output.
 def process_fql(text):
     pattern = re.compile('(\S+)\s+(\S+)')
     counts = dict()
@@ -14,6 +15,7 @@ def process_fql(text):
     return counts
 
 
+# combines two frequency lists together. (e.g. Body freqs + headline freqs)
 def combine_freqs(freq1, freq2):
     freq = freq1.copy()
     for item in freq2.keys():
@@ -24,6 +26,7 @@ def combine_freqs(freq1, freq2):
     return freq
 
 
+# represents a single article in the corpus.
 class Article(object):
     def __init__(self, i, folder, af_val, headline, train_test):
         self.index = i
@@ -42,6 +45,7 @@ class Article(object):
 
         head_folder = folder + "h"
 
+        # Read in body frequency lists.
         for subdir, dirs, files in os.walk(folder):
             for f in files:
                 with open(os.path.join(subdir, f)) as file:
@@ -55,6 +59,7 @@ class Article(object):
                     if f.__contains__("sem.fql"):
                         self.body_sem_fql = process_fql(content)
 
+        # Read in headline frequency lists.
         for subdir, dirs, files in os.walk(head_folder):
             for f in files:
                 with open(os.path.join(subdir, f)) as file:
@@ -66,6 +71,7 @@ class Article(object):
                     if f.__contains__("sem.fql"):
                         self.head_sem_fql = process_fql(content)
 
+        # Combine head and body.
         self.wrd_fql = combine_freqs(self.body_wrd_fql, self.head_wrd_fql)
         self.pos_fql = combine_freqs(self.body_pos_fql, self.head_pos_fql)
         self.sem_fql = combine_freqs(self.body_sem_fql, self.head_sem_fql)

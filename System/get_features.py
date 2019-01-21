@@ -6,7 +6,6 @@ import os
 import spacy
 from nltk.corpus import wordnet
 from textstat.textstat import textstat
-from visualise_sentiment import VaderBreakdown
 from nltk.tokenize import word_tokenize
 from nltk import bigrams
 import nltk

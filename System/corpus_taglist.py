@@ -3,6 +3,7 @@ from bag_of_x import get_bag_feats
 from bag_of_x import remove_ditto
 
 
+# Corpus for which each feature is the count of a certain tag, can be words or PoS, etc.
 class CorpusTagList(Corpus):
     def __init__(self, articles, taglist, kind="wordlist"):
         Corpus.__init__(self, articles)

@@ -1,6 +1,7 @@
 import re
 
 
+# get a combined bag of words, pos, and semantic tags
 def get_bag_of_x(article, words, pos, sem, kind='bow'):
     bow = get_bag_feats(article.wrd_fql, words)
     bop = get_bag_feats(article.pos_fql, pos)
@@ -15,6 +16,7 @@ def get_bag_of_x(article, words, pos, sem, kind='bow'):
     return out
 
 
+# get a bag of x from a given set of tags to look for and also all the tags.
 def get_bag_feats(tags, bag):
     features = dict()
     for tag in bag:
@@ -25,6 +27,7 @@ def get_bag_feats(tags, bag):
     return features
 
 
+# create a bag of the 1000 most popular tags.
 def make_bag(freqs):
     sums = dict()
     for a in freqs:
@@ -39,6 +42,7 @@ def make_bag(freqs):
     return bag
 
 
+# remove ditto tags given by CLAWS to multi-word expressions.
 def remove_ditto(tags):
     reg_ditto = r'[A-Z]+[1-9]*\d\d'
     out = dict()

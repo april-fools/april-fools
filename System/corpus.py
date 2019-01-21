@@ -2,7 +2,7 @@ from article import Article
 from get_features import get_features
 import numpy as np
 
-
+# Represents the entire corpus of articles.
 class Corpus(object):
     def __init__(self, articles):
         self.train_feats = []
@@ -12,6 +12,7 @@ class Corpus(object):
         self.feat_groups = dict()
         self.feat_names = []
 
+    # Returns the training table.
     def get_training_table(self):
         table = []
         for row in self.train_feats:
@@ -22,6 +23,7 @@ class Corpus(object):
         table = np.array(table)
         return table
 
+    # Returns the testing table.
     def get_testing_table(self):
         table = []
         for row in self.test_feats:

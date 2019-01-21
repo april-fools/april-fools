@@ -3,11 +3,12 @@ from get_features import get_features
 import numpy as np
 
 
+# Corpus in which the features to be gathered are the ones in the hoax set.
 class CorpusFeats(Corpus):
     def __init__(self, articles):
         Corpus.__init__(self, articles)
         for article in articles:
-            features = get_features(article)
+            features = get_features(article)    # Get the feature values for the current article.
             if article.train:                   # put feature dict in either testing or training.
                 self.train_feats.append(features)
                 self.train_articles.append(article)  # keep a list of all articles in the training set.
